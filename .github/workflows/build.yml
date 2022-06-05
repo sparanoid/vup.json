@@ -51,12 +51,11 @@ jobs:
         source .venv/bin/activate
         python main.py
 
-    - name: Upload results
-      uses: actions/upload-artifact@v3
-      with:
-        name: result
-        path: vup.json
-        if-no-files-found: error
+    - name: Check if vup.json updated
+      id: git
+      run: |
+        echo "$(git --no-pager diff --name-only | grep -E '^(vup.json)')"
+        echo "::set-output name=file_changes::$(git --no-pager diff --name-only | grep -E '^(vup.json)')"
 
     - name: Import GPG key
       id: import_gpg
@@ -78,3 +77,11 @@ jobs:
         commit_user_email: bot@sparanoid.com
         commit_author: Sparanoid Bot <bot@sparanoid.com>
         branch: master
+
+    - name: Notify bilibili-space
+      if: ${{ github.event_name != 'pull_request' && steps.git.outputs.file_changes }}
+      run: |
+        curl -X POST -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: Bearer ${{ secrets.PAT_SPARANOID }}" \
+          https://api.github.com/repos/sparanoid/bilibili-space/dispatches \
+          -d '{"event_type":"webhook"}'
