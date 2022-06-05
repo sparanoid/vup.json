@@ -54,8 +54,8 @@ jobs:
     - name: Check if vup.json updated
       id: git
       run: |
-        echo "$(git --no-pager diff --name-only | grep -E '^(vup.json)')"
-        echo "::set-output name=file_changes::$(git --no-pager diff --name-only | grep -E '^(vup.json)')"
+        echo "$(git --no-pager diff --name-only | grep -E '^(dist/vup.json)')"
+        echo "::set-output name=file_changes::$(git --no-pager diff --name-only | grep -E '^(dist/vup.json)')"
 
     - name: Import GPG key
       id: import_gpg

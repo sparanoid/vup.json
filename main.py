@@ -25,8 +25,8 @@ for user in vtbs:
             sign = user['sign'],
         )
 
-with open('vup.json', 'w') as file:
+with open('dist/vup.json', 'w') as file:
     file.write(json.dumps(vup, indent=2, ensure_ascii=False))
 
-with open('vup-desc.json', 'w') as file:
+with open('dist/vup-desc.json', 'w') as file:
     file.write(json.dumps(vup_desc, indent=2, ensure_ascii=False))
