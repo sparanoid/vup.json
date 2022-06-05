@@ -27,6 +27,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        poetry install
     - name: Update list
       run: |
         python main.py
