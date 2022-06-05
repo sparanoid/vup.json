@@ -57,3 +57,24 @@ jobs:
         name: result
         path: vup.json
         if-no-files-found: error
+
+    - name: Import GPG key
+      id: import_gpg
+      uses: crazy-max/ghaction-import-gpg@v4
+      if: github.event_name != 'pull_request'
+      with:
+        gpg_private_key: ${{ secrets.GPG_KEY }}
+        passphrase: ${{ secrets.GPG_PASSPHRASE }}
+        git_user_signingkey: true
+        git_commit_gpgsign: true
+        git_tag_gpgsign: true
+
+    - uses: signcl/git-auto-commit-action@master
+      if: github.event_name != 'pull_request'
+      with:
+        commit_message: "chore: update list"
+        commit_options: "-S"
+        commit_user_name: Sparanoid Bot
+        commit_user_email: bot@sparanoid.com
+        commit_author: Sparanoid Bot <bot@sparanoid.com>
+        branch: master
