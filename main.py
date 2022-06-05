@@ -1,5 +1,6 @@
 import json
 import httpx
+from urllib.parse import urlparse
 
 r = httpx.get(
     'https://api.tokyo.vtbs.moe/v1/info',
@@ -12,9 +13,10 @@ data = {}
 for user in vtbs:
     if 'mid' in user:
         uid = user['mid']
+        face_hash = urlparse(user['face']).path
         data[uid] = dict(
             name = user['uname'],
-            face = user['face'],
+            face = face_hash,
             sign = user['sign'],
         )
 
