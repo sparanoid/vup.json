@@ -472,7 +472,7 @@
   "488979186": {
     "name": "DUST_CELL",
     "type": "vtuber",
-    "face": "/bfs/face/c345c1118945d959f456ce268111aee8338ff035.jpg"
+    "face": "/bfs/face/49697b6006fb27bc93f7b4a60e3eb5b0b963ed81.jpg"
   },
   "793061": {
     "name": "Demeo阿死",
@@ -862,7 +862,7 @@
   "110725714": {
     "name": "LUNA_月老板",
     "type": "vtuber",
-    "face": "/bfs/face/6f55977eda97095882df5ca3f3433657fe8a6131.jpg"
+    "face": "/bfs/face/e65b1e853295c900ee51cd84c941290659b2a2bb.jpg"
   },
   "668479385": {
     "name": "Laine_official",
@@ -1117,7 +1117,7 @@
   "143681547": {
     "name": "安夏Charila",
     "type": "vtuber",
-    "face": "/bfs/face/470e41a56b4b86488e076df9a2a18328c594f5bc.jpg"
+    "face": "/bfs/face/41cc25ddac774dc7724e815892bec0881e567c1b.jpg"
   },
   "283815": {
     "name": "Musicat_Vup",
@@ -4387,7 +4387,7 @@
   "1576765151": {
     "name": "兔宝Rabbit・v",
     "type": "vtuber",
-    "face": "/bfs/face/455eae09253c9d1ff35779cf191ddf7be8bb5c8f.jpg"
+    "face": "/bfs/face/b5dcbac2859d2e9b6f52b44868367b95ac7b6827.jpg"
   },
   "1677271465": {
     "name": "尤酱睡饱饱w",
@@ -5017,7 +5017,7 @@
   "6539396": {
     "name": "北上花火official",
     "type": "vtuber",
-    "face": "/bfs/face/86bea446e8aaed4fd620e53fb1b7d62f92c1b73d.jpg"
+    "face": "/bfs/face/98f2452bb33d12951e38531bab58fb576cdd9b17.jpg"
   },
   "2761450": {
     "name": "北世卿泠channel",
@@ -7187,7 +7187,7 @@
   "1785284354": {
     "name": "奈亚初Hatsu",
     "type": "vtuber",
-    "face": "/bfs/face/bea85df3e48fa99a540a974174a581ba2a3b837f.jpg"
+    "face": "/bfs/face/a6ad27282d976faf3f660c035f3cbd9e11299e7b.jpg"
   },
   "1033698887": {
     "name": "奈切尔Official",
@@ -7442,7 +7442,7 @@
   "2240157": {
     "name": "姬野青",
     "type": "vtuber",
-    "face": "/bfs/face/5a43351469ffdb9515a97c2f90091ba2004935ff.jpg"
+    "face": "/bfs/face/bec23bd4c5974a259ecf3c3fdbfbb51c33ce955f.jpg"
   },
   "511017": {
     "name": "娅丝咩Yasumi",
@@ -9677,7 +9677,7 @@
   "1993395129": {
     "name": "散華藍SankaAI",
     "type": "vtuber",
-    "face": "/bfs/face/420bc86ab98388e92bb6922af161f5ee42051808.jpg"
+    "face": "/bfs/face/7329d1fb83bfa0cf51aa0e5bb13edd1aa39c2b9f.jpg"
   },
   "3391089": {
     "name": "数字云糕-lkyear",
@@ -11332,7 +11332,7 @@
   "1703797642": {
     "name": "李豆沙_Channel",
     "type": "vtuber",
-    "face": "/bfs/face/17b783ad8be0bfcc9acbd79cd00d9cd0019d177d.jpg"
+    "face": "/bfs/face/d474cb8461d312c45543cf07b6c01d20c0af62e6.jpg"
   },
   "34099792": {
     "name": "李青云LiQingyun",
@@ -11432,7 +11432,7 @@
   "37294141": {
     "name": "松岛小黛Official",
     "type": "vtuber",
-    "face": "/bfs/face/5d164a9c02a0c5dc856ce7a8771922ec58ed7520.jpg"
+    "face": "/bfs/face/9e97abb0421150c6f19ae53a6fcbd09ede0ef78f.jpg"
   },
   "474013846": {
     "name": "修普诺斯official",
@@ -11687,7 +11687,7 @@
   "297521482": {
     "name": "柚木千海",
     "type": "vtuber",
-    "face": "/bfs/face/811fe7d1ecfa045b5d606d1658d62742bbec8f61.jpg"
+    "face": "/bfs/face/318c42e44ff7b447d59531a19df82f10be2c29d6.jpg"
   },
   "52122313": {
     "name": "柚木千雪channel",
@@ -13665,7 +13665,7 @@
     "face": "/bfs/face/fbb23e719e035137f0a28ea3f94eeb28074f4178.jpg"
   },
   "1999738104": {
-    "name": "濮濮有六个币诶",
+    "name": "我是大憨批哈哈哈哈",
     "type": "vtuber",
     "face": "/bfs/face/5d4f365a594176ef4f3728be06aded4cf7f8259c.jpg"
   },
@@ -13900,7 +13900,7 @@
     "face": "/bfs/face/e75928b0ddec64b0e98fc434475a9766020092c4.jpg"
   },
   "585578": {
-    "name": "阿墨_Moy",
+    "name": "_Moy_",
     "type": "vtuber",
     "face": "/bfs/face/76da5393fcfa13c3a43a298eaecabc7b3ed47662.jpg"
   },
@@ -14759,6 +14759,11 @@
     "type": "vtuber",
     "face": "/bfs/face/0f3712d0ab75647211bbc8ac7cf52a86be29bd79.jpg"
   },
+  "80656": {
+    "name": "璃娅Leeya",
+    "type": "vtuber",
+    "face": "/bfs/face/8e1328d89c5d060f872ae2963141e6262b4e51a6.jpg"
+  },
   "331249454": {
     "name": "让美好的回忆停在这里",
     "type": "vtuber",
@@ -15452,7 +15457,7 @@
   "4537059": {
     "name": "相沢光_Hikari",
     "type": "vtuber",
-    "face": "/bfs/face/5304e5ad1cce2f1913839cc02cb2aa1727206354.jpg"
+    "face": "/bfs/face/c0ddb2b331fb66b26118ed94ce7b91728a7dd6ba.jpg"
   },
   "823798": {
     "name": "相沢加奈Official",
@@ -16097,7 +16102,7 @@
   "523866328": {
     "name": "空酱Official",
     "type": "vtuber",
-    "face": "/bfs/face/bc319be4501822437f847ba27595dd68d6fd4549.jpg"
+    "face": "/bfs/face/c1e5c3860e08794f387c69b31d136878c04636d4.jpg"
   },
   "385016070": {
     "name": "空镜KAGAMI",
@@ -16713,6 +16718,11 @@
     "name": "纪代因果_Inga",
     "type": "vtuber",
     "face": "/bfs/face/3fcbe67f309059e85abc54b3b4c9f8b26b557dc5.jpg"
+  },
+  "1227964496": {
+    "name": "纱夏sayaka",
+    "type": "vtuber",
+    "face": "/bfs/face/4da79912b78b99c929452274a6aa7d767fa2352b.jpg"
   },
   "11912741": {
     "name": "纱布Sa_Official",
@@ -19552,7 +19562,7 @@
   "688496841": {
     "name": "邪目零Official",
     "type": "vtuber",
-    "face": "/bfs/face/d14139e1be331cc29d95986d58cd3de589f968e7.jpg"
+    "face": "/bfs/face/ea63d152d8baaa92395e1e7d2e32d816cc5fd784.jpg"
   },
   "384230128": {
     "name": "邪神酱Channel",
@@ -20327,7 +20337,7 @@
   "118754720": {
     "name": "雨街F",
     "type": "vtuber",
-    "face": "/bfs/face/c94e5ffc85d1ddf9bcce5a793493871aff1c49e6.jpg"
+    "face": "/bfs/face/7d0da7dcd816ccd1643b1daa2b0873df1eb82eb5.jpg"
   },
   "129946331": {
     "name": "雨诉夏是",
@@ -21022,7 +21032,7 @@
   "33060681": {
     "name": "飞翔的海豚Channel",
     "type": "vtuber",
-    "face": "/bfs/face/46f6cd3a6efb7c3ccfad01ed5054ff7300669b50.jpg"
+    "face": "/bfs/face/fb9c93aba194e46bcd30cd184f98180237750aea.jpg"
   },
   "2044990400": {
     "name": "STOP0000017",
@@ -21067,7 +21077,7 @@
   "20272422": {
     "name": "饼小茶Cookie",
     "type": "vtuber",
-    "face": "/bfs/face/c00a498b8e5f438bed784757b9247bfdf94a8ac0.jpg"
+    "face": "/bfs/face/6d2e1372f3a90943b34f9b09cb19c4a214cd7d1d.jpg"
   },
   "526895813": {
     "name": "饼月HimariOfficial",
@@ -21082,7 +21092,7 @@
   "384511937": {
     "name": "馄饨饨wonton",
     "type": "vtuber",
-    "face": "/bfs/face/eb62722986ea28e627731cd4d09e600a05d0869c.jpg"
+    "face": "/bfs/face/26fcfc5ff5d85a3e767ed5ac4f69c29e9e6fd677.jpg"
   },
   "1185495353": {
     "name": "馅寿桃咖_official",
