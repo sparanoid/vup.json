@@ -2,6 +2,12 @@
 
 Extract bilibili vup info from vtbs.moe with user avatars
 
+## Why?
+
+- Extract and merge live [vtbs.moe](https://vtbs.moe/) database and [vdb](https://vdb.vtbs.moe/) with only valid vup info
+- Make the final output much smaller. Better suited for FaaS platforms and low-end machines.
+- Make output static and can be deployed to any web server.
+
 ## Schema
 
 `vup.json`:
