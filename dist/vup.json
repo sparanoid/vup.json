@@ -27,7 +27,7 @@
   "5914640": {
     "name": "克利尔Clear",
     "type": "vtuber",
-    "face": "/bfs/face/72fecf82c9aa51da81c24c5bd1b7f94a4c6b6d7d.jpg"
+    "face": "/bfs/face/a157fc512af7e4c31078bb170426d672e62a022b.jpg"
   },
   "399815233": {
     "name": "烛灵儿Hikari",
@@ -38,6 +38,11 @@
     "name": "-籽三-",
     "type": "vtuber",
     "face": "/bfs/face/379c6c0249303f8cb4b5e2feaa76fb2545049644.jpg"
+  },
+  "39964093": {
+    "name": "-荔枝酒",
+    "type": "vtuber",
+    "face": "/bfs/face/0bc2e62f8bbaa93f384edb5f2781d3f32ffe36e3.jpg"
   },
   "160526160": {
     "name": "丛林蛙Hek",
@@ -527,7 +532,7 @@
   "10292573": {
     "name": "EPP不是恶婆婆",
     "type": "vtuber",
-    "face": "/bfs/face/f9a783fe45860a85cab5c930d6e4def66452735a.jpg"
+    "face": "/bfs/face/4b83ab5ac2e6650c76a637ac9fa3c1b916b31cce.jpg"
   },
   "516562930": {
     "name": "ERRARIUM",
@@ -4510,7 +4515,7 @@
     "face": "/bfs/face/c4340d477356ba108098ba9a566e7ce4a54e0936.jpg"
   },
   "513913": {
-    "name": "囚兎",
+    "name": "兮樱しね",
     "type": "vtuber",
     "face": "/bfs/face/7cbcd7189151a3f0eb0a7e50cc45a3a6af7d5f32.jpg"
   },
@@ -4952,7 +4957,7 @@
   "1506609": {
     "name": "加加゛",
     "type": "vtuber",
-    "face": "/bfs/face/3d3d2cd044ff06953127fbb7be00aab0732c7267.jpg"
+    "face": "/bfs/face/c38baaf2369e9464eb70472591dc6a25ae6ff068.jpg"
   },
   "1857693": {
     "name": "松野黄兔",
@@ -6347,7 +6352,7 @@
   "9066351": {
     "name": "塔克Tako",
     "type": "vtuber",
-    "face": "/bfs/face/5d2f12681def98060cd371a7e01af96ff242204c.jpg"
+    "face": "/bfs/face/17430dccfe1c7ecab179ef291d874a157d13b1e2.jpg"
   },
   "1257095895": {
     "name": "塔洛斯Tartarus",
@@ -7667,7 +7672,7 @@
   "16957103": {
     "name": "安曦Anxi",
     "type": "vtuber",
-    "face": "/bfs/face/a7e7a7d6a674ba46e1cb2d8731a94b72a6b578eb.jpg"
+    "face": "/bfs/face/98ab6bc431f78ba591b7378347a93b865f9e776e.jpg"
   },
   "350838179": {
     "name": "安梦琪AmQ",
@@ -7697,7 +7702,7 @@
   "2096043427": {
     "name": "安赫尔Angelos",
     "type": "vtuber",
-    "face": "/bfs/face/4be7447537f51fb491642e692edf163c14f46831.jpg"
+    "face": "/bfs/face/003be8093547ea10efbd27dbdea2904908aa0d22.jpg"
   },
   "525850968": {
     "name": "安迪亚Andia",
@@ -9692,7 +9697,7 @@
   "1993395129": {
     "name": "散華藍SankaAI",
     "type": "vtuber",
-    "face": "/bfs/face/7329d1fb83bfa0cf51aa0e5bb13edd1aa39c2b9f.jpg"
+    "face": "/bfs/face/40eb85ef45d2bac99c342e671f234799c77a3cec.jpg"
   },
   "3391089": {
     "name": "数字云糕-lkyear",
@@ -11427,7 +11432,7 @@
   "308751411": {
     "name": "东云惠Official",
     "type": "vtuber",
-    "face": "/bfs/face/9f7abf012c8ecde955fc548235ac065a061af0cf.jpg"
+    "face": "/bfs/face/2a2276b3a80c68bfdcc8393885e0719c01bae3e6.jpg"
   },
   "11263516": {
     "name": "松冈遥の青花鱼",
@@ -11435,7 +11440,7 @@
     "face": "/bfs/face/42fcf0fff63bb7d138ef252e4cc653db25da14db.jpg"
   },
   "614329938": {
-    "name": "松坂未的魔法阵",
+    "name": "迷迷小宝",
     "type": "vtuber",
     "face": "/bfs/face/29552d71ea65a46b7f1aa56a06c2af607e3e8621.jpg"
   },
@@ -12085,7 +12090,7 @@
     "face": "/bfs/face/331228e9c6ecd7f5499ae1cbc4e00a8b69f1d3c5.jpg"
   },
   "1673451542": {
-    "name": "梅希德丝Mercedes",
+    "name": "米蕾纳Mirena",
     "type": "vtuber",
     "face": "/bfs/face/8928f5954e6f4666c109cc4265c620634224c74e.jpg"
   },
@@ -12250,9 +12255,9 @@
     "face": "/bfs/face/f32f807f33df6bb13009e7742b6e302b295142f8.jpg"
   },
   "4290020": {
-    "name": "馨馨不会唱歌",
+    "name": "小啾咪Oki",
     "type": "vtuber",
-    "face": "/bfs/face/c3619ed646f6067aa7ce8dec4a39ebe4bdc41113.jpg"
+    "face": "/bfs/face/ac25351e16b2117e103ad6f718b1c0c3f68beb4a.jpg"
   },
   "124177": {
     "name": "森ノ目律channel",
@@ -13152,7 +13157,7 @@
   "1769370346": {
     "name": "波音学姐180",
     "type": "vtuber",
-    "face": "/bfs/face/fe336933d2c058494516687bfedf8db7edd0fab5.jpg"
+    "face": "/bfs/face/b4c3a8f00aa9ea3ff43ad391122e3892638e083e.jpg"
   },
   "13043029": {
     "name": "泥泥的仓库",
@@ -13872,7 +13877,7 @@
   "125694602": {
     "name": "熊田爱",
     "type": "vtuber",
-    "face": "/bfs/face/ee6278b9023d429fcda9e24bdd386228e79c1ea3.jpg"
+    "face": "/bfs/face/63a71350f38351e6621111512dad9df10c7ad3a9.jpg"
   },
   "690147772": {
     "name": "熊野ぽえみOfficial",
@@ -15220,7 +15225,7 @@
     "face": "/bfs/face/b49cd0cc6c279b88a19b5065d9099224e1cb22e2.jpg"
   },
   "1958593681": {
-    "name": "白芷卷_シロカミ",
+    "name": "换号了呃呃",
     "type": "vtuber",
     "face": "/bfs/face/4a6a7bd639795f6700372b8448b674768c2c1396.jpg"
   },
@@ -16452,7 +16457,7 @@
   "1780645": {
     "name": "粉黛乱子Capillaris",
     "type": "vtuber",
-    "face": "/bfs/face/8d751272546a807383fc9459ee0ebf6fde73240d.jpg"
+    "face": "/bfs/face/fd8e13f00f745091c885dcdbb4ad81764b60dcc9.jpg"
   },
   "604222540": {
     "name": "粢华与绛弦Channel",
@@ -16587,7 +16592,7 @@
   "5570510": {
     "name": "幽游Yuu",
     "type": "vtuber",
-    "face": "/bfs/face/dd6b72180805d9d63869e8a6a001f3858db7638d.jpg"
+    "face": "/bfs/face/7bc4f51c4489577230024be889e44bc4fb0a09ff.jpg"
   },
   "125341259": {
     "name": "紫崎キリカOfficial",
@@ -16740,7 +16745,7 @@
     "face": "/bfs/face/abbfcfa366a1fd8be902d4e7bd21b5b6ec3594cc.jpg"
   },
   "147821346": {
-    "name": "红轩HXTimo",
+    "name": "红杆菌",
     "type": "vtuber",
     "face": "/bfs/face/85f220dc2b3875cd01fc60eeb267fb40e1189fbc.jpg"
   },
@@ -17527,7 +17532,7 @@
   "10675863": {
     "name": "芜狐WUHU",
     "type": "vtuber",
-    "face": "/bfs/face/027cbfc899a3eea1cac58b2c9e0228a11eb96cb8.jpg"
+    "face": "/bfs/face/3ea5397cf3655eefeb11f37f6fa87988a8bc7c64.jpg"
   },
   "17992194": {
     "name": "芝士饿晕了耶",
@@ -17540,9 +17545,9 @@
     "face": "/bfs/face/542338d6b6d830f387c26bfe84ad78d1438eb9f2.jpg"
   },
   "3259819": {
-    "name": "纱夏SaNaa",
+    "name": "凛酱的B站号",
     "type": "vtuber",
-    "face": "/bfs/face/e431b62a4a19d677d016e92503353cf96a8c2ef8.jpg"
+    "face": "/bfs/face/e10077a5c7b9feae0c17365556837024f0b2656a.jpg"
   },
   "431493530": {
     "name": "芥茉辣酱",
@@ -17687,7 +17692,7 @@
   "350764795": {
     "name": "花楓kae",
     "type": "vtuber",
-    "face": "/bfs/face/c9d313bd1bc7f66f17ae33c4a361d847d996248a.jpg"
+    "face": "/bfs/face/4437fba9a353e34476c5fd9a9ae9f51ec095c7d4.jpg"
   },
   "1988157612": {
     "name": "花樽栗守",
@@ -18015,9 +18020,9 @@
     "face": "/bfs/face/d7cf6c758965854a2a7a87fb22dd31bab9bb38cd.jpg"
   },
   "363147256": {
-    "name": "凌喵会魔法",
+    "name": "雪兔是yukito",
     "type": "vtuber",
-    "face": "/bfs/face/be1f23cd7fe5beea72e0fb6d177c8aa0bf7d94ec.jpg"
+    "face": "/bfs/face/9408f69619afba945020723fcd261e97ac4d46b1.jpg"
   },
   "834903": {
     "name": "七秋浦",
@@ -18287,7 +18292,7 @@
   "17799504": {
     "name": "菩提仔Puti",
     "type": "vtuber",
-    "face": "/bfs/face/a3aa39b058fe19c08425a2e44d7c3e99b6065055.jpg"
+    "face": "/bfs/face/95d6409bef7e846117090060a526eb7074b058e7.jpg"
   },
   "98181": {
     "name": "菫妃奈Official",
@@ -19642,7 +19647,7 @@
   "1734677911": {
     "name": "酒菜禾子呀",
     "type": "vtuber",
-    "face": "/bfs/face/b0e1179c0bfc78b8fb265bafaef3342e6e9509fc.jpg"
+    "face": "/bfs/face/ba2b00402e324cf302ed63fe9b4be2471678f44c.jpg"
   },
   "6640131": {
     "name": "酒酒井Anri",
@@ -20392,7 +20397,7 @@
   "129946331": {
     "name": "雨诉夏是",
     "type": "vtuber",
-    "face": "/bfs/face/836e1bd2e71b5cecb5f8bf228efe30a5066dd1ad.jpg"
+    "face": "/bfs/face/128a2709f65a8e4d74a6e4eac24c2d5936ce9087.jpg"
   },
   "1533569609": {
     "name": "雨音歌恋karen",
