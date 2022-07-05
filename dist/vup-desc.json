@@ -32,7 +32,7 @@
   "5914640": {
     "name": "克利尔Clear",
     "type": "vtuber",
-    "face": "/bfs/face/61e25fd57818746024f59bc540693ab9d47ed97b.jpg",
+    "face": "/bfs/face/07c47115257b2cca4bb9326b52b3ed0e22f29b08.jpg",
     "sign": "系统编号：Ty-2057-1-4-01"
   },
   "399815233": {
@@ -963,7 +963,7 @@
     "name": "有栖川零牙",
     "type": "vtuber",
     "face": "/bfs/face/06469112745c2b5c7912752335c6e2afb6266fb1.jpg",
-    "sign": "如果那天没有与你相遇，我不会知道自己也会如此深沉地爱上一个人，从此度过一生。"
+    "sign": "Happy unbirthday"
   },
   "1046323261": {
     "name": "KUROSUYAHIRO",
@@ -1569,7 +1569,7 @@
     "name": "oz频道",
     "type": "vtuber",
     "face": "/bfs/face/c8b7b1d475c8756f0e6a2dded08ae82dfe984482.jpg",
-    "sign": "四十二岁老男孩，业余诗人\n谜之绿幕男\n比起王冠，我更爱您的心\n虚拟普通人，中之人大叔\n福楼拜的浪荡儿\n音乐专业人\n最后一个facerig用户"
+    "sign": "29岁老男孩，业余诗人\n谜之绿幕男\n比起王冠，我更爱您的心\n虚拟普通人，中之人大叔\n福楼拜的浪荡儿\n音乐专业人\n最后一个facerig用户"
   },
   "579861015": {
     "name": "Oumi欧乌米",
@@ -1720,6 +1720,12 @@
     "type": "group",
     "face": "/bfs/face/dbc5995f7ab8d61b42d359f199f2bace06f22196.jpg",
     "sign": "Vliver事务所“Project Lupinus”的staff管理账号。"
+  },
+  "1247559638": {
+    "name": "Project-Hilda",
+    "type": "group",
+    "face": "/bfs/face/d79d6141669f743330707b04262682b6f978a9a2.jpg",
+    "sign": "官方录播组：@希尔达档案馆    项目组联系方式：link@hilda.net.cn"
   },
   "2096597038": {
     "name": "SuperMusicMarket",
@@ -4376,7 +4382,7 @@
   "702355574": {
     "name": "云宝KumoChyan",
     "type": "vtuber",
-    "face": "/bfs/face/2e4da8f55d76759e02c15aba2d5acdcdae84e995.jpg",
+    "face": "/bfs/face/a59d5dfd33a81221e49ce7fafd9a3bbef3c30999.jpg",
     "sign": "会陪伴你很久，抬头就可以看见的云。"
   },
   "7568338": {
@@ -4616,14 +4622,14 @@
   "128976078": {
     "name": "安安_An4n",
     "type": "vtuber",
-    "face": "/bfs/face/3a7354f1e6560d5485fe8f531d7c3fa4f609aed3.jpg",
+    "face": "/bfs/face/86b6ec7f406b797b5e797fe513cb8851216a0b67.jpg",
     "sign": "直播试播中——粉丝群：615756404，爱发电：https://afdian.net/@An4n_1111"
   },
   "510047": {
     "name": "伊万_iiivan",
     "type": "vtuber",
     "face": "/bfs/face/0a113ee1c64f9c31f1e16a9891d966b24a28e3ee.jpg",
-    "sign": "一个想给大家带来快乐的搞笑艺人｜微博@一碗酱打油"
+    "sign": "#雪风军团#一个想给大家带来快乐的搞笑艺人｜微博@一碗酱打油"
   },
   "1178920043": {
     "name": "伊丝塔_Easter",
@@ -4959,7 +4965,7 @@
     "name": "佐保姬夕映-官方WACTOR",
     "type": "vtuber",
     "face": "/bfs/face/e34a3b579a7d3577dd829cf73b107861c08c750d.jpg",
-    "sign": "有时会有点怪的治愈系阿宅精灵。梦想是在人类界成为声优。夕映的小小村落：257219463 录播号@佐保姬夕映录播组"
+    "sign": "来自欧洲某处深林与世隔绝的村庄的治愈系精灵。了解人类流行文化后变成了鹅心的死宅。夕映的小小村落：257219463 录播号@佐保姬夕映录播组"
   },
   "263179215": {
     "name": "佐倉杏Channel",
@@ -5301,7 +5307,7 @@
     "name": "兔田包包",
     "type": "vtuber",
     "face": "/bfs/face/89501e626c2aba116dcfa7761309f4fea9855f13.jpg",
-    "sign": "花开富贵之快乐美少女"
+    "sign": "花开富贵之快乐美少女（外出旅行版）"
   },
   "255281598": {
     "name": "兔眠sTouch",
@@ -5355,7 +5361,7 @@
     "name": "八桦卡夜娜",
     "type": "vtuber",
     "face": "/bfs/face/00e10a21bf858673c8e02ebd4399244b6348bd55.jpg",
-    "sign": "Your favorite lewdsome demon ~极光社EN一期生 "
+    "sign": " 您最喜欢的八桦蜂吻的妖艳魔鬼小妹妹。黑道很无聊，人类更有趣~极光社 英文Vtuber~极光社EN一期生 "
   },
   "1979294609": {
     "name": "八桦蜂吻Channel",
@@ -5751,7 +5757,7 @@
     "name": "凛音秀吉",
     "type": "vtuber",
     "face": "/bfs/face/aec18252db31d8cd8717a6e70dde5613a0281a96.jpg",
-    "sign": "个人势VUP（男）粉丝群：677205653画师妈妈：@月野Rero衣着画师：@西瓜子同学"
+    "sign": "个人势VUP（男）粉丝群：677205653画师妈妈：@月野Rero衣着画师："
   },
   "508921078": {
     "name": "凡_Official",
@@ -5868,10 +5874,10 @@
     "sign": "狄灵计划Project-D所属 愿温柔的人都能被温柔以待。"
   },
   "12818595": {
-    "name": "初霁要寄了",
+    "name": "初霁的各种奇寄",
     "type": "vtuber",
     "face": "/bfs/face/efc96d32a1913dc6e2e0f73d7680eb8fa4050122.jpg",
-    "sign": "一只很笨的个人势养成系v，超容易被骗（不是），水友群515670297"
+    "sign": "V圈养成系真心人，D我就对了。水友群515670297"
   },
   "743603": {
     "name": "初霜Shimo",
@@ -5943,7 +5949,7 @@
     "name": "劉俊朗",
     "type": "vtuber",
     "face": "/bfs/face/d42509f6ec7fc8f40f94904a264fa2b392e3e98c.jpg",
-    "sign": "魔宫永恋Mamiya的超级单推人"
+    "sign": "虚研学园的天才死神。"
   },
   "1506609": {
     "name": "加加゛",
@@ -7256,7 +7262,7 @@
   "58226190": {
     "name": "蛟みずち",
     "type": "vtuber",
-    "face": "/bfs/face/14b25cc30b62c2cb2372b62fc5bd4eb247db1ab0.jpg",
+    "face": "/bfs/face/d5e7f53b5cc1837487a36dc9cffb0bbf8d031a3d.jpg",
     "sign": "本体是蛟的龙族天使。//玩点儿手游做做视频，直播时间一般在晚上～粉丝群923971037"
   },
   "409548351": {
@@ -7346,7 +7352,7 @@
   "1308913495": {
     "name": "啦比_rabby",
     "type": "vtuber",
-    "face": "/bfs/face/77dffffac2f710b09cea6b7e8c65680113618a99.jpg",
+    "face": "/bfs/face/e1aac365babd3bf527a6ed24fd5f21b3c8ef3a46.jpg",
     "sign": "这里是游戏杂谈向个人势天使兔一只～来自天堂办事处的啦比！直播时间多为晚上7点以后。快乐老家神秘代码：343488531 。欢迎dd～"
   },
   "1226850716": {
@@ -8696,7 +8702,7 @@
   "207429670": {
     "name": "奈祈Neki",
     "type": "vtuber",
-    "face": "/bfs/face/d52b54dcc06e431456e7bff2d73bf4a2eb0879c1.jpg",
+    "face": "/bfs/face/47a8be05af6a070315e2c5b218c3e88d54b0c8e2.jpg",
     "sign": "〔极光社所属〕吐宝鼠势！"
   },
   "1715021814": {
@@ -9501,7 +9507,7 @@
     "name": "小南莓Official",
     "type": "vtuber",
     "face": "/bfs/face/b1f5004b1f1daf52e309cacb3890c19c917eba27.jpg",
-    "sign": "晚上好！这里是摸鱼系虚拟UP主小南莓！\n欢迎来动态区找我玩哦∠( ᐛ 」∠)＿\n粉丝群：894133265"
+    "sign": "晚上好！这里是摸鱼系虚拟UP主小南莓！不定时随缘直播！欢迎来找我玩哦∠( ᐛ 」∠)＿粉丝群：894133265"
   },
   "14387072": {
     "name": "小可学妹",
@@ -9795,7 +9801,7 @@
     "name": "小莔莔子",
     "type": "vtuber",
     "face": "/bfs/face/979218510e8ab904da42b561de4aa95b1cdd50d2.jpg",
-    "sign": "莔（méng）喜欢打游戏的人工智能VUP！❤ 直播通知群（全禁言）：827428776"
+    "sign": "莔（méng）喜欢打游戏的人工智能VUP！❤ 直播通知群：827428776"
   },
   "13740989": {
     "name": "小葵花_Channel",
@@ -10626,7 +10632,7 @@
     "sign": "虚拟主播社团雨林社所属偏爱棋牌游戏的兜帽正太系vup，新的一年也要多多指教！"
   },
   "4763529": {
-    "name": "幽灵子辰",
+    "name": "幽灵事务所_XPEC",
     "type": "vtuber",
     "face": "/bfs/face/b8c8531234e57bda9b2443ac0427ff3b4ccc109e.jpg",
     "sign": "幽灵是形容词啊，子辰才是名字的部分。商务合作直接私信没问题的。杂谈节目《冲浪指南针》每周更新，搞笑玩梗动画每两周更新！"
@@ -10635,7 +10641,7 @@
     "name": "幽灵车尔尼桑",
     "type": "vtuber",
     "face": "/bfs/face/0e2287af293f2fc316ac1cc0a7a0b938409f8b5d.jpg",
-    "sign": "喜欢大家 | 随缘播播 录播在@录播灵 |  爱发电：afdian.net/@youling0722 "
+    "sign": " 随缘播播 录播在@录播灵 |  爱发电：afdian.net/@youling0722 "
   },
   "667290196": {
     "name": "幽知Arou",
@@ -10647,7 +10653,7 @@
     "name": "广音笑颜Channel",
     "type": "vtuber",
     "face": "/bfs/face/791ed84cce4d51147d15205252a4ef86bd461e67.jpg",
-    "sign": "多语言个人势沙雕系VUP！目标是成为大家的快乐源泉！爱发电：https://afdian.net/@smilecat"
+    "sign": "多语言个人势VUP！目标是成为大家的快乐源泉！爱发电：https://afdian.net/@smilecat"
   },
   "690608695": {
     "name": "库伽Hakuja",
@@ -10996,6 +11002,12 @@
     "type": "vtuber",
     "face": "/bfs/face/23ac53eee205cc1eaa1c856248ec3bba00d75ad7.jpg",
     "sign": "不知来处的“神様”，要不要考虑一下成为我的信徒呢~？"
+  },
+  "1494109995": {
+    "name": "德莉亚-沃尔夫",
+    "type": "vtuber",
+    "face": "/bfs/face/e99a5e1030616dd3c4206aad641c51523464de72.jpg",
+    "sign": "生活亦是战场，军人永远不会低头。未来请多指教！空间站：Project-Hilda"
   },
   "626530125": {
     "name": "徹夜TETSUYA",
@@ -11546,7 +11558,7 @@
   "74130542": {
     "name": "拾夜在拾夜_Official",
     "type": "vtuber",
-    "face": "/bfs/face/cb6e1ea3d98af00cc3ba2994fefaef76e37ed6dd.jpg",
+    "face": "/bfs/face/bba3658fe33872d4c6506579f94ae17a42f518db.jpg",
     "sign": "粉丝群：829383699\n个人势唱见！\n努力挣钱中！\n因为穷所以会接稿，可以到工房了解详情！\n感谢你的关注！联动大欢迎！！！\n"
   },
   "2542009": {
@@ -11882,7 +11894,7 @@
   "697652272": {
     "name": "早穗",
     "type": "vtuber",
-    "face": "/bfs/face/7e1f9c7217370d6003bb28235de85ae681e57b2b.jpg",
+    "face": "/bfs/face/5634a35bd0a2f2686efc0658364a8bb766887d7f.jpg",
     "sign": "✨早穗自己所属✨看到签名的人每天都会开心੭ ᐕ)੭*⁾⁾"
   },
   "541696090": {
@@ -12003,7 +12015,7 @@
     "name": "星-冰河",
     "type": "vtuber",
     "face": "/bfs/face/45c024637eb811b6781bf2147346daa15f3750d0.jpg",
-    "sign": "退休（年更）GAL向UP"
+    "sign": "发点自己喜欢的东西"
   },
   "8471048": {
     "name": "星·小q",
@@ -12333,7 +12345,7 @@
     "name": "星海聆音",
     "type": "vtuber",
     "face": "/bfs/face/fbd25ac85a0121c4ee15eae4383fe2087f3f7e58.jpg",
-    "sign": "直播时间一般固定在晚上7点半后，话废直播通知群：763735871，怀旧风国语歌势（多声线）"
+    "sign": "直播时间一般固定在晚上7点半后，\n直播通知群：763735871\n话废怀旧风国语歌势（多声线）"
   },
   "19080153": {
     "name": "星瀬白羊",
@@ -12465,7 +12477,7 @@
     "name": "星羽Official",
     "type": "vtuber",
     "face": "/bfs/face/265b6e070eafcf9e52d841ddaa9a07782645bbcb.jpg",
-    "sign": "✧个人势天使✧在准备直播了!✧群:314166260✧"
+    "sign": "✧个人势天使✧在准备了!✧群:314166260✧"
   },
   "101694830": {
     "name": "柊栗大魔王",
@@ -12482,7 +12494,7 @@
   "1034105844": {
     "name": "星芒-Asterism",
     "type": "vtuber",
-    "face": "/bfs/face/bf81b7ebc108b99deb8c25fdbd14c11dca68d086.jpg",
+    "face": "/bfs/face/25959cf0b9ad662099830504427bf645a3aa9b9d.jpg",
     "sign": "是每天努力直播的希望小偶像！         录播@恃阢十五-"
   },
   "1802613870": {
@@ -12675,7 +12687,7 @@
     "name": "游手好闲的月大人",
     "type": "vtuber",
     "face": "/bfs/face/3b56a54cbe2ca5f9e48c89a52a274fb7d517fd45.jpg",
-    "sign": "打个郊县"
+    "sign": "我是聪明的水月"
   },
   "1700332": {
     "name": "星野飛鳥Channel",
@@ -13425,7 +13437,7 @@
     "name": "木糖纯Official",
     "type": "vtuber",
     "face": "/bfs/face/c898c3e3ce4e32ed7942b0c7567fbcf783e69c36.jpg",
-    "sign": "永不毕业的个人势，养老配音员。自闭系。配音、翻唱。商务合作V：nulinuligengjianuli"
+    "sign": "永不毕业的个人势，养老配音员。自闭系。配音、翻唱。商务合作Q：3164254440"
   },
   "8028827": {
     "name": "兔兔冲惹",
@@ -13497,7 +13509,7 @@
     "name": "本气黑猫",
     "type": "vtuber",
     "face": "/bfs/face/6c457d5cc5fd42349105c6c9aa74e09328591500.jpg",
-    "sign": "明日方舟、主机游戏UP主。每晚8点直播。明日方舟7群：471458861 怪猎群：884689621"
+    "sign": "直播是工作，来看是对我最大的支持~明日方舟7群：471458861 怪猎群：884689621"
   },
   "7309773": {
     "name": "本猫official",
@@ -13749,7 +13761,7 @@
     "name": "修普诺斯official",
     "type": "vtuber",
     "face": "/bfs/face/7d3f5eba71f1eef416766c87b35d71d8bab077bb.jpg",
-    "sign": "优质动态区up主，oc相关走话题@弥赛亚的安眠乡\n爱发电https://afdian.net/@YT20301231\n遵纪守法，热爱生命"
+    "sign": "大多数情况下好脾气人，oc相关走话题走置顶\n爱发电https://afdian.net/@YT20301231\n遵纪守法，热爱生命"
   },
   "13670449": {
     "name": "松果FMatsu",
@@ -13950,7 +13962,7 @@
     "sign": "百合系vup柒玖，一个破学生物的，是恶魔狼，再说哈士奇头都给你拧下来，切片是兴趣使然。群：884643609"
   },
   "1993694809": {
-    "name": "柒䴫Official",
+    "name": "麟崽不困",
     "type": "vtuber",
     "face": "/bfs/face/96796d70a8b08c7ae962020b0e614a6d92da7708.jpg",
     "sign": "✧<GALAXY群星计划>✧所属个人势粉麒麟"
@@ -14067,7 +14079,7 @@
     "name": "沁柠Official",
     "type": "vtuber",
     "face": "/bfs/face/ee08d3ad9f47c4b923b94dcf45a9db54f1a17a32.jpg",
-    "sign": "<虚研学园>所属个猫势vup｜网易云@沁柠 合作请私信 "
+    "sign": "<虚研学园>所属个猫势vup｜网易云@沁柠 录播@柠檬的布丁加工厂 合作请私信 "
   },
   "629184597": {
     "name": "柠汪汪",
@@ -14288,7 +14300,7 @@
   "523108951": {
     "name": "桃依moi",
     "type": "vtuber",
-    "face": "/bfs/face/2cfcb1a16bc583af27bb70c444e2ac75a5b9349a.jpg",
+    "face": "/bfs/face/e8764652078d94a98ce5349492970f25155780bc.jpg",
     "sign": "一只超爱打游戏の皮套桃~"
   },
   "1970372013": {
@@ -14514,7 +14526,7 @@
     "sign": "「极光社所属」七美德企划-勤勉\n目前摆烂中！不知道啥时直播！"
   },
   "1126480831": {
-    "name": "梅林是只大狐狐nei",
+    "name": "梅林Kitsune",
     "type": "vtuber",
     "face": "/bfs/face/eb2d5081607058e998d2ec20074218057bb54232.jpg",
     "sign": "努力获得大家认可的狐狐！目前是个人势试播中，明年出道！粉丝群：721662514"
@@ -14763,7 +14775,7 @@
     "name": "森羽mori",
     "type": "vtuber",
     "face": "/bfs/face/403873741155b1365af8d97a6f629fd06de44204.jpg",
-    "sign": "✧<facemoe>✧所属vup~除了魔法什么都会的魔女(●˙꒳˙●)◜"
+    "sign": "✧<facemoe>✧所属vup~除了魔法什么都会的魔女\n喜欢配音和唱歌~(●˙꒳˙●)◜愿努力之事皆有所成！"
   },
   "11438237": {
     "name": "麋鹿鹿子酱",
@@ -14966,7 +14978,7 @@
   "609100583": {
     "name": "樱千奈",
     "type": "vtuber",
-    "face": "/bfs/face/b5ac54bef3e3c4361ff28e4818217dad0830add4.jpg",
+    "face": "/bfs/face/1064db154fda0bbb650540adcb551d318f229cf6.jpg",
     "sign": "一只自由快乐的狍子(´∀｀)人类观察群224792378"
   },
   "304869354": {
@@ -15237,7 +15249,7 @@
     "name": "歌爱千岁channel",
     "type": "vtuber",
     "face": "/bfs/face/08eb1e98e5aad8f99a9e5f0e74dd81dc6e1eebcf.jpg",
-    "sign": "follow感谢！个人势混沌系小恶魔！"
+    "sign": "不想輸需要理由嗎丨個人勢混沌系小惡魔????失業偶像再就業中ing…"
   },
   "642391225": {
     "name": "歌莉丝Official",
@@ -17295,7 +17307,7 @@
     "name": "猫辞猫辞猫",
     "type": "vtuber",
     "face": "/bfs/face/ffdfda6fa12f0c7c36ad4cd26c0b519ba55fa50c.jpg",
-    "sign": "可可爱爱，充满希望！\n(*˘︶˘*).｡.:*\n耳朵牙白，直播比较摸（"
+    "sign": "可可爱爱，充满希望！\n(*˘︶˘*).｡.:*"
   },
   "2126081242": {
     "name": "猫邮社Owlpost",
@@ -18698,7 +18710,7 @@
   "2113007488": {
     "name": "真綿真珠星_official",
     "type": "vtuber",
-    "face": "/bfs/face/9d899e958613ccecb37893848909fa7f2fccb971.jpg",
+    "face": "/bfs/face/630735800d3b4aa942f130e0e5498ffa2945134c.jpg",
     "sign": "星辰的碎片┊日本Vtuber┊歌勢┊放松治愈┊MawataSpica"
   },
   "1485277312": {
@@ -19028,7 +19040,7 @@
   "9224445": {
     "name": "天国へ行こう",
     "type": "vtuber",
-    "face": "/bfs/face/a26cb00ecb6984852155ad7cb2ccd1d9f65a4396.jpg",
+    "face": "/bfs/face/b68dd72e1556522936a58730647c6cde72380cee.jpg",
     "sign": "大家一起去到纯白色的天国（个人势准备中）"
   },
   "411700399": {
@@ -19704,10 +19716,10 @@
     "sign": "马达内"
   },
   "233452533": {
-    "name": "米菈mira",
+    "name": "bilibili",
     "type": "vtuber",
-    "face": "/bfs/face/f0974c45d67fefce1073c17e1fc9193bb2582b07.jpg",
-    "sign": "这里是个人势vup米菈哒哟~平常会进行游戏和绘画相关的直播~欢迎关注~约稿相关请私信哦"
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
   },
   "476676325": {
     "name": "米蕾優channel",
@@ -20288,7 +20300,7 @@
   "20966016": {
     "name": "绫濑Official",
     "type": "vtuber",
-    "face": "/bfs/face/8b9697d0b3324c04fe21689f662299660f7f1ee5.jpg",
+    "face": "/bfs/face/9876cdbb158760253545ea31e4b4e14465d00b70.jpg",
     "sign": "「极光社所属」一个只有一只牙带点异世界口音的吸血鬼~多数杂谈喜欢打游戏~【粤/国】粉丝群：542703182"
   },
   "6747203": {
@@ -21015,7 +21027,7 @@
     "name": "芙栗希娅Felicia",
     "type": "vtuber",
     "face": "/bfs/face/0c32258e416a914453c47beaf81a4a8d6ebfa5dc.jpg",
-    "sign": "已停播"
+    "sign": "已转生，指路：白芙Yuki\n你们永远是芙芙心里的第一波支持我的人w"
   },
   "1589833236": {
     "name": "芙瑞free",
@@ -21044,7 +21056,7 @@
   "17992194": {
     "name": "芝士饿晕了耶",
     "type": "vtuber",
-    "face": "/bfs/face/83b60496a1cb292b581c5a47964f0279196573b5.jpg",
+    "face": "/bfs/face/fca4b73f809cda69186a79b18b57cb7d232b1a08.jpg",
     "sign": "【个人势vup】目标是 给所有人带来快乐啦 以及 养成势歌姬????\n录播：芝士投喂组?\n商务合作请联系：724152194@qq.com"
   },
   "85112575": {
@@ -21680,7 +21692,7 @@
   "659401": {
     "name": "荀异",
     "type": "vtuber",
-    "face": "/bfs/face/d98e9199abdf76c7ee97c0d07dcfca40098e2c00.jpg",
+    "face": "/bfs/face/a893d21e2ee74c6b3bd938bd025da9a211f5d943.jpg",
     "sign": "我把星辰和泥土都封存在这里。个人势VUP/画师。合作洽谈：B站私信"
   },
   "934940": {
@@ -21780,10 +21792,10 @@
     "sign": "bilibili的大家，你好！我是莉泽·赫露艾斯塔，赫露艾斯塔王国的第二位公主。为了作为良好的公主，天天努力！请多多关照"
   },
   "625253983": {
-    "name": "莉莉卡official",
+    "name": "bilibili",
     "type": "vtuber",
-    "face": "/bfs/face/5dff8f65dcb32be65d9c655a5c1cd63a74079d6a.jpg",
-    "sign": "将你我记忆的碎片保存于盒子中，希望有朝一日替你划开阴霾，希望你能喜欢我。\nProject Lupinus所属，担当画师：望月（もちづき）。"
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
   },
   "364245": {
     "name": "莉莉姆Lilim",
@@ -23031,7 +23043,7 @@
     "name": "赛薇琳XaviRynn",
     "type": "vtuber",
     "face": "/bfs/face/cd691909ca89faa4a1bd7bf48b7a91e9d0498dc3.jpg",
-    "sign": "火山旅游宣传大使\n人间体忙碌中，所以意识体摆了\n一个不怎么自信但又经常自恋的人。极度端水。同步试听势。喜欢也向往平静的生活。"
+    "sign": "你要来看看我所热爱的世界吗\n+++\n一个不怎么自信但又经常自恋的人。极度端水。同步试听势。喜欢也向往平静的生活。"
   },
   "339567211": {
     "name": "赤井心Official",
@@ -23607,7 +23619,7 @@
     "name": "異構型ライスV_RaiS",
     "type": "vtuber",
     "face": "/bfs/face/5fc689b89f4a2ca8cfe9698b552683ce4d569013.jpg",
-    "sign": "I.C.D.C-LAB#08制造，08特别侦察班班长。探索世界，找寻拯救未来的关键。"
+    "sign": "I.C.D.C-LAB#08制造，08特别侦察班班长。静悄悄探索世界。"
   },
   "8105424": {
     "name": "里哀Ria",
@@ -24110,7 +24122,7 @@
   "674955196": {
     "name": "阿夜燐歌_AyaRinka",
     "type": "vtuber",
-    "face": "/bfs/face/9e807f970d6299eac04de323952eb302180993d7.jpg",
+    "face": "/bfs/face/69a6d61c0f849123d558067dae929cbd69a5acf2.jpg",
     "sign": "｜呆呆猫又又｜我是被表扬了就会进步的类型（嘻）建议夸夸喵｜极光社｜"
   },
   "511613155": {
@@ -24216,7 +24228,7 @@
     "sign": "只能晚上18：00-20：00播播，来自异世界の魔法学员，永不毕业的琳琳子（不加公会，自由万岁）群：786953325"
   },
   "9733334": {
-    "name": "阿祁纳_Channel",
+    "name": "阿祁纳拿不动笔",
     "type": "vtuber",
     "face": "/bfs/face/6d83a0ac38226c54bb1fb2a3762a8c02d7980ea2.jpg",
     "sign": "-GnGg-家的活体仙人球，24（亿）岁，是个仙人。不是球！！！（暂未出道ing）"
@@ -24276,10 +24288,10 @@
     "sign": "转私人号啦~直播请关注糕糕Goi"
   },
   "1795716989": {
-    "name": "阿鹤-Crane",
+    "name": "阿鹤-Crane_7月9号满月啦",
     "type": "vtuber",
     "face": "/bfs/face/4c1a2a6ac2225b5a3a16098a960791a516f5e9cd.jpg",
-    "sign": "个人势新人歌杂Vup~未出道→歌力满满，108种声线整活天花板！"
+    "sign": "个鹤势新人歌杂Vup~未出道→歌力满满，108种声线整活天花板！"
   },
   "410124536": {
     "name": "阿黛不太呆",
@@ -24405,7 +24417,7 @@
     "name": "雅罗_Jaro",
     "type": "vtuber",
     "face": "/bfs/face/4d77839b0129c76a6b49befc7fe4ac131e413eca.jpg",
-    "sign": "我是雅罗，糖人Vup，P头专业户\n期待与你相见哦~\n妈咪：日和响也/小路\n爹地：鹿翎linger\n催更/吹水群：128617595"
+    "sign": "我是雅罗，糖人Vup，P头专业户，视频势\n期待与你相见哦~\n妈咪：日和响也/小路\n爹地：鹿翎linger\n催更/吹水群：128617595"
   },
   "2305870": {
     "name": "Arietta_Melara",
@@ -24512,7 +24524,7 @@
   "1241565217": {
     "name": "雪利要睡觉",
     "type": "vtuber",
-    "face": "/bfs/face/b4c9b8e9000e1eb6b6817821e47816160b097304.jpg",
+    "face": "/bfs/face/9dfa8bfb2924d87dda64f26b64c288311b01de4e.jpg",
     "sign": "怎么，方圆一米之内还有人比我可爱？"
   },
   "265615931": {
@@ -24914,7 +24926,7 @@
   "13101068": {
     "name": "霰月Arzki",
     "type": "vtuber",
-    "face": "/bfs/face/7eea5e2934ebb919a46171facb2737152671b93b.jpg",
+    "face": "/bfs/face/e9312df127d5cb01f3dbeee5f0b9eaad1a5e94ad.jpg",
     "sign": "出道预备中  只是个植物学家 \n大凯马达岛基地位置：667877096"
   },
   "1733970192": {
@@ -25268,7 +25280,7 @@
   "52685828": {
     "name": "白亚AsiaWhite",
     "type": "vtuber",
-    "face": "/bfs/face/c2d79231efc856d75fa44e2ac986a6bcbf3ca5d4.jpg",
+    "face": "/bfs/face/9864992631ec534eb77b6bfa8880d82d94f45644.jpg",
     "sign": "All Girls Are The Same."
   },
   "12093303": {
@@ -25580,7 +25592,7 @@
   "477948447": {
     "name": "鬼麻弥火度_Channel",
     "type": "vtuber",
-    "face": "/bfs/face/5c9a788d82d2d85246986a072e5c17a5c25616c5.jpg",
+    "face": "/bfs/face/1960b5e0bf6927c7ba62678b70e8a59df8e02fae.jpg",
     "sign": "个人势vup，是来自下界的魔虫皇帝！目前暂时转为了视频势哟——"
   },
   "2165981": {
@@ -25605,7 +25617,7 @@
     "name": "魔法少女初柒",
     "type": "vtuber",
     "face": "/bfs/face/e0a6ae07cae91af1b822cedf9bcc8f4abeb85d35.jpg",
-    "sign": "假装全能的无所属个人势V，直播日程在手机端主页捏"
+    "sign": "假装全能的无所属个人势V，直播日程表在主页捏"
   },
   "526071118": {
     "name": "魔法少女真理酱",
@@ -26187,7 +26199,7 @@
     "name": "黑泽莉乃_official",
     "type": "vtuber",
     "face": "/bfs/face/04d6411aac50f109f63d9a81fb61a8f4b23f9aca.jpg",
-    "sign": "新人v莉乃请多指教。新皮正在制作中～"
+    "sign": "新V个人势莉乃请多指教！！"
   },
   "922573": {
     "name": "黑泽诺亚NOIR",
@@ -26343,7 +26355,7 @@
     "name": "鼎鼎子",
     "type": "vtuber",
     "face": "/bfs/face/f6cd9309a239bb6ca38c5b501f15f0326eab040d.jpg",
-    "sign": "live2d模型师 米画师—鼎鼎子 不接了w，常稿10月开"
+    "sign": "live2d模型师 米画师—鼎鼎子 "
   },
   "225243410": {
     "name": "伊欧娜齐柏林伯爵",
