@@ -17,6 +17,7 @@ vtbs_vdb = r_vdb.json()['vtbs']
 vdb_dict = {}
 vup = {}
 vup_desc = {}
+vup_room = {}
 
 # Prepare JSON
 for user in vtbs_vdb:
@@ -54,9 +55,18 @@ for user in vtbs:
             face = face_hash,
             sign = user['sign'],
         )
+        vup_room[uid] = dict(
+            name = user['uname'],
+            type = type,
+            face = face_hash,
+            room_id = user['roomid'],
+        )
 
 with open('dist/vup.json', 'w') as file:
     file.write(json.dumps(vup, indent=2, ensure_ascii=False))
 
 with open('dist/vup-desc.json', 'w') as file:
     file.write(json.dumps(vup_desc, indent=2, ensure_ascii=False))
+
+with open('dist/vup-room.json', 'w') as file:
+    file.write(json.dumps(vup_room, indent=2, ensure_ascii=False))
