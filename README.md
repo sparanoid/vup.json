@@ -35,6 +35,28 @@ Extract bilibili vup info from vtbs.moe with user avatars
 }
 ```
 
+`vup-room.json`:
+
+```json
+{
+  "375504219": {
+    "name": "湊-阿库娅Official",
+    "type": "vtuber",
+    "face": "/bfs/face/a7195c09c6ba4722966d745d6f692035d3fe4d95.jpg",
+    "room_id": 14917277
+  }
+}
+```
+
+## Types
+
+Only the folloing types are included from upstream APIs:
+
+- `vtuber`
+- `group`
+- `fan`
+- `unknown`
+
 ## License
 
 MIT
