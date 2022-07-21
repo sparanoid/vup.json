@@ -49,6 +49,11 @@
     "type": "vtuber",
     "face": "/bfs/face/25487bb669d770579fcc393ab6c5189b9c32ccb5.jpg"
   },
+  "347784817": {
+    "name": "-阿予ayu_",
+    "type": "vtuber",
+    "face": "/bfs/face/17bb78c13ea021437ad3840fadc55b5ca3248df0.jpg"
+  },
   "1934440235": {
     "name": "-魔王大人花言理-",
     "type": "vtuber",
@@ -533,6 +538,11 @@
     "name": "ELA辰",
     "type": "vtuber",
     "face": "/bfs/face/65a27b7de00f30ec6de5a5c9857b66edc59af055.jpg"
+  },
+  "2018113152": {
+    "name": "EOE组合",
+    "type": "group",
+    "face": "/bfs/face/f0ac506bbfa4e4ce09729d424d28d2383e721ade.jpg"
   },
   "10292573": {
     "name": "EPP不是恶婆婆",
@@ -3073,6 +3083,11 @@
     "name": "一只雏羽喵",
     "type": "vtuber",
     "face": "/bfs/face/1be9e0e35be095582a48a11df56498cac15cf11f.jpg"
+  },
+  "2059243146": {
+    "name": "一只雾桃",
+    "type": "vtuber",
+    "face": "/bfs/face/ac320a7c35e3f28e7d52176e653e0aa3d720f3af.jpg"
   },
   "23390426": {
     "name": "一叶子铃铛Mikan",
@@ -9769,6 +9784,11 @@
     "type": "vtuber",
     "face": "/bfs/face/0fcf0104e8f441b1c809245a1c24c591dfe48c0c.jpg"
   },
+  "8664698": {
+    "name": "拉塞Lasse",
+    "type": "vtuber",
+    "face": "/bfs/face/f6f6cbd406a36113a2b1fe970554db488af53430.jpg"
+  },
   "10296177": {
     "name": "OscarAnd奥斯卡",
     "type": "vtuber",
@@ -12538,6 +12558,11 @@
     "name": "森羽mori",
     "type": "vtuber",
     "face": "/bfs/face/403873741155b1365af8d97a6f629fd06de44204.jpg"
+  },
+  "1084357932": {
+    "name": "森野莓洛Official",
+    "type": "vtuber",
+    "face": "/bfs/face/6ef89cc6ca04be9c8f80677493bc5265b281fe0e.jpg"
   },
   "11438237": {
     "name": "麋鹿鹿子酱",
@@ -19229,6 +19254,11 @@
     "type": "fan",
     "face": "/bfs/face/776dcb833ff54439dc3503a5a6845b524d6a8464.jpg"
   },
+  "650899373": {
+    "name": "装甲车Machinegun",
+    "type": "vtuber",
+    "face": "/bfs/face/8a75fd7e1c490f59f0575e1d719a89c4bce36e6a.jpg"
+  },
   "10759587": {
     "name": "裔书Izu",
     "type": "vtuber",
@@ -20509,6 +20539,11 @@
     "type": "vtuber",
     "face": "/bfs/face/bdabe4cb8922e21b06de944ef148a7fa03911e65.jpg"
   },
+  "43854370": {
+    "name": "阿斯塔_Aster",
+    "type": "vtuber",
+    "face": "/bfs/face/f3d7e0496a9134e850cf85a3d45e5adfacd2218d.jpg"
+  },
   "551114698": {
     "name": "阿斯特尔瑞达Official",
     "type": "vtuber",
@@ -21329,6 +21364,11 @@
     "type": "vtuber",
     "face": "/bfs/face/4ca672fa5011ba220fea8fa7ec540a3adca1018f.jpg"
   },
+  "18932485": {
+    "name": "顾子韵_w",
+    "type": "vtuber",
+    "face": "/bfs/face/5fb6a1ea38ff338c07f3355664b3eef6015adba0.jpg"
+  },
   "435936774": {
     "name": "顾小婉今天也元气满满",
     "type": "vtuber",
@@ -21793,6 +21833,11 @@
     "name": "鲁卡波尔卡Official",
     "type": "vtuber",
     "face": "/bfs/face/5493c914df62db83aa082dd411838f40852811a7.jpg"
+  },
+  "1293142895": {
+    "name": "鲁鲁不想出门啊",
+    "type": "vtuber",
+    "face": "/bfs/face/ed6f4feafb02028a60f7f9b6c8c7b7ffe384049c.jpg"
   },
   "605511": {
     "name": "鲨克莉斯Official",
