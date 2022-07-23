@@ -18,6 +18,8 @@ vdb_dict = {}
 vup = {}
 vup_desc = {}
 vup_room = {}
+vup_slim = {}
+vup_full = {}
 
 # Prepare JSON
 for user in vtbs_vdb:
@@ -47,19 +49,26 @@ for user in vtbs:
         vup[uid] = dict(
             name = user['uname'],
             type = type,
+            room = user['roomid'],
             face = face_hash,
         )
         vup_desc[uid] = dict(
             name = user['uname'],
             type = type,
+            room = user['roomid'],
             face = face_hash,
             sign = user['sign'],
+        )
+        vup_slim[uid] = dict(
+            name = user['uname'],
+            type = type,
+            room = user['roomid'],
         )
         vup_room[uid] = dict(
             name = user['uname'],
             type = type,
-            face = face_hash,
             room_id = user['roomid'],
+            face = face_hash,
         )
 
 with open('dist/vup.json', 'w') as file:
@@ -67,6 +76,9 @@ with open('dist/vup.json', 'w') as file:
 
 with open('dist/vup-desc.json', 'w') as file:
     file.write(json.dumps(vup_desc, indent=2, ensure_ascii=False))
+
+with open('dist/vup-slim.json', 'w') as file:
+    file.write(json.dumps(vup_slim, indent=2, ensure_ascii=False))
 
 with open('dist/vup-room.json', 'w') as file:
     file.write(json.dumps(vup_room, indent=2, ensure_ascii=False))
