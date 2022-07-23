@@ -947,6 +947,12 @@
     "face": "/bfs/face/c4f2d0dc41f240ba502a8b38b565363032c30f9d.jpg",
     "room_id": 1257106
   },
+  "1405060701": {
+    "name": "STOP000009",
+    "type": "vtuber",
+    "face": "/bfs/face/a07ca033f622d9c55576a69b3c4f3f2c3e8052ab.jpg",
+    "room_id": 23146554
+  },
   "634902212": {
     "name": "JohnkoOfficial",
     "type": "vtuber",
@@ -2710,12 +2716,6 @@
     "type": "vtuber",
     "face": "/bfs/face/32f2544d6c63dfc305df807d6f6adfc0c4c20bd0.jpg",
     "room_id": 757349
-  },
-  "1405060701": {
-    "name": "STOP000009",
-    "type": "vtuber",
-    "face": "/bfs/face/a07ca033f622d9c55576a69b3c4f3f2c3e8052ab.jpg",
-    "room_id": 23146554
   },
   "674228183": {
     "name": "乙夜かろり_karory",
