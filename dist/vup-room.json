@@ -15239,6 +15239,12 @@
     "room_id": 7993272,
     "face": "/bfs/face/f1e8a7f702a5dcbce8bc8982e63d9cf1637e15eb.jpg"
   },
+  "1408772106": {
+    "name": "楽烯Roky",
+    "type": "vtuber",
+    "room_id": 25144904,
+    "face": "/bfs/face/b62d5f32834e01115ff83458fec7bfc98e8e7fd8.jpg"
+  },
   "1802392": {
     "name": "榛葉nami",
     "type": "vtuber",
@@ -20674,6 +20680,12 @@
     "type": "vtuber",
     "room_id": 21764748,
     "face": "/bfs/face/147347ec7f14c59b526d73d5718a49556fd4213d.jpg"
+  },
+  "30153961": {
+    "name": "绥和岁",
+    "type": "vtuber",
+    "room_id": 1433842,
+    "face": "/bfs/face/69ec98a868bbcfaeff56672e568768ba3fcaa015.jpg"
   },
   "1577826459": {
     "name": "继_Tsugi",
