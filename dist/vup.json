@@ -4151,6 +4151,12 @@
     "room": 21692711,
     "face": "/bfs/face/602b90b452b0d1a6ec32fb0e4d509ed245dea800.jpg"
   },
+  "121487111": {
+    "name": "东野凹",
+    "type": "vtuber",
+    "room": 4585823,
+    "face": "/bfs/face/0fa4607ea8a1df50c799297c9ffa0d1bc1ad2952.jpg"
+  },
   "11779171": {
     "name": "东鸟apple",
     "type": "vtuber",
@@ -4533,7 +4539,7 @@
     "name": "云音_YuNi",
     "type": "vtuber",
     "room": 14415049,
-    "face": "/bfs/face/8579156eab27ba2abe755a5d1c7231b5a4ff9b23.jpg"
+    "face": "/bfs/face/a9b4333cf27cbe7a0439168990233a79d5b53244.jpg"
   },
   "1247106691": {
     "name": "云鹳",
@@ -18988,6 +18994,12 @@
     "type": "vtuber",
     "room": 23948583,
     "face": "/bfs/face/dc23a77e9090bacf8d364aa2e52e421951efc1fd.jpg"
+  },
+  "219507": {
+    "name": "盐酥鸡悦_",
+    "type": "vtuber",
+    "room": 357647,
+    "face": "/bfs/face/0fcd06254a950d754bd42be1319221c8300f55f1.jpg"
   },
   "1846208014": {
     "name": "盖乃希亞Galaxy",
