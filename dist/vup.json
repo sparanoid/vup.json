@@ -7571,6 +7571,12 @@
     "room": 21987752,
     "face": "/bfs/face/d934705ffb9a1eca0a1962999fc2a23abbd80007.jpg"
   },
+  "1307325151": {
+    "name": "喵川fufuki",
+    "type": "vtuber",
+    "room": 24935963,
+    "face": "/bfs/face/2e1256f090ee02fbac673dd0cd7d511450663165.jpg"
+  },
   "472821519": {
     "name": "喵月nyatsuki",
     "type": "vtuber",
@@ -9082,6 +9088,12 @@
     "type": "vtuber",
     "room": 22495291,
     "face": "/bfs/face/9089dabc0e2844ef69cae700104348cfc149cb4b.jpg"
+  },
+  "1458295838": {
+    "name": "妙蛙理子",
+    "type": "vtuber",
+    "room": 25340866,
+    "face": "/bfs/face/041c626fdf562d04912521f11be6eedf5eff130b.jpg"
   },
   "839059": {
     "name": "妮特_Nito",
@@ -14597,6 +14609,12 @@
     "room": 24384038,
     "face": "/bfs/face/9f18ab2f63c5ce257bed2a7bc6fdd8f83eee4dec.jpg"
   },
+  "39196585": {
+    "name": "桃井桃Momoi",
+    "type": "vtuber",
+    "room": 11064219,
+    "face": "/bfs/face/9ce42015b19c59b5210445c2416159a04b77aa0f.jpg"
+  },
   "3189048": {
     "name": "桃井眠Meme",
     "type": "vtuber",
@@ -15472,12 +15490,6 @@
     "type": "vtuber",
     "room": 8641515,
     "face": "/bfs/face/52627079ede0467aa7e83e8a45b2053cc04ef7d7.jpg"
-  },
-  "4725917": {
-    "name": "柠檬茶加桂花冻真好喝",
-    "type": "vtuber",
-    "room": 10481259,
-    "face": "/bfs/face/ce4be9e80646b74addcc38f73a577c8e3eabb5cf.jpg"
   },
   "1382784": {
     "name": "狐和橘子果园",
