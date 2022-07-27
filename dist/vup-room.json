@@ -6671,6 +6671,12 @@
     "room_id": 41016,
     "face": "/bfs/face/e539e493e3cc085942866f19758d99a7ab5577bc.jpg"
   },
+  "1095818885": {
+    "name": "ENIAC_卡尔特Curt",
+    "type": "vtuber",
+    "room_id": 24153568,
+    "face": "/bfs/face/0a970b29b83e6990972ed19409b2e59344632de3.jpg"
+  },
   "442769447": {
     "name": "卡恩马林娜罗德尼",
     "type": "vtuber",
@@ -21280,6 +21286,12 @@
     "type": "vtuber",
     "room_id": 22042314,
     "face": "/bfs/face/d4683ee9c666cafbb4a20bffa0640e45a1715490.jpg"
+  },
+  "1887101809": {
+    "name": "ENIAC_艾博单Ableton",
+    "type": "vtuber",
+    "room_id": 24153561,
+    "face": "/bfs/face/df8aeaf01c5fe38123561d1c0e9ea9737fbfebfa.jpg"
   },
   "55775602": {
     "name": "艾可aicooo",
