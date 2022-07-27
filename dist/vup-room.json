@@ -188,7 +188,7 @@
   "18265201": {
     "name": "幻羽Accesstobia",
     "type": "vtuber",
-    "room_id": 2781167,
+    "room_id": 0,
     "face": "/bfs/face/b35342b176f18ca064cc7c7ba624ff0f22f6cdd1.jpg"
   },
   "379333934": {
@@ -4142,7 +4142,7 @@
   "38337667": {
     "name": "东堂琥珀的蜜罐",
     "type": "vtuber",
-    "room_id": 13207721,
+    "room_id": 0,
     "face": "/bfs/face/01d48d85d0fcc0bf9286f80e0b21d4bbfe1924b2.jpg"
   },
   "3821157": {
@@ -5109,7 +5109,7 @@
     "name": "佚夜iya",
     "type": "vtuber",
     "room_id": 18158,
-    "face": "/bfs/face/437f41ad2a0ff44de6ac1084d418c6cde32f2163.jpg"
+    "face": "/bfs/face/6ba3e698cbddd417aaaa893a39e4561c8acea36e.jpg"
   },
   "343015985": {
     "name": "TNNTNNThshhsh",
@@ -9765,7 +9765,7 @@
     "name": "小夜子Sayoko_",
     "type": "vtuber",
     "room_id": 24344580,
-    "face": "/bfs/face/c065671037daa94b04117cdef895d68f4c80f713.jpg"
+    "face": "/bfs/face/2ee03dd7829c15e9f879a8604c8c3abcb56a2f05.jpg"
   },
   "1237746158": {
     "name": "小夜铃",
@@ -10953,7 +10953,7 @@
     "name": "库莉姆Cream",
     "type": "vtuber",
     "room_id": 22749172,
-    "face": "/bfs/face/a2d300e1e65d653c140f1222db9e6a4cd38dd37d.jpg"
+    "face": "/bfs/face/d57ec7a1d2e305991c968d774899c034c61b17dd.jpg"
   },
   "36604989": {
     "name": "应星尘channel",
@@ -11966,7 +11966,7 @@
   "19612544": {
     "name": "断手猫",
     "type": "vtuber",
-    "room_id": 91041,
+    "room_id": 0,
     "face": "/bfs/face/e33b873ec2e3cf757fa0e8c6fd73d56f436965b9.jpg"
   },
   "117199262": {
@@ -12909,7 +12909,7 @@
     "name": "帕森卡",
     "type": "vtuber",
     "room_id": 14093515,
-    "face": "/bfs/face/048b01887658e0ecb87275c7446c6e00f2a24cf9.jpg"
+    "face": "/bfs/face/3c5a820fdd94ccdc862707afa19cdd83a1a70414.jpg"
   },
   "17720955": {
     "name": "alter亲",
@@ -13161,7 +13161,7 @@
     "name": "随风kaze_cat",
     "type": "vtuber",
     "room_id": 11584992,
-    "face": "/bfs/face/b7b2d1f53eb31900d56ae730204f1d80846b69c4.jpg"
+    "face": "/bfs/face/9b23b991a2bb1f4d4c6119ef064e6c0330c1f35d.jpg"
   },
   "484431273": {
     "name": "禁止接触命令",
@@ -20783,6 +20783,12 @@
     "room_id": 1921106,
     "face": "/bfs/face/0774b37e5dbb0ab76412f50c5c4ef0edb9ef93cf.jpg"
   },
+  "657516": {
+    "name": "绯吧official",
+    "type": "vtuber",
+    "room_id": 24722893,
+    "face": "/bfs/face/60a9522d4945aea6d96326bfc4208c9e3c009486.jpg"
+  },
   "1027973491": {
     "name": "维多利亚official",
     "type": "vtuber",
@@ -22514,7 +22520,7 @@
   "915387": {
     "name": "菲蕾嘉official",
     "type": "vtuber",
-    "room_id": 830769,
+    "room_id": 0,
     "face": "/bfs/face/63e06112e5ece0e16a02aff19d20cacbf55df3bc.jpg"
   },
   "1289434903": {

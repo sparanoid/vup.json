@@ -157,7 +157,7 @@
   "18265201": {
     "name": "幻羽Accesstobia",
     "type": "vtuber",
-    "room": 2781167
+    "room": 0
   },
   "379333934": {
     "name": "Dev1ant",
@@ -3452,7 +3452,7 @@
   "38337667": {
     "name": "东堂琥珀的蜜罐",
     "type": "vtuber",
-    "room": 13207721
+    "room": 0
   },
   "3821157": {
     "name": "东爱璃Lovely",
@@ -9972,7 +9972,7 @@
   "19612544": {
     "name": "断手猫",
     "type": "vtuber",
-    "room": 91041
+    "room": 0
   },
   "117199262": {
     "name": "斯托拉斯sato",
@@ -17319,6 +17319,11 @@
     "type": "vtuber",
     "room": 1921106
   },
+  "657516": {
+    "name": "绯吧official",
+    "type": "vtuber",
+    "room": 24722893
+  },
   "1027973491": {
     "name": "维多利亚official",
     "type": "vtuber",
@@ -18762,7 +18767,7 @@
   "915387": {
     "name": "菲蕾嘉official",
     "type": "vtuber",
-    "room": 830769
+    "room": 0
   },
   "1289434903": {
     "name": "菲诺Channel",
