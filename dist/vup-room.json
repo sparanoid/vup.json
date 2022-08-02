@@ -4580,7 +4580,7 @@
   "441952268": {
     "name": "五月织姬ctsu",
     "type": "vtuber",
-    "room_id": 22014628,
+    "room_id": 0,
     "face": "/bfs/face/628ca050b671735cc068db157b5f9440c3309e07.jpg"
   },
   "529865": {
@@ -4802,7 +4802,7 @@
   "122680445": {
     "name": "伊可璐echo",
     "type": "vtuber",
-    "room_id": 23367889,
+    "room_id": 0,
     "face": "/bfs/face/7a6f1f27efae257d7228592d48b21450a8ac78ef.jpg"
   },
   "1632064048": {
@@ -6584,7 +6584,7 @@
   "169305": {
     "name": "南光雲戌_channel",
     "type": "vtuber",
-    "room_id": 638345,
+    "room_id": 0,
     "face": "/bfs/face/3a04ec5d403cef0899cdaea6a7a5fa15fe1da721.jpg"
   },
   "470992099": {
@@ -7010,7 +7010,7 @@
   "189745": {
     "name": "月休Kyuu",
     "type": "vtuber",
-    "room_id": 43558,
+    "room_id": 0,
     "face": "/bfs/face/19ed391b3ea398cb4c1fe1cb2750698812137c03.jpg"
   },
   "197466032": {
@@ -9212,7 +9212,7 @@
   "543797956": {
     "name": "娅绘Channel",
     "type": "vtuber",
-    "room_id": 22286047,
+    "room_id": 0,
     "face": "/bfs/face/0d2b4b57a6017aa5fd199f8bb17a5e2776cf5993.jpg"
   },
   "2866258": {
@@ -9494,7 +9494,7 @@
   "1768094747": {
     "name": "安纪亚",
     "type": "vtuber",
-    "room_id": 24153954,
+    "room_id": 0,
     "face": "/bfs/face/270d951ae4e6f94b603c2e716663bc3066af8505.jpg"
   },
   "2119815078": {
@@ -10370,7 +10370,7 @@
   "214854": {
     "name": "山崎薰薰",
     "type": "vtuber",
-    "room_id": 755940,
+    "room_id": 0,
     "face": "/bfs/face/9da330c831fb7112eab92ad7ea566b761482ddeb.jpg"
   },
   "88174947": {
@@ -12320,7 +12320,7 @@
   "32242019": {
     "name": "明雪九AkeyukiKyuu",
     "type": "vtuber",
-    "room_id": 3908559,
+    "room_id": 0,
     "face": "/bfs/face/a7744d0bb26fbbbc322eddc1ee0906fe257bf23e.jpg"
   },
   "73261640": {
@@ -12860,7 +12860,7 @@
   "1802613870": {
     "name": "星菜日向夏_official",
     "type": "vtuber",
-    "room_id": 22993398,
+    "room_id": 0,
     "face": "/bfs/face/184beec548227a06990a7a865c62dbd2d2863ce5.jpg"
   },
   "364728311": {
@@ -12944,7 +12944,7 @@
   "23268": {
     "name": "星野_Hoshino",
     "type": "vtuber",
-    "room_id": 49953,
+    "room_id": 0,
     "face": "/bfs/face/809ec3a044e88072848ea4fad858b10d3cfebe2f.jpg"
   },
   "14407544": {
@@ -13712,7 +13712,7 @@
   "350888860": {
     "name": "望月瀧offizielle",
     "type": "vtuber",
-    "room_id": 21958067,
+    "room_id": 0,
     "face": "/bfs/face/ecdf810c228665ad2b2c5cc72b5a2e4c7b01e087.jpg"
   },
   "1468007004": {
@@ -14408,7 +14408,7 @@
   "391760485": {
     "name": "柚唧の微光小剧场",
     "type": "vtuber",
-    "room_id": 21338753,
+    "room_id": 0,
     "face": "/bfs/face/ddcb267e740328d11ff139c3ed9af0ed70ad163f.jpg"
   },
   "1152334866": {
@@ -14607,7 +14607,7 @@
     "name": "栗原南_minami",
     "type": "vtuber",
     "room_id": 7387222,
-    "face": "/bfs/face/fb1bf274580fd1b7aaae787df323b9b642b5fbde.jpg"
+    "face": "/bfs/face/b0d918be48869a3c6c0ed8b834d59cba53be238b.jpg"
   },
   "50980433": {
     "name": "醋泡栗",
@@ -16010,7 +16010,7 @@
   "674600649": {
     "name": "阿米莉亚・华生Official",
     "type": "vtuber",
-    "room_id": 22503378,
+    "room_id": 0,
     "face": "/bfs/face/12b3f3cf04c3231f1cfd7c982133280efead992e.jpg"
   },
   "243669470": {
@@ -17942,7 +17942,7 @@
   "567234492": {
     "name": "玛安娜Myanna",
     "type": "vtuber",
-    "room_id": 22321043,
+    "room_id": 0,
     "face": "/bfs/face/887e4e1dce418b7696df396b3dadc1f37abcfe9f.jpg"
   },
   "1585307828": {
@@ -20822,7 +20822,7 @@
   "30153961": {
     "name": "绥和岁",
     "type": "vtuber",
-    "room_id": 1433842,
+    "room_id": 0,
     "face": "/bfs/face/69ec98a868bbcfaeff56672e568768ba3fcaa015.jpg"
   },
   "1577826459": {
@@ -22482,10 +22482,10 @@
     "face": "/bfs/face/2c4ecbda7db825946aa551bfa31f112151ec1276.jpg"
   },
   "1875044092": {
-    "name": "bilibili",
+    "name": "莞儿睡不醒",
     "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif"
+    "room_id": 25512476,
+    "face": "/bfs/face/89e589306901549f2193e505fb14d4cfc9d106d8.jpg"
   },
   "276610105": {
     "name": "莫宇声含Channel",
@@ -24885,7 +24885,7 @@
     "name": "阿斯塔_Aster",
     "type": "vtuber",
     "room_id": 21824946,
-    "face": "/bfs/face/f3d7e0496a9134e850cf85a3d45e5adfacd2218d.jpg"
+    "face": "/bfs/face/eed58dc9b9d134f1bf99357d9905002700b8b4a5.jpg"
   },
   "551114698": {
     "name": "阿斯特尔瑞达Official",
@@ -25917,7 +25917,7 @@
     "name": "陌筱筱OVO",
     "type": "vtuber",
     "room_id": 891074,
-    "face": "/bfs/face/92e13e9290fe8fef7d71753ca57242f85b1cd747.jpg"
+    "face": "/bfs/face/a09800d4e75a844e0793d1f56b66fac73423e72f.jpg"
   },
   "686979207": {
     "name": "風和凛Fuwari_",
@@ -26475,7 +26475,7 @@
     "name": "鳯龙美Rumi",
     "type": "vtuber",
     "room_id": 23158421,
-    "face": "/bfs/face/0222250d6fb285d34b9fc5d320e07e8a3f7c2293.jpg"
+    "face": "/bfs/face/9df9d7c241154af4ef14109fc04499f5ef0f10bd.jpg"
   },
   "236022662": {
     "name": "鸣神裁字幕组",
