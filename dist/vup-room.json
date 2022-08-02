@@ -3194,7 +3194,7 @@
   "24461374": {
     "name": "遥はるか_Official",
     "type": "vtuber",
-    "room_id": 24535851,
+    "room_id": 0,
     "face": "/bfs/face/7edfaf098518b3ae3dfda52c316b337cd22f6f3b.jpg"
   },
   "409689786": {
@@ -7527,7 +7527,7 @@
     "name": "啦比_rabby",
     "type": "vtuber",
     "room_id": 24040860,
-    "face": "/bfs/face/e1aac365babd3bf527a6ed24fd5f21b3c8ef3a46.jpg"
+    "face": "/bfs/face/81d014088ac8d189a2c78d7da5cf08e35a9db87f.jpg"
   },
   "1226850716": {
     "name": "啵缇兔_Official",
@@ -10077,7 +10077,7 @@
     "name": "小苏婉呀",
     "type": "vtuber",
     "room_id": 23976580,
-    "face": "/bfs/face/cda4ce9222383a83891fd385fe1b58d1f223a876.jpg"
+    "face": "/bfs/face/bb49507aca60fad8d5938e747e00ce3015802d2a.jpg"
   },
   "76080175": {
     "name": "小荧Lumos",
@@ -10293,7 +10293,7 @@
     "name": "尼亚_Nia",
     "type": "vtuber",
     "room_id": 316536,
-    "face": "/bfs/face/66b821d3e46f7aa5621e9114db13faa9ddbb0adc.jpg"
+    "face": "/bfs/face/1cc7ebeb19f350e5fa6c6215878e2fd096e0c698.jpg"
   },
   "163653": {
     "name": "尼奈nine_Official",
@@ -12933,7 +12933,7 @@
     "name": "星谷樹_itsuki",
     "type": "vtuber",
     "room_id": 790566,
-    "face": "/bfs/face/a0f86ca433cf5303e17f37563ec3ca6958fdf4d8.jpg"
+    "face": "/bfs/face/483347c5d355d6c9fdc483a4a698e72b14de34d5.jpg"
   },
   "1743015": {
     "name": "星越Koshi",
@@ -19707,7 +19707,7 @@
     "name": "秋乌不是啾呜",
     "type": "vtuber",
     "room_id": 1422090,
-    "face": "/bfs/face/9561b5060592af82bb136fcd93c6441bd6ba3d04.jpg"
+    "face": "/bfs/face/aea6f7d8788971149e30ab36ffd449bb08ae501e.jpg"
   },
   "1610379": {
     "name": "秋元松",
@@ -25700,7 +25700,7 @@
   "2072052979": {
     "name": "露馅er",
     "type": "vtuber",
-    "room_id": 24854681,
+    "room_id": 0,
     "face": "/bfs/face/58f5c03b124251e8556255112d0fac5f97df38a0.jpg"
   },
   "446414455": {
@@ -26108,7 +26108,7 @@
   "20272422": {
     "name": "饼小茶Cookie",
     "type": "vtuber",
-    "room_id": 2996078,
+    "room_id": 0,
     "face": "/bfs/face/1103a3f86bc43a0be2abb3cd78888d507d6397d2.png"
   },
   "526895813": {
@@ -26787,7 +26787,7 @@
     "name": "麓小鹿呀",
     "type": "vtuber",
     "room_id": 585717,
-    "face": "/bfs/face/66a07cc6fc7479df26faed1a63f5a2c8e009652e.jpg"
+    "face": "/bfs/face/ab42db3b261e07561ff788fd13cb46e46a30a5bb.jpg"
   },
   "233299554": {
     "name": "麦乐桃_Molly",
