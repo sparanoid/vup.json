@@ -960,7 +960,7 @@
     "face": "/bfs/face/55c44c8fdf515eec7681ef52754cb0cdd757d94a.jpg"
   },
   "1413880763": {
-    "name": "雪菈缇诺",
+    "name": "欧丽千伊欧斯",
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/8e02c50d237585d5d33efa4f6e4521de60e2687d.jpg"
@@ -1538,7 +1538,7 @@
   "209306657": {
     "name": "奈克斯Nex",
     "type": "vtuber",
-    "room": 0,
+    "room": 9538065,
     "face": "/bfs/face/87543b3fc39a34b14ad490ccd2aea5b3204de761.jpg"
   },
   "1230463982": {
@@ -3116,7 +3116,7 @@
   "2601367": {
     "name": "時雨羽衣Official",
     "type": "vtuber",
-    "room": 0,
+    "room": 9389401,
     "face": "/bfs/face/887a14bfa7f57c99fd403d9e084000d54176e1c7.jpg"
   },
   "274025706": {
@@ -3194,7 +3194,7 @@
   "24461374": {
     "name": "遥はるか_Official",
     "type": "vtuber",
-    "room": 0,
+    "room": 24535851,
     "face": "/bfs/face/7edfaf098518b3ae3dfda52c316b337cd22f6f3b.jpg"
   },
   "409689786": {
@@ -4082,7 +4082,7 @@
   "454737600": {
     "name": "不知火芙蕾雅Official",
     "type": "vtuber",
-    "room": 21572617,
+    "room": 0,
     "face": "/bfs/face/39a175968eaf1f4f5670b7999d5a6feae772f8d9.jpg"
   },
   "1566230": {
@@ -5534,7 +5534,7 @@
   "25397402": {
     "name": "莎莎被王哥梆梆敲头",
     "type": "vtuber",
-    "room": 2436830,
+    "room": 0,
     "face": "/bfs/face/38943a1b29d22939fcd582c1c491b6db840d1401.jpg"
   },
   "194326389": {
@@ -7508,7 +7508,7 @@
   "520366620": {
     "name": "啊黎喵的切片号",
     "type": "unknown",
-    "room": 0,
+    "room": 23787344,
     "face": "/bfs/face/aa370909c8982a81fbf0f6534514f735e70b5a3e.jpg"
   },
   "385042281": {
@@ -7616,7 +7616,7 @@
   "846180": {
     "name": "喵田弥夜Miya",
     "type": "vtuber",
-    "room": 0,
+    "room": 3012597,
     "face": "/bfs/face/1a396c7d216fce280fc7dc4864c928d404dea108.jpg"
   },
   "144984743": {
@@ -8516,7 +8516,7 @@
   "434103940": {
     "name": "天不生我小樱桃",
     "type": "vtuber",
-    "room": 0,
+    "room": 22375050,
     "face": "/bfs/face/833f66cac64fdd288f07ca676e34c845301bb72e.jpg"
   },
   "7961231": {
@@ -12218,7 +12218,7 @@
   "1950658": {
     "name": "早稻叽",
     "type": "vtuber",
-    "room": 41682,
+    "room": 0,
     "face": "/bfs/face/b7d3a230a5c8bba70606e4d133f71f99aae1ab23.jpg"
   },
   "697652272": {
@@ -12860,7 +12860,7 @@
   "1802613870": {
     "name": "星菜日向夏_official",
     "type": "vtuber",
-    "room": 0,
+    "room": 22993398,
     "face": "/bfs/face/184beec548227a06990a7a865c62dbd2d2863ce5.jpg"
   },
   "364728311": {
@@ -13790,7 +13790,7 @@
   "82255852": {
     "name": "木易Maria",
     "type": "vtuber",
-    "room": 0,
+    "room": 3534232,
     "face": "/bfs/face/e0147cccdb1b402befc8a6a626c548c492099f49.jpg"
   },
   "257589608": {
@@ -14564,7 +14564,7 @@
   "3727017": {
     "name": "栀栀Kori",
     "type": "vtuber",
-    "room": 1229639,
+    "room": 0,
     "face": "/bfs/face/ea3317f6e73b87b052cc7d930cfd905d19182717.jpg"
   },
   "49474": {
@@ -17942,7 +17942,7 @@
   "567234492": {
     "name": "玛安娜Myanna",
     "type": "vtuber",
-    "room": 0,
+    "room": 22321043,
     "face": "/bfs/face/887e4e1dce418b7696df396b3dadc1f37abcfe9f.jpg"
   },
   "1585307828": {
@@ -17972,8 +17972,8 @@
   "1221600493": {
     "name": "环Tamaki_channel",
     "type": "vtuber",
-    "room": 23118096,
-    "face": "/bfs/face/3edaab2d0713f0742c2fa37b317379858bab4cd8.jpg"
+    "room": 0,
+    "face": "/bfs/face/36833412ce0eba8bc843c9e6e46a0cbd471df39d.jpg"
   },
   "3204673": {
     "name": "玹碎之晶ですよ",
@@ -19106,7 +19106,7 @@
   "927813": {
     "name": "盐月明日_ShiodukiAsu",
     "type": "vtuber",
-    "room": 23948583,
+    "room": 0,
     "face": "/bfs/face/dc23a77e9090bacf8d364aa2e52e421951efc1fd.jpg"
   },
   "219507": {
@@ -20822,7 +20822,7 @@
   "30153961": {
     "name": "绥和岁",
     "type": "vtuber",
-    "room": 0,
+    "room": 1433842,
     "face": "/bfs/face/69ec98a868bbcfaeff56672e568768ba3fcaa015.jpg"
   },
   "1577826459": {
@@ -23252,7 +23252,7 @@
   "697737710": {
     "name": "蝶蝶Hikari",
     "type": "vtuber",
-    "room": 0,
+    "room": 23369901,
     "face": "/bfs/face/25e17f3af39331c848fec7787bb119fef3cd0748.jpg"
   },
   "744031": {
@@ -23612,7 +23612,7 @@
   "1252992677": {
     "name": "豆包软软",
     "type": "vtuber",
-    "room": 0,
+    "room": 22894592,
     "face": "/bfs/face/9452da6ddc29773eaf901daac2c8fee6d52cfd66.jpg"
   },
   "4711217": {
