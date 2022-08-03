@@ -1814,7 +1814,7 @@
   "441079300": {
     "name": "PulsarGame",
     "type": "vtuber",
-    "room_id": 21615902,
+    "room_id": 0,
     "face": "/bfs/face/42b056123126ad835090833a624c3412d26d47d1.jpg"
   },
   "1944602110": {
@@ -2643,7 +2643,7 @@
     "name": "dodo_Official",
     "type": "vtuber",
     "room_id": 23945626,
-    "face": "/bfs/face/ab13367c48e0fb3a1218c0a4673fdb6dc8ed3508.jpg"
+    "face": "/bfs/face/8e5ccb37865f70c0ea0bc32ab5b50cd126dd89cb.jpg"
   },
   "7805371": {
     "name": "woundedwolf",
@@ -14408,7 +14408,7 @@
   "391760485": {
     "name": "柚唧の微光小剧场",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 21338753,
     "face": "/bfs/face/ddcb267e740328d11ff139c3ed9af0ed70ad163f.jpg"
   },
   "1152334866": {
@@ -15081,7 +15081,7 @@
     "name": "梦魇Tsuki",
     "type": "vtuber",
     "room_id": 851181,
-    "face": "/bfs/face/4ae5de849a91b7cf46f17f8a6a6f43809b7d16d9.jpg"
+    "face": "/bfs/face/facd1b737c67e036f49a9b59e7eede0371ac9828.jpg"
   },
   "1900141897": {
     "name": "梨安不迷路",
@@ -16464,7 +16464,7 @@
     "face": "/bfs/face/cee0e3f710c080b42b608b231ae81a598e45fb79.jpg"
   },
   "131441910": {
-    "name": "浮樨落羽Official",
+    "name": "浮樨落羽",
     "type": "vtuber",
     "room_id": 5492969,
     "face": "/bfs/face/b5a81d64961fa33646f5b779aeb19955795bc94a.jpg"
@@ -23817,7 +23817,7 @@
     "name": "赫拉Kris",
     "type": "vtuber",
     "room_id": 22861834,
-    "face": "/bfs/face/d358864e005cf90039816ce04db50c922dfe5c9d.jpg"
+    "face": "/bfs/face/25bb950d7be5a65878b1406b602a17e0b7d82f6d.jpg"
   },
   "21363840": {
     "name": "赫斯塔_Hestur",
