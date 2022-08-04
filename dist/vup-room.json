@@ -3101,6 +3101,12 @@
     "room_id": 0,
     "face": "/bfs/face/15f7efadfcd76b5d20e949c08328c80b0447c22a.jpg"
   },
+  "1126225283": {
+    "name": "こころみぃ_vtuber",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/a075770c4193efa1d56f0e9588ea0345805691fe.jpg"
+  },
   "348436944": {
     "name": "诺夜洛祁桑Official",
     "type": "vtuber",
@@ -4088,7 +4094,7 @@
   "454737600": {
     "name": "不知火芙蕾雅Official",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 21572617,
     "face": "/bfs/face/39a175968eaf1f4f5670b7999d5a6feae772f8d9.jpg"
   },
   "1566230": {
@@ -9069,7 +9075,7 @@
     "name": "奶豆豆o",
     "type": "vtuber",
     "room_id": 24061115,
-    "face": "/bfs/face/ba64334d653d294b259886fff868227df518b1aa.jpg"
+    "face": "/bfs/face/b86aa0ba5aa126cdf42dc6f0c338dc08de369729.jpg"
   },
   "14251443": {
     "name": "我只是路过而已无视我",
@@ -10924,6 +10930,12 @@
     "type": "vtuber",
     "room_id": 2537902,
     "face": "/bfs/face/1755c508e3cf3fb41c38300edf1ca03025889f16.jpg"
+  },
+  "2082574877": {
+    "name": "幼栗突然出现",
+    "type": "vtuber",
+    "room_id": 24604089,
+    "face": "/bfs/face/670a605b2852435de5671f11852eeb43bd4089c0.jpg"
   },
   "663577831": {
     "name": "幼薇喵nya",
@@ -18714,10 +18726,10 @@
     "face": "/bfs/face/8aeeb69ce0df9d7475e779fd0e17c38212389822.jpg"
   },
   "5020601": {
-    "name": "花響channel",
+    "name": "想響花花会怎么做",
     "type": "vtuber",
     "room_id": 2506886,
-    "face": "/bfs/face/6e1634d4641aa581bb0a21b9c92c8bc33bce88ec.jpg"
+    "face": "/bfs/face/2417434bf32c511bf3f30d045d5160a12698763c.jpg"
   },
   "1458080347": {
     "name": "白濑葵字幕组",
@@ -20654,7 +20666,7 @@
   "403930401": {
     "name": "绿仙Official",
     "type": "vtuber",
-    "room_id": 21302479,
+    "room_id": 0,
     "face": "/bfs/face/cf23495d3c01b93dd0c15fa24c24872f9b54d5f8.jpg"
   },
   "80387576": {
@@ -21496,6 +21508,12 @@
     "type": "vtuber",
     "room_id": 81004,
     "face": "/bfs/face/b6f1874a60b66b39d3481cf303094f708caae1ab.jpg"
+  },
+  "21222067": {
+    "name": "艾德文娜-Edwina",
+    "type": "vtuber",
+    "room_id": 1127033,
+    "face": "/bfs/face/7eff998b5fd0c0a7824323fe99b70d0874f076bb.jpg"
   },
   "36317391": {
     "name": "艾斯_Vcitizen",

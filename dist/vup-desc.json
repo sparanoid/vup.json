@@ -3618,6 +3618,13 @@
     "face": "/bfs/face/15f7efadfcd76b5d20e949c08328c80b0447c22a.jpg",
     "sign": "这里是新晋kaheru字幕组，之后会陆续上传超绝可爱的kaheru的熟肉，请多多关照"
   },
+  "1126225283": {
+    "name": "こころみぃ_vtuber",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/a075770c4193efa1d56f0e9588ea0345805691fe.jpg",
+    "sign": "这个日本VTuber7月2日晩上八点第一次直播໒꒱ *˚中文可能很奇怪，因为我正在学习߹ ω ߹"
+  },
   "348436944": {
     "name": "诺夜洛祁桑Official",
     "type": "vtuber",
@@ -4769,7 +4776,7 @@
   "454737600": {
     "name": "不知火芙蕾雅Official",
     "type": "vtuber",
-    "room": 0,
+    "room": 21572617,
     "face": "/bfs/face/39a175968eaf1f4f5670b7999d5a6feae772f8d9.jpg",
     "sign": "我是hololive所属3期生 半精灵不知火芙蕾雅哦～ 担当画师：lack   协力：不知火芙蕾雅字幕组"
   },
@@ -8740,7 +8747,7 @@
     "type": "vtuber",
     "room": 22342563,
     "face": "/bfs/face/8308238a902907e950038bc816ac1cb45f877e57.jpg",
-    "sign": "真的不是吸血鬼！！（尝试唱歌不跑调中）"
+    "sign": "真的不是吸血鬼！！（不敢说学习 但想唱歌不跑调）"
   },
   "1219196749": {
     "name": "唐九夏还想再躺一下",
@@ -10580,7 +10587,7 @@
     "name": "奶豆豆o",
     "type": "vtuber",
     "room": 24061115,
-    "face": "/bfs/face/ba64334d653d294b259886fff868227df518b1aa.jpg",
+    "face": "/bfs/face/b86aa0ba5aa126cdf42dc6f0c338dc08de369729.jpg",
     "sign": "心动是意外，忠诚是选择"
   },
   "14251443": {
@@ -12745,6 +12752,13 @@
     "room": 2537902,
     "face": "/bfs/face/1755c508e3cf3fb41c38300edf1ca03025889f16.jpg",
     "sign": "笑起来像张飞的快乐修鸟咪，中性音杂谈势VUP，粉丝群：646303398"
+  },
+  "2082574877": {
+    "name": "幼栗突然出现",
+    "type": "vtuber",
+    "room": 24604089,
+    "face": "/bfs/face/670a605b2852435de5671f11852eeb43bd4089c0.jpg",
+    "sign": "为什么响铃会煮化捏"
   },
   "663577831": {
     "name": "幼薇喵nya",
@@ -21833,10 +21847,10 @@
     "sign": ""
   },
   "5020601": {
-    "name": "花響channel",
+    "name": "想響花花会怎么做",
     "type": "vtuber",
     "room": 2506886,
-    "face": "/bfs/face/6e1634d4641aa581bb0a21b9c92c8bc33bce88ec.jpg",
+    "face": "/bfs/face/2417434bf32c511bf3f30d045d5160a12698763c.jpg",
     "sign": "樱城学院的风纪委员与图书委员。执子之手，与子偕老。"
   },
   "1458080347": {
@@ -24096,7 +24110,7 @@
   "403930401": {
     "name": "绿仙Official",
     "type": "vtuber",
-    "room": 21302479,
+    "room": 0,
     "face": "/bfs/face/cf23495d3c01b93dd0c15fa24c24872f9b54d5f8.jpg",
     "sign": "大家好，我是NIJISANJI的绿仙。18岁。多多给我留言评论我会很开心的。请多关照！"
   },
@@ -25079,6 +25093,13 @@
     "room": 81004,
     "face": "/bfs/face/b6f1874a60b66b39d3481cf303094f708caae1ab.jpg",
     "sign": "Redcircle社所属Vliver 冒险家艾尔莎！一起来狩猎薯条吧！"
+  },
+  "21222067": {
+    "name": "艾德文娜-Edwina",
+    "type": "vtuber",
+    "room": 1127033,
+    "face": "/bfs/face/7eff998b5fd0c0a7824323fe99b70d0874f076bb.jpg",
+    "sign": "个人势，男的，主战雷，也会打打一些FPS，虽然说是个FPS废物\n哪有什么艾德文娜，只不过是一个人的自我安慰罢了"
   },
   "36317391": {
     "name": "艾斯_Vcitizen",

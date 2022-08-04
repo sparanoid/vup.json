@@ -2584,6 +2584,11 @@
     "type": "vtuber",
     "room": 0
   },
+  "1126225283": {
+    "name": "こころみぃ_vtuber",
+    "type": "vtuber",
+    "room": 0
+  },
   "348436944": {
     "name": "诺夜洛祁桑Official",
     "type": "vtuber",
@@ -3407,7 +3412,7 @@
   "454737600": {
     "name": "不知火芙蕾雅Official",
     "type": "vtuber",
-    "room": 0
+    "room": 21572617
   },
   "1566230": {
     "name": "不祈十弦Official",
@@ -9103,6 +9108,11 @@
     "name": "幼-菲尼克斯",
     "type": "vtuber",
     "room": 2537902
+  },
+  "2082574877": {
+    "name": "幼栗突然出现",
+    "type": "vtuber",
+    "room": 24604089
   },
   "663577831": {
     "name": "幼薇喵nya",
@@ -15595,7 +15605,7 @@
     "room": 282677
   },
   "5020601": {
-    "name": "花響channel",
+    "name": "想響花花会怎么做",
     "type": "vtuber",
     "room": 2506886
   },
@@ -17212,7 +17222,7 @@
   "403930401": {
     "name": "绿仙Official",
     "type": "vtuber",
-    "room": 21302479
+    "room": 0
   },
   "80387576": {
     "name": "织田信姬official",
@@ -17913,6 +17923,11 @@
     "name": "艾尔莎_Channel",
     "type": "vtuber",
     "room": 81004
+  },
+  "21222067": {
+    "name": "艾德文娜-Edwina",
+    "type": "vtuber",
+    "room": 1127033
   },
   "36317391": {
     "name": "艾斯_Vcitizen",
