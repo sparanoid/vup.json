@@ -3044,7 +3044,7 @@
   "12367735": {
     "name": "ileheart非公式搬运",
     "type": "vtuber",
-    "room_id": 354793,
+    "room_id": 0,
     "face": "/bfs/face/18373d089faf411f25b2d59fc0869cf2125aecc2.jpg"
   },
   "304626640": {
@@ -5571,7 +5571,7 @@
     "name": "情绪不安定",
     "type": "vtuber",
     "room_id": 599020,
-    "face": "/bfs/face/b7b393aba8ae97cd1ec9fc209afa44e7647a4d10.jpg"
+    "face": "/bfs/face/eeae6a7a11d41c57f546cb8be291db5acc5f162c.jpg"
   },
   "1577097749": {
     "name": "兰枫Official",
@@ -14127,7 +14127,7 @@
     "name": "杜安_Duane",
     "type": "vtuber",
     "room_id": 23233451,
-    "face": "/bfs/face/16c1b2d7bc25f6b38359159235da18630d089a99.jpg"
+    "face": "/bfs/face/8da301d20d0d86731a78e21a912ab0fd9d4fa7be.jpg"
   },
   "471460273": {
     "name": "杜松子_Gin",
