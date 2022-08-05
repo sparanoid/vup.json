@@ -2156,7 +2156,7 @@
   "181559741": {
     "name": "Tacitly_麟犀",
     "type": "vtuber",
-    "room_id": 5342167,
+    "room_id": 0,
     "face": "/bfs/face/5d2b6912c1701be0d7be4a4762f1794b7c165109.jpg"
   },
   "1996131": {
@@ -3044,7 +3044,7 @@
   "12367735": {
     "name": "ileheart非公式搬运",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 354793,
     "face": "/bfs/face/18373d089faf411f25b2d59fc0869cf2125aecc2.jpg"
   },
   "304626640": {
@@ -6399,7 +6399,7 @@
     "name": "千瑠火Ruka",
     "type": "vtuber",
     "room_id": 24167371,
-    "face": "/bfs/face/a3a0b8b0b6d21479617b88bc16199f3b82632728.jpg"
+    "face": "/bfs/face/0dfd5e4ffa595097870cf284aa67cdfd82b30db0.jpg"
   },
   "145998448": {
     "name": "诗星羽Channel",
@@ -10755,7 +10755,7 @@
     "name": "希莉娅CCelia",
     "type": "vtuber",
     "room_id": 23280495,
-    "face": "/bfs/face/5bb7eb1d5180639fdbda4d630a5c783845a8ab46.jpg"
+    "face": "/bfs/face/2c675691ae82d514c3e131871469bc3a46fb6479.jpg"
   },
   "354411419": {
     "name": "希薇娅Civia",
@@ -11344,6 +11344,12 @@
     "type": "vtuber",
     "room_id": 414081,
     "face": "/bfs/face/0262fbe8778a469b0d403efdb6f8e6076daf3cf2.jpg"
+  },
+  "1652576593": {
+    "name": "德古拉丝大魔王",
+    "type": "vtuber",
+    "room_id": 23942399,
+    "face": "/bfs/face/b2b07a68f3b97cf92cfd5ff42f2bc7cb6a34e1fc.jpg"
   },
   "430589": {
     "name": "德拉_Channel",
@@ -12609,7 +12615,7 @@
     "name": "星川纱露",
     "type": "vtuber",
     "room_id": 7659622,
-    "face": "/bfs/face/5ca37a0111e5577af6ae9629af80ff1133f93297.jpg"
+    "face": "/bfs/face/bf576cf423c469b32a82605e3fa0621c40f997a1.jpg"
   },
   "503622929": {
     "name": "星川铃Rin",
@@ -13064,7 +13070,7 @@
   "1806974352": {
     "name": "星野澪_Mio",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 25673615,
     "face": "/bfs/face/4830be9eda67e06fa8eaed6d245be11daa88cfd9.jpg"
   },
   "9736638": {
@@ -14519,6 +14525,12 @@
     "room_id": 22595698,
     "face": "/bfs/face/0e622cacb566feaca60e9392619fb8173f697b2f.jpg"
   },
+  "402326": {
+    "name": "柚花花_Official",
+    "type": "vtuber",
+    "room_id": 23566,
+    "face": "/bfs/face/35a468ee02452d14c26b07968ef1c56254768448.jpg"
+  },
   "23360330": {
     "name": "柚诺Yono",
     "type": "vtuber",
@@ -15196,6 +15208,12 @@
     "type": "vtuber",
     "room_id": 1567213,
     "face": "/bfs/face/ac25351e16b2117e103ad6f718b1c0c3f68beb4a.jpg"
+  },
+  "6298904": {
+    "name": "棠衣衣吖",
+    "type": "vtuber",
+    "room_id": 617714,
+    "face": "/bfs/face/4f02fb4461b3c235995ac9c08ae9bfe3ebef7e9d.jpg"
   },
   "124177": {
     "name": "森ノ目律channel",
@@ -19340,7 +19358,7 @@
   "488232269": {
     "name": "眠目直木Official",
     "type": "vtuber",
-    "room_id": 21732125,
+    "room_id": 0,
     "face": "/bfs/face/7629c5c40db6496e265262993726574ec369dd80.jpg"
   },
   "1780255602": {
@@ -20666,7 +20684,7 @@
   "403930401": {
     "name": "绿仙Official",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 21302479,
     "face": "/bfs/face/cf23495d3c01b93dd0c15fa24c24872f9b54d5f8.jpg"
   },
   "80387576": {
@@ -22725,7 +22743,7 @@
     "name": "蒙兔丽莎miya",
     "type": "vtuber",
     "room_id": 24907139,
-    "face": "/bfs/face/d2cb50e9b9f7c743882ac11a75afc2d78e36a71c.jpg"
+    "face": "/bfs/face/632389384dfc5c9f1e5f3478367e8aba8574eb3f.jpg"
   },
   "22259121": {
     "name": "今天的萌新喵学习了吗",
