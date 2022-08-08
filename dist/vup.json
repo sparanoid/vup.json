@@ -7901,6 +7901,12 @@
     "room": 3297925,
     "face": "/bfs/face/0ca530e1229a7931694f36b16612dc3143e1faca.jpg"
   },
+  "524816": {
+    "name": "塩本花楓Channel",
+    "type": "vtuber",
+    "room": 622976,
+    "face": "/bfs/face/e2af02000af9ff5638ffdac53b06e6006debbb81.jpg"
+  },
   "609950762": {
     "name": "塩田伊緒Official",
     "type": "vtuber",
@@ -12904,6 +12910,12 @@
     "type": "vtuber",
     "room": 6284503,
     "face": "/bfs/face/063b48aeb02fa93b5d3e60c1356106fbdcdb6b68.jpg"
+  },
+  "1167135969": {
+    "name": "星羽幸Official",
+    "type": "vtuber",
+    "room": 24710243,
+    "face": "/bfs/face/e0abf8e1704394ccc641324ff8c780d08a90e2e0.jpg"
   },
   "101694830": {
     "name": "柊栗BT-01",
