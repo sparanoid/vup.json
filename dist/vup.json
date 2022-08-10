@@ -5843,6 +5843,12 @@
     "room": 224163,
     "face": "/bfs/face/8e73bc1364e7c6a31732db307fdde691340ad2e3.jpg"
   },
+  "84202865": {
+    "name": "凌喵咲夜_Channel",
+    "type": "vtuber",
+    "room": 9093019,
+    "face": "/bfs/face/d427ec60e4a85ff952f78cd02f050562829e6bba.jpg"
+  },
   "159995981": {
     "name": "红色成年男性偶像",
     "type": "vtuber",
@@ -13540,6 +13546,12 @@
     "type": "vtuber",
     "room": 10351814,
     "face": "/bfs/face/8d83ca191ee1d195bc65b2f892bc112dcacbb98e.jpg"
+  },
+  "1546247673": {
+    "name": "月兔suki",
+    "type": "vtuber",
+    "room": 25412424,
+    "face": "/bfs/face/6707e417acc53ebee5463e2df642c50a90ad5f2d.jpg"
   },
   "486618657": {
     "name": "月兔华-WACTOR官方",
