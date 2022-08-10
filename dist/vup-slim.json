@@ -8292,7 +8292,7 @@
   "356395260": {
     "name": "木子汐suki",
     "type": "vtuber",
-    "room": 13040765
+    "room": 0
   },
   "686179867": {
     "name": "小杀slash",
@@ -18793,6 +18793,11 @@
     "name": "莉莉姆Lilim",
     "type": "vtuber",
     "room": 691494
+  },
+  "164967923": {
+    "name": "莉莉安Lllian",
+    "type": "vtuber",
+    "room": 25369913
   },
   "661461705": {
     "name": "莉莉安_Official",

@@ -8583,7 +8583,7 @@
     "name": "天之宫苍泽",
     "type": "vtuber",
     "room": 1353049,
-    "face": "/bfs/face/3e01918d00e97724b036bf196de11f8971f097d0.jpg"
+    "face": "/bfs/face/e0121326aecb0a72f6ae9cc79b75845cad70f035.jpg"
   },
   "126401": {
     "name": "天仓五Alice",
@@ -9950,7 +9950,7 @@
   "356395260": {
     "name": "木子汐suki",
     "type": "vtuber",
-    "room": 13040765,
+    "room": 0,
     "face": "/bfs/face/fd00210c12e22c8426738fc795086db3151c40ba.jpg"
   },
   "686179867": {
@@ -14061,7 +14061,7 @@
     "name": "机智大灯灯",
     "type": "vtuber",
     "room": 623698,
-    "face": "/bfs/face/a708641bb2e1bc815d9d5862f7c1998dc57f5f52.jpg"
+    "face": "/bfs/face/86cf343a4d40cf0ca80c30c93a9deb9672e2b65b.jpg"
   },
   "2424614": {
     "name": "破破破Poi晓",
@@ -22552,6 +22552,12 @@
     "type": "vtuber",
     "room": 691494,
     "face": "/bfs/face/f451578a33a4e0dcf34cc1286c20e86dd189e91f.jpg"
+  },
+  "164967923": {
+    "name": "莉莉安Lllian",
+    "type": "vtuber",
+    "room": 25369913,
+    "face": "/bfs/face/075b0d3577b78bbee80e44540d76630f54fafba5.jpg"
   },
   "661461705": {
     "name": "莉莉安_Official",
