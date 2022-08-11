@@ -16062,10 +16062,10 @@
     "face": "/bfs/face/ac12e2074d2d721a81b37ee92f35dc8c7b555776.jpg"
   },
   "134742724": {
-    "name": "bili_52060504823",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 23103070,
-    "face": "/bfs/face/15a70927017e1a475a1ba0bd935ffaa72fef139e.jpg"
+    "room": 0,
+    "face": "/images/member/noface.gif"
   },
   "452303463": {
     "name": "汐言_Official",
