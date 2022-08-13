@@ -2483,6 +2483,12 @@
     "room": 29183,
     "face": "/bfs/face/1059fafde0224a8f2070bd01ac98c628acaa373c.jpg"
   },
+  "1192693417": {
+    "name": "Yenn咕噜咕噜",
+    "type": "vtuber",
+    "room": 25657054,
+    "face": "/bfs/face/22a627d54c1cf3631e462f81a79f547a4e89c926.jpg"
+  },
   "160024260": {
     "name": "昨日きのう",
     "type": "vtuber",
@@ -13575,7 +13581,7 @@
     "name": "月兮Channel",
     "type": "vtuber",
     "room": 22625077,
-    "face": "/bfs/face/e2d0a9d98ed68d4a6adefccfb794071e77a343d9.jpg"
+    "face": "/bfs/face/e8828219d3fdfd860cf05b723cb52cfbdd29b4e9.jpg"
   },
   "1651694880": {
     "name": "月城千夜_Official",
