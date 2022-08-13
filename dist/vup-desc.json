@@ -6849,7 +6849,7 @@
     "name": "凛-阿格里亚斯",
     "type": "vtuber",
     "room": 3525213,
-    "face": "/bfs/baselabs/a8928658fa7c0fb63a06cb8476009bee9b1afe85.jpg",
+    "face": "/bfs/face/955fbab22e8eb86f96653ab4568a9a8c24c796c0.jpg",
     "sign": ""
   },
   "320111": {
@@ -10527,6 +10527,13 @@
     "face": "/bfs/face/019cab6b55d3c6d31ea5bf19790145e04e3429e4.jpg",
     "sign": "SPQR四个字母定义了人生 绘师：@观月十一1001 模型师：@电脑玩家无害"
   },
+  "1219797330": {
+    "name": "奥卡塞特丝_OrcaCetus",
+    "type": "vtuber",
+    "room": 25693098,
+    "face": "/bfs/face/3c88435b5a6a62f9d21f58c62b4a4bc00b2a317b.jpg",
+    "sign": "你好，欢迎你的到来。这里是奥卡塞特丝。"
+  },
   "926620": {
     "name": "奥因杜卡",
     "type": "vtuber",
@@ -11466,11 +11473,11 @@
     "sign": "novus所属！ 吃吃吃就知道吃！好吃吗？  是一只不务正业的歌势超清楚白鼬！群号：858938367  "
   },
   "488006873": {
-    "name": "小南莓Official",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 21745484,
-    "face": "/bfs/face/b1f5004b1f1daf52e309cacb3890c19c917eba27.jpg",
-    "sign": "晚上好！这里是摸鱼系虚拟UP主小南莓！不定时随缘直播！欢迎来找我玩哦∠( ᐛ 」∠)＿粉丝群：894133265"
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
   },
   "14387072": {
     "name": "小可学妹",
@@ -17167,7 +17174,7 @@
     "name": "栗原南_minami",
     "type": "vtuber",
     "room": 7387222,
-    "face": "/bfs/face/b0d918be48869a3c6c0ed8b834d59cba53be238b.jpg",
+    "face": "/bfs/face/0c823982dc0a9d6f072b2d7cade7901e2d5f7a95.jpg",
     "sign": "弱弱歌势vup\n直播时间每天的20:30~2:30\n群号:852362848欢迎来玩ww\n我会努力让大家喜欢我哒！"
   },
   "50980433": {
@@ -17287,7 +17294,7 @@
     "type": "vtuber",
     "room": 22642754,
     "face": "/bfs/face/40b3ff39bd5771b6b96f901f1bf6bb03a16098b6.jpg",
-    "sign": "思い出なんでいらない"
+    "sign": "思い出なんていらない"
   },
   "7061223": {
     "name": "桃卷子儿_Channel",
@@ -18973,7 +18980,7 @@
     "name": "沫熠Moyi",
     "type": "vtuber",
     "room": 8613948,
-    "face": "/bfs/face/b430a73d7f2d01d6f19581c566e5b68746d63fc6.jpg",
+    "face": "/bfs/face/83fa3cb8921950fe75430951dad7d5088a072c6e.jpg",
     "sign": "这里是虚拟up沫熠，一个破打游戏的和算得上喜欢唱歌吧的v，请多关照qwq"
   },
   "65566781": {
@@ -19996,7 +20003,7 @@
     "type": "vtuber",
     "room": 3217309,
     "face": "/bfs/face/fdd98cd61391a41d1bf6263e594c2641ff0f6b85.jpg",
-    "sign": "个人歌势未出道v，锦鲤少女灯侨~人来人往，感谢陪伴~粉丝群235520458❤️直播时间醒了就播，每天都播。出生日2022.4.23~"
+    "sign": "个歌全职未出道v，锦鲤少女灯侨~人来人往，感谢陪伴~粉丝群235520458❤️直播时间醒了就播，每天都播。出生日2022.4.23~"
   },
   "1854400894": {
     "name": "灯夜tomoya",
@@ -21553,11 +21560,11 @@
     "sign": "Fairy System所属\n我是甜梨梨梨梨！(*´罒`*)\n聊天群：1072697920\n网易云：甜梨_Official\n感谢大家喜欢"
   },
   "599505098": {
-    "name": "甜甜冰块Official",
+    "name": "甜甜冰块",
     "type": "vtuber",
     "room": 22592134,
     "face": "/bfs/face/51d1e7c19e38380d05f82434665e512e139fff7e.jpg",
-    "sign": "大家好呀 我是虚拟猫猫甘冰！可以叫我冰冰噢(*˘︶˘*).｡.:*直播通知群：832587084"
+    "sign": "我是虚拟猫猫甘冰！可以叫我冰冰噢(*˘︶˘*)\n直播通知群：832587084"
   },
   "45813298": {
     "name": "田中大和喵",
@@ -22608,6 +22615,13 @@
     "room": 21672024,
     "face": "/bfs/face/6958d76ac636ea2a5b18a1927446dcb0b722bb1c.jpg",
     "sign": "虚拟艺人团体VirtuaReal成员，真绯瑠mahiru，デビル日々進化中！商务合作：bd@vrp.live"
+  },
+  "1320742569": {
+    "name": "真越Zenya",
+    "type": "vtuber",
+    "room": 25171852,
+    "face": "/bfs/face/d7aca1a21e7508c9c2511a4bbe577a72bff54d55.jpg",
+    "sign": "一名梦想成为优秀音乐制作人新人小v，努力制作投稿中..."
   },
   "589181": {
     "name": "真鵺KEYU_Channel",
@@ -27325,7 +27339,7 @@
     "type": "vtuber",
     "room": 23369901,
     "face": "/bfs/face/460a4b1e38b4a93437275e59f09f5e9970fabd47.jpg",
-    "sign": "愿望是开心"
+    "sign": "不知名纯良v 保护就完事了"
   },
   "744031": {
     "name": "蝶蝶狐_Chouko",
@@ -28179,7 +28193,7 @@
     "type": "vtuber",
     "room": 7111251,
     "face": "/bfs/face/f22b34b3aa12331a1ff451dfbd91ba06f226a58d.jpg",
-    "sign": " 这里是软软，是个画手，米画师/p站/微博ID：软软Rakki，暂不接稿"
+    "sign": " 这里是软软，是个画手，米画师/p站/微博ID：软软Rakki，不接私稿，商稿联系邮箱"
   },
   "586880203": {
     "name": "轰京子Official",
@@ -30984,7 +30998,7 @@
   "1070397650": {
     "name": "魔王MIMMO-official",
     "type": "vtuber",
-    "room": 22671786,
+    "room": 0,
     "face": "/bfs/face/779e214ef0f38298c6f024feca6b34c61da7f7ed.jpg",
     "sign": "魔王みんもは日本の魔界の関西の個人勢Vtuberです"
   },

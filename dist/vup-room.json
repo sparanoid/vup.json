@@ -5871,7 +5871,7 @@
     "name": "凛-阿格里亚斯",
     "type": "vtuber",
     "room_id": 3525213,
-    "face": "/bfs/baselabs/a8928658fa7c0fb63a06cb8476009bee9b1afe85.jpg"
+    "face": "/bfs/face/955fbab22e8eb86f96653ab4568a9a8c24c796c0.jpg"
   },
   "320111": {
     "name": "凛可_Paradise",
@@ -9023,6 +9023,12 @@
     "room_id": 22340293,
     "face": "/bfs/face/019cab6b55d3c6d31ea5bf19790145e04e3429e4.jpg"
   },
+  "1219797330": {
+    "name": "奥卡塞特丝_OrcaCetus",
+    "type": "vtuber",
+    "room_id": 25693098,
+    "face": "/bfs/face/3c88435b5a6a62f9d21f58c62b4a4bc00b2a317b.jpg"
+  },
   "926620": {
     "name": "奥因杜卡",
     "type": "vtuber",
@@ -9828,10 +9834,10 @@
     "face": "/bfs/face/cb0c0199fa1f4d2fdd6ac0d0572cd35d0ab5a71c.jpg"
   },
   "488006873": {
-    "name": "小南莓Official",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 21745484,
-    "face": "/bfs/face/b1f5004b1f1daf52e309cacb3890c19c917eba27.jpg"
+    "room_id": 0,
+    "face": "/images/member/noface.gif"
   },
   "14387072": {
     "name": "小可学妹",
@@ -14715,7 +14721,7 @@
     "name": "栗原南_minami",
     "type": "vtuber",
     "room_id": 7387222,
-    "face": "/bfs/face/b0d918be48869a3c6c0ed8b834d59cba53be238b.jpg"
+    "face": "/bfs/face/0c823982dc0a9d6f072b2d7cade7901e2d5f7a95.jpg"
   },
   "50980433": {
     "name": "醋泡栗",
@@ -16263,7 +16269,7 @@
     "name": "沫熠Moyi",
     "type": "vtuber",
     "room_id": 8613948,
-    "face": "/bfs/face/b430a73d7f2d01d6f19581c566e5b68746d63fc6.jpg"
+    "face": "/bfs/face/83fa3cb8921950fe75430951dad7d5088a072c6e.jpg"
   },
   "65566781": {
     "name": "河豚不是海豚音",
@@ -18474,7 +18480,7 @@
     "face": "/bfs/face/8042e9204f9d97fa6cbff579e2f8d4fe5ee6764a.jpg"
   },
   "599505098": {
-    "name": "甜甜冰块Official",
+    "name": "甜甜冰块",
     "type": "vtuber",
     "room_id": 22592134,
     "face": "/bfs/face/51d1e7c19e38380d05f82434665e512e139fff7e.jpg"
@@ -19378,6 +19384,12 @@
     "type": "vtuber",
     "room_id": 21672024,
     "face": "/bfs/face/6958d76ac636ea2a5b18a1927446dcb0b722bb1c.jpg"
+  },
+  "1320742569": {
+    "name": "真越Zenya",
+    "type": "vtuber",
+    "room_id": 25171852,
+    "face": "/bfs/face/d7aca1a21e7508c9c2511a4bbe577a72bff54d55.jpg"
   },
   "589181": {
     "name": "真鵺KEYU_Channel",
@@ -26558,7 +26570,7 @@
   "1070397650": {
     "name": "魔王MIMMO-official",
     "type": "vtuber",
-    "room_id": 22671786,
+    "room_id": 0,
     "face": "/bfs/face/779e214ef0f38298c6f024feca6b34c61da7f7ed.jpg"
   },
   "178214": {

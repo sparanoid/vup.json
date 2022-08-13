@@ -7519,6 +7519,11 @@
     "type": "vtuber",
     "room": 22340293
   },
+  "1219797330": {
+    "name": "奥卡塞特丝_OrcaCetus",
+    "type": "vtuber",
+    "room": 25693098
+  },
   "926620": {
     "name": "奥因杜卡",
     "type": "vtuber",
@@ -8190,9 +8195,9 @@
     "room": 22815988
   },
   "488006873": {
-    "name": "小南莓Official",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 21745484
+    "room": 0
   },
   "14387072": {
     "name": "小可学妹",
@@ -15395,7 +15400,7 @@
     "room": 22331152
   },
   "599505098": {
-    "name": "甜甜冰块Official",
+    "name": "甜甜冰块",
     "type": "vtuber",
     "room": 22592134
   },
@@ -16148,6 +16153,11 @@
     "name": "真绯瑠mahiru",
     "type": "vtuber",
     "room": 21672024
+  },
+  "1320742569": {
+    "name": "真越Zenya",
+    "type": "vtuber",
+    "room": 25171852
   },
   "589181": {
     "name": "真鵺KEYU_Channel",
@@ -22132,7 +22142,7 @@
   "1070397650": {
     "name": "魔王MIMMO-official",
     "type": "vtuber",
-    "room": 22671786
+    "room": 0
   },
   "178214": {
     "name": "魔王YALU",
