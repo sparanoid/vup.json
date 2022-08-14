@@ -9840,10 +9840,10 @@
     "face": "/bfs/face/cb0c0199fa1f4d2fdd6ac0d0572cd35d0ab5a71c.jpg"
   },
   "488006873": {
-    "name": "bilibili",
+    "name": "小南莓Official",
     "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif"
+    "room_id": 21745484,
+    "face": "/bfs/face/b1f5004b1f1daf52e309cacb3890c19c917eba27.jpg"
   },
   "14387072": {
     "name": "小可学妹",
@@ -24692,7 +24692,7 @@
   "1552664": {
     "name": "bilibili",
     "type": "vtuber",
-    "room_id": 15996,
+    "room_id": 0,
     "face": "/images/member/noface.gif"
   },
   "458154144": {
@@ -25497,7 +25497,7 @@
     "name": "雪樱Usagi",
     "type": "vtuber",
     "room_id": 1075515,
-    "face": "/bfs/face/5d595788b34905addce672db1c5459abd0b67651.jpg"
+    "face": "/bfs/face/a525f8418680f5bda22f616f493ff5a5ddfb0a9f.jpg"
   },
   "514073": {
     "name": "雪樱の神Channel",
@@ -26576,7 +26576,7 @@
   "1070397650": {
     "name": "魔王MIMMO-official",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 22671786,
     "face": "/bfs/face/779e214ef0f38298c6f024feca6b34c61da7f7ed.jpg"
   },
   "178214": {
