@@ -4215,7 +4215,7 @@
     "name": "丧喵是大笨蛋",
     "type": "vtuber",
     "room": 11946834,
-    "face": "/bfs/face/6dde3dbce805a691841a30a1da329bed300fdc88.jpg"
+    "face": "/bfs/face/46f07716ec0d6bc79ace3cf17c8a857d80d2b04f.jpg"
   },
   "480291322": {
     "name": "丧择乐",
@@ -4306,6 +4306,12 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/d44b39156fedd3b2964c77faae2d86090ed83166.jpg"
+  },
+  "781606": {
+    "name": "么鱼",
+    "type": "vtuber",
+    "room": 4895331,
+    "face": "/bfs/face/814ce91be6caebddb82f7bbb7acb2ca8b2988b96.jpg"
   },
   "8978401": {
     "name": "弭尔焃巴",
@@ -8883,7 +8889,7 @@
     "name": "沫茗Awako",
     "type": "vtuber",
     "room": 271675,
-    "face": "/bfs/face/e757bbd1718ef9bc6123dde6c2f0b6db3307ccfa.jpg"
+    "face": "/bfs/face/376edad592db587b37428e0d05f6dff249418d62.jpg"
   },
   "35028769": {
     "name": "天鸟软糖",
@@ -10689,7 +10695,7 @@
     "name": "帅比笙歌超可爱OvO",
     "type": "vtuber",
     "room": 573893,
-    "face": "/bfs/face/2bb71302d9661826781c0b4da19ba3169bbc5e45.jpg"
+    "face": "/bfs/face/0164d972dc8c8b7e7179733588613e50dae5d9f4.jpg"
   },
   "266874228": {
     "name": "佳茵是个小富婆",
@@ -15046,6 +15052,12 @@
     "type": "vtuber",
     "room": 2270348,
     "face": "/bfs/face/fd9398f6143a579bd1470a77713a967899dcee12.jpg"
+  },
+  "397758529": {
+    "name": "桜都子",
+    "type": "vtuber",
+    "room": 25356160,
+    "face": "/bfs/face/f5f36db790efcd6598efc5091c2f8fd594e6aaae.jpg"
   },
   "22411036": {
     "name": "桥A_channel",
@@ -20470,6 +20482,12 @@
     "type": "vtuber",
     "room": 3784886,
     "face": "/bfs/face/5c81bcdff323857bef55be66ba44cdb2eba5694d.jpg"
+  },
+  "1262316876": {
+    "name": "糖小小爱吃肉",
+    "type": "vtuber",
+    "room": 25321350,
+    "face": "/bfs/face/832633fd3741144b2c5bf083009148c647bf41c1.jpg"
   },
   "587195714": {
     "name": "糖果鹿_Candy",
