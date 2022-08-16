@@ -1064,11 +1064,11 @@
     "sign": "Ike here! Virtual novelist from NIJISANJI EN!\n\n"
   },
   "2032815411": {
-    "name": "Ike的羽毛笔尖",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 24044004,
-    "face": "/bfs/face/e7c55dc7ddf23d74d8d3ee81591f02bdfe62a268.jpg",
-    "sign": "NIJISANJI EN所属Ike Eveland非公式搬运组，进组审核群225093545，粉丝群号可自行私信发送关键词“粉丝群”获取"
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
   },
   "19872419": {
     "name": "Iris雨梦",
@@ -13905,7 +13905,7 @@
     "name": "歌歌_Ovo",
     "type": "vtuber",
     "room": 21180272,
-    "face": "/bfs/face/9dbd4b394de2b4ad080906ece202b04c7a734975.jpg",
+    "face": "/bfs/face/ecd3b11dc8bc4ca84c6738590384e7da4cc2a3cd.jpg",
     "sign": ""
   },
   "17433861": {

@@ -912,10 +912,10 @@
     "face": "/bfs/face/6f0473ea0c756e33d304c1997eb56ec104b8063d.jpg"
   },
   "2032815411": {
-    "name": "Ike的羽毛笔尖",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 24044004,
-    "face": "/bfs/face/e7c55dc7ddf23d74d8d3ee81591f02bdfe62a268.jpg"
+    "room": 0,
+    "face": "/images/member/noface.gif"
   },
   "19872419": {
     "name": "Iris雨梦",
@@ -11919,7 +11919,7 @@
     "name": "歌歌_Ovo",
     "type": "vtuber",
     "room": 21180272,
-    "face": "/bfs/face/9dbd4b394de2b4ad080906ece202b04c7a734975.jpg"
+    "face": "/bfs/face/ecd3b11dc8bc4ca84c6738590384e7da4cc2a3cd.jpg"
   },
   "17433861": {
     "name": "抹茶味慕斯",
