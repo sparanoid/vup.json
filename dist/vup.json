@@ -1641,7 +1641,7 @@
     "name": "Oumi欧乌米",
     "type": "vtuber",
     "room": 22341481,
-    "face": "/bfs/face/9d08fa851b49ec85928611fe5a13290e7d701857.jpg"
+    "face": "/bfs/face/30510ca1a8744ffbee89f7627aaa6c3878e1f057.jpg"
   },
   "18149131": {
     "name": "Overidea_China",
@@ -2482,6 +2482,12 @@
     "type": "vtuber",
     "room": 29183,
     "face": "/bfs/face/1059fafde0224a8f2070bd01ac98c628acaa373c.jpg"
+  },
+  "1822027685": {
+    "name": "Yasuri_",
+    "type": "vtuber",
+    "room": 23067628,
+    "face": "/bfs/face/f3a9145f4f08d82095aad71526e810e1adad67fe.jpg"
   },
   "1192693417": {
     "name": "Yenn咕噜咕噜",
@@ -3891,7 +3897,7 @@
     "name": "七海Nana7mi",
     "type": "vtuber",
     "room": 21452505,
-    "face": "/bfs/face/bdd2895d83cb67ca33ef651e1d7eb5e96e220545.jpg"
+    "face": "/bfs/face/254aedbf9dad0ed5e1117c2e435a6f36ed70c64d.jpg"
   },
   "4280541": {
     "name": "七海幽娴Official",
@@ -7463,6 +7469,12 @@
     "room": 23517719,
     "face": "/bfs/face/711d456b7232e1771d04d3eb656df89a3abfb402.jpg"
   },
+  "2766325": {
+    "name": "咸香椰汁",
+    "type": "vtuber",
+    "room": 64751,
+    "face": "/bfs/face/b2d0267ea8035e5942b4375deafd1e0ea77dde46.jpg"
+  },
   "317470592": {
     "name": "咸鱼味的米粉儿",
     "type": "vtuber",
@@ -8308,6 +8320,12 @@
     "type": "vtuber",
     "room": 23156592,
     "face": "/bfs/face/995d6bf31500d3994d116442aa8d9703e4977071.jpg"
+  },
+  "336442974": {
+    "name": "夜原没有小尾巴",
+    "type": "vtuber",
+    "room": 22845802,
+    "face": "/bfs/face/1897fad84730e1443d2d4e1f985951eb62a52105.jpg"
   },
   "690608689": {
     "name": "夜宫Yomiya",
@@ -12333,7 +12351,7 @@
     "name": "早穗",
     "type": "vtuber",
     "room": 22569046,
-    "face": "/bfs/face/3fba76ff80b232858b9242efbf54ce8d983788e1.jpg"
+    "face": "/bfs/face/d69a47da7e8aa0d92ba78f5b117d39b47b23566b.jpg"
   },
   "541696090": {
     "name": "早见咲Saki",
@@ -15466,6 +15484,12 @@
     "type": "vtuber",
     "room": 22611454,
     "face": "/bfs/face/d7cc10b368a81020c199afeac7145e28e0142865.jpg"
+  },
+  "280135728": {
+    "name": "楚天明c",
+    "type": "vtuber",
+    "room": 21379697,
+    "face": "/bfs/face/a6044544aa4e0a6386ca117114807f343df448bb.jpg"
   },
   "299459797": {
     "name": "tyusuiko",
@@ -21807,7 +21831,7 @@
     "name": "芙芙hana",
     "type": "vtuber",
     "room": 1436328,
-    "face": "/bfs/face/47e2257387379d7260fa2605250dcf9b304bc76b.jpg"
+    "face": "/bfs/face/17a0d2b1530a0f70ff27f1bb94014cab7204448c.jpg"
   },
   "690608705": {
     "name": "芙莲Official",
@@ -26358,10 +26382,10 @@
     "face": "/bfs/face/140a35f9d0cae8b9ce338b8da85d3663ecc3f8ad.jpg"
   },
   "545143565": {
-    "name": "香织Kaori",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 24247740,
-    "face": "/bfs/face/67c5330c4ee8469a15e6f786b1735ef7ac4e3804.jpg"
+    "room": 0,
+    "face": "/images/member/noface.gif"
   },
   "7074812": {
     "name": "纱幼nya",
