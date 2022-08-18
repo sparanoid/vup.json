@@ -1913,6 +1913,12 @@
     "room_id": 31947,
     "face": "/bfs/face/33a8429b4b4a8cfe60ca42ecd267e4672c3ccf60.jpg"
   },
+  "546192461": {
+    "name": "Rinko琳可",
+    "type": "vtuber",
+    "room_id": 25235084,
+    "face": "/bfs/face/87b1b92cadb3ce051206f3299248607f727f113e.jpg"
+  },
   "3287291": {
     "name": "Riztech",
     "type": "vtuber",
@@ -18731,6 +18737,12 @@
     "room_id": 1303005,
     "face": "/bfs/face/0bc3b224461e7edc6f419cfb0663fcfc8f46dfb1.jpg"
   },
+  "1430451810": {
+    "name": "白唄Shiro",
+    "type": "vtuber",
+    "room_id": 25683786,
+    "face": "/bfs/face/c79f27fbfe497eed52fa871bf43aa57546e79a68.jpg"
+  },
   "33223504": {
     "name": "白垩不饿",
     "type": "vtuber",
@@ -18838,6 +18850,12 @@
     "type": "vtuber",
     "room_id": 42270,
     "face": "/bfs/face/304d2c71cce2804232100e4ace2d7174fbf5e39f.jpg"
+  },
+  "15196481": {
+    "name": "白桃奶昔茶",
+    "type": "vtuber",
+    "room_id": 253154,
+    "face": "/bfs/face/ffd6af161132ce983f0af051f6f19ac010f2bcb1.jpg"
   },
   "482303454": {
     "name": "転生子餅",
@@ -20308,6 +20326,12 @@
     "type": "vtuber",
     "room_id": 22339726,
     "face": "/bfs/face/745567402ffe12389bfc8c07bb5d9624a955b2c8.jpg"
+  },
+  "132595192": {
+    "name": "筱陌lucky",
+    "type": "vtuber",
+    "room_id": 4872393,
+    "face": "/bfs/face/07de568f3600d33ac2651f6a99adc23ce6ae0c00.jpg"
   },
   "4690327": {
     "name": "筱魈Syou",
