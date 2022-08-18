@@ -1769,6 +1769,12 @@
     "room_id": 438063,
     "face": "/bfs/face/29ffeaf67cf2c19589a5057e236c154f95c50025.jpg"
   },
+  "523494605": {
+    "name": "Power_Yuki",
+    "type": "vtuber",
+    "room_id": 22892743,
+    "face": "/bfs/face/4b7a3dad1d7b9fed2b5f19725c9b0fee1e3f3de8.jpg"
+  },
   "324594206": {
     "name": "ProjectCyto",
     "type": "group",
@@ -4925,6 +4931,12 @@
     "room_id": 22605466,
     "face": "/bfs/face/a98866c56e778098eb594098ad6f7d0f1a9324fb.jpg"
   },
+  "59403044": {
+    "name": "伊灵Yukari",
+    "type": "vtuber",
+    "room_id": 23186788,
+    "face": "/bfs/face/42f77b8c9d6c48d9cfe5aafd51a1c309f1ad50e3.jpg"
+  },
   "21807782": {
     "name": "伊瑞薇_Irivy",
     "type": "vtuber",
@@ -6449,12 +6461,6 @@
     "room_id": 22594880,
     "face": "/bfs/face/166de42e31178d8741318fb3196d5a55aa907df5.jpg"
   },
-  "5658712": {
-    "name": "千耘official",
-    "type": "vtuber",
-    "room_id": 1129453,
-    "face": "/bfs/face/9fe923ea3139aaeb0f7f0d92bb7d35a96d9ebd44.jpg"
-  },
   "8119834": {
     "name": "千草はな",
     "type": "vtuber",
@@ -6808,6 +6814,12 @@
     "type": "vtuber",
     "room_id": 24827493,
     "face": "/bfs/face/8d8b4b79bfff21e8773b56f0e45be4be6620a8a2.jpg"
+  },
+  "2031213010": {
+    "name": "卡蒂娜CardTina",
+    "type": "vtuber",
+    "room_id": 25629638,
+    "face": "/bfs/face/7389d1c71df22dd33d932277ea79d63912a000ef.jpg"
   },
   "688053738": {
     "name": "卡诺娅Kanoa",
@@ -14681,6 +14693,12 @@
     "room_id": 13210891,
     "face": "/bfs/face/d33b3d0d5dbf621718e6e1c7065409981126b68a.jpg"
   },
+  "1817270847": {
+    "name": "柳鹤烟_Hanabi",
+    "type": "vtuber",
+    "room_id": 25478421,
+    "face": "/bfs/face/eab869fb79f0fdfe910f0604634ad3d394ecd6a9.jpg"
+  },
   "3072262": {
     "name": "柴崎连_Channel",
     "type": "vtuber",
@@ -15647,11 +15665,11 @@
     "room_id": 21345812,
     "face": "/bfs/face/14c35476a24c6492b6dcfdf6c266952a8c353f15.jpg"
   },
-  "6789240": {
-    "name": "风云奆奆",
+  "2007335777": {
+    "name": "樱满月虚拟社团",
     "type": "group",
-    "room_id": 461057,
-    "face": "/bfs/face/4733cdee48395cf2f00b6967edb931d79f4d7852.jpg"
+    "room_id": 0,
+    "face": "/bfs/face/98eb24d8c0059843fc52b9912a2a8f72ad5c38d4.jpg"
   },
   "96457812": {
     "name": "樱色风铃mw",
@@ -19582,6 +19600,12 @@
     "type": "vtuber",
     "room_id": 14378366,
     "face": "/bfs/face/0dd13f6a31c2a1b0078b1fc15b3a02e30bd54c02.jpg"
+  },
+  "9311399": {
+    "name": "碎星BrokenS",
+    "type": "vtuber",
+    "room_id": 2881075,
+    "face": "/bfs/face/5a1ea5d3c1ef031377a2bfa3c786a89650acd5f3.jpg"
   },
   "66548288": {
     "name": "碳鸽Official",
@@ -26188,6 +26212,12 @@
     "type": "vtuber",
     "room_id": 0,
     "face": "/bfs/face/20931d15c7a5acc8229f5b9c1ee648a5694c5620.jpg"
+  },
+  "6789240": {
+    "name": "风云奆奆",
+    "type": "vtuber",
+    "room_id": 461057,
+    "face": "/bfs/face/4733cdee48395cf2f00b6967edb931d79f4d7852.jpg"
   },
   "592354538": {
     "name": "风云社",

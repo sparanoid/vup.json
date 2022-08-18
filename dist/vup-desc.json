@@ -2064,6 +2064,13 @@
     "face": "/bfs/face/29ffeaf67cf2c19589a5057e236c154f95c50025.jpg",
     "sign": "歌势修狐妮"
   },
+  "523494605": {
+    "name": "Power_Yuki",
+    "type": "vtuber",
+    "room": 22892743,
+    "face": "/bfs/face/4b7a3dad1d7b9fed2b5f19725c9b0fee1e3f3de8.jpg",
+    "sign": "不改了！"
+  },
   "324594206": {
     "name": "ProjectCyto",
     "type": "group",
@@ -5746,6 +5753,13 @@
     "face": "/bfs/face/a98866c56e778098eb594098ad6f7d0f1a9324fb.jpg",
     "sign": "虚拟艺人团体VirtuaReal成员，清楚担当！本体是眼镜，书签是食材。商务合作：bd@vrp.live"
   },
+  "59403044": {
+    "name": "伊灵Yukari",
+    "type": "vtuber",
+    "room": 23186788,
+    "face": "/bfs/face/42f77b8c9d6c48d9cfe5aafd51a1c309f1ad50e3.jpg",
+    "sign": "樱满月虚拟社团所属。美食音乐，你我不可辜负。粉丝群：481393122"
+  },
   "21807782": {
     "name": "伊瑞薇_Irivy",
     "type": "vtuber",
@@ -7524,13 +7538,6 @@
     "face": "/bfs/face/166de42e31178d8741318fb3196d5a55aa907df5.jpg",
     "sign": "天凤前九段，现役八段，雀魂日服三代目魂天。\n虚拟主播千羽黑乃的授权搬运组。\n字幕组群：934300457，欢迎有能man加入"
   },
-  "5658712": {
-    "name": "千耘official",
-    "type": "vtuber",
-    "room": 1129453,
-    "face": "/bfs/face/9fe923ea3139aaeb0f7f0d92bb7d35a96d9ebd44.jpg",
-    "sign": "Providence Connections所属，来自中国三农官方的学者，现在来普罗维登调研！为了我们更好的农业！农村！农民！"
-  },
   "8119834": {
     "name": "千草はな",
     "type": "vtuber",
@@ -7943,6 +7950,13 @@
     "room": 24827493,
     "face": "/bfs/face/8d8b4b79bfff21e8773b56f0e45be4be6620a8a2.jpg",
     "sign": "外表看似小孩智慧却弱于小孩的大笨蛋萝宝"
+  },
+  "2031213010": {
+    "name": "卡蒂娜CardTina",
+    "type": "vtuber",
+    "room": 25629638,
+    "face": "/bfs/face/7389d1c71df22dd33d932277ea79d63912a000ef.jpg",
+    "sign": "「樱满月虚拟社团」所属，让我们一起创造美好的回忆吧！！！粉丝群：864870308"
   },
   "688053738": {
     "name": "卡诺娅Kanoa",
@@ -17128,6 +17142,13 @@
     "face": "/bfs/face/d33b3d0d5dbf621718e6e1c7065409981126b68a.jpg",
     "sign": "<ChaosLive·S>所属 长着神奇呆毛的个人势！粉丝群：1030633741 审核群：816466406"
   },
+  "1817270847": {
+    "name": "柳鹤烟_Hanabi",
+    "type": "vtuber",
+    "room": 25478421,
+    "face": "/bfs/face/eab869fb79f0fdfe910f0604634ad3d394ecd6a9.jpg",
+    "sign": "「樱满月虚拟社团」所属。烟花铺的猫掌柜，努力经营店铺中；烟花铺编码773474680，欢迎各位光临小铺喵。※兼职恋爱区up主"
+  },
   "3072262": {
     "name": "柴崎连_Channel",
     "type": "vtuber",
@@ -18255,12 +18276,12 @@
     "face": "/bfs/face/14c35476a24c6492b6dcfdf6c266952a8c353f15.jpg",
     "sign": "节目改良、练习、尝试整活和强迫大家陪同的虚无直播专用(´ . .̫ . `)   爱发电：@SakuraRakko"
   },
-  "6789240": {
-    "name": "风云奆奆",
+  "2007335777": {
+    "name": "樱满月虚拟社团",
     "type": "group",
-    "room": 461057,
-    "face": "/bfs/face/4733cdee48395cf2f00b6967edb931d79f4d7852.jpg",
-    "sign": "「樱满月虚拟社团」所属，企业势社团老板（打工人）。"
+    "room": 0,
+    "face": "/bfs/face/98eb24d8c0059843fc52b9912a2a8f72ad5c38d4.jpg",
+    "sign": "「樱满月虚拟社团」官方账号，想要为更多的虚拟主播带来更好的直播环境！"
   },
   "96457812": {
     "name": "樱色风铃mw",
@@ -22847,6 +22868,13 @@
     "face": "/bfs/face/0dd13f6a31c2a1b0078b1fc15b3a02e30bd54c02.jpg",
     "sign": "闷骚白猫师傅与绿毛坐骑徒弟的欢（che)乐(dan)日常。 可接建模/一条龙，B站或者米画师私信都可。"
   },
+  "9311399": {
+    "name": "碎星BrokenS",
+    "type": "vtuber",
+    "room": 2881075,
+    "face": "/bfs/face/5a1ea5d3c1ef031377a2bfa3c786a89650acd5f3.jpg",
+    "sign": "❤精神状态不稳定系女巫❤防止发疯 现已隔离❤"
+  },
   "66548288": {
     "name": "碳鸽Official",
     "type": "vtuber",
@@ -27101,7 +27129,7 @@
     "type": "vtuber",
     "room": 24153986,
     "face": "/bfs/face/c0b0f13adb37e1a88045f188478d7bccdf92858a.jpg",
-    "sign": "hOuOu虛拟艺人团体成员。\n『时间的缝隙里，除了孤独…还有什么呢？』\n商务：houou_project@163.com"
+    "sign": "hOuOu虛拟艺人团体成员。\n『时间…对你来说，究竟是什么样的存在呢？』\n商务：houou_project@163.com"
   },
   "9882877": {
     "name": "藍芽子_Aimeko",
@@ -30553,6 +30581,13 @@
     "room": 0,
     "face": "/bfs/face/20931d15c7a5acc8229f5b9c1ee648a5694c5620.jpg",
     "sign": "VTB风见唯花搬运（非公式）（2021年1月31日已毕业）"
+  },
+  "6789240": {
+    "name": "风云奆奆",
+    "type": "vtuber",
+    "room": 461057,
+    "face": "/bfs/face/4733cdee48395cf2f00b6967edb931d79f4d7852.jpg",
+    "sign": "「樱满月虚拟社团」所属，企业势社团老板（打工人）。"
   },
   "592354538": {
     "name": "风云社",

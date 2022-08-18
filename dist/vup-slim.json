@@ -1474,6 +1474,11 @@
     "type": "vtuber",
     "room": 438063
   },
+  "523494605": {
+    "name": "Power_Yuki",
+    "type": "vtuber",
+    "room": 22892743
+  },
   "324594206": {
     "name": "ProjectCyto",
     "type": "group",
@@ -4104,6 +4109,11 @@
     "type": "vtuber",
     "room": 22605466
   },
+  "59403044": {
+    "name": "伊灵Yukari",
+    "type": "vtuber",
+    "room": 23186788
+  },
   "21807782": {
     "name": "伊瑞薇_Irivy",
     "type": "vtuber",
@@ -5374,11 +5384,6 @@
     "type": "vtuber",
     "room": 22594880
   },
-  "5658712": {
-    "name": "千耘official",
-    "type": "vtuber",
-    "room": 1129453
-  },
   "8119834": {
     "name": "千草はな",
     "type": "vtuber",
@@ -5673,6 +5678,11 @@
     "name": "卡萝尔Akuma",
     "type": "vtuber",
     "room": 24827493
+  },
+  "2031213010": {
+    "name": "卡蒂娜CardTina",
+    "type": "vtuber",
+    "room": 25629638
   },
   "688053738": {
     "name": "卡诺娅Kanoa",
@@ -12234,6 +12244,11 @@
     "type": "vtuber",
     "room": 13210891
   },
+  "1817270847": {
+    "name": "柳鹤烟_Hanabi",
+    "type": "vtuber",
+    "room": 25478421
+  },
   "3072262": {
     "name": "柴崎连_Channel",
     "type": "vtuber",
@@ -13039,10 +13054,10 @@
     "type": "vtuber",
     "room": 21345812
   },
-  "6789240": {
-    "name": "风云奆奆",
+  "2007335777": {
+    "name": "樱满月虚拟社团",
     "type": "group",
-    "room": 461057
+    "room": 0
   },
   "96457812": {
     "name": "樱色风铃mw",
@@ -16318,6 +16333,11 @@
     "name": "砂糖缘子",
     "type": "vtuber",
     "room": 14378366
+  },
+  "9311399": {
+    "name": "碎星BrokenS",
+    "type": "vtuber",
+    "room": 2881075
   },
   "66548288": {
     "name": "碳鸽Official",
@@ -21823,6 +21843,11 @@
     "name": "风见唯花搬运",
     "type": "vtuber",
     "room": 0
+  },
+  "6789240": {
+    "name": "风云奆奆",
+    "type": "vtuber",
+    "room": 461057
   },
   "592354538": {
     "name": "风云社",
