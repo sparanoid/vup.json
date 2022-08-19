@@ -911,12 +911,6 @@
     "room_id": 24731531,
     "face": "/bfs/face/6f0473ea0c756e33d304c1997eb56ec104b8063d.jpg"
   },
-  "2032815411": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 24044004,
-    "face": "/images/member/noface.gif"
-  },
   "19872419": {
     "name": "Iris雨梦",
     "type": "vtuber",
@@ -10866,7 +10860,7 @@
     "face": "/bfs/face/44e271fd3583254a5d0037d2d164e0fd1e616582.jpg"
   },
   "175017927": {
-    "name": "希铃菲儿Channel",
+    "name": "希铃菲儿_FaylP",
     "type": "vtuber",
     "room_id": 14030305,
     "face": "/bfs/face/bbbf559172297b40543d823b9a7971b05fc9425f.jpg"
@@ -10890,7 +10884,7 @@
     "face": "/bfs/face/bc5d18f5fd9e9d7d9dff4cd303f7c00304760d46.jpg"
   },
   "7113504": {
-    "name": "乌鱼吃乌龙",
+    "name": "巫珑channel",
     "type": "vtuber",
     "room_id": 7097266,
     "face": "/bfs/face/f9a0027a996932af89bb66a71355f868ec116395.jpg"
@@ -24772,12 +24766,6 @@
     "type": "vtuber",
     "room_id": 22817105,
     "face": "/bfs/face/02fcbec928fb09427e4158ad24f638dd8cdeb2c5.jpg"
-  },
-  "1552664": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif"
   },
   "458154144": {
     "name": "铃鹿诗子Official",
