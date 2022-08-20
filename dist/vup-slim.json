@@ -1024,6 +1024,11 @@
     "type": "vtuber",
     "room": 821362
   },
+  "1565887006": {
+    "name": "MUGEN-LIVE",
+    "type": "group",
+    "room": 0
+  },
   "402355190": {
     "name": "MZ次元",
     "type": "group",
@@ -4298,6 +4303,11 @@
     "name": "佐藤ココ",
     "type": "vtuber",
     "room": 0
+  },
+  "2114332408": {
+    "name": "佐藤白SatoWhite",
+    "type": "vtuber",
+    "room": 24024108
   },
   "24967030": {
     "name": "佑凉Uriyoo",
@@ -8308,6 +8318,11 @@
     "name": "小小约yoo",
     "type": "vtuber",
     "room": 23224539
+  },
+  "1288322599": {
+    "name": "小尾巴七饭",
+    "type": "vtuber",
+    "room": 25175443
   },
   "302464013": {
     "name": "小山内めい搬运",

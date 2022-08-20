@@ -1229,6 +1229,12 @@
     "room": 821362,
     "face": "/bfs/face/ca51aeb81b910ebeb9fae64b7a631832c2f3d45f.jpg"
   },
+  "1565887006": {
+    "name": "MUGEN-LIVE",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/e26ce4cd57466abf529b7746de206f9d14614e46.jpg"
+  },
   "402355190": {
     "name": "MZ次元",
     "type": "group",
@@ -5158,6 +5164,12 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/a0e445449c230d0fe5170a250954f3fc8f30c792.jpg"
+  },
+  "2114332408": {
+    "name": "佐藤白SatoWhite",
+    "type": "vtuber",
+    "room": 24024108,
+    "face": "/bfs/face/f93316d9dedc01df46feac0915900ee7f18fd5a0.jpg"
   },
   "24967030": {
     "name": "佑凉Uriyoo",
@@ -9970,6 +9982,12 @@
     "type": "vtuber",
     "room": 23224539,
     "face": "/bfs/face/5e942d10569fc3e11cb75ea11fe72bc826e0d03b.jpg"
+  },
+  "1288322599": {
+    "name": "小尾巴七饭",
+    "type": "vtuber",
+    "room": 25175443,
+    "face": "/bfs/face/dd1d345512729ef7e26d437e3bde3564374e570b.jpg"
   },
   "302464013": {
     "name": "小山内めい搬运",
