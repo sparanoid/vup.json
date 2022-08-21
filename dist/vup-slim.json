@@ -2549,6 +2549,11 @@
     "type": "group",
     "room": 0
   },
+  "6193767": {
+    "name": "あいうAIU",
+    "type": "vtuber",
+    "room": 25066257
+  },
   "544348": {
     "name": "青桐高校游戏部搬运",
     "type": "vtuber",
@@ -9023,6 +9028,11 @@
     "name": "希尔维娅-Sylvia",
     "type": "vtuber",
     "room": 21756256
+  },
+  "1021344512": {
+    "name": "希拉Sheila",
+    "type": "vtuber",
+    "room": 23414796
   },
   "488104861": {
     "name": "希斯-Heath",

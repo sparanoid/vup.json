@@ -3059,6 +3059,12 @@
     "room_id": 0,
     "face": "/bfs/face/033509809c1fc4627fbce9709b51130af58e3873.jpg"
   },
+  "6193767": {
+    "name": "あいうAIU",
+    "type": "vtuber",
+    "room_id": 25066257,
+    "face": "/bfs/face/67fccc1c63c92a71c58de1c9565d9dc4d668a8c3.jpg"
+  },
   "544348": {
     "name": "青桐高校游戏部搬运",
     "type": "vtuber",
@@ -8469,7 +8475,7 @@
     "name": "上学威龙卷子",
     "type": "vtuber",
     "room_id": 4942796,
-    "face": "/bfs/face/e1b97ec0d75c61f0319b152508ed8b2946d15d07.jpg"
+    "face": "/bfs/face/2a714d1f0d26dc6c5041a358fad75274647c7306.jpg"
   },
   "441394184": {
     "name": "夜莺莺莺Official",
@@ -10828,6 +10834,12 @@
     "type": "vtuber",
     "room_id": 21756256,
     "face": "/bfs/face/d7f33c938dcca92a5a78bc767ecae9bf3e1da86d.jpg"
+  },
+  "1021344512": {
+    "name": "希拉Sheila",
+    "type": "vtuber",
+    "room_id": 23414796,
+    "face": "/bfs/face/235b4046ffea81d232ee5fe81adfeda74b274013.jpg"
   },
   "488104861": {
     "name": "希斯-Heath",
