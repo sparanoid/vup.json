@@ -1883,6 +1883,12 @@
     "room": 21361068,
     "face": "/bfs/face/10d26dd670e68b3f3529e76ea308ea29e3f1142e.jpg"
   },
+  "489360804": {
+    "name": "Ranry_",
+    "type": "vtuber",
+    "room": 22399866,
+    "face": "/bfs/face/7635876e2d7a4650675072d3693dbb5bf6226e03.jpg"
+  },
   "482354556": {
     "name": "Re_Eden伊甸园官方",
     "type": "group",
@@ -11723,6 +11729,12 @@
     "room": 22844264,
     "face": "/bfs/face/6c2e50f5bd223853a18f7ff1b66fb48895d2ca2e.jpg"
   },
+  "19366645": {
+    "name": "悅音幻絲",
+    "type": "vtuber",
+    "room": 473323,
+    "face": "/bfs/face/bd3973163b1bec675a124e07d59f0493cac609ad.jpg"
+  },
   "537098": {
     "name": "悠久魔女之诗",
     "type": "vtuber",
@@ -13624,6 +13636,12 @@
     "type": "vtuber",
     "room": 448176,
     "face": "/bfs/face/0a4d30679d915699a1ce5cf47d3f9d7492a0872d.jpg"
+  },
+  "2456052": {
+    "name": "曲奇恶霸",
+    "type": "vtuber",
+    "room": 140841,
+    "face": "/bfs/face/3b4f6acccf839e95d2fd8824684ce5f0fb07d433.jpg"
   },
   "434765561": {
     "name": "曲师师",
