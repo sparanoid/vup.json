@@ -5640,7 +5640,7 @@
     "face": "/bfs/face/c4340d477356ba108098ba9a566e7ce4a54e0936.jpg"
   },
   "513913": {
-    "name": "待宵しお忘",
+    "name": "情绪不安定",
     "type": "vtuber",
     "room_id": 599020,
     "face": "/bfs/face/eeae6a7a11d41c57f546cb8be291db5acc5f162c.jpg"
@@ -9657,7 +9657,7 @@
     "name": "安纪亚",
     "type": "vtuber",
     "room_id": 24153954,
-    "face": "/bfs/face/270d951ae4e6f94b603c2e716663bc3066af8505.jpg"
+    "face": "/bfs/face/b1c2edbcb5f2577e76eeb199418c3e4e35fcb06f.jpg"
   },
   "2119815078": {
     "name": "安蒂维娜-克莱因",
@@ -11862,7 +11862,7 @@
     "face": "/bfs/face/33e41060b9df10e86d2fbb3dd274fd9cb297a106.jpg"
   },
   "268116282": {
-    "name": "慕泽晴-Channel",
+    "name": "DD头子-慕泽晴",
     "type": "vtuber",
     "room_id": 21392465,
     "face": "/bfs/face/6302e8c3229a25c266536bfacee785103e055a5e.jpg"
@@ -17996,7 +17996,7 @@
   "108398": {
     "name": "猫宫梦铃",
     "type": "vtuber",
-    "room_id": 74225,
+    "room_id": 0,
     "face": "/bfs/face/21eff4ab351b0ef0962ce137a70d30ea4534c9ee.jpg"
   },
   "291296062": {
