@@ -281,6 +281,12 @@
     "room_id": 22427257,
     "face": "/bfs/face/3cc235debb91551875b5ab02d6cfa0c9b1a5496f.jpg"
   },
+  "3461566875830931": {
+    "name": "Angelica安杰莉卡",
+    "type": "vtuber",
+    "room_id": 25810704,
+    "face": "/bfs/face/05c5e989ecf300efec4c33de14310ea728b42838.jpg"
+  },
   "369207": {
     "name": "Another-Project",
     "type": "group",
@@ -2536,6 +2542,12 @@
     "type": "vtuber",
     "room_id": 21533123,
     "face": "/bfs/face/6685817b67875f7bfb804de5d0d842d0f951ce8f.jpg"
+  },
+  "14272337": {
+    "name": "Yommyko",
+    "type": "vtuber",
+    "room_id": 21263282,
+    "face": "/bfs/face/99fdbd1de1666752b2f8cfd5862804aa4a7fa6a2.jpg"
   },
   "325325965": {
     "name": "YuNiちゃん寝る",
@@ -11309,6 +11321,12 @@
     "room_id": 21465523,
     "face": "/bfs/face/b1376d8bd92bad15351f73dc9983f745d32b4bd4.jpg"
   },
+  "411016": {
+    "name": "弥生月_official",
+    "type": "vtuber",
+    "room_id": 25223,
+    "face": "/bfs/face/98ecc6c4770dff49f2e2865cf75a4fd5c388f7fa.jpg"
+  },
   "578870459": {
     "name": "弥瞳娘official",
     "type": "unknown",
@@ -15749,6 +15767,12 @@
     "room_id": 14897638,
     "face": "/bfs/face/7c1cc31ad261821813894c6b0dc025dcbf87697a.jpg"
   },
+  "501218873": {
+    "name": "樱吹雪_Yuki",
+    "type": "vtuber",
+    "room_id": 24381393,
+    "face": "/bfs/face/1b7c61ffd6504a4434d9c22309863306a233d334.jpg"
+  },
   "1719558482": {
     "name": "樱和__Official",
     "type": "vtuber",
@@ -19841,6 +19865,12 @@
     "room_id": 8223580,
     "face": "/bfs/face/05b77e0dd43bb24b2cbe511b1e4d3a84b8ac2489.jpg"
   },
+  "259279517": {
+    "name": "神也雪ADDLOY",
+    "type": "vtuber",
+    "room_id": 23920637,
+    "face": "/bfs/face/1c2a6ca731594668c90d346e247687e07f160625.jpg"
+  },
   "1566352490": {
     "name": "神代るるるOfficial",
     "type": "vtuber",
@@ -22851,7 +22881,7 @@
     "name": "莉莉斯lilisi",
     "type": "vtuber",
     "room_id": 70894,
-    "face": "/bfs/face/eb58ee2c263176d9ebdebd662baa9e4cdaa7e1ec.jpg"
+    "face": "/bfs/face/2af6ea029c18e97deba781789653147de94c6d43.jpg"
   },
   "1055615738": {
     "name": "莉莉洁想吃点心",
@@ -25469,6 +25499,12 @@
     "room_id": 3042926,
     "face": "/bfs/face/73714aeeb834d31836349e5113bbde6ec3a72843.jpg"
   },
+  "1154601644": {
+    "name": "恶龙霖",
+    "type": "vtuber",
+    "room_id": 23069409,
+    "face": "/bfs/face/2ff6a8d9ec44bd3cd271c184879b82d2bcb3cdbc.jpg"
+  },
   "1795716989": {
     "name": "阿鹤-Crane",
     "type": "vtuber",
@@ -26679,7 +26715,7 @@
     "name": "骑骑一跃",
     "type": "vtuber",
     "room_id": 4566351,
-    "face": "/bfs/face/fcde985fe64b805aec19a8aa728c0af762a7a2c3.jpg"
+    "face": "/bfs/face/fc414c5d678355a46a335d05c96ac87cce35ff4c.jpg"
   },
   "10397182": {
     "name": "骨头BoNe_",
