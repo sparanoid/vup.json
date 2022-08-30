@@ -1215,7 +1215,7 @@
     "type": "vtuber",
     "room": 433494,
     "face": "/bfs/face/b6d9f805cb83573cbb2b1f5e44aba5916c02c276.jpg",
-    "sign": "是全职的家里蹲吸血鬼，直播时间随机掉落(´･ω･`)\n喜欢欧卡内，感谢你的喜欢 †"
+    "sign": "是混血吸血鬼Kekon，直播时间随机掉落(´･ω･`)\n喜欢欧卡内，感谢你的喜欢 †"
   },
   "2059201075": {
     "name": "Kiko_Official",
@@ -1452,7 +1452,7 @@
     "name": "MUGEN-LIVE",
     "type": "group",
     "room": 0,
-    "face": "/bfs/face/e26ce4cd57466abf529b7746de206f9d14614e46.jpg",
+    "face": "/bfs/face/d79ef415ab62b0e7d4c86ddfc29f4ef59fb2baf7.jpg",
     "sign": "MUGEN LIVE的官方账号。二期生招募中：https://wj.qq.com/s2/ 商务合作：1074432854"
   },
   "402355190": {
@@ -7723,7 +7723,7 @@
   "698026701": {
     "name": "仓鼠已换号",
     "type": "vtuber",
-    "room": 0,
+    "room": 22633165,
     "face": "/bfs/face/0d1a80c17cc1ac3f34e1dde5638fdf85ddee0d27.jpg",
     "sign": "本账号正式停止活动，各位有缘再见，爱你们～"
   },
@@ -8872,7 +8872,7 @@
     "name": "唐九夏还想再躺一下",
     "type": "vtuber",
     "room": 23303212,
-    "face": "/bfs/face/cd37141986f2d53ad149cbed7301a964d33ccbb4.jpg",
+    "face": "/bfs/face/b6b4da4330d7fecf2b641bbf884779484555ee3d.jpg",
     "sign": "Nebula-Beat所属虚拟艺人，遇事莫急，自在为宜，今年十八，明年十七~"
   },
   "360293428": {
@@ -12757,8 +12757,8 @@
     "name": "希莉娅CCelia",
     "type": "vtuber",
     "room": 23280495,
-    "face": "/bfs/face/642e68ae22ed3956ece5fc6f895ec3d30d4ed87c.jpg",
-    "sign": "9月转生至新号【西西里亚CCelia】，喜欢CC的宝贝请移步新号，谢谢大家支持！"
+    "face": "/bfs/face/5909073c23bf0f503b017301e3520145cb2ebcd2.jpg",
+    "sign": "直播已迁移至【西西里亚CCelia】。"
   },
   "354411419": {
     "name": "希薇娅Civia",
@@ -17436,6 +17436,13 @@
     "face": "/bfs/face/80c13d483cb2ba83b621c296ae41370d44f52a59.jpg",
     "sign": "SMC超级机甲联赛主播，励志成为百大UP的新人虚拟主播"
   },
+  "1334497126": {
+    "name": "栗栖陆Riku",
+    "type": "vtuber",
+    "room": 24161038,
+    "face": "/bfs/face/61bc98e6fb024af1f0fa8c1fbc58e728ec7bad2a.jpg",
+    "sign": "老二刺螈个人势vup。粉丝群790353445。预告日一般晚九点直播"
+  },
   "25252444": {
     "name": "栗梦的白日梦收藏库",
     "type": "vtuber",
@@ -20312,6 +20319,13 @@
     "room": 21582377,
     "face": "/bfs/face/659660b51e099f29223a2c577dadf4ef8585e221.jpg",
     "sign": "Normalization project一期生,地支Earthly成员，摸鱼咕咕怪，有点反差萌（看不到我看不到我）"
+  },
+  "27632493": {
+    "name": "灵晓_Official",
+    "type": "vtuber",
+    "room": 3484029,
+    "face": "/bfs/face/ce60cf128e5fa61669075596ada26b34114f785e.jpg",
+    "sign": "个人势小狮子，每晚八点直播，白天不定时直播，平时直播打游戏，很多游戏都玩，喜欢画画\n聊天群:383970735，大家来群里聊天啊ww"
   },
   "1398": {
     "name": "灵源道长Official",
@@ -26745,6 +26759,13 @@
     "room": 800312,
     "face": "/bfs/face/f29620637abe44d3b5e709792d24577fd75bde4e.jpg",
     "sign": "不认识的可以现在开始认识吗"
+  },
+  "473967891": {
+    "name": "莓里_Channel",
+    "type": "vtuber",
+    "room": 23091156,
+    "face": "/bfs/face/b4a5843b6482b988b17711add8b2c80e95ed0cb1.jpg",
+    "sign": "<ChaosLive·S>所属个人势，全职歌势\n（合作联系：513805170）"
   },
   "628276383": {
     "name": "莓露莎Official",

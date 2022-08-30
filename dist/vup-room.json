@@ -1245,7 +1245,7 @@
     "name": "MUGEN-LIVE",
     "type": "group",
     "room_id": 0,
-    "face": "/bfs/face/e26ce4cd57466abf529b7746de206f9d14614e46.jpg"
+    "face": "/bfs/face/d79ef415ab62b0e7d4c86ddfc29f4ef59fb2baf7.jpg"
   },
   "402355190": {
     "name": "MZ次元",
@@ -6620,7 +6620,7 @@
   "698026701": {
     "name": "仓鼠已换号",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 22633165,
     "face": "/bfs/face/0d1a80c17cc1ac3f34e1dde5638fdf85ddee0d27.jpg"
   },
   "24626465": {
@@ -7605,7 +7605,7 @@
     "name": "唐九夏还想再躺一下",
     "type": "vtuber",
     "room_id": 23303212,
-    "face": "/bfs/face/cd37141986f2d53ad149cbed7301a964d33ccbb4.jpg"
+    "face": "/bfs/face/b6b4da4330d7fecf2b641bbf884779484555ee3d.jpg"
   },
   "360293428": {
     "name": "新世纪威风战士",
@@ -10935,7 +10935,7 @@
     "name": "希莉娅CCelia",
     "type": "vtuber",
     "room_id": 23280495,
-    "face": "/bfs/face/642e68ae22ed3956ece5fc6f895ec3d30d4ed87c.jpg"
+    "face": "/bfs/face/5909073c23bf0f503b017301e3520145cb2ebcd2.jpg"
   },
   "354411419": {
     "name": "希薇娅Civia",
@@ -14945,6 +14945,12 @@
     "room_id": 22183870,
     "face": "/bfs/face/80c13d483cb2ba83b621c296ae41370d44f52a59.jpg"
   },
+  "1334497126": {
+    "name": "栗栖陆Riku",
+    "type": "vtuber",
+    "room_id": 24161038,
+    "face": "/bfs/face/61bc98e6fb024af1f0fa8c1fbc58e728ec7bad2a.jpg"
+  },
   "25252444": {
     "name": "栗梦的白日梦收藏库",
     "type": "vtuber",
@@ -17410,6 +17416,12 @@
     "type": "vtuber",
     "room_id": 21582377,
     "face": "/bfs/face/659660b51e099f29223a2c577dadf4ef8585e221.jpg"
+  },
+  "27632493": {
+    "name": "灵晓_Official",
+    "type": "vtuber",
+    "room_id": 3484029,
+    "face": "/bfs/face/ce60cf128e5fa61669075596ada26b34114f785e.jpg"
   },
   "1398": {
     "name": "灵源道长Official",
@@ -22924,6 +22936,12 @@
     "type": "vtuber",
     "room_id": 800312,
     "face": "/bfs/face/f29620637abe44d3b5e709792d24577fd75bde4e.jpg"
+  },
+  "473967891": {
+    "name": "莓里_Channel",
+    "type": "vtuber",
+    "room_id": 23091156,
+    "face": "/bfs/face/b4a5843b6482b988b17711add8b2c80e95ed0cb1.jpg"
   },
   "628276383": {
     "name": "莓露莎Official",

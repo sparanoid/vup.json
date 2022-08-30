@@ -5517,7 +5517,7 @@
   "698026701": {
     "name": "仓鼠已换号",
     "type": "vtuber",
-    "room": 0
+    "room": 22633165
   },
   "24626465": {
     "name": "月见果Channel",
@@ -12454,6 +12454,11 @@
     "type": "vtuber",
     "room": 22183870
   },
+  "1334497126": {
+    "name": "栗栖陆Riku",
+    "type": "vtuber",
+    "room": 24161038
+  },
   "25252444": {
     "name": "栗梦的白日梦收藏库",
     "type": "vtuber",
@@ -14508,6 +14513,11 @@
     "name": "灵夜Reiya",
     "type": "vtuber",
     "room": 21582377
+  },
+  "27632493": {
+    "name": "灵晓_Official",
+    "type": "vtuber",
+    "room": 3484029
   },
   "1398": {
     "name": "灵源道长Official",
@@ -19103,6 +19113,11 @@
     "name": "莓莉雅Melia",
     "type": "vtuber",
     "room": 800312
+  },
+  "473967891": {
+    "name": "莓里_Channel",
+    "type": "vtuber",
+    "room": 23091156
   },
   "628276383": {
     "name": "莓露莎Official",
