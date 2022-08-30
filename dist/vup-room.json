@@ -1754,7 +1754,7 @@
   "15417897": {
     "name": "Piquer",
     "type": "vtuber",
-    "room_id": 1282429,
+    "room_id": 0,
     "face": "/bfs/face/a355aa58f361de6a67a41de5b73be484653d039a.jpg"
   },
   "562037265": {
@@ -5715,7 +5715,7 @@
     "name": "内兹米_Official",
     "type": "vtuber",
     "room_id": 16536,
-    "face": "/bfs/face/19615983b438cd3891554ee274e5c114fddd973c.jpg"
+    "face": "/bfs/face/d7dddaefa806dad5eac4f32a1e7403130a24a806.jpg"
   },
   "90873": {
     "name": "内德维德",
@@ -13443,7 +13443,7 @@
     "name": "是悠姬Yuki",
     "type": "vtuber",
     "room_id": 23680570,
-    "face": "/bfs/face/a94e78003c60bf272942d72871e75b497d96d7b9.jpg"
+    "face": "/bfs/face/22bf0e74462dc037107e45c524c00ea0c54e0299.jpg"
   },
   "10053777": {
     "name": "是挽月月哦",
@@ -27285,7 +27285,7 @@
     "name": "鹿野灸",
     "type": "vtuber",
     "room_id": 2064239,
-    "face": "/bfs/face/e74695af080fc19bb2c6030a74a92d2500be22b0.jpg"
+    "face": "/bfs/face/01ca73f352c00c4aa88066fa626b0ac9e748fb96.jpg"
   },
   "372936": {
     "name": "鹿野葵",
