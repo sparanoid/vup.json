@@ -4145,6 +4145,12 @@
     "room": 649688,
     "face": "/bfs/face/567e4d1b424d7ace1040e97e675790e6ca7b7178.jpg"
   },
+  "3242119": {
+    "name": "不可食用面包君",
+    "type": "vtuber",
+    "room": 3160112,
+    "face": "/bfs/face/87ae99286fff8d38340346482ef4f3c806bf54a7.jpg"
+  },
   "4447907": {
     "name": "不想睡觉的洗洗",
     "type": "vtuber",
@@ -4695,7 +4701,7 @@
     "name": "亚可Ako",
     "type": "vtuber",
     "room": 22308209,
-    "face": "/bfs/face/d3206a8000e36b83dc0525b4cbb779ff83207469.jpg"
+    "face": "/bfs/face/f4e6ac980e694f12f4a3060717c382c73ddf3d17.jpg"
   },
   "454512699": {
     "name": "亚喵莫伊Mokui",
@@ -4959,7 +4965,7 @@
     "name": "伊橙Yzumi",
     "type": "vtuber",
     "room": 1463398,
-    "face": "/bfs/face/ee4ef5da1cd8c01f6581857039ac465fe2fc7926.jpg"
+    "face": "/bfs/face/7571606d79a3b585a5a9ac76dfd5a0ad393e8cce.jpg"
   },
   "275529510": {
     "name": "CXBMio纯系白描",
@@ -5098,6 +5104,12 @@
     "type": "vtuber",
     "room": 7013956,
     "face": "/bfs/face/d9d5dd75558a947710e42d24a0626fd6b64f7242.jpg"
+  },
+  "1194081839": {
+    "name": "伯奇-澈屿",
+    "type": "vtuber",
+    "room": 25618334,
+    "face": "/bfs/face/44269e9947f535b414b5469c9eea60f44d05b1f1.jpg"
   },
   "148885908": {
     "name": "伴晴orz",
@@ -5560,6 +5572,12 @@
     "type": "vtuber",
     "room": 24402048,
     "face": "/bfs/face/f59719a19ee873fc423b179216626da86febdcde.jpg"
+  },
+  "16343250": {
+    "name": "八万_80K",
+    "type": "vtuber",
+    "room": 23778104,
+    "face": "/bfs/face/b9a66a970f3dcd352bb5c6453ae373d55d2cd0ea.jpg"
   },
   "527093412": {
     "name": "八乙女Noe_Official",
@@ -7522,6 +7540,12 @@
     "type": "vtuber",
     "room": 14277266,
     "face": "/bfs/face/ff6d54ca0595c6fecd807a773639ecb8170e9945.jpg"
+  },
+  "457061412": {
+    "name": "咸味猫鱼君",
+    "type": "vtuber",
+    "room": 21788627,
+    "face": "/bfs/face/aedb9fc5ae63270650d73f0ec4839395e563c169.jpg"
   },
   "1382719257": {
     "name": "咸蛋黄饭团-official",
@@ -10187,6 +10211,12 @@
     "room": 24772713,
     "face": "/bfs/face/9f07e3739643d93c92a65c19a4c5e8b8b8cc7eda.jpg"
   },
+  "109798": {
+    "name": "小熊猫玄玄",
+    "type": "vtuber",
+    "room": 74446,
+    "face": "/bfs/face/1e875e2d1647704363999fdf356b9c16f0611a07.jpg"
+  },
   "298484": {
     "name": "小狼XF",
     "type": "vtuber",
@@ -12791,6 +12821,12 @@
     "room": 22470210,
     "face": "/bfs/face/1a660b0f63f9dcbebab75e05b444c0f202c98ff4.jpg"
   },
+  "4637750": {
+    "name": "星尘_StardustSAMA",
+    "type": "vtuber",
+    "room": 384601,
+    "face": "/bfs/face/38f809af6056ea4b74bb76f4280da3ba7955fd1c.jpg"
+  },
   "11228262": {
     "name": "星崎洛_Channel",
     "type": "vtuber",
@@ -12970,6 +13006,12 @@
     "type": "vtuber",
     "room": 22595967,
     "face": "/bfs/face/0057eda09a4f166566f6d497dbfc7fc299fc98ce.jpg"
+  },
+  "485374": {
+    "name": "星猫Hoshineko",
+    "type": "vtuber",
+    "room": 48476,
+    "face": "/bfs/face/965e21839b7326c7dfa4f49117b5c6fe3a82a65c.jpg"
   },
   "1884671231": {
     "name": "星璃_Official",
@@ -13504,6 +13546,12 @@
     "type": "vtuber",
     "room": 980470,
     "face": "/bfs/face/613e89f5c957b1f28dc35a563d457e50d634d116.jpg"
+  },
+  "2294686": {
+    "name": "晓曦Asahino",
+    "type": "vtuber",
+    "room": 23094995,
+    "face": "/bfs/face/85c419e4428e61ae31931c6efc24fa71165f0cf2.jpg"
   },
   "229697": {
     "name": "晓月朔夜",
@@ -14759,6 +14807,12 @@
     "room": 22595698,
     "face": "/bfs/face/0e622cacb566feaca60e9392619fb8173f697b2f.jpg"
   },
+  "1428975974": {
+    "name": "柚柚子Yumi",
+    "type": "vtuber",
+    "room": 24046254,
+    "face": "/bfs/face/3b4a6659c2357cf52e23a3cb05a7a9c0a0854030.jpg"
+  },
   "402326": {
     "name": "柚花花_Official",
     "type": "vtuber",
@@ -14883,7 +14937,7 @@
     "name": "栖苑太困辽",
     "type": "vtuber",
     "room": 10049827,
-    "face": "/bfs/face/89c6fe2a16c8f54ad61e607b11917beadca5c0a3.jpg"
+    "face": "/bfs/face/677c2ecdd9ddad024785ed40646b11cffad2786d.jpg"
   },
   "6357405": {
     "name": "MuYi_酒",
@@ -17962,6 +18016,12 @@
     "type": "vtuber",
     "room": 52813,
     "face": "/bfs/face/1073a57e97a1ab94dea3bffaa89221b146e1e09b.jpg"
+  },
+  "1931030982": {
+    "name": "猇犽",
+    "type": "vtuber",
+    "room": 22952783,
+    "face": "/bfs/face/58d8f6c85d90d7b1519ae2cbd8c3511697f7a341.jpg"
   },
   "120279132": {
     "name": "猫ゐ咲夜official",
@@ -21328,6 +21388,12 @@
     "type": "vtuber",
     "room": 24722893,
     "face": "/bfs/face/60a9522d4945aea6d96326bfc4208c9e3c009486.jpg"
+  },
+  "7922204": {
+    "name": "绯花爱吃烤面包qwq",
+    "type": "vtuber",
+    "room": 6161127,
+    "face": "/bfs/face/76a14601ca2dbb970152643b119afaf6b60f5c90.jpg"
   },
   "1027973491": {
     "name": "维多利亚official",
@@ -25468,6 +25534,12 @@
     "type": "vtuber",
     "room": 82359,
     "face": "/bfs/face/c4b3273026b4fb6359e435c7b2a8c93d989adf17.jpg"
+  },
+  "1566120165": {
+    "name": "阿芙涅尔Nier",
+    "type": "vtuber",
+    "room": 25068664,
+    "face": "/bfs/face/40ac62395fa05c6ed389d1d62346117cc0a39168.jpg"
   },
   "82134582": {
     "name": "阿芙罗拉Lola",
