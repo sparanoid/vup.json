@@ -7716,7 +7716,7 @@
     "face": "/bfs/face/1a8a3a45413359f19ac50fa9ae68fb5e28315862.jpg"
   },
   "1836495": {
-    "name": "喵奈nyanago没有尾巴",
+    "name": "喵奈nyanago尾巴超大",
     "type": "vtuber",
     "room": 102153,
     "face": "/bfs/face/fa30a362344b725cac4b5cb91e0e1275d14e53cd.jpg"
@@ -17511,7 +17511,7 @@
     "name": "熊くま喵",
     "type": "vtuber",
     "room": 236672,
-    "face": "/bfs/face/5770cffb3422abd4603dee9bf7339ac772795979.jpg"
+    "face": "/bfs/face/42724bf9e999d40e29bb431672c7262190e8675a.jpg"
   },
   "2075179777": {
     "name": "熊之霓",
@@ -22431,7 +22431,7 @@
     "name": "芷小菡",
     "type": "vtuber",
     "room": 1011107,
-    "face": "/bfs/face/3ba6ec10cbc133a77933104099d379c18685fbc9.jpg"
+    "face": "/bfs/baselabs/e615ffb09871f185ae44e2567b6b0fe5bf374e0b.png"
   },
   "1514013": {
     "name": "芽千千ガチチ",
@@ -25281,7 +25281,7 @@
     "name": "阿伊蕾特Ayelet",
     "type": "vtuber",
     "room": 11306,
-    "face": "/bfs/face/339dffa0ba1d77548db3c378b2a860467ede66a0.jpg"
+    "face": "/bfs/face/9ed17af295e1fcd01e8b10ed311a75e523b4ab95.jpg"
   },
   "359082339": {
     "name": "火ノ無い灰",
@@ -26463,7 +26463,7 @@
     "name": "风云奆奆",
     "type": "vtuber",
     "room": 461057,
-    "face": "/bfs/face/4733cdee48395cf2f00b6967edb931d79f4d7852.jpg"
+    "face": "/bfs/baselabs/2565c6593a6a513cbeaeaa76e2c39622f148e70e.png"
   },
   "592354538": {
     "name": "风云社",
