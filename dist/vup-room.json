@@ -4571,6 +4571,12 @@
     "room_id": 0,
     "face": "/bfs/face/b66c1c75d2b59cc756d2232278e2420275b71da7.jpg"
   },
+  "392162998": {
+    "name": "云团fuwa",
+    "type": "vtuber",
+    "room_id": 25664253,
+    "face": "/bfs/face/7c76dead84dbb3208d3f0e6346fdfe2466f0230d.jpg"
+  },
   "17987645": {
     "name": "云子kumoko",
     "type": "vtuber",
@@ -13628,7 +13634,7 @@
   "3606739": {
     "name": "暁知雲之伤Channel",
     "type": "vtuber",
-    "room_id": 908402,
+    "room_id": 0,
     "face": "/bfs/face/2ed7de0eef13af095dea42d43ae1d34be166dff9.jpg"
   },
   "1506353910": {
@@ -17337,7 +17343,7 @@
     "name": "乃留芥末",
     "type": "vtuber",
     "room_id": 1346192,
-    "face": "/bfs/face/8e3d46b10a5b2ca8c78dcb9e96154cd6bbd245cb.jpg"
+    "face": "/bfs/face/9ac1bf0c512d0453c1b37b7c48224043f58b36b8.jpg"
   },
   "1283985270": {
     "name": "澜绾卿_Channel",
@@ -20132,7 +20138,7 @@
   "8702159": {
     "name": "离火hotaru",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 11827039,
     "face": "/bfs/face/1779de0ad1f2e4e21e91ab85b816abb50fac34d7.jpg"
   },
   "490468899": {
@@ -23283,7 +23289,7 @@
     "name": "-萧诺-",
     "type": "vtuber",
     "room_id": 25297215,
-    "face": "/bfs/face/f0cfd28a017e7025c0fb373cc93debcee506c391.jpg"
+    "face": "/bfs/face/bd995b8e018afbf09c010ac210c8aa615c2eb640.jpg"
   },
   "524101241": {
     "name": "萨卡瑞亚ZachaRiah",

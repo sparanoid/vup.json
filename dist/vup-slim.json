@@ -3809,6 +3809,11 @@
     "type": "group",
     "room": 0
   },
+  "392162998": {
+    "name": "云团fuwa",
+    "type": "vtuber",
+    "room": 25664253
+  },
   "17987645": {
     "name": "云子kumoko",
     "type": "vtuber",
@@ -11357,7 +11362,7 @@
   "3606739": {
     "name": "暁知雲之伤Channel",
     "type": "vtuber",
-    "room": 908402
+    "room": 0
   },
   "1506353910": {
     "name": "暖日依娜Official",
@@ -16777,7 +16782,7 @@
   "8702159": {
     "name": "离火hotaru",
     "type": "vtuber",
-    "room": 0
+    "room": 11827039
   },
   "490468899": {
     "name": "夏姬八彻Official",
