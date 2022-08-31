@@ -1689,7 +1689,7 @@
   "32155552": {
     "name": "NAKUwac",
     "type": "vtuber",
-    "room": 0,
+    "room": 3558263,
     "face": "/bfs/face/70fbf2a436d33d5194b5f549f9107b1603e5b0f5.jpg",
     "sign": "米画师：NAKU 平时会随机出现直播画稿打游戏什么的，经常会有直播事故，主播皮套和本音不匹配，关注需谨慎…（严禁问主播皮套相关事宜）"
   },
@@ -2450,7 +2450,7 @@
     "sign": "为了直播而转移的真正的Shana！"
   },
   "130016056": {
-    "name": "Sh1mimo",
+    "name": "-Shimimo-",
     "type": "vtuber",
     "room": 4513990,
     "face": "/bfs/face/b3bd94b1700f73ef8d1ebd5e59fa10b6f0b0c39e.jpg",
@@ -3049,7 +3049,7 @@
     "type": "vtuber",
     "room": 672844,
     "face": "/bfs/face/87a34db547be792fce5d857d5d657e024dc14ecf.jpg",
-    "sign": "画画的&Spine/L2D模型师&产品模型师，约稿私信，qq群：1092304005"
+    "sign": "画画的&产品渲染师，约稿私信，qq群：1092304005"
   },
   "2284443": {
     "name": "小火切_Sumire",
@@ -5667,7 +5667,7 @@
     "type": "vtuber",
     "room": 7111080,
     "face": "/bfs/face/6cf164bc7212f7c920ef7e0626efdaf504619a9f.jpg",
-    "sign": ""
+    "sign": "探寻无限一定是由于作为有限存在者的探寻者自身正在无限地趋近于失存的缘故。"
   },
   "951976": {
     "name": "魔法狐狸伊佐夜_Channel",
@@ -7150,7 +7150,7 @@
     "name": "初焰Hatsuhomura",
     "type": "vtuber",
     "room": 21426806,
-    "face": "/bfs/face/79bc5dbcc4a51d033fcdfb4a6de9b45b97756242.jpg",
+    "face": "/bfs/face/0de28419403628d43c653204c5047b4de69647cf.jpg",
     "sign": "狄灵计划Project-D所属 愿温柔的人都能被温柔以待。 "
   },
   "12818595": {
@@ -7886,7 +7886,7 @@
     "type": "vtuber",
     "room": 24565985,
     "face": "/bfs/face/fb1baaa2b7ab9b12c9d64a4cdc6a5e81079e228f.jpg",
-    "sign": "Mioslive一期生南海星光。联动请联系官方@Mioslive\n南海星光的一号马厩：144641370\n要变的更加更加坚强才行……！"
+    "sign": "Mioslive一期生南海星光。\n南海星光的一号马厩：144641370\n希望我微弱的光能照亮你前进的道路"
   },
   "23814111": {
     "name": "南瓜Kio",
@@ -7913,7 +7913,7 @@
     "name": "悄悄Qoo",
     "type": "vtuber",
     "room": 23831283,
-    "face": "/bfs/face/53d9e39eb47f95b6d8907bd74a28d74e13f9e072.jpg",
+    "face": "/bfs/face/7ad41de478aa7627946bed26a65d27d8e89b659a.jpg",
     "sign": "嘘——"
   },
   "835644": {
@@ -8390,7 +8390,7 @@
     "type": "vtuber",
     "room": 1304841,
     "face": "/bfs/face/c038288b3d23be54adad18737e246c8438fa1eee.jpg",
-    "sign": "这只喵很神秘，什么都没有写。"
+    "sign": "万物皆有裂痕，那是光照进来的地方。"
   },
   "2115613286": {
     "name": "司晨婳锦",
@@ -14532,11 +14532,11 @@
     "sign": "日向葵/咸咸かれん，兴趣使然的翻唱爱好者，始于热情。\n向日葵就不能是阴角吗"
   },
   "327334535": {
-    "name": "-R1tap日和-",
+    "name": "Tr2Maker",
     "type": "vtuber",
     "room": 14409049,
-    "face": "/bfs/face/a031bb2633765c69a0538483867339a388022025.jpg",
-    "sign": "<CLS所属/Nir>-TroubleMaker-"
+    "face": "/bfs/face/207af1cb2479e7c188d4e62032182832a50b9256.jpg",
+    "sign": "<CLS所属/Nir>-日和-"
   },
   "12706482": {
     "name": "日和朝奈",
@@ -14847,10 +14847,10 @@
     "sign": "个人势，<Creator Coffee所属>\n画师妈咪:@Deity酱\n模型妈咪:@太清引"
   },
   "323255389": {
-    "name": "星响零-学习中",
+    "name": "星愿池-星响零",
     "type": "vtuber",
     "room": 11047139,
-    "face": "/bfs/face/f67a400182f8bb4b9f8310d752c6523ad3e01d7c.jpg",
+    "face": "/bfs/face/e5a80960ddff06ee1df7e45c19952e54715385c2.jpg",
     "sign": "这里是吃土制作人一枚，因为没钱做游戏所以出道了。\n每周末不定期直播，但是每周一定会直播，小伙伴们多多来PY哦~"
   },
   "846128": {
@@ -16117,7 +16117,7 @@
     "name": "月夜织Orihime",
     "type": "vtuber",
     "room": 2498734,
-    "face": "/bfs/face/bbc1008eec73cfbb5eebb1494412986d49364382.jpg",
+    "face": "/bfs/face/9a50d78ef5dafbb96162f5d39f215013b817bcc4.jpg",
     "sign": ""
   },
   "4254032": {
@@ -16775,7 +16775,7 @@
     "name": "杏冰乐",
     "type": "vtuber",
     "room": 39942,
-    "face": "/bfs/face/c797d4869f86cc6a82f17e1a292884ef23f32714.jpg",
+    "face": "/bfs/face/48a2aa40d813d06fcefaad23152313131a7ea885.jpg",
     "sign": "龙精虎猛，来一杯吧！聊天群：368508983"
   },
   "160085": {
@@ -16877,7 +16877,7 @@
     "sign": "去小号啦~"
   },
   "614329938": {
-    "name": "迷迷小宝",
+    "name": "一般迷迷",
     "type": "vtuber",
     "room": 22350100,
     "face": "/bfs/face/d8cd2a1eb4b185ce007a4a08dd34d7319bcff245.jpg",
@@ -17189,7 +17189,7 @@
     "type": "vtuber",
     "room": 24369033,
     "face": "/bfs/face/d678172c55466a2aa61b877a661971d2b593307b.jpg",
-    "sign": "万粉出道努力中 配音游戏杂谈势 点个关注吧～\n感恩出现的每一位饲养员 \n固定啵啵时间:15～17 20～5\n粉丝群:655862382 "
+    "sign": "全职主播ฅ水友群:655862382、万粉出道努力中 是一只活泼多声线又肝的崽 配音游戏杂谈势 欢迎捕捉～\n捕捉时间:15～17 20～5"
   },
   "1658229747": {
     "name": "柚叽Uchi",
@@ -19233,7 +19233,7 @@
     "type": "vtuber",
     "room": 1495994,
     "face": "/bfs/face/753f448736e63c53a2454330c59bb581e8cfb8c5.jpg",
-    "sign": "攻略区vup 一只来自异世界的猫（本体是那只手里的猫哦~）男猫猫  画师/建模妈妈（B站ID）:道长摸妖喵"
+    "sign": "攻略区vup 一只来自异世界的男猫猫  常态人设画师/建模妈妈:道长摸妖喵 Q版画师/建模妈妈：巫贼_ikataruto"
   },
   "569192826": {
     "name": "沙口酱official",
@@ -19309,7 +19309,7 @@
     "name": "沫熠Moyi",
     "type": "vtuber",
     "room": 8613948,
-    "face": "/bfs/face/83fa3cb8921950fe75430951dad7d5088a072c6e.jpg",
+    "face": "/bfs/face/8f4c0332adcf514fe922728aead1a08cf4c4ab4a.jpg",
     "sign": "这里是虚拟up沫熠，一个破打游戏的和算得上喜欢唱歌吧的v，请多关照qwq"
   },
   "65566781": {
@@ -19436,7 +19436,7 @@
     "type": "vtuber",
     "room": 22731824,
     "face": "/bfs/face/5b5a4ab9cdb9fd4d2c3cbec6ae43ed2c54ca7643.jpg",
-    "sign": "欢迎来到娜娜的BB空间，直播时间一般在晚上，喜欢打游戏唱歌画画！直播通知群：253617609"
+    "sign": "欢迎来到娜娜的BB空间，直播时间一般在晚上，喜欢打游戏唱歌画画！直播通知群（禁言群）：253617609"
   },
   "1769370346": {
     "name": "波音学姐180",
@@ -19989,7 +19989,7 @@
     "type": "vtuber",
     "room": 508371,
     "face": "/bfs/face/fef1731b8ec5477253405f814f6b5b666de0b716.jpg",
-    "sign": "这里是清米哦～直播时间每天14点开播！"
+    "sign": "这里是清米哦～直播时间每天17点开播！周末加长播播！！"
   },
   "558070436": {
     "name": "清良Kiyora",
@@ -20143,7 +20143,7 @@
     "type": "vtuber",
     "room": 25724522,
     "face": "/bfs/face/95b310ad74a5496a0d9d249830819a59c6d26562.jpg",
-    "sign": "怪核梦核区up主，请多指教w使用的图片有自己p图有自己拍摄也有一些网络素材（自制的占的多），都会进行后期处理，会虚心接受批评建议但警察打咩！"
+    "sign": "怪核梦核区up主，有很多不足请多指教，使用的图片有自己p图有自己拍摄有ai也有一些网络素材，都会进行后期处理，会虚心接受批评建议但警察打咩!"
   },
   "258875006": {
     "name": "溯月Sotsuki",
@@ -23264,7 +23264,7 @@
     "name": "神也雪ADDLOY",
     "type": "vtuber",
     "room": 23920637,
-    "face": "/bfs/face/1c2a6ca731594668c90d346e247687e07f160625.jpg",
+    "face": "/bfs/face/20f7d5429a7ce5dc06fec510b86fea70f935dbc6.jpg",
     "sign": "来自喵星の憨憨雪团喵\n私の名前は神也雪です，みんなは私を子と呼ぶこ\n又菜又爱玩憨憨没脑袋\n窝窝✨313979130\n欢迎加入崽崽の大家庭\n\n"
   },
   "1566352490": {
@@ -23487,7 +23487,7 @@
   "8702159": {
     "name": "离火hotaru",
     "type": "vtuber",
-    "room": 11827039,
+    "room": 0,
     "face": "/bfs/face/1779de0ad1f2e4e21e91ab85b816abb50fac34d7.jpg",
     "sign": "生活在人类世界的狐狸会得到大家的关注吗~"
   },
@@ -24145,7 +24145,7 @@
   "5005968": {
     "name": "米白zzz",
     "type": "vtuber",
-    "room": 0,
+    "room": 866400,
     "face": "/bfs/face/ce3edb93609b60428c4ca10233af429110800fa0.jpg",
     "sign": "爱唱歌一般路过VUP/不接无偿歌曲/商业合作请私信或邮件：2405619061@qq.com"
   },
@@ -24992,7 +24992,7 @@
   "3280205": {
     "name": "绵月Niro",
     "type": "vtuber",
-    "room": 0,
+    "room": 67558,
     "face": "/bfs/face/eb7d8192de62f6d9b29d9f6c395e2646f18fbf35.jpg",
     "sign": "每每向夜空祷告都会落下一粒星辰。"
   },
@@ -25183,7 +25183,7 @@
     "type": "vtuber",
     "room": 23199554,
     "face": "/bfs/face/9b02fc0d16a393c6f91ca0864db070f87cdec234.jpg",
-    "sign": "吃好睡好兔子！目標10万fans！"
+    "sign": "几乎每天都在直播中～～！！吃好睡好兔子！目標10万fans！"
   },
   "797356": {
     "name": "羽咲梦蝶",
@@ -26604,7 +26604,7 @@
     "type": "vtuber",
     "room": 23303604,
     "face": "/bfs/face/f90bbb0d66d94b82cfc986208409616acd74ec82.jpg",
-    "sign": "我是只会摆烂的飞舞 看我不如看别的可爱妹妹"
+    "sign": "主打的就是一个新衣服比观众多\n后面我忘了\n之前的签名被制裁了 我也忘记我写了啥了"
   },
   "5628025": {
     "name": "茶羽沫",
@@ -27513,7 +27513,7 @@
     "name": "藤原柯设",
     "type": "vtuber",
     "room": 6280416,
-    "face": "/bfs/face/b42508e74d3aa8f8cf9a3a384798d70dab5aeb17.jpg",
+    "face": "/bfs/face/8ceea981d9364b2b187c78639eabb583bb05dafc.jpg",
     "sign": "喜欢玩赛车和射击游戏的vup。"
   },
   "543381621": {
@@ -28192,7 +28192,7 @@
     "name": "谷咕咕-official",
     "type": "vtuber",
     "room": 22637415,
-    "face": "/bfs/face/6ee0cb1a204a27dc552509ea6077f331cc5a25b6.jpg",
+    "face": "/bfs/face/4218a944693af462723e6fd9536b484c4394c086.jpg",
     "sign": "个人势vup，平常会直播玩游戏涂鸦！约稿请私信~妈咪：群青 爹咪：月面兵器MK2 另外谷仓的群号是715930599有意向就进来一起玩耍吧~"
   },
   "176870130": {
@@ -29353,7 +29353,7 @@
   "428424219": {
     "name": "铃原艺术研究社",
     "type": "unknown",
-    "room": 0,
+    "room": 21402450,
     "face": "/bfs/face/a28dbc9833daee760a5562f9968d808ca8474aa4.jpg",
     "sign": "遵守彩虹社二创条例 非官方搬运组 露露粉丝群：929297862 有意者请b站私信或者加粉丝群联系管理"
   },
@@ -31147,7 +31147,7 @@
     "type": "vtuber",
     "room": 22563900,
     "face": "/bfs/face/a3210a0bd1215fd9eccb7c578eb6f0225f7aa476.jpg",
-    "sign": "随心所欲饭醉势少女????随时欢迎大家来品鉴饭团????\n饭醉集团内部群：861571816❤️开播在群里和动态通知❤️\n@云光计划"
+    "sign": "逆天饭醉势少女❤随时欢迎大家来品鉴饭团❤饭醉集团内部群：861571816❤️开播在群里和动态通知❤️\n@云光计划"
   },
   "1357409459": {
     "name": "饴宫Doki",
@@ -31223,8 +31223,8 @@
     "name": "香草莓巧子_kigurumi",
     "type": "vtuber",
     "room": 569341,
-    "face": "/bfs/face/360cdf96c75da9dba35976788603fdf82d5b2560.jpg",
-    "sign": "喜欢Kigurumi/latex/皮モノ的虚拟胶皮天使"
+    "face": "/bfs/face/ac25f8aad91a6519ed3cccabee32de78fbc2c6b3.jpg",
+    "sign": "粉丝群：959854417 推特id：@LzayoiS"
   },
   "1010093017": {
     "name": "马太Mastest",
@@ -31304,7 +31304,7 @@
     "sign": "呀吼，这里是伊织..的授权搬运组！希望大家也能经由我们变得喜欢伊织小姐，喜欢爵士乐！\n字幕组群号：954426149，长期欢迎有能man加入"
   },
   "1979535505": {
-    "name": "高桥由纪子",
+    "name": "高桥有鸽子yukiko",
     "type": "vtuber",
     "room": 23140417,
     "face": "/bfs/face/592300b3839f3051911e3a56846b685d4f33ac1a.jpg",
@@ -32416,6 +32416,55 @@
     "face": "/bfs/face/fcd3d96904ceebfefa1e497693342f6030ec8e3a.jpg",
     "sign": "是龙女公主！每天都在放飞自我！"
   },
+  "32472953": {
+    "name": "少女前线制作组",
+    "type": "unknown",
+    "room": 902593,
+    "face": "/bfs/face/3bc93abc6b4cb9b3526bbc07d33f54464622b25a.jpg",
+    "sign": "少女前线制作组云母组官方B站账户。不做客服，游戏问题请联系qq客服：1195200433"
+  },
+  "697654195": {
+    "name": "少女前线2-追放制作组",
+    "type": "unknown",
+    "room": 0,
+    "face": "/bfs/face/cd2d8aa7e3085544c6a2ec25de0ae351efa30a33.jpg",
+    "sign": "二次元3D策略战棋手游"
+  },
+  "382651856": {
+    "name": "战双帕弥什",
+    "type": "unknown",
+    "room": 21242511,
+    "face": "/bfs/face/29b42079560e4d19494052895ad8d5adb5b58ed2.jpg",
+    "sign": "宇宙第一菜鸡官方QAQ"
+  },
+  "1197454103": {
+    "name": "重返未来1999",
+    "type": "unknown",
+    "room": 0,
+    "face": "/bfs/face/6a1936d5cb5b315311fedbf2d4793c4d404cac83.jpg",
+    "sign": "1999年最后一天，一场“暴雨”坠入深空，世界似乎来到一个崭新的…...旧时代。"
+  },
+  "471259688": {
+    "name": "深空之眼手游",
+    "type": "unknown",
+    "room": 23389262,
+    "face": "/bfs/face/daffb077099883b3b744c83174b3f77464f70cc6.jpg",
+    "sign": "《深空之眼》手游官方帐号"
+  },
+  "1636034895": {
+    "name": "绝区零",
+    "type": "unknown",
+    "room": 0,
+    "face": "/bfs/face/bb1f9c39109bdfde86e766000c67e053afb80450.jpg",
+    "sign": "绝区零官方账号"
+  },
+  "1340190821": {
+    "name": "崩坏星穹铁道",
+    "type": "unknown",
+    "room": 0,
+    "face": "/bfs/face/ef5647dfa8a7a6145154660f5aeee0dad9d5c7c8.jpg",
+    "sign": "愿此行，终抵群星。 "
+  },
   "401742377": {
     "name": "原神",
     "type": "unknown",
@@ -32436,5 +32485,12 @@
     "room": 1319882,
     "face": "/bfs/face/f861b2ff49d2bb996ec5fd05ba7a1eeb320dbf7b.jpg",
     "sign": "全新6.0版本「光辉矢愿」开启，全新S级角色「真我·人之律者」登场！"
+  },
+  "33605910": {
+    "name": "啵啵小狗341",
+    "type": "unknown",
+    "room": 2450440,
+    "face": "/bfs/face/3a2319d5824da19a3f08da9e30a29a4beeb54522.jpg",
+    "sign": "“做一个健康的美女宝”"
   }
 }
