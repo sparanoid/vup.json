@@ -1754,7 +1754,7 @@
   "15417897": {
     "name": "Piquer",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 1282429,
     "face": "/bfs/face/a355aa58f361de6a67a41de5b73be484653d039a.jpg"
   },
   "562037265": {
@@ -10707,7 +10707,7 @@
     "name": "崔小茶tea",
     "type": "vtuber",
     "room_id": 23215156,
-    "face": "/bfs/face/639d541989fbb17779f3bc9fdecce52dee2870a5.jpg"
+    "face": "/bfs/face/c3628f71fc7cf4fda5f4ed61f804c66b5807c719.jpg"
   },
   "1621882754": {
     "name": "崭望Nozomi",
@@ -17475,7 +17475,7 @@
     "name": "灵晓_Official",
     "type": "vtuber",
     "room_id": 3484029,
-    "face": "/bfs/face/ce60cf128e5fa61669075596ada26b34114f785e.jpg"
+    "face": "/bfs/face/777d3501aea24ad2e00fd968c6d55fba59dd3642.jpg"
   },
   "1398": {
     "name": "灵源道长Official",
@@ -21422,7 +21422,7 @@
   "3280205": {
     "name": "绵月Niro",
     "type": "vtuber",
-    "room_id": 67558,
+    "room_id": 0,
     "face": "/bfs/face/eb7d8192de62f6d9b29d9f6c395e2646f18fbf35.jpg"
   },
   "474767851": {
@@ -21819,7 +21819,7 @@
     "name": "舒三妈Susam",
     "type": "vtuber",
     "room_id": 3032130,
-    "face": "/bfs/face/378b019374f6999692e46753d2f6095fd6f216b1.jpg"
+    "face": "/bfs/face/d5b9c9e2d75c9f1fe8ad0caa6a7fa69897a27f8c.jpg"
   },
   "477780497": {
     "name": "舞元启介Official",
@@ -22509,7 +22509,7 @@
     "name": "芷小菡",
     "type": "vtuber",
     "room_id": 1011107,
-    "face": "/bfs/baselabs/e615ffb09871f185ae44e2567b6b0fe5bf374e0b.png"
+    "face": "/bfs/face/3ba6ec10cbc133a77933104099d379c18685fbc9.jpg"
   },
   "1514013": {
     "name": "芽千千ガチチ",
@@ -25160,7 +25160,7 @@
   "428424219": {
     "name": "铃原艺术研究社",
     "type": "unknown",
-    "room_id": 21402450,
+    "room_id": 0,
     "face": "/bfs/face/a28dbc9833daee760a5562f9968d808ca8474aa4.jpg"
   },
   "666726794": {
