@@ -4610,7 +4610,7 @@
   "2136901507": {
     "name": "云碗",
     "type": "vtuber",
-    "room_id": 22764086,
+    "room_id": 0,
     "face": "/bfs/face/e70f0a1153a3ca9911b66aebb3e3df4d07b0c5e4.jpg"
   },
   "108465779": {
@@ -7484,7 +7484,7 @@
   "17511965": {
     "name": "咦我的头发呢",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 14343955,
     "face": "/bfs/face/b69d0031c976f9c4e870fb04db46fd70d81921cb.jpg"
   },
   "1394998893": {
