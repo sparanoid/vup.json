@@ -79,6 +79,11 @@
     "type": "vtuber",
     "room": 894919
   },
+  "137980431": {
+    "name": "98_SSword",
+    "type": "vtuber",
+    "room": 6568696
+  },
   "703007996": {
     "name": "A-SOUL_Official",
     "type": "group",
@@ -2288,6 +2293,11 @@
     "name": "小祈悠",
     "type": "vtuber",
     "room": 22090492
+  },
+  "363357480": {
+    "name": "hivhhic墨",
+    "type": "vtuber",
+    "room": 13739591
   },
   "444316844": {
     "name": "holostars",
@@ -6068,6 +6078,11 @@
     "name": "名無しタコ",
     "type": "vtuber",
     "room": 827024
+  },
+  "667037266": {
+    "name": "吐司Awu",
+    "type": "vtuber",
+    "room": 25040389
   },
   "406287528": {
     "name": "向日枫Channel",
@@ -10849,6 +10864,11 @@
     "type": "vtuber",
     "room": 48476
   },
+  "1445396436": {
+    "name": "星琮___Starley",
+    "type": "vtuber",
+    "room": 25425027
+  },
   "1884671231": {
     "name": "星璃_Official",
     "type": "vtuber",
@@ -12509,10 +12529,10 @@
     "type": "vtuber",
     "room": 24161038
   },
-  "25252444": {
-    "name": "栗梦的白日梦收藏库",
+  "1737480418": {
+    "name": "栗梦_drowzee",
     "type": "vtuber",
-    "room": 5602945
+    "room": 25343664
   },
   "48217254": {
     "name": "栗牧Muri",
@@ -12898,6 +12918,11 @@
     "name": "梦魇Tsuki",
     "type": "vtuber",
     "room": 851181
+  },
+  "1674242827": {
+    "name": "梨卡RIKA",
+    "type": "vtuber",
+    "room": 24780820
   },
   "1900141897": {
     "name": "梨安不迷路",
@@ -13799,6 +13824,11 @@
     "type": "vtuber",
     "room": 722448
   },
+  "87692438": {
+    "name": "沫尧-MY1024",
+    "type": "vtuber",
+    "room": 23603418
+  },
   "132834024": {
     "name": "沫熠Moyi",
     "type": "vtuber",
@@ -13924,6 +13954,11 @@
     "type": "vtuber",
     "room": 24969488
   },
+  "1753945901": {
+    "name": "泷和takuzu",
+    "type": "vtuber",
+    "room": 25430124
+  },
   "1806427738": {
     "name": "泷滨_Official",
     "type": "group",
@@ -13933,6 +13968,11 @@
     "name": "泽叶Sawayo",
     "type": "vtuber",
     "room": 343647
+  },
+  "1521060322": {
+    "name": "泽拉茉娅Moya",
+    "type": "vtuber",
+    "room": 25352613
   },
   "547498202": {
     "name": "洛丽璐莉RoriRuri",
@@ -14399,6 +14439,11 @@
     "type": "vtuber",
     "room": 25724522
   },
+  "180177570": {
+    "name": "溧子喵",
+    "type": "vtuber",
+    "room": 5217172
+  },
   "258875006": {
     "name": "溯月Sotsuki",
     "type": "vtuber",
@@ -14588,6 +14633,11 @@
     "name": "灵虎爻休channel",
     "type": "vtuber",
     "room": 4416786
+  },
+  "1132450186": {
+    "name": "灼灼Auburn",
+    "type": "vtuber",
+    "room": 25263257
   },
   "433076086": {
     "name": "炎沐yamu",
@@ -15894,10 +15944,20 @@
     "type": "vtuber",
     "room": 906339
   },
+  "687730248": {
+    "name": "白川Yuriko",
+    "type": "vtuber",
+    "room": 25439496
+  },
   "66771733": {
     "name": "白川佳奈_Channel",
     "type": "vtuber",
     "room": 5156036
+  },
+  "1868519688": {
+    "name": "白希尔Basir",
+    "type": "vtuber",
+    "room": 25433913
   },
   "8370845": {
     "name": "一刀流冬贝利",
@@ -15908,6 +15968,16 @@
     "name": "白怜Official",
     "type": "vtuber",
     "room": 22954019
+  },
+  "498562614": {
+    "name": "白旲_Baeyin",
+    "type": "vtuber",
+    "room": 25436142
+  },
+  "16616117": {
+    "name": "白月Shiro",
+    "type": "vtuber",
+    "room": 12552491
   },
   "1516482": {
     "name": "白桃Shirako",
@@ -18089,6 +18159,11 @@
     "type": "vtuber",
     "room": 173415
   },
+  "1878967512": {
+    "name": "翎空_Asora",
+    "type": "vtuber",
+    "room": 25421885
+  },
   "521137269": {
     "name": "翎音酱-Channel",
     "type": "vtuber",
@@ -19003,6 +19078,11 @@
     "name": "茶木迟_一般通过JK",
     "type": "vtuber",
     "room": 21959066
+  },
+  "1280313968": {
+    "name": "茶泡饭Channel",
+    "type": "vtuber",
+    "room": 25797553
   },
   "158146362": {
     "name": "茶璃_Chari",
@@ -21144,6 +21224,11 @@
     "type": "vtuber",
     "room": 553385
   },
+  "1439938649": {
+    "name": "阳绫Themis",
+    "type": "vtuber",
+    "room": 24956917
+  },
   "1428441528": {
     "name": "阿买official",
     "type": "vtuber",
@@ -21583,6 +21668,11 @@
     "name": "雪姬Yuki",
     "type": "vtuber",
     "room": 516338
+  },
+  "3461565810477475": {
+    "name": "雪小柚Yukizu",
+    "type": "vtuber",
+    "room": 25760274
   },
   "23643455": {
     "name": "琉璃花糖",
@@ -22268,6 +22358,11 @@
     "name": "饭团喵にゃん",
     "type": "vtuber",
     "room": 22563900
+  },
+  "28872319": {
+    "name": "饭饭mesi",
+    "type": "vtuber",
+    "room": 11268906
   },
   "1357409459": {
     "name": "饴宫Doki",
