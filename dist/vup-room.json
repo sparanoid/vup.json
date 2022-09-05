@@ -2535,7 +2535,7 @@
     "name": "Yenn咕噜咕噜",
     "type": "vtuber",
     "room_id": 25657054,
-    "face": "/bfs/face/8ce24398801e8cc85bfb60650e57a0c81fc3a3e3.jpg"
+    "face": "/bfs/face/b593e21361fa902a40f556d076a8d983b14f89fa.jpg"
   },
   "160024260": {
     "name": "昨日きのう",
@@ -5057,6 +5057,12 @@
     "room_id": 183785,
     "face": "/bfs/face/8c6741a36adb980d8a5694956578c1989c52cba8.jpg"
   },
+  "2037141": {
+    "name": "伊菲露诺_channel",
+    "type": "vtuber",
+    "room_id": 4079654,
+    "face": "/bfs/face/7f593a7bd41e593e4909a38d01e5d4dfc93ae3b0.jpg"
+  },
   "7652319": {
     "name": "伊蒙official",
     "type": "vtuber",
@@ -6033,7 +6039,7 @@
     "name": "凜凜蝶凜",
     "type": "vtuber",
     "room_id": 25290861,
-    "face": "/bfs/face/6652835f7d245efdd252e2f7ee311dff134044c9.jpg"
+    "face": "/bfs/face/059b81f827427c6ba144bbe14947be0a9fe8ed8d.jpg"
   },
   "508921078": {
     "name": "凡_Official",
@@ -7354,6 +7360,12 @@
     "type": "vtuber",
     "room_id": 22200568,
     "face": "/bfs/face/ab7b6774016351bc523f42152380730af4fd1710.jpg"
+  },
+  "1161258028": {
+    "name": "吱吱子爱唱歌",
+    "type": "vtuber",
+    "room_id": 25474594,
+    "face": "/bfs/face/c1a8f836dca2392562cd4de729771970ee45e246.jpg"
   },
   "12548532": {
     "name": "吱吱爱吃芝士",
@@ -8888,7 +8900,7 @@
   "490981706": {
     "name": "天气阿准official",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 22622779,
     "face": "/bfs/face/9072346b9c54d90c0e4cb175179c8c36c23bc60e.jpg"
   },
   "2724244": {
@@ -17291,6 +17303,12 @@
     "room_id": 22322276,
     "face": "/bfs/face/f5c41e20bc590ad447be57ea9f93a8736128e88a.jpg"
   },
+  "2078314102": {
+    "name": "游淼yumia",
+    "type": "vtuber",
+    "room_id": 25206404,
+    "face": "/bfs/face/4a7619f1c7daeb4022e5b16c6084834291a16d5f.jpg"
+  },
   "8299419": {
     "name": "游莲official",
     "type": "vtuber",
@@ -23601,7 +23619,7 @@
     "name": "蕾琳Leylin",
     "type": "vtuber",
     "room_id": 24231899,
-    "face": "/bfs/face/23b2654d74024cb5de7aa47d4f943a93e08f8e16.jpg"
+    "face": "/bfs/face/1a5db6de1ee8a12e7e13236b850419cdf2dadd75.jpg"
   },
   "690608687": {
     "name": "蕾米Remi",
