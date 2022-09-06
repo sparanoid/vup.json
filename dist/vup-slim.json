@@ -359,6 +359,11 @@
     "type": "vtuber",
     "room": 3392010
   },
+  "823718": {
+    "name": "C-Live_Project",
+    "type": "group",
+    "room": 0
+  },
   "410512576": {
     "name": "CANAMETOHARUKY",
     "type": "vtuber",
@@ -10489,6 +10494,11 @@
     "type": "vtuber",
     "room": 23743004
   },
+  "1395549000": {
+    "name": "时柒_Nana",
+    "type": "vtuber",
+    "room": 25655651
+  },
   "12768031": {
     "name": "时茗白羽_official",
     "type": "vtuber",
@@ -12603,6 +12613,11 @@
     "name": "桃卷子儿_Channel",
     "type": "vtuber",
     "room": 6032545
+  },
+  "313064642": {
+    "name": "桃唯Yui",
+    "type": "vtuber",
+    "room": 25367094
   },
   "436305812": {
     "name": "桃园爱MOMO",
@@ -21373,6 +21388,11 @@
     "name": "芝士葡萄圈圈甜plus版",
     "type": "vtuber",
     "room": 144253
+  },
+  "75767058": {
+    "name": "阿比_official",
+    "type": "vtuber",
+    "room": 25235792
   },
   "3284394": {
     "name": "阿泯MINN_Channel",

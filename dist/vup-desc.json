@@ -503,6 +503,13 @@
     "face": "/bfs/face/e44abb6f2471d7df8951083978956ddd48deec91.jpg",
     "sign": "成分：人"
   },
+  "823718": {
+    "name": "C-Live_Project",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/da2c0397493c4fc904b932edb5fd53d974d3acda.jpg",
+    "sign": "虚拟艺人社团C-Live官方账号"
+  },
   "410512576": {
     "name": "CANAMETOHARUKY",
     "type": "vtuber",
@@ -14685,6 +14692,13 @@
     "face": "/bfs/face/32b0fa381fbd4179a5e2029e7ff5ba3933492b83.jpg",
     "sign": "初次见面，我是你的小女友时来梦爱。请叫我地雷酱或者yua亲！将来的梦想是成为你的妻子！粉丝群768124296"
   },
+  "1395549000": {
+    "name": "时柒_Nana",
+    "type": "vtuber",
+    "room": 25655651,
+    "face": "/bfs/face/bd2bd17d8bc805f29cf239673be6b4af2145c639.jpg",
+    "sign": "✦✦温柔系女仆，杂谈势vup ✦✦ 粉丝群：788753313，快来成为时柒的骑士大人吧。"
+  },
   "12768031": {
     "name": "时茗白羽_official",
     "type": "vtuber",
@@ -16377,7 +16391,7 @@
     "type": "vtuber",
     "room": 264788,
     "face": "/bfs/face/be058ce1aa77aea9545b7665afb5f1eb83371c25.jpg",
-    "sign": "里里粉丝：583248989 \n合作/工作邮箱：provealms@foxmail.com"
+    "sign": "里里粉丝群：583248989 \n合作/工作邮箱：provealms@foxmail.com"
   },
   "398302256": {
     "name": "有理w_Yurii",
@@ -17645,6 +17659,13 @@
     "room": 6032545,
     "face": "/bfs/face/d4c013657f5a6b0dd11d94187d795ecb762abff5.jpg",
     "sign": "你好，我是桃卷子儿，个人势vup 喜欢的话就关注我吧！ 粉丝群：982348667 "
+  },
+  "313064642": {
+    "name": "桃唯Yui",
+    "type": "vtuber",
+    "room": 25367094,
+    "face": "/bfs/face/931112498b5702cb04b22f7aaaa8b9257787c71d.jpg",
+    "sign": "新人Vup 是只会弹唱的修勾！梦想是去更大的舞台，很想认识你，请多多指教！"
   },
   "436305812": {
     "name": "桃园爱MOMO",
@@ -27611,7 +27632,7 @@
     "name": "薇拉_Xaviera",
     "type": "vtuber",
     "room": 23364521,
-    "face": "/bfs/face/7d47cafa0e39161e8074c3049a543383ef34a0d8.jpg",
+    "face": "/bfs/face/140cbd180205c3b36b93d5411dc082a43c5d81a9.jpg",
     "sign": "谢谢你还在"
   },
   "93669": {
@@ -29924,6 +29945,13 @@
     "face": "/bfs/face/bf72cbaaed6c2282ec411b3259aabb5865323c8b.jpg",
     "sign": "个人势vup 聚集地：644977289  以人为主 qq：2278435001   Elpis社团所属  人品不好"
   },
+  "75767058": {
+    "name": "阿比_official",
+    "type": "vtuber",
+    "room": 25235792,
+    "face": "/bfs/face/a5d92c4776457928dc5a771b74f37fa950b85a31.jpg",
+    "sign": "【个人势】【全职社畜】没有工会，不营业，有个禁言群：820882725  播着玩和@梦野纱纱有个组合 每周二三直播，感谢支持！"
+  },
   "3284394": {
     "name": "阿泯MINN_Channel",
     "type": "vtuber",
@@ -31896,7 +31924,7 @@
     "type": "vtuber",
     "room": 23945753,
     "face": "/bfs/face/4a63f07f65543b9818457dc975111393df022ea7.jpg",
-    "sign": ""
+    "sign": "直播时间晚八点或八点半，白天随缘"
   },
   "32344331": {
     "name": "鸩_zzz",

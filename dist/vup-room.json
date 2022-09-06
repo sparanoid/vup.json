@@ -431,6 +431,12 @@
     "room_id": 3392010,
     "face": "/bfs/face/e44abb6f2471d7df8951083978956ddd48deec91.jpg"
   },
+  "823718": {
+    "name": "C-Live_Project",
+    "type": "group",
+    "room_id": 0,
+    "face": "/bfs/face/da2c0397493c4fc904b932edb5fd53d974d3acda.jpg"
+  },
   "410512576": {
     "name": "CANAMETOHARUKY",
     "type": "vtuber",
@@ -12587,6 +12593,12 @@
     "room_id": 23743004,
     "face": "/bfs/face/32b0fa381fbd4179a5e2029e7ff5ba3933492b83.jpg"
   },
+  "1395549000": {
+    "name": "时柒_Nana",
+    "type": "vtuber",
+    "room_id": 25655651,
+    "face": "/bfs/face/bd2bd17d8bc805f29cf239673be6b4af2145c639.jpg"
+  },
   "12768031": {
     "name": "时茗白羽_official",
     "type": "vtuber",
@@ -15124,6 +15136,12 @@
     "type": "vtuber",
     "room_id": 6032545,
     "face": "/bfs/face/d4c013657f5a6b0dd11d94187d795ecb762abff5.jpg"
+  },
+  "313064642": {
+    "name": "桃唯Yui",
+    "type": "vtuber",
+    "room_id": 25367094,
+    "face": "/bfs/face/931112498b5702cb04b22f7aaaa8b9257787c71d.jpg"
   },
   "436305812": {
     "name": "桃园爱MOMO",
@@ -23667,7 +23685,7 @@
     "name": "薇拉_Xaviera",
     "type": "vtuber",
     "room_id": 23364521,
-    "face": "/bfs/face/7d47cafa0e39161e8074c3049a543383ef34a0d8.jpg"
+    "face": "/bfs/face/140cbd180205c3b36b93d5411dc082a43c5d81a9.jpg"
   },
   "93669": {
     "name": "薛ちゃんねる",
@@ -25648,6 +25666,12 @@
     "type": "vtuber",
     "room_id": 144253,
     "face": "/bfs/face/bf72cbaaed6c2282ec411b3259aabb5865323c8b.jpg"
+  },
+  "75767058": {
+    "name": "阿比_official",
+    "type": "vtuber",
+    "room_id": 25235792,
+    "face": "/bfs/face/a5d92c4776457928dc5a771b74f37fa950b85a31.jpg"
   },
   "3284394": {
     "name": "阿泯MINN_Channel",
