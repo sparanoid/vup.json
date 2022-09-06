@@ -2637,7 +2637,7 @@
     "name": "_かがみ_镜",
     "type": "vtuber",
     "room": 1363311,
-    "face": "/bfs/face/e7afec41513e8c834754229b5abd4416b5a02cb2.jpg"
+    "face": "/bfs/face/6dc66773c8baec2384d39d5d77c44d821c5f17b6.jpg"
   },
   "1710361170": {
     "name": "_蕾伊娜Reyna_",
@@ -8948,7 +8948,7 @@
   "360221708": {
     "name": "天神子兔音Official",
     "type": "vtuber",
-    "room": 0,
+    "room": 13744134,
     "face": "/bfs/face/aebcad7165e6d4bcb20dd8ae93c413aea4ea56ad.jpg"
   },
   "407979432": {
@@ -15603,7 +15603,7 @@
     "name": "棠衣衣吖",
     "type": "vtuber",
     "room": 617714,
-    "face": "/bfs/face/4f02fb4461b3c235995ac9c08ae9bfe3ebef7e9d.jpg"
+    "face": "/bfs/face/3e899a4d425fbdbca4b05f2698f63e226367283d.jpg"
   },
   "124177": {
     "name": "森ノ目律channel",
@@ -19271,6 +19271,12 @@
     "room": 23149122,
     "face": "/bfs/face/ca77d5e7be678d0787e56768e2e59415295a127c.jpg"
   },
+  "8353198": {
+    "name": "白灯不拖更",
+    "type": "vtuber",
+    "room": 2662397,
+    "face": "/bfs/face/62c1ecbfca71e54990a318f6ae2851209407b682.jpg"
+  },
   "66669754": {
     "name": "白炽N1ght7",
     "type": "vtuber",
@@ -19953,7 +19959,7 @@
     "name": "石川胜Ishikawa",
     "type": "vtuber",
     "room": 3673051,
-    "face": "/bfs/face/03e54d30b484a8f6e77661d06dc3a10cd9d01892.jpg"
+    "face": "/bfs/face/a412c8add95b038e33996388534483013bc25ac9.jpg"
   },
   "2114905950": {
     "name": "石榴ZaKuRo_Channel",
@@ -20901,7 +20907,7 @@
     "name": "粉黛乱子Capillaris",
     "type": "vtuber",
     "room": 540024,
-    "face": "/bfs/face/fd8e13f00f745091c885dcdbb4ad81764b60dcc9.jpg"
+    "face": "/bfs/face/d025b56d37c967bec1a40c1e19e55eb2833af0c4.jpg"
   },
   "20801477": {
     "name": "粢饭_Ri",
@@ -21483,7 +21489,7 @@
     "name": "绫濑光Official",
     "type": "vtuber",
     "room": 3428783,
-    "face": "/bfs/face/51382585ab0f28e5f32a62c13cec59b43dd3bef9.jpg"
+    "face": "/bfs/face/5b506bd90ed7ef74cbcc94a25b41c2a1eaf572e9.jpg"
   },
   "88035929": {
     "name": "绫音乃苏",
@@ -21952,6 +21958,12 @@
     "type": "vtuber",
     "room": 5901838,
     "face": "/bfs/face/7c0e13a90c8018cde627d64099189628d557f76e.jpg"
+  },
+  "1282271864": {
+    "name": "自由魂儿儿儿",
+    "type": "vtuber",
+    "room": 23459804,
+    "face": "/bfs/face/76bc67789b37e6803210df206b14c82373a96f4f.jpg"
   },
   "6853766": {
     "name": "舒三妈Susam",
@@ -23507,6 +23519,12 @@
     "room": 12572878,
     "face": "/bfs/face/d3801aaa9554b6b8bbc625e59549d164ca5376ae.jpg"
   },
+  "3461565198109526": {
+    "name": "葵葵野",
+    "type": "vtuber",
+    "room": 25722875,
+    "face": "/bfs/face/b1603d0328a217ed69e1af21a7bf8a58e26e6bb2.jpg"
+  },
   "503820721": {
     "name": "DeliaBackHome",
     "type": "vtuber",
@@ -24777,7 +24795,7 @@
     "name": "辣奶火锅",
     "type": "vtuber",
     "room": 25062472,
-    "face": "/bfs/face/f0e190ecd7fca5a581fd1a1f488edc6753b7b5b3.jpg"
+    "face": "/bfs/face/36d23b2b56a08a3bb2147393936b41ba87a53751.jpg"
   },
   "281680": {
     "name": "辺銀煙kemuri",
@@ -25006,6 +25024,12 @@
     "type": "vtuber",
     "room": 15748,
     "face": "/bfs/face/a3218ab793e460ee1bba1a311117f83220c7d533.jpg"
+  },
+  "44062985": {
+    "name": "酥壳Sarika",
+    "type": "vtuber",
+    "room": 22858498,
+    "face": "/bfs/face/ace1715a1b751d290c626661e6eaa2ed44509249.jpg"
   },
   "454223734": {
     "name": "酥芷Chakku",
