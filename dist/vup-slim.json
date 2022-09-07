@@ -64,11 +64,6 @@
     "type": "vtuber",
     "room": 21574518
   },
-  "3016706": {
-    "name": "7Apoi",
-    "type": "vtuber",
-    "room": 4441232
-  },
   "34237849": {
     "name": "千代茨",
     "type": "vtuber",
@@ -93,11 +88,6 @@
     "name": "Project_aid_un",
     "type": "vtuber",
     "room": 0
-  },
-  "20615815": {
-    "name": "ADTB-Project",
-    "type": "group",
-    "room": 3300114
   },
   "484322035": {
     "name": "AIChannel中国绊爱",
@@ -129,11 +119,6 @@
     "type": "vtuber",
     "room": 40222
   },
-  "1898658005": {
-    "name": "ARTs学院",
-    "type": "group",
-    "room": 0
-  },
   "24684806": {
     "name": "ATM西米酱",
     "type": "vtuber",
@@ -158,11 +143,6 @@
     "name": "幻羽Accesstobia",
     "type": "vtuber",
     "room": 2781167
-  },
-  "379333934": {
-    "name": "Grieffindor",
-    "type": "group",
-    "room": 14287479
   },
   "499288958": {
     "name": "-Aien-",
@@ -239,11 +219,6 @@
     "type": "vtuber",
     "room": 25810704
   },
-  "369207": {
-    "name": "Another-Project",
-    "type": "group",
-    "room": 0
-  },
   "26939603": {
     "name": "樱野nono",
     "type": "vtuber",
@@ -263,11 +238,6 @@
     "name": "Asakiri深岚",
     "type": "vtuber",
     "room": 4095214
-  },
-  "17977334": {
-    "name": "ElskaAsh",
-    "type": "vtuber",
-    "room": 394623
   },
   "2592429": {
     "name": "YpCa1",
@@ -588,6 +558,11 @@
     "name": "Elena-沐沐",
     "type": "vtuber",
     "room": 73168
+  },
+  "17977334": {
+    "name": "ElskaAsh",
+    "type": "vtuber",
+    "room": 394623
   },
   "674692942": {
     "name": "EMINA录播组",
@@ -2403,11 +2378,6 @@
     "name": "萌流mofuu",
     "type": "vtuber",
     "room": 22751461
-  },
-  "35552404": {
-    "name": "63132313",
-    "type": "vtuber",
-    "room": 497059
   },
   "569843534": {
     "name": "nanamori_stpr",
@@ -10404,6 +10374,11 @@
     "type": "vtuber",
     "room": 13039652
   },
+  "2776294": {
+    "name": "日子人白枫",
+    "type": "vtuber",
+    "room": 168835
+  },
   "1017254472": {
     "name": "日雨柒",
     "type": "vtuber",
@@ -11814,11 +11789,6 @@
     "type": "vtuber",
     "room": 10108124
   },
-  "10257537": {
-    "name": "炎火猎人的胜利",
-    "type": "vtuber",
-    "room": 5063573
-  },
   "54191665": {
     "name": "木糖纯Official",
     "type": "vtuber",
@@ -12668,11 +12638,6 @@
     "name": "桃濑绮罗罗_Kirara",
     "type": "vtuber",
     "room": 23669443
-  },
-  "386908": {
-    "name": "神崎咲Saki",
-    "type": "vtuber",
-    "room": 371798
   },
   "26613467": {
     "name": "桃瑞丝Official",
@@ -14653,6 +14618,11 @@
     "name": "炎沐yamu",
     "type": "vtuber",
     "room": 21946166
+  },
+  "10257537": {
+    "name": "炎火猎人的胜利",
+    "type": "vtuber",
+    "room": 5063573
   },
   "51234175": {
     "name": "虚拟道具师炫银蛇",
@@ -19269,11 +19239,6 @@
     "type": "vtuber",
     "room": 2984872
   },
-  "4689550": {
-    "name": "莓莉雅Melia",
-    "type": "vtuber",
-    "room": 800312
-  },
   "473967891": {
     "name": "莓里_Channel",
     "type": "vtuber",
@@ -20424,11 +20389,6 @@
     "type": "vtuber",
     "room": 22800243
   },
-  "693": {
-    "name": "赫卡Tia",
-    "type": "vtuber",
-    "room": 22348429
-  },
   "823547": {
     "name": "莱伯德_Official",
     "type": "vtuber",
@@ -21078,11 +21038,6 @@
     "name": "铁寒生Kanse_Channel",
     "type": "vtuber",
     "room": 21690710
-  },
-  "2776294": {
-    "name": "日子人白枫",
-    "type": "vtuber",
-    "room": 168835
   },
   "1263271233": {
     "name": "铃伊_Rei",
@@ -21848,11 +21803,6 @@
     "name": "Tadyi零叁_Channel",
     "type": "vtuber",
     "room": 13639273
-  },
-  "5861431": {
-    "name": "零式妖精Project",
-    "type": "group",
-    "room": 369374
   },
   "33031951": {
     "name": "零月月酱",

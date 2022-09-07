@@ -77,12 +77,6 @@
     "room_id": 21574518,
     "face": "/bfs/face/3e2468d7455a1efbac5ba6c01b19731b46aae5b1.jpg"
   },
-  "3016706": {
-    "name": "7Apoi",
-    "type": "vtuber",
-    "room_id": 4441232,
-    "face": "/bfs/face/52680d39f60fc0fc37a5e634e37df5afe24f93b0.jpg"
-  },
   "34237849": {
     "name": "千代茨",
     "type": "vtuber",
@@ -112,12 +106,6 @@
     "type": "vtuber",
     "room_id": 0,
     "face": "/bfs/face/4a9bc6b627dc9e31db2207039c13b3fcb25a171e.jpg"
-  },
-  "20615815": {
-    "name": "ADTB-Project",
-    "type": "group",
-    "room_id": 3300114,
-    "face": "/bfs/face/5644b07e8f747806d5f27c4df6ce1e6c8fdb8975.jpg"
   },
   "484322035": {
     "name": "AIChannel中国绊爱",
@@ -155,12 +143,6 @@
     "room_id": 40222,
     "face": "/bfs/face/0f29a84eef7cce391c16dea37ce4a7ad13ee0845.jpg"
   },
-  "1898658005": {
-    "name": "ARTs学院",
-    "type": "group",
-    "room_id": 0,
-    "face": "/bfs/face/50907b25f20c7ecf72c3769598510c65053a7e89.jpg"
-  },
   "24684806": {
     "name": "ATM西米酱",
     "type": "vtuber",
@@ -190,12 +172,6 @@
     "type": "vtuber",
     "room_id": 2781167,
     "face": "/bfs/face/b35342b176f18ca064cc7c7ba624ff0f22f6cdd1.jpg"
-  },
-  "379333934": {
-    "name": "Grieffindor",
-    "type": "group",
-    "room_id": 14287479,
-    "face": "/bfs/face/789976290af72b202b13e855796dbb0fc0739959.jpg"
   },
   "499288958": {
     "name": "-Aien-",
@@ -287,12 +263,6 @@
     "room_id": 25810704,
     "face": "/bfs/face/05c5e989ecf300efec4c33de14310ea728b42838.jpg"
   },
-  "369207": {
-    "name": "Another-Project",
-    "type": "group",
-    "room_id": 0,
-    "face": "/bfs/face/930d0de2876971bd8dd7a8f93768bfd5016cd5b8.jpg"
-  },
   "26939603": {
     "name": "樱野nono",
     "type": "vtuber",
@@ -316,12 +286,6 @@
     "type": "vtuber",
     "room_id": 4095214,
     "face": "/bfs/face/ceaf445c104cd30a2385d69eb639c8d2e80befd1.jpg"
-  },
-  "17977334": {
-    "name": "ElskaAsh",
-    "type": "vtuber",
-    "room_id": 394623,
-    "face": "/bfs/face/a569a3a1bcd3044041ad9f48263f0166ae5b585d.jpg"
   },
   "2592429": {
     "name": "YpCa1",
@@ -706,6 +670,12 @@
     "type": "vtuber",
     "room_id": 73168,
     "face": "/bfs/face/8848841bce429ce72fb354e428a4a837a27b38fa.jpg"
+  },
+  "17977334": {
+    "name": "ElskaAsh",
+    "type": "vtuber",
+    "room_id": 394623,
+    "face": "/bfs/face/a569a3a1bcd3044041ad9f48263f0166ae5b585d.jpg"
   },
   "674692942": {
     "name": "EMINA录播组",
@@ -2884,12 +2854,6 @@
     "type": "vtuber",
     "room_id": 22751461,
     "face": "/bfs/face/c632f836c03f939e258b975b216c6958c04a5d9c.jpg"
-  },
-  "35552404": {
-    "name": "63132313",
-    "type": "vtuber",
-    "room_id": 497059,
-    "face": "/bfs/face/4e0a4c633f416abbaeb2659acc2082bbb222ecb2.jpg"
   },
   "569843534": {
     "name": "nanamori_stpr",
@@ -12485,6 +12449,12 @@
     "room_id": 13039652,
     "face": "/bfs/face/2d388dd8f16e3f67616c516c7e543aa2201c9b74.jpg"
   },
+  "2776294": {
+    "name": "日子人白枫",
+    "type": "vtuber",
+    "room_id": 168835,
+    "face": "/bfs/face/d2d65bdf2e262b301ba78a7d7dd87eb217a2a277.jpg"
+  },
   "1017254472": {
     "name": "日雨柒",
     "type": "vtuber",
@@ -14177,12 +14147,6 @@
     "room_id": 10108124,
     "face": "/bfs/face/77e71b23a2a830f39f9e34a5ebe324b177f1055e.jpg"
   },
-  "10257537": {
-    "name": "炎火猎人的胜利",
-    "type": "vtuber",
-    "room_id": 5063573,
-    "face": "/bfs/face/2c221aacb7ea76b6e976bcf223df38add4a0eb82.jpg"
-  },
   "54191665": {
     "name": "木糖纯Official",
     "type": "vtuber",
@@ -15202,12 +15166,6 @@
     "type": "vtuber",
     "room_id": 23669443,
     "face": "/bfs/face/74db402a570ebecb16f46a4c240b9a76087a6f55.jpg"
-  },
-  "386908": {
-    "name": "神崎咲Saki",
-    "type": "vtuber",
-    "room_id": 371798,
-    "face": "/bfs/face/6c251493e0997fb8c219696a597b6ef621e2c6e1.jpg"
   },
   "26613467": {
     "name": "桃瑞丝Official",
@@ -17584,6 +17542,12 @@
     "type": "vtuber",
     "room_id": 21946166,
     "face": "/bfs/face/2735ff9b3aa70f53c78b19b99a2b7f5e6c7162a8.jpg"
+  },
+  "10257537": {
+    "name": "炎火猎人的胜利",
+    "type": "vtuber",
+    "room_id": 5063573,
+    "face": "/bfs/face/2c221aacb7ea76b6e976bcf223df38add4a0eb82.jpg"
   },
   "51234175": {
     "name": "虚拟道具师炫银蛇",
@@ -23123,12 +23087,6 @@
     "room_id": 2984872,
     "face": "/bfs/face/1736dadc16974b58e45ed2202e9b7b31eea8638e.jpg"
   },
-  "4689550": {
-    "name": "莓莉雅Melia",
-    "type": "vtuber",
-    "room_id": 800312,
-    "face": "/bfs/face/f29620637abe44d3b5e709792d24577fd75bde4e.jpg"
-  },
   "473967891": {
     "name": "莓里_Channel",
     "type": "vtuber",
@@ -24509,12 +24467,6 @@
     "room_id": 22800243,
     "face": "/bfs/face/78b9e404eac26d5be636216fcb4f5382376b949c.jpg"
   },
-  "693": {
-    "name": "赫卡Tia",
-    "type": "vtuber",
-    "room_id": 22348429,
-    "face": "/bfs/face/b15412e3681b2878b70267fd3d37e8a1146d7642.jpg"
-  },
   "823547": {
     "name": "莱伯德_Official",
     "type": "vtuber",
@@ -25294,12 +25246,6 @@
     "type": "vtuber",
     "room_id": 21690710,
     "face": "/bfs/face/2029dfb4aae6ffb3375f0a2c0432eb0595ab5fda.jpg"
-  },
-  "2776294": {
-    "name": "日子人白枫",
-    "type": "vtuber",
-    "room_id": 168835,
-    "face": "/bfs/face/d2d65bdf2e262b301ba78a7d7dd87eb217a2a277.jpg"
   },
   "1263271233": {
     "name": "铃伊_Rei",
@@ -26218,12 +26164,6 @@
     "type": "vtuber",
     "room_id": 13639273,
     "face": "/bfs/face/279dc7e52815b9e0489aa900623305ee60dedc23.jpg"
-  },
-  "5861431": {
-    "name": "零式妖精Project",
-    "type": "group",
-    "room_id": 369374,
-    "face": "/bfs/face/9337cb88512c743e58bb3f052bec087751d1dcae.jpg"
   },
   "33031951": {
     "name": "零月月酱",
