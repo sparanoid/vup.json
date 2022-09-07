@@ -113,12 +113,6 @@
     "room_id": 0,
     "face": "/bfs/face/4a9bc6b627dc9e31db2207039c13b3fcb25a171e.jpg"
   },
-  "55096752": {
-    "name": "ACGN_Project",
-    "type": "group",
-    "room_id": 0,
-    "face": "/bfs/face/f9bcd21e43bb2c1bf42c1fede0e4b23c1d354a57.jpg"
-  },
   "20615815": {
     "name": "ADTB-Project",
     "type": "group",
@@ -8651,12 +8645,6 @@
     "room_id": 22329990,
     "face": "/bfs/face/cfcd63c9d0fa9b7a77fbcdccc12b4c3dfb55ea10.jpg"
   },
-  "660903515": {
-    "name": "账号已注销79686",
-    "type": "vtuber",
-    "room_id": 22485834,
-    "face": "/bfs/face/28660c2e82684c3e5c7633d642e5d1aa2c01263b.jpg"
-  },
   "9248846": {
     "name": "大玺玺子",
     "type": "vtuber",
@@ -9844,12 +9832,6 @@
     "type": "vtuber",
     "room_id": 23958320,
     "face": "/bfs/face/3332e55ece8f8506f35859b2afdad45da06f1ff6.jpg"
-  },
-  "495707763": {
-    "name": "只只Official",
-    "type": "vtuber",
-    "room_id": 22934515,
-    "face": "/bfs/face/d586038774cbc0408a45a935712d44c5f5b17a46.jpg"
   },
   "1602423": {
     "name": "宫野栞",
@@ -19187,12 +19169,6 @@
     "room_id": 13978,
     "face": "/bfs/face/881f609475d5abb9e151d61849fa8cc1e186b863.jpg"
   },
-  "1844102339": {
-    "name": "白怜Official",
-    "type": "vtuber",
-    "room_id": 22954019,
-    "face": "/bfs/face/b681cf1fde9ec32b60f9a53829d4236f72f8d0c7.jpg"
-  },
   "498562614": {
     "name": "白旲_Baeyin",
     "type": "vtuber",
@@ -23663,6 +23639,12 @@
     "room_id": 2267110,
     "face": "/bfs/face/f7826af021603b5d7ae96c8d7ba4fea078ac46ba.jpg"
   },
+  "666946916": {
+    "name": "蕾菈Layla",
+    "type": "vtuber",
+    "room_id": 23195972,
+    "face": "/bfs/face/961537616198db8e76d7d06d51dde0f9309b82be.jpg"
+  },
   "1097496558": {
     "name": "球球Iro",
     "type": "vtuber",
@@ -24562,6 +24544,12 @@
     "type": "vtuber",
     "room_id": 22480186,
     "face": "/bfs/face/b8f71a71c88605b5772006ca7a3e67b678acc351.jpg"
+  },
+  "297293105": {
+    "name": "赳栗娅",
+    "type": "vtuber",
+    "room_id": 23789885,
+    "face": "/bfs/face/fbe36918587e2cf3f595033f7a71268336cd783c.jpg"
   },
   "447588112": {
     "name": "赵太郎TV",
@@ -26961,7 +26949,7 @@
     "name": "香草莓巧子_kigurumi",
     "type": "vtuber",
     "room_id": 569341,
-    "face": "/bfs/face/ac25f8aad91a6519ed3cccabee32de78fbc2c6b3.jpg"
+    "face": "/bfs/face/b7e94196d1519cf59e94c5bac1f0d0ae19a1dbe2.jpg"
   },
   "1010093017": {
     "name": "马太Mastest",
@@ -27454,12 +27442,6 @@
     "type": "group",
     "room_id": 242688,
     "face": "/bfs/face/331de6f13a1d5fcfd431b7286892e4927317222c.jpg"
-  },
-  "437044819": {
-    "name": "账号已注销3018161",
-    "type": "vtuber",
-    "room_id": 25025628,
-    "face": "/bfs/face/ed9631da3f0c7f629555195a12fc91a6086f64eb.jpg"
   },
   "545926390": {
     "name": "潇潇不是憨憨",

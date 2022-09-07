@@ -132,13 +132,6 @@
     "face": "/bfs/face/4a9bc6b627dc9e31db2207039c13b3fcb25a171e.jpg",
     "sign": "Project A.I.D Unofficial／粉丝群号574882582／工作群号930161831／比起后期更需要翻译"
   },
-  "55096752": {
-    "name": "ACGN_Project",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/f9bcd21e43bb2c1bf42c1fede0e4b23c1d354a57.jpg",
-    "sign": "虚拟主播企划ACGN Project官号账号，商务合作请联系bd@acgn.plus"
-  },
   "20615815": {
     "name": "ADTB-Project",
     "type": "group",
@@ -10093,13 +10086,6 @@
     "face": "/bfs/face/cfcd63c9d0fa9b7a77fbcdccc12b4c3dfb55ea10.jpg",
     "sign": "观天社下辖三垣四象，主要收集东方神话。"
   },
-  "660903515": {
-    "name": "账号已注销79686",
-    "type": "vtuber",
-    "room": 22485834,
-    "face": "/bfs/face/28660c2e82684c3e5c7633d642e5d1aa2c01263b.jpg",
-    "sign": "无"
-  },
   "9248846": {
     "name": "大玺玺子",
     "type": "vtuber",
@@ -11485,13 +11471,6 @@
     "room": 23958320,
     "face": "/bfs/face/3332e55ece8f8506f35859b2afdad45da06f1ff6.jpg",
     "sign": "我是宫赫音，虚拟音乐人，原创音乐人。----合作请联系1433618362@qq.com----"
-  },
-  "495707763": {
-    "name": "只只Official",
-    "type": "vtuber",
-    "room": 22934515,
-    "face": "/bfs/face/d586038774cbc0408a45a935712d44c5f5b17a46.jpg",
-    "sign": ""
   },
   "1602423": {
     "name": "宫野栞",
@@ -22385,13 +22364,6 @@
     "face": "/bfs/face/881f609475d5abb9e151d61849fa8cc1e186b863.jpg",
     "sign": ""
   },
-  "1844102339": {
-    "name": "白怜Official",
-    "type": "vtuber",
-    "room": 22954019,
-    "face": "/bfs/face/b681cf1fde9ec32b60f9a53829d4236f72f8d0c7.jpg",
-    "sign": "我是来自ACGN_Project的一期生，刺猬猫平台连载的《大师姐弃疗了》小说中的大师姐白怜！"
-  },
   "498562614": {
     "name": "白旲_Baeyin",
     "type": "vtuber",
@@ -27607,6 +27579,13 @@
     "face": "/bfs/face/f7826af021603b5d7ae96c8d7ba4fea078ac46ba.jpg",
     "sign": "地府公务员——孟婆。个鬼势，画师老师是bison仓鼠，模型老师是鹿茶子。"
   },
+  "666946916": {
+    "name": "蕾菈Layla",
+    "type": "vtuber",
+    "room": 23195972,
+    "face": "/bfs/face/961537616198db8e76d7d06d51dde0f9309b82be.jpg",
+    "sign": "略微暴躁美西螈  周一至周五 15:00、20:00开播， 周六日 20:00开播。"
+  },
   "1097496558": {
     "name": "球球Iro",
     "type": "vtuber",
@@ -28656,6 +28635,13 @@
     "room": 22480186,
     "face": "/bfs/face/b8f71a71c88605b5772006ca7a3e67b678acc351.jpg",
     "sign": "Vnicorn所属，Noise主唱，自分なりになりたい."
+  },
+  "297293105": {
+    "name": "赳栗娅",
+    "type": "vtuber",
+    "room": 23789885,
+    "face": "/bfs/face/fbe36918587e2cf3f595033f7a71268336cd783c.jpg",
+    "sign": "一只长的很幼声音很御的干好事狐狸~"
   },
   "447588112": {
     "name": "赵太郎TV",
@@ -31454,7 +31440,7 @@
     "name": "香草莓巧子_kigurumi",
     "type": "vtuber",
     "room": 569341,
-    "face": "/bfs/face/ac25f8aad91a6519ed3cccabee32de78fbc2c6b3.jpg",
+    "face": "/bfs/face/b7e94196d1519cf59e94c5bac1f0d0ae19a1dbe2.jpg",
     "sign": "Q群959854417 \n推特@LzayoiS"
   },
   "1010093017": {
@@ -32030,13 +32016,6 @@
     "room": 242688,
     "face": "/bfs/face/331de6f13a1d5fcfd431b7286892e4927317222c.jpg",
     "sign": "我们是微型虚拟主播社团 鸽鹉live（Parrogeons' Live） 这里是企划发起人兼一期生成员 大杨叔"
-  },
-  "437044819": {
-    "name": "账号已注销3018161",
-    "type": "vtuber",
-    "room": 25025628,
-    "face": "/bfs/face/ed9631da3f0c7f629555195a12fc91a6086f64eb.jpg",
-    "sign": "新人VUP，鸾玥馨_Channel，出道即毕业，已停止直播活动，凤凰の小窝：853975561(已解散)"
   },
   "545926390": {
     "name": "潇潇不是憨憨",
