@@ -2450,7 +2450,7 @@
   "1242109519": {
     "name": "Wildfire野火企划",
     "type": "group",
-    "room_id": 0,
+    "room_id": 25939006,
     "face": "/bfs/face/b611991a2d70781d756722c58a1e92135076396f.jpg"
   },
   "191225": {
@@ -9387,7 +9387,7 @@
     "name": "姬野青",
     "type": "vtuber",
     "room_id": 3471186,
-    "face": "/bfs/face/8d7d84d3030762fdc9efe59156e9f80991efae40.jpg"
+    "face": "/bfs/face/97bda233ccd848a1ff53921c9f8d075fbc6ddf73.jpg"
   },
   "511017": {
     "name": "娅丝咩Yasumi",
@@ -16839,7 +16839,7 @@
     "name": "洛雨歌_RaukaMyrrh",
     "type": "vtuber",
     "room_id": 21443125,
-    "face": "/bfs/face/c26a08a2e3196777ca76a88dc52e9e3e8916ffe4.jpg"
+    "face": "/bfs/face/edfd0948cfb311c6a6db21500bb68ba0282a1939.jpg"
   },
   "1968806678": {
     "name": "洲上光_hitorino",
@@ -22401,7 +22401,7 @@
     "name": "花崎Haki",
     "type": "vtuber",
     "room_id": 23299427,
-    "face": "/bfs/face/75376c857a8a71b24c5d9b168f688a6dad9c96d4.jpg"
+    "face": "/bfs/face/2d57922e6c9d5008fb3c6a08adf50267896ffcf0.jpg"
   },
   "1486124092": {
     "name": "花崎千代Copy",
@@ -22884,7 +22884,7 @@
     "face": "/bfs/face/9408f69619afba945020723fcd261e97ac4d46b1.jpg"
   },
   "834903": {
-    "name": "七秋浦",
+    "name": "四方茶叶弹",
     "type": "vtuber",
     "room_id": 945677,
     "face": "/bfs/face/595a822bc5761033197470c5f69068fde1255ec9.jpg"
