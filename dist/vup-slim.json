@@ -1049,6 +1049,11 @@
     "type": "group",
     "room": 0
   },
+  "87386257": {
+    "name": "梅露蒂雅Melodia",
+    "type": "vtuber",
+    "room": 3561457
+  },
   "84939191": {
     "name": "Melody搬运",
     "type": "vtuber",
@@ -7589,6 +7594,11 @@
     "type": "vtuber",
     "room": 25034895
   },
+  "167801": {
+    "name": "奈绪川佑里",
+    "type": "vtuber",
+    "room": 5314461
+  },
   "1715021814": {
     "name": "奈罗Naro_official",
     "type": "vtuber",
@@ -10824,6 +10834,11 @@
     "type": "vtuber",
     "room": 22664557
   },
+  "1157885046": {
+    "name": "星海るこHoshimiRuko",
+    "type": "vtuber",
+    "room": 24673753
+  },
   "14831646": {
     "name": "橘猫小鱼干喵",
     "type": "vtuber",
@@ -12764,6 +12779,11 @@
     "type": "vtuber",
     "room": 25356160
   },
+  "690780274": {
+    "name": "桜餠の肖乐Official",
+    "type": "vtuber",
+    "room": 25014090
+  },
   "22411036": {
     "name": "桥A_channel",
     "type": "vtuber",
@@ -14028,6 +14048,11 @@
     "name": "洛翎lolin",
     "type": "vtuber",
     "room": 23594088
+  },
+  "205389243": {
+    "name": "洛茜Rosie",
+    "type": "vtuber",
+    "room": 25756784
   },
   "8217442": {
     "name": "克莉丝塔crystal",
@@ -15544,6 +15569,11 @@
     "type": "vtuber",
     "room": 23404368
   },
+  "1369019691": {
+    "name": "琳琅Dazzling",
+    "type": "vtuber",
+    "room": 25545101
+  },
   "358516600": {
     "name": "琴乃葉雪乃搬运组",
     "type": "vtuber",
@@ -16120,7 +16150,7 @@
     "room": 4238473
   },
   "5487439": {
-    "name": "天祈家的星栖七羽",
+    "name": "星栖七羽",
     "type": "vtuber",
     "room": 272114
   },
@@ -18722,7 +18752,7 @@
   "350764795": {
     "name": "花楓kae",
     "type": "vtuber",
-    "room": 24567147
+    "room": 0
   },
   "1988157612": {
     "name": "花樽栗守",
@@ -21205,7 +21235,7 @@
     "room": 24619420
   },
   "1522990829": {
-    "name": "不知道叫什么哑",
+    "name": "虚拟水族馆监控",
     "type": "vtuber",
     "room": 23815164
   },
@@ -22903,6 +22933,11 @@
     "name": "鹿乃ちゃん",
     "type": "vtuber",
     "room": 15152878
+  },
+  "543748": {
+    "name": "鹿之野_",
+    "type": "vtuber",
+    "room": 156657
   },
   "1376768094": {
     "name": "鹿予Mori",

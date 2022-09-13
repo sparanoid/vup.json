@@ -1259,6 +1259,12 @@
     "room_id": 0,
     "face": "/bfs/face/5566e3a4786959527a72545f908b5664693a2945.jpg"
   },
+  "87386257": {
+    "name": "梅露蒂雅Melodia",
+    "type": "vtuber",
+    "room_id": 3561457,
+    "face": "/bfs/face/8e7b94b550b2e0feaa21710b921420dfcabe052c.jpg"
+  },
   "84939191": {
     "name": "Melody搬运",
     "type": "vtuber",
@@ -1359,7 +1365,7 @@
     "name": "MomoHippo",
     "type": "vtuber",
     "room_id": 21762782,
-    "face": "/bfs/face/df64dbc1854f4fce49ae3c585f7d8be05c5275c0.jpg"
+    "face": "/bfs/face/1c93174db183c85056654416dae201823c07f3c8.jpg"
   },
   "692437895": {
     "name": "桃井最中Monaka",
@@ -1455,7 +1461,7 @@
     "name": "NatsumeSaki",
     "type": "vtuber",
     "room_id": 156789,
-    "face": "/bfs/face/23c364500557075c0577fc7083b1b2bd1dff7528.jpg"
+    "face": "/bfs/face/c001b56b4405023e5d0caccf3b01d2daf9ca52cf.jpg"
   },
   "211683": {
     "name": "LiquidNadya",
@@ -9107,6 +9113,12 @@
     "room_id": 25034895,
     "face": "/bfs/face/17220ca9d38be43f13e50334a43511b86061059c.jpg"
   },
+  "167801": {
+    "name": "奈绪川佑里",
+    "type": "vtuber",
+    "room_id": 5314461,
+    "face": "/bfs/face/575014a42116b05704bb37bba7ed0d976b15b28a.jpg"
+  },
   "1715021814": {
     "name": "奈罗Naro_official",
     "type": "vtuber",
@@ -12989,6 +13001,12 @@
     "room_id": 22664557,
     "face": "/bfs/face/afc7b44095b8a331c3717b62dade42fd61dc8987.jpg"
   },
+  "1157885046": {
+    "name": "星海るこHoshimiRuko",
+    "type": "vtuber",
+    "room_id": 24673753,
+    "face": "/bfs/face/17e655c7f8fcd6e2d3b8f2f26e9de353581c903d.jpg"
+  },
   "14831646": {
     "name": "橘猫小鱼干喵",
     "type": "vtuber",
@@ -15317,6 +15335,12 @@
     "room_id": 25356160,
     "face": "/bfs/face/f5f36db790efcd6598efc5091c2f8fd594e6aaae.jpg"
   },
+  "690780274": {
+    "name": "桜餠の肖乐Official",
+    "type": "vtuber",
+    "room_id": 25014090,
+    "face": "/bfs/face/f25322ae644dd293cee5820d4318d29e49fc3937.jpg"
+  },
   "22411036": {
     "name": "桥A_channel",
     "type": "vtuber",
@@ -16834,6 +16858,12 @@
     "type": "vtuber",
     "room_id": 23594088,
     "face": "/bfs/face/2dd653a620ddada42a2c4e7d33b7c1f3131cd99d.jpg"
+  },
+  "205389243": {
+    "name": "洛茜Rosie",
+    "type": "vtuber",
+    "room_id": 25756784,
+    "face": "/bfs/face/3bce05c1fb2a4349211079b4404e0340ec400d56.jpg"
   },
   "8217442": {
     "name": "克莉丝塔crystal",
@@ -18653,6 +18683,12 @@
     "room_id": 23404368,
     "face": "/bfs/face/561aa584d9114ef113eb4c564febdddf272b05e9.jpg"
   },
+  "1369019691": {
+    "name": "琳琅Dazzling",
+    "type": "vtuber",
+    "room_id": 25545101,
+    "face": "/bfs/face/c81e49a7ddd967d0ceb5096d012052b32ab109f0.jpg"
+  },
   "358516600": {
     "name": "琴乃葉雪乃搬运组",
     "type": "vtuber",
@@ -19344,7 +19380,7 @@
     "face": "/bfs/face/85e4b04d84beb425dbf913a54f780c4b250dc3aa.jpg"
   },
   "5487439": {
-    "name": "天祈家的星栖七羽",
+    "name": "星栖七羽",
     "type": "vtuber",
     "room_id": 272114,
     "face": "/bfs/face/6a3996aed6b21d017f5b29f1c67a33bf3e7db949.jpg"
@@ -21393,7 +21429,7 @@
     "name": "绘梨糯Nino",
     "type": "vtuber",
     "room_id": 25539608,
-    "face": "/bfs/face/f1413849ea316c46c756366335786fca7f02a8f0.jpg"
+    "face": "/bfs/face/35c3612a12391bb915f889df3648ea2d84d21979.jpg"
   },
   "390021323": {
     "name": "绘茉-真空管Dolls",
@@ -22466,7 +22502,7 @@
   "350764795": {
     "name": "花楓kae",
     "type": "vtuber",
-    "room_id": 24567147,
+    "room_id": 0,
     "face": "/bfs/face/6d5b1cb0f454bd81155ddfc7a6191e04b50d1669.jpg"
   },
   "1988157612": {
@@ -25446,10 +25482,10 @@
     "face": "/bfs/face/6ca9fca5648e120783093ef44efbe56b746e0d1f.jpg"
   },
   "1522990829": {
-    "name": "不知道叫什么哑",
+    "name": "虚拟水族馆监控",
     "type": "vtuber",
     "room_id": 23815164,
-    "face": "/bfs/face/b091ceecc601183a4a6b37c85ac04f0573efc0d0.jpg"
+    "face": "/bfs/face/ffcced542771540689f748be8c4473397ba725be.jpg"
   },
   "399574079": {
     "name": "姫森前世视频存放处",
@@ -27484,6 +27520,12 @@
     "type": "vtuber",
     "room_id": 15152878,
     "face": "/bfs/face/ed92f18dfe3b992bef1cfe84db7e12fae154e853.jpg"
+  },
+  "543748": {
+    "name": "鹿之野_",
+    "type": "vtuber",
+    "room_id": 156657,
+    "face": "/bfs/face/ac0b335b3759d139c73ec88a7a345adaf346a299.jpg"
   },
   "1376768094": {
     "name": "鹿予Mori",
