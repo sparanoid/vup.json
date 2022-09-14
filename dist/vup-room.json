@@ -7115,6 +7115,12 @@
     "room_id": 4317051,
     "face": "/bfs/face/31fbf925e774ca39d08274755b7652d8d5f3b903.jpg"
   },
+  "3340395": {
+    "name": "右左枪枪",
+    "type": "vtuber",
+    "room_id": 7971395,
+    "face": "/bfs/face/cea61a2ac0876235c2bcc0b1e3a4e20d45a2766d.jpg"
+  },
   "1964304376": {
     "name": "叶卡yolka",
     "type": "vtuber",
@@ -11235,7 +11241,7 @@
     "name": "幽知Arou",
     "type": "vtuber",
     "room_id": 24731908,
-    "face": "/bfs/face/e1953fe85cb9f852473ab4883ba510c53de2753c.jpg"
+    "face": "/bfs/face/d56b373cfdb3e526a43854f00ca39de88a9c6480.jpg"
   },
   "216379": {
     "name": "广音笑颜Channel",
@@ -11398,6 +11404,12 @@
     "type": "vtuber",
     "room_id": 23240551,
     "face": "/bfs/face/2b342f725208803134ce94fc3cc1143a2a29a0a9.jpg"
+  },
+  "240658212": {
+    "name": "彤宝可爱捏",
+    "type": "vtuber",
+    "room_id": 24543885,
+    "face": "/bfs/face/99198dc39246a713473dc4a2da8974aa36b2c4c5.jpg"
   },
   "403638183": {
     "name": "彩真宵official",
@@ -12442,6 +12454,12 @@
     "type": "vtuber",
     "room_id": 23336391,
     "face": "/bfs/face/f6d41c312f2cf66732885b321885dedb850a2b8a.jpg"
+  },
+  "39987155": {
+    "name": "无神EmptyCity",
+    "type": "vtuber",
+    "room_id": 2269412,
+    "face": "/bfs/face/c3d527a21688e43130a87fe5489ea68c9160841b.webp"
   },
   "1850939514": {
     "name": "无限殿_Infinite",
@@ -16924,6 +16942,12 @@
     "type": "vtuber",
     "room_id": 25752400,
     "face": "/bfs/face/d8f7837512e288442335f71a02556dba2e05bace.jpg"
+  },
+  "1927279531": {
+    "name": "浅川玉乃",
+    "type": "vtuber",
+    "room_id": 25021721,
+    "face": "/bfs/face/9883f677dae92a67f096c8518c92bd22b0a24b7f.jpg"
   },
   "1038894369": {
     "name": "浅海Project",
