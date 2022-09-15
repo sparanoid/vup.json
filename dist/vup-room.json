@@ -2345,6 +2345,12 @@
     "room_id": 2703289,
     "face": "/bfs/face/37391d7dadc024283b84049c44564cdb8397cd18.jpg"
   },
+  "1802937912": {
+    "name": "Valentina蒂娜",
+    "type": "vtuber",
+    "room_id": 24846830,
+    "face": "/bfs/face/c90db53fc55354a43e7e5bc25cd3023bd2b503f4.jpg"
+  },
   "400198569": {
     "name": "Verb-Official",
     "type": "vtuber",
@@ -6767,6 +6773,12 @@
     "room_id": 3110924,
     "face": "/bfs/face/ba03ea2584e249ce4c262de4c6b42724187a9162.jpg"
   },
+  "1869949659": {
+    "name": "南流景_Meowsica",
+    "type": "vtuber",
+    "room_id": 25728170,
+    "face": "/bfs/face/772e7e8ebc2b58ee1228a76241bd783b2eaf1f67.jpg"
+  },
   "1566652449": {
     "name": "南海星光Seikou",
     "type": "vtuber",
@@ -8422,6 +8434,12 @@
     "type": "vtuber",
     "room_id": 2763361,
     "face": "/bfs/face/e74f3c47d4c70b3801d4ffe0df29c259e60d306a.jpg"
+  },
+  "85445905": {
+    "name": "多菈宫maid_",
+    "type": "vtuber",
+    "room_id": 4164223,
+    "face": "/bfs/face/43eae356fbcfa127f3a60279cc8bdb2b7d468a67.jpg"
   },
   "20621838": {
     "name": "多间硝子_Official",
@@ -14813,6 +14831,12 @@
     "room_id": 21623289,
     "face": "/bfs/face/488e5180c9a98a16b73012d8afd7bf95942bd8f7.jpg"
   },
+  "1380564420": {
+    "name": "柚乐YORO",
+    "type": "vtuber",
+    "room_id": 25740452,
+    "face": "/bfs/face/42869aad85c3c6238547edec1f836651a93a4471.jpg"
+  },
   "1302129189": {
     "name": "柚只大小姐",
     "type": "vtuber",
@@ -15040,6 +15064,12 @@
     "type": "vtuber",
     "room_id": 766473,
     "face": "/bfs/face/6b5a04e64aa5cfd79f49e7c4e1c9ec0678805bc7.jpg"
+  },
+  "1222026215": {
+    "name": "栗卡Ricca",
+    "type": "vtuber",
+    "room_id": 25716800,
+    "face": "/bfs/face/6cb1a57610c05f71a1b24e8d7e2986e2d364561e.jpg"
   },
   "2898345": {
     "name": "栗卡小行星Rii",
