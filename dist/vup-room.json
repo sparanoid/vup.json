@@ -815,6 +815,12 @@
     "room_id": 544868,
     "face": "/bfs/face/8f206d3d68ebb1dce52eb594c5319b4e93a120e1.jpg"
   },
+  "70606554": {
+    "name": "Hachime朷初",
+    "type": "vtuber",
+    "room_id": 10949670,
+    "face": "/bfs/face/d5c61b1b1e637b23fbde1cb1710cc88f7dea1efc.jpg"
+  },
   "4718291": {
     "name": "花见汐梨Yuuri",
     "type": "vtuber",
@@ -11447,6 +11453,12 @@
     "room_id": 207869,
     "face": "/bfs/face/4903105d24f4e98d9da746ff8b8ba325d8e95686.jpg"
   },
+  "40836269": {
+    "name": "影森一輝_Kazuki",
+    "type": "vtuber",
+    "room_id": 23055731,
+    "face": "/bfs/face/fcc324633760bcb4674bed5072aa20088737f56e.jpg"
+  },
   "1877063": {
     "name": "祈加紫",
     "type": "vtuber",
@@ -12628,6 +12640,12 @@
     "type": "vtuber",
     "room_id": 3076171,
     "face": "/bfs/face/0e40aaa65a8788618012d5e815ca0442432f67cf.jpg"
+  },
+  "2132180406": {
+    "name": "明前奶绿",
+    "type": "vtuber",
+    "room_id": 25034104,
+    "face": "/bfs/face/7b4dfa7a209b5f29c163c873d908df3313568d00.jpg"
   },
   "1533406766": {
     "name": "请关注明夏珊海",
@@ -14489,6 +14507,12 @@
     "room_id": 24954168,
     "face": "/bfs/face/c11287c54d6117ece5c6cbe80a553e3b989086f5.jpg"
   },
+  "1611629135": {
+    "name": "来自外星的Vivi耶",
+    "type": "vtuber",
+    "room_id": 24471382,
+    "face": "/bfs/face/04623e901ddc24f997cd37cd86a456ec0062554e.jpg"
+  },
   "609610777": {
     "name": "杨远洛里斯",
     "type": "vtuber",
@@ -14973,7 +14997,7 @@
     "name": "栀小朵",
     "type": "vtuber",
     "room_id": 23246736,
-    "face": "/bfs/face/7e56bf07424477947fe0412b9ab14d74a52b3c5e.jpg"
+    "face": "/bfs/face/21a27ab2da03c4b830758cc85dabc4d0d042d6d0.jpg"
   },
   "120307508": {
     "name": "Tajda哒哒哒",
@@ -19473,7 +19497,7 @@
     "name": "白雪瑞莎",
     "type": "vtuber",
     "room_id": 23865717,
-    "face": "/bfs/face/0f24cb2a55464231b729af6b74240143942a6156.jpg"
+    "face": "/bfs/face/17b5e2a25fcb641642f2256acbb08d96f9c8404e.jpg"
   },
   "1728751": {
     "name": "白雪美佳",
@@ -20399,6 +20423,12 @@
     "room_id": 21811040,
     "face": "/bfs/face/244f86c8707254f8b4e462a886748427b5188990.jpg"
   },
+  "1026591550": {
+    "name": "秋珀Kohagami",
+    "type": "vtuber",
+    "room_id": 24475053,
+    "face": "/bfs/face/51ee5e33e955be40c5213d55e9fbd7346041d9ef.jpg"
+  },
   "669275668": {
     "name": "秋田稻穗",
     "type": "vtuber",
@@ -20986,6 +21016,12 @@
     "type": "vtuber",
     "room_id": 22320823,
     "face": "/bfs/face/66d64d182592383d398140dd40053367b85b6cb3.jpg"
+  },
+  "1439135088": {
+    "name": "糖西Tansy",
+    "type": "vtuber",
+    "room_id": 24135903,
+    "face": "/bfs/face/39f8ec8ad429b9cf7549ac34218c2263a037a2e3.jpg"
   },
   "176836079": {
     "name": "糯依Noi",
@@ -26939,6 +26975,12 @@
     "room_id": 11268906,
     "face": "/bfs/face/dd425b1e28f3b06dc370770b5be1b46a187ee760.jpg"
   },
+  "1464586": {
+    "name": "饭饭饭酱丶",
+    "type": "vtuber",
+    "room_id": 1456945,
+    "face": "/bfs/face/62f8b3e640a0ed4203ea2c13b22eecab27c79888.jpg"
+  },
   "1357409459": {
     "name": "饴宫Doki",
     "type": "vtuber",
@@ -27658,6 +27700,12 @@
     "type": "vtuber",
     "room_id": 191703,
     "face": "/bfs/face/1726f65d9e37d9867159fefe2e8cc6e69d9b158f.jpg"
+  },
+  "1661917600": {
+    "name": "麦格林_Maeglin",
+    "type": "vtuber",
+    "room_id": 23862248,
+    "face": "/bfs/face/60efecf99a3910c2946bb76783f5785d58da596b.jpg"
   },
   "582225536": {
     "name": "麦芽不甜_",
