@@ -2639,6 +2639,12 @@
     "room": 0,
     "face": "/bfs/face/f17e8ba95b6aebe42ac75abe511ae7ace234650e.jpg"
   },
+  "1858967562": {
+    "name": "anoravt",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/7024ae22df71c31344fcb5b46bc9b1fed0e6b293.jpg"
+  },
   "3802666": {
     "name": "Ask是Asuka",
     "type": "vtuber",
@@ -8092,6 +8098,12 @@
     "type": "vtuber",
     "room": 606995,
     "face": "/bfs/face/4417d0eaf52440b7faf29f28926aafb2e826c156.jpg"
+  },
+  "14550871": {
+    "name": "墨凑字数",
+    "type": "vtuber",
+    "room": 2874257,
+    "face": "/bfs/face/42e096544aa95e161307fded028450bc04a3b744.jpg"
   },
   "845921": {
     "name": "墨喵星突突母舰Official",
@@ -16065,7 +16077,7 @@
     "name": "橘呆呆和呆呆橘",
     "type": "vtuber",
     "room": 22600180,
-    "face": "/bfs/face/0abfecab675b63b0f4fb04af0e9f3d34eeb8ae9e.jpg"
+    "face": "/bfs/face/aab8092acdf1e224f6249c21c6e46de2852045de.jpg"
   },
   "506316177": {
     "name": "橘朱夏_official",
@@ -21407,6 +21419,12 @@
     "room": 25151262,
     "face": "/bfs/face/405ed877dcc94ec5bb2665771151c25c0501e69f.jpg"
   },
+  "1572645043": {
+    "name": "纱夜凛",
+    "type": "vtuber",
+    "room": 25948616,
+    "face": "/bfs/face/edeb3a6f500518350962ee53803f6bbf53ffb169.jpg"
+  },
   "11912741": {
     "name": "纱布Sa_Official",
     "type": "vtuber",
@@ -22383,7 +22401,7 @@
     "name": "芙染-",
     "type": "vtuber",
     "room": 25091221,
-    "face": "/bfs/face/767d8f9add2176e02e59ea8c65c8b181e40398a8.jpg"
+    "face": "/bfs/face/ed2985adadcb7b0c8a0fea274fd570a417d3eb19.jpg"
   },
   "442655565": {
     "name": "芙栗希娅Felicia",
