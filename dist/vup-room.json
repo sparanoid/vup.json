@@ -1554,7 +1554,7 @@
     "face": "/bfs/face/f47fb85e9c44f31d8ff73a3d7cb1d2337b074578.jpg"
   },
   "1329085897": {
-    "name": "Nightinnn",
+    "name": "南町Nightin",
     "type": "vtuber",
     "room_id": 24872476,
     "face": "/bfs/face/33798bf6992f2bd2e9d54697f1c934c7411cad02.jpg"
@@ -17336,7 +17336,7 @@
   "430328256": {
     "name": "渊Huchi",
     "type": "vtuber",
-    "room_id": 21453024,
+    "room_id": 0,
     "face": "/bfs/face/8c9486bb0f35cddee67ee81cf5c07ae0f817b19d.jpg"
   },
   "420321371": {
