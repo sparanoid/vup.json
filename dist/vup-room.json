@@ -13365,7 +13365,7 @@
     "name": "星谷樹_itsuki",
     "type": "vtuber",
     "room_id": 790566,
-    "face": "/bfs/face/b9b83e613ae271a8a0115366c0f1b2275e48f882.jpg"
+    "face": "/bfs/face/60acdf69d3f07fe5e8f2011ea2600514bdb113b0.jpg"
   },
   "1743015": {
     "name": "星越Koshi",
@@ -20819,6 +20819,12 @@
     "room_id": 345397,
     "face": "/bfs/face/32aea80b978e0fd720419114bcfb018369f8b44e.jpg"
   },
+  "701041148": {
+    "name": "笳米不好吃",
+    "type": "vtuber",
+    "room_id": 25262299,
+    "face": "/bfs/face/bfe44417146051fd280a2af67d5a1240bf4b663f.jpg"
+  },
   "436596839": {
     "name": "笹木咲Official",
     "type": "vtuber",
@@ -27096,7 +27102,7 @@
     "face": "/bfs/face/b681447d8408c7fdf6e6a642abb70f7fe4741b4e.jpg"
   },
   "3461570034142077": {
-    "name": "香夜kayoo",
+    "name": "香夜kayo",
     "type": "vtuber",
     "room_id": 25960303,
     "face": "/bfs/face/9241f18c7566341ffa7fafe83fc58470b8278bae.jpg"
