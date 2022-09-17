@@ -6539,6 +6539,12 @@
     "room": 21034198,
     "face": "/bfs/face/fd01619e90e3c9bf72fbae085c8116337714c57c.jpg"
   },
+  "352205410": {
+    "name": "千祈_senki",
+    "type": "vtuber",
+    "room": 21109751,
+    "face": "/bfs/face/d0e36d50bbc7918c7c58f7e2345b036d13f661b9.jpg"
+  },
   "418293195": {
     "name": "花崎channel",
     "type": "vtuber",
@@ -13690,6 +13696,12 @@
     "type": "vtuber",
     "room": 12411,
     "face": "/bfs/face/2a20b5666f6df79768fdb07388dc0bbb417ac1dd.jpg"
+  },
+  "1159412627": {
+    "name": "晞月_Lalune",
+    "type": "vtuber",
+    "room": 25570937,
+    "face": "/bfs/face/4e35d23fdb789a3dddec1dd04a42836e9c6b5a2a.jpg"
   },
   "2140412037": {
     "name": "晨悠光",
