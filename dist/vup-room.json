@@ -2612,7 +2612,7 @@
   "43187576": {
     "name": "_かがみ_镜",
     "type": "vtuber",
-    "room_id": 1363311,
+    "room_id": 0,
     "face": "/bfs/face/6dc66773c8baec2384d39d5d77c44d821c5f17b6.jpg"
   },
   "1710361170": {
@@ -2709,7 +2709,7 @@
     "name": "Elo沙",
     "type": "vtuber",
     "room_id": 2817817,
-    "face": "/bfs/face/055e5e3e89812a08ae0c01ea18eb89b7a4578daa.jpg"
+    "face": "/bfs/face/98d8747cdb4e537b8fb7b359f4e898138ae9d529.jpg"
   },
   "627651834": {
     "name": "えもえち",
@@ -11325,7 +11325,7 @@
     "name": "库若米Kuromi",
     "type": "vtuber",
     "room_id": 24494586,
-    "face": "/bfs/face/2a906b03d359e543f46f54aaf7a440d21f6af076.jpg"
+    "face": "/bfs/face/ca38b09782649c4626600634f1a1b38140916e41.jpg"
   },
   "1555453291": {
     "name": "库莉姆Cream",
@@ -12843,7 +12843,7 @@
     "name": "星愿池-星响零",
     "type": "vtuber",
     "room_id": 11047139,
-    "face": "/bfs/face/1516e3d2e989d1fbba06f2ef03e8a594608f9742.jpg"
+    "face": "/bfs/face/6fcaba40c38c7b19df4549f52e909aa9e79ced96.jpg"
   },
   "846128": {
     "name": "星园花音搬运",
@@ -15320,7 +15320,7 @@
   "26613467": {
     "name": "桃瑞丝Official",
     "type": "vtuber",
-    "room_id": 21645189,
+    "room_id": 0,
     "face": "/bfs/face/dc7b0bd5de147ec1892b9bceba3fe38913334594.jpg"
   },
   "2028757342": {
@@ -15393,7 +15393,7 @@
     "name": "桓信Official",
     "type": "vtuber",
     "room_id": 76326,
-    "face": "/bfs/face/d9448cb718416a42ca273118305865c39c3da8f6.jpg"
+    "face": "/bfs/face/93c94b89484bfaecb0388bf083c288bf6e7b1c1e.jpg"
   },
   "1536735500": {
     "name": "桔茶ヤヤ",
@@ -22245,7 +22245,7 @@
     "name": "艾妮娅Enia",
     "type": "vtuber",
     "room_id": 22671467,
-    "face": "/bfs/face/50f266ff01b50861f55ef7c0ff775894d404dd79.jpg"
+    "face": "/bfs/face/1c5bddd50b775958d13217f9a233a0486102a2b4.jpg"
   },
   "1521415": {
     "name": "艾尔莎_Channel",
@@ -23661,7 +23661,7 @@
     "name": "葵葵野",
     "type": "vtuber",
     "room_id": 25722875,
-    "face": "/bfs/face/b1603d0328a217ed69e1af21a7bf8a58e26e6bb2.jpg"
+    "face": "/bfs/face/9fc02a06e0964f515a7bbedf495946f020a2cc48.jpg"
   },
   "503820721": {
     "name": "DeliaBackHome",
