@@ -2639,6 +2639,12 @@
     "room": 0,
     "face": "/bfs/face/f17e8ba95b6aebe42ac75abe511ae7ace234650e.jpg"
   },
+  "1812913178": {
+    "name": "aliciaxlife",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/3f28f984550267b2d0b4886fee7e6eed2d3cf5a4.jpg"
+  },
   "1858967562": {
     "name": "anoravt",
     "type": "vtuber",
@@ -11842,6 +11848,12 @@
     "type": "vtuber",
     "room": 22798787,
     "face": "/bfs/face/bdb1cde53a42a1e6cd9b17cbc828de0deb73f4ab.jpg"
+  },
+  "26413405": {
+    "name": "恩骨",
+    "type": "vtuber",
+    "room": 173586,
+    "face": "/bfs/face/9dc89cd7406f07b5162537df97dd008014d971cf.jpg"
   },
   "1660392980": {
     "name": "恬豆发芽了",
