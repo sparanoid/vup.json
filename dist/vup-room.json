@@ -11333,6 +11333,12 @@
     "room_id": 22749172,
     "face": "/bfs/face/da14df3ec16e5f27417c41b20ccdf24cbfff6876.jpg"
   },
+  "1842598376": {
+    "name": "应悔_Official",
+    "type": "vtuber",
+    "room_id": 25155354,
+    "face": "/bfs/face/9e80d6c54919519b62c65388e565af303b1512ab.jpg"
+  },
   "36604989": {
     "name": "应星尘channel",
     "type": "vtuber",
@@ -19043,6 +19049,12 @@
     "room_id": 22637644,
     "face": "/bfs/face/c469e505beec17dcfed93aef534104eb10292b9d.jpg"
   },
+  "37756047": {
+    "name": "申岚_Official",
+    "type": "vtuber",
+    "room_id": 1352574,
+    "face": "/bfs/face/76555a964f8cfdb533862ab2af96d1704ea30b64.jpg"
+  },
   "2022787460": {
     "name": "电気壳壳Kara",
     "type": "vtuber",
@@ -20590,6 +20602,12 @@
     "type": "vtuber",
     "room_id": 397769,
     "face": "/bfs/face/f56d7d3092bf3995eae9a63b0ab19d9f7b5d78a7.jpg"
+  },
+  "2005590425": {
+    "name": "空也_Official",
+    "type": "vtuber",
+    "room_id": 25157653,
+    "face": "/bfs/face/30a76a6d52ac3493eae9c0c211dcf7a818c2bd63.jpg"
   },
   "3084780": {
     "name": "空伶cherry",
