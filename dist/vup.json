@@ -2612,7 +2612,7 @@
   "43187576": {
     "name": "_かがみ_镜",
     "type": "vtuber",
-    "room": 0,
+    "room": 1363311,
     "face": "/bfs/face/6dc66773c8baec2384d39d5d77c44d821c5f17b6.jpg"
   },
   "1710361170": {
@@ -7629,7 +7629,7 @@
     "name": "哈娜hanna",
     "type": "vtuber",
     "room": 22625568,
-    "face": "/bfs/face/a89beab8408ae7fd05d57e1bb2144813f6c60f5d.jpg"
+    "face": "/bfs/face/d65a875cae71a51aa6ab86e6333423df71899b5b.jpg"
   },
   "58226190": {
     "name": "蛟蛟不睡觉",
@@ -8229,7 +8229,7 @@
     "name": "夏希_Channel",
     "type": "vtuber",
     "room": 3223313,
-    "face": "/bfs/face/7f093db90d6d6f5644e18f0797a13891d1b0314f.jpg"
+    "face": "/bfs/face/a2664e0820f360797c5eeac07c3b441894169c81.jpg"
   },
   "487247653": {
     "name": "夏怿妉Channel",
@@ -9236,7 +9236,7 @@
   "926620": {
     "name": "奥因杜卡",
     "type": "vtuber",
-    "room": 0,
+    "room": 1053420,
     "face": "/bfs/face/091cff4afe64d7aabf5eb58ca89dc4ef49aa3707.jpg"
   },
   "699925151": {
@@ -14628,10 +14628,10 @@
     "face": "/bfs/face/e705c85076245caaa0614418596e8507d094dd7a.jpg"
   },
   "13670449": {
-    "name": "松果FMatsu",
+    "name": "松果碎块",
     "type": "vtuber",
     "room": 7629235,
-    "face": "/bfs/face/a5ab49e6690c8599d53f303b063e4fb62cbf7e23.jpg"
+    "face": "/bfs/face/52a48669615afa3d092396ab045470c9d33893d7.jpg"
   },
   "1520239": {
     "name": "松永彼方_Official",
@@ -15326,7 +15326,7 @@
   "26613467": {
     "name": "桃瑞丝Official",
     "type": "vtuber",
-    "room": 0,
+    "room": 21645189,
     "face": "/bfs/face/dc7b0bd5de147ec1892b9bceba3fe38913334594.jpg"
   },
   "2028757342": {
@@ -17499,7 +17499,7 @@
     "name": "潮鳴鯨",
     "type": "vtuber",
     "room": 126781,
-    "face": "/bfs/face/2fb3fda446e358b7de5da28e185e6a30ca30632d.jpg"
+    "face": "/bfs/face/189068fe352dcb95c0f2d9ebe4e3452cf8a0e46f.jpg"
   },
   "7016631": {
     "name": "互联网蜘蛛满地乱爬",
@@ -25350,7 +25350,7 @@
     "face": "/bfs/face/ff556ac157b7d6cf476235751459b6a6cf359dd0.jpg"
   },
   "29530957": {
-    "name": "星月千雪-已停止活动",
+    "name": "星月千雪-筹备中",
     "type": "vtuber",
     "room": 9425842,
     "face": "/bfs/face/a2ead73b546d78abccfe6537232334a55c22207f.jpg"
