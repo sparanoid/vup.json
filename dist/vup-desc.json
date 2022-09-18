@@ -10775,7 +10775,7 @@
   "926620": {
     "name": "奥因杜卡",
     "type": "vtuber",
-    "room": 1053420,
+    "room": 0,
     "face": "/bfs/face/091cff4afe64d7aabf5eb58ca89dc4ef49aa3707.jpg",
     "sign": "叫莉莉就好"
   },
@@ -12238,8 +12238,8 @@
   "29165860": {
     "name": "红中凑不齐大四喜",
     "type": "vtuber",
-    "room": 0,
-    "face": "/bfs/face/78e4111786e9aba05462817aa90e9466a120eb74.jpg",
+    "room": 1888585,
+    "face": "/bfs/face/dac4d9338ea0893e2cfec17431101955a26a36a8.jpg",
     "sign": "截胡！断幺九！！！"
   },
   "674600646": {
@@ -32272,7 +32272,7 @@
   "1573437898": {
     "name": "鹤咲花菜kana",
     "type": "vtuber",
-    "room": 23158414,
+    "room": 0,
     "face": "/bfs/face/e02f330939d5fd5dd2331c7aca70e5e117b681a3.jpg",
     "sign": "我是TP所属的一期生仙鹤少女-花菜~商务联系：tinsgoo.project@gmail.com"
   },
