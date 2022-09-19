@@ -8112,12 +8112,12 @@
     "face": "/bfs/face/b287cd4996a543e96a36eac4a4e7ead3c06f7ce4.jpg",
     "sign": "月で生まれ、\n月で育った、\n月から来た、\n月の来訪者（しんりゃくしゃ‪‪）卯月羽音だよー！｡ ・`ω・´) \n【月面勢は決起する！！！】"
   },
-  "483771934": {
-    "name": "再让我睡一会会吧",
+  "1313300815": {
+    "name": "卯雪眠_Somnia",
     "type": "vtuber",
-    "room": 22165607,
-    "face": "/bfs/face/1cdbda277432eea7ebda59092e8274b8c858ba0b.jpg",
-    "sign": "睡觉睡觉睡觉睡觉睡觉"
+    "room": 25987850,
+    "face": "/bfs/face/b07c974b23d394946643a33702d5a9fb94dabf30.jpg",
+    "sign": ""
   },
   "36999375": {
     "name": "墨色潮汐",
@@ -15581,6 +15581,13 @@
     "face": "/bfs/face/b6b6ec2101a701c6676c62e5b9033b3719d8022f.jpg",
     "sign": "祝你新的一年天天开心"
   },
+  "1743336457": {
+    "name": "星语meow",
+    "type": "vtuber",
+    "room": 25882182,
+    "face": "/bfs/face/4b98eac343dcf0d2d2fa60ae41516c15825a9425.jpg",
+    "sign": "最常出没时间:每天20:00-1:00 偶尔出现:16:00-19:00"
+  },
   "579223": {
     "name": "星语游兔ゆうと",
     "type": "vtuber",
@@ -20019,6 +20026,13 @@
     "face": "/bfs/face/18fe2004bc86ace9b424801cb5f93820ff7947ea.jpg",
     "sign": "来自日本的虚拟主播、ProProProduction三期生的海童亚奈子（KAIDOU ANONE）"
   },
+  "1526090": {
+    "name": "海羽MIU_Official",
+    "type": "vtuber",
+    "room": 22240090,
+    "face": "/bfs/face/986b30f07b3f87da0461212ee8287654f4589b3d.jpg",
+    "sign": "小恶魔个人势VUP，出道预备役中，自肝皮套接稿，接稿，接稿，重要的事情要说三次，约稿请私戳"
+  },
   "629350367": {
     "name": "海胆黑二号机",
     "type": "vtuber",
@@ -20249,6 +20263,13 @@
     "room": 22389323,
     "face": "/bfs/face/b2f1927a0177be5458d999b56a1c1dc5dcb58299.jpg",
     "sign": "大家状态良好吗！虚拟艺人团体VirtuaReal成员，商务合作：bd@vrp.live"
+  },
+  "22837810": {
+    "name": "清茶沐沐_Kiyotya",
+    "type": "vtuber",
+    "room": 23640445,
+    "face": "/bfs/face/c8ad64eb6b0b91a6dd2fa197db7ad561d766bebb.jpg",
+    "sign": "『武装JK』ACT/FPS/WG重度爱好者 ▍绝区零/动作游戏/射击游戏主播 ▍"
   },
   "8078438": {
     "name": "大宅蟹kani_Channel",
@@ -31085,6 +31106,20 @@
     "room": 22700040,
     "face": "/bfs/face/581da85496645531ed3c99b1e86251a987a8d51a.jpg",
     "sign": "—MSD一期生—   每晚九点直播！养成系APEX PLAYER"
+  },
+  "2000609327": {
+    "name": "露米Lumi_Official",
+    "type": "vtuber",
+    "room": 25977291,
+    "face": "/bfs/face/7001a0467f39ce8d4cd6624e1ee57c52107f068a.jpg",
+    "sign": "姐姐说过，我的歌声中闪耀着光，就叫Lumière露米吧。"
+  },
+  "7677170": {
+    "name": "露米娜lumina",
+    "type": "vtuber",
+    "room": 5357912,
+    "face": "/bfs/face/4d3fa7142b9382b176410a695aada666a9711fb0.jpg",
+    "sign": "个人势一般路过龙。"
   },
   "500762399": {
     "name": "露可CoCo",

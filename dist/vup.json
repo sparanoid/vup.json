@@ -6953,11 +6953,11 @@
     "room": 2410098,
     "face": "/bfs/face/b287cd4996a543e96a36eac4a4e7ead3c06f7ce4.jpg"
   },
-  "483771934": {
-    "name": "再让我睡一会会吧",
+  "1313300815": {
+    "name": "卯雪眠_Somnia",
     "type": "vtuber",
-    "room": 22165607,
-    "face": "/bfs/face/1cdbda277432eea7ebda59092e8274b8c858ba0b.jpg"
+    "room": 25987850,
+    "face": "/bfs/face/b07c974b23d394946643a33702d5a9fb94dabf30.jpg"
   },
   "36999375": {
     "name": "墨色潮汐",
@@ -13355,6 +13355,12 @@
     "room": 22813844,
     "face": "/bfs/face/b6b6ec2101a701c6676c62e5b9033b3719d8022f.jpg"
   },
+  "1743336457": {
+    "name": "星语meow",
+    "type": "vtuber",
+    "room": 25882182,
+    "face": "/bfs/face/4b98eac343dcf0d2d2fa60ae41516c15825a9425.jpg"
+  },
   "579223": {
     "name": "星语游兔ゆうと",
     "type": "vtuber",
@@ -17159,6 +17165,12 @@
     "room": 25089255,
     "face": "/bfs/face/18fe2004bc86ace9b424801cb5f93820ff7947ea.jpg"
   },
+  "1526090": {
+    "name": "海羽MIU_Official",
+    "type": "vtuber",
+    "room": 22240090,
+    "face": "/bfs/face/986b30f07b3f87da0461212ee8287654f4589b3d.jpg"
+  },
   "629350367": {
     "name": "海胆黑二号机",
     "type": "vtuber",
@@ -17356,6 +17368,12 @@
     "type": "vtuber",
     "room": 22389323,
     "face": "/bfs/face/b2f1927a0177be5458d999b56a1c1dc5dcb58299.jpg"
+  },
+  "22837810": {
+    "name": "清茶沐沐_Kiyotya",
+    "type": "vtuber",
+    "room": 23640445,
+    "face": "/bfs/face/c8ad64eb6b0b91a6dd2fa197db7ad561d766bebb.jpg"
   },
   "8078438": {
     "name": "大宅蟹kani_Channel",
@@ -26644,6 +26662,18 @@
     "type": "vtuber",
     "room": 22700040,
     "face": "/bfs/face/581da85496645531ed3c99b1e86251a987a8d51a.jpg"
+  },
+  "2000609327": {
+    "name": "露米Lumi_Official",
+    "type": "vtuber",
+    "room": 25977291,
+    "face": "/bfs/face/7001a0467f39ce8d4cd6624e1ee57c52107f068a.jpg"
+  },
+  "7677170": {
+    "name": "露米娜lumina",
+    "type": "vtuber",
+    "room": 5357912,
+    "face": "/bfs/face/4d3fa7142b9382b176410a695aada666a9711fb0.jpg"
   },
   "500762399": {
     "name": "露可CoCo",
