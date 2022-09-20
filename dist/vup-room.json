@@ -4275,7 +4275,7 @@
     "name": "丧喵是大笨蛋",
     "type": "vtuber",
     "room_id": 11946834,
-    "face": "/bfs/face/46f07716ec0d6bc79ace3cf17c8a857d80d2b04f.jpg"
+    "face": "/bfs/face/289b50aee493eafeb3cd33d64cb622c6f73f2198.jpg"
   },
   "480291322": {
     "name": "丧择乐",
@@ -6922,6 +6922,12 @@
     "type": "vtuber",
     "room_id": 24697117,
     "face": "/bfs/face/1b72d0ee2dc1502a3db3e3961550b42fa9f8fdcd.jpg"
+  },
+  "2029411327": {
+    "name": "卡茵",
+    "type": "vtuber",
+    "room_id": 25904274,
+    "face": "/bfs/face/b8479f8dbf7e15c26d91d1fb4c5c0c5ae0cf401e.jpg"
   },
   "1942864208": {
     "name": "卡萝尔Akuma",
@@ -17490,7 +17496,7 @@
     "face": "/bfs/face/210cf335cb8ab8d616e3da2b317540889a7bc3ec.jpg"
   },
   "81441759": {
-    "name": "游鱼yuka",
+    "name": "香菜公主游鱼yuka",
     "type": "vtuber",
     "room_id": 4162691,
     "face": "/bfs/face/f3e6243ec187aae019b3d514ebe98ba08f7fbfa0.jpg"
