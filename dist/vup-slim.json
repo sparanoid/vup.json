@@ -1964,6 +1964,11 @@
     "type": "vtuber",
     "room": 0
   },
+  "391753": {
+    "name": "Vespero",
+    "type": "vtuber",
+    "room": 748674
+  },
   "492997998": {
     "name": "Vi-D鸽舍",
     "type": "group",
@@ -4449,6 +4454,11 @@
     "type": "vtuber",
     "room": 12267464
   },
+  "1312637331": {
+    "name": "修明Alexius",
+    "type": "vtuber",
+    "room": 25894421
+  },
   "1298993": {
     "name": "修格_Sugars",
     "type": "vtuber",
@@ -4658,6 +4668,11 @@
     "name": "兔眠sTouch",
     "type": "vtuber",
     "room": 23103930
+  },
+  "1096034982": {
+    "name": "兔眠可可",
+    "type": "vtuber",
+    "room": 24978909
   },
   "493252584": {
     "name": "兔萝YOKA",
@@ -7103,6 +7118,11 @@
     "name": "夜德奈奈Nanayede",
     "type": "vtuber",
     "room": 1653312
+  },
+  "2025918003": {
+    "name": "夜想音息",
+    "type": "vtuber",
+    "room": 25691012
   },
   "581843164": {
     "name": "夜月Yotsuki",
@@ -10368,6 +10388,11 @@
     "name": "新月社FCrescent",
     "type": "group",
     "room": 25999918
+  },
+  "3461566624172793": {
+    "name": "新治咲黎",
+    "type": "vtuber",
+    "room": 25860295
   },
   "1523207400": {
     "name": "UTO_DOKO",
@@ -20350,7 +20375,7 @@
     "room": 22510936
   },
   "415439089": {
-    "name": "讷讷nene_",
+    "name": "bili_415439089",
     "type": "vtuber",
     "room": 24237295
   },

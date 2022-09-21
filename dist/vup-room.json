@@ -1077,7 +1077,7 @@
     "name": "Laine_official",
     "type": "vtuber",
     "room_id": 22513500,
-    "face": "/bfs/face/de1a392864fabfdca8da4765060363cf19640ffc.jpg"
+    "face": "/bfs/face/bb025b9ac63fdd0f2c58e6a0a323f65d7770d23f.jpg"
   },
   "702154877": {
     "name": "Lara_Channel",
@@ -2356,6 +2356,12 @@
     "type": "vtuber",
     "room_id": 0,
     "face": "/bfs/face/9dcabe47fc7f3d36160ba441dc15362fc8fdf620.jpg"
+  },
+  "391753": {
+    "name": "Vespero",
+    "type": "vtuber",
+    "room_id": 748674,
+    "face": "/bfs/face/f1beaf2266e136323472d76bf8a8d27149848d26.jpg"
   },
   "492997998": {
     "name": "Vi-D鸽舍",
@@ -5339,6 +5345,12 @@
     "room_id": 12267464,
     "face": "/bfs/face/982d0526c061cbea16e094b5b778cdbf85d9f990.jpg"
   },
+  "1312637331": {
+    "name": "修明Alexius",
+    "type": "vtuber",
+    "room_id": 25894421,
+    "face": "/bfs/face/33a974a39435114fc120b5f17e51ea0c0c721bfc.jpg"
+  },
   "1298993": {
     "name": "修格_Sugars",
     "type": "vtuber",
@@ -5590,6 +5602,12 @@
     "type": "vtuber",
     "room_id": 23103930,
     "face": "/bfs/face/e858ec6d722fb0ba1c23c28fcdced634637f5e7c.jpg"
+  },
+  "1096034982": {
+    "name": "兔眠可可",
+    "type": "vtuber",
+    "room_id": 24978909,
+    "face": "/bfs/face/77863ea368425b10ad20228e772c94f30dee485a.jpg"
   },
   "493252584": {
     "name": "兔萝YOKA",
@@ -8524,6 +8542,12 @@
     "type": "vtuber",
     "room_id": 1653312,
     "face": "/bfs/face/ee5f0a7cea1b4ba2e75b60e83f46b50eea6bfbc5.jpg"
+  },
+  "2025918003": {
+    "name": "夜想音息",
+    "type": "vtuber",
+    "room_id": 25691012,
+    "face": "/bfs/face/19e3c30bf64db702fc3cdc7b282994dc9bb738c1.jpg"
   },
   "581843164": {
     "name": "夜月Yotsuki",
@@ -12442,6 +12466,12 @@
     "type": "group",
     "room_id": 25999918,
     "face": "/bfs/face/e2c7e028aed1f2cc98090abb30342748e8b8e2a7.jpg"
+  },
+  "3461566624172793": {
+    "name": "新治咲黎",
+    "type": "vtuber",
+    "room_id": 25860295,
+    "face": "/bfs/face/b5facea5ab059d51af637458f92c06e3391c087a.jpg"
   },
   "1523207400": {
     "name": "UTO_DOKO",
@@ -17295,7 +17325,7 @@
     "name": "深水怠Darara",
     "type": "vtuber",
     "room_id": 22887899,
-    "face": "/bfs/face/cbd8d8bc51f832a5edfeb798eaaf116a4d092b8a.jpg"
+    "face": "/bfs/face/540bb61a4b1a7f449f22fd41bdef0479eb603303.jpg"
   },
   "3280480": {
     "name": "深海家土豆熟了",
@@ -19221,7 +19251,7 @@
     "name": "白井諭吉Official",
     "type": "vtuber",
     "room_id": 22553548,
-    "face": "/bfs/face/7f30899305d397c82dafa4db79ac6738ed3ead1f.jpg"
+    "face": "/bfs/face/3fac598e73c7f77ac65fdd7d2b0b4647f618a8c4.jpg"
   },
   "8571340": {
     "name": "白信柚希Official",
@@ -24420,10 +24450,10 @@
     "face": "/bfs/face/74973e2d62e27e04b25ef7502734b88344a253aa.jpg"
   },
   "415439089": {
-    "name": "讷讷nene_",
+    "name": "bili_415439089",
     "type": "vtuber",
     "room_id": 24237295,
-    "face": "/bfs/face/78c371d642a3582c48aba4052319c993ca5b2c7a.jpg"
+    "face": "/bfs/face/219468a8a7f18a2671880395ae844c6057846a9a.jpg"
   },
   "1433861752": {
     "name": "讷豆nedo",
