@@ -486,7 +486,7 @@
     "face": "/bfs/face/78000687932182cad181c1d66e0af73548e0bffa.jpg"
   },
   "1265574047": {
-    "name": "ColorLink",
+    "name": "LoliLink",
     "type": "group",
     "room": 23870850,
     "face": "/bfs/face/2471e2578b3660bacff9ded98196f559080d5be6.jpg"
@@ -1628,7 +1628,7 @@
   "11408104": {
     "name": "Orig1n_Project",
     "type": "group",
-    "room": 0,
+    "room": 26026744,
     "face": "/bfs/face/2cc021fcc7b960d12b788e13ee1698ba10ad43dd.jpg"
   },
   "579861015": {
@@ -17496,7 +17496,7 @@
     "face": "/bfs/face/210cf335cb8ab8d616e3da2b317540889a7bc3ec.jpg"
   },
   "81441759": {
-    "name": "香菜公主游鱼yuka",
+    "name": "游鱼yuka",
     "type": "vtuber",
     "room": 4162691,
     "face": "/bfs/face/f3e6243ec187aae019b3d514ebe98ba08f7fbfa0.jpg"
@@ -22083,7 +22083,7 @@
     "name": "耶绒Yerom",
     "type": "vtuber",
     "room": 8473798,
-    "face": "/bfs/face/5591b70f6402bba6bae22ffa95dde0caae6816bf.jpg"
+    "face": "/bfs/face/6235b39eef3d37bb2d1164c7ded0f26e5dd3c01e.jpg"
   },
   "5866210": {
     "name": "肆犬suki",
