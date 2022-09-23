@@ -3170,7 +3170,7 @@
   "366690056": {
     "name": "樱巫女Official",
     "type": "vtuber",
-    "room_id": 21144047,
+    "room_id": 0,
     "face": "/bfs/face/750f918bf60eb6ad40f0138811b314b686e93b1b.jpg"
   },
   "2601367": {
@@ -4944,10 +4944,10 @@
     "face": "/bfs/face/18b8a23be9ffc40192bfa2d4dd8c3ba5e995032f.jpg"
   },
   "1758083950": {
-    "name": "伊斐尔_iPhael",
+    "name": "别再偷偷看我啦",
     "type": "vtuber",
     "room_id": 24533172,
-    "face": "/bfs/face/df48a4bb458772d4d0a242e8fc7c41ba366e1cc5.jpg"
+    "face": "/bfs/face/2df234decf6d0518396e312db4e25ffd7e94dfcc.jpg"
   },
   "638827899": {
     "name": "伊斯特尔_official",
@@ -9909,7 +9909,7 @@
     "name": "柃肆",
     "type": "vtuber",
     "room_id": 77224,
-    "face": "/bfs/face/521e1986e31c2adbcc681fa34d476b379d35bc4d.jpg"
+    "face": "/bfs/face/cd410fdfe861aca080c0b8524e74c687e3b80623.jpg"
   },
   "2109291877": {
     "name": "宫赫音NHz",
@@ -15243,7 +15243,7 @@
     "name": "格蕾缇娅Gretia",
     "type": "vtuber",
     "room_id": 175965,
-    "face": "/bfs/face/16fc68bef62a9939387edb8d6ac34d1435d591cf.jpg"
+    "face": "/bfs/face/43f1c78dac67a4a4b7608970b1eda853c75c53ed.jpg"
   },
   "1829051701": {
     "name": "格蕾西雅_Gracia",
@@ -15626,7 +15626,7 @@
   "7410885": {
     "name": "塔尔斯Tails",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 3279447,
     "face": "/bfs/face/80dc86a38526bc4c654faf04471a63a4b2f1ccdb.jpg"
   },
   "1766612829": {
@@ -20426,7 +20426,7 @@
   "38631": {
     "name": "神楽唯Official",
     "type": "vtuber",
-    "room_id": 30681,
+    "room_id": 0,
     "face": "/bfs/face/4fc51e4fd09a55a32bc7a438849a31ba9ad9e7b1.jpg"
   },
   "432765966": {
@@ -26793,7 +26793,7 @@
     "name": "青椒kumo",
     "type": "vtuber",
     "room_id": 22736977,
-    "face": "/bfs/face/c6fcc96d93ec5ff6a18bd4e7ebe3798319aca644.jpg"
+    "face": "/bfs/face/f71160d8b18c7408ae9d4cf3a2d00bd99f826fd7.jpg"
   },
   "430828121": {
     "name": "青玉Safaia",
