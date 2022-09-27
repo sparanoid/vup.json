@@ -3755,6 +3755,12 @@
     "room": 4030121,
     "face": "/bfs/face/d0d01f73987b689e34c1c52eff11397e75a08232.jpg"
   },
+  "1185300125": {
+    "name": "一只清钰",
+    "type": "vtuber",
+    "room": 25846913,
+    "face": "/bfs/face/4c8803aaf0242073ed362ddfa42f7c445b9505de.jpg"
+  },
   "9604802": {
     "name": "一只莜喵饼",
     "type": "vtuber",
@@ -3862,6 +3868,12 @@
     "type": "vtuber",
     "room": 21689317,
     "face": "/bfs/face/bada34b11cbb81ad9f5ea0c139757adf459a36e1.jpg"
+  },
+  "1247845426": {
+    "name": "一露Lulu",
+    "type": "vtuber",
+    "room": 26007751,
+    "face": "/bfs/face/1664e1f61f46ce1c01bca7da1c3af21f03a27202.jpg"
   },
   "14045966": {
     "name": "一颗有栖Official",
@@ -14985,7 +14997,7 @@
     "name": "柚月蛍Hotaru",
     "type": "vtuber",
     "room": 22598550,
-    "face": "/bfs/face/fbc1b952e867581266351f4d6ed64bf02d49c167.jpg"
+    "face": "/bfs/face/d64f0edd447a4fbdee704c24a369e283d1a7e7cf.jpg"
   },
   "1093614539": {
     "name": "柚木凛Official",
@@ -15492,7 +15504,7 @@
     "face": "/bfs/face/79dbf9cd1f17d89f73985fffed98a53161d78850.jpg"
   },
   "9347814": {
-    "name": "SakulaBlack",
+    "name": "樱花初雪SakulaBlack",
     "type": "vtuber",
     "room": 693442,
     "face": "/bfs/face/1d7508ac05b595724cf560ecde57db5f34e62327.jpg"
@@ -19623,7 +19635,7 @@
     "name": "白银莉莉Official",
     "type": "vtuber",
     "room": 21990617,
-    "face": "/bfs/face/fe723a7f2ab5a21ad418792eead34ab753a75f47.jpg"
+    "face": "/bfs/face/160843309a1e6106ff92d2eefe2776f08a60b318.jpg"
   },
   "405981431": {
     "name": "白雪深白Official",
