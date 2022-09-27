@@ -468,7 +468,7 @@
     "face": "/bfs/face/78000687932182cad181c1d66e0af73548e0bffa.jpg"
   },
   "1265574047": {
-    "name": "LoliLink",
+    "name": "ColorLink",
     "type": "group",
     "room": 23870850,
     "face": "/bfs/face/2471e2578b3660bacff9ded98196f559080d5be6.jpg"
@@ -4005,7 +4005,7 @@
     "name": "三千ホシOfficial",
     "type": "vtuber",
     "room": 5131898,
-    "face": "/bfs/face/069024213380c864d09a30bcfe2b69ab3f6c8ec4.jpg"
+    "face": "/bfs/face/478d4bdf0a656da057cc02279120313b83de8c2b.jpg"
   },
   "244069": {
     "name": "三千宫魔王Miya",
@@ -9486,7 +9486,7 @@
     "face": "/bfs/face/804304cc1556b6d69042a13de611718c3a0e59c0.jpg"
   },
   "1637330": {
-    "name": "姬野空蝉_Official",
+    "name": "姬野うつせみ",
     "type": "vtuber",
     "room": 6528212,
     "face": "/bfs/face/5e33c2b17f4a7a38ee1d741096d7a43717b0ca96.jpg"
@@ -15132,7 +15132,7 @@
     "face": "/bfs/face/21a27ab2da03c4b830758cc85dabc4d0d042d6d0.jpg"
   },
   "120307508": {
-    "name": "Tajda哒哒哒",
+    "name": "糍安安",
     "type": "vtuber",
     "room": 8193489,
     "face": "/bfs/face/756355a0dc4817a2f30ab8eec9935a06a3f9e125.jpg"
@@ -16833,7 +16833,7 @@
     "name": "宇宙第一杏玛尔殿下",
     "type": "vtuber",
     "room": 8757487,
-    "face": "/bfs/baselabs/622d7ffa52d6cab20a486966a97de427d191d56f.png"
+    "face": "/bfs/face/d92b8f1b096dcadd7d0a7ff95797f72dbb567516.jpg"
   },
   "475366508": {
     "name": "法苏Baby",
@@ -20450,7 +20450,7 @@
   "432765966": {
     "name": "神楽真白_channel",
     "type": "vtuber",
-    "room": 0,
+    "room": 26067771,
     "face": "/bfs/face/a6436fe28e5be6c3c3dc7224f267ace262b531f3.jpg"
   },
   "697546240": {
@@ -21228,10 +21228,10 @@
     "face": "/bfs/face/df6e2f2f7a98852ac3bb828749a202ef4ecf4166.jpg"
   },
   "477679591": {
-    "name": "再会の前に",
+    "name": "梦灯Meito",
     "type": "vtuber",
     "room": 22429399,
-    "face": "/bfs/face/cbf6e29f5e9a31fab8003808ee7a57a4af271d7a.jpg"
+    "face": "/bfs/face/8be284e56b8e400f69da6d1526999d72474727dd.jpg"
   },
   "1308393": {
     "name": "紅_Kurenai",
