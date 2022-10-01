@@ -7910,7 +7910,7 @@
   "1300801804": {
     "name": "噜玛RUMA_channel",
     "type": "vtuber",
-    "room": 25354530,
+    "room": 0,
     "face": "/bfs/face/f155c6ecbc4f958fd0f55e9f0d30d61fbc6ab779.jpg"
   },
   "674600648": {
@@ -26804,7 +26804,7 @@
   "1117904095": {
     "name": "青徵",
     "type": "vtuber",
-    "room": 0,
+    "room": 23770402,
     "face": "/bfs/face/81b319942bd3ac5be3e3e9bf403d8e6638a0a243.jpg"
   },
   "414840678": {
