@@ -2951,6 +2951,12 @@
     "room": 260887,
     "face": "/bfs/face/98c6a49dfc8fe5fbda5f659749b806162add5078.jpg"
   },
+  "1881110844": {
+    "name": "辻音Rosely",
+    "type": "vtuber",
+    "room": 25591054,
+    "face": "/bfs/face/9360907f18184d7abf73f713c8614e7ad11a5cbf.jpg"
+  },
   "1601895109": {
     "name": "shoto_official",
     "type": "vtuber",
@@ -6580,6 +6586,12 @@
     "type": "vtuber",
     "room": 22594880,
     "face": "/bfs/face/166de42e31178d8741318fb3196d5a55aa907df5.jpg"
+  },
+  "5658712": {
+    "name": "千耘official",
+    "type": "vtuber",
+    "room": 1129453,
+    "face": "/bfs/face/9fe923ea3139aaeb0f7f0d92bb7d35a96d9ebd44.jpg"
   },
   "8119834": {
     "name": "千草はな",
@@ -16841,6 +16853,12 @@
     "room": 22379830,
     "face": "/bfs/face/98fbb97fa816533a2d0a719616be8c723fcfcd5f.jpg"
   },
+  "23263470": {
+    "name": "法里达",
+    "type": "vtuber",
+    "room": 972474,
+    "face": "/bfs/face/053442bd5b20659da96c674b8f8592395cd5e0c1.jpg"
+  },
   "7321578": {
     "name": "法雅falla",
     "type": "vtuber",
@@ -17165,6 +17183,12 @@
     "room": 5492969,
     "face": "/bfs/face/b5a81d64961fa33646f5b779aeb19955795bc94a.jpg"
   },
+  "277698869": {
+    "name": "海伊Official",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/9e6606fa985a7cef110af0f38419854fcee9905a.jpg"
+  },
   "2133978130": {
     "name": "海俐HaiRi_Official",
     "type": "vtuber",
@@ -17362,6 +17386,12 @@
     "type": "vtuber",
     "room": 7170879,
     "face": "/bfs/face/1f710cfb0e9aecc538a453af1a7bbd5568e9e72b.jpg"
+  },
+  "518490855": {
+    "name": "清兰sanrel",
+    "type": "vtuber",
+    "room": 26028386,
+    "face": "/bfs/face/9297145179e4f6ba40d2aa0d3469e4c3abbd0af5.jpg"
   },
   "9361427": {
     "name": "清則子",
@@ -21801,7 +21831,7 @@
     "name": "维斯卡Visca",
     "type": "vtuber",
     "room": 6175163,
-    "face": "/bfs/face/3a6ec9a3b30503a2e5c6141798c40787b066297d.jpg"
+    "face": "/bfs/face/ed7b8c9d94c37cb265b5606967137b6f1e4f48ae.jpg"
   },
   "3272625": {
     "name": "舍舍迦_Shesheka",
