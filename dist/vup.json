@@ -2672,7 +2672,7 @@
   "399582503": {
     "name": "cesirelive",
     "type": "group",
-    "room": 22658282,
+    "room": 0,
     "face": "/bfs/face/c3f0a84ef7193f53142a06f3ffcb56c60e949c8d.jpg"
   },
   "413923011": {
@@ -4122,7 +4122,7 @@
     "face": "/bfs/face/b96fa1b059edb128433f874792c2a3536d63dd2d.jpg"
   },
   "13408419": {
-    "name": "超级二哈上杉雯",
+    "name": "睡不醒的上杉雯",
     "type": "vtuber",
     "room": 398938,
     "face": "/bfs/face/bb4c4bb30264c5a59248a7778b8e66799ee659a8.jpg"
@@ -8774,7 +8774,7 @@
   "389859190": {
     "name": "大空昴Official",
     "type": "vtuber",
-    "room": 21129632,
+    "room": 0,
     "face": "/bfs/face/ae818814a8173fffdc45aaac740ebab8c4448033.jpg"
   },
   "476869039": {
@@ -13832,7 +13832,7 @@
   "1217962385": {
     "name": "晴奈子_Senako",
     "type": "vtuber",
-    "room": 0,
+    "room": 22901927,
     "face": "/bfs/face/e56846e35381728ab9c5a0195e4a86686c10df24.jpg"
   },
   "1402290747": {
@@ -16058,7 +16058,7 @@
   "1360503484": {
     "name": "樱井遥Official",
     "type": "vtuber",
-    "room": 23191850,
+    "room": 0,
     "face": "/bfs/face/8b379b0f7f055d61a979c8940897d1eb2579baa7.jpg"
   },
   "609100583": {
@@ -27165,7 +27165,7 @@
     "name": "飕鹿法_SO",
     "type": "vtuber",
     "room": 5131782,
-    "face": "/bfs/face/7be7dab57f2c13762694292d1b665e9f4641d09b.jpg"
+    "face": "/bfs/face/b7611189c272da489eb1ebe285b745856ed718bf.jpg"
   },
   "6432092": {
     "name": "电电打人",
