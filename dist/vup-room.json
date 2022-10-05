@@ -1514,7 +1514,7 @@
   "690053754": {
     "name": "NeoHertz男团",
     "type": "group",
-    "room_id": 24653382,
+    "room_id": 0,
     "face": "/bfs/face/89276d7b908499a511e1428e3efbf2215b8262e8.jpg"
   },
   "209306657": {
@@ -10778,7 +10778,7 @@
   "4013175": {
     "name": "山海之麓鹿Channel",
     "type": "vtuber",
-    "room_id": 291482,
+    "room_id": 0,
     "face": "/bfs/face/b9cfbf1ea2492c2656418c2c1518e58d64e064f2.jpg"
   },
   "7832707": {
@@ -16058,7 +16058,7 @@
   "1360503484": {
     "name": "樱井遥Official",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 23191850,
     "face": "/bfs/face/8b379b0f7f055d61a979c8940897d1eb2579baa7.jpg"
   },
   "609100583": {
@@ -18830,7 +18830,7 @@
   "454110795": {
     "name": "珠鳴なるOfficial",
     "type": "vtuber",
-    "room_id": 21651086,
+    "room_id": 0,
     "face": "/bfs/face/b3e6aff62e237a6108670fb572feb38a0cabfbb9.jpg"
   },
   "258592987": {
@@ -18950,7 +18950,7 @@
   "28772651": {
     "name": "琴南和希Kazuki",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 1759700,
     "face": "/bfs/face/bc763bc55b38f5dba7e987a2c58436c6dbba2d9c.jpg"
   },
   "442426299": {
@@ -25503,7 +25503,7 @@
     "name": "金鱼叩叩",
     "type": "vtuber",
     "room_id": 23584523,
-    "face": "/bfs/face/e4a1e1e81d7b56ceef92c3ca7a2d5e2e3b35e1f5.jpg"
+    "face": "/bfs/face/78297eb323e1fcd2b31b7a4113429aee6846c3c7.jpg"
   },
   "31342415": {
     "name": "金鱼姬Kingyo",
@@ -25766,7 +25766,7 @@
   "64836051": {
     "name": "花暦Yomi",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 2443945,
     "face": "/bfs/face/2089adfcb3fc3b00ac74a5907c83e8849065c8c5.jpg"
   },
   "5462822": {
@@ -27920,7 +27920,7 @@
   "6268594": {
     "name": "腊味双拼鹿仔煲",
     "type": "vtuber",
-    "room_id": 3695068,
+    "room_id": 0,
     "face": "/bfs/face/5d11ed01d9391bfded106d16d2a21e0e0b00523d.jpg"
   },
   "5659864": {
