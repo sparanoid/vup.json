@@ -1514,7 +1514,7 @@
   "690053754": {
     "name": "NeoHertz男团",
     "type": "group",
-    "room_id": 0,
+    "room_id": 24653382,
     "face": "/bfs/face/89276d7b908499a511e1428e3efbf2215b8262e8.jpg"
   },
   "209306657": {
@@ -5852,7 +5852,7 @@
   "25644004": {
     "name": "冬月の北极猫",
     "type": "vtuber",
-    "room_id": 3080147,
+    "room_id": 0,
     "face": "/bfs/face/80c4bc82545f51ad34d303e00b56d4009d93d7dd.jpg"
   },
   "442403107": {
@@ -7304,7 +7304,7 @@
   "24957521": {
     "name": "吃肉包的怂鼠",
     "type": "vtuber",
-    "room_id": 4726132,
+    "room_id": 0,
     "face": "/bfs/face/eb018caea18a79d79080dca6046ab1d8f1f45b99.jpg"
   },
   "32926827": {
@@ -14480,7 +14480,7 @@
   "611529563": {
     "name": "朴古Official",
     "type": "vtuber",
-    "room_id": 22337557,
+    "room_id": 0,
     "face": "/bfs/face/06e75d07230955af569529bef7142b0cf0a04349.jpg"
   },
   "628941292": {
@@ -16578,10 +16578,10 @@
     "face": "/bfs/face/c581b810fa8bb522c78c1adb5ca6f240b4c31826.jpg"
   },
   "36279952": {
-    "name": "汉特ハント",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 981813,
-    "face": "/bfs/face/8ae32796be4e6ca774b45e9f7d4d7fc2212bb838.jpg"
+    "room_id": 0,
+    "face": "/images/member/noface.gif"
   },
   "1035652768": {
     "name": "汐华花音_Official",
@@ -17235,7 +17235,7 @@
     "name": "海生三葉Umio",
     "type": "vtuber",
     "room_id": 25004698,
-    "face": "/bfs/face/4b856f32c0d7431313a122c1fdcbcf90f078152e.jpg"
+    "face": "/bfs/face/2908f2dcc9148f5af08186bbfc82f14154bb5ad1.jpg"
   },
   "7564991": {
     "name": "海离Channel",
@@ -20205,7 +20205,7 @@
     "name": "知空桃",
     "type": "vtuber",
     "room_id": 22460777,
-    "face": "/bfs/face/b9df626fcdcd332ef2641db311e23dc442f2162a.jpg"
+    "face": "/bfs/face/e282521f6b7256b35c12a72ffc2b40ecb11732c9.jpg"
   },
   "74917341": {
     "name": "石川胜Ishikawa",
@@ -21134,7 +21134,7 @@
   "408231448": {
     "name": "米莎ミサOfficial",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 21361292,
     "face": "/bfs/face/8b840b82ec205b8c49a695b55731674ce2e956f0.jpg"
   },
   "476676325": {
@@ -22046,7 +22046,7 @@
   "1861416807": {
     "name": "羽澄照乌愈Official",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 23114462,
     "face": "/bfs/face/0ea2f4c668f69e7a6ff939f068b4b9ff7a9aba44.jpg"
   },
   "47226193": {
@@ -27920,7 +27920,7 @@
   "6268594": {
     "name": "腊味双拼鹿仔煲",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 3695068,
     "face": "/bfs/face/5d11ed01d9391bfded106d16d2a21e0e0b00523d.jpg"
   },
   "5659864": {
