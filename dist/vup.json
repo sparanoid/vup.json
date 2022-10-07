@@ -13466,7 +13466,7 @@
   "1743015": {
     "name": "星越Koshi",
     "type": "vtuber",
-    "room": 40195,
+    "room": 0,
     "face": "/bfs/face/6b23760dfaae156d5e4ce9ed20611ee5069f8902.jpg"
   },
   "23268": {
@@ -15717,7 +15717,7 @@
     "name": "梦魇Tsuki",
     "type": "vtuber",
     "room": 851181,
-    "face": "/bfs/face/9c8d05e36c91ed5c7abca3dfe8b9accf7007ad39.jpg"
+    "face": "/bfs/face/6b1f705525d1c904894513cfae86082bd8a9a562.jpg"
   },
   "1674242827": {
     "name": "梨卡RIKA",
@@ -20370,10 +20370,10 @@
     "face": "/bfs/face/e81b5d21ba6feab4d865d3fab932114b2cabc54c.jpg"
   },
   "3432647": {
-    "name": "神判更纱",
+    "name": "方银汐",
     "type": "vtuber",
     "room": 662441,
-    "face": "/bfs/face/231e25816da19b3a8cf1c3cbbdb4f1c3425d09ec.jpg"
+    "face": "/bfs/face/8bf8322b414f9fbda0a6099a11e9efa1993d2f75.jpg"
   },
   "109381959": {
     "name": "神原かみkami",
