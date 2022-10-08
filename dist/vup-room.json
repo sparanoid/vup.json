@@ -5561,6 +5561,12 @@
     "room_id": 23239501,
     "face": "/bfs/face/66a37df7f493d5a080f5242288710bd40cf79363.jpg"
   },
+  "13619728": {
+    "name": "兎奇Toki",
+    "type": "vtuber",
+    "room_id": 25095587,
+    "face": "/bfs/face/6700ca8b1ecf28eb291433540992af7bafaa37c8.jpg"
+  },
   "2327673": {
     "name": "兎嵐",
     "type": "vtuber",
@@ -14063,6 +14069,12 @@
     "room_id": 22860071,
     "face": "/bfs/face/878caaa9fe5d72cfe9b36f024ba6f73d0b15ce70.jpg"
   },
+  "1929855385": {
+    "name": "月下烁也_Syakuya",
+    "type": "vtuber",
+    "room_id": 25059170,
+    "face": "/bfs/face/4c6e5b9e347bd2fee7c286c7643964192873c346.jpg"
+  },
   "11726298": {
     "name": "月下芙兰_Flan",
     "type": "vtuber",
@@ -14386,6 +14398,12 @@
     "type": "vtuber",
     "room_id": 23292893,
     "face": "/bfs/face/f7d9fd2576cb8abaaa2f66588f3e076f0568e75b.jpg"
+  },
+  "1502895122": {
+    "name": "朝枝晓Akatsuki",
+    "type": "vtuber",
+    "room_id": 25062584,
+    "face": "/bfs/face/9b53f02fbc0c1387e002a82107eb6f7e8aa84442.jpg"
   },
   "431971663": {
     "name": "朝比奈蒼",
@@ -17052,7 +17070,7 @@
     "face": "/bfs/face/bcaa222dc794d125251f26a0a7444255e407fb7c.jpg"
   },
   "13043029": {
-    "name": "是你的铲子掉了嘛",
+    "name": "piu虫死了嘛",
     "type": "vtuber",
     "room_id": 7214750,
     "face": "/bfs/face/9e456493d88afa94e2a1b7f71a7510bb2037a6d1.jpg"
@@ -26439,7 +26457,7 @@
     "name": "雨旋_Yusen",
     "type": "vtuber",
     "room_id": 6183531,
-    "face": "/bfs/face/48c4f0eab0c01c8a867260c695616f35b705c2bf.jpg"
+    "face": "/bfs/face/4e6ce8d493b4add4c61504f6867ade2c5dc128a7.jpg"
   },
   "477921538": {
     "name": "Rain-Forest-Club",
