@@ -5367,7 +5367,7 @@
     "name": "依久奈Channel",
     "type": "vtuber",
     "room_id": 685701,
-    "face": "/bfs/face/891d0f3d173cdeb0aa6651a80bae69ea2515da3b.jpg"
+    "face": "/bfs/face/8749ea397eadc34233f10bdaa260dd7833b4d240.jpg"
   },
   "476265345": {
     "name": "依依Eyi",
@@ -16428,7 +16428,7 @@
     "face": "/bfs/face/5035eeb6eb1f17ab87e55603e6d0d23928799b02.jpg"
   },
   "435789390": {
-    "name": "奥希诺小姐的狗",
+    "name": "斤欠木乐带恶魔",
     "type": "vtuber",
     "room_id": 21466154,
     "face": "/bfs/face/049b84f0a7a805ed62a91a60d263130e2f264c25.jpg"
@@ -21855,7 +21855,7 @@
     "name": "绘梨糯Nino",
     "type": "vtuber",
     "room_id": 25539608,
-    "face": "/bfs/face/b491965c1ccc33e31bb85dbf9ced7f1344c9c6b8.jpg"
+    "face": "/bfs/face/357467ae21774ca6962a3348947bc885ed4ec68b.jpg"
   },
   "390021323": {
     "name": "绘茉-真空管Dolls",
@@ -28360,6 +28360,12 @@
     "type": "vtuber",
     "room_id": 10807279,
     "face": "/bfs/face/28cbb0f4753a28c2f9c7e11e423397e7c492c216.jpg"
+  },
+  "1707853573": {
+    "name": "黑赫德Hepherd",
+    "type": "vtuber",
+    "room_id": 22936561,
+    "face": "/bfs/face/0b7be97add73fecdf03497ef5e662c78ceed7601.jpg"
   },
   "699094856": {
     "name": "黑酱猫kuro",
