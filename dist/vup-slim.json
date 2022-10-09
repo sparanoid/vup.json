@@ -249,11 +249,6 @@
     "type": "vtuber",
     "room": 23622068
   },
-  "40214941": {
-    "name": "AuroraOfficial",
-    "type": "group",
-    "room": 2480453
-  },
   "521070071": {
     "name": "AyamyあやみOfficial",
     "type": "vtuber",
@@ -1458,11 +1453,6 @@
     "name": "PlanyaChannel",
     "type": "vtuber",
     "room": 22830078
-  },
-  "196295491": {
-    "name": "PlutoCharon计划",
-    "type": "group",
-    "room": 5459328
   },
   "300312007": {
     "name": "PochiKorone",
@@ -4522,7 +4512,7 @@
   "386764545": {
     "name": "健屋花那的诊疗所",
     "type": "unknown",
-    "room": 15092246
+    "room": 0
   },
   "666726798": {
     "name": "健屋花那_Official",
@@ -12072,7 +12062,7 @@
   "8028827": {
     "name": "超级棉花兔",
     "type": "vtuber",
-    "room": 0
+    "room": 4551805
   },
   "30791929": {
     "name": "美少女木苒酱",
@@ -13514,6 +13504,11 @@
     "type": "vtuber",
     "room": 25181053
   },
+  "476891365": {
+    "name": "樱奈汐音_Naki",
+    "type": "vtuber",
+    "room": 21674945
+  },
   "53565207": {
     "name": "新妻锦",
     "type": "vtuber",
@@ -14243,6 +14238,11 @@
     "name": "泰蕾莎Channel",
     "type": "vtuber",
     "room": 870004
+  },
+  "2061961489": {
+    "name": "泰迪熊奴奴丝",
+    "type": "vtuber",
+    "room": 25908522
   },
   "590836428": {
     "name": "泷Arch",
@@ -18919,6 +18919,11 @@
     "type": "vtuber",
     "room": 24077982
   },
+  "2064389464": {
+    "name": "芋言Lila",
+    "type": "vtuber",
+    "room": 25669748
+  },
   "433749835": {
     "name": "芒果猫Official一世",
     "type": "vtuber",
@@ -23408,6 +23413,16 @@
     "name": "虽然鹿泽但是小号",
     "type": "vtuber",
     "room": 22289943
+  },
+  "335231298": {
+    "name": "鹿玥_Shikatsuki",
+    "type": "vtuber",
+    "room": 25111502
+  },
+  "1510444081": {
+    "name": "鹿蜀Shu_",
+    "type": "vtuber",
+    "room": 25727850
   },
   "6268594": {
     "name": "腊味双拼鹿仔煲",

@@ -299,12 +299,6 @@
     "room": 23622068,
     "face": "/bfs/face/4bdd5f03c85636af3ea6c10b025e36d94d30f17f.jpg"
   },
-  "40214941": {
-    "name": "AuroraOfficial",
-    "type": "group",
-    "room": 2480453,
-    "face": "/bfs/face/f59c10542cc4a10418c4f820f1748c7b846cd07b.jpg"
-  },
   "521070071": {
     "name": "AyamyあやみOfficial",
     "type": "vtuber",
@@ -1750,12 +1744,6 @@
     "type": "vtuber",
     "room": 22830078,
     "face": "/bfs/face/a49075148895c7a3a32fdf344798dbd3c0056575.jpg"
-  },
-  "196295491": {
-    "name": "PlutoCharon计划",
-    "type": "group",
-    "room": 5459328,
-    "face": "/bfs/face/60087014f736e040eb42c8418f48d6b3fa9b7a18.jpg"
   },
   "300312007": {
     "name": "PochiKorone",
@@ -5426,7 +5414,7 @@
   "386764545": {
     "name": "健屋花那的诊疗所",
     "type": "unknown",
-    "room": 15092246,
+    "room": 0,
     "face": "/bfs/face/92465b1d6ce2882231e7b9d7b1dfb3d2766c149f.jpg"
   },
   "666726798": {
@@ -9111,7 +9099,7 @@
     "name": "天羽syui",
     "type": "vtuber",
     "room": 22733015,
-    "face": "/bfs/face/cf375ec0ba5f1e506981c7d5490d8e23f0d6aaec.jpg"
+    "face": "/bfs/face/e043112a78c03c35bb36d5a6da76dd3d6c8b7648.jpg"
   },
   "72041": {
     "name": "天羽ちよこ",
@@ -13083,7 +13071,7 @@
     "name": "星宫颜Ekira",
     "type": "vtuber",
     "room": 22330292,
-    "face": "/bfs/face/70f1a6b8afc8abae8018b06bdb0aff80ce20cf85.jpg"
+    "face": "/bfs/face/7ea19b4d44aabea9a8018edef953151c59ae6659.jpg"
   },
   "1152597935": {
     "name": "星宫魔琉瑠",
@@ -14486,7 +14474,7 @@
   "8028827": {
     "name": "超级棉花兔",
     "type": "vtuber",
-    "room": 0,
+    "room": 4551805,
     "face": "/bfs/face/c72732145564028f73d7984a83b6daf8c9b09d2e.jpg"
   },
   "30791929": {
@@ -16217,6 +16205,12 @@
     "room": 25181053,
     "face": "/bfs/face/3cfb00d6d363208fb7af5cbd31e70846ee5b4dac.jpg"
   },
+  "476891365": {
+    "name": "樱奈汐音_Naki",
+    "type": "vtuber",
+    "room": 21674945,
+    "face": "/bfs/face/be4267a381c2d6de589a20e4090b7e47a7988128.jpg"
+  },
   "53565207": {
     "name": "新妻锦",
     "type": "vtuber",
@@ -17092,6 +17086,12 @@
     "type": "vtuber",
     "room": 870004,
     "face": "/bfs/face/115158c85294fb2cbf9c679929d20745ece2f531.jpg"
+  },
+  "2061961489": {
+    "name": "泰迪熊奴奴丝",
+    "type": "vtuber",
+    "room": 25908522,
+    "face": "/bfs/face/8fa8941be4a8120e1d705846df9bb1a281f762c1.jpg"
   },
   "590836428": {
     "name": "泷Arch",
@@ -19803,7 +19803,7 @@
     "name": "白银莉莉Official",
     "type": "vtuber",
     "room": 21990617,
-    "face": "/bfs/face/a60e1ee22a9037ff31bf6586f3578a711336fd1e.jpg"
+    "face": "/bfs/face/ba3cf6ad9be7b2ae1b0d7f7e5845f3342535123d.jpg"
   },
   "405981431": {
     "name": "白雪深白Official",
@@ -22702,6 +22702,12 @@
     "type": "vtuber",
     "room": 24077982,
     "face": "/bfs/face/7a7d92e4d7a018f61918291ab45d39c0b1e7cf87.jpg"
+  },
+  "2064389464": {
+    "name": "芋言Lila",
+    "type": "vtuber",
+    "room": 25669748,
+    "face": "/bfs/face/a69f2ccdf449b9065ddd2696222155663439dbb0.jpg"
   },
   "433749835": {
     "name": "芒果猫Official一世",
@@ -28090,6 +28096,18 @@
     "type": "vtuber",
     "room": 22289943,
     "face": "/bfs/face/d99ca9605f32e4aa6228df038780126277c6ed5b.jpg"
+  },
+  "335231298": {
+    "name": "鹿玥_Shikatsuki",
+    "type": "vtuber",
+    "room": 25111502,
+    "face": "/bfs/face/283f1fae0ebbaeb3c2733cd3fce1dc65f4d6d18a.jpg"
+  },
+  "1510444081": {
+    "name": "鹿蜀Shu_",
+    "type": "vtuber",
+    "room": 25727850,
+    "face": "/bfs/face/7607f63fef5d0b6cfceea9c0b8863e3e5fccaf07.jpg"
   },
   "6268594": {
     "name": "腊味双拼鹿仔煲",

@@ -349,13 +349,6 @@
     "face": "/bfs/face/4bdd5f03c85636af3ea6c10b025e36d94d30f17f.jpg",
     "sign": "LOL猫。"
   },
-  "40214941": {
-    "name": "AuroraOfficial",
-    "type": "group",
-    "room": 2480453,
-    "face": "/bfs/face/f59c10542cc4a10418c4f820f1748c7b846cd07b.jpg",
-    "sign": "虚拟主播企划Aurora官方，联系邮箱info@aurora-production.com"
-  },
   "521070071": {
     "name": "AyamyあやみOfficial",
     "type": "vtuber",
@@ -2042,13 +2035,6 @@
     "room": 22830078,
     "face": "/bfs/face/a49075148895c7a3a32fdf344798dbd3c0056575.jpg",
     "sign": "联动相关请联系yoko：176023847"
-  },
-  "196295491": {
-    "name": "PlutoCharon计划",
-    "type": "group",
-    "room": 5459328,
-    "face": "/bfs/face/60087014f736e040eb42c8418f48d6b3fa9b7a18.jpg",
-    "sign": "是PlutoCharon的运营man哦～\n请多多支持～\n合作或找社内人联动请私信"
   },
   "300312007": {
     "name": "PochiKorone",
@@ -6330,7 +6316,7 @@
   "386764545": {
     "name": "健屋花那的诊疗所",
     "type": "unknown",
-    "room": 15092246,
+    "room": 0,
     "face": "/bfs/face/92465b1d6ce2882231e7b9d7b1dfb3d2766c149f.jpg",
     "sign": "にじさんじ所属健屋花那官方字幕组 审核群：130161226"
   },
@@ -10629,7 +10615,7 @@
     "name": "天羽syui",
     "type": "vtuber",
     "room": 22733015,
-    "face": "/bfs/face/cf375ec0ba5f1e506981c7d5490d8e23f0d6aaec.jpg",
+    "face": "/bfs/face/e043112a78c03c35bb36d5a6da76dd3d6c8b7648.jpg",
     "sign": "个人摆烂势vup/是只堕天使/随缘直播/接日语配音/合作联动欢迎私信"
   },
   "72041": {
@@ -15263,7 +15249,7 @@
     "name": "星宫颜Ekira",
     "type": "vtuber",
     "room": 22330292,
-    "face": "/bfs/face/70f1a6b8afc8abae8018b06bdb0aff80ce20cf85.jpg",
+    "face": "/bfs/face/7ea19b4d44aabea9a8018edef953151c59ae6659.jpg",
     "sign": "普罗维登Magicros所属,从星光中掉落的迷之种族✨想要成为指引你方向的星✨颜究所：150070028"
   },
   "1152597935": {
@@ -16900,7 +16886,7 @@
   "8028827": {
     "name": "超级棉花兔",
     "type": "vtuber",
-    "room": 0,
+    "room": 4551805,
     "face": "/bfs/face/c72732145564028f73d7984a83b6daf8c9b09d2e.jpg",
     "sign": "可可音最强"
   },
@@ -18920,6 +18906,13 @@
     "face": "/bfs/face/3cfb00d6d363208fb7af5cbd31e70846ee5b4dac.jpg",
     "sign": "清楚な魔法少女だよ！YT→x.gd/gU5IC"
   },
+  "476891365": {
+    "name": "樱奈汐音_Naki",
+    "type": "vtuber",
+    "room": 21674945,
+    "face": "/bfs/face/be4267a381c2d6de589a20e4090b7e47a7988128.jpg",
+    "sign": "九尾狐转世沦落人间的小狐狸，养成系个人势Vup，目标是成为偶像！可接pw私信联系\n直播时间晚19.30-21.30 希望会有更多的舰长～"
+  },
   "53565207": {
     "name": "新妻锦",
     "type": "vtuber",
@@ -19941,6 +19934,13 @@
     "room": 870004,
     "face": "/bfs/face/115158c85294fb2cbf9c679929d20745ece2f531.jpg",
     "sign": "个人势一体机，私信偶尔会回复 每晚9点直播 直播通知群：211382730"
+  },
+  "2061961489": {
+    "name": "泰迪熊奴奴丝",
+    "type": "vtuber",
+    "room": 25908522,
+    "face": "/bfs/face/8fa8941be4a8120e1d705846df9bb1a281f762c1.jpg",
+    "sign": "你好～！！！我叫泰迪熊奴奴丝！！！粉丝名是“熊亲卫”！75 天内不能再错误地更改默认值"
   },
   "590836428": {
     "name": "泷Arch",
@@ -23103,7 +23103,7 @@
     "name": "白银莉莉Official",
     "type": "vtuber",
     "room": 21990617,
-    "face": "/bfs/face/a60e1ee22a9037ff31bf6586f3578a711336fd1e.jpg",
+    "face": "/bfs/face/ba3cf6ad9be7b2ae1b0d7f7e5845f3342535123d.jpg",
     "sign": "幸福的猫猫~   猫猫群号：859431527   (*╹▽╹*)"
   },
   "405981431": {
@@ -26443,7 +26443,7 @@
     "type": "vtuber",
     "room": 157501,
     "face": "/bfs/face/8ba8f47dcf046b4b4deb28e2055eae8f638a47c0.jpg",
-    "sign": "美工狗丨Bf2高级审核 CODM全赛季战神 CODOL前职业\n-粉丝群：479296794\n-爱发电@Yaya157501"
+    "sign": "美工 CODM全赛季战神 CODOL前职业 Bf2高级审核\n-泷川小姐的狗\n-粉丝群：479296794\n-爱发电@Yaya157501"
   },
   "1501380958": {
     "name": "艾露露Ailurus",
@@ -26486,6 +26486,13 @@
     "room": 24077982,
     "face": "/bfs/face/7a7d92e4d7a018f61918291ab45d39c0b1e7cf87.jpg",
     "sign": "养狮子吗～敲凶的～"
+  },
+  "2064389464": {
+    "name": "芋言Lila",
+    "type": "vtuber",
+    "room": 25669748,
+    "face": "/bfs/face/a69f2ccdf449b9065ddd2696222155663439dbb0.jpg",
+    "sign": "hOuOu虚拟艺人团体成员。「听完这首歌，要陪我回月宫种芋头吗？」 商务：houou_project@163.com"
   },
   "433749835": {
     "name": "芒果猫Official一世",
@@ -30846,7 +30853,7 @@
     "type": "vtuber",
     "room": 2611014,
     "face": "/bfs/face/6e4c5b2b34e6be41dc8db347082b4db768870e26.jpg",
-    "sign": "-「完美沉默の作家」    \n -个人势无声系               \n  -【直播内容：游戏+偶尔无声杂谈】 "
+    "sign": "-「完美沉默の作家」     -个人势陪伴型无声系                 -【直播内容：游戏+偶尔无声杂谈】 "
   },
   "1791514": {
     "name": "雨宫燕Channel",
@@ -32772,6 +32779,20 @@
     "room": 22289943,
     "face": "/bfs/face/d99ca9605f32e4aa6228df038780126277c6ed5b.jpg",
     "sign": "喜欢的话就点个关注吧～目前活跃的账号是【鹿鹿鹿泽不是鹿】"
+  },
+  "335231298": {
+    "name": "鹿玥_Shikatsuki",
+    "type": "vtuber",
+    "room": 25111502,
+    "face": "/bfs/face/283f1fae0ebbaeb3c2733cd3fce1dc65f4d6d18a.jpg",
+    "sign": "今晚的月光真美，我的意思是很开心你能来看我..！劳模主播每晚8:00直播，联动相关请私信或联系Shikatsuki@163.com"
+  },
+  "1510444081": {
+    "name": "鹿蜀Shu_",
+    "type": "vtuber",
+    "room": 25727850,
+    "face": "/bfs/face/7607f63fef5d0b6cfceea9c0b8863e3e5fccaf07.jpg",
+    "sign": "新人虚拟主播。"
   },
   "6268594": {
     "name": "腊味双拼鹿仔煲",
