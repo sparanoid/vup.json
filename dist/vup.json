@@ -1823,6 +1823,12 @@
     "room": 21615902,
     "face": "/bfs/face/42b056123126ad835090833a624c3412d26d47d1.jpg"
   },
+  "7512597": {
+    "name": "Pumpkin_H南瓜",
+    "type": "vtuber",
+    "room": 10361318,
+    "face": "/bfs/face/1d97d9e3a25ae31946be2df23bc53db71dffb4ba.jpg"
+  },
   "1944602110": {
     "name": "Pursue-live",
     "type": "group",
@@ -1996,12 +2002,6 @@
     "type": "group",
     "room": 0,
     "face": "/bfs/face/19630425b1a89ac073967681d48fbd3dbd5557a4.jpg"
-  },
-  "593930090": {
-    "name": "SSR星露社",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/3ff82866868c04752f1207401aac4fe69da8dc2c.jpg"
   },
   "2791185": {
     "name": "SUKI酱_Channel",
@@ -3094,6 +3094,12 @@
     "type": "vtuber",
     "room": 23644570,
     "face": "/bfs/face/f65e3370ceaefdad55ec79e7a2f4d874d6ce4406.jpg"
+  },
+  "342260186": {
+    "name": "yy没有_Official",
+    "type": "vtuber",
+    "room": 11935852,
+    "face": "/bfs/face/2088b4beedadf56401155988995ac163aaa440fa.jpg"
   },
   "1327588509": {
     "name": "MaeSond",

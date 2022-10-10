@@ -1519,6 +1519,11 @@
     "type": "vtuber",
     "room": 21615902
   },
+  "7512597": {
+    "name": "Pumpkin_H南瓜",
+    "type": "vtuber",
+    "room": 10361318
+  },
   "1944602110": {
     "name": "Pursue-live",
     "type": "group",
@@ -1661,11 +1666,6 @@
   },
   "413638423": {
     "name": "Virtual社团SOW",
-    "type": "group",
-    "room": 0
-  },
-  "593930090": {
-    "name": "SSR星露社",
     "type": "group",
     "room": 0
   },
@@ -2578,6 +2578,11 @@
     "name": "云卷涅涅NeNe",
     "type": "vtuber",
     "room": 23644570
+  },
+  "342260186": {
+    "name": "yy没有_Official",
+    "type": "vtuber",
+    "room": 11935852
   },
   "1327588509": {
     "name": "MaeSond",
