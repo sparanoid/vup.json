@@ -113,6 +113,12 @@
     "room": 0,
     "face": "/bfs/face/4a9bc6b627dc9e31db2207039c13b3fcb25a171e.jpg"
   },
+  "1210419111": {
+    "name": "AAA馒头零售批发商馍姐",
+    "type": "vtuber",
+    "room": 26021274,
+    "face": "/bfs/face/c1997bd45971d1353db9deb64b5951691fd2b6bf.jpg"
+  },
   "484322035": {
     "name": "AIChannel中国绊爱",
     "type": "vtuber",
@@ -4109,6 +4115,12 @@
     "room": 0,
     "face": "/bfs/face/33024e0bed308a0ab6bb1a0396020ae21f7f9a2c.jpg"
   },
+  "1220672487": {
+    "name": "三花丸子",
+    "type": "vtuber",
+    "room": 25545201,
+    "face": "/bfs/face/46f6320b3ea8909d334b8fe53f0139e9407c75d2.jpg"
+  },
   "23719713": {
     "name": "三花酱-Official",
     "type": "vtuber",
@@ -7720,6 +7732,12 @@
     "type": "vtuber",
     "room": 22281506,
     "face": "/bfs/face/b1210236e46b09ffd34a8494585b51adc507bf64.jpg"
+  },
+  "1223229089": {
+    "name": "咿喔很哇呜",
+    "type": "vtuber",
+    "room": 26032691,
+    "face": "/bfs/face/85dcfdcf3cfaa50803178bfb6ac75de7275c652f.jpg"
   },
   "444015421": {
     "name": "哀嗣",
@@ -14525,6 +14543,12 @@
     "room": 22058313,
     "face": "/bfs/face/b6ae7a53e94207e9ae6dca3870998d7a881a1384.jpg"
   },
+  "1488009421": {
+    "name": "未零栖Mireis",
+    "type": "vtuber",
+    "room": 25279345,
+    "face": "/bfs/face/27b2a2f48bb070b6286e13d5661b3f6d8174d727.jpg"
+  },
   "431272599": {
     "name": "末世音_LaVo",
     "type": "vtuber",
@@ -15196,6 +15220,12 @@
     "type": "vtuber",
     "room": 377563,
     "face": "/bfs/face/ae93cab0fe6c26260484a22d75f8c9e55e1e4b22.jpg"
+  },
+  "3197110": {
+    "name": "柯瑞尔特可可爱爱",
+    "type": "vtuber",
+    "room": 4109333,
+    "face": "/bfs/face/3106c4eb54f5d52496e31b8f60a9dae30a4ee9e3.jpg"
   },
   "324897535": {
     "name": "柯罗诺斯Chronus",
