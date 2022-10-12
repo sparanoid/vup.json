@@ -377,13 +377,6 @@
     "face": "/bfs/face/79f47d664d194c598dd3b473d200f1d9c17a66d2.jpg",
     "sign": "欢迎小天使回家 Azulim粉丝群：383155405"
   },
-  "1716873216": {
-    "name": "BASE-OFFICIAL",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/b4958cd9601860e0c86b1feb041ba5c9b2c8c7db.jpg",
-    "sign": "持续招募中，请大家投递申请的时候尽量附上才艺展示的文件和链接地址"
-  },
   "1513469779": {
     "name": "Bafuko_Official",
     "type": "vtuber",
@@ -24994,7 +24987,7 @@
     "type": "vtuber",
     "room": 23759661,
     "face": "/bfs/face/0b6cece2ee95e4c2a87b3278dde46ddddae0f69f.jpg",
-    "sign": "????"
+    "sign": "?"
   },
   "17725484": {
     "name": "糯米米MOCHIGOME",
