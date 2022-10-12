@@ -10988,7 +10988,7 @@
   "1322881625": {
     "name": "巫沐Umo",
     "type": "vtuber",
-    "room_id": 22705839,
+    "room_id": 0,
     "face": "/bfs/face/74bcb8673f37946a80bdb12422f156cd47c5da8e.jpg"
   },
   "1874711872": {
@@ -12249,7 +12249,7 @@
     "name": "我可是pika",
     "type": "vtuber",
     "room_id": 23364,
-    "face": "/bfs/face/21ce28d2c2f9102c24f3d058280a42a43fcba281.jpg"
+    "face": "/bfs/face/788fb0f08ad9942e8b11f377734aa3a9359e4f1d.jpg"
   },
   "394214997": {
     "name": "我可爱大千",
@@ -12795,7 +12795,7 @@
     "name": "早穗",
     "type": "vtuber",
     "room_id": 22569046,
-    "face": "/bfs/face/2a6ba0ddc788e5a97bd20c5b3963f9c8224832e2.jpg"
+    "face": "/bfs/face/3fba76ff80b232858b9242efbf54ce8d983788e1.jpg"
   },
   "541696090": {
     "name": "早见咲Saki",
@@ -18724,6 +18724,12 @@
     "type": "vtuber",
     "room_id": 23550614,
     "face": "/bfs/face/0afec55f75955be9cc57fd7e196775c9b2be2b70.jpg"
+  },
+  "1685294332": {
+    "name": "猫耳草frost",
+    "type": "vtuber",
+    "room_id": 23425533,
+    "face": "/bfs/face/dc60d72e0c0b4356b9e17693e0031b0c247b5c7d.jpg"
   },
   "487550002": {
     "name": "猫芒ベル_Official",

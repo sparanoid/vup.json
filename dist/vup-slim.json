@@ -9157,7 +9157,7 @@
   "1322881625": {
     "name": "巫沐Umo",
     "type": "vtuber",
-    "room": 22705839
+    "room": 0
   },
   "1874711872": {
     "name": "巫菜乃Nano",
@@ -15603,6 +15603,11 @@
     "name": "猫羽空Official",
     "type": "vtuber",
     "room": 23550614
+  },
+  "1685294332": {
+    "name": "猫耳草frost",
+    "type": "vtuber",
+    "room": 23425533
   },
   "487550002": {
     "name": "猫芒ベル_Official",
