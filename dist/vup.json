@@ -365,12 +365,6 @@
     "room": 688884,
     "face": "/bfs/face/0b5829ca6667ae18d5c806f7e58a13dfae93847f.jpg"
   },
-  "34547736": {
-    "name": "肆壹Yonichi",
-    "type": "vtuber",
-    "room": 3392010,
-    "face": "/bfs/face/e44abb6f2471d7df8951083978956ddd48deec91.jpg"
-  },
   "823718": {
     "name": "C-Live_Project",
     "type": "group",
@@ -382,12 +376,6 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/2fd59ca059b338d070416c71f3c5172bebb3d396.jpg"
-  },
-  "595394735": {
-    "name": "名为CASA的小窝",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/12651f139c147761f5fe25a7c5ef8a8d9b46506d.jpg"
   },
   "222288454": {
     "name": "浙江大学CC98论坛",
@@ -1475,12 +1463,6 @@
     "room": 747097,
     "face": "/bfs/face/e264f18640f431f7155a9f4e69432459a315e252.jpg"
   },
-  "554362964": {
-    "name": "NaiD26号Channel",
-    "type": "vtuber",
-    "room": 22207297,
-    "face": "/bfs/face/f0370b45ac0965da443a9c1fbe961b4ae6bb3c51.jpg"
-  },
   "57988971": {
     "name": "NamelessProject",
     "type": "group",
@@ -1768,12 +1750,6 @@
     "type": "vtuber",
     "room": 22892743,
     "face": "/bfs/face/aad5b111f8f626b20f6e27b0a66a5fa2cbb48cfa.jpg"
-  },
-  "324594206": {
-    "name": "ProjectCyto",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/48686cbf843d7ced8d9865ddcd5fe99af705dbff.jpg"
   },
   "129531": {
     "name": "ProjectLupinus",
@@ -4096,12 +4072,6 @@
     "type": "vtuber",
     "room": 671472,
     "face": "/bfs/face/52451f91184fcd70d092cfc95db8875ddc520797.jpg"
-  },
-  "450578459": {
-    "name": "unreal夏某晴",
-    "type": "vtuber",
-    "room": 23199305,
-    "face": "/bfs/face/af87c55f136a9416bc7142f8e2a0efc0360bcc27.jpg"
   },
   "33398732": {
     "name": "三田そにあ搬运",
@@ -7731,7 +7701,7 @@
     "name": "咿喔很哇呜",
     "type": "vtuber",
     "room": 26032691,
-    "face": "/bfs/face/85dcfdcf3cfaa50803178bfb6ac75de7275c652f.jpg"
+    "face": "/bfs/face/31c5ed0e15bcb5d818c21f6a11d246d0a904df32.jpg"
   },
   "444015421": {
     "name": "哀嗣",
@@ -8050,12 +8020,6 @@
     "type": "group",
     "room": 23770941,
     "face": "/bfs/face/aac124657e877e84b7b1c643d465fd992f057f17.jpg"
-  },
-  "19218934": {
-    "name": "回忆-Channel",
-    "type": "vtuber",
-    "room": 146360,
-    "face": "/bfs/face/5b5f439ce67c6cfb250e468424f01bbd6da82640.jpg"
   },
   "14675261": {
     "name": "回收娘Official",
@@ -10247,12 +10211,6 @@
     "room": 24428899,
     "face": "/bfs/face/2727558341a688fe101dbdad7f6b6ac8c9781048.jpg"
   },
-  "11374893": {
-    "name": "小小不是猫",
-    "type": "vtuber",
-    "room": 1455245,
-    "face": "/bfs/face/83d1c79f2c869a49b41e00d00b420f32637dff1f.jpg"
-  },
   "1359949418": {
     "name": "小小约yoo",
     "type": "vtuber",
@@ -10618,12 +10576,6 @@
     "type": "vtuber",
     "room": 22196167,
     "face": "/bfs/face/3ba59169fba6ca1ec3bd817a63ff266343d56052.jpg"
-  },
-  "3762609": {
-    "name": "小鳥遊春風Official",
-    "type": "vtuber",
-    "room": 7674948,
-    "face": "/bfs/face/35049e67981baabdb8326d753c4d6a999c764fd6.jpg"
   },
   "1069108539": {
     "name": "小鸟游杏子Official",
@@ -11740,12 +11692,6 @@
     "type": "vtuber",
     "room": 535285,
     "face": "/bfs/face/1bcd8ec05419b26e2803a2a3df13b1a1c3c43da4.jpg"
-  },
-  "178836318": {
-    "name": "御坂北橘official",
-    "type": "vtuber",
-    "room": 5752147,
-    "face": "/bfs/face/57b12ff84828aeee97fb53905b56d1c6ca0a40a3.jpg"
   },
   "51173587": {
     "name": "御坂萤Hotaru",
@@ -13937,12 +13883,6 @@
     "room": 925660,
     "face": "/bfs/face/09e76bf7a726bd4903725f5c3022dda76b07d40e.jpg"
   },
-  "14433120": {
-    "name": "未知用户ハヤシ大佐",
-    "type": "vtuber",
-    "room": 7877920,
-    "face": "/bfs/face/f512817e8a54a17f61be974887cbef005490a4ba.jpg"
-  },
   "3606739": {
     "name": "暁知雲之伤Channel",
     "type": "vtuber",
@@ -16120,12 +16060,6 @@
     "type": "vtuber",
     "room": 22111713,
     "face": "/bfs/face/4c1c977698ccd7eb58cf49a38940ff83dca706d7.jpg"
-  },
-  "6409644": {
-    "name": "極限Xtreme",
-    "type": "vtuber",
-    "room": 976333,
-    "face": "/bfs/face/78e10b958d1f810d3e27bdb6bf9ddd469df61e30.jpg"
   },
   "436749840": {
     "name": "極彩夜うい_official",
@@ -18695,12 +18629,6 @@
     "room": 14269939,
     "face": "/bfs/face/a28f10fa6184fa2206975e9751b17fc7c56b3eed.jpg"
   },
-  "32096754": {
-    "name": "缩盒猫猫叶星雨",
-    "type": "vtuber",
-    "room": 1594711,
-    "face": "/bfs/face/f0aec0750bbfa0e2cdd7228020c5ac646dd1f7a7.jpg"
-  },
   "689274741": {
     "name": "猫白ShiroNeko",
     "type": "vtuber",
@@ -21155,12 +21083,6 @@
     "room": 0,
     "face": "/bfs/face/bb34118bfd31d87ffbfc4df670327f8acd946f9b.jpg"
   },
-  "1967619": {
-    "name": "筑波コブOfficial",
-    "type": "vtuber",
-    "room": 791951,
-    "face": "/bfs/face/d234bb1b7192ad2c7ef15b5a7839ca727d5041fd.jpg"
-  },
   "594474157": {
     "name": "筱凛凛ShinoRin",
     "type": "vtuber",
@@ -22186,12 +22108,6 @@
     "type": "vtuber",
     "room": 5359504,
     "face": "/bfs/face/a40dfbd2593fef8a53c9d5219950048c80d115ef.jpg"
-  },
-  "32703376": {
-    "name": "蟑螂jolo",
-    "type": "vtuber",
-    "room": 8556297,
-    "face": "/bfs/face/5ec7906fb37de692d2fb546461db4d9d043f1de8.jpg"
   },
   "396316042": {
     "name": "羽咲Rabi_Official",
@@ -26921,12 +26837,6 @@
     "room": 24492393,
     "face": "/bfs/face/4d889277399965b4e22dd17651726a6601d8b9e5.jpg"
   },
-  "349594581": {
-    "name": "雨和月かつき",
-    "type": "vtuber",
-    "room": 12193697,
-    "face": "/bfs/face/b8cda0e783856e6e784ffc5f3237c74d72d2a1e3.jpg"
-  },
   "4997542": {
     "name": "霜月栗子Ritsuko",
     "type": "vtuber",
@@ -28372,12 +28282,6 @@
     "type": "vtuber",
     "room": 251015,
     "face": "/bfs/face/f98c1bc786f523b6629b1b85815b17fbe2667810.jpg"
-  },
-  "455716144": {
-    "name": "黑洛くろ_Bymas",
-    "type": "vtuber",
-    "room": 22333281,
-    "face": "/bfs/face/ec8fa9950092c7871c314977c4ec9dd342d97c15.jpg"
   },
   "4592453": {
     "name": "黑白Ciro",
