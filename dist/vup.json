@@ -1673,6 +1673,12 @@
     "room": 0,
     "face": "/bfs/face/872aef13b55f24343072810835c44edd15a27ed6.jpg"
   },
+  "2012430091": {
+    "name": "PaPutok",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/479533f8ef19ca73a6423884aadf6a27d27e250c.jpg"
+  },
   "526402222": {
     "name": "Epoch_Link",
     "type": "group",
@@ -4726,6 +4732,12 @@
     "type": "vtuber",
     "room": 23170678,
     "face": "/bfs/face/5074673369524a68018595d1a05425d64865b96f.jpg"
+  },
+  "1329861887": {
+    "name": "井上沧月Tsuki",
+    "type": "vtuber",
+    "room": 25815214,
+    "face": "/bfs/face/3497952082ba36438f291053967f9f76ed1f168c.jpg"
   },
   "692611676": {
     "name": "井野川歌铃",
@@ -13679,6 +13691,12 @@
     "room": 15521,
     "face": "/bfs/face/a05fa76dda75b64bf51beb490acb54a62a82448b.jpg"
   },
+  "1514835": {
+    "name": "春日千代Chiyo",
+    "type": "vtuber",
+    "room": 497020,
+    "face": "/bfs/face/9b572fa15f5008c2e2a60e81fc42dc286fc81407.jpg"
+  },
   "189061443": {
     "name": "叩叩鱼缸",
     "type": "vtuber",
@@ -21808,6 +21826,12 @@
     "type": "vtuber",
     "room": 23629065,
     "face": "/bfs/face/d5151b5ca0fbe87f6211f1404d15de13845b9f02.jpg"
+  },
+  "1629232": {
+    "name": "绘星不会撞地球",
+    "type": "vtuber",
+    "room": 11499540,
+    "face": "/bfs/face/a9f18c17c8443754a3b0100eec8515dd4f063431.jpg"
   },
   "2115413637": {
     "name": "绘梨糯Nino",

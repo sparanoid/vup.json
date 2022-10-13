@@ -1394,6 +1394,11 @@
     "type": "group",
     "room": 0
   },
+  "2012430091": {
+    "name": "PaPutok",
+    "type": "group",
+    "room": 0
+  },
   "526402222": {
     "name": "Epoch_Link",
     "type": "group",
@@ -3938,6 +3943,11 @@
     "name": "五道口龙哥",
     "type": "vtuber",
     "room": 23170678
+  },
+  "1329861887": {
+    "name": "井上沧月Tsuki",
+    "type": "vtuber",
+    "room": 25815214
   },
   "692611676": {
     "name": "井野川歌铃",
@@ -11399,6 +11409,11 @@
     "type": "vtuber",
     "room": 15521
   },
+  "1514835": {
+    "name": "春日千代Chiyo",
+    "type": "vtuber",
+    "room": 497020
+  },
   "189061443": {
     "name": "叩叩鱼缸",
     "type": "vtuber",
@@ -18173,6 +18188,11 @@
     "name": "Velsa_Moniels",
     "type": "vtuber",
     "room": 23629065
+  },
+  "1629232": {
+    "name": "绘星不会撞地球",
+    "type": "vtuber",
+    "room": 11499540
   },
   "2115413637": {
     "name": "绘梨糯Nino",

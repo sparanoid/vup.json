@@ -1952,6 +1952,13 @@
     "face": "/bfs/face/872aef13b55f24343072810835c44edd15a27ed6.jpg",
     "sign": "虚拟偶像团体Project ShojoLive,简称PSL"
   },
+  "2012430091": {
+    "name": "PaPutok",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/479533f8ef19ca73a6423884aadf6a27d27e250c.jpg",
+    "sign": "PaPutok事务所-希望所有星星都要闪闪发光！\n报名请私信"
+  },
   "526402222": {
     "name": "Epoch_Link",
     "type": "group",
@@ -5514,6 +5521,13 @@
     "room": 23170678,
     "face": "/bfs/face/5074673369524a68018595d1a05425d64865b96f.jpg",
     "sign": "ASKLive所属VUP，退休再就业中国龙。等我发财了，要雇1百个美少女给我拼模型！群： 305683692"
+  },
+  "1329861887": {
+    "name": "井上沧月Tsuki",
+    "type": "vtuber",
+    "room": 25815214,
+    "face": "/bfs/face/3497952082ba36438f291053967f9f76ed1f168c.jpg",
+    "sign": "paputok一期生 身负傲慢之罪的返祖吸血鬼 追随我为我献上你的一切吧"
   },
   "692611676": {
     "name": "井野川歌铃",
@@ -15959,6 +15973,13 @@
     "face": "/bfs/face/a05fa76dda75b64bf51beb490acb54a62a82448b.jpg",
     "sign": "打音游的程序员里车开的最快的VUP; Find me here:806060142"
   },
+  "1514835": {
+    "name": "春日千代Chiyo",
+    "type": "vtuber",
+    "room": 497020,
+    "face": "/bfs/face/9b572fa15f5008c2e2a60e81fc42dc286fc81407.jpg",
+    "sign": "PaPutok一期生 爱打游戏的猫猫鲨鱼 直播禁言通知群：528789879"
+  },
   "189061443": {
     "name": "叩叩鱼缸",
     "type": "vtuber",
@@ -25443,6 +25464,13 @@
     "room": 23629065,
     "face": "/bfs/face/d5151b5ca0fbe87f6211f1404d15de13845b9f02.jpg",
     "sign": "We are finding hope."
+  },
+  "1629232": {
+    "name": "绘星不会撞地球",
+    "type": "vtuber",
+    "room": 11499540,
+    "face": "/bfs/face/a9f18c17c8443754a3b0100eec8515dd4f063431.jpg",
+    "sign": "PaPutok一期生 想要成为偶像的小女巫 准备好为我应援了吗\n直播（禁言）通知群：647534609"
   },
   "2115413637": {
     "name": "绘梨糯Nino",
