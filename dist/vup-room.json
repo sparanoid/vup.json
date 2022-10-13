@@ -5138,7 +5138,7 @@
   "401166457": {
     "name": "伏见ガク搬运组",
     "type": "vtuber",
-    "room_id": 22379387,
+    "room_id": 0,
     "face": "/bfs/face/10b02cfffed96dbde6e5df5dddd358f6db0c0fb3.jpg"
   },
   "1117443406": {
@@ -5912,7 +5912,7 @@
   "1330766232": {
     "name": "冰兔w",
     "type": "vtuber",
-    "room_id": 24137142,
+    "room_id": 0,
     "face": "/bfs/face/38346ff26a2fef8bfd4b98473294a96cf22114b4.jpg"
   },
   "1438537391": {
@@ -9128,7 +9128,7 @@
   "394760624": {
     "name": "天野凛今天跑调了嘛",
     "type": "vtuber",
-    "room_id": 24479297,
+    "room_id": 0,
     "face": "/bfs/face/cccc64d93583f53d8085f4109e0b302c1fcdaf33.jpg"
   },
   "3029641": {
@@ -11091,7 +11091,7 @@
     "name": "希拉Sheila",
     "type": "vtuber",
     "room_id": 23414796,
-    "face": "/bfs/face/4b814378ccefe6b6362365c75424ae31bfaacad4.jpg"
+    "face": "/bfs/face/84cef5ba98434f7106708ba47e6f88a7b257bf5d.jpg"
   },
   "488104861": {
     "name": "希斯-Heath",
@@ -15717,7 +15717,7 @@
     "name": "梦咲有绪",
     "type": "vtuber",
     "room_id": 25622556,
-    "face": "/bfs/face/d730d55eae2c64958bde521aca0918084ece7a5b.jpg"
+    "face": "/bfs/face/67d817d3c68a9d8ff133e9eb2791964c2e81eae2.jpg"
   },
   "489758060": {
     "name": "梦天璃_Official",
@@ -17058,10 +17058,10 @@
     "face": "/bfs/face/25edc70cde38f83c28bddb32c5571f027bf8d93c.jpg"
   },
   "88854857": {
-    "name": "泪泪Official",
+    "name": "bilibili",
     "type": "vtuber",
     "room_id": 3633019,
-    "face": "/bfs/face/12053c5ae005aa32d0f4d0fe22c03f558bdd5d0b.jpg"
+    "face": "/images/member/noface.gif"
   },
   "620903": {
     "name": "泰蕾莎Channel",
@@ -20546,7 +20546,7 @@
   "30582077": {
     "name": "山猫与白鸽",
     "type": "vtuber",
-    "room_id": 6653009,
+    "room_id": 0,
     "face": "/bfs/face/48543fdd09c9f517d5b3fb2b175556ce2baa9759.jpg"
   },
   "361916885": {
@@ -20714,7 +20714,7 @@
   "8112072": {
     "name": "秋分迟",
     "type": "vtuber",
-    "room_id": 542993,
+    "room_id": 0,
     "face": "/bfs/face/467ab93c241c8fd28fe050d0f3b6a80a02ece4c9.jpg"
   },
   "12746435": {
@@ -21626,7 +21626,7 @@
   "403930401": {
     "name": "绿仙Official",
     "type": "vtuber",
-    "room_id": 21302479,
+    "room_id": 0,
     "face": "/bfs/face/cf23495d3c01b93dd0c15fa24c24872f9b54d5f8.jpg"
   },
   "80387576": {
@@ -22989,7 +22989,7 @@
     "name": "花筝Anly",
     "type": "vtuber",
     "room_id": 410708,
-    "face": "/bfs/face/1833573435101f385819c0b2ea82d4a7ca96d438.jpg"
+    "face": "/bfs/face/c5ff984eaf195446eeb65587305d7cb85cb198aa.jpg"
   },
   "619471232": {
     "name": "花緑青official",
@@ -26030,7 +26030,7 @@
   "36230471": {
     "name": "呐是阿允",
     "type": "vtuber",
-    "room_id": 21387511,
+    "room_id": 0,
     "face": "/bfs/face/fad7332d888c53242c8dfa6ee063b9d1b8f0f3a7.jpg"
   },
   "879478": {
