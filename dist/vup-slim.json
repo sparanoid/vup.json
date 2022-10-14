@@ -3257,7 +3257,7 @@
   "106348951": {
     "name": "一色翎Official",
     "type": "vtuber",
-    "room": 4442849
+    "room": 0
   },
   "517060084": {
     "name": "一颗芽Official",
@@ -7757,7 +7757,7 @@
   "1715021814": {
     "name": "奈罗Naro_official",
     "type": "vtuber",
-    "room": 22784525
+    "room": 0
   },
   "8256946": {
     "name": "奈罗花字幕组",
@@ -8772,7 +8772,7 @@
   "1575790132": {
     "name": "小莔莔子",
     "type": "vtuber",
-    "room": 24587207
+    "room": 0
   },
   "13740989": {
     "name": "小葵花_Channel",
@@ -8998,6 +8998,11 @@
     "name": "山城-Channel",
     "type": "vtuber",
     "room": 153580
+  },
+  "22089831": {
+    "name": "山奈小师妹",
+    "type": "vtuber",
+    "room": 3292300
   },
   "214854": {
     "name": "山崎薰薰",
@@ -10038,6 +10043,11 @@
     "name": "是婵妹不是馋妹",
     "type": "vtuber",
     "room": 23224986
+  },
+  "8093066": {
+    "name": "悠悠子yoyoko",
+    "type": "vtuber",
+    "room": 25486532
   },
   "1966977602": {
     "name": "悠梦する-女仆咖啡厅",
@@ -15424,6 +15434,11 @@
     "type": "vtuber",
     "room": 22023331
   },
+  "13206531": {
+    "name": "狸莎_Channel",
+    "type": "vtuber",
+    "room": 7468228
+  },
   "589185": {
     "name": "CHILDWOLF",
     "type": "vtuber",
@@ -19429,6 +19444,11 @@
     "type": "vtuber",
     "room": 24816392
   },
+  "82579091": {
+    "name": "苹果R1ngo",
+    "type": "vtuber",
+    "room": 3916035
+  },
   "521287997": {
     "name": "苺病くすりOfficial",
     "type": "vtuber",
@@ -20083,6 +20103,11 @@
     "name": "蓬莱寺樱花_Channel",
     "type": "vtuber",
     "room": 440500
+  },
+  "1630494154": {
+    "name": "蔓Aoede",
+    "type": "vtuber",
+    "room": 24715515
   },
   "1920016963": {
     "name": "蔻蔻ここ",

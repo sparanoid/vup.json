@@ -4559,7 +4559,7 @@
   "106348951": {
     "name": "一色翎Official",
     "type": "vtuber",
-    "room": 4442849,
+    "room": 0,
     "face": "/bfs/face/10df4adaa2429f6788886854e200bdb413b230b7.jpg",
     "sign": "回来了唷，要是没想我就算了。\n妖精体系Fairysystem二期生，煮石酒馆门牌号957532976。"
   },
@@ -4581,7 +4581,7 @@
     "name": "一露Lulu",
     "type": "vtuber",
     "room": 26007751,
-    "face": "/bfs/face/1664e1f61f46ce1c01bca7da1c3af21f03a27202.jpg",
+    "face": "/bfs/face/07cf7c2eca9d1c17b5e187265b398882d92ad202.jpg",
     "sign": "是可爱的小饼干，希望能被大家喜欢~粉丝群号：671943280"
   },
   "14045966": {
@@ -10859,7 +10859,7 @@
   "1715021814": {
     "name": "奈罗Naro_official",
     "type": "vtuber",
-    "room": 22784525,
+    "room": 0,
     "face": "/bfs/face/67b71f388fa698338259b3c0132c7e61920747cd.jpg",
     "sign": "SMR-∞-1 虚拟up主 提问箱: https://www.tapechat.net/u/naro007/6U1ET9N4"
   },
@@ -12280,7 +12280,7 @@
   "1575790132": {
     "name": "小莔莔子",
     "type": "vtuber",
-    "room": 24587207,
+    "room": 0,
     "face": "/bfs/face/979218510e8ab904da42b561de4aa95b1cdd50d2.jpg",
     "sign": "莔（méng）个人势赛博猫猫，感谢你的关注！ ❤ 直播通知群：827428776"
   },
@@ -12598,6 +12598,13 @@
     "room": 153580,
     "face": "/bfs/face/72915605691f5eb3cc8468ce0e87dbdaa59b2b86.jpg",
     "sign": "自神界前往人间试炼，却误进虚拟世界虚拟主播 山城です"
+  },
+  "22089831": {
+    "name": "山奈小师妹",
+    "type": "vtuber",
+    "room": 3292300,
+    "face": "/bfs/face/b2d64bd721ec877eb93986c9d94c3a53ca9971f8.jpg",
+    "sign": "诶？你怎么在我的梦里？（欢迎加入我的梦境：728940119）"
   },
   "214854": {
     "name": "山崎薰薰",
@@ -14055,6 +14062,13 @@
     "face": "/bfs/face/cbc27a2309d898b93949bd5884896d3209c881b1.jpg",
     "sign": "事已至此，先吃饭吧"
   },
+  "8093066": {
+    "name": "悠悠子yoyoko",
+    "type": "vtuber",
+    "room": 25486532,
+    "face": "/bfs/face/53a96e05533eb89d7148534efeb0e9bf650d0d0f.jpg",
+    "sign": "当地说话比较搞笑的准·知名燕尾蝶歌手悠悠子\n百舰开个人演唱会\n每天下午四点开播～"
+  },
   "1966977602": {
     "name": "悠梦する-女仆咖啡厅",
     "type": "group",
@@ -15495,7 +15509,7 @@
     "type": "vtuber",
     "room": 24008276,
     "face": "/bfs/face/e9c045e2169d87221abf86f6194df2c22651da2c.jpg",
-    "sign": "好好唱歌，佛系主播，禁言通知群：763735871（未经允许，不要投稿我的录播，歌切可以）"
+    "sign": "好好唱歌，佛系主播\n（未经允许，不要投稿我的录播，搬运我的视频）\n禁言通知群：763735871"
   },
   "19080153": {
     "name": "星瀬白羊",
@@ -18714,7 +18728,7 @@
     "name": "璃月青空",
     "type": "vtuber",
     "room": 1397151,
-    "face": "/bfs/face/8dfbe069732e897fc796328df2213e5eb415ae75.jpg",
+    "face": "/bfs/face/10840e31d4432a40e3654c64308b86ec38b98915.jpg",
     "sign": "在做原神相关内容，欢迎关注与合作！新QQ群可以在视频评论区看到。"
   },
   "1301635": {
@@ -21053,7 +21067,7 @@
     "type": "vtuber",
     "room": 24471858,
     "face": "/bfs/face/0ea70613e66fb0fa763b036607b7fdfbceb9b138.jpg",
-    "sign": "❤️你好 这里是个人势吸血小猫咪 很高兴认识你\n❤️烛宝的小屋子：875109854\n"
+    "sign": "❤️没什么大用处的唱歌人\n❤️烛宝的小屋子：875109854\n"
   },
   "498305332": {
     "name": "烛龙烛九阴Official",
@@ -21593,6 +21607,13 @@
     "room": 22023331,
     "face": "/bfs/face/e7dcf722998f911b9c8f054890c22caa82c35550.jpg",
     "sign": "猫猫其实不太对/不参与任何社团工会/很酷，不直播"
+  },
+  "13206531": {
+    "name": "狸莎_Channel",
+    "type": "vtuber",
+    "room": 7468228,
+    "face": "/bfs/face/dd358dc3dffcf31f3fbd9e0b837fadb736405754.jpg",
+    "sign": "✨聪明可爱的个人势狐狸一只，这样的我能得到你的喜欢吗？✨录播号：@小小芙暗莎组"
   },
   "589185": {
     "name": "CHILDWOLF",
@@ -27201,6 +27222,13 @@
     "face": "/bfs/face/842a7947d83809ef5d524968e6ba6ded0d6d1498.jpg",
     "sign": "猫邮社所属小幽灵，不是狐狸！！\n禁言通知群：473853047\n"
   },
+  "82579091": {
+    "name": "苹果R1ngo",
+    "type": "vtuber",
+    "room": 3916035,
+    "face": "/bfs/face/190aaf8a85a51620ad62e1b5e93ab2fdc8e7e0b5.jpg",
+    "sign": "一条把音乐当生命的龙娘"
+  },
   "521287997": {
     "name": "苺病くすりOfficial",
     "type": "vtuber",
@@ -28117,6 +28145,13 @@
     "room": 440500,
     "face": "/bfs/face/e48d88f2bb7f7b16f42ba77ef796fd49d5e1f48b.jpg",
     "sign": "个人势✿未出道✿歌·杂✿养成系\n\n我是樱花，只属于你的樱花\n请喜欢我。\n除了你我已经一无所有✝️✝️✝️\n"
+  },
+  "1630494154": {
+    "name": "蔓Aoede",
+    "type": "vtuber",
+    "room": 24715515,
+    "face": "/bfs/face/05723b2221327ace05fa4e8f82dd5da8a7d919f8.jpg",
+    "sign": "✿ 全宇宙最美腻の花花·植物界歌姬天花板 ✿ 粉丝群：1025745698 ✿\n\n"
   },
   "1920016963": {
     "name": "蔻蔻ここ",
@@ -32064,7 +32099,7 @@
     "type": "vtuber",
     "room": 24247740,
     "face": "/bfs/face/e0f14be51021f64e7a944d98fe53727b603ab571.jpg",
-    "sign": "歌势vup，是爱唱歌的女仆喵娘！"
+    "sign": "个猫势vup，是爱唱歌的女仆喵娘！"
   },
   "7074812": {
     "name": "纱幼nya",

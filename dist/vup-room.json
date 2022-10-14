@@ -3908,7 +3908,7 @@
   "106348951": {
     "name": "一色翎Official",
     "type": "vtuber",
-    "room_id": 4442849,
+    "room_id": 0,
     "face": "/bfs/face/10df4adaa2429f6788886854e200bdb413b230b7.jpg"
   },
   "517060084": {
@@ -3927,7 +3927,7 @@
     "name": "一露Lulu",
     "type": "vtuber",
     "room_id": 26007751,
-    "face": "/bfs/face/1664e1f61f46ce1c01bca7da1c3af21f03a27202.jpg"
+    "face": "/bfs/face/07cf7c2eca9d1c17b5e187265b398882d92ad202.jpg"
   },
   "14045966": {
     "name": "一颗有栖Official",
@@ -9308,7 +9308,7 @@
   "1715021814": {
     "name": "奈罗Naro_official",
     "type": "vtuber",
-    "room_id": 22784525,
+    "room_id": 0,
     "face": "/bfs/face/67b71f388fa698338259b3c0132c7e61920747cd.jpg"
   },
   "8256946": {
@@ -10526,7 +10526,7 @@
   "1575790132": {
     "name": "小莔莔子",
     "type": "vtuber",
-    "room_id": 24587207,
+    "room_id": 0,
     "face": "/bfs/face/979218510e8ab904da42b561de4aa95b1cdd50d2.jpg"
   },
   "13740989": {
@@ -10798,6 +10798,12 @@
     "type": "vtuber",
     "room_id": 153580,
     "face": "/bfs/face/72915605691f5eb3cc8468ce0e87dbdaa59b2b86.jpg"
+  },
+  "22089831": {
+    "name": "山奈小师妹",
+    "type": "vtuber",
+    "room_id": 3292300,
+    "face": "/bfs/face/b2d64bd721ec877eb93986c9d94c3a53ca9971f8.jpg"
   },
   "214854": {
     "name": "山崎薰薰",
@@ -12046,6 +12052,12 @@
     "type": "vtuber",
     "room_id": 23224986,
     "face": "/bfs/face/cbc27a2309d898b93949bd5884896d3209c881b1.jpg"
+  },
+  "8093066": {
+    "name": "悠悠子yoyoko",
+    "type": "vtuber",
+    "room_id": 25486532,
+    "face": "/bfs/face/53a96e05533eb89d7148534efeb0e9bf650d0d0f.jpg"
   },
   "1966977602": {
     "name": "悠梦する-女仆咖啡厅",
@@ -16041,7 +16053,7 @@
     "name": "璃月青空",
     "type": "vtuber",
     "room_id": 1397151,
-    "face": "/bfs/face/8dfbe069732e897fc796328df2213e5eb415ae75.jpg"
+    "face": "/bfs/face/10840e31d4432a40e3654c64308b86ec38b98915.jpg"
   },
   "1301635": {
     "name": "椛暗",
@@ -18508,6 +18520,12 @@
     "type": "vtuber",
     "room_id": 22023331,
     "face": "/bfs/face/e7dcf722998f911b9c8f054890c22caa82c35550.jpg"
+  },
+  "13206531": {
+    "name": "狸莎_Channel",
+    "type": "vtuber",
+    "room_id": 7468228,
+    "face": "/bfs/face/dd358dc3dffcf31f3fbd9e0b837fadb736405754.jpg"
   },
   "589185": {
     "name": "CHILDWOLF",
@@ -23315,6 +23333,12 @@
     "room_id": 24816392,
     "face": "/bfs/face/842a7947d83809ef5d524968e6ba6ded0d6d1498.jpg"
   },
+  "82579091": {
+    "name": "苹果R1ngo",
+    "type": "vtuber",
+    "room_id": 3916035,
+    "face": "/bfs/face/190aaf8a85a51620ad62e1b5e93ab2fdc8e7e0b5.jpg"
+  },
   "521287997": {
     "name": "苺病くすりOfficial",
     "type": "vtuber",
@@ -24100,6 +24124,12 @@
     "type": "vtuber",
     "room_id": 440500,
     "face": "/bfs/face/e48d88f2bb7f7b16f42ba77ef796fd49d5e1f48b.jpg"
+  },
+  "1630494154": {
+    "name": "蔓Aoede",
+    "type": "vtuber",
+    "room_id": 24715515,
+    "face": "/bfs/face/05723b2221327ace05fa4e8f82dd5da8a7d919f8.jpg"
   },
   "1920016963": {
     "name": "蔻蔻ここ",
