@@ -4697,12 +4697,6 @@
     "room": 8338616,
     "face": "/bfs/face/27dab0d52ac02908dc52585fb1b10940eaa5721b.jpg"
   },
-  "2565338": {
-    "name": "师音Sin",
-    "type": "vtuber",
-    "room": 23154262,
-    "face": "/bfs/face/68fbbcafac2b139d247875118026e36ef50b5acf.jpg"
-  },
   "432253466": {
     "name": "云茹Ziena-Official",
     "type": "vtuber",
@@ -11074,6 +11068,12 @@
     "type": "vtuber",
     "room": 11436396,
     "face": "/bfs/face/f22379825ff0ce38e4a49b955f2d94d95ed0c54d.jpg"
+  },
+  "2565338": {
+    "name": "师音Sin",
+    "type": "vtuber",
+    "room": 23154262,
+    "face": "/bfs/face/68fbbcafac2b139d247875118026e36ef50b5acf.jpg"
   },
   "447290396": {
     "name": "希亚姐妹-official",

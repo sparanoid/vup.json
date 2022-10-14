@@ -3914,11 +3914,6 @@
     "type": "vtuber",
     "room": 8338616
   },
-  "2565338": {
-    "name": "师音Sin",
-    "type": "vtuber",
-    "room": 23154262
-  },
   "432253466": {
     "name": "云茹Ziena-Official",
     "type": "vtuber",
@@ -9228,6 +9223,11 @@
     "name": "佳茵是个小富婆",
     "type": "vtuber",
     "room": 11436396
+  },
+  "2565338": {
+    "name": "师音Sin",
+    "type": "vtuber",
+    "room": 23154262
   },
   "447290396": {
     "name": "希亚姐妹-official",
