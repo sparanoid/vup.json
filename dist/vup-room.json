@@ -185,6 +185,36 @@
     "room_id": 2781167,
     "face": "/bfs/face/b35342b176f18ca064cc7c7ba624ff0f22f6cdd1.jpg"
   },
+  "1287888117": {
+    "name": "Afaer-Official",
+    "type": "group",
+    "room_id": 0,
+    "face": "/bfs/face/cd2c174dbc6ee7168d1814e7d0ffd65a6162c72a.jpg"
+  },
+  "2086914019": {
+    "name": "Afaer-伊梦Eligo",
+    "type": "vtuber",
+    "room_id": 25277492,
+    "face": "/bfs/face/b79fee17e40400ca18f2c44421c684e695534504.jpg"
+  },
+  "3461569182698067": {
+    "name": "Afaer-吕和今Asota",
+    "type": "vtuber",
+    "room_id": 25921269,
+    "face": "/bfs/face/bdc0c65e21043930d8c08130aaa4b76f0d5a77d2.jpg"
+  },
+  "1259447274": {
+    "name": "Afaer-展麟Finn",
+    "type": "vtuber",
+    "room_id": 25933773,
+    "face": "/bfs/face/4ff32a74c9a939e32a4d4431c65566bb252cf4b6.jpg"
+  },
+  "504822817": {
+    "name": "Afaer-林亚Raenia",
+    "type": "vtuber",
+    "room_id": 25933809,
+    "face": "/bfs/face/1877d5e13713f0fe997558bd93f744912d7f1429.jpg"
+  },
   "144597183": {
     "name": "Akagi搬运",
     "type": "vtuber",
@@ -2944,6 +2974,12 @@
     "type": "vtuber",
     "room_id": 1522963,
     "face": "/bfs/face/d11a6f150c7f7c538aa5b250088ba25eaaedb986.jpg"
+  },
+  "190959309": {
+    "name": "神大人_v",
+    "type": "vtuber",
+    "room_id": 22706788,
+    "face": "/bfs/face/5d2a9f1024ab2a8ab045465d4ce342b4a138ba42.jpg"
   },
   "4882872": {
     "name": "落晓月sekyota",
