@@ -10532,7 +10532,7 @@
   "1575790132": {
     "name": "小莔莔子",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 24587207,
     "face": "/bfs/face/979218510e8ab904da42b561de4aa95b1cdd50d2.jpg"
   },
   "13740989": {
@@ -12422,7 +12422,7 @@
   "1749046": {
     "name": "括号笑叔",
     "type": "vtuber",
-    "room_id": 898463,
+    "room_id": 0,
     "face": "/bfs/face/9dabbf0d2dcb010490c8fd11f6a5d721a36a21fe.jpg"
   },
   "74130542": {
@@ -13299,7 +13299,7 @@
     "name": "星海聆音",
     "type": "vtuber",
     "room_id": 24008276,
-    "face": "/bfs/face/e9c045e2169d87221abf86f6194df2c22651da2c.jpg"
+    "face": "/bfs/face/8a8bc5b211d41ed93ad99f5089884631520d796e.jpg"
   },
   "19080153": {
     "name": "星瀬白羊",
@@ -13752,10 +13752,10 @@
     "face": "/bfs/face/9b572fa15f5008c2e2a60e81fc42dc286fc81407.jpg"
   },
   "189061443": {
-    "name": "叩叩鱼缸",
+    "name": "bilibili",
     "type": "vtuber",
     "room_id": 23376449,
-    "face": "/bfs/face/53decc26bec4f53a5419c40e6401aec8f0fdaadb.jpg"
+    "face": "/images/member/noface.gif"
   },
   "488976992": {
     "name": "春猿火_harusaruhi",
@@ -15189,7 +15189,7 @@
     "name": "柚诺Yono",
     "type": "vtuber",
     "room_id": 315636,
-    "face": "/bfs/face/a181fffdb39b9a2bce7ba352eebb54685922e63a.jpg"
+    "face": "/bfs/face/e55bb8e337c5df51289103819d6802488677fb9d.jpg"
   },
   "6102740": {
     "name": "沁柠Official",
@@ -16059,7 +16059,7 @@
     "name": "璃月青空",
     "type": "vtuber",
     "room_id": 1397151,
-    "face": "/bfs/face/10840e31d4432a40e3654c64308b86ec38b98915.jpg"
+    "face": "/bfs/face/0a17ae923e9c96747995994488ed2f50d6227f85.jpg"
   },
   "1301635": {
     "name": "椛暗",
