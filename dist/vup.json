@@ -314,7 +314,7 @@
   "8718389": {
     "name": "Asakiri深岚",
     "type": "vtuber",
-    "room": 4095214,
+    "room": 0,
     "face": "/bfs/face/174ea94fce0a4148336dbc77d3caefac3e913994.jpg"
   },
   "2592429": {
@@ -978,7 +978,7 @@
     "face": "/bfs/face/4a341ae5136cc8a1b58dfaf9f18d0ef6fe40fa8e.jpg"
   },
   "1609261349": {
-    "name": "零牙Reiga",
+    "name": "非己实名所以换号",
     "type": "vtuber",
     "room": 23699129,
     "face": "/bfs/face/06469112745c2b5c7912752335c6e2afb6266fb1.jpg"
@@ -1808,7 +1808,7 @@
   "383012066": {
     "name": "Project_V_官方",
     "type": "misc",
-    "room": 14623062,
+    "room": 0,
     "face": "/bfs/face/15927866d4e29db065dd67d9186f17ed9e65885c.jpg"
   },
   "486301412": {
@@ -2660,7 +2660,7 @@
   "472712134": {
     "name": "笔笔_BiBiko",
     "type": "vtuber",
-    "room": 0,
+    "room": 21607261,
     "face": "/bfs/face/7a537696d8e72b5a1e81a878ef55378700a2e976.jpg"
   },
   "650592442": {
