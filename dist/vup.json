@@ -4968,10 +4968,10 @@
     "face": "/bfs/face/9c3ed15567090e3f668106c4895c4e878547e4d7.jpg"
   },
   "188596119": {
-    "name": "イド_IDO",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 21277824,
-    "face": "/bfs/face/436b348736184620616a1a0165a534ac82553eec.jpg"
+    "face": "/images/member/noface.gif"
   },
   "2144805585": {
     "name": "伊德琳Edelyn",
@@ -16790,7 +16790,7 @@
   "25913500": {
     "name": "汤兔汤汤",
     "type": "vtuber",
-    "room": 4139861,
+    "room": 0,
     "face": "/bfs/face/38f87c9bfd8f2159bd36060e93ea2c1b2c2beb3b.jpg"
   },
   "674600649": {

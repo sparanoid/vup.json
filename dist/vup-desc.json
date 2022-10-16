@@ -5796,11 +5796,11 @@
     "sign": "一个在莫斯科会讲中俄日英四语的雪豹，进群：763649379 捕捉我~"
   },
   "188596119": {
-    "name": "イド_IDO",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 21277824,
-    "face": "/bfs/face/436b348736184620616a1a0165a534ac82553eec.jpg",
-    "sign": "●《井》里诞生喜欢唱歌的死神●\n   旅人啊，你愿意听我的歌声吗？"
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
   },
   "2144805585": {
     "name": "伊德琳Edelyn",
@@ -19588,7 +19588,7 @@
   "25913500": {
     "name": "汤兔汤汤",
     "type": "vtuber",
-    "room": 4139861,
+    "room": 0,
     "face": "/bfs/face/38f87c9bfd8f2159bd36060e93ea2c1b2c2beb3b.jpg",
     "sign": ""
   },
