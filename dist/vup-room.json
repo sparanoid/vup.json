@@ -3944,7 +3944,7 @@
   "1750726607": {
     "name": "七宫天空Aria",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 24480106,
     "face": "/bfs/face/eef14a1601295da0ed4f093bacd0e8141d9630b6.jpg"
   },
   "661825871": {
@@ -7676,7 +7676,7 @@
   "2766325": {
     "name": "咸香椰汁",
     "type": "vtuber",
-    "room_id": 64751,
+    "room_id": 0,
     "face": "/bfs/face/b8cade5fb70f91519706752b7b203dbacba56bd8.jpg"
   },
   "317470592": {
@@ -12693,7 +12693,7 @@
     "name": "日和HiyorIO_o",
     "type": "vtuber",
     "room_id": 14409049,
-    "face": "/bfs/face/96a6402a3ee603c633d96601a1556340635d0a0e.jpg"
+    "face": "/bfs/face/02c03ddc859f8a88afab762b7604ced38ec69842.jpg"
   },
   "12706482": {
     "name": "日和朝奈",
@@ -13216,6 +13216,12 @@
     "type": "vtuber",
     "room_id": 1603600,
     "face": "/bfs/face/43ef2891d907eadedd5256edff249f935cf0fb71.jpg"
+  },
+  "20722421": {
+    "name": "星泽百合yuri",
+    "type": "vtuber",
+    "room_id": 21479163,
+    "face": "/bfs/face/88d8fb97c21e6325abacd3e2862b5e9169deee56.jpg"
   },
   "111277714": {
     "name": "星流_l_Tracer",
@@ -14066,7 +14072,7 @@
   "1546247673": {
     "name": "月兔suki",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 25412424,
     "face": "/bfs/face/6707e417acc53ebee5463e2df642c50a90ad5f2d.jpg"
   },
   "486618657": {
@@ -22712,7 +22718,7 @@
   "1589833236": {
     "name": "芙瑞free",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 25072336,
     "face": "/bfs/face/e2789c0f87a68c0146f502a12b5b5fda69acd647.jpg"
   },
   "43596222": {
@@ -25839,7 +25845,7 @@
     "name": "铃菟SuzuNo",
     "type": "vtuber",
     "room_id": 236999,
-    "face": "/bfs/face/281a200c04a925c02b56ad98e567632dd0689e34.jpg"
+    "face": "/bfs/face/5693962f36c65430f45f2bf28f09c7440ab555e4.jpg"
   },
   "1432977452": {
     "name": "铃音Milk_Official",
