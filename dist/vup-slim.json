@@ -349,16 +349,6 @@
     "type": "vtuber",
     "room": 1114373
   },
-  "3111606": {
-    "name": "卡罗尔_Carol-Pan",
-    "type": "vtuber",
-    "room": 3475932
-  },
-  "102445": {
-    "name": "链式猫网络科技",
-    "type": "group",
-    "room": 0
-  },
   "508149110": {
     "name": "ChaosLive情报局",
     "type": "group",
@@ -1609,11 +1599,6 @@
     "type": "vtuber",
     "room": 1305231
   },
-  "1998929": {
-    "name": "坏宝Huaib",
-    "type": "vtuber",
-    "room": 31947
-  },
   "106153312": {
     "name": "RInaTA_6",
     "type": "vtuber",
@@ -2009,11 +1994,6 @@
     "type": "vtuber",
     "room": 14935855
   },
-  "518570441": {
-    "name": "VirloProject",
-    "type": "group",
-    "room": 22490654
-  },
   "195719792": {
     "name": "Virtopia_Club",
     "type": "group",
@@ -2083,11 +2063,6 @@
     "name": "Wildfire野火企划",
     "type": "group",
     "room": 25939006
-  },
-  "191225": {
-    "name": "WodkaOfficial",
-    "type": "vtuber",
-    "room": 692829
   },
   "1746277828": {
     "name": "WonIDOLand虚拟社团",
@@ -2283,11 +2258,6 @@
     "name": "woundedwolf",
     "type": "vtuber",
     "room": 7038458
-  },
-  "12127504": {
-    "name": "Elo沙",
-    "type": "vtuber",
-    "room": 2817817
   },
   "627651834": {
     "name": "えもえち",
@@ -4384,11 +4354,6 @@
     "type": "vtuber",
     "room": 22409418
   },
-  "8009456": {
-    "name": "朝日_Asahi",
-    "type": "vtuber",
-    "room": 459074
-  },
   "625220399": {
     "name": "佐仓铃Official",
     "type": "vtuber",
@@ -4433,11 +4398,6 @@
     "name": "佚名ANO_",
     "type": "vtuber",
     "room": 21235263
-  },
-  "4527585": {
-    "name": "佚夜iya",
-    "type": "vtuber",
-    "room": 18158
   },
   "343015985": {
     "name": "TNNTNNThshhsh",
@@ -5159,11 +5119,6 @@
     "type": "vtuber",
     "room": 22290755
   },
-  "62116": {
-    "name": "UmbraHands_KeL",
-    "type": "vtuber",
-    "room": 851624
-  },
   "36677": {
     "name": "凯恩_Cain",
     "type": "vtuber",
@@ -5182,7 +5137,7 @@
   "572274": {
     "name": "分华至夏Channel",
     "type": "vtuber",
-    "room": 0
+    "room": 702258
   },
   "6719006": {
     "name": "Lico莉可",
@@ -5263,11 +5218,6 @@
     "name": "别抢我橘子好嘛QAQ",
     "type": "vtuber",
     "room": 250050
-  },
-  "14182901": {
-    "name": "塔口艺校",
-    "type": "vtuber",
-    "room": 22371112
   },
   "327875807": {
     "name": "剑持刀也搬运组",
@@ -5979,11 +5929,6 @@
     "type": "vtuber",
     "room": 21423289
   },
-  "3215999": {
-    "name": "口无无口无",
-    "type": "vtuber",
-    "room": 50222
-  },
   "2038193": {
     "name": "口狈クリスX口狈椋",
     "type": "vtuber",
@@ -6418,6 +6363,11 @@
     "name": "咲斯卡_Channel",
     "type": "vtuber",
     "room": 2395363
+  },
+  "1828986549": {
+    "name": "咲来希希-Official",
+    "type": "vtuber",
+    "room": 25156871
   },
   "1354255177": {
     "name": "咲花なる",
@@ -8714,6 +8664,11 @@
     "type": "vtuber",
     "room": 22184441
   },
+  "677977564": {
+    "name": "小玉叽在画你喜欢的",
+    "type": "vtuber",
+    "room": 24476940
+  },
   "2315247": {
     "name": "小班长kusa",
     "type": "vtuber",
@@ -10329,11 +10284,6 @@
     "type": "vtuber",
     "room": 24880313
   },
-  "3156227": {
-    "name": "-ZigZag-",
-    "type": "vtuber",
-    "room": 9620567
-  },
   "472352442": {
     "name": "拉莱娅_Channel",
     "type": "vtuber",
@@ -10543,6 +10493,11 @@
     "name": "无名Couture",
     "type": "vtuber",
     "room": 2722428
+  },
+  "13905358": {
+    "name": "无名古人",
+    "type": "vtuber",
+    "room": 282643
   },
   "20875904": {
     "name": "无家可归的流浪鲲鲲",
@@ -11163,11 +11118,6 @@
     "name": "星空凛脂",
     "type": "vtuber",
     "room": 3139544
-  },
-  "40756108": {
-    "name": "桃叽丫",
-    "type": "vtuber",
-    "room": 1258860
   },
   "389696946": {
     "name": "星空琉璃midori",
@@ -12104,6 +12054,11 @@
     "type": "vtuber",
     "room": 664500
   },
+  "1820024161": {
+    "name": "木须tamago",
+    "type": "vtuber",
+    "room": 26092294
+  },
   "6699767": {
     "name": "未未昭",
     "type": "vtuber",
@@ -12208,6 +12163,11 @@
     "name": "机智大灯灯",
     "type": "vtuber",
     "room": 623698
+  },
+  "824967": {
+    "name": "机智的孙工",
+    "type": "vtuber",
+    "room": 395113
   },
   "2424614": {
     "name": "破破破Poi晓",
@@ -12673,11 +12633,6 @@
     "name": "柠狐柃",
     "type": "vtuber",
     "room": 3777439
-  },
-  "107131385": {
-    "name": "柯凛Korin",
-    "type": "vtuber",
-    "room": 13113208
   },
   "522045311": {
     "name": "柯柯Official",
@@ -13148,11 +13103,6 @@
     "name": "梦天璃_Official",
     "type": "vtuber",
     "room": 22398751
-  },
-  "493689042": {
-    "name": "梦姬Official",
-    "type": "vtuber",
-    "room": 0
   },
   "474103425": {
     "name": "梦宫Yoyu_Channel",
@@ -13688,6 +13638,11 @@
     "name": "橙歌歌睡不醒OvO",
     "type": "vtuber",
     "room": 23625060
+  },
+  "1952914799": {
+    "name": "橙络络2070",
+    "type": "vtuber",
+    "room": 25047200
   },
   "9825449": {
     "name": "橙子良夕_Channel",
@@ -14238,6 +14193,11 @@
     "name": "波娜娜Nana",
     "type": "vtuber",
     "room": 22731824
+  },
+  "14427356": {
+    "name": "波子ラムネ",
+    "type": "vtuber",
+    "room": 5241713
   },
   "376831143": {
     "name": "波音BOI",
@@ -15802,7 +15762,7 @@
   "1713770620": {
     "name": "珈诺Kano",
     "type": "vtuber",
-    "room": 24973541
+    "room": 0
   },
   "416231451": {
     "name": "珊瑚_35",
@@ -16289,11 +16249,6 @@
     "type": "vtuber",
     "room": 7768761
   },
-  "518565636": {
-    "name": "深白しろ",
-    "type": "vtuber",
-    "room": 22421773
-  },
   "12247475": {
     "name": "白宫みみ搬运组",
     "type": "vtuber",
@@ -16393,11 +16348,6 @@
     "name": "白水John",
     "type": "vtuber",
     "room": 5775274
-  },
-  "12584299": {
-    "name": "浅白芷",
-    "type": "vtuber",
-    "room": 282677
   },
   "5020601": {
     "name": "想響花花会怎么做",
@@ -17279,11 +17229,6 @@
     "type": "vtuber",
     "room": 22821806
   },
-  "352161758": {
-    "name": "是一w",
-    "type": "vtuber",
-    "room": 12464335
-  },
   "5788217": {
     "name": "秋乌不是啾呜",
     "type": "vtuber",
@@ -17858,11 +17803,6 @@
     "name": "糯米米MOCHIGOME",
     "type": "vtuber",
     "room": 22231558
-  },
-  "477679591": {
-    "name": "梦灯Meito",
-    "type": "vtuber",
-    "room": 22429399
   },
   "1308393": {
     "name": "紅_Kurenai",
@@ -19539,11 +19479,6 @@
     "type": "vtuber",
     "room": 33942
   },
-  "402371301": {
-    "name": "茶木迟_一般通过JK",
-    "type": "vtuber",
-    "room": 21959066
-  },
   "1280313968": {
     "name": "茶泡饭Channel",
     "type": "vtuber",
@@ -19753,11 +19688,6 @@
     "name": "莫新_Official",
     "type": "vtuber",
     "room": 6096505
-  },
-  "947899": {
-    "name": "莫朵拉K-Metor",
-    "type": "vtuber",
-    "room": 50667
   },
   "398655122": {
     "name": "莫熙呐",
@@ -20038,6 +19968,11 @@
     "name": "蒂蒂媞薇_Official",
     "type": "vtuber",
     "room": 21446992
+  },
+  "626405217": {
+    "name": "蒂诺Valentino",
+    "type": "vtuber",
+    "room": 22382334
   },
   "1010318732": {
     "name": "蒲公英_Tannpopo",
@@ -20693,11 +20628,6 @@
     "name": "诺拉Nora_Heitis",
     "type": "vtuber",
     "room": 22550560
-  },
-  "66692456": {
-    "name": "诺莉尔Nolier",
-    "type": "vtuber",
-    "room": 22915135
   },
   "529249": {
     "name": "诺莺Nox",
@@ -21658,11 +21588,6 @@
     "name": "长安唐棠",
     "type": "vtuber",
     "room": 52384
-  },
-  "64836051": {
-    "name": "花暦Yomi",
-    "type": "vtuber",
-    "room": 2443945
   },
   "5462822": {
     "name": "长萌月子",
