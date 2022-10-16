@@ -3798,10 +3798,10 @@
     "face": "/bfs/face/f58d47ee510036f7e2e238a7e6a5988f777f6148.jpg"
   },
   "5683525": {
-    "name": "一口一个灼晚晚",
+    "name": "小幸睡醒啦",
     "type": "vtuber",
     "room": 4336706,
-    "face": "/bfs/face/71ab67709d94dac37af8b1634113cabfc75e741f.jpg"
+    "face": "/bfs/face/f7a2fe4bd267fab108c1eeba149fd27ff1e85433.jpg"
   },
   "21591929": {
     "name": "一只小菟伊",
@@ -5034,7 +5034,7 @@
     "face": "/bfs/face/18b8a23be9ffc40192bfa2d4dd8c3ba5e995032f.jpg"
   },
   "1758083950": {
-    "name": "不喜欢不喜欢的人",
+    "name": "别看了就这样吧",
     "type": "vtuber",
     "room": 24533172,
     "face": "/bfs/face/2df234decf6d0518396e312db4e25ffd7e94dfcc.jpg"
@@ -28160,7 +28160,7 @@
   "5659864": {
     "name": "鹿野灸",
     "type": "vtuber",
-    "room": 2064239,
+    "room": 0,
     "face": "/bfs/face/01ca73f352c00c4aa88066fa626b0ac9e748fb96.jpg"
   },
   "372936": {
