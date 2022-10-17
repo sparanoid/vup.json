@@ -431,12 +431,6 @@
     "room": 21368636,
     "face": "/bfs/face/0b0007a8d121543c91bd98df1cf76c796de63b44.jpg"
   },
-  "670124663": {
-    "name": "Chobits-live",
-    "type": "group",
-    "room": 22939278,
-    "face": "/bfs/face/c0fb7270df9390d7aa89725ddcc1f204c42e6353.jpg"
-  },
   "660912261": {
     "name": "Chofie斐雅",
     "type": "vtuber",
@@ -934,12 +928,6 @@
     "type": "vtuber",
     "room": 1257106,
     "face": "/bfs/face/c4f2d0dc41f240ba502a8b38b565363032c30f9d.jpg"
-  },
-  "1405060701": {
-    "name": "STOP000009",
-    "type": "vtuber",
-    "room": 23146554,
-    "face": "/bfs/face/a07ca033f622d9c55576a69b3c4f3f2c3e8052ab.jpg"
   },
   "634902212": {
     "name": "JohnkoOfficial",
@@ -9029,12 +9017,6 @@
     "room": 0,
     "face": "/bfs/face/52dcf067ebc6a7627018a7388437245a02040153.jpg"
   },
-  "1214419475": {
-    "name": "STOP000004",
-    "type": "vtuber",
-    "room": 23193473,
-    "face": "/bfs/face/a07ca033f622d9c55576a69b3c4f3f2c3e8052ab.jpg"
-  },
   "2058194452": {
     "name": "天狼呜噜噜Official",
     "type": "vtuber",
@@ -9172,6 +9154,12 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/181721f50f2f4d78f886cb2f7731464a0fd63a86.jpg"
+  },
+  "1768511": {
+    "name": "奇纳_Kina",
+    "type": "vtuber",
+    "room": 1239512,
+    "face": "/bfs/face/513184bb6a0644361d7bc75a0a01f62070a8693a.jpg"
   },
   "18796087": {
     "name": "奇露羽",
@@ -12185,12 +12173,6 @@
     "room": 21421141,
     "face": "/bfs/face/1d301abb902de3e65cf8ab8392e5e1eb1c65e626.jpg"
   },
-  "1434788295": {
-    "name": "STOP0000012",
-    "type": "vtuber",
-    "room": 23012235,
-    "face": "/bfs/face/a07ca033f622d9c55576a69b3c4f3f2c3e8052ab.jpg"
-  },
   "349271363": {
     "name": "我不是未丰",
     "type": "vtuber",
@@ -13270,6 +13252,12 @@
     "type": "vtuber",
     "room": 22595967,
     "face": "/bfs/face/0057eda09a4f166566f6d497dbfc7fc299fc98ce.jpg"
+  },
+  "2107426014": {
+    "name": "星熠_Official",
+    "type": "vtuber",
+    "room": 23878687,
+    "face": "/bfs/face/e3eb9464e94c4834fab469a7f71720538c98a99f.jpg"
   },
   "485374": {
     "name": "星猫Hoshineko",
@@ -14375,12 +14363,6 @@
     "room": 21572756,
     "face": "/bfs/face/ae222be8bbe47787bbc502f5d95f62c3bd2661d0.jpg"
   },
-  "1589117610": {
-    "name": "朝海沫霓Moni",
-    "type": "vtuber",
-    "room": 23001181,
-    "face": "/bfs/face/11f1626a6f575ef95b6bd1ae7b5d33098efeded2.jpg"
-  },
   "525545129": {
     "name": "朝雾萤Official",
     "type": "vtuber",
@@ -14860,12 +14842,6 @@
     "type": "vtuber",
     "room": 21622687,
     "face": "/bfs/face/fa8c4798187b3ace3e83b63caf105e8d7db22588.jpg"
-  },
-  "1408050616": {
-    "name": "STOP0000014",
-    "type": "vtuber",
-    "room": 23078584,
-    "face": "/bfs/face/11f1626a6f575ef95b6bd1ae7b5d33098efeded2.jpg"
   },
   "14110514": {
     "name": "林小可Iris",
@@ -21539,12 +21515,6 @@
     "room": 21486526,
     "face": "/bfs/face/8d816b73b329a34286f07133dfccfc6d34e0f4e5.jpg"
   },
-  "1765846847": {
-    "name": "STOP0000018",
-    "type": "vtuber",
-    "room": 23092245,
-    "face": "/bfs/face/11f1626a6f575ef95b6bd1ae7b5d33098efeded2.jpg"
-  },
   "625181413": {
     "name": "結城美知留Official",
     "type": "vtuber",
@@ -26417,12 +26387,6 @@
     "room": 673595,
     "face": "/bfs/face/229de349bda3f98714bde0f4539e0395a14e50e3.jpg"
   },
-  "1731513328": {
-    "name": "STOP0000016",
-    "type": "vtuber",
-    "room": 23035157,
-    "face": "/bfs/face/a07ca033f622d9c55576a69b3c4f3f2c3e8052ab.jpg"
-  },
   "2310068": {
     "name": "雨旋_Yusen",
     "type": "vtuber",
@@ -27322,12 +27286,6 @@
     "type": "vtuber",
     "room": 4755113,
     "face": "/bfs/face/fb9c93aba194e46bcd30cd184f98180237750aea.jpg"
-  },
-  "2044990400": {
-    "name": "STOP0000017",
-    "type": "vtuber",
-    "room": 23067852,
-    "face": "/bfs/face/11f1626a6f575ef95b6bd1ae7b5d33098efeded2.jpg"
   },
   "32922816": {
     "name": "一般路过游戏人小Y",
