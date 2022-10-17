@@ -2801,6 +2801,12 @@
     "room": 5431,
     "face": "/bfs/face/2600657eecab666a6fa8c6910cea13d6c9ccc33e.jpg"
   },
+  "5494366": {
+    "name": "komako-02",
+    "type": "vtuber",
+    "room": 2613705,
+    "face": "/bfs/face/1e5ef39190c1a48ef72329c270e05463a3989470.jpg"
+  },
   "434688068": {
     "name": "kuuri_Vtuber",
     "type": "vtuber",
@@ -15777,7 +15783,7 @@
     "name": "寒烟垂樱墨雨凌",
     "type": "vtuber",
     "room": 54550,
-    "face": "/bfs/face/c4be7f2892ca6324753dbe7e01f54f269048f419.jpg"
+    "face": "/bfs/face/9f4891a181e93d8209a121a8c4a014683b924254.jpg"
   },
   "140378": {
     "name": "梦音茶糯",
