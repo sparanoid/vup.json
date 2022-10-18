@@ -6479,6 +6479,12 @@
     "room_id": 576643,
     "face": "/bfs/face/0ef76692b953bb2f0b681f92262bee1dbcce918c.jpg"
   },
+  "12212502": {
+    "name": "千响_Official",
+    "type": "vtuber",
+    "room_id": 23170704,
+    "face": "/bfs/face/0fd6dab9a8fc86324263fa95aca7e25a011a188d.jpg"
+  },
   "84066005": {
     "name": "千塔_sr",
     "type": "vtuber",
@@ -7222,6 +7228,12 @@
     "type": "vtuber",
     "room_id": 22605333,
     "face": "/bfs/face/ce17fe5d07495c7b5ad0d182a5c42f0f1c4e7923.jpg"
+  },
+  "1431690261": {
+    "name": "叶慈Yeats",
+    "type": "vtuber",
+    "room_id": 25918601,
+    "face": "/bfs/face/206aab75a95f6120216c3e1390af15556f63c7fa.jpg"
   },
   "578235569": {
     "name": "叶晞_停止活动",
