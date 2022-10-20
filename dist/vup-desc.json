@@ -2890,13 +2890,6 @@
     "face": "/bfs/face/f12e48c0a9cfab94dc8efd9c54a24832298f1772.jpg",
     "sign": "报名请移步 vup.link/join 填写问卷！招聘：join@vrp.live 商务合作：bd@vrp.live"
   },
-  "1290778723": {
-    "name": "VirtualConcept",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/ef07ee87c2c8148e6d2e7a38c6d4632b60d61888.jpg",
-    "sign": "VirtualConcept幻想之城，欢迎大家的入住~"
-  },
   "652203744": {
     "name": "綿世たぬOfficial",
     "type": "group",
@@ -8133,13 +8126,6 @@
     "face": "/bfs/face/3a779bf5f8c6524b78d918da0011ca8d673d3411.jpg",
     "sign": "是画师，不定期更新绘画视频，今年不接新稿了不用问了｜爱发电：卡农Canon | 头像：@芝士菠萝饭饭"
   },
-  "4622813": {
-    "name": "卡嘉明kagamin",
-    "type": "vtuber",
-    "room": 4339241,
-    "face": "/bfs/face/170636bd233687aec2fabb89041672017bdef09f.jpg",
-    "sign": "无家可归的皇女（子）.jpg  配音员，直播内容FF14与配音"
-  },
   "1250146883": {
     "name": "卡因Caine",
     "type": "vtuber",
@@ -8204,7 +8190,7 @@
     "sign": "动感光波"
   },
   "1860756890": {
-    "name": "耶__o",
+    "name": "老大来哩",
     "type": "vtuber",
     "room": 23812614,
     "face": "/bfs/face/152cb983f42a59a703c29ee5ff1b86df596f5b6a.jpg",
@@ -12451,6 +12437,13 @@
     "room": 22051513,
     "face": "/bfs/face/7de034ab3876f24fa690c837e4f6ccdb95dddc8f.jpg",
     "sign": "小馬克全球應援號"
+  },
+  "1034537291": {
+    "name": "小骨大魔王",
+    "type": "vtuber",
+    "room": 26106772,
+    "face": "/bfs/face/1c33cb2eeb9e2547951c1fb1e2f22f3c53ddea05.jpg",
+    "sign": ".⋆交出你的灵魂.⋆\n个魔势丨混沌系小恶魔\n魔王城敲门砖：155564051"
   },
   "565227904": {
     "name": "小魔-Chima",
@@ -25380,13 +25373,6 @@
     "room": 21440212,
     "face": "/bfs/face/18635eaf358254ae181f05d1278166be17d74b71.jpg",
     "sign": "hitorino.tv 所属虚拟偶像，红栉茜与麻那的女儿「安隐国王位的继承者」，字幕组：Ocean"
-  },
-  "11635236": {
-    "name": "红莲oGuren",
-    "type": "vtuber",
-    "room": 3233126,
-    "face": "/bfs/face/ddff5f8f2f2dea3af5d890c762dffea694563aed.jpg",
-    "sign": ""
   },
   "2682013": {
     "name": "红被子Akafuton1",

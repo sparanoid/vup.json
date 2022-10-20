@@ -2477,12 +2477,6 @@
     "room_id": 21470454,
     "face": "/bfs/face/f12e48c0a9cfab94dc8efd9c54a24832298f1772.jpg"
   },
-  "1290778723": {
-    "name": "VirtualConcept",
-    "type": "group",
-    "room_id": 0,
-    "face": "/bfs/face/ef07ee87c2c8148e6d2e7a38c6d4632b60d61888.jpg"
-  },
   "652203744": {
     "name": "綿世たぬOfficial",
     "type": "group",
@@ -6971,12 +6965,6 @@
     "room_id": 735709,
     "face": "/bfs/face/3a779bf5f8c6524b78d918da0011ca8d673d3411.jpg"
   },
-  "4622813": {
-    "name": "卡嘉明kagamin",
-    "type": "vtuber",
-    "room_id": 4339241,
-    "face": "/bfs/face/170636bd233687aec2fabb89041672017bdef09f.jpg"
-  },
   "1250146883": {
     "name": "卡因Caine",
     "type": "vtuber",
@@ -7032,7 +7020,7 @@
     "face": "/bfs/face/8c12c2f0778a6fb52548510b3d51ec1cf52aac01.jpg"
   },
   "1860756890": {
-    "name": "耶__o",
+    "name": "老大来哩",
     "type": "vtuber",
     "room_id": 23812614,
     "face": "/bfs/face/152cb983f42a59a703c29ee5ff1b86df596f5b6a.jpg"
@@ -10672,6 +10660,12 @@
     "type": "vtuber",
     "room_id": 22051513,
     "face": "/bfs/face/7de034ab3876f24fa690c837e4f6ccdb95dddc8f.jpg"
+  },
+  "1034537291": {
+    "name": "小骨大魔王",
+    "type": "vtuber",
+    "room_id": 26106772,
+    "face": "/bfs/face/1c33cb2eeb9e2547951c1fb1e2f22f3c53ddea05.jpg"
   },
   "565227904": {
     "name": "小魔-Chima",
@@ -21754,12 +21748,6 @@
     "type": "vtuber",
     "room_id": 21440212,
     "face": "/bfs/face/18635eaf358254ae181f05d1278166be17d74b71.jpg"
-  },
-  "11635236": {
-    "name": "红莲oGuren",
-    "type": "vtuber",
-    "room_id": 3233126,
-    "face": "/bfs/face/ddff5f8f2f2dea3af5d890c762dffea694563aed.jpg"
   },
   "2682013": {
     "name": "红被子Akafuton1",

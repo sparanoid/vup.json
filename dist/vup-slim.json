@@ -2064,11 +2064,6 @@
     "type": "group",
     "room": 21470454
   },
-  "1290778723": {
-    "name": "VirtualConcept",
-    "type": "group",
-    "room": 0
-  },
   "652203744": {
     "name": "綿世たぬOfficial",
     "type": "group",
@@ -5809,11 +5804,6 @@
     "type": "vtuber",
     "room": 735709
   },
-  "4622813": {
-    "name": "卡嘉明kagamin",
-    "type": "vtuber",
-    "room": 4339241
-  },
   "1250146883": {
     "name": "卡因Caine",
     "type": "vtuber",
@@ -5860,7 +5850,7 @@
     "room": 22646395
   },
   "1860756890": {
-    "name": "耶__o",
+    "name": "老大来哩",
     "type": "vtuber",
     "room": 23812614
   },
@@ -8893,6 +8883,11 @@
     "name": "是小馬克捏",
     "type": "vtuber",
     "room": 22051513
+  },
+  "1034537291": {
+    "name": "小骨大魔王",
+    "type": "vtuber",
+    "room": 26106772
   },
   "565227904": {
     "name": "小魔-Chima",
@@ -18128,11 +18123,6 @@
     "name": "莱姆莱特_hitorino",
     "type": "vtuber",
     "room": 21440212
-  },
-  "11635236": {
-    "name": "红莲oGuren",
-    "type": "vtuber",
-    "room": 3233126
   },
   "2682013": {
     "name": "红被子Akafuton1",
