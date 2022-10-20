@@ -179,6 +179,11 @@
     "type": "vtuber",
     "room": 25933809
   },
+  "1128766424": {
+    "name": "Aia的天国忏悔室",
+    "type": "vtuber",
+    "room": 25592415
+  },
   "144597183": {
     "name": "Akagi搬运",
     "type": "vtuber",
@@ -529,6 +534,11 @@
     "type": "vtuber",
     "room": 21593337
   },
+  "1927387840": {
+    "name": "EVL-研究所",
+    "type": "vtuber",
+    "room": 0
+  },
   "94896660": {
     "name": "エイレーン艾琳",
     "type": "vtuber",
@@ -549,6 +559,11 @@
     "type": "vtuber",
     "room": 73168
   },
+  "345800862": {
+    "name": "Elira的龙之宝库",
+    "type": "vtuber",
+    "room": 23121916
+  },
   "17977334": {
     "name": "ElskaAsh",
     "type": "vtuber",
@@ -558,6 +573,11 @@
     "name": "EMINA录播组",
     "type": "group",
     "room": 24566580
+  },
+  "489306359": {
+    "name": "Enna的天堂唱诗班",
+    "type": "vtuber",
+    "room": 23690697
   },
   "696245487": {
     "name": "EraVerses",
@@ -613,6 +633,11 @@
     "name": "海霧うみぎり",
     "type": "vtuber",
     "room": 22152978
+  },
+  "1292051980": {
+    "name": "Finana的珊瑚礁海",
+    "type": "vtuber",
+    "room": 23164567
   },
   "15147602": {
     "name": "Fs疯子杰",
@@ -1039,6 +1064,11 @@
     "type": "vtuber",
     "room": 25977227
   },
+  "13743308": {
+    "name": "Maria的玩具后宫",
+    "type": "vtuber",
+    "room": 25576078
+  },
   "455888811": {
     "name": "MayaPutri搬运组",
     "type": "vtuber",
@@ -1093,6 +1123,11 @@
     "name": "MikoSix_账号已停用",
     "type": "vtuber",
     "room": 101797
+  },
+  "1841441900": {
+    "name": "Millie的地狱搏击馆",
+    "type": "vtuber",
+    "room": 0
   },
   "1172195900": {
     "name": "Minerva_Laurent",
@@ -1294,6 +1329,11 @@
     "type": "vtuber",
     "room": 24872476
   },
+  "318463212": {
+    "name": "Nina的空之御守",
+    "type": "vtuber",
+    "room": 23674341
+  },
   "434662713": {
     "name": "NoWorld_Official",
     "type": "vtuber",
@@ -1429,6 +1469,16 @@
     "type": "vtuber",
     "room": 0
   },
+  "1004638374": {
+    "name": "Petra的寒霜之海",
+    "type": "vtuber",
+    "room": 23327784
+  },
+  "190514": {
+    "name": "Petra的极地考察队",
+    "type": "vtuber",
+    "room": 5872535
+  },
   "626830": {
     "name": "NicaNorNiva",
     "type": "vtuber",
@@ -1463,6 +1513,11 @@
     "name": "Pomelo安妮",
     "type": "vtuber",
     "room": 438063
+  },
+  "434103559": {
+    "name": "Pomu的妖精王国",
+    "type": "vtuber",
+    "room": 25885593
   },
   "1399272173": {
     "name": "PorcelainMaid",
@@ -1579,6 +1634,11 @@
     "type": "vtuber",
     "room": 21976867
   },
+  "5308042": {
+    "name": "Reimu的地灵殿",
+    "type": "vtuber",
+    "room": 0
+  },
   "505638272": {
     "name": "Ren_Channel",
     "type": "vtuber",
@@ -1608,6 +1668,11 @@
     "name": "shugen",
     "type": "vtuber",
     "room": 912226
+  },
+  "77050518": {
+    "name": "Rosemi的玫瑰花园",
+    "type": "vtuber",
+    "room": 22008216
   },
   "516543529": {
     "name": "Royayaho",
@@ -1698,6 +1763,11 @@
     "name": "Seikyuu-VA",
     "type": "vtuber",
     "room": 783661
+  },
+  "324310598": {
+    "name": "Selen的月光宝盒",
+    "type": "vtuber",
+    "room": 23311450
   },
   "351782431": {
     "name": "塞弥娅Semia",
@@ -2448,6 +2518,11 @@
     "name": "stage1st宅社区",
     "type": "vtuber",
     "room": 1522963
+  },
+  "3461571550382871": {
+    "name": "sana紗那",
+    "type": "vtuber",
+    "room": 26050461
   },
   "190959309": {
     "name": "神大人_v",
@@ -8483,6 +8558,11 @@
     "name": "小喵唧Official",
     "type": "vtuber",
     "room": 14963868
+  },
+  "25852539": {
+    "name": "小夏夏儿",
+    "type": "vtuber",
+    "room": 516281
   },
   "2004980155": {
     "name": "小夜子Sayoko_",
@@ -14679,6 +14759,11 @@
     "type": "vtuber",
     "room": 21391318
   },
+  "187907182": {
+    "name": "渔一桃",
+    "type": "vtuber",
+    "room": 25813575
+  },
   "5331818": {
     "name": "雪雪不是饼干猫",
     "type": "vtuber",
@@ -15868,6 +15953,11 @@
     "name": "琥珀-虚颜",
     "type": "vtuber",
     "room": 4632617
+  },
+  "552080": {
+    "name": "琦Aki",
+    "type": "vtuber",
+    "room": 667523
   },
   "7899626": {
     "name": "HyouKoki",
@@ -19944,6 +20034,11 @@
     "type": "vtuber",
     "room": 22857429
   },
+  "2006314323": {
+    "name": "葵Shiro_Official",
+    "type": "vtuber",
+    "room": 25881219
+  },
   "9216953": {
     "name": "葵三三Haku",
     "type": "vtuber",
@@ -20974,6 +21069,11 @@
     "type": "vtuber",
     "room": 7111251
   },
+  "2847434": {
+    "name": "软软今天摆烂了吗",
+    "type": "vtuber",
+    "room": 10339192
+  },
   "586880203": {
     "name": "轰京子Official",
     "type": "vtuber",
@@ -21498,6 +21598,11 @@
     "name": "铃原露露_Official",
     "type": "vtuber",
     "room": 22470215
+  },
+  "2129498611": {
+    "name": "铃圆Roki",
+    "type": "vtuber",
+    "room": 26155833
   },
   "321819314": {
     "name": "铃屋灰尘_公式",

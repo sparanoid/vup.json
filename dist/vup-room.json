@@ -215,6 +215,12 @@
     "room_id": 25933809,
     "face": "/bfs/face/1877d5e13713f0fe997558bd93f744912d7f1429.jpg"
   },
+  "1128766424": {
+    "name": "Aia的天国忏悔室",
+    "type": "vtuber",
+    "room_id": 25592415,
+    "face": "/bfs/face/310420081a17bb6222352f6d316d12614c511495.jpg"
+  },
   "144597183": {
     "name": "Akagi搬运",
     "type": "vtuber",
@@ -635,6 +641,12 @@
     "room_id": 21593337,
     "face": "/bfs/face/40ed1faa6bfaac6229b5f6f12e92469432529218.jpg"
   },
+  "1927387840": {
+    "name": "EVL-研究所",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/e2490f0061f383bb79fff60b082f96355ab75c70.jpg"
+  },
   "94896660": {
     "name": "エイレーン艾琳",
     "type": "vtuber",
@@ -659,6 +671,12 @@
     "room_id": 73168,
     "face": "/bfs/face/8848841bce429ce72fb354e428a4a837a27b38fa.jpg"
   },
+  "345800862": {
+    "name": "Elira的龙之宝库",
+    "type": "vtuber",
+    "room_id": 23121916,
+    "face": "/bfs/face/3b90f407d175815fc47cf15cd3b7794904aa6a6c.jpg"
+  },
   "17977334": {
     "name": "ElskaAsh",
     "type": "vtuber",
@@ -670,6 +688,12 @@
     "type": "group",
     "room_id": 24566580,
     "face": "/bfs/face/abc2bab28d70a140671c2fe5873ac15567b129a2.jpg"
+  },
+  "489306359": {
+    "name": "Enna的天堂唱诗班",
+    "type": "vtuber",
+    "room_id": 23690697,
+    "face": "/bfs/face/6e23737f2e00654e59183faad3dc6575d9a3ecdf.jpg"
   },
   "696245487": {
     "name": "EraVerses",
@@ -736,6 +760,12 @@
     "type": "vtuber",
     "room_id": 22152978,
     "face": "/bfs/face/e8bf0fc8bd53c99f50169b8dbfb4f331723b3474.jpg"
+  },
+  "1292051980": {
+    "name": "Finana的珊瑚礁海",
+    "type": "vtuber",
+    "room_id": 23164567,
+    "face": "/bfs/face/91214fd4cbd9a378b7c80808690b84c28440ce39.jpg"
   },
   "15147602": {
     "name": "Fs疯子杰",
@@ -1247,6 +1277,12 @@
     "room_id": 25977227,
     "face": "/bfs/face/2a2fc55785149f08a6e73215209b76cb049d50fc.jpg"
   },
+  "13743308": {
+    "name": "Maria的玩具后宫",
+    "type": "vtuber",
+    "room_id": 25576078,
+    "face": "/bfs/face/21772639c8240e42e89209908363bbb54b24dd94.jpg"
+  },
   "455888811": {
     "name": "MayaPutri搬运组",
     "type": "vtuber",
@@ -1312,6 +1348,12 @@
     "type": "vtuber",
     "room_id": 101797,
     "face": "/bfs/face/adb8360e4eedeb5efa34017898b1fc23fd90c754.jpg"
+  },
+  "1841441900": {
+    "name": "Millie的地狱搏击馆",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/b7c22759bbb8e7c386cadb82feeee5d9b799a7a2.jpg"
   },
   "1172195900": {
     "name": "Minerva_Laurent",
@@ -1553,6 +1595,12 @@
     "room_id": 24872476,
     "face": "/bfs/face/0072fe0281881766b6fbff8d97d6e799fe919c4a.jpg"
   },
+  "318463212": {
+    "name": "Nina的空之御守",
+    "type": "vtuber",
+    "room_id": 23674341,
+    "face": "/bfs/face/2aaae7dcee1cd85de628079ec7958a1a7143a10c.jpg"
+  },
   "434662713": {
     "name": "NoWorld_Official",
     "type": "vtuber",
@@ -1715,6 +1763,18 @@
     "room_id": 0,
     "face": "/bfs/face/6161ebeb8720f0c79885babe68c07b39d8bf0bc4.jpg"
   },
+  "1004638374": {
+    "name": "Petra的寒霜之海",
+    "type": "vtuber",
+    "room_id": 23327784,
+    "face": "/bfs/face/29ac1147becf6f88d5f31273481eb6e7efa7127e.jpg"
+  },
+  "190514": {
+    "name": "Petra的极地考察队",
+    "type": "vtuber",
+    "room_id": 5872535,
+    "face": "/bfs/face/983918edccdaaf3f8b547234f902ea9086904a21.jpg"
+  },
   "626830": {
     "name": "NicaNorNiva",
     "type": "vtuber",
@@ -1756,6 +1816,12 @@
     "type": "vtuber",
     "room_id": 438063,
     "face": "/bfs/face/72f12a893a0536c83c533278f9371577d60eef02.jpg"
+  },
+  "434103559": {
+    "name": "Pomu的妖精王国",
+    "type": "vtuber",
+    "room_id": 25885593,
+    "face": "/bfs/face/105e8b46acf0b8f00ffe4670a657f476a3897de6.jpg"
   },
   "1399272173": {
     "name": "PorcelainMaid",
@@ -1895,6 +1961,12 @@
     "room_id": 21976867,
     "face": "/bfs/face/65460e3bbe8cbdd30d00ccdc224378b5a68dffd2.jpg"
   },
+  "5308042": {
+    "name": "Reimu的地灵殿",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/5c9380ab56f06544551940f6edf34d5051df3067.jpg"
+  },
   "505638272": {
     "name": "Ren_Channel",
     "type": "vtuber",
@@ -1930,6 +2002,12 @@
     "type": "vtuber",
     "room_id": 912226,
     "face": "/bfs/face/c14360f12cf183287d8c0562ced414dddec39b87.png"
+  },
+  "77050518": {
+    "name": "Rosemi的玫瑰花园",
+    "type": "vtuber",
+    "room_id": 22008216,
+    "face": "/bfs/face/501576eb386edc33a56ddd7612011efead01be6c.jpg"
   },
   "516543529": {
     "name": "Royayaho",
@@ -2038,6 +2116,12 @@
     "type": "vtuber",
     "room_id": 783661,
     "face": "/bfs/face/cff6b8dab77809288184084df24da78fa6208d6c.jpg"
+  },
+  "324310598": {
+    "name": "Selen的月光宝盒",
+    "type": "vtuber",
+    "room_id": 23311450,
+    "face": "/bfs/face/9f95cb17cbe614d1456053f30eeb3108bbac333d.jpg"
   },
   "351782431": {
     "name": "塞弥娅Semia",
@@ -2938,6 +3022,12 @@
     "type": "vtuber",
     "room_id": 1522963,
     "face": "/bfs/face/d11a6f150c7f7c538aa5b250088ba25eaaedb986.jpg"
+  },
+  "3461571550382871": {
+    "name": "sana紗那",
+    "type": "vtuber",
+    "room_id": 26050461,
+    "face": "/bfs/face/2839f03ef597efec7c85aaaa7b8f645b4d044280.jpg"
   },
   "190959309": {
     "name": "神大人_v",
@@ -5529,7 +5619,7 @@
     "name": "兎奇Toki",
     "type": "vtuber",
     "room_id": 25095587,
-    "face": "/bfs/face/4fcb36e1e0b2655dc65d6675ad336dd65105267b.jpg"
+    "face": "/bfs/face/5aa7e1ca3f694048f7a3f4e7f3c5e62d0ad46193.jpg"
   },
   "2327673": {
     "name": "兎嵐",
@@ -10180,6 +10270,12 @@
     "type": "vtuber",
     "room_id": 14963868,
     "face": "/bfs/face/e3007b4314a9e816e3d1e966cf6f57fccb6012b1.jpg"
+  },
+  "25852539": {
+    "name": "小夏夏儿",
+    "type": "vtuber",
+    "room_id": 516281,
+    "face": "/bfs/face/b79ed69685f35c5d107b82c48b0c338d0b430b5b.jpg"
   },
   "2004980155": {
     "name": "小夜子Sayoko_",
@@ -17615,6 +17711,12 @@
     "room_id": 21391318,
     "face": "/bfs/face/7967cc0a7f43100e60c8743496d988cd6e941d71.jpg"
   },
+  "187907182": {
+    "name": "渔一桃",
+    "type": "vtuber",
+    "room_id": 25813575,
+    "face": "/bfs/face/945c2541e303968c48aed18314e90f7651552456.jpg"
+  },
   "5331818": {
     "name": "雪雪不是饼干猫",
     "type": "vtuber",
@@ -19042,6 +19144,12 @@
     "type": "vtuber",
     "room_id": 4632617,
     "face": "/bfs/face/4d2d046beeb2877e2787615753975596b141f04f.jpg"
+  },
+  "552080": {
+    "name": "琦Aki",
+    "type": "vtuber",
+    "room_id": 667523,
+    "face": "/bfs/face/c72e6e23fcb25adfe8c4de5a698e39b89475d94f.jpg"
   },
   "7899626": {
     "name": "HyouKoki",
@@ -23933,6 +24041,12 @@
     "room_id": 22857429,
     "face": "/bfs/face/5d7f9dbae154469429de7849900907e80d7ae3ed.jpg"
   },
+  "2006314323": {
+    "name": "葵Shiro_Official",
+    "type": "vtuber",
+    "room_id": 25881219,
+    "face": "/bfs/face/9276ea5f39864afe791d55341ad2dd780d55d687.jpg"
+  },
   "9216953": {
     "name": "葵三三Haku",
     "type": "vtuber",
@@ -25169,6 +25283,12 @@
     "room_id": 7111251,
     "face": "/bfs/face/d14cee95c59875129585b2cce7c475ff6b4eb6fd.jpg"
   },
+  "2847434": {
+    "name": "软软今天摆烂了吗",
+    "type": "vtuber",
+    "room_id": 10339192,
+    "face": "/bfs/face/0e5f2d7b0e1ddfb468b8a9f0896bb863f48b2b88.jpg"
+  },
   "586880203": {
     "name": "轰京子Official",
     "type": "vtuber",
@@ -25798,6 +25918,12 @@
     "type": "vtuber",
     "room_id": 22470215,
     "face": "/bfs/face/a3882f427e6f5313a34faccb023f95bb9589eb52.jpg"
+  },
+  "2129498611": {
+    "name": "铃圆Roki",
+    "type": "vtuber",
+    "room_id": 26155833,
+    "face": "/bfs/face/d5ce70cbbec1c2f32d20dba51b4108a9f801034a.jpg"
   },
   "321819314": {
     "name": "铃屋灰尘_公式",
