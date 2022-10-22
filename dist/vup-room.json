@@ -5216,7 +5216,7 @@
   "401166457": {
     "name": "伏见ガク搬运组",
     "type": "vtuber",
-    "room_id": 22379387,
+    "room_id": 0,
     "face": "/bfs/face/10b02cfffed96dbde6e5df5dddd358f6db0c0fb3.jpg"
   },
   "1117443406": {
@@ -9248,7 +9248,7 @@
   "238742575": {
     "name": "太皮鹿Channel",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 21516855,
     "face": "/bfs/face/3be4f6145dce89845251ce8ac102be34f9d81730.jpg"
   },
   "485407858": {
@@ -21930,7 +21930,7 @@
     "face": "/bfs/face/7f1fe0d7c170f206b777e128ae90544eea671a1a.jpg"
   },
   "2930726": {
-    "name": "七绘音",
+    "name": "鸢尾Channel",
     "type": "vtuber",
     "room_id": 8788424,
     "face": "/bfs/face/02bbfdc05bbd5aae37344c668bfbbe832845ff79.jpg"
