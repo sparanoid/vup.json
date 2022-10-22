@@ -5097,7 +5097,7 @@
     "name": "伊橙Yzumi",
     "type": "vtuber",
     "room": 1463398,
-    "face": "/bfs/face/d671dc35caf2d8950771b6e208c57c360992bf45.jpg"
+    "face": "/bfs/face/e50ab4301f934cf57d20b2621a34b2dc7b86c5a6.jpg"
   },
   "275529510": {
     "name": "月白色倒影出的白描",
@@ -10529,6 +10529,12 @@
     "room": 21697918,
     "face": "/bfs/face/f63093bc32327fe79faf75570ef405c60b40941a.jpg"
   },
+  "662172": {
+    "name": "小紫花小XIGA",
+    "type": "vtuber",
+    "room": 271115,
+    "face": "/bfs/face/21333de49f7159a5fc3e002a0380efa42170705a.jpg"
+  },
   "44237258": {
     "name": "小紬先生",
     "type": "vtuber",
@@ -11709,7 +11715,7 @@
     "name": "影奈音绪Neo",
     "type": "vtuber",
     "room": 207869,
-    "face": "/bfs/face/2c0d0260647a82b6965309b214fc182631661067.jpg"
+    "face": "/bfs/face/705e6080cd41247f31729a69611c41c0e6e231d7.jpg"
   },
   "40836269": {
     "name": "影森一輝_Kazuki",
@@ -18453,7 +18459,7 @@
     "name": "犽犽是个小憨憨",
     "type": "vtuber",
     "room": 6171178,
-    "face": "/bfs/face/739c42663c498d8be05a01cd425dd885d5ac7bb6.jpg"
+    "face": "/bfs/face/f5a0e3481adf8d6de556bac4c6be2fe3bd3f2e7d.jpg"
   },
   "194524621": {
     "name": "D乐D乐",
@@ -18898,6 +18904,12 @@
     "type": "vtuber",
     "room": 5547148,
     "face": "/bfs/face/f9f97de6860bcadc66af3dbe47429dd66686d790.jpg"
+  },
+  "14731787": {
+    "name": "玉斑snake",
+    "type": "vtuber",
+    "room": 7299613,
+    "face": "/bfs/face/e0ac33fd08f637790f98d9dca3e594ae7e64c410.jpg"
   },
   "1062342323": {
     "name": "玉白_official",
@@ -22042,6 +22054,12 @@
     "type": "vtuber",
     "room": 1508300,
     "face": "/bfs/face/bd6a4778990fd820fc5660815e673495512f7536.jpg"
+  },
+  "31897767": {
+    "name": "维柯Volck",
+    "type": "vtuber",
+    "room": 25207795,
+    "face": "/bfs/face/b674459731598885708641f0317580a123af8e9d.jpg"
   },
   "1055945681": {
     "name": "维涅塔Vinetta",
