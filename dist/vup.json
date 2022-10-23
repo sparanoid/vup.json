@@ -16793,6 +16793,12 @@
     "room": 24744981,
     "face": "/bfs/face/46afef015aa00b66cd423a1714a07ae82cdc7a3b.jpg"
   },
+  "498188835": {
+    "name": "汐尔Sier",
+    "type": "vtuber",
+    "room": 25367871,
+    "face": "/bfs/face/8ee4c412dadd4a1dbd1a1917d002390c75988506.jpg"
+  },
   "2171550": {
     "name": "汐月Shiotsuki",
     "type": "vtuber",
@@ -25390,6 +25396,12 @@
     "type": "vtuber",
     "room": 22865391,
     "face": "/bfs/face/c6cf277c226ea73f10aa60f7163752b3e73fd4db.jpg"
+  },
+  "1962374457": {
+    "name": "达妮娅dani",
+    "type": "vtuber",
+    "room": 26012405,
+    "face": "/bfs/face/c12a2bc1381d0ced39a050c24a2b7bea182562fc.jpg"
   },
   "2067739276": {
     "name": "达莲Darlen",
