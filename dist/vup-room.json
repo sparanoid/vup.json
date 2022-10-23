@@ -1065,7 +1065,7 @@
     "name": "Kiroko96",
     "type": "vtuber",
     "room_id": 471368,
-    "face": "/bfs/face/adc339ca5e14bf64dc562d93dba81599347cd084.jpg"
+    "face": "/bfs/face/1239af06df7dd6a7b16c55bae4349135d8319784.jpg"
   },
   "315298331": {
     "name": "KolIcK",
@@ -12716,7 +12716,7 @@
   "249684302": {
     "name": "无有白_",
     "type": "vtuber",
-    "room_id": 6696425,
+    "room_id": 0,
     "face": "/bfs/face/9b79b6effd6787fded527c6e7cecc98fb0a2bbe4.jpg"
   },
   "392972956": {
@@ -14900,7 +14900,7 @@
   "37294141": {
     "name": "松岛小黛_吴晓黛",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 3429223,
     "face": "/bfs/face/42c8759e2572420a9fcf5956bb31e1dfe8fef350.jpg"
   },
   "474013846": {
@@ -26958,10 +26958,10 @@
     "face": "/bfs/face/79f3935eb865127dda977f9cf1b80bf0cb94f947.jpg"
   },
   "4211156": {
-    "name": "bilibili",
+    "name": "霍柴-玉铉",
     "type": "vtuber",
     "room_id": 411465,
-    "face": "/images/member/noface.gif"
+    "face": "/bfs/face/e1906b77c5682c1679865a417fc35d46a7edb928.jpg"
   },
   "504735844": {
     "name": "霍财仁Official",
