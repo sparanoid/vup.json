@@ -443,12 +443,6 @@
     "room_id": 22452242,
     "face": "/bfs/face/4e80d4939ee527907db588ffe04a7dfd2f7449a1.jpg"
   },
-  "226743527": {
-    "name": "Citrus柑橘社",
-    "type": "group",
-    "room_id": 12527124,
-    "face": "/bfs/face/90a8464d33abe714d634af9f3d39391c730d5317.jpg"
-  },
   "12272233": {
     "name": "Cloubee_cb",
     "type": "vtuber",
@@ -466,18 +460,6 @@
     "type": "vtuber",
     "room_id": 21592733,
     "face": "/bfs/face/43cc812cbffde5b8f33421da39b6b31f7944957b.jpg"
-  },
-  "8979548": {
-    "name": "code378-虚拟社团",
-    "type": "group",
-    "room_id": 338526,
-    "face": "/bfs/face/131a7003ebfde95f78695b10679be10d82411512.jpg"
-  },
-  "415295159": {
-    "name": "365453213245",
-    "type": "group",
-    "room_id": 21739989,
-    "face": "/bfs/face/78000687932182cad181c1d66e0af73548e0bffa.jpg"
   },
   "1265574047": {
     "name": "ColorLink",
@@ -4212,7 +4194,7 @@
     "face": "/bfs/face/b96fa1b059edb128433f874792c2a3536d63dd2d.jpg"
   },
   "13408419": {
-    "name": "睡不醒的上杉雯",
+    "name": "天狼座上杉雯帝王形态",
     "type": "vtuber",
     "room_id": 398938,
     "face": "/bfs/face/bb4c4bb30264c5a59248a7778b8e66799ee659a8.jpg"
@@ -7013,12 +6995,6 @@
     "room_id": 25347962,
     "face": "/bfs/face/28a630a43b75332a59349012fbbd0d9d12dda16f.jpg"
   },
-  "630785320": {
-    "name": "阿吧啊吧吧菇",
-    "type": "vtuber",
-    "room_id": 22646395,
-    "face": "/bfs/face/8c12c2f0778a6fb52548510b3d51ec1cf52aac01.jpg"
-  },
   "1860756890": {
     "name": "老大来哩",
     "type": "vtuber",
@@ -7336,6 +7312,12 @@
     "type": "vtuber",
     "room_id": 22394582,
     "face": "/bfs/face/90d541e533549b9ce7d55e62941ef00986e49bde.jpg"
+  },
+  "3461578781362279": {
+    "name": "河黎有片小叶子",
+    "type": "vtuber",
+    "room_id": 26213288,
+    "face": "/bfs/face/3763a568f9587935ea58c93169f6d3fb7c04d9c6.jpg"
   },
   "4589556": {
     "name": "叶的空投物资箱",
@@ -8963,12 +8945,6 @@
     "room_id": 22087280,
     "face": "/bfs/face/055d6b591b0cf0fffa6531a0b1c981908beaac27.jpg"
   },
-  "3716098": {
-    "name": "已经毕业请取关",
-    "type": "vtuber",
-    "room_id": 22424371,
-    "face": "/bfs/face/9dca028043ae0ae56e6d8cb698c9d3afe0e09bc1.jpg"
-  },
   "1404424740": {
     "name": "天使猫Parfaitty",
     "type": "vtuber",
@@ -9040,6 +9016,12 @@
     "type": "vtuber",
     "room_id": 415264,
     "face": "/bfs/face/47b5daf5fe8791218420375108fba20e7bd31cee.jpg"
+  },
+  "1193621985": {
+    "name": "天岚九歌w",
+    "type": "vtuber",
+    "room_id": 25904954,
+    "face": "/bfs/face/f40d0aee4bd742e46503b5980f9b467377b33a71.jpg"
   },
   "502200408": {
     "name": "天川舞MaiMai",
@@ -15249,7 +15231,7 @@
     "name": "沁柠Official",
     "type": "vtuber",
     "room_id": 10346218,
-    "face": "/bfs/face/23cecf679846c44392115951a9d72688d345aabf.jpg"
+    "face": "/bfs/face/138828398c6540960a4cd8d90f2dfe936f28abb5.jpg"
   },
   "629184597": {
     "name": "柠汪汪",
@@ -17556,10 +17538,10 @@
     "face": "/bfs/face/b22a085f22ff52c3d6e8b6ddee3b15175a9e7dde.jpg"
   },
   "5970661": {
-    "name": "涼川越Etsuko",
+    "name": "异界杂货铺_Project",
     "type": "vtuber",
     "room_id": 93567,
-    "face": "/bfs/face/771bf7a70e26e57b73e073a35662fb38f5919dcf.jpg"
+    "face": "/bfs/face/f02199444501e58547baa2836f393f3958d6dd5f.jpg"
   },
   "3810286": {
     "name": "淇淋_702",
@@ -23541,7 +23523,7 @@
     "name": "荆棘鸟-纳星Nothing",
     "type": "vtuber",
     "room_id": 66858,
-    "face": "/bfs/face/9fcefeed2acd686d3443cc09a9047ee1fdbcc70c.jpg"
+    "face": "/bfs/face/75a1ada83a612d5ef7130fc10424567b9de9edc9.jpg"
   },
   "934940": {
     "name": "草履虫para",

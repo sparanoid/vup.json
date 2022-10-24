@@ -369,11 +369,6 @@
     "type": "vtuber",
     "room": 22452242
   },
-  "226743527": {
-    "name": "Citrus柑橘社",
-    "type": "group",
-    "room": 12527124
-  },
   "12272233": {
     "name": "Cloubee_cb",
     "type": "vtuber",
@@ -388,16 +383,6 @@
     "name": "CocoTsuki公式",
     "type": "vtuber",
     "room": 21592733
-  },
-  "8979548": {
-    "name": "code378-虚拟社团",
-    "type": "group",
-    "room": 338526
-  },
-  "415295159": {
-    "name": "365453213245",
-    "type": "group",
-    "room": 21739989
   },
   "1265574047": {
     "name": "ColorLink",
@@ -3510,7 +3495,7 @@
     "room": 11875184
   },
   "13408419": {
-    "name": "睡不醒的上杉雯",
+    "name": "天狼座上杉雯帝王形态",
     "type": "vtuber",
     "room": 398938
   },
@@ -5844,11 +5829,6 @@
     "type": "vtuber",
     "room": 25347962
   },
-  "630785320": {
-    "name": "阿吧啊吧吧菇",
-    "type": "vtuber",
-    "room": 22646395
-  },
   "1860756890": {
     "name": "老大来哩",
     "type": "vtuber",
@@ -6113,6 +6093,11 @@
     "name": "叶月米柚_Channel",
     "type": "vtuber",
     "room": 22394582
+  },
+  "3461578781362279": {
+    "name": "河黎有片小叶子",
+    "type": "vtuber",
+    "room": 26213288
   },
   "4589556": {
     "name": "叶的空投物资箱",
@@ -7469,11 +7454,6 @@
     "type": "vtuber",
     "room": 22087280
   },
-  "3716098": {
-    "name": "已经毕业请取关",
-    "type": "vtuber",
-    "room": 22424371
-  },
   "1404424740": {
     "name": "天使猫Parfaitty",
     "type": "vtuber",
@@ -7533,6 +7513,11 @@
     "name": "千坂雪樱",
     "type": "vtuber",
     "room": 415264
+  },
+  "1193621985": {
+    "name": "天岚九歌w",
+    "type": "vtuber",
+    "room": 25904954
   },
   "502200408": {
     "name": "天川舞MaiMai",
@@ -14630,7 +14615,7 @@
     "room": 59563
   },
   "5970661": {
-    "name": "涼川越Etsuko",
+    "name": "异界杂货铺_Project",
     "type": "vtuber",
     "room": 93567
   },
