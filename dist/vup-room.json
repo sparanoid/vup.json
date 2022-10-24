@@ -7875,7 +7875,7 @@
     "name": "啾铃Jolin",
     "type": "vtuber",
     "room_id": 23993070,
-    "face": "/bfs/face/15b4fdcf26d1bb0285612096683b41066aef5a8a.jpg"
+    "face": "/bfs/face/d5687449a1f0b71866daf7110ec253ca6c4978cc.jpg"
   },
   "19461407": {
     "name": "罗蒂不是内鬼",
@@ -10385,6 +10385,12 @@
     "room_id": 1198399,
     "face": "/bfs/face/2b39fea3f49c6456e6d50beb411decdb3e48921a.jpg"
   },
+  "3866641": {
+    "name": "小毛ww",
+    "type": "vtuber",
+    "room_id": 4101960,
+    "face": "/bfs/face/2b49f683d29007f62526b708b3cf8e353156fb9b.jpg"
+  },
   "4071581": {
     "name": "小毛拔了个火罐",
     "type": "vtuber",
@@ -11026,12 +11032,6 @@
     "type": "vtuber",
     "room_id": 0,
     "face": "/bfs/face/ca194bf07dafc791531b578b24aeb7f1ce4ebf03.jpg"
-  },
-  "534982695": {
-    "name": "巴克_Buck",
-    "type": "vtuber",
-    "room_id": 22131380,
-    "face": "/bfs/face/aab1d097f7136cf21d67911360f0a7b47e7529dd.jpg"
   },
   "12528239": {
     "name": "Patoriya",
@@ -13559,12 +13559,6 @@
     "room_id": 22285302,
     "face": "/bfs/face/6d8ac8b0159c9e97eafc89fbc621cd4d75c066e5.jpg"
   },
-  "1427197": {
-    "name": "星谷实花Mika",
-    "type": "vtuber",
-    "room_id": 713972,
-    "face": "/bfs/face/ad07ff9927122e375c894ffff9ad4d6591471576.jpg"
-  },
   "5816642": {
     "name": "星谷樹_itsuki",
     "type": "vtuber",
@@ -13983,7 +13977,7 @@
     "name": "要来杯百香果茶吗",
     "type": "vtuber",
     "room_id": 40379,
-    "face": "/bfs/face/75ddcd1aa8e130033151dc355510569e66a5016b.jpg"
+    "face": "/bfs/face/83f0e853e2e08b336ec5bc86022f95191a24da19.jpg"
   },
   "159034962": {
     "name": "暝枝",
@@ -15285,7 +15279,7 @@
     "name": "栀小朵",
     "type": "vtuber",
     "room_id": 23246736,
-    "face": "/bfs/face/ce0b1f4788571ea341ce7ad079175a0aac12b4e0.jpg"
+    "face": "/bfs/face/04381f22f7e8e6cd761e73fe2b55fe1b0e230a3f.jpg"
   },
   "120307508": {
     "name": "糍安安",
@@ -17548,6 +17542,12 @@
     "type": "vtuber",
     "room_id": 14491553,
     "face": "/bfs/face/6f6be245802a2ab85bfadc1d839ba6b52b54f5f0.jpg"
+  },
+  "1041126743": {
+    "name": "深深叨叨的叨叨",
+    "type": "vtuber",
+    "room_id": 24807673,
+    "face": "/bfs/face/b8b43d534e14df8aa2f010f483a28ec01c841d08.jpg"
   },
   "8034132": {
     "name": "深谷鈴音",
@@ -25132,12 +25132,6 @@
     "type": "vtuber",
     "room_id": 25488129,
     "face": "/bfs/face/fce6eadffcb15093ce64381300bc37298ddce281.jpg"
-  },
-  "653551": {
-    "name": "竹糯Juno",
-    "type": "vtuber",
-    "room_id": 41035,
-    "face": "/bfs/face/c6516736af983ed424beaff399535fd0fafa3df4.jpg"
   },
   "624408688": {
     "name": "路人甲official",
