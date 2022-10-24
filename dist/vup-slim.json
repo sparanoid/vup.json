@@ -374,11 +374,6 @@
     "type": "vtuber",
     "room": 1350951
   },
-  "473961987": {
-    "name": "CloudConnecting",
-    "type": "group",
-    "room": 0
-  },
   "407980569": {
     "name": "CocoTsuki公式",
     "type": "vtuber",
@@ -388,16 +383,6 @@
     "name": "ColorLink",
     "type": "group",
     "room": 23870850
-  },
-  "2919301": {
-    "name": "Creator_Coffee_P",
-    "type": "unknown",
-    "room": 45753
-  },
-  "482908159": {
-    "name": "cocolive",
-    "type": "group",
-    "room": 21696454
   },
   "589309893": {
     "name": "Croven教团",
@@ -428,11 +413,6 @@
     "name": "DJGun",
     "type": "vtuber",
     "room": 23652569
-  },
-  "253455303": {
-    "name": "Dream_Realm梦境社",
-    "type": "group",
-    "room": 23953435
   },
   "692258132": {
     "name": "微尘计划网络传媒",
@@ -1438,11 +1418,6 @@
     "name": "Epoch_Link",
     "type": "group",
     "room": 25878452
-  },
-  "3663671": {
-    "name": "夏小凪",
-    "type": "vtuber",
-    "room": 48488
   },
   "1735111737": {
     "name": "Perciva珀西瓦",
@@ -8684,11 +8659,6 @@
     "type": "vtuber",
     "room": 1050301
   },
-  "433189681": {
-    "name": "羽枝小梦Koyume",
-    "type": "vtuber",
-    "room": 22175205
-  },
   "77092285": {
     "name": "小沐Evolto404",
     "type": "vtuber",
@@ -13033,11 +13003,6 @@
     "name": "桐生可可Official",
     "type": "vtuber",
     "room": 21752686
-  },
-  "21317143": {
-    "name": "雾生怜时REIJI",
-    "type": "vtuber",
-    "room": 2459295
   },
   "14003142": {
     "name": "ルルル_rururu",
@@ -18539,6 +18504,11 @@
     "type": "vtuber",
     "room": 22870039
   },
+  "433189681": {
+    "name": "羽枝小梦Koyume",
+    "type": "vtuber",
+    "room": 22175205
+  },
   "626694693": {
     "name": "羽柴紅魅Official",
     "type": "vtuber",
@@ -19968,11 +19938,6 @@
     "name": "我打鼾声音超大OvO",
     "type": "vtuber",
     "room": 31634
-  },
-  "439546360": {
-    "name": "-萧诺-",
-    "type": "vtuber",
-    "room": 25297215
   },
   "524101241": {
     "name": "萨卡瑞亚ZachaRiah",
@@ -22423,11 +22388,6 @@
     "name": "雾枝白茶",
     "type": "vtuber",
     "room": 617845
-  },
-  "650749656": {
-    "name": "云落有声社团",
-    "type": "vtuber",
-    "room": 22470823
   },
   "1484169431": {
     "name": "雾深Girimi",

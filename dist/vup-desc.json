@@ -524,13 +524,6 @@
     "face": "/bfs/face/f7efbf13f023b6f3e9e06dd2e03c0928d7d90acd.jpg",
     "sign": "MMD→虚拟up→一般记录生活（装逼）"
   },
-  "473961987": {
-    "name": "CloudConnecting",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/57560080a97b5a8b4a7f63bea6e2d9c60127a6c3.jpg",
-    "sign": ""
-  },
   "407980569": {
     "name": "CocoTsuki公式",
     "type": "vtuber",
@@ -544,20 +537,6 @@
     "room": 23870850,
     "face": "/bfs/face/2471e2578b3660bacff9ded98196f559080d5be6.jpg",
     "sign": "虚拟主播团ColorLink社团官方号，欢迎喜欢虚拟主播的小可爱加入我们哦~ 入团/商业合作敲：328459088"
-  },
-  "2919301": {
-    "name": "Creator_Coffee_P",
-    "type": "unknown",
-    "room": 45753,
-    "face": "/bfs/face/4ea6cf9bbeac6cd0d83ebec4869bf232e2d5fc70.jpg",
-    "sign": "这里是非盈利虚拟社团Creator Coffee，欢迎各种形式的联动，合作，二次创作 / 箱推群 435499691"
-  },
-  "482908159": {
-    "name": "cocolive",
-    "type": "group",
-    "room": 21696454,
-    "face": "/bfs/face/dbdaaf989c49cca8872f407f66539c9b79c2e3ee.jpg",
-    "sign": "Creator Coffee 直播相关账号，本账号下全部直播/视频素材公开使用许可，但禁止诋毁及侮辱性的创作行为。"
   },
   "589309893": {
     "name": "Croven教团",
@@ -600,13 +579,6 @@
     "room": 23652569,
     "face": "/bfs/face/41fe38f9fd145fc1c53b9b565e618e62b201a26d.jpg",
     "sign": "DJGun辛苦了！DJGun对不起！关注DJGun喵！DJGun不灭！别急✋"
-  },
-  "253455303": {
-    "name": "Dream_Realm梦境社",
-    "type": "group",
-    "room": 23953435,
-    "face": "/bfs/face/76861784fac796c63214b259194c3987c5e9500d.jpg",
-    "sign": "Dream_Realm梦境社官方账号，有需要可以私信联系"
   },
   "692258132": {
     "name": "微尘计划网络传媒",
@@ -2014,13 +1986,6 @@
     "room": 25878452,
     "face": "/bfs/face/6c99518423206ac4a65ef4901e949eecdbad6229.jpg",
     "sign": "这里是Epoch Link企划官方账号，一起让这个未来世纪于我们链接 合作或咨询请联系QQ3606420488"
-  },
-  "3663671": {
-    "name": "夏小凪",
-    "type": "vtuber",
-    "room": 48488,
-    "face": "/bfs/face/d1a7af18f06c50e48ee40bebfb92d0817966eae7.jpg",
-    "sign": "来了就关注一下吧，主播在三次元搞钱，说不定哪天就直播了。"
   },
   "1735111737": {
     "name": "Perciva珀西瓦",
@@ -10566,7 +10531,7 @@
     "name": "天才小尾仙",
     "type": "vtuber",
     "room": 78454,
-    "face": "/bfs/face/279bc386bf4478a33ebe52b27155fec0525a31cc.jpg",
+    "face": "/bfs/face/90957cb479d624b9557079e104a98e7441873d4e.jpg",
     "sign": "流浪的猫猫仙人，爱打游戏画画唱歌的个猫势全职v，企鹅群874643622 密码78454"
   },
   "278406849": {
@@ -12157,13 +12122,6 @@
     "room": 1050301,
     "face": "/bfs/face/674fa1a3f4a0776e018c781301d9c10338940014.jpg",
     "sign": "谁偷了我的头发！！"
-  },
-  "433189681": {
-    "name": "羽枝小梦Koyume",
-    "type": "vtuber",
-    "room": 22175205,
-    "face": "/bfs/face/2b3eca6231946168662f23904db064305ad07a9e.jpg",
-    "sign": "我是甜甜牛牛！永远爱你！直播通知群：957273175"
   },
   "77092285": {
     "name": "小沐Evolto404",
@@ -17945,7 +17903,7 @@
     "type": "vtuber",
     "room": 7387222,
     "face": "/bfs/face/494490eaea66c512b52ec15148495b677e1f23dd.jpg",
-    "sign": "元气鸽逝\n直播时间晚上20:00左右掉落\n群号:852362848欢迎来玩ww\n梦想是变成大家的爱抖露！！！"
+    "sign": "元气鸽逝\n直播时间晚上20:00左右掉落\n群号:852362848欢迎来玩ww\n梦想是变成闪闪发亮的爱抖露！！！"
   },
   "50980433": {
     "name": "醋泡栗",
@@ -18246,13 +18204,6 @@
     "type": "vtuber",
     "room": 21752686,
     "face": "/bfs/face/776dcb833ff54439dc3503a5a6845b524d6a8464.jpg",
-    "sign": ""
-  },
-  "21317143": {
-    "name": "雾生怜时REIJI",
-    "type": "vtuber",
-    "room": 2459295,
-    "face": "/bfs/face/60980f7a2b217543fa5959521b2ff8b8cd60bc3a.jpg",
     "sign": ""
   },
   "14003142": {
@@ -25955,6 +25906,13 @@
     "face": "/bfs/face/8f83de551ac8f1bcc969a47847772592b64a46db.jpg",
     "sign": "Twitter：@uzukichii　┊　粉丝群：586871853　┊　字幕组审核群：519118745"
   },
+  "433189681": {
+    "name": "羽枝小梦Koyume",
+    "type": "vtuber",
+    "room": 22175205,
+    "face": "/bfs/face/2b3eca6231946168662f23904db064305ad07a9e.jpg",
+    "sign": "我是甜甜牛牛！永远爱你！直播通知群：957273175"
+  },
   "626694693": {
     "name": "羽柴紅魅Official",
     "type": "vtuber",
@@ -27956,13 +27914,6 @@
     "room": 31634,
     "face": "/bfs/face/433eea200a2491d0dfc5bee95d41816ed2b0e0f4.jpg",
     "sign": "粉丝群:542236572。我要让全世界听见我的鼾声！"
-  },
-  "439546360": {
-    "name": "-萧诺-",
-    "type": "vtuber",
-    "room": 25297215,
-    "face": "/bfs/face/bd995b8e018afbf09c010ac210c8aa615c2eb640.jpg",
-    "sign": "本体：垂耳兔 \n摆烂主播\n『cc所属』"
   },
   "524101241": {
     "name": "萨卡瑞亚ZachaRiah",
@@ -31393,13 +31344,6 @@
     "room": 617845,
     "face": "/bfs/face/4c96eec20996a832552c015d81ef98c7c2d40368.jpg",
     "sign": "（八美肉注意）20岁的海军学院学生，雾枝白茶desu！麻麻是@女巫Vivian（白茶港（粉丝群）798193692）"
-  },
-  "650749656": {
-    "name": "云落有声社团",
-    "type": "vtuber",
-    "room": 22470823,
-    "face": "/bfs/face/b3bc82474dadecca8b54f8db96146caac3d07038.jpg",
-    "sign": "以配音为爱好的橘里橘气向社团\n\n目前缺:cv、编剧、人事、宣传、美工、后期、策划，翻唱\n考核群:296325963"
   },
   "1484169431": {
     "name": "雾深Girimi",

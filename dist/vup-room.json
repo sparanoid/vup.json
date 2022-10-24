@@ -449,12 +449,6 @@
     "room_id": 1350951,
     "face": "/bfs/face/f7efbf13f023b6f3e9e06dd2e03c0928d7d90acd.jpg"
   },
-  "473961987": {
-    "name": "CloudConnecting",
-    "type": "group",
-    "room_id": 0,
-    "face": "/bfs/face/57560080a97b5a8b4a7f63bea6e2d9c60127a6c3.jpg"
-  },
   "407980569": {
     "name": "CocoTsuki公式",
     "type": "vtuber",
@@ -466,18 +460,6 @@
     "type": "group",
     "room_id": 23870850,
     "face": "/bfs/face/2471e2578b3660bacff9ded98196f559080d5be6.jpg"
-  },
-  "2919301": {
-    "name": "Creator_Coffee_P",
-    "type": "unknown",
-    "room_id": 45753,
-    "face": "/bfs/face/4ea6cf9bbeac6cd0d83ebec4869bf232e2d5fc70.jpg"
-  },
-  "482908159": {
-    "name": "cocolive",
-    "type": "group",
-    "room_id": 21696454,
-    "face": "/bfs/face/dbdaaf989c49cca8872f407f66539c9b79c2e3ee.jpg"
   },
   "589309893": {
     "name": "Croven教团",
@@ -514,12 +496,6 @@
     "type": "vtuber",
     "room_id": 23652569,
     "face": "/bfs/face/41fe38f9fd145fc1c53b9b565e618e62b201a26d.jpg"
-  },
-  "253455303": {
-    "name": "Dream_Realm梦境社",
-    "type": "group",
-    "room_id": 23953435,
-    "face": "/bfs/face/76861784fac796c63214b259194c3987c5e9500d.jpg"
   },
   "692258132": {
     "name": "微尘计划网络传媒",
@@ -1726,12 +1702,6 @@
     "type": "group",
     "room_id": 25878452,
     "face": "/bfs/face/6c99518423206ac4a65ef4901e949eecdbad6229.jpg"
-  },
-  "3663671": {
-    "name": "夏小凪",
-    "type": "vtuber",
-    "room_id": 48488,
-    "face": "/bfs/face/d1a7af18f06c50e48ee40bebfb92d0817966eae7.jpg"
   },
   "1735111737": {
     "name": "Perciva珀西瓦",
@@ -9057,7 +9027,7 @@
     "name": "天才小尾仙",
     "type": "vtuber",
     "room_id": 78454,
-    "face": "/bfs/face/279bc386bf4478a33ebe52b27155fec0525a31cc.jpg"
+    "face": "/bfs/face/90957cb479d624b9557079e104a98e7441873d4e.jpg"
   },
   "278406849": {
     "name": "天才果奶",
@@ -10420,12 +10390,6 @@
     "type": "vtuber",
     "room_id": 1050301,
     "face": "/bfs/face/674fa1a3f4a0776e018c781301d9c10338940014.jpg"
-  },
-  "433189681": {
-    "name": "羽枝小梦Koyume",
-    "type": "vtuber",
-    "room_id": 22175205,
-    "face": "/bfs/face/2b3eca6231946168662f23904db064305ad07a9e.jpg"
   },
   "77092285": {
     "name": "小沐Evolto404",
@@ -15640,12 +15604,6 @@
     "type": "vtuber",
     "room_id": 21752686,
     "face": "/bfs/face/776dcb833ff54439dc3503a5a6845b524d6a8464.jpg"
-  },
-  "21317143": {
-    "name": "雾生怜时REIJI",
-    "type": "vtuber",
-    "room_id": 2459295,
-    "face": "/bfs/face/60980f7a2b217543fa5959521b2ff8b8cd60bc3a.jpg"
   },
   "14003142": {
     "name": "ルルル_rururu",
@@ -22247,6 +22205,12 @@
     "room_id": 22870039,
     "face": "/bfs/face/8f83de551ac8f1bcc969a47847772592b64a46db.jpg"
   },
+  "433189681": {
+    "name": "羽枝小梦Koyume",
+    "type": "vtuber",
+    "room_id": 22175205,
+    "face": "/bfs/face/2b3eca6231946168662f23904db064305ad07a9e.jpg"
+  },
   "626694693": {
     "name": "羽柴紅魅Official",
     "type": "vtuber",
@@ -23962,12 +23926,6 @@
     "type": "vtuber",
     "room_id": 31634,
     "face": "/bfs/face/433eea200a2491d0dfc5bee95d41816ed2b0e0f4.jpg"
-  },
-  "439546360": {
-    "name": "-萧诺-",
-    "type": "vtuber",
-    "room_id": 25297215,
-    "face": "/bfs/face/bd995b8e018afbf09c010ac210c8aa615c2eb640.jpg"
   },
   "524101241": {
     "name": "萨卡瑞亚ZachaRiah",
@@ -26908,12 +26866,6 @@
     "type": "vtuber",
     "room_id": 617845,
     "face": "/bfs/face/4c96eec20996a832552c015d81ef98c7c2d40368.jpg"
-  },
-  "650749656": {
-    "name": "云落有声社团",
-    "type": "vtuber",
-    "room_id": 22470823,
-    "face": "/bfs/face/b3bc82474dadecca8b54f8db96146caac3d07038.jpg"
   },
   "1484169431": {
     "name": "雾深Girimi",
