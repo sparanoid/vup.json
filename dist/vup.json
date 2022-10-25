@@ -6525,7 +6525,7 @@
     "name": "千圣Chisato",
     "type": "vtuber",
     "room": 25910607,
-    "face": "/bfs/face/2b2d9aad0c29c23eefb9e320295badb90e65f064.jpg"
+    "face": "/bfs/face/1b867c0b589643183b2b3b53aedb2066abfbe288.jpg"
   },
   "84066005": {
     "name": "千塔_sr",
@@ -13906,6 +13906,12 @@
     "type": "vtuber",
     "room": 12411,
     "face": "/bfs/face/2a20b5666f6df79768fdb07388dc0bbb417ac1dd.jpg"
+  },
+  "353919721": {
+    "name": "晚安小阳ovo",
+    "type": "vtuber",
+    "room": 25654269,
+    "face": "/bfs/face/6879d5e5fc363bb538c0719dda99a992925e4c4a.jpg"
   },
   "1159412627": {
     "name": "晞月_Lalune",
@@ -26979,7 +26985,7 @@
     "name": "露希菲儿",
     "type": "vtuber",
     "room": 24910479,
-    "face": "/bfs/face/cf512cdbf4da6d868587e4916f4b3e376b634fe0.jpg"
+    "face": "/bfs/face/a07480557984fe8fd430336e13a2a5428107cee1.jpg"
   },
   "1669777785": {
     "name": "露早GOGO",
