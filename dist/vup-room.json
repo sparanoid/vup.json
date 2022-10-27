@@ -6413,6 +6413,12 @@
     "room_id": 643679,
     "face": "/bfs/face/71bb7bb5bcd9a6b3165ba9d90701e39643d6091c.jpg"
   },
+  "2079522008": {
+    "name": "北东西南south",
+    "type": "vtuber",
+    "room_id": 25351100,
+    "face": "/bfs/face/fd14f92637649de5775555ec81b8a529eeaa5fe8.jpg"
+  },
   "123012539": {
     "name": "北小路翡翠的糖果屋",
     "type": "vtuber",
@@ -20470,6 +20476,12 @@
     "type": "vtuber",
     "room_id": 14339092,
     "face": "/bfs/face/8695f4ca6113e5674a4e66f7f33aaa9e1cd39b84.jpg"
+  },
+  "435243735": {
+    "name": "礼墨Sumi",
+    "type": "vtuber",
+    "room_id": 23222837,
+    "face": "/bfs/face/f7e60520d3850f98c19f0d560bb384d94d3a6762.jpg"
   },
   "14397741": {
     "name": "礼弥Hisashi",

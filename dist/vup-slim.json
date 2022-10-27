@@ -5344,6 +5344,11 @@
     "type": "vtuber",
     "room": 643679
   },
+  "2079522008": {
+    "name": "北东西南south",
+    "type": "vtuber",
+    "room": 25351100
+  },
   "123012539": {
     "name": "北小路翡翠的糖果屋",
     "type": "vtuber",
@@ -17058,6 +17063,11 @@
     "name": "蓓塔Betta",
     "type": "vtuber",
     "room": 14339092
+  },
+  "435243735": {
+    "name": "礼墨Sumi",
+    "type": "vtuber",
+    "room": 23222837
   },
   "14397741": {
     "name": "礼弥Hisashi",
