@@ -1551,7 +1551,7 @@
     "name": "南町Nightin",
     "type": "vtuber",
     "room_id": 24872476,
-    "face": "/bfs/face/0072fe0281881766b6fbff8d97d6e799fe919c4a.jpg"
+    "face": "/bfs/face/0b2fd4331ae3e4276e869a03e65215b4bbe99668.jpg"
   },
   "318463212": {
     "name": "Nina的空之御守",
@@ -8102,7 +8102,7 @@
   "32839394": {
     "name": "圆咕鹿",
     "type": "vtuber",
-    "room_id": 22117557,
+    "room_id": 0,
     "face": "/bfs/face/1095ed7b66012f2724a0e215828b892aa070d2c9.jpg"
   },
   "20675652": {
@@ -10968,7 +10968,7 @@
     "face": "/bfs/face/bb28a079b8f2bc0d2ee07e90a63bf7042f3503e2.jpg"
   },
   "95061837": {
-    "name": "桐宝kiritsu",
+    "name": "朝暮桐kiritsu",
     "type": "vtuber",
     "room_id": 22607679,
     "face": "/bfs/face/9f44c9d978f6ef0178d1ee52852a5037195472ee.jpg"
@@ -13317,7 +13317,7 @@
     "name": "星灯铃兰Channel",
     "type": "vtuber",
     "room_id": 438069,
-    "face": "/bfs/face/ea3c5ff4962abf93d0639176c6611999c450f91a.jpg"
+    "face": "/bfs/face/f39362dee1865cc4195809df383eb6ddc33abb59.jpg"
   },
   "629333523": {
     "name": "星灵幽蓝",
@@ -22298,7 +22298,7 @@
   "455965041": {
     "name": "羽音Hanon",
     "type": "vtuber",
-    "room_id": 21669084,
+    "room_id": 0,
     "face": "/bfs/face/3a227f0b6ff689669f2efe6abc52350970a03a00.jpg"
   },
   "15116025": {
@@ -28161,7 +28161,7 @@
     "name": "鹿蜀Shu_",
     "type": "vtuber",
     "room_id": 25727850,
-    "face": "/bfs/face/7607f63fef5d0b6cfceea9c0b8863e3e5fccaf07.jpg"
+    "face": "/bfs/face/c9f58991ce9b9ae20cd0470123f7013cf1539d88.jpg"
   },
   "6268594": {
     "name": "腊味双拼鹿仔煲",
@@ -28437,7 +28437,7 @@
     "name": "黑酱猫kuro",
     "type": "vtuber",
     "room_id": 22619596,
-    "face": "/bfs/face/4ab5007c037d9539893085b6405c50ce73129c21.jpg"
+    "face": "/bfs/face/e13ade6781e33fb667ba9ad82252c999cda076ff.jpg"
   },
   "5701677": {
     "name": "黑雪空",
