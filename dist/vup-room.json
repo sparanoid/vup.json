@@ -6854,7 +6854,7 @@
   "2112376124": {
     "name": "南十字星_project",
     "type": "group",
-    "room_id": 0,
+    "room_id": 26285890,
     "face": "/bfs/face/da6306c574f1b364c8d601a94d65e7cdc879cdf3.jpg"
   },
   "6768778": {
@@ -7340,7 +7340,7 @@
   "24970050": {
     "name": "叶青玳",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 1304841,
     "face": "/bfs/face/8638e92f0f39f1cf7cb90302409ba022abc279c3.jpg"
   },
   "2115613286": {
@@ -10196,7 +10196,7 @@
   "14387072": {
     "name": "小可学妹",
     "type": "vtuber",
-    "room_id": 6374209,
+    "room_id": 0,
     "face": "/bfs/face/50bec7d47935d0660c7174e7c075d38f259e8d15.jpg"
   },
   "1483670": {
@@ -13254,7 +13254,7 @@
     "face": "/bfs/face/4c06e38f84745c5de12e42cee00b1bb6ebc9675f.jpg"
   },
   "14298907": {
-    "name": "星梦真雪_Official",
+    "name": "星梦真雪",
     "type": "vtuber",
     "room_id": 64686,
     "face": "/bfs/face/1fb6036413c917f9b1dec6b8f8057f02169b1850.jpg"
@@ -14457,7 +14457,7 @@
     "name": "白斬亜緋路",
     "type": "vtuber",
     "room_id": 22204961,
-    "face": "/bfs/face/575c356268d2bbff0f288ecd04944f6690be9b15.jpg"
+    "face": "/bfs/face/a82260cf0c696d195d119bea6b72f586405b2322.jpg"
   },
   "13437162": {
     "name": "木之白是一颗摆树",
@@ -15832,6 +15832,12 @@
     "type": "vtuber",
     "room_id": 3638379,
     "face": "/bfs/face/e3ca87e389fd07f07cff16bd492aabd1e4f3c774.jpg"
+  },
+  "2004784439": {
+    "name": "梦野Ayanna",
+    "type": "vtuber",
+    "room_id": 25386814,
+    "face": "/bfs/face/6e1314aa6973b5f932db3aa2371e5ab69ab26084.jpg"
   },
   "7033120": {
     "name": "梦野ちじわ",
@@ -17514,10 +17520,10 @@
     "face": "/bfs/face/b22a085f22ff52c3d6e8b6ddee3b15175a9e7dde.jpg"
   },
   "5970661": {
-    "name": "异界杂货铺_Project",
+    "name": "雏雪Hinayuki",
     "type": "vtuber",
     "room_id": 93567,
-    "face": "/bfs/face/bedfaaa16a3192a2bcd7a9411ee96bed020389f8.jpg"
+    "face": "/bfs/face/d480b4bf9cfaf50d73e89e06886a6c5737ec329f.jpg"
   },
   "3810286": {
     "name": "淇淋_702",
@@ -18435,7 +18441,7 @@
     "name": "犽犽是个小憨憨",
     "type": "vtuber",
     "room_id": 6171178,
-    "face": "/bfs/face/f5a0e3481adf8d6de556bac4c6be2fe3bd3f2e7d.jpg"
+    "face": "/bfs/face/ff37e9ddc7b33294ace50f0a66237ad43efeef89.jpg"
   },
   "194524621": {
     "name": "D乐D乐",
