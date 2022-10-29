@@ -2522,7 +2522,7 @@
   "512480": {
     "name": "YUKIri",
     "type": "vtuber",
-    "room_id": 29183,
+    "room_id": 0,
     "face": "/bfs/face/1059fafde0224a8f2070bd01ac98c628acaa373c.jpg"
   },
   "1822027685": {
@@ -17108,7 +17108,7 @@
   "14427356": {
     "name": "波子ラムネ",
     "type": "vtuber",
-    "room_id": 5241713,
+    "room_id": 0,
     "face": "/bfs/face/f60334a83a54783d2013eebf8be52f348143e300.jpg"
   },
   "376831143": {
@@ -25107,7 +25107,7 @@
     "name": "赫拉Kris",
     "type": "vtuber",
     "room_id": 22861834,
-    "face": "/bfs/face/6ca894a4aec39b5b573ca3292074d91e82ea7fb4.jpg"
+    "face": "/bfs/face/022faa08d0b73d701879bcef20e1feda113f5f8b.jpg"
   },
   "1039584302": {
     "name": "赫拉拉official",
@@ -27555,7 +27555,7 @@
     "name": "明前奶绿__Naive",
     "type": "vtuber",
     "room_id": 569341,
-    "face": "/bfs/face/520213bbb40b6b5c455c59e825279b7ee36c9eb7.jpg"
+    "face": "/bfs/face/5a34d4a558b2316a2ac96f18101dfd915a9b008c.jpg"
   },
   "1010093017": {
     "name": "马太Mastest",
