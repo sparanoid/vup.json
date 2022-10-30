@@ -2045,6 +2045,12 @@
     "room_id": 24837306,
     "face": "/bfs/face/729a95055a9a16f94a6e93c90d33411feb7c41e9.jpg"
   },
+  "477007": {
+    "name": "Sawako碎花子",
+    "type": "vtuber",
+    "room_id": 3649650,
+    "face": "/bfs/face/d26dcbc6aa95d97489a07f0aad0056c0206a84cf.jpg"
+  },
   "409631607": {
     "name": "Scarle的绯红权杖",
     "type": "vtuber",
@@ -6369,7 +6375,7 @@
     "name": "勾檀Mayumi",
     "type": "vtuber",
     "room_id": 22778610,
-    "face": "/bfs/face/2c92c7ea0268e159d244a02b40b38d484be14de4.jpg"
+    "face": "/bfs/face/0d46488db4ab9611f2912ef0535c3192f0ce2fe1.jpg"
   },
   "275268030": {
     "name": "雨中花梦",
@@ -8000,7 +8006,7 @@
   "672328094": {
     "name": "嘉然今天吃什么",
     "type": "vtuber",
-    "room_id": 22637261,
+    "room_id": 0,
     "face": "/bfs/face/d399d6f5cf7943a996ae96999ba3e6ae2a2988de.jpg"
   },
   "1300801804": {
@@ -8314,6 +8320,12 @@
     "type": "vtuber",
     "room_id": 23343237,
     "face": "/bfs/face/fa71bdc580fe9722cfd1a3c0920fa9801969d4ea.jpg"
+  },
+  "1463794242": {
+    "name": "夏原哈纳比_Official",
+    "type": "vtuber",
+    "room_id": 25161145,
+    "face": "/bfs/face/747b0d440464b48b05b9321e0a241fb7e653a00b.jpg"
   },
   "3070918": {
     "name": "夏威夷的尾巴是青椒",
@@ -11372,7 +11384,7 @@
   "318981218": {
     "name": "幻海铃兰",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 11956149,
     "face": "/bfs/face/59b0c41c20c096ae6843b20528dc1d4aeab08d5e.jpg"
   },
   "40386896": {
@@ -15062,7 +15074,7 @@
   "40327370": {
     "name": "柒玖or伍陆channel",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 1237622,
     "face": "/bfs/face/f2b038d32e86d2c850bf48acd8177333d6608b14.jpg"
   },
   "1993694809": {
@@ -19361,6 +19373,12 @@
     "room_id": 21400014,
     "face": "/bfs/face/11e99e291f825609fc9e73cd28978783dd8a644c.jpg"
   },
+  "1649481624": {
+    "name": "甘衣福茶_official",
+    "type": "vtuber",
+    "room_id": 26059501,
+    "face": "/bfs/face/4fe27b525661079524deab94faa55baedcf95478.jpg"
+  },
   "19206708": {
     "name": "甜梨Official",
     "type": "vtuber",
@@ -20045,6 +20063,12 @@
     "room_id": 438447,
     "face": "/bfs/face/339a249648332a2a0b9a522f274323420799028a.jpg"
   },
+  "1909777709": {
+    "name": "百合园悠梨Channel",
+    "type": "vtuber",
+    "room_id": 25725671,
+    "face": "/bfs/face/a33c41162cdaf98446268a71cdf601d91b6975dc.jpg"
+  },
   "18945413": {
     "name": "百合鸽Official",
     "type": "vtuber",
@@ -20360,7 +20384,7 @@
   "315830968": {
     "name": "眠叶绀Channel",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 21240069,
     "face": "/bfs/face/f7bbea21a7519ac223a8cefde49999c873876ea4.jpg"
   },
   "473708883": {
@@ -20658,10 +20682,10 @@
     "face": "/bfs/face/48543fdd09c9f517d5b3fb2b175556ce2baa9759.jpg"
   },
   "361916885": {
-    "name": "神月红绪_Official",
+    "name": "希爱Noah",
     "type": "vtuber",
     "room_id": 22596544,
-    "face": "/bfs/face/e3334b8cc60d14b45be15c8ca21c7b2797ce36aa.jpg"
+    "face": "/bfs/face/2553b7a202382efc3b4554a5571abf49f68df611.jpg"
   },
   "628061724": {
     "name": "神月萤_Official",
@@ -21711,7 +21735,7 @@
     "name": "绯赤艾莉欧_NHOTBOT",
     "type": "vtuber",
     "room_id": 21396545,
-    "face": "/bfs/face/810fbe1f9037cf364d27261031ea8648a1cdbb50.jpg"
+    "face": "/bfs/baselabs/9e29c0b1c549831baa35a3c0df3600fd7587cac3.png"
   },
   "403930401": {
     "name": "绿仙Official",
@@ -25185,7 +25209,7 @@
     "name": "路伊丝Louise",
     "type": "vtuber",
     "room_id": 23126335,
-    "face": "/bfs/face/0bf7f20804c62d099060c7decda28db00a4634cf.jpg"
+    "face": "/bfs/face/c4d4c0ab45d3c4fdc4b75663932e61bbb8f97e02.jpg"
   },
   "2006452883": {
     "name": "路希维德Wiede",
@@ -28245,7 +28269,7 @@
     "name": "麦の尸体",
     "type": "vtuber",
     "room_id": 24961584,
-    "face": "/bfs/face/b6b11f56779316ca3be0a902433d8ec240c90157.jpg"
+    "face": "/bfs/face/3a4958c862f412ab31e939faca2ab5225f178e26.jpg"
   },
   "429866241": {
     "name": "麻仓叶童",
