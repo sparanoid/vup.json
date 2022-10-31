@@ -11171,6 +11171,12 @@
     "room": 21756256,
     "face": "/bfs/face/d7f33c938dcca92a5a78bc767ecae9bf3e1da86d.jpg"
   },
+  "3461571703474731": {
+    "name": "希弥尔Hymir",
+    "type": "vtuber",
+    "room": 26045551,
+    "face": "/bfs/face/72c2176beaca646f2882a3ade7b3cd446d9794cc.jpg"
+  },
   "1021344512": {
     "name": "希拉Sheila",
     "type": "vtuber",
@@ -16815,7 +16821,7 @@
     "name": "汐水琉月",
     "type": "vtuber",
     "room": 28655,
-    "face": "/bfs/face/ac12e2074d2d721a81b37ee92f35dc8c7b555776.jpg"
+    "face": "/bfs/baselabs/2099eb8d841f6ff9a852597d931f5840bb0e58e0.png"
   },
   "1623136625": {
     "name": "汐由梨Shiyori",
@@ -16905,7 +16911,7 @@
     "name": "沐原莉莉Official",
     "type": "vtuber",
     "room": 23032520,
-    "face": "/bfs/face/cf30c34a55c164f4a3567d71c752a469b6f0825d.jpg"
+    "face": "/bfs/baselabs/dfafd076942f8efab4f8727b42482b5e02bf01be.png"
   },
   "27322128": {
     "name": "沐小雪_Official",
