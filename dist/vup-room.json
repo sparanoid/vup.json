@@ -66,7 +66,7 @@
     "face": "/bfs/face/6e588a37fcd947df7500be0c1f99facb110c4281.jpg"
   },
   "347784817": {
-    "name": "-阿予ayu_",
+    "name": "-阿予ayu",
     "type": "vtuber",
     "room_id": 13827947,
     "face": "/bfs/face/2391506ca0991e5001f58a4c1e0ac6c239bdec3f.jpg"
@@ -3933,7 +3933,7 @@
     "name": "一露Lulu",
     "type": "vtuber",
     "room_id": 26007751,
-    "face": "/bfs/face/d352ba853477da05ec981598324b08f0b53322cf.jpg"
+    "face": "/bfs/face/698226455ad6fdb4be522a14f7cd27d60f3271b5.jpg"
   },
   "14045966": {
     "name": "一颗有栖Official",
@@ -4779,7 +4779,7 @@
     "name": "氵鼠包",
     "type": "vtuber",
     "room_id": 22601447,
-    "face": "/bfs/face/b1d2796075e96bbbb34ca44f6bada1341683721f.jpg"
+    "face": "/bfs/face/51f2b77f76c9c196f0957adee1614f0f9cee68b1.jpg"
   },
   "242067082": {
     "name": "阿亚亚Aya",
@@ -6183,7 +6183,7 @@
     "name": "凯恩_Cain",
     "type": "vtuber",
     "room_id": 139372,
-    "face": "/bfs/face/86e3849253805107b1837f1d32f35d5d69bcad70.jpg"
+    "face": "/bfs/face/8c63e0b03426e5aadec16477f1e88e06536d995d.jpg"
   },
   "1051422690": {
     "name": "凰清音_Kouseion",
@@ -8326,6 +8326,12 @@
     "type": "vtuber",
     "room_id": 25161145,
     "face": "/bfs/face/747b0d440464b48b05b9321e0a241fb7e653a00b.jpg"
+  },
+  "38286918": {
+    "name": "夏可ShArk",
+    "type": "vtuber",
+    "room_id": 11110150,
+    "face": "/bfs/face/a5607b5e9fe994b89f1fdb8f050a8adeea723931.jpg"
   },
   "3070918": {
     "name": "夏威夷的尾巴是青椒",
@@ -12636,7 +12642,7 @@
     "face": "/bfs/face/05cd597f08b88a2b2254344e7be84b9792a0356c.jpg"
   },
   "622383747": {
-    "name": "钢板狐狸",
+    "name": "新野瑶衣",
     "type": "vtuber",
     "room_id": 23408782,
     "face": "/bfs/face/dfe77fd9fb029011dbdde35e6960f652ead8ee84.jpg"
@@ -15989,6 +15995,12 @@
     "room_id": 21501728,
     "face": "/bfs/face/3e48197bd103d125b68438fc02bdf725c1384248.jpg"
   },
+  "690291069": {
+    "name": "森友Senyo",
+    "type": "vtuber",
+    "room_id": 24747064,
+    "face": "/bfs/face/85d8cf2f3e1d8e72d3ba432b940ad1397d8663f7.jpg"
+  },
   "1181247064": {
     "name": "森川雪yuki",
     "type": "vtuber",
@@ -16269,7 +16281,7 @@
     "name": "樱奈汐音",
     "type": "vtuber",
     "room_id": 21674945,
-    "face": "/bfs/face/a49b2b672ea359f007ce66e287ecf3348050601a.jpg"
+    "face": "/bfs/face/09753473b90e57344c7fbc75db168a55136574e4.jpg"
   },
   "53565207": {
     "name": "新妻锦",
@@ -17937,7 +17949,7 @@
     "name": "激辣味噌",
     "type": "vtuber",
     "room_id": 5391723,
-    "face": "/bfs/face/e8dde5e293cd06a94e5d04705fc1132f6f403064.jpg"
+    "face": "/bfs/face/b5315d610775053bec8d3d1962322e5b4a886c47.jpg"
   },
   "18863045": {
     "name": "会跑步的图图",
@@ -18189,7 +18201,7 @@
     "name": "熏小染Channel",
     "type": "vtuber",
     "room_id": 1122011,
-    "face": "/bfs/face/aa01eb6c1d3c829886039a3e61d5a41ff53f41c4.jpg"
+    "face": "/bfs/face/72a551c5c2ad13484e7f51f06f40f7a6da3f4bd1.jpg"
   },
   "3016287": {
     "name": "熹咕哇",
@@ -20205,7 +20217,7 @@
     "name": "盖乃希亞Galaxy",
     "type": "vtuber",
     "room_id": 22864117,
-    "face": "/bfs/face/2c6302496ce5fc932db002bd50326e55b40d3a0a.jpg"
+    "face": "/bfs/face/8d642984dd9cecdaae22406aa39c639eddbfe62e.jpg"
   },
   "462646": {
     "name": "我人類最速直帰",
@@ -20637,7 +20649,7 @@
     "name": "神咲乃希NOKi",
     "type": "vtuber",
     "room_id": 915110,
-    "face": "/bfs/face/b10fed3abe3605710138093991b2dab76836c0fa.jpg"
+    "face": "/bfs/face/f90e2570849ab7724d57781ddc9163dda73556d4.jpg"
   },
   "157330863": {
     "name": "神奈希_Official",
@@ -23229,7 +23241,7 @@
     "name": "芷小菡",
     "type": "vtuber",
     "room_id": 1011107,
-    "face": "/bfs/face/44b7876ff86d36781a985c9ee10fb018344f7400.jpg"
+    "face": "/bfs/face/e20061ec5e3ae96948ca7f2e8b2862dfc9a4d65f.jpg"
   },
   "1514013": {
     "name": "芽千千ガチチ",
@@ -24519,7 +24531,7 @@
     "name": "蜜球兔",
     "type": "vtuber",
     "room_id": 8721033,
-    "face": "/bfs/face/4971d3e7c5efb1adc7ed47000707e5e9dbbf3660.jpg"
+    "face": "/bfs/face/c9b968fce94506a6f87e9565767897f6a17f8b6b.jpg"
   },
   "1267348553": {
     "name": "蜜瓜Melo_Channel",
@@ -26625,7 +26637,7 @@
     "name": "雨鹦RainParrot",
     "type": "vtuber",
     "room_id": 891027,
-    "face": "/bfs/face/d4c462dad9d27cc5d8dde9f5bc8fd5b045bdad94.jpg"
+    "face": "/bfs/face/2985efebbd401eabd194ad447413204906640650.jpg"
   },
   "1118691022": {
     "name": "566853198",
@@ -27333,7 +27345,7 @@
     "name": "風和凛Fuwari_",
     "type": "vtuber",
     "room_id": 22780009,
-    "face": "/bfs/face/84d922af7e696ccc87a3b4bd4bf43348dbf99c33.jpg"
+    "face": "/bfs/face/0d6a5e5a3a2fbb62652c8dc6b233a14535d0089c.jpg"
   },
   "387990044": {
     "name": "風宮まつり字幕搬运",
