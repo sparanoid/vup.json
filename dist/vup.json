@@ -5913,7 +5913,7 @@
     "name": "冬月の北极猫",
     "type": "vtuber",
     "room": 3080147,
-    "face": "/bfs/face/80c4bc82545f51ad34d303e00b56d4009d93d7dd.jpg"
+    "face": "/bfs/face/1af1e146e582d91b9a12417943b5d4cbf734d769.jpg"
   },
   "442403107": {
     "name": "任你所愿",
@@ -9262,6 +9262,12 @@
     "type": "vtuber",
     "room": 22605564,
     "face": "/bfs/face/48567ee00acbe747f857316e0a7dfbbea14f1296.jpg"
+  },
+  "2011200445": {
+    "name": "奈夜Nay1",
+    "type": "vtuber",
+    "room": 23568483,
+    "face": "/bfs/face/e784225fcf27314cc1659d2eae2930f33ebc0e47.jpg"
   },
   "1011812576": {
     "name": "奈奈大芙",
@@ -12669,7 +12675,7 @@
     "name": "无名古人",
     "type": "vtuber",
     "room": 282643,
-    "face": "/bfs/face/a962282cbd034a4f569e6c11344b7cee0d397be3.jpg"
+    "face": "/bfs/face/6f81d7223ab4fb15961eed162f7f074d71defaaf.jpg"
   },
   "20875904": {
     "name": "无家可归的流浪鲲鲲",
@@ -16500,7 +16506,7 @@
     "face": "/bfs/face/a738709a72136e979e76a7901d522b3d8110ed38.jpg"
   },
   "84520595": {
-    "name": "欧欧堆l_l1030纪念回",
+    "name": "欧欧堆l_l",
     "type": "vtuber",
     "room": 23132688,
     "face": "/bfs/face/51333c3f3ddc673fbc589cdcadf8a9162e5308b0.jpg"
@@ -23822,7 +23828,7 @@
   "6365248": {
     "name": "莲汰-AiTeN",
     "type": "vtuber",
-    "room": 0,
+    "room": 479283,
     "face": "/bfs/face/c052496866fa9d166c71e7d2d722a4d0e3d17618.jpg"
   },
   "926723": {
@@ -25221,7 +25227,7 @@
     "name": "路希维德Wiede",
     "type": "vtuber",
     "room": 24778741,
-    "face": "/bfs/face/f8df3947c475f86228b4370a386e06939fc57229.jpg"
+    "face": "/bfs/face/246b9230614578693ba00ab0bc20b4f93579eba0.jpg"
   },
   "6251904": {
     "name": "路普lupu",
@@ -26750,7 +26756,7 @@
   "1476333866": {
     "name": "雪璐Sheryl",
     "type": "vtuber",
-    "room": 24359941,
+    "room": 0,
     "face": "/bfs/face/1256f680ea23cb5a25baf160a6cec188a1141886.jpg"
   },
   "13294045": {
