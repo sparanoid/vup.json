@@ -1061,6 +1061,12 @@
     "room_id": 23981982,
     "face": "/bfs/face/432b6398b076ec8b7fe17511de2b3796c61cd180.jpg"
   },
+  "632368824": {
+    "name": "琳子夢official",
+    "type": "vtuber",
+    "room_id": 22881951,
+    "face": "/bfs/face/0feca75114cd09549d7c77f0f2c8b3bf5d562c82.jpg"
+  },
   "668479385": {
     "name": "Laine_official",
     "type": "vtuber",
@@ -4775,6 +4781,12 @@
     "room_id": 22014628,
     "face": "/bfs/face/8497c18da4b021e66d5ceaa30151d10d6613246c.jpg"
   },
+  "5034263": {
+    "name": "五爪Tsume",
+    "type": "vtuber",
+    "room_id": 616824,
+    "face": "/bfs/face/a535ba2dffabbe5d6f5b92d408f4f35c4fffa755.jpg"
+  },
   "529865": {
     "name": "五牙Kiba",
     "type": "vtuber",
@@ -5812,6 +5824,12 @@
     "type": "vtuber",
     "room_id": 599020,
     "face": "/bfs/face/d62f45e4ac09b8e909604867da752c498d552f0f.jpg"
+  },
+  "4644514": {
+    "name": "兰悠悠yoyo",
+    "type": "vtuber",
+    "room_id": 21312461,
+    "face": "/bfs/face/bd482f200f6574257c1678bd608ee6a7595a12c8.jpg"
   },
   "1577097749": {
     "name": "兰枫Official",
@@ -8794,6 +8812,12 @@
     "type": "vtuber",
     "room_id": 21618129,
     "face": "/bfs/face/d9bc48caad8ad9476c8be396df566e767b7e99fd.jpg"
+  },
+  "1015944851": {
+    "name": "夜音Yorune",
+    "type": "vtuber",
+    "room_id": 25872304,
+    "face": "/bfs/face/16763ae80d3b6cb414f15fd743105a2280b07d9a.jpg"
   },
   "3301918": {
     "name": "夜法莱斯Night",
@@ -14321,6 +14345,12 @@
     "room_id": 10077116,
     "face": "/bfs/face/0118cbbd2408bf216039470ae801b12d22d8e99a.jpg"
   },
+  "2111549706": {
+    "name": "月见紫莺",
+    "type": "vtuber",
+    "room_id": 24391749,
+    "face": "/bfs/face/7eca0659ac6bb00d646b867141f394aaf05831ad.jpg"
+  },
   "703125989": {
     "name": "KANIJAM",
     "type": "vtuber",
@@ -19421,6 +19451,12 @@
     "room_id": 26059501,
     "face": "/bfs/face/4fe27b525661079524deab94faa55baedcf95478.jpg"
   },
+  "557080920": {
+    "name": "甜崽Babys",
+    "type": "vtuber",
+    "room_id": 24858427,
+    "face": "/bfs/face/6d39e3b9d4091851101273b9fdf3fcda1ee5be74.jpg"
+  },
   "19206708": {
     "name": "甜梨Official",
     "type": "vtuber",
@@ -23014,6 +23050,12 @@
     "type": "vtuber",
     "room_id": 21934761,
     "face": "/bfs/face/3a5c474bbfd23812ca4a2f048acb285c5215b9ec.jpg"
+  },
+  "39876273": {
+    "name": "花可落_kora",
+    "type": "vtuber",
+    "room_id": 1396048,
+    "face": "/bfs/face/9c462de6d293d3e8204c3b8c96e3fb1c765bb24a.jpg"
   },
   "494436795": {
     "name": "花咲雅的桃花便当",
