@@ -1973,6 +1973,12 @@
     "room": 912226,
     "face": "/bfs/face/c14360f12cf183287d8c0562ced414dddec39b87.png"
   },
+  "5430004": {
+    "name": "Rosalin-8-",
+    "type": "vtuber",
+    "room": 25178705,
+    "face": "/bfs/face/04ca3ff02c849a876c4949471720d8268394a7bf.jpg"
+  },
   "77050518": {
     "name": "Rosemi的玫瑰花园",
     "type": "vtuber",
@@ -2962,6 +2968,12 @@
     "type": "vtuber",
     "room": 1119304,
     "face": "/bfs/face/c9bf4ebba7837ab42f3e266c3d9454ce63551979.jpg"
+  },
+  "21665934": {
+    "name": "peashark",
+    "type": "vtuber",
+    "room": 22987614,
+    "face": "/bfs/face/1eff495b62813c75b7d059d81213f8e96896fd6f.jpg"
   },
   "1722094": {
     "name": "po芽那",
@@ -4445,11 +4457,23 @@
     "room": 4715875,
     "face": "/bfs/face/083cfd9ec5d3a4809572539dbe88500028478363.jpg"
   },
+  "5430005": {
+    "name": "久城忍Sinobu-8-",
+    "type": "vtuber",
+    "room": 25381972,
+    "face": "/bfs/face/5128da24823b38108673d6abac4121a16c8ee50e.jpg"
+  },
   "19650530": {
     "name": "久瑠麻衣Kurumai",
     "type": "vtuber",
     "room": 162022,
     "face": "/bfs/face/7ddf533f14a07075e11e8c7e672d9ed43e4f46ed.jpg"
+  },
+  "2044905": {
+    "name": "久远寺刹那Setsuna",
+    "type": "vtuber",
+    "room": 1469089,
+    "face": "/bfs/face/41417747b742f3094869d6d8242eae641b402e96.jpg"
   },
   "662164326": {
     "name": "箱守可憐",
@@ -10829,6 +10853,12 @@
     "room": 2425420,
     "face": "/bfs/face/0715f7849bc425c557284f11346d16fd3dd6d44d.jpg"
   },
+  "662964798": {
+    "name": "尼比陆",
+    "type": "group",
+    "room": 22654125,
+    "face": "/bfs/face/3c7acad59b0fd325bf7b292fd13ea873bd820f51.jpg"
+  },
   "589351234": {
     "name": "尼芽Niya",
     "type": "vtuber",
@@ -10852,6 +10882,12 @@
     "type": "vtuber",
     "room": 23562312,
     "face": "/bfs/face/6cf58b2fbbbc064ff0b1a2e28e5b37d480135d8c.jpg"
+  },
+  "88271743": {
+    "name": "尾幼mayori",
+    "type": "vtuber",
+    "room": 25755118,
+    "face": "/bfs/face/3eadaf7b0dab32d0f3d0b08c3afed712f9fdb566.jpg"
   },
   "3934727": {
     "name": "尾音猫",
@@ -11273,6 +11309,12 @@
     "room": 400605,
     "face": "/bfs/face/75ccf0dfbf9a4e56ee8d62115465f467f7e953aa.jpg"
   },
+  "35047473": {
+    "name": "希羽酱Gu-8-",
+    "type": "vtuber",
+    "room": 25698413,
+    "face": "/bfs/face/7cf73e6bebff52bc86f209127575b76c6eb9f110.jpg"
+  },
   "1578580407": {
     "name": "希芙莉Sifly",
     "type": "vtuber",
@@ -11476,6 +11518,12 @@
     "type": "vtuber",
     "room": 22500194,
     "face": "/bfs/face/5144e045ab9ee67182cd116d6c1adb65fd2a20b4.jpg"
+  },
+  "5430003": {
+    "name": "幼虎Dodder-8-",
+    "type": "vtuber",
+    "room": 25203370,
+    "face": "/bfs/face/b3c32fd7473b42528c12876a643c1ae9da93c218.jpg"
   },
   "533193038": {
     "name": "幽ヶ崎海愛official",
@@ -16955,6 +17003,12 @@
     "room": 7408674,
     "face": "/bfs/face/7cddb7335b1a29585e51caadbdaddc6867148185.jpg"
   },
+  "31466454": {
+    "name": "沉溺于你的Butterfly",
+    "type": "vtuber",
+    "room": 2174963,
+    "face": "/bfs/face/d28d4ab60ac2aed4b4b49d371c91c1f86debdca3.png"
+  },
   "476755934": {
     "name": "沐原莉莉Official",
     "type": "vtuber",
@@ -18328,6 +18382,12 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/9292115f5b4dcd55fa715aee4fb3de235b5d26fc.jpg"
+  },
+  "5430002": {
+    "name": "爱梨Rico-8-",
+    "type": "vtuber",
+    "room": 25190839,
+    "face": "/bfs/face/12796dd8de75eb944840b5f5250c3afcbbdad087.jpg"
   },
   "1475289063": {
     "name": "爱沢Yuuka",
@@ -22511,6 +22571,12 @@
     "room": 8473798,
     "face": "/bfs/face/6235b39eef3d37bb2d1164c7ded0f26e5dd3c01e.jpg"
   },
+  "91659439": {
+    "name": "聿茗_YuM",
+    "type": "vtuber",
+    "room": 24814176,
+    "face": "/bfs/face/85cb6ad2bbeed9375867538d05de0fb81dd6f9e7.jpg"
+  },
   "5866210": {
     "name": "肆犬suki",
     "type": "vtuber",
@@ -24581,6 +24647,12 @@
     "room": 21883706,
     "face": "/bfs/face/e29d87aff47cdf8ab5eeabbc67cdfe0a7858cb84.jpg"
   },
+  "5430008": {
+    "name": "蜜兔Miria-8-",
+    "type": "vtuber",
+    "room": 25804137,
+    "face": "/bfs/face/f73d0c3e034f3a49b5844fe779016b754654c71c.jpg"
+  },
   "623161468": {
     "name": "蜜恩channel",
     "type": "vtuber",
@@ -25744,6 +25816,12 @@
     "type": "vtuber",
     "room": 23920289,
     "face": "/bfs/face/8a2aa26623d70b902202a6f59990acdbb97a45ae.jpg"
+  },
+  "614689344": {
+    "name": "酱油_Shoyu",
+    "type": "vtuber",
+    "room": 25758597,
+    "face": "/bfs/face/5bbb80c007dd7d065b40036928d8ecf7f4f6660d.jpg"
   },
   "64228120": {
     "name": "酸菜ダレ_channel",

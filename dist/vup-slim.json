@@ -1644,6 +1644,11 @@
     "type": "vtuber",
     "room": 912226
   },
+  "5430004": {
+    "name": "Rosalin-8-",
+    "type": "vtuber",
+    "room": 25178705
+  },
   "77050518": {
     "name": "Rosemi的玫瑰花园",
     "type": "vtuber",
@@ -2468,6 +2473,11 @@
     "name": "不能吃的ok酱",
     "type": "vtuber",
     "room": 1119304
+  },
+  "21665934": {
+    "name": "peashark",
+    "type": "vtuber",
+    "room": 22987614
   },
   "1722094": {
     "name": "po芽那",
@@ -3704,10 +3714,20 @@
     "type": "vtuber",
     "room": 4715875
   },
+  "5430005": {
+    "name": "久城忍Sinobu-8-",
+    "type": "vtuber",
+    "room": 25381972
+  },
   "19650530": {
     "name": "久瑠麻衣Kurumai",
     "type": "vtuber",
     "room": 162022
+  },
+  "2044905": {
+    "name": "久远寺刹那Setsuna",
+    "type": "vtuber",
+    "room": 1469089
   },
   "662164326": {
     "name": "箱守可憐",
@@ -9024,6 +9044,11 @@
     "type": "vtuber",
     "room": 2425420
   },
+  "662964798": {
+    "name": "尼比陆",
+    "type": "group",
+    "room": 22654125
+  },
   "589351234": {
     "name": "尼芽Niya",
     "type": "vtuber",
@@ -9043,6 +9068,11 @@
     "name": "尾巴困困",
     "type": "vtuber",
     "room": 23562312
+  },
+  "88271743": {
+    "name": "尾幼mayori",
+    "type": "vtuber",
+    "room": 25755118
   },
   "3934727": {
     "name": "尾音猫",
@@ -9394,6 +9424,11 @@
     "type": "vtuber",
     "room": 400605
   },
+  "35047473": {
+    "name": "希羽酱Gu-8-",
+    "type": "vtuber",
+    "room": 25698413
+  },
   "1578580407": {
     "name": "希芙莉Sifly",
     "type": "vtuber",
@@ -9563,6 +9598,11 @@
     "name": "幼薇喵nya",
     "type": "vtuber",
     "room": 22500194
+  },
+  "5430003": {
+    "name": "幼虎Dodder-8-",
+    "type": "vtuber",
+    "room": 25203370
   },
   "533193038": {
     "name": "幽ヶ崎海愛official",
@@ -14129,6 +14169,11 @@
     "type": "vtuber",
     "room": 7408674
   },
+  "31466454": {
+    "name": "沉溺于你的Butterfly",
+    "type": "vtuber",
+    "room": 2174963
+  },
   "476755934": {
     "name": "沐原莉莉Official",
     "type": "vtuber",
@@ -15273,6 +15318,11 @@
     "name": "爱梦空Official",
     "type": "vtuber",
     "room": 0
+  },
+  "5430002": {
+    "name": "爱梨Rico-8-",
+    "type": "vtuber",
+    "room": 25190839
   },
   "1475289063": {
     "name": "爱沢Yuuka",
@@ -18759,6 +18809,11 @@
     "type": "vtuber",
     "room": 8473798
   },
+  "91659439": {
+    "name": "聿茗_YuM",
+    "type": "vtuber",
+    "room": 24814176
+  },
   "5866210": {
     "name": "肆犬suki",
     "type": "vtuber",
@@ -20484,6 +20539,11 @@
     "type": "vtuber",
     "room": 21883706
   },
+  "5430008": {
+    "name": "蜜兔Miria-8-",
+    "type": "vtuber",
+    "room": 25804137
+  },
   "623161468": {
     "name": "蜜恩channel",
     "type": "vtuber",
@@ -21453,6 +21513,11 @@
     "name": "酥芷Chakku",
     "type": "vtuber",
     "room": 23920289
+  },
+  "614689344": {
+    "name": "酱油_Shoyu",
+    "type": "vtuber",
+    "room": 25758597
   },
   "64228120": {
     "name": "酸菜ダレ_channel",
