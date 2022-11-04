@@ -869,6 +869,12 @@
     "room_id": 6953239,
     "face": "/bfs/face/2a3113087e747d8414a0e9cbfd2474caf2762504.jpg"
   },
+  "2933593": {
+    "name": "ICBM糖果小多",
+    "type": "vtuber",
+    "room_id": 108270,
+    "face": "/bfs/face/5b53a7ebb177b753e8aac625b802bc546054377d.jpg"
+  },
   "1461488278": {
     "name": "神原kami录播机",
     "type": "group",
@@ -8400,7 +8406,7 @@
     "face": "/bfs/face/a5607b5e9fe994b89f1fdb8f050a8adeea723931.jpg"
   },
   "3070918": {
-    "name": "夏威夷的尾巴是青椒",
+    "name": "夏威夷_椒椒",
     "type": "vtuber",
     "room_id": 1700323,
     "face": "/bfs/face/09f51b9a6debe416151860ee6094c9faa34c8575.jpg"
@@ -14121,7 +14127,7 @@
     "name": "要来杯百香果茶吗",
     "type": "vtuber",
     "room_id": 40379,
-    "face": "/bfs/face/96daf0f9454c80118d64d1af4550d11248fc88c4.jpg"
+    "face": "/bfs/face/cb8de7229ed61eebf3de872a9da22985efebd07f.jpg"
   },
   "159034962": {
     "name": "暝枝",
@@ -20693,6 +20699,12 @@
     "room_id": 2416317,
     "face": "/bfs/face/31b3aff2a16dac7610d584415d97879ee5831122.jpg"
   },
+  "234782": {
+    "name": "祈Inory",
+    "type": "vtuber",
+    "room_id": 544625,
+    "face": "/bfs/face/4f22c2e149d07d6041a7b729226be71bd8b0d056.jpg"
+  },
   "3046429": {
     "name": "祖娅纳惜",
     "type": "vtuber",
@@ -24483,7 +24495,7 @@
     "name": "薰Kaori",
     "type": "vtuber",
     "room_id": 24153986,
-    "face": "/bfs/face/c0b0f13adb37e1a88045f188478d7bccdf92858a.jpg"
+    "face": "/bfs/face/bc145a6172089eb1037188644d5cb3d63ca7050d.jpg"
   },
   "9882877": {
     "name": "藍芽子_Aimeko",
@@ -25328,7 +25340,7 @@
   "21363840": {
     "name": "赫斯塔_Hestur",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 1509584,
     "face": "/bfs/face/c76ad9f29513f4ce0ffe381c2944ac1863bb7831.jpg"
   },
   "652571677": {
@@ -26943,7 +26955,7 @@
     "name": "雪穗椛_channel",
     "type": "vtuber",
     "room_id": 31384,
-    "face": "/bfs/face/33eeb9064cb7d99e6376dd22606420e35b5154a4.jpg"
+    "face": "/bfs/face/a3ad35f4f0a6cea0848b8e050fcf50ef6a7595c1.jpg"
   },
   "56748733": {
     "name": "雪绘Yukie",
