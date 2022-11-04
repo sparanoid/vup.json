@@ -2331,7 +2331,7 @@
     "name": "唔姆umu桑",
     "type": "vtuber",
     "room": 131162,
-    "face": "/bfs/face/7d54892c2e9778139e4980d757f5b8c2af04e8f3.jpg"
+    "face": "/bfs/face/4f3543e8e0b7cf488fff7beed98c851a4a06fa59.jpg"
   },
   "11098943": {
     "name": "Unoge",
@@ -3024,7 +3024,7 @@
     "face": "/bfs/face/5d2a9f1024ab2a8ab045465d4ce342b4a138ba42.jpg"
   },
   "4882872": {
-    "name": "落晓月sekyota",
+    "name": "sekyota",
     "type": "vtuber",
     "room": 570058,
     "face": "/bfs/face/53e728b2eed58dc9e85e4e1cb915b70eabb210d2.jpg"
@@ -6669,7 +6669,7 @@
     "name": "千春葵",
     "type": "vtuber",
     "room": 24939060,
-    "face": "/bfs/face/a7c82fdcb2771b60eb7421e07921fd6eb4550573.jpg"
+    "face": "/bfs/face/198ff6c1582499c136929f69ca96ae4c1d8cff52.jpg"
   },
   "56261234": {
     "name": "千時静_Channel",
@@ -11031,7 +11031,7 @@
     "name": "岐夭夭",
     "type": "vtuber",
     "room": 25038353,
-    "face": "/bfs/face/5dcb1e3cca57f575dbc958ee9c9be27049e0fad9.jpg"
+    "face": "/bfs/face/6cd43ef17846d217b3e95dc32d6dc0d34d5f8038.jpg"
   },
   "1643484295": {
     "name": "岱川Doris",
@@ -13323,7 +13323,7 @@
     "name": "星弥Hoshimi",
     "type": "vtuber",
     "room": 21672022,
-    "face": "/bfs/face/50cbf5f464ab4fe3bd81d3d58a68db35dca2bc19.jpg"
+    "face": "/bfs/face/95ae8aea2bcd244831787e2d382a172dd594aaa2.jpg"
   },
   "697715": {
     "name": "星影月Yue",
@@ -15269,6 +15269,12 @@
     "room": 21338753,
     "face": "/bfs/face/ddcb267e740328d11ff139c3ed9af0ed70ad163f.jpg"
   },
+  "1890662098": {
+    "name": "柚夏yuka",
+    "type": "vtuber",
+    "room": 25350006,
+    "face": "/bfs/face/5c1a9b4110ff8a69dc9c1e472d32552fbf8e7dc3.jpg"
+  },
   "1152334866": {
     "name": "柚夢_YUYU_official",
     "type": "vtuber",
@@ -16305,7 +16311,7 @@
     "name": "榛葉nami",
     "type": "vtuber",
     "room": 9395707,
-    "face": "/bfs/face/56dcee090cf58065e9a902f58557ade91ffe09c8.jpg"
+    "face": "/bfs/face/f9b8a661a77c838b1737cf34cec1c4be63877b5a.jpg"
   },
   "10742948": {
     "name": "槍間蘿北子_Official",
@@ -21455,6 +21461,12 @@
     "room": 1487005,
     "face": "/bfs/face/43cc006ef11fc591f7a1949531a0784800eac1da.jpg"
   },
+  "1835314626": {
+    "name": "米夏Maika",
+    "type": "vtuber",
+    "room": 25136784,
+    "face": "/bfs/face/7bdab3076cbe9b36a5f25c04ab84a4de73cebd4e.jpg"
+  },
   "873426": {
     "name": "遥火Haruka",
     "type": "vtuber",
@@ -23865,7 +23877,7 @@
     "name": "莉莉安Lllian",
     "type": "vtuber",
     "room": 25369913,
-    "face": "/bfs/face/417250333a5b2f2e00ec0a660af34e9242408bef.jpg"
+    "face": "/bfs/face/f25794bbb6450721dcf78458369c49ea0a23b754.jpg"
   },
   "661461705": {
     "name": "莉莉安_Official",
@@ -24417,7 +24429,7 @@
     "name": "蕾尔娜Leona",
     "type": "vtuber",
     "room": 22992234,
-    "face": "/bfs/face/c3490fac0e2a5023cc56cff01cfc1b9290df55f1.jpg"
+    "face": "/bfs/face/77a3d06e9f7ad0b082f21c83405f36c6e082c3e9.jpg"
   },
   "1970153302": {
     "name": "蕾琳Leylin",
@@ -25329,7 +25341,7 @@
     "name": "赫拉Kris",
     "type": "vtuber",
     "room": 22861834,
-    "face": "/bfs/face/022faa08d0b73d701879bcef20e1feda113f5f8b.jpg"
+    "face": "/bfs/face/180b54c8cf162e59702f1180eabb0d25a233141d.jpg"
   },
   "1039584302": {
     "name": "赫拉拉official",
@@ -26981,6 +26993,12 @@
     "room": 22349508,
     "face": "/bfs/face/15c87f807385bcf4377d75639b03d230f9e9d12f.jpg"
   },
+  "1947412463": {
+    "name": "雪茨yukiji",
+    "type": "vtuber",
+    "room": 25363316,
+    "face": "/bfs/face/c9890151d129aa68542a7e29914f1aa5968e8b8b.jpg"
+  },
   "4430611": {
     "name": "雪莉Official",
     "type": "vtuber",
@@ -28161,7 +28179,7 @@
     "name": "鸟羽穗Tobaho",
     "type": "vtuber",
     "room": 23078480,
-    "face": "/bfs/face/876df28e53063a4dac56b2868e2b57866e9df7dd.jpg"
+    "face": "/bfs/face/053b8733af0846f7b2ad0b58a17b501a8e7c6305.jpg"
   },
   "12964678": {
     "name": "玖悠莉",
@@ -28749,7 +28767,7 @@
     "name": "默咕咕_Morh",
     "type": "vtuber",
     "room": 23146679,
-    "face": "/bfs/face/402eb2ac959c0ec4e89b82f54fa5e85c19e31fda.jpg"
+    "face": "/bfs/face/4f2536878d1f9aa6596da56325eb893b5eadca57.jpg"
   },
   "20714271": {
     "name": "默然-mory",
