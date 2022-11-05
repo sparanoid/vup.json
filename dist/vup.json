@@ -1098,7 +1098,7 @@
     "face": "/bfs/face/e165adfb87a181e2c8d1c954d7fa6c6ad21c2b33.jpg"
   },
   "400128632": {
-    "name": "Lily不爱喵",
+    "name": "Lily不是喵",
     "type": "vtuber",
     "room": 25300582,
     "face": "/bfs/face/14e02d252909817838e1b61b0706a5320db3007f.jpg"
@@ -4515,7 +4515,7 @@
     "name": "弭尔焃巴",
     "type": "vtuber",
     "room": 882267,
-    "face": "/bfs/face/0823cde53e9d32eb9a1e3902c48fd821def495ba.jpg"
+    "face": "/bfs/face/675f5b5b37de39e97bddce0a8e9b7cfc54d1cd6d.jpg"
   },
   "15597980": {
     "name": "乌姆Umu",
@@ -14678,7 +14678,7 @@
   "1820024161": {
     "name": "木须tamago",
     "type": "vtuber",
-    "room": 26092294,
+    "room": 0,
     "face": "/bfs/face/87325fb87c878e50c1a5519b96069b73cbc33a82.jpg"
   },
   "6699767": {
