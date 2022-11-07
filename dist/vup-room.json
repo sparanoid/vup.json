@@ -536,7 +536,7 @@
   "686566670": {
     "name": "DokokanoUsagi",
     "type": "vtuber",
-    "room_id": 22568155,
+    "room_id": 0,
     "face": "/bfs/face/f148e3e85bc9b9deb12594da1b3f2bfee9ad7083.jpg"
   },
   "477698436": {
@@ -6723,7 +6723,7 @@
     "name": "千祈_senki",
     "type": "vtuber",
     "room_id": 21109751,
-    "face": "/bfs/face/909bb305dc89ee2f566673f618a246bd1652a4de.jpg"
+    "face": "/bfs/face/371dac6bb951cee52fb36ac444e36a4f281079ed.jpg"
   },
   "418293195": {
     "name": "花崎channel",
@@ -7281,7 +7281,7 @@
     "name": "召唤师yami",
     "type": "vtuber",
     "room_id": 7595278,
-    "face": "/bfs/face/1fcb3b8d300f711dfcdc52631514ae53f6bf393b.jpg"
+    "face": "/bfs/face/dae37dd9791a8b1510d9b13b6eb4398ee6a7550b.jpg"
   },
   "11909915": {
     "name": "可伊Koi",
@@ -12387,7 +12387,7 @@
     "name": "戌夜初Hajime",
     "type": "vtuber",
     "room_id": 23093993,
-    "face": "/bfs/face/a2e0b05078b3dd18d3d72df55abd27bb542aafa0.jpg"
+    "face": "/bfs/face/d55a101f400240406bb3058aa69c3f08275dc4ef.jpg"
   },
   "412135619": {
     "name": "戌神沁音Official",
@@ -18312,10 +18312,10 @@
     "face": "/bfs/face/de4e6fc6ee7c0aea3d53b0cb0b9cf894c6f3725e.jpg"
   },
   "3448258": {
-    "name": "账号已注销310076",
+    "name": "熊くま喵",
     "type": "vtuber",
     "room_id": 236672,
-    "face": "/bfs/face/57335d9e42ad182e5f782fdc0c666e6cd96dad64.jpg"
+    "face": "/bfs/face/2068169aa90810d08e82297ae09222bed3385b67.jpg"
   },
   "2075179777": {
     "name": "熊之霓",
@@ -25335,7 +25335,7 @@
     "name": "赤琥Akakora",
     "type": "vtuber",
     "room_id": 21697031,
-    "face": "/bfs/face/fe14b52ad171bfd58632e8730d2781213bc96a05.jpg"
+    "face": "/bfs/face/78298e1e7f33a3a7638f0624219e9efb25892536.jpg"
   },
   "16478884": {
     "name": "鹿月_mojia",
