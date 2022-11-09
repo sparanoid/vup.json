@@ -665,6 +665,12 @@
     "room_id": 0,
     "face": "/bfs/face/abe6870f3b971935e950a997c0cf0c698a9914a1.jpg"
   },
+  "652495460": {
+    "name": "Era猩纪元",
+    "type": "vtuber",
+    "room_id": 25660853,
+    "face": "/bfs/face/dea22fc03929edaf9b07b5d817c306841f15791d.jpg"
+  },
   "1480838": {
     "name": "EricaZehnt_埃莉卡",
     "type": "vtuber",
@@ -26661,7 +26667,7 @@
     "name": "倦糕糕",
     "type": "vtuber",
     "room_id": 3042926,
-    "face": "/bfs/face/73714aeeb834d31836349e5113bbde6ec3a72843.jpg"
+    "face": "/bfs/face/68439b246a45a56fad65b83b84ec8dfccdffe803.jpg"
   },
   "1154601644": {
     "name": "恶龙霖",
