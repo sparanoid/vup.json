@@ -7235,6 +7235,12 @@
     "room_id": 21603514,
     "face": "/bfs/face/ec0e4b5903144ba501e9b4e6c835257e4964f71e.jpg"
   },
+  "48330353": {
+    "name": "双尾彗星",
+    "type": "vtuber",
+    "room_id": 1496449,
+    "face": "/bfs/face/ed6abc7f3bdcab6557fc3ee3d77836fd5e450433.jpg"
+  },
   "62359": {
     "name": "双月YunaLia",
     "type": "vtuber",
@@ -7852,12 +7858,6 @@
     "type": "vtuber",
     "room_id": 21509764,
     "face": "/bfs/face/16983c9e8d1f694160a01ec6456467481a83436d.jpg"
-  },
-  "630077416": {
-    "name": "哈娜hanna",
-    "type": "vtuber",
-    "room_id": 22625568,
-    "face": "/bfs/face/d65a875cae71a51aa6ab86e6333423df71899b5b.jpg"
   },
   "58226190": {
     "name": "蛟蛟不睡觉",
