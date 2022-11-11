@@ -4241,6 +4241,12 @@
     "room_id": 555820,
     "face": "/bfs/face/06cc6d3a27c93275798af7b41daa30c82fd0285d.jpg"
   },
+  "3461581822233342": {
+    "name": "上草草Surcao",
+    "type": "vtuber",
+    "room_id": 26292140,
+    "face": "/bfs/face/470e675d5863f463908cdc93f3e03323dfcfd96d.jpg"
+  },
   "1059744599": {
     "name": "上野桃香Official",
     "type": "vtuber",
@@ -23235,7 +23241,7 @@
     "name": "花守海露希Official",
     "type": "vtuber",
     "room_id": 21665984,
-    "face": "/bfs/face/721036071ca49090783570a2c797386dc8f743ae.jpg"
+    "face": "/bfs/face/c203c681e143a60ac237fc0e5408f3ff585c2dfd.jpg"
   },
   "1274610906": {
     "name": "花宴ichika",
