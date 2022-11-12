@@ -4045,6 +4045,13 @@
     "face": "/bfs/face/00a362be3a2ec0961ae95624225bcb5f840ae001.jpg",
     "sign": "大家好～！！！"
   },
+  "1377545740": {
+    "name": "やーちゃん_Ya酱",
+    "type": "vtuber",
+    "room": 25760587,
+    "face": "/bfs/face/3d73b88cfa1c9e6b96f45f282f702600937339a8.jpg",
+    "sign": "日本Vtuberです。miHoYoのゲーム大好きです。合作请联系：yaaahchan888@gmail.com"
+  },
   "387792431": {
     "name": "ゆにゆにこOfficial",
     "type": "vtuber",
@@ -7096,13 +7103,6 @@
     "room": 22261698,
     "face": "/bfs/face/beddd082eaf57f4c158c53801dc72e2f2283f097.jpg",
     "sign": ""
-  },
-  "457388645": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21917266,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
   },
   "37170037": {
     "name": "冷幻C",
@@ -21244,13 +21244,6 @@
     "face": "/bfs/face/68fd7f9f659823b2420f6b81c4e920ab4dce2723.jpg",
     "sign": "我们的目标是星辰大海！我是Providence企划所属三期生灯瑠hiru！二创组审核群：903798670"
   },
-  "28968096": {
-    "name": "灰咕娘-灰风字幕组",
-    "type": "vtuber",
-    "room": 23328341,
-    "face": "/bfs/face/5bae6a92679789ff863487e7bf6279ee3d494ccb.jpg",
-    "sign": "字幕组粉丝群479394776  邮箱haifuucyan@gmail.com"
-  },
   "440772821": {
     "name": "灰音Haine",
     "type": "vtuber",
@@ -21298,7 +21291,7 @@
     "type": "vtuber",
     "room": 25263257,
     "face": "/bfs/face/d112339f68c9e7ec7897a8cd4a218604f8cb8f81.jpg",
-    "sign": "直播在567晚上8点（录播@小火汁录播组）80主播群：225065012 暗号：小火子"
+    "sign": "个人势清纯小火一枚，直播在567晚上8点（录播@小火汁录播组）80主播群：225065012 暗号：小火子"
   },
   "433076086": {
     "name": "炎沐yamu",
@@ -29873,7 +29866,7 @@
     "type": "vtuber",
     "room": 4766516,
     "face": "/bfs/face/0d647bdbaf26ede2617d5af248f1ec03c0ad57e8.jpg",
-    "sign": "曾经的所做所为无可抹去\n13岁天才萝莉画师\n约稿q1573979744"
+    "sign": "我的手掌太小 到时候取舍吧\n13岁天才萝莉画师\n约稿q1573979744"
   },
   "61639371": {
     "name": "轴伊Joi_Channel",

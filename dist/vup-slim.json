@@ -2889,6 +2889,11 @@
     "type": "vtuber",
     "room": 24569032
   },
+  "1377545740": {
+    "name": "やーちゃん_Ya酱",
+    "type": "vtuber",
+    "room": 25760587
+  },
   "387792431": {
     "name": "ゆにゆにこOfficial",
     "type": "vtuber",
@@ -5068,11 +5073,6 @@
     "name": "冴梨Saeri",
     "type": "vtuber",
     "room": 22261698
-  },
-  "457388645": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21917266
   },
   "37170037": {
     "name": "冷幻C",
@@ -15173,11 +15173,6 @@
     "name": "灯瑠hiru",
     "type": "vtuber",
     "room": 23404362
-  },
-  "28968096": {
-    "name": "灰咕娘-灰风字幕组",
-    "type": "vtuber",
-    "room": 23328341
   },
   "440772821": {
     "name": "灰音Haine",

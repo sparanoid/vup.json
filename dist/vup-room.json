@@ -3467,6 +3467,12 @@
     "room_id": 24569032,
     "face": "/bfs/face/00a362be3a2ec0961ae95624225bcb5f840ae001.jpg"
   },
+  "1377545740": {
+    "name": "やーちゃん_Ya酱",
+    "type": "vtuber",
+    "room_id": 25760587,
+    "face": "/bfs/face/3d73b88cfa1c9e6b96f45f282f702600937339a8.jpg"
+  },
   "387792431": {
     "name": "ゆにゆにこOfficial",
     "type": "vtuber",
@@ -6082,12 +6088,6 @@
     "type": "vtuber",
     "room_id": 22261698,
     "face": "/bfs/face/beddd082eaf57f4c158c53801dc72e2f2283f097.jpg"
-  },
-  "457388645": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 21917266,
-    "face": "/images/member/noface.gif"
   },
   "37170037": {
     "name": "冷幻C",
@@ -18208,12 +18208,6 @@
     "type": "vtuber",
     "room_id": 23404362,
     "face": "/bfs/face/68fd7f9f659823b2420f6b81c4e920ab4dce2723.jpg"
-  },
-  "28968096": {
-    "name": "灰咕娘-灰风字幕组",
-    "type": "vtuber",
-    "room_id": 23328341,
-    "face": "/bfs/face/5bae6a92679789ff863487e7bf6279ee3d494ccb.jpg"
   },
   "440772821": {
     "name": "灰音Haine",
