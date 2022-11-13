@@ -879,7 +879,7 @@
     "name": "ICBM糖果小多",
     "type": "vtuber",
     "room_id": 108270,
-    "face": "/bfs/face/56a7a33192220b383173f79308efb8085b03d642.jpg"
+    "face": "/bfs/face/2202f0d2a677b4dd5c2b6bf9dab8636c5f214d7d.jpg"
   },
   "1461488278": {
     "name": "神原kami录播机",
@@ -12129,7 +12129,7 @@
     "name": "思廿Mlnia",
     "type": "vtuber",
     "room_id": 10389930,
-    "face": "/bfs/face/b812c0768c235359593308cf290a101eab11dd63.jpg"
+    "face": "/bfs/face/c19cef4ea9928a7b91960c539753dcd201c33148.jpg"
   },
   "1070733875": {
     "name": "怠惰V_official",
@@ -25594,6 +25594,12 @@
     "type": "vtuber",
     "room_id": 7111251,
     "face": "/bfs/face/d14cee95c59875129585b2cce7c475ff6b4eb6fd.jpg"
+  },
+  "504140200": {
+    "name": "软软riu",
+    "type": "vtuber",
+    "room_id": 23174842,
+    "face": "/bfs/face/4143b6e92ecb0a59a377a5ebad2b22427d77036b.jpg"
   },
   "2847434": {
     "name": "软软今天摆烂了吗",
