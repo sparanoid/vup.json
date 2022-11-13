@@ -17454,7 +17454,7 @@
     "face": "/bfs/face/0a9aed85ec046e31a90a99df59881321af7f704d.jpg"
   },
   "373263": {
-    "name": "一方通行没码不行",
+    "name": "纠错小帮手纠纠",
     "type": "vtuber",
     "room_id": 709219,
     "face": "/bfs/face/5a68664d87e9cb282a50cf31fd32782d6dd279b7.jpg"
@@ -19108,6 +19108,12 @@
     "type": "vtuber",
     "room_id": 7299613,
     "face": "/bfs/face/200d3a0a43b5dcf0049408329d2a194a652ceb3c.jpg"
+  },
+  "1962110378": {
+    "name": "玉玉不想起床",
+    "type": "vtuber",
+    "room_id": 25523239,
+    "face": "/bfs/face/fdebd678c7956a85abeec893e16a6afe59bc3f89.jpg"
   },
   "1062342323": {
     "name": "玉白_official",
@@ -23830,6 +23836,12 @@
     "type": "vtuber",
     "room_id": 6873375,
     "face": "/bfs/face/94c729cdde6ccbe7d51547a3b65d34b40c6e721d.jpg"
+  },
+  "3461579070769690": {
+    "name": "草木青w",
+    "type": "vtuber",
+    "room_id": 26257851,
+    "face": "/bfs/face/8d2e06c71066fdff183284124b898353edcec816.jpg"
   },
   "3286364": {
     "name": "草薙葱Negi",
