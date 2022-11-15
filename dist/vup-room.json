@@ -10145,6 +10145,12 @@
     "room_id": 22658277,
     "face": "/bfs/face/725ab3b53daec65896bb597a1a7310f38388a026.jpg"
   },
+  "3461582034045213": {
+    "name": "宣小纸不怕火",
+    "type": "vtuber",
+    "room_id": 26276187,
+    "face": "/bfs/face/f9a228d92982715a6228d2043f0fe533fabd24f7.jpg"
+  },
   "12485637": {
     "name": "宫园凛RinMiyazono",
     "type": "vtuber",
@@ -26710,6 +26716,12 @@
     "type": "vtuber",
     "room_id": 24967779,
     "face": "/bfs/face/77fd2c6f20a36f159f96381436783a3cc1e605e7.jpg"
+  },
+  "7239": {
+    "name": "MOKONA010",
+    "type": "vtuber",
+    "room_id": 593688,
+    "face": "/bfs/face/5bd9937ef05dbd3e3325385fca3b14f98be7d818.jpg"
   },
   "410124536": {
     "name": "阿黛不太呆",
