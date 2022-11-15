@@ -3,7 +3,7 @@
     "name": "-狩猎西比尔-",
     "type": "vtuber",
     "room": 23310101,
-    "face": "/bfs/face/8663329d807d7b1569dc40506d8cd5e820ae1828.jpg"
+    "face": "/bfs/face/58ac0662e19586eae5f21734c4a2684448ff0a33.jpg"
   },
   "2051555906": {
     "name": "-official-Spi酱",
@@ -3863,6 +3863,12 @@
     "room": 4336706,
     "face": "/bfs/face/f7a2fe4bd267fab108c1eeba149fd27ff1e85433.jpg"
   },
+  "627432065": {
+    "name": "一口吃掉粥粥",
+    "type": "vtuber",
+    "room": 24199791,
+    "face": "/bfs/face/99e6ff16159f1d531e723b048277b0c8084f25db.jpg"
+  },
   "1726049329": {
     "name": "克噜噜Krul",
     "type": "vtuber",
@@ -4823,12 +4829,6 @@
     "room": 12318856,
     "face": "/bfs/face/3a339edb57fbfa7d40618ac79f1080b69ae3bd2e.jpg"
   },
-  "62876636": {
-    "name": "bili_9246685327",
-    "type": "vtuber",
-    "room": 6058328,
-    "face": "/bfs/face/44baafa9fd748252697abbaeb5739aec52e5671b.jpg"
-  },
   "16059520": {
     "name": "五彩呆鸟咩Official",
     "type": "vtuber",
@@ -5092,12 +5092,6 @@
     "type": "vtuber",
     "room": 25042360,
     "face": "/bfs/face/9c3ed15567090e3f668106c4895c4e878547e4d7.jpg"
-  },
-  "188596119": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21277824,
-    "face": "/images/member/noface.gif"
   },
   "2144805585": {
     "name": "伊德琳Edelyn",
@@ -11423,12 +11417,6 @@
     "room": 94770,
     "face": "/bfs/face/bc5d18f5fd9e9d7d9dff4cd303f7c00304760d46.jpg"
   },
-  "7113504": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 7097266,
-    "face": "/images/member/noface.gif"
-  },
   "627360567": {
     "name": "帕洛特Official",
     "type": "vtuber",
@@ -12622,6 +12610,12 @@
     "type": "vtuber",
     "room": 21594123,
     "face": "/bfs/face/8ed915aada909156afa50c90b6f8a82bb539342c.jpg"
+  },
+  "8155464": {
+    "name": "捌川-Yakawa",
+    "type": "vtuber",
+    "room": 1208203,
+    "face": "/bfs/face/83cf606170f38eeab556dc879aa08abfa060fe1f.jpg"
   },
   "61810": {
     "name": "绚辻眠驴Minlv",
@@ -13936,12 +13930,6 @@
     "type": "vtuber",
     "room": 497020,
     "face": "/bfs/face/d973372e9da28cd3c349fa1f7cf98a34487a53ba.jpg"
-  },
-  "189061443": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 23376449,
-    "face": "/images/member/noface.gif"
   },
   "488976992": {
     "name": "春猿火_harusaruhi",
@@ -16961,12 +16949,6 @@
     "room": 943565,
     "face": "/bfs/face/c581b810fa8bb522c78c1adb5ca6f240b4c31826.jpg"
   },
-  "36279952": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif"
-  },
   "1035652768": {
     "name": "汐华花音_Official",
     "type": "vtuber",
@@ -17356,12 +17338,6 @@
     "type": "vtuber",
     "room": 24839999,
     "face": "/bfs/face/25edc70cde38f83c28bddb32c5571f027bf8d93c.jpg"
-  },
-  "88854857": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 3633019,
-    "face": "/images/member/noface.gif"
   },
   "620903": {
     "name": "泰蕾莎Channel",
@@ -19365,7 +19341,7 @@
     "name": "琦Aki",
     "type": "vtuber",
     "room": 667523,
-    "face": "/bfs/face/c72e6e23fcb25adfe8c4de5a698e39b89475d94f.jpg"
+    "face": "/bfs/face/f091a612d1fd330becce869417535be2987669b2.jpg"
   },
   "7899626": {
     "name": "HyouKoki",
@@ -22179,7 +22155,7 @@
     "name": "绘星不会撞地球",
     "type": "vtuber",
     "room": 11499540,
-    "face": "/bfs/face/6ac5c1951a9fa5d196f9cff98810324b84402251.jpg"
+    "face": "/bfs/face/b2e14bc3a3b5339e7b26f935138b0c9104209420.jpg"
   },
   "2115413637": {
     "name": "绘梨糯Nino",
@@ -22942,6 +22918,12 @@
     "type": "vtuber",
     "room": 22936218,
     "face": "/bfs/face/f1efc88d099200ef547dc0ed47fce841e9e899a3.jpg"
+  },
+  "1189884570": {
+    "name": "艾沐Official",
+    "type": "vtuber",
+    "room": 26278833,
+    "face": "/bfs/face/72720df03fc99ebbe884dbbe3121480eb1d95796.jpg"
   },
   "1569389574": {
     "name": "艾玛莉莉丝-channel",
@@ -25097,12 +25079,6 @@
     "room": 22510936,
     "face": "/bfs/face/74973e2d62e27e04b25ef7502734b88344a253aa.jpg"
   },
-  "415439089": {
-    "name": "bili_415439089",
-    "type": "vtuber",
-    "room": 24237295,
-    "face": "/bfs/face/219468a8a7f18a2671880395ae844c6057846a9a.jpg"
-  },
   "1433861752": {
     "name": "讷豆nedo",
     "type": "vtuber",
@@ -25228,6 +25204,12 @@
     "type": "vtuber",
     "room": 22894592,
     "face": "/bfs/face/9452da6ddc29773eaf901daac2c8fee6d52cfd66.jpg"
+  },
+  "1339550497": {
+    "name": "豆叮儿ouo",
+    "type": "vtuber",
+    "room": 25763917,
+    "face": "/bfs/face/b54b67c68d58c80cd4386a6875fdfe813a0abc0c.jpg"
   },
   "4711217": {
     "name": "豆团子_Channel",
@@ -26536,6 +26518,12 @@
     "type": "vtuber",
     "room": 22171183,
     "face": "/bfs/face/f25615045fb5363f6fe5d9bfde5b15c6ba49cf2e.jpg"
+  },
+  "515640590": {
+    "name": "阿尔狄娜-Aldina",
+    "type": "vtuber",
+    "room": 25986072,
+    "face": "/bfs/face/b5a52e7c5e6b7aae8e7e6d8a125c9f9d34cc0492.jpg"
   },
   "6118206": {
     "name": "阿尔瓦Alvar",
