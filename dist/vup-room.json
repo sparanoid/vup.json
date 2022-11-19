@@ -9731,6 +9731,12 @@
     "room_id": 17305,
     "face": "/bfs/face/dc19d286f41aa20db91a8e39585f79284b72bb4e.jpg"
   },
+  "1169958017": {
+    "name": "娅可Arko",
+    "type": "vtuber",
+    "room_id": 26192718,
+    "face": "/bfs/face/3c4b0ab1f8217ddc5cbbfeb7e5268c7ce39a8e34.jpg"
+  },
   "567469706": {
     "name": "娅墨Channel",
     "type": "vtuber",
@@ -10348,6 +10354,12 @@
     "type": "vtuber",
     "room_id": 14846654,
     "face": "/bfs/face/8001e06c58e83e2477792facffebd971c3df4ff0.jpg"
+  },
+  "33887063": {
+    "name": "小吭叽qwq",
+    "type": "vtuber",
+    "room_id": 419589,
+    "face": "/bfs/face/c75893b76c4c0ea14a1f9990512fdddac8643a8f.jpg"
   },
   "1484320": {
     "name": "小咪miyo",
@@ -22103,6 +22115,12 @@
     "room_id": 22543132,
     "face": "/bfs/face/44adb323679c998511904053059db12b93fde04c.jpg"
   },
+  "7714504": {
+    "name": "织世Tomoyo",
+    "type": "vtuber",
+    "room_id": 167498,
+    "face": "/bfs/face/69d90a26e33e3b84cca34d27f7b35e9445135968.jpg"
+  },
   "28278764": {
     "name": "织月黛黛",
     "type": "vtuber",
@@ -25509,7 +25527,7 @@
     "name": "路希维德Wiede",
     "type": "vtuber",
     "room_id": 24778741,
-    "face": "/bfs/face/e8223fc7ceb4eccf62868de86f05d09613b0b94f.jpg"
+    "face": "/bfs/face/8f9c47859a0a34cb746b607c667f1e812cbe665d.jpg"
   },
   "6251904": {
     "name": "路普lupu",
