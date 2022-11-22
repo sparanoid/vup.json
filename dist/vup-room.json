@@ -5213,6 +5213,12 @@
     "room_id": 183785,
     "face": "/bfs/face/23d47db03d32a7515ec26ebc9161a9819cd00d93.jpg"
   },
+  "43156010": {
+    "name": "伊菲不是小火驴",
+    "type": "vtuber",
+    "room_id": 26427138,
+    "face": "/bfs/face/85197405637dd57dcf49917b7c044670ae061e2d.jpg"
+  },
   "2037141": {
     "name": "伊菲露诺_已搬家",
     "type": "vtuber",
@@ -10037,6 +10043,12 @@
     "room_id": 1625715,
     "face": "/bfs/face/71bc6509dd36d30d099346d33a3aac2ee43dfee9.jpg"
   },
+  "2041352": {
+    "name": "安泽尔Anzel",
+    "type": "vtuber",
+    "room_id": 6826342,
+    "face": "/bfs/face/6d19184168f410d66bdbc857e50756ced53a8c60.jpg"
+  },
   "32518773": {
     "name": "安洁洛特SAMA",
     "type": "vtuber",
@@ -12490,6 +12502,12 @@
     "type": "vtuber",
     "room_id": 22673512,
     "face": "/bfs/face/585b530b5e51865d788d487f8d51aea9741e5091.jpg"
+  },
+  "93962177": {
+    "name": "才不是害羞",
+    "type": "vtuber",
+    "room_id": 3748267,
+    "face": "/bfs/face/f0be97f986e69b9d2a672dab79fff6b8224ea733.jpg"
   },
   "11082943": {
     "name": "打酱油的魔神_Channel",
@@ -18352,6 +18370,12 @@
     "type": "vtuber",
     "room_id": 8816397,
     "face": "/bfs/face/3a3be6ef31d68ab92a283cb6a3b09bda3b01af71.jpg"
+  },
+  "1055047413": {
+    "name": "熊崽子ovo",
+    "type": "vtuber",
+    "room_id": 24061020,
+    "face": "/bfs/face/b693a4000e0e3b2bbe525d0ce6f9e8f6f9e7e633.jpg"
   },
   "8435856": {
     "name": "熊木兔Kumagi",
