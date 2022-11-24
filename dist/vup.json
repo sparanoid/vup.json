@@ -323,6 +323,12 @@
     "room": 4095214,
     "face": "/bfs/face/174ea94fce0a4148336dbc77d3caefac3e913994.jpg"
   },
+  "194484313": {
+    "name": "Asaki大人",
+    "type": "vtuber",
+    "room": 6154037,
+    "face": "/bfs/face/6741c2cd6a9983a1d4dfa3ff690a8b9d5ae127b5.jpg"
+  },
   "2592429": {
     "name": "YpCa1",
     "type": "vtuber",
@@ -20807,6 +20813,12 @@
     "room": 544625,
     "face": "/bfs/face/4f22c2e149d07d6041a7b729226be71bd8b0d056.jpg"
   },
+  "3493080263034911": {
+    "name": "祐滢",
+    "type": "vtuber",
+    "room": 26418587,
+    "face": "/bfs/face/a654a3c9f0b8bf1b00c45fa1adbbcb74e98d5371.jpg"
+  },
   "3046429": {
     "name": "祖娅纳惜",
     "type": "vtuber",
@@ -26375,6 +26387,12 @@
     "room": 22543845,
     "face": "/bfs/face/ce5668bf48baac221a0f808201fd9b86deaa2d8b.jpg"
   },
+  "1344926320": {
+    "name": "银杏Kyou",
+    "type": "vtuber",
+    "room": 24572617,
+    "face": "/bfs/face/bfaa4dbf9bdf5343244c372587eff7aa78c3dfee.jpg"
+  },
   "4832930": {
     "name": "银银子deisu",
     "type": "vtuber",
@@ -26686,6 +26704,12 @@
     "type": "vtuber",
     "room": 340331,
     "face": "/bfs/face/7bffd2272d036200b0ff3b1730cc3fe971f56f46.jpg"
+  },
+  "703055595": {
+    "name": "阿绿Midori",
+    "type": "vtuber",
+    "room": 24071352,
+    "face": "/bfs/face/e9624179b29c9e352fa741942f2b7247db7302b5.jpg"
   },
   "488184401": {
     "name": "阿肆IIsa_Channel",
