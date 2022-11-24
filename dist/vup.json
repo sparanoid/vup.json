@@ -4011,7 +4011,7 @@
     "name": "一露Lulu",
     "type": "vtuber",
     "room": 26007751,
-    "face": "/bfs/face/59f4be7a579aa11634853a38405f4359080f5a48.jpg"
+    "face": "/bfs/face/2915034b48bf0248176da6214dc829497f01c00c.jpg"
   },
   "14045966": {
     "name": "一颗有栖Official",
@@ -21743,6 +21743,12 @@
     "room": 22320823,
     "face": "/bfs/face/66d64d182592383d398140dd40053367b85b6cb3.jpg"
   },
+  "1410055126": {
+    "name": "糖泽希希",
+    "type": "vtuber",
+    "room": 23581300,
+    "face": "/bfs/face/b56fe97019a6ba323ec1bb0a28f2d9ffff50da84.jpg"
+  },
   "1439135088": {
     "name": "糖西Tansy",
     "type": "vtuber",
@@ -26110,6 +26116,12 @@
     "type": "vtuber",
     "room": 22459139,
     "face": "/bfs/face/bb9887c4c38127692c99b7971095fa79e36351e5.jpg"
+  },
+  "697456406": {
+    "name": "金切遊楽Channel",
+    "type": "vtuber",
+    "room": 25393774,
+    "face": "/bfs/face/835e2dc2ebcef6f5933f3147cb13903ae71c6a69.jpg"
   },
   "12645374": {
     "name": "金刚哈佛校友会",
