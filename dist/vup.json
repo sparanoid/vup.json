@@ -13301,6 +13301,12 @@
     "room": 0,
     "face": "/bfs/face/6a09d891a4693fe95e3001f9ffadd5d324a58bdc.jpg"
   },
+  "1591015548": {
+    "name": "星宇-Ucyuu-代号26",
+    "type": "vtuber",
+    "room": 25242362,
+    "face": "/bfs/face/a067946010001d5439a97da4acfd0c79ea65beee.jpg"
+  },
   "102600": {
     "name": "颜宝饲养颜究员",
     "type": "vtuber",
@@ -19318,6 +19324,12 @@
     "type": "vtuber",
     "room": 1763689,
     "face": "/bfs/face/e8fcc891521324ade4baa5cee6152bceb715601f.jpg"
+  },
+  "2032666669": {
+    "name": "理吹Ribuki",
+    "type": "vtuber",
+    "room": 25880817,
+    "face": "/bfs/face/3afb3756234630b1ffae28312359dbbd27ce43d0.jpg"
   },
   "583235899": {
     "name": "理想_ideal",
