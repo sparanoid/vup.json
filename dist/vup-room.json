@@ -545,12 +545,6 @@
     "room_id": 22568155,
     "face": "/bfs/face/f148e3e85bc9b9deb12594da1b3f2bfee9ad7083.jpg"
   },
-  "477698436": {
-    "name": "Double_project",
-    "type": "group",
-    "room_id": 0,
-    "face": "/bfs/face/be8ce83686af5d104c4c1802acae7289933cabce.jpg"
-  },
   "41806": {
     "name": "クロロ__エリス",
     "type": "vtuber",
@@ -8261,6 +8255,12 @@
     "room_id": 21483983,
     "face": "/bfs/face/0fb323b0a6717e78e00394953cdd46943d9dce14.jpg"
   },
+  "1436893874": {
+    "name": "城间叶",
+    "type": "vtuber",
+    "room_id": 23722214,
+    "face": "/bfs/face/3e44d7c5c6b1ac1c6b5ca074a5b44f4e25b5b6b0.jpg"
+  },
   "411913934": {
     "name": "堕天稚悠爱Official",
     "type": "vtuber",
@@ -11093,6 +11093,12 @@
     "room_id": 291482,
     "face": "/bfs/face/b9cfbf1ea2492c2656418c2c1518e58d64e064f2.jpg"
   },
+  "1344723": {
+    "name": "山田啊酱ああああ",
+    "type": "vtuber",
+    "room_id": 650912,
+    "face": "/bfs/face/10f4633d522cbfe497a716459e450d3f673e06bf.jpg"
+  },
   "7832707": {
     "name": "山県透",
     "type": "vtuber",
@@ -11464,6 +11470,12 @@
     "type": "vtuber",
     "room_id": 23113574,
     "face": "/bfs/face/98dbd0d3ee1a238ac909c2f8c1be29d6f8656529.jpg"
+  },
+  "1162187292": {
+    "name": "Pea话大王帕帕拉恰",
+    "type": "vtuber",
+    "room_id": 25745599,
+    "face": "/bfs/face/8aa91e829e83cb6a3ca7e99fc4fc5caf7214e1de.jpg"
   },
   "8172211": {
     "name": "帕拉露_Pararu",
@@ -15095,11 +15107,11 @@
     "room_id": 4963432,
     "face": "/bfs/face/42fcf0fff63bb7d138ef252e4cc653db25da14db.jpg"
   },
-  "614329938": {
-    "name": "好困小未",
+  "4235319": {
+    "name": "松坂未",
     "type": "vtuber",
-    "room_id": 22350100,
-    "face": "/bfs/face/6e2de7fed834d6d4b3576e38b76b9275c695c583.jpg"
+    "room_id": 23269797,
+    "face": "/bfs/face/70e2ffebae48aa75736b78a4754654448e42818b.jpg"
   },
   "1087714512": {
     "name": "松塔塔吃超多",
@@ -15976,6 +15988,12 @@
     "type": "vtuber",
     "room_id": 22926124,
     "face": "/bfs/face/571520fc7dfe1043b2e3afaa24110baa1889e4d8.jpg"
+  },
+  "1736210": {
+    "name": "梅奈子",
+    "type": "vtuber",
+    "room_id": 23198878,
+    "face": "/bfs/face/6b66982e6539eaaf5093c8ddda5c93221f76ca60.jpg"
   },
   "1199634708": {
     "name": "梅妻ume",
@@ -17266,6 +17284,12 @@
     "type": "vtuber",
     "room_id": 8613948,
     "face": "/bfs/face/8f4c0332adcf514fe922728aead1a08cf4c4ab4a.jpg"
+  },
+  "3461582084376583": {
+    "name": "河知舟",
+    "type": "vtuber",
+    "room_id": 26265225,
+    "face": "/bfs/face/c58f960fdf8ca7e321b96ab76c059f5292d5ccf4.jpg"
   },
   "65566781": {
     "name": "河豚不是海豚音",
@@ -19571,6 +19595,12 @@
     "room_id": 14085407,
     "face": "/bfs/face/38a47945615ca9a2ead424ee8bcf94ddb394f6ae.jpg"
   },
+  "1917237530": {
+    "name": "瑶光Yuka",
+    "type": "vtuber",
+    "room_id": 25301269,
+    "face": "/bfs/face/4b7dcbc704028b4bf974bc64cc9f5cf64c727471.jpg"
+  },
   "414293809": {
     "name": "璃亚Official",
     "type": "vtuber",
@@ -19666,6 +19696,12 @@
     "type": "vtuber",
     "room_id": 26059501,
     "face": "/bfs/face/4fe27b525661079524deab94faa55baedcf95478.jpg"
+  },
+  "59855155": {
+    "name": "甘霖Gerlin",
+    "type": "vtuber",
+    "room_id": 24656351,
+    "face": "/bfs/face/9d052adede629ae5d72665f7cb073e850cdee162.jpg"
   },
   "557080920": {
     "name": "甜崽Babys",
@@ -20951,6 +20987,12 @@
     "room_id": 22041958,
     "face": "/bfs/face/d191514f02c6ba4439d1e74717757aa25c54aa0a.jpg"
   },
+  "1280060359": {
+    "name": "神姬伊娜狸Inari",
+    "type": "vtuber",
+    "room_id": 23934605,
+    "face": "/bfs/face/08540a58d0d6da43cf23f6a3680c2f0f80592c9c.jpg"
+  },
   "444234804": {
     "name": "神子杏-Official",
     "type": "vtuber",
@@ -22126,6 +22168,12 @@
     "type": "vtuber",
     "room_id": 22768399,
     "face": "/bfs/face/3fcbe67f309059e85abc54b3b4c9f8b26b557dc5.jpg"
+  },
+  "3461576189282324": {
+    "name": "纱依shayi",
+    "type": "vtuber",
+    "room_id": 26168663,
+    "face": "/bfs/face/12b7843fcf7b30b8b57dcb62c9b1841b63daa5e2.jpg"
   },
   "1227964496": {
     "name": "纱夏sayaka",
@@ -23309,6 +23357,12 @@
     "room_id": 21501724,
     "face": "/bfs/face/2399962b18604ee552c13db4f015c51242092bd5.jpg"
   },
+  "356651009": {
+    "name": "花信Kasin",
+    "type": "vtuber",
+    "room_id": 25649533,
+    "face": "/bfs/face/2e38c882f0524743596b3b2d51c6cdbdb2a1716a.jpg"
+  },
   "475720147": {
     "name": "花南音Channel",
     "type": "vtuber",
@@ -23962,6 +24016,12 @@
     "type": "vtuber",
     "room_id": 101519,
     "face": "/bfs/face/2b85792aa4feaa4e72c6c5b6a968bf739369a0ff.jpg"
+  },
+  "1210816252": {
+    "name": "草莓猫Taffy",
+    "type": "vtuber",
+    "room_id": 26421197,
+    "face": "/bfs/face/aa4faec01886cbf6494589c9f64591b0c920da8b.jpg"
   },
   "569849397": {
     "name": "stpr_official",

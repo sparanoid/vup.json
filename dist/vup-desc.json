@@ -636,13 +636,6 @@
     "face": "/bfs/face/f148e3e85bc9b9deb12594da1b3f2bfee9ad7083.jpg",
     "sign": "VTuber ドコカノうさぎ"
   },
-  "477698436": {
-    "name": "Double_project",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/be8ce83686af5d104c4c1802acae7289933cabce.jpg",
-    "sign": "Double project 双重计划 唯一指定官方账号"
-  },
   "41806": {
     "name": "クロロ__エリス",
     "type": "vtuber",
@@ -9638,6 +9631,13 @@
     "face": "/bfs/face/0fb323b0a6717e78e00394953cdd46943d9dce14.jpg",
     "sign": "随心所欲系个人势小狐狸，有空的时间开直播，做自己喜欢的事，感恩支持。\n\n"
   },
+  "1436893874": {
+    "name": "城间叶",
+    "type": "vtuber",
+    "room": 23722214,
+    "face": "/bfs/face/3e44d7c5c6b1ac1c6b5ca074a5b44f4e25b5b6b0.jpg",
+    "sign": "<ChaosLive·S>个人势，PC/NS/音游玩家，欢迎大家的到来！聊天&直播通知群：983521650"
+  },
   "411913934": {
     "name": "堕天稚悠爱Official",
     "type": "vtuber",
@@ -12942,6 +12942,13 @@
     "face": "/bfs/face/b9cfbf1ea2492c2656418c2c1518e58d64e064f2.jpg",
     "sign": "个人势虚拟主播 努力学会唱歌中 爱胡思乱想 没有安全感 被害妄想症患者 粉丝群动态置顶"
   },
+  "1344723": {
+    "name": "山田啊酱ああああ",
+    "type": "vtuber",
+    "room": 650912,
+    "face": "/bfs/face/10f4633d522cbfe497a716459e450d3f673e06bf.jpg",
+    "sign": "个人势vup，是山羊和犀牛的奇美拉。pro画师。头像来自@不会画画的阿云 ！！ ｜粉丝群：753631274【入群验证：香甜】"
+  },
   "7832707": {
     "name": "山県透",
     "type": "vtuber",
@@ -13375,6 +13382,13 @@
     "room": 23113574,
     "face": "/bfs/face/98dbd0d3ee1a238ac909c2f8c1be29d6f8656529.jpg",
     "sign": "12月31日毕业/Live2D学习中/约稿qq292674393/立绘已申请版权请勿借鉴抄袭"
+  },
+  "1162187292": {
+    "name": "Pea话大王帕帕拉恰",
+    "type": "vtuber",
+    "room": 25745599,
+    "face": "/bfs/face/8aa91e829e83cb6a3ca7e99fc4fc5caf7214e1de.jpg",
+    "sign": "一颗海里的金鱼记忆桃靓仔，嗷！什么都不势 - 桃镇交流中心：aqkyds4q9（频道）"
   },
   "8172211": {
     "name": "帕拉露_Pararu",
@@ -17611,12 +17625,12 @@
     "face": "/bfs/face/42fcf0fff63bb7d138ef252e4cc653db25da14db.jpg",
     "sign": "去小号啦~"
   },
-  "614329938": {
-    "name": "好困小未",
+  "4235319": {
+    "name": "松坂未",
     "type": "vtuber",
-    "room": 22350100,
-    "face": "/bfs/face/6e2de7fed834d6d4b3576e38b76b9275c695c583.jpg",
-    "sign": "私人号不营业 取关随意喵"
+    "room": 23269797,
+    "face": "/bfs/face/70e2ffebae48aa75736b78a4754654448e42818b.jpg",
+    "sign": "草履虫恶魔"
   },
   "1087714512": {
     "name": "松塔塔吃超多",
@@ -18639,6 +18653,13 @@
     "room": 22926124,
     "face": "/bfs/face/571520fc7dfe1043b2e3afaa24110baa1889e4d8.jpg",
     "sign": "打工吧！王女大人"
+  },
+  "1736210": {
+    "name": "梅奈子",
+    "type": "vtuber",
+    "room": 23198878,
+    "face": "/bfs/face/6b66982e6539eaaf5093c8ddda5c93221f76ca60.jpg",
+    "sign": "纯个人势Vup，无公会无运营无挂靠，也不考虑加~\n直播歌杂为主，每晚20：00较容易捕捉。\n群：178843289，录播@梅奈子录播组"
   },
   "1199634708": {
     "name": "梅妻ume",
@@ -20144,6 +20165,13 @@
     "room": 8613948,
     "face": "/bfs/face/8f4c0332adcf514fe922728aead1a08cf4c4ab4a.jpg",
     "sign": "这里是虚拟up沫熠，一个破打游戏的和算得上喜欢唱歌吧的v，请多关照qwq"
+  },
+  "3461582084376583": {
+    "name": "河知舟",
+    "type": "vtuber",
+    "room": 26265225,
+    "face": "/bfs/face/c58f960fdf8ca7e321b96ab76c059f5292d5ccf4.jpg",
+    "sign": "个人势新V\n直播时间：19:00到困or野生随机出没营业摸索中）：杂谈、看剧、偶尔手游\n营地指向标：707695916"
   },
   "65566781": {
     "name": "河豚不是海豚音",
@@ -22833,6 +22861,13 @@
     "face": "/bfs/face/38a47945615ca9a2ead424ee8bcf94ddb394f6ae.jpg",
     "sign": "u were nothing if not true"
   },
+  "1917237530": {
+    "name": "瑶光Yuka",
+    "type": "vtuber",
+    "room": 25301269,
+    "face": "/bfs/face/4b7dcbc704028b4bf974bc64cc9f5cf64c727471.jpg",
+    "sign": "Infinity Project所属⭐️你好呀，我是瑶光Yuka，国风歌势VUP！主要在下午和晚上出没~感谢关注~粉丝群：836822480"
+  },
   "414293809": {
     "name": "璃亚Official",
     "type": "vtuber",
@@ -22944,6 +22979,13 @@
     "room": 26059501,
     "face": "/bfs/face/4fe27b525661079524deab94faa55baedcf95478.jpg",
     "sign": "你好！好好相处！我们可以聊好多好多话题！\n\n著作权标记：こまどまま（あまとうさぎ）Twitter：@komado_booth\n"
+  },
+  "59855155": {
+    "name": "甘霖Gerlin",
+    "type": "vtuber",
+    "room": 24656351,
+    "face": "/bfs/face/9d052adede629ae5d72665f7cb073e850cdee162.jpg",
+    "sign": "个精灵势vup，偶尔歌杂偶尔游戏回\n取名甘霖是想化作及时雨滋润你们的心田\n最后，祝愿开心快乐幸福～"
   },
   "557080920": {
     "name": "甜崽Babys",
@@ -24443,6 +24485,13 @@
     "face": "/bfs/face/d191514f02c6ba4439d1e74717757aa25c54aa0a.jpg",
     "sign": "今天的你还好吗？LBG社团的神明泡泡茶会✨的一员，经常突击直播，详情看置顶动态～欢迎大家的联动呐！目前目标:10w粉，你愿意成为我的崽崽嘛~"
   },
+  "1280060359": {
+    "name": "神姬伊娜狸Inari",
+    "type": "vtuber",
+    "room": 23934605,
+    "face": "/bfs/face/08540a58d0d6da43cf23f6a3680c2f0f80592c9c.jpg",
+    "sign": "个人势，来自月球的实习神明Vup。直播通知群685394383"
+  },
   "444234804": {
     "name": "神子杏-Official",
     "type": "vtuber",
@@ -25814,6 +25863,13 @@
     "room": 22768399,
     "face": "/bfs/face/3fcbe67f309059e85abc54b3b4c9f8b26b557dc5.jpg",
     "sign": "<Chobits-live>所属 EN VUP Kiyo Inga here! Mama @paryi "
+  },
+  "3461576189282324": {
+    "name": "纱依shayi",
+    "type": "vtuber",
+    "room": 26168663,
+    "face": "/bfs/face/12b7843fcf7b30b8b57dcb62c9b1841b63daa5e2.jpg",
+    "sign": "雪域provealms所属的闲散魔女 /直播通知群：230096543 / 合作请联系provealms@foxmail.com"
   },
   "1227964496": {
     "name": "纱夏sayaka",
@@ -27194,6 +27250,13 @@
     "face": "/bfs/face/2399962b18604ee552c13db4f015c51242092bd5.jpg",
     "sign": ""
   },
+  "356651009": {
+    "name": "花信Kasin",
+    "type": "vtuber",
+    "room": 25649533,
+    "face": "/bfs/face/2e38c882f0524743596b3b2d51c6cdbdb2a1716a.jpg",
+    "sign": "【白龙公主驾到！】直播时间(固定)：13：00-15：00\n偶尔会有其他时间出没！具体可加粉丝群：376787202，快来找我丸啦！"
+  },
   "475720147": {
     "name": "花南音Channel",
     "type": "vtuber",
@@ -27956,6 +28019,13 @@
     "room": 101519,
     "face": "/bfs/face/2b85792aa4feaa4e72c6c5b6a968bf739369a0ff.jpg",
     "sign": "海外喵，个人游戏势vup！喜欢我就关注一波吧谢谢！"
+  },
+  "1210816252": {
+    "name": "草莓猫Taffy",
+    "type": "vtuber",
+    "room": 26421197,
+    "face": "/bfs/face/aa4faec01886cbf6494589c9f64591b0c920da8b.jpg",
+    "sign": "我是草莓猫！"
   },
   "569849397": {
     "name": "stpr_official",
