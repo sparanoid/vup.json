@@ -1025,6 +1025,12 @@
     "room_id": 14222920,
     "face": "/bfs/face/b6b4bfa0f1de8a103b17966b5da503507fb8ef8d.jpg"
   },
+  "146181099": {
+    "name": "Karo_卡洛",
+    "type": "vtuber",
+    "room_id": 6619765,
+    "face": "/bfs/face/2ff63d4d3c68222ddf603296b8d592493503cab8.jpg"
+  },
   "9561918": {
     "name": "Kekon_Official",
     "type": "vtuber",
@@ -10685,6 +10691,12 @@
     "room_id": 837039,
     "face": "/bfs/face/597e8769dca581ddae3f65af42ca707cc5f5c61d.jpg"
   },
+  "1831179515": {
+    "name": "小舟潞Kofunero",
+    "type": "vtuber",
+    "room_id": 26376932,
+    "face": "/bfs/face/951e96d3d7028ff09106a1a7bcded4255b55647a.jpg"
+  },
   "477904396": {
     "name": "小艾咪不吃鱼",
     "type": "vtuber",
@@ -10720,6 +10732,12 @@
     "type": "vtuber",
     "room_id": 24587207,
     "face": "/bfs/face/979218510e8ab904da42b561de4aa95b1cdd50d2.jpg"
+  },
+  "3461564369733705": {
+    "name": "小葵_aoi",
+    "type": "vtuber",
+    "room_id": 25814163,
+    "face": "/bfs/face/6d9e35b8b92449f31444e851fe6312706ac1c7da.jpg"
   },
   "13740989": {
     "name": "小葵花_Channel",
@@ -16582,6 +16600,12 @@
     "type": "vtuber",
     "room_id": 1960179,
     "face": "/bfs/face/f04806fe9500c649c5bfa251c25ad4173bc83328.jpg"
+  },
+  "439941": {
+    "name": "樹莓蛋奶酥",
+    "type": "vtuber",
+    "room_id": 1409246,
+    "face": "/bfs/face/1ebe43f58bbb2ad8682637b12196180f6337271c.jpg"
   },
   "63038006": {
     "name": "橄榄树下的黑酱",
@@ -26884,12 +26908,6 @@
     "type": "vtuber",
     "room_id": 21750544,
     "face": "/bfs/face/c349bdf649acc02a5c428eb333ad5bdcdfbc5672.jpg"
-  },
-  "30527188": {
-    "name": "陌茵momoni_",
-    "type": "vtuber",
-    "room_id": 260807,
-    "face": "/bfs/face/28c73825ebc91250ee71983656aafeb08e961e80.jpg"
   },
   "337827661": {
     "name": "陆婉莹GodRiku",

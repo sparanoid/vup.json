@@ -854,6 +854,11 @@
     "type": "vtuber",
     "room": 14222920
   },
+  "146181099": {
+    "name": "Karo_卡洛",
+    "type": "vtuber",
+    "room": 6619765
+  },
   "9561918": {
     "name": "Kekon_Official",
     "type": "vtuber",
@@ -8904,6 +8909,11 @@
     "type": "vtuber",
     "room": 837039
   },
+  "1831179515": {
+    "name": "小舟潞Kofunero",
+    "type": "vtuber",
+    "room": 26376932
+  },
   "477904396": {
     "name": "小艾咪不吃鱼",
     "type": "vtuber",
@@ -8933,6 +8943,11 @@
     "name": "小莔莔子",
     "type": "vtuber",
     "room": 24587207
+  },
+  "3461564369733705": {
+    "name": "小葵_aoi",
+    "type": "vtuber",
+    "room": 25814163
   },
   "13740989": {
     "name": "小葵花_Channel",
@@ -13818,6 +13833,11 @@
     "name": "樱饼饼Sakura",
     "type": "vtuber",
     "room": 1960179
+  },
+  "439941": {
+    "name": "樹莓蛋奶酥",
+    "type": "vtuber",
+    "room": 1409246
   },
   "63038006": {
     "name": "橄榄树下的黑酱",
@@ -22403,11 +22423,6 @@
     "name": "陌星之韵_Channel",
     "type": "vtuber",
     "room": 21750544
-  },
-  "30527188": {
-    "name": "陌茵momoni_",
-    "type": "vtuber",
-    "room": 260807
   },
   "337827661": {
     "name": "陆婉莹GodRiku",
