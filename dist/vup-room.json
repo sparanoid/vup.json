@@ -16265,6 +16265,12 @@
     "room_id": 7962050,
     "face": "/bfs/face/9b7a304f280544d7eca978972d23f947fcef041e.jpg"
   },
+  "1853473750": {
+    "name": "森瀬Tsugumi",
+    "type": "vtuber",
+    "room_id": 26153692,
+    "face": "/bfs/face/c697514c2b73c98c290e7d8e7d159ef2087365ba.jpg"
+  },
   "1102958400": {
     "name": "森绘麻Moriema",
     "type": "vtuber",
@@ -19966,6 +19972,12 @@
     "type": "vtuber",
     "room_id": 21772345,
     "face": "/bfs/face/8f8fa5c2ef1f8b458b2d771b96bb3770ce8732b3.jpg"
+  },
+  "1960682407": {
+    "name": "白小蛮不讲理",
+    "type": "vtuber",
+    "room_id": 25773817,
+    "face": "/bfs/face/a05be53e507111fe4d8b144857c336ffe7d397ca.jpg"
   },
   "458202227": {
     "name": "白小雪Maytcha",
