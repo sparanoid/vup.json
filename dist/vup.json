@@ -8843,6 +8843,12 @@
     "room": 21131813,
     "face": "/bfs/face/3936f2e9963e855499124b91a28a166be4912021.jpg"
   },
+  "670725269": {
+    "name": "夜羽玲夕",
+    "type": "vtuber",
+    "room": 22479430,
+    "face": "/bfs/face/9265b0fed2f47ef20bc4f163e0130de42f1b51af.jpg"
+  },
   "1975072701": {
     "name": "夜色喵喵-",
     "type": "vtuber",
@@ -25108,6 +25114,12 @@
     "type": "fan",
     "room": 0,
     "face": "/bfs/face/776dcb833ff54439dc3503a5a6845b524d6a8464.jpg"
+  },
+  "1599964809": {
+    "name": "裁月电量百分百",
+    "type": "vtuber",
+    "room": 26511839,
+    "face": "/bfs/face/1adc3cd3aec96ade9968e8c6ada25a3726c85cd6.jpg"
   },
   "650899373": {
     "name": "装甲车Machinegun",
