@@ -10619,6 +10619,12 @@
     "room_id": 74446,
     "face": "/bfs/face/1e875e2d1647704363999fdf356b9c16f0611a07.jpg"
   },
+  "3461579420994302": {
+    "name": "白涩狐狸依诺-柠檬味",
+    "type": "vtuber",
+    "room_id": 26279304,
+    "face": "/bfs/face/96979bc4fb9aeba8579a35b923574e79025c12e4.jpg"
+  },
   "298484": {
     "name": "小狼XF",
     "type": "vtuber",
@@ -13085,6 +13091,12 @@
     "room_id": 22261334,
     "face": "/bfs/face/d427648d4ea00249c14ace15a953f7f95859eb84.jpg"
   },
+  "1381622782": {
+    "name": "时尾树",
+    "type": "vtuber",
+    "room_id": 23578404,
+    "face": "/bfs/face/0378063bd2916c0a126b5ed288a4d509e0ba7ae4.jpg"
+  },
   "545539883": {
     "name": "时来梦爱",
     "type": "vtuber",
@@ -13209,7 +13221,7 @@
     "name": "星ノ谷爱莉Official",
     "type": "vtuber",
     "room_id": 481798,
-    "face": "/bfs/face/5b852254b17411749b3eddd3eafe18f4c8567cc1.jpg"
+    "face": "/bfs/face/30a2dbe23bb969988ef1fe48b1cc02db3bb91af8.jpg"
   },
   "5730": {
     "name": "星乃めあOfficial",
@@ -14325,7 +14337,7 @@
     "name": "曼陀菲尔Manteuffel",
     "type": "vtuber",
     "room_id": 6077410,
-    "face": "/bfs/face/1eb1a24a0bf99b01625dcfcf1e359ae6b7b5f743.jpg"
+    "face": "/bfs/face/cbbd37d1168a62e79a163be4a7d6a58b42568e45.jpg"
   },
   "11041707": {
     "name": "最poi的Nia",
@@ -15857,6 +15869,12 @@
     "room_id": 2335160,
     "face": "/bfs/face/e45a891e6f64d46d0bb9fbf698099a75610003ee.jpg"
   },
+  "3493078132328661": {
+    "name": "桃让Tori",
+    "type": "vtuber",
+    "room_id": 26352293,
+    "face": "/bfs/face/9f56e2fc55fee31ef8711a9f4b6432778fbaf386.jpg"
+  },
   "1819548520": {
     "name": "桃酥Momo",
     "type": "vtuber",
@@ -16053,7 +16071,7 @@
     "name": "梦咲有绪",
     "type": "vtuber",
     "room_id": 25622556,
-    "face": "/bfs/face/37982010893fe56eac5a5fdbaa34eaec6ba04a2d.jpg"
+    "face": "/bfs/face/de71ce1332c03fa17a087089e444094fddcffa53.jpg"
   },
   "489758060": {
     "name": "梦天璃_Official",
@@ -16353,7 +16371,7 @@
     "name": "璃月青空",
     "type": "vtuber",
     "room_id": 1397151,
-    "face": "/bfs/face/c0a7030dce4a702171c3a9dd73dedbb8480368f8.jpg"
+    "face": "/bfs/face/8888d6d82b4424a71f649032d3fe6c3d7260e38b.jpg"
   },
   "1301635": {
     "name": "椛暗",
@@ -16764,10 +16782,10 @@
     "face": "/bfs/face/5035eeb6eb1f17ab87e55603e6d0d23928799b02.jpg"
   },
   "435789390": {
-    "name": "伤心紫玫瑰",
+    "name": "雪村凉子",
     "type": "vtuber",
     "room_id": 21466154,
-    "face": "/bfs/face/049b84f0a7a805ed62a91a60d263130e2f264c25.jpg"
+    "face": "/bfs/face/0ef0cd6c3aaf1c62cc3dbaca0e2d5b89ddad8456.jpg"
   },
   "96230607": {
     "name": "欧卡-ouka",
@@ -20907,7 +20925,7 @@
     "name": "祐滢",
     "type": "vtuber",
     "room_id": 26418587,
-    "face": "/bfs/face/a654a3c9f0b8bf1b00c45fa1adbbcb74e98d5371.jpg"
+    "face": "/bfs/face/6a2685cc0d5d58988ffec3b853f33342f05c4300.jpg"
   },
   "3046429": {
     "name": "祖娅纳惜",
@@ -22791,7 +22809,7 @@
     "name": "翼火蛇Official",
     "type": "vtuber",
     "room_id": 21935223,
-    "face": "/bfs/face/a143486837607de99239e98e1cbb758461abf08b.jpg"
+    "face": "/bfs/face/574932c1c8ee915e6dd6cde8a10a196923d3790c.jpg"
   },
   "321515030": {
     "name": "翼莉雅Eliya",
@@ -23176,6 +23194,12 @@
     "type": "vtuber",
     "room_id": 22701393,
     "face": "/bfs/face/57aa2da44eec0f3d52420d2283e5d40276767228.jpg"
+  },
+  "41654706": {
+    "name": "艾诺Aurora",
+    "type": "vtuber",
+    "room_id": 9447200,
+    "face": "/bfs/face/afbca62e82296aea03ce8eb75721ca76177d1355.jpg"
   },
   "11349313": {
     "name": "艾露ミアナ",
