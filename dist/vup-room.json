@@ -5130,7 +5130,7 @@
     "face": "/bfs/face/18b8a23be9ffc40192bfa2d4dd8c3ba5e995032f.jpg"
   },
   "1758083950": {
-    "name": "别看了就这样吧",
+    "name": "猫猫不吃酱",
     "type": "vtuber",
     "room_id": 24533172,
     "face": "/bfs/face/2df234decf6d0518396e312db4e25ffd7e94dfcc.jpg"
@@ -6353,6 +6353,12 @@
     "room_id": 12476524,
     "face": "/bfs/face/9e4bb9af59fd972ffe727f3dbd7aea2fc6824086.jpg"
   },
+  "3493089744259405": {
+    "name": "初小雨-ovo",
+    "type": "vtuber",
+    "room_id": 26540437,
+    "face": "/bfs/face/a8ceb6a5519afe0f8408ba7f3722e4be21fb6822.jpg"
+  },
   "431473020": {
     "name": "初焰Hatsuhomura",
     "type": "vtuber",
@@ -7372,6 +7378,12 @@
     "type": "vtuber",
     "room_id": 370159,
     "face": "/bfs/face/e496b3555f8d5698578f2619c11ad089d5c04978.jpg"
+  },
+  "24924516": {
+    "name": "可诺Kino",
+    "type": "vtuber",
+    "room_id": 5058245,
+    "face": "/bfs/face/6c53c080661438b3e4c0cef44f831cff5e5c1e12.jpg"
   },
   "12233377": {
     "name": "史官ニアSikan",
@@ -10864,6 +10876,12 @@
     "type": "vtuber",
     "room_id": 22196167,
     "face": "/bfs/face/3ba59169fba6ca1ec3bd817a63ff266343d56052.jpg"
+  },
+  "3461570239662267": {
+    "name": "小鸟游千岁",
+    "type": "vtuber",
+    "room_id": 26059927,
+    "face": "/bfs/face/c80f69efcf581dc389327dc09b48763f782586e6.jpg"
   },
   "1069108539": {
     "name": "小鸟游杏子Official",
@@ -15863,6 +15881,12 @@
     "room_id": 21949636,
     "face": "/bfs/face/f7767fcef3b3ef5c23e6c8788055dd2a5c57feba.jpg"
   },
+  "4298023": {
+    "name": "桃泽美羽Miyu",
+    "type": "vtuber",
+    "room_id": 13767150,
+    "face": "/bfs/face/96ab4ff23d891cdc38bc911e6c84bfb2ce6d6f81.jpg"
+  },
   "1712293375": {
     "name": "桃泽英梨梨channel",
     "type": "vtuber",
@@ -20236,6 +20260,12 @@
     "type": "vtuber",
     "room_id": 21652717,
     "face": "/bfs/face/37212a3393d363e646c3491f210d0972746fa367.jpg"
+  },
+  "686216575": {
+    "name": "白给兽-电齿",
+    "type": "vtuber",
+    "room_id": 22612907,
+    "face": "/bfs/face/8538a67920dbe041dcf421d15cd1087476c7d6a2.jpg"
   },
   "4621148": {
     "name": "白羽八shiroha",
@@ -26615,6 +26645,12 @@
     "room_id": 4316215,
     "face": "/bfs/face/2746cacdf69bf3fb08fc2da56c929d557014bfc9.jpg"
   },
+  "3461574394120768": {
+    "name": "铃音宁宁",
+    "type": "vtuber",
+    "room_id": 26204808,
+    "face": "/bfs/face/96002b35ec54fd4408e359e0c87ead2cf2c3621b.jpg"
+  },
   "1238492302": {
     "name": "铃音舞梦_official",
     "type": "vtuber",
@@ -27490,6 +27526,12 @@
     "type": "vtuber",
     "room_id": 13639273,
     "face": "/bfs/face/279dc7e52815b9e0489aa900623305ee60dedc23.jpg"
+  },
+  "334299": {
+    "name": "零太",
+    "type": "vtuber",
+    "room_id": 34587,
+    "face": "/bfs/face/4fba91036cf5ed03899f2de4ad81bfafa33f3835.jpg"
   },
   "33031951": {
     "name": "零月月酱",
