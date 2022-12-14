@@ -3,7 +3,7 @@ import httpx
 from urllib.parse import urlparse
 
 r = httpx.get(
-    'https://api.tokyo.vtbs.moe/v1/info',
+    'https://api.vtbs.moe/v1/info',
     timeout=10,
 )
 vtbs = r.json()
