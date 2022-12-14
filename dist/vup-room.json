@@ -4319,6 +4319,12 @@
     "room_id": 372428,
     "face": "/bfs/face/c4ad7cae2b899c74f6ac25de7ac63f73eb751982.jpg"
   },
+  "1184238527": {
+    "name": "不知原深",
+    "type": "vtuber",
+    "room_id": 26526557,
+    "face": "/bfs/face/589b090e32e39a97cf38c908f393c9f6155da736.jpg"
+  },
   "454737600": {
     "name": "不知火芙蕾雅Official",
     "type": "vtuber",
@@ -12628,6 +12634,12 @@
     "type": "vtuber",
     "room_id": 13661923,
     "face": "/bfs/face/2580f8a04e05977d667198f675cd3b0dc218a47e.jpg"
+  },
+  "487402608": {
+    "name": "托尔赛斯Taurus",
+    "type": "vtuber",
+    "room_id": 26336970,
+    "face": "/bfs/face/5b7760f5f1b45286a217282089a354fdbfc28667.jpg"
   },
   "4929299": {
     "name": "托莉Tauri_Channel",
