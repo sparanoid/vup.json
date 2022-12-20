@@ -1079,6 +1079,12 @@
     "room": 5304378,
     "face": "/bfs/face/98a10e961aa05254b7c7c71a347f584ce2a4c065.jpg"
   },
+  "10730849": {
+    "name": "L-伊千代ICHI",
+    "type": "vtuber",
+    "room": 868973,
+    "face": "/bfs/face/31848e4983479fbf861feb8da875b1c89235b5d8.jpg"
+  },
   "110725714": {
     "name": "LUNA_月老板",
     "type": "vtuber",
@@ -2272,6 +2278,12 @@
     "type": "vtuber",
     "room": 6055086,
     "face": "/bfs/face/581f3a649d77640595349a08d962377f2e4da2e4.jpg"
+  },
+  "29371864": {
+    "name": "TTT酱_",
+    "type": "vtuber",
+    "room": 140880,
+    "face": "/bfs/face/3944c3aa7fd221785fa42a94046acc4e88a0ed91.jpg"
   },
   "181559741": {
     "name": "Tacitly_麟犀",
@@ -3707,6 +3719,12 @@
     "room": 21402105,
     "face": "/bfs/face/aefabcaa98277546e19ed9421e93c63fc2586f87.jpg"
   },
+  "1995854577": {
+    "name": "ベルモナOfficial",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/6124fd1aaa044723347c74fee3cf3e0a491565c4.jpg"
+  },
   "441666967": {
     "name": "贝尔蒙德Official",
     "type": "vtuber",
@@ -4277,12 +4295,6 @@
     "room": 23139731,
     "face": "/bfs/face/d489c92447fd83b1aaa253af2c714c1b7c32d5a4.jpg"
   },
-  "3570093": {
-    "name": "春野萌Moe",
-    "type": "vtuber",
-    "room": 1589452,
-    "face": "/bfs/face/5749adb8e5fdf46441f08447025d5f43729bbd70.jpg"
-  },
   "399999687": {
     "name": "不卡Noka_Channel",
     "type": "vtuber",
@@ -4793,6 +4805,12 @@
     "room": 0,
     "face": "/bfs/face/2ee01571e485318a33e384f647a1bbcc6cefd5e3.jpg"
   },
+  "1037615578": {
+    "name": "云柒柒Official",
+    "type": "vtuber",
+    "room": 24345009,
+    "face": "/bfs/face/33edaaa548554c926c9a3f7cb3f680e9910d7c83.jpg"
+  },
   "32724937": {
     "name": "日下部云灰Channel",
     "type": "vtuber",
@@ -5182,6 +5200,12 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/5022ad8f2da701c821edc66a99d753638dda2030.jpg"
+  },
+  "1694610556": {
+    "name": "伊索尔Sol",
+    "type": "vtuber",
+    "room": 25971921,
+    "face": "/bfs/face/945b713ba1b6cec236d817d481c28a6842453ac8.jpg"
   },
   "36403332": {
     "name": "伊露露大魔王",
@@ -7061,6 +7085,12 @@
     "room": 735709,
     "face": "/bfs/face/3a779bf5f8c6524b78d918da0011ca8d673d3411.jpg"
   },
+  "3493081923979268": {
+    "name": "卡呜Kawo",
+    "type": "vtuber",
+    "room": 26421557,
+    "face": "/bfs/face/d2de02c758b23e184926371ba246a1ddd3b4a0e5.jpg"
+  },
   "1250146883": {
     "name": "卡因Caine",
     "type": "vtuber",
@@ -8836,6 +8866,12 @@
     "type": "vtuber",
     "room": 21501659,
     "face": "/bfs/face/b8e5c56796c767bc59a53f6f5c44ab2ba4a114cb.jpg"
+  },
+  "772698": {
+    "name": "夜桜ゆり_YuRi",
+    "type": "vtuber",
+    "room": 662567,
+    "face": "/bfs/face/031dc0abb9d128823731adb7efc25fc930cd6972.jpg"
   },
   "1534034241": {
     "name": "夜棺飞鸟official",
@@ -10955,6 +10991,12 @@
     "room": 23612283,
     "face": "/bfs/face/f4f9f1ed7ddbab0db67e9931c4e3570860c822e6.jpg"
   },
+  "1189078151": {
+    "name": "尤拉莉Eulalie",
+    "type": "vtuber",
+    "room": 25316877,
+    "face": "/bfs/face/5bbca7230e6c42d41fb6d0a5028e21ed4e316439.jpg"
+  },
   "13856460": {
     "name": "尤旎蒂_Yunity",
     "type": "vtuber",
@@ -10984,12 +11026,6 @@
     "type": "vtuber",
     "room": 22067425,
     "face": "/bfs/face/662fab0b07d6e083ac242bf994ff6aaa7a809873.jpg"
-  },
-  "2427071": {
-    "name": "星晚Kotona",
-    "type": "vtuber",
-    "room": 30294,
-    "face": "/bfs/face/e0451d8380ba22bc7d5907f1eb3442e11d261181.jpg"
   },
   "877530": {
     "name": "尼亚_Nia",
@@ -12154,6 +12190,12 @@
     "type": "vtuber",
     "room": 21720262,
     "face": "/bfs/face/e60118f3886865e1ab60d5bfcaacacb69b8864f8.jpg"
+  },
+  "3493083863844887": {
+    "name": "心城结爱罗Official",
+    "type": "vtuber",
+    "room": 26530787,
+    "face": "/bfs/face/deba799615b7da7442340c09db2f16147fd6c605.jpg"
   },
   "413107335": {
     "name": "心夏kokona",
@@ -13547,6 +13589,12 @@
     "room": 2806636,
     "face": "/bfs/face/75844439cd06f2f68371d67aebb6fcda8a56e238.jpg"
   },
+  "2427071": {
+    "name": "星晚Kotona",
+    "type": "vtuber",
+    "room": 30294,
+    "face": "/bfs/face/e0451d8380ba22bc7d5907f1eb3442e11d261181.jpg"
+  },
   "487304729": {
     "name": "星月凛channel",
     "type": "vtuber",
@@ -14104,6 +14152,12 @@
     "type": "vtuber",
     "room": 24743118,
     "face": "/bfs/face/8b3368182c6ed6094b890caa0fbd018ed0596336.jpg"
+  },
+  "3570093": {
+    "name": "春野萌Moe",
+    "type": "vtuber",
+    "room": 1589452,
+    "face": "/bfs/face/5749adb8e5fdf46441f08447025d5f43729bbd70.jpg"
   },
   "1738665937": {
     "name": "春霞みぃな-Official",
@@ -15545,6 +15599,12 @@
     "room": 315636,
     "face": "/bfs/face/80022b5614949a3f5dc7168f55d4a6a2e77f811b.jpg"
   },
+  "1716560": {
+    "name": "柠宁Ramune",
+    "type": "vtuber",
+    "room": 236198,
+    "face": "/bfs/face/2c8957562bb5286b2c2e5a06213c6f6355564a36.jpg"
+  },
   "6102740": {
     "name": "沁柠Official",
     "type": "vtuber",
@@ -16972,6 +17032,12 @@
     "type": "vtuber",
     "room": 22323445,
     "face": "/bfs/face/8852fd8d342d33cc52868aa857b012bbcf43aabe.jpg"
+  },
+  "518742800": {
+    "name": "气人苯Fury",
+    "type": "vtuber",
+    "room": 24535727,
+    "face": "/bfs/face/88df88d87f001875b16f60213ded1383308850f1.jpg"
   },
   "5971153": {
     "name": "水川静流",
@@ -20392,6 +20458,12 @@
     "type": "vtuber",
     "room": 23865717,
     "face": "/bfs/face/ef6965cd5705d8bc3938ea86ef9d049bccf44bee.jpg"
+  },
+  "2081318489": {
+    "name": "白雪眠",
+    "type": "vtuber",
+    "room": 26021194,
+    "face": "/bfs/face/7717d500d200295c34dd8ba80c62e17257ecfaf3.jpg"
   },
   "1728751": {
     "name": "白雪美佳",
@@ -24947,6 +25019,12 @@
     "room": 0,
     "face": "/bfs/face/944fbf31ffca58b0ad0ec81a6521fe685a9aa966.jpg"
   },
+  "21505": {
+    "name": "蘭葵Ranao",
+    "type": "vtuber",
+    "room": 657572,
+    "face": "/bfs/face/a0e807a3d6d7f1891cfb36fe27400f99cc11b1e4.jpg"
+  },
   "19721846": {
     "name": "虎Harima",
     "type": "vtuber",
@@ -25571,6 +25649,12 @@
     "room": 291163,
     "face": "/bfs/face/9b2fd496a61671d22deb44550e6b9f065dcfa5bb.jpg"
   },
+  "1621099021": {
+    "name": "豆花小呆",
+    "type": "vtuber",
+    "room": 26110195,
+    "face": "/bfs/face/c8ca572605fbb6b42ef28af962ae1c8c4785e859.jpg"
+  },
   "7664000": {
     "name": "貓小涼nya",
     "type": "vtuber",
@@ -25624,6 +25708,12 @@
     "type": "vtuber",
     "room": 22632424,
     "face": "/bfs/face/668af440f8a8065743d3fa79cfa8f017905d0065.jpg"
+  },
+  "1461919177": {
+    "name": "贝莉娅Berial",
+    "type": "vtuber",
+    "room": 23895762,
+    "face": "/bfs/face/78270fee871569fe2dcb3a18f1b398c1d1f8d315.jpg"
   },
   "592726738": {
     "name": "贝萨Bessa",
@@ -28456,6 +28546,12 @@
     "type": "vtuber",
     "room": 22352063,
     "face": "/bfs/face/514e3a08588cdcac11dd0a3e8cc30b7a4d5c7fea.jpg"
+  },
+  "1242749123": {
+    "name": "魔夜依Official",
+    "type": "vtuber",
+    "room": 26532857,
+    "face": "/bfs/face/e903ca5db295e0029873c8c3c132e9f2959ccacb.jpg"
   },
   "27682625": {
     "name": "魔女夏洛特_channel",
