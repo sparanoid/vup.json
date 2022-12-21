@@ -2619,7 +2619,7 @@
     "name": "YUKI_多练",
     "type": "vtuber",
     "room": 22795535,
-    "face": "/bfs/face/bcfcff013cdacae44c9a147a3fb810858084cd0a.jpg"
+    "face": "/bfs/face/aea4698d4d6735d1bb9142fff00a9ea20cf20b1e.jpg"
   },
   "512480": {
     "name": "YUKIri",
@@ -4929,7 +4929,7 @@
     "name": "五牙Kiba",
     "type": "vtuber",
     "room": 1086621,
-    "face": "/bfs/face/2ec182df6f1c1a295b4d5e1f37a883d5a2c086b1.jpg"
+    "face": "/bfs/face/e69cfb9e678b15ddb0b17373f7430fbac7ca8b9a.jpg"
   },
   "1483031639": {
     "name": "五道口龙哥",
@@ -9718,6 +9718,12 @@
     "type": "vtuber",
     "room": 22387943,
     "face": "/bfs/face/35a9813312cd20c14c2add1dcb79c7033fdc644b.jpg"
+  },
+  "1028302812": {
+    "name": "奶味栗虾",
+    "type": "vtuber",
+    "room": 25666731,
+    "face": "/bfs/face/ca911a87dce46c969b68cce3d530d2c94088b77c.jpg"
   },
   "342193167": {
     "name": "奶思初",
@@ -18711,7 +18717,7 @@
     "name": "烛宝哒",
     "type": "vtuber",
     "room": 24471858,
-    "face": "/bfs/face/2df9443697da1af62a296325343fa9b6f98fd289.jpg"
+    "face": "/bfs/face/fdf2d3cb83753e0ad0cbce7a9f86661bfc300f04.jpg"
   },
   "498305332": {
     "name": "烛龙烛九阴Official",
@@ -20510,7 +20516,7 @@
   "477332594": {
     "name": "白神遥Haruka",
     "type": "vtuber",
-    "room": 21652717,
+    "room": 0,
     "face": "/bfs/face/37212a3393d363e646c3491f210d0972746fa367.jpg"
   },
   "686216575": {
@@ -20568,7 +20574,7 @@
     "face": "/bfs/face/bd8099673b7edb8ae2cb91f569e00a4e3b7e28e7.jpg"
   },
   "5487439": {
-    "name": "星栖ななは",
+    "name": "星栖七羽",
     "type": "vtuber",
     "room": 272114,
     "face": "/bfs/face/095abc5da49de0c8135da22fdc5d21a11b073446.jpg"
