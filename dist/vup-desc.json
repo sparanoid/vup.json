@@ -322,11 +322,11 @@
     "sign": "Palette Project Official / パレプロ / "
   },
   "401817833": {
-    "name": "AmayaSaki",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 21498255,
-    "face": "/bfs/face/7d87174a04cad94874b0c0a59e7e807e8f66f112.jpg",
-    "sign": "KC Pro所属虚拟up主雨夜saki 暂定于6月开始正式活动"
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
   },
   "317479031": {
     "name": "阿雨Ameko",
