@@ -11804,6 +11804,11 @@
     "type": "vtuber",
     "room": 40195
   },
+  "195506": {
+    "name": "星那Sena",
+    "type": "vtuber",
+    "room": 979000
+  },
   "23268": {
     "name": "星野_Hoshino",
     "type": "vtuber",
@@ -12468,6 +12473,11 @@
     "name": "有栖Mana_Official",
     "type": "vtuber",
     "room": 3822389
+  },
+  "13397992": {
+    "name": "有栖マナの黑白尾协会",
+    "type": "vtuber",
+    "room": 2112984
   },
   "1517862": {
     "name": "有栖川z子",
