@@ -14144,7 +14144,7 @@
   "2123801125": {
     "name": "星谷呜冬Udon",
     "type": "vtuber",
-    "room_id": 23105517,
+    "room_id": 0,
     "face": "/bfs/face/488450b62de1f06fee913fa64d28e3e8386971c3.jpg"
   },
   "601566421": {
@@ -17799,7 +17799,7 @@
     "name": "泠梦-YiYo",
     "type": "vtuber",
     "room_id": 5869668,
-    "face": "/bfs/face/bcd604b99005814f8c71fa52641b3a993f298223.jpg"
+    "face": "/bfs/face/cc36b213f23370cd480cb4e1da4e387cb277d666.jpg"
   },
   "399111081": {
     "name": "泠白HAKU",
@@ -18237,7 +18237,7 @@
     "name": "涅雅Nea",
     "type": "vtuber",
     "room_id": 47369,
-    "face": "/bfs/face/fec2a633b5c1b8afab80baadb0775db3b4dd2b20.jpg"
+    "face": "/bfs/face/9d0210138716a4ea1ede8174b9c33fd2e1447c9d.jpg"
   },
   "1577293636": {
     "name": "涣星kira",
@@ -18920,7 +18920,7 @@
   "22092066": {
     "name": "熏小染Channel",
     "type": "vtuber",
-    "room_id": 1122011,
+    "room_id": 0,
     "face": "/bfs/face/72a551c5c2ad13484e7f51f06f40f7a6da3f4bd1.jpg"
   },
   "3016287": {
@@ -21093,7 +21093,7 @@
     "name": "真和大总攻",
     "type": "vtuber",
     "room_id": 244468,
-    "face": "/bfs/face/2f936adfb48dd0686cf935bf798f4f0dd8019423.jpg"
+    "face": "/bfs/face/4a5e95ea2eeaa7dc6a5e04e49f4736610fd80321.jpg"
   },
   "17573731": {
     "name": "真城煌璃Official",
@@ -21786,7 +21786,7 @@
     "face": "/bfs/face/912f633da71878c14a50e5a6412727c1eb5d9032.jpg"
   },
   "1880355910": {
-    "name": "秋花儿呀",
+    "name": "秋月盈儿",
     "type": "vtuber",
     "room_id": 23520070,
     "face": "/bfs/face/49ade0494d6d868b685d8eaacde4e662ea2f8169.jpg"
@@ -23067,7 +23067,7 @@
     "name": "缇米Official",
     "type": "vtuber",
     "room_id": 25425764,
-    "face": "/bfs/face/8d147f1a878819f984415083cacb867b16d2b343.jpg"
+    "face": "/bfs/face/529235b192898e24dc3e891b3982ac8ea57c31b3.jpg"
   },
   "1672255663": {
     "name": "缇缇_Titi",
@@ -25797,7 +25797,7 @@
     "name": "见习医白忆寒",
     "type": "vtuber",
     "room_id": 772042,
-    "face": "/bfs/face/c66e7b22af949f08c57e3ae78e2a68e3ade1dd72.jpg"
+    "face": "/bfs/face/d9d3ca5376f66cd585c56722e07733b73894db44.jpg"
   },
   "12070947": {
     "name": "见风kaze",
@@ -25994,7 +25994,7 @@
   "1666306454": {
     "name": "谷咕咕-official",
     "type": "vtuber",
-    "room_id": 22637415,
+    "room_id": 0,
     "face": "/bfs/face/4218a944693af462723e6fd9536b484c4394c086.jpg"
   },
   "176870130": {
@@ -28191,7 +28191,7 @@
     "name": "霍财仁Official",
     "type": "vtuber",
     "room_id": 21980529,
-    "face": "/bfs/face/109a4b11910fb322879905ae0192575e85380197.jpg"
+    "face": "/bfs/baselabs/e07f507bb8ede810608cfe0fa572b2f4dd8f00b8.png"
   },
   "559863": {
     "name": "神奇lulu在哪里",
@@ -29229,7 +29229,7 @@
     "name": "玖悠莉",
     "type": "vtuber",
     "room_id": 160683,
-    "face": "/bfs/baselabs/3cb7310a7913c3e3dceb03b0f7b482abfb576ca2.png"
+    "face": "/bfs/baselabs/920c429ab44a144da462f9322c579e3af50c75eb.png"
   },
   "1903502807": {
     "name": "鸠羽lin",
