@@ -17373,7 +17373,7 @@
     "name": "水瓶メノ",
     "type": "vtuber",
     "room_id": 0,
-    "face": "/bfs/face/3948fc78d788fd1609b6f5ce33009a184b16baac.jpg"
+    "face": "/bfs/face/e975bda2b1a348e59a6cc0b706602a76fbe8ffdc.jpg"
   },
   "405315164": {
     "name": "水瓶的深夜食堂",
@@ -17859,7 +17859,7 @@
     "name": "波子ラムネ",
     "type": "vtuber",
     "room_id": 5241713,
-    "face": "/bfs/face/f60334a83a54783d2013eebf8be52f348143e300.jpg"
+    "face": "/bfs/face/41011e4e3433e228d805ac7b008cccc854e0f329.jpg"
   },
   "376831143": {
     "name": "波音BOI",
@@ -18177,7 +18177,7 @@
     "name": "海离Channel",
     "type": "vtuber",
     "room_id": 449047,
-    "face": "/bfs/face/649bf0bc97ac7812ae35abda15026373988863d4.jpg"
+    "face": "/bfs/face/2ab444705f383aa8ef18273e1625d073501797a0.jpg"
   },
   "1116286149": {
     "name": "海童亚奈子_propro",
@@ -19257,7 +19257,7 @@
     "name": "奈糖Kitsune",
     "type": "vtuber",
     "room_id": 23277062,
-    "face": "/bfs/face/911ecd8186484dc56bb24fd44f58769def1b8208.jpg"
+    "face": "/bfs/face/df81fb2858d15404d284edb988b77d8d97bc0937.jpg"
   },
   "430091486": {
     "name": "狐羽桜channel",
@@ -24543,7 +24543,7 @@
     "name": "茶璃_Chari",
     "type": "vtuber",
     "room_id": 8703333,
-    "face": "/bfs/face/384032fcbbbb49a724b5c4a7744d98d301ed5012.jpg"
+    "face": "/bfs/face/a05d891a425d021b5817578815f7b81b8277dc66.jpg"
   },
   "104345729": {
     "name": "茶眠",
@@ -24966,10 +24966,10 @@
     "face": "/bfs/face/7d4f592d3db7a1f37a13bc380da38ebca8ea2bfd.jpg"
   },
   "34040214": {
-    "name": "萌璃子Official",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 508340,
-    "face": "/bfs/face/15cc5d4b4f1f9475ea8d397348e3949b9928d52c.jpg"
+    "room_id": 0,
+    "face": "/images/member/noface.gif"
   },
   "124060945": {
     "name": "萌百心智魔方研究所",
