@@ -4830,10 +4830,10 @@
     "face": "/bfs/face/b66c1c75d2b59cc756d2232278e2420275b71da7.jpg"
   },
   "392162998": {
-    "name": "云团fuwa",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 25664253,
-    "face": "/bfs/face/7f0be686373cff94b2a7abc9dd7047f3bdd928c2.jpg"
+    "face": "/images/member/noface.gif"
   },
   "17987645": {
     "name": "云子kumoko",
@@ -5733,7 +5733,7 @@
     "name": "克拉拉KiraraV",
     "type": "vtuber",
     "room": 6562109,
-    "face": "/bfs/face/a20cf3b5a1e913d1bf357501f58923182eb1ce84.jpg"
+    "face": "/bfs/face/81e90a729076305a3b8da50fa47f8971b28bb991.jpg"
   },
   "1249759353": {
     "name": "克洛伊_Valkyrie",
@@ -9381,7 +9381,7 @@
     "name": "天才小柠伊",
     "type": "vtuber",
     "room": 26003107,
-    "face": "/bfs/face/d377976bb875f87507193fd5c320347046531aa9.jpg"
+    "face": "/bfs/face/7325ec64196ae630f302568ea93bf2006ca5008b.jpg"
   },
   "278406849": {
     "name": "天才果奶",
@@ -9975,7 +9975,7 @@
     "name": "娅可Arko",
     "type": "vtuber",
     "room": 26192718,
-    "face": "/bfs/face/96d971dacdd39cbe2af75c495979b088698b9795.jpg"
+    "face": "/bfs/face/a5027347104f5cca9f83c9d94604a98a2b2b4b15.jpg"
   },
   "567469706": {
     "name": "娅墨Channel",
@@ -11379,7 +11379,7 @@
     "name": "岐夭夭",
     "type": "vtuber",
     "room": 25038353,
-    "face": "/bfs/face/0bb511dc731ed9405f0b658badc7fae74fb548d7.jpg"
+    "face": "/bfs/face/d808a6b28c30e883265e869df95e7111ece4ab86.jpg"
   },
   "1643484295": {
     "name": "岱川Doris",
@@ -16017,7 +16017,7 @@
     "name": "栗卡小行星Rii",
     "type": "vtuber",
     "room": 56646,
-    "face": "/bfs/face/f31317212577aa066874f0b683d87f4b21678f6e.jpg"
+    "face": "/bfs/face/14cb1bdc6f28f10caffd3d6c91eebcef520f1c70.jpg"
   },
   "255593788": {
     "name": "栗原南_minami",
@@ -16173,7 +16173,7 @@
     "name": "桃宝Momoko",
     "type": "vtuber",
     "room": 24143549,
-    "face": "/bfs/face/de800d3390eb53c80b59cb24bf3c1e75c13ea5ad.jpg"
+    "face": "/bfs/face/af6fd46b4ae7217e4680ae2bda1518d1418282a8.jpg"
   },
   "2386343": {
     "name": "桃川久美Official",
@@ -17523,7 +17523,7 @@
     "name": "汐由梨Shiyori",
     "type": "vtuber",
     "room": 25398458,
-    "face": "/bfs/face/76be549ecce3d708d238c2fdc59743d2ac08f9d1.jpg"
+    "face": "/bfs/face/ce6f6c388f1d05a456bc36d092af33047599d7eb.jpg"
   },
   "452303463": {
     "name": "汐言_Official",
@@ -17793,7 +17793,7 @@
     "name": "泛晓akarui",
     "type": "vtuber",
     "room": 25026769,
-    "face": "/bfs/face/27b0b8fb632163392ef1695ba60714c9bf21ade6.jpg"
+    "face": "/bfs/face/d99aaf9a692fb2f1c818a3ea1309610615e107a8.jpg"
   },
   "173335353": {
     "name": "泠梦-YiYo",
@@ -18525,7 +18525,7 @@
     "name": "游鱼yuka",
     "type": "vtuber",
     "room": 4162691,
-    "face": "/bfs/face/04b402128991017dc7228f27d392d958539c767d.jpg"
+    "face": "/bfs/face/409d50bf8b7e58d10f6a403d33e6d550f6345a41.jpg"
   },
   "375504219": {
     "name": "湊-阿库娅Official",
@@ -18777,7 +18777,7 @@
     "name": "灼灼Auburn",
     "type": "vtuber",
     "room": 25263257,
-    "face": "/bfs/face/871db7235eb90d24692e09c3cbd2660e21f2be31.jpg"
+    "face": "/bfs/face/043ac774f9a7e2da0d9d9d0dafc476de6f4a3950.jpg"
   },
   "433076086": {
     "name": "炎沐yamu",
@@ -18978,7 +18978,7 @@
     "face": "/bfs/face/9ea29eeedcd326e4564dc4d824c9817f7018ef9d.jpg"
   },
   "3933515": {
-    "name": "爱思可莉姆Official",
+    "name": "Ace_Krem",
     "type": "vtuber",
     "room": 36508,
     "face": "/bfs/face/e75928b0ddec64b0e98fc434475a9766020092c4.jpg"
@@ -22947,7 +22947,7 @@
     "name": "绫濑光Official",
     "type": "vtuber",
     "room": 3428783,
-    "face": "/bfs/face/0e1253c7596b2592f7cb5a670b2faf86439dfa9f.jpg"
+    "face": "/bfs/face/8982aaa703ea068d97a5f5c26e085af72a1d0def.jpg"
   },
   "88035929": {
     "name": "绫音乃苏",
@@ -23277,7 +23277,7 @@
     "name": "请叫小希hope酱",
     "type": "vtuber",
     "room": 22052807,
-    "face": "/bfs/face/d935aee300225aca810fe1de046e56aa1a1ddf05.jpg"
+    "face": "/bfs/face/c37ba79bf539efb315c7fdebe2d3b3e342e99347.jpg"
   },
   "39952788": {
     "name": "羽蝶酥酥今天被吃了嘛",
@@ -24597,7 +24597,7 @@
     "name": "_贵物Live_",
     "type": "vtuber",
     "room": 27334,
-    "face": "/bfs/baselabs/74238e16acf88aa810e2a2ef31416c8d34fbc13e.png"
+    "face": "/bfs/face/c369251e320db7456fb300ad1b7a3f3f653f90cb.jpg"
   },
   "32946464": {
     "name": "草药呐喵呜",
@@ -25353,7 +25353,7 @@
     "name": "薰Kaori",
     "type": "vtuber",
     "room": 24153986,
-    "face": "/bfs/face/9272327c7ff33e0d3582af8e9304b454a37078aa.jpg"
+    "face": "/bfs/face/c03e0d4038a7039b2e2e50776cdb3d20224a51b7.jpg"
   },
   "9882877": {
     "name": "藍芽子_Aimeko",
@@ -25503,7 +25503,7 @@
     "name": "蛋蛋布奶Neko",
     "type": "vtuber",
     "room": 23271955,
-    "face": "/bfs/face/8e9e136621d051cf10bc8d3ebd9b6293dd99c56b.jpg"
+    "face": "/bfs/face/f03337574df6e482ac6c56dcfe695be0ae8d07f8.jpg"
   },
   "1551528": {
     "name": "蛍HOTARU",
@@ -26511,7 +26511,7 @@
     "name": "辣奶火锅",
     "type": "vtuber",
     "room": 25062472,
-    "face": "/bfs/face/b7e6efc4c872607d67cd5d9c8f84304b7a5adbca.jpg"
+    "face": "/bfs/face/6ed424c83e2dfdd47362d616ea2d4200bc3adfde.jpg"
   },
   "290412499": {
     "name": "辰陌CMO",
@@ -28677,7 +28677,7 @@
     "name": "飕鹿法_SO",
     "type": "vtuber",
     "room": 5131782,
-    "face": "/bfs/face/8dc8c84037187658b86a31696bd1ef7266407566.jpg"
+    "face": "/bfs/face/5b29e821a4f0809288dbc40510959434eba13e41.jpg"
   },
   "6432092": {
     "name": "电电打人",
