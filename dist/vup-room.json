@@ -4937,6 +4937,12 @@
     "room_id": 22014628,
     "face": "/bfs/face/8497c18da4b021e66d5ceaa30151d10d6613246c.jpg"
   },
+  "2093872604": {
+    "name": "五条软yuki",
+    "type": "vtuber",
+    "room_id": 22976643,
+    "face": "/bfs/face/e344fa4d57c53a257d9c6f4af212615f06f5d0fb.jpg"
+  },
   "5034263": {
     "name": "五爪Tsume",
     "type": "vtuber",
@@ -25307,6 +25313,12 @@
     "room_id": 21662131,
     "face": "/bfs/face/d27c67ddb378b40f16b7867240b175f6fe466f61.jpg"
   },
+  "1657621": {
+    "name": "蕾伊娜Reyna",
+    "type": "vtuber",
+    "room_id": 24344301,
+    "face": "/bfs/face/47c013c82b4de0b5588c805ab63389974f1010ae.jpg"
+  },
   "512921184": {
     "name": "蕾塔Official",
     "type": "vtuber",
@@ -27346,6 +27358,12 @@
     "type": "vtuber",
     "room_id": 24956917,
     "face": "/bfs/face/a3be8c56c477e5e076f5f136adda3b3729269c37.jpg"
+  },
+  "618107325": {
+    "name": "阳阳不想熬夜",
+    "type": "vtuber",
+    "room_id": 22334596,
+    "face": "/bfs/face/a5f07b7cafe08fceb3fd8cf562f72f8a357b768c.jpg"
   },
   "1428441528": {
     "name": "阿买official",
