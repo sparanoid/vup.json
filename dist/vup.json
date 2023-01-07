@@ -4071,7 +4071,7 @@
     "name": "一酱desu",
     "type": "vtuber",
     "room": 21689317,
-    "face": "/bfs/face/e5751621d676a189f9da30b406aae9cf31ebd295.jpg"
+    "face": "/bfs/face/f843c2e7a021b1e6a98ad30236b8001c07e8cff2.jpg"
   },
   "1247845426": {
     "name": "一露Lulu",
@@ -21479,6 +21479,12 @@
     "room": 544625,
     "face": "/bfs/face/4f22c2e149d07d6041a7b729226be71bd8b0d056.jpg"
   },
+  "17476582": {
+    "name": "祈乃Nya",
+    "type": "vtuber",
+    "room": 242696,
+    "face": "/bfs/face/57b2d59e09001cdef9dfede35b70d5a319357428.jpg"
+  },
   "3493080263034911": {
     "name": "祐滢",
     "type": "vtuber",
@@ -22798,6 +22804,12 @@
     "type": "vtuber",
     "room": 180680,
     "face": "/bfs/face/f7c164fab5522e7d912d0a21489aff2e9f19e56b.jpg"
+  },
+  "1648836961": {
+    "name": "纱礼Challee",
+    "type": "vtuber",
+    "room": 23340776,
+    "face": "/bfs/face/6171eb3af2f0768a87d9c88cc0bd5298bf07fadf.jpg"
   },
   "1543083238": {
     "name": "纱箬sariel",
