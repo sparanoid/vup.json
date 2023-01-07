@@ -20675,6 +20675,12 @@
     "room": 21622694,
     "face": "/bfs/face/f252d98d5018b31e3085b85b87f07b6afcd00093.jpg"
   },
+  "696961866": {
+    "name": "白祉_official",
+    "type": "vtuber",
+    "room": 22566510,
+    "face": "/bfs/face/41ebe5a75cf8e5ab10505ae864db2e8c7ef0e342.jpg"
+  },
   "477332594": {
     "name": "白神遥Haruka",
     "type": "vtuber",
@@ -25252,6 +25258,12 @@
     "type": "vtuber",
     "room": 22570619,
     "face": "/bfs/face/0c4606beb42b1b5a5584e68de8a892d5e19e281b.jpg"
+  },
+  "1826309835": {
+    "name": "蓝句Lenny",
+    "type": "vtuber",
+    "room": 25772493,
+    "face": "/bfs/face/017ac682401b3d9e75724efbdb81aba25c81f291.jpg"
   },
   "3099415": {
     "name": "长毛废绊",
