@@ -7527,7 +7527,7 @@
     "name": "希尔的修猫咪",
     "type": "vtuber",
     "room_id": 22131075,
-    "face": "/bfs/face/b4cc8a8e20fe0449544f55f061cb4de65b2c66b1.jpg"
+    "face": "/bfs/face/c14c13d33130535a083e5d07e17eb1fc7aa5c2be.jpg"
   },
   "1372936974": {
     "name": "可妮Koni_Official",
@@ -10821,7 +10821,7 @@
     "name": "小熊啾啾头",
     "type": "vtuber",
     "room_id": 21124815,
-    "face": "/bfs/face/d0cb418c514548c8466734ae9652e576e2c6003d.jpg"
+    "face": "/bfs/face/a17afa36aff915b596fb8fe3002581153b78fd5c.jpg"
   },
   "35122106": {
     "name": "小楠道Channel",
@@ -11038,6 +11038,12 @@
     "type": "vtuber",
     "room_id": 8688111,
     "face": "/bfs/face/9a74dba476366e751f303c7b3380a66dd9e05716.jpg"
+  },
+  "2997958": {
+    "name": "小豆砂",
+    "type": "vtuber",
+    "room_id": 775886,
+    "face": "/bfs/face/0ee888fc3d97b432488339a1a1a3ed569f8f4b07.jpg"
   },
   "12388293": {
     "name": "小软Maji-channel",
@@ -17268,10 +17274,10 @@
     "face": "/bfs/face/fcba1aaf851c387d1f5eadc8ebaf293c2c72d9b1.jpg"
   },
   "34135251": {
-    "name": "玻璃幽靈",
+    "name": "香鳥莉莉絲",
     "type": "vtuber",
     "room_id": 994019,
-    "face": "/bfs/face/c2c34c0ed21a040526cc8f480e325a9a0687d7b5.jpg"
+    "face": "/bfs/face/a1db056c0ee9afef47afcc9a105ddee8bfa52b6d.jpg"
   },
   "642391225": {
     "name": "歌莉丝Official",
@@ -17380,6 +17386,12 @@
     "type": "vtuber",
     "room_id": 442683,
     "face": "/bfs/face/a05088a3a82ded3bd5099c10fbe0747073c98477.jpg"
+  },
+  "24003005": {
+    "name": "水水超水嗷呜",
+    "type": "vtuber",
+    "room_id": 1246242,
+    "face": "/bfs/face/e7535a7aa176a5903ec028eccdaec715f658b771.jpg"
   },
   "7858535": {
     "name": "水漠豆腐",
@@ -19571,6 +19583,12 @@
     "room_id": 595837,
     "face": "/bfs/face/b9875fc391ae81bf25e44c25f050e4554f4f790c.jpg"
   },
+  "3493078558050567": {
+    "name": "猫羽柔爱",
+    "type": "vtuber",
+    "room_id": 26824917,
+    "face": "/bfs/face/b7f2ee513fbb268b7e6991cf1c1de9ccb2ae9d18.jpg"
+  },
   "4652433": {
     "name": "猫羽祀玖",
     "type": "vtuber",
@@ -20986,6 +21004,12 @@
     "type": "vtuber",
     "room_id": 8693881,
     "face": "/bfs/face/594cd6bf84867f8d814cadb630711229ddbf9e33.jpg"
+  },
+  "1885522479": {
+    "name": "百花茶hana",
+    "type": "vtuber",
+    "room_id": 25919591,
+    "face": "/bfs/face/5e9a59d3fe4034cc4c6622c2594500ba908404c1.jpg"
   },
   "7445513": {
     "name": "百花院椿channel",
@@ -23494,6 +23518,12 @@
     "type": "vtuber",
     "room_id": 22432476,
     "face": "/bfs/face/d1ade8dc68078192a509949788836d98be1d5622.jpg"
+  },
+  "1163871": {
+    "name": "肉桂小狗",
+    "type": "vtuber",
+    "room_id": 45603,
+    "face": "/bfs/face/bef31b2bb8e039e8e101d59707a5e954844ab201.jpg"
   },
   "350754158": {
     "name": "胜意uncle",
