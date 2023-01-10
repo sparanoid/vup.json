@@ -5717,6 +5717,12 @@
     "room_id": 188693,
     "face": "/bfs/face/2f46b1818b2488f5a744701a8a542595719ba857.jpg"
   },
+  "3461573697866274": {
+    "name": "光临Welcome",
+    "type": "vtuber",
+    "room_id": 26357773,
+    "face": "/bfs/face/0d3156e0777599038f45e8e5b5d1f2858dd1937d.jpg"
+  },
   "520963505": {
     "name": "光年神话-official",
     "type": "group",
@@ -12172,6 +12178,12 @@
     "type": "vtuber",
     "room_id": 21691719,
     "face": "/bfs/face/6cf42ee390da4c3b1de6cb0cd0ae7f11d54292ba.jpg"
+  },
+  "1247379069": {
+    "name": "弥蒂娅_Mystia",
+    "type": "vtuber",
+    "room_id": 26627772,
+    "face": "/bfs/face/cd07ba5dbcf75cc6145d0e2bd23523418a92641a.jpg"
   },
   "1103361686": {
     "name": "弥鹿mika",
