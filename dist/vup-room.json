@@ -1979,6 +1979,12 @@
     "room_id": 22399866,
     "face": "/bfs/face/7635876e2d7a4650675072d3693dbb5bf6226e03.jpg"
   },
+  "2065895628": {
+    "name": "Rata芮塔",
+    "type": "vtuber",
+    "room_id": 25571383,
+    "face": "/bfs/face/e3adc2251025b580fa740b97c3bf8a30ce10bd67.jpg"
+  },
   "482354556": {
     "name": "Re_Eden伊甸园官方",
     "type": "group",
@@ -2524,6 +2530,12 @@
     "type": "group",
     "room_id": 0,
     "face": "/bfs/face/d287c540c1fbfc7f9d58e1f662ceb7d1b566f71d.jpg"
+  },
+  "1590177913": {
+    "name": "Vika蔚卡",
+    "type": "vtuber",
+    "room_id": 25516046,
+    "face": "/bfs/face/9eb281cdfc6b76483208f0fc11968a9c82ba1a4f.jpg"
   },
   "384790313": {
     "name": "Viola_Vtuber",
@@ -5117,6 +5129,12 @@
     "room_id": 10405428,
     "face": "/bfs/face/b056b9e6fc9c9a1b72d728f36c7c1e5c5e6b8642.jpg"
   },
+  "177792032": {
+    "name": "以诺_Eno",
+    "type": "vtuber",
+    "room_id": 26556885,
+    "face": "/bfs/face/3008504fded3f147d470c2613df0751af162801c.jpg"
+  },
   "476343997": {
     "name": "任捷-Channel",
     "type": "vtuber",
@@ -7667,6 +7685,12 @@
     "room_id": 25587101,
     "face": "/bfs/face/a7fc0834129c6d38561cc8c7da49e4fdbd4ed351.jpg"
   },
+  "66931032": {
+    "name": "吃个柚柚",
+    "type": "vtuber",
+    "room_id": 3989462,
+    "face": "/bfs/face/1e784b729be2933aa346f9a0c1c6c69556d46248.jpg"
+  },
   "18275424": {
     "name": "吃粽子的大粽子",
     "type": "vtuber",
@@ -7990,6 +8014,12 @@
     "type": "vtuber",
     "room_id": 8792912,
     "face": "/bfs/face/1b74803484cfc056d0aa50b1a52440af7804f225.jpg"
+  },
+  "1418968119": {
+    "name": "咩苔Miette",
+    "type": "vtuber",
+    "room_id": 26021116,
+    "face": "/bfs/face/bd4fbabeda4ad22d5c6652e6e102db94eb774c0e.jpg"
   },
   "389891666": {
     "name": "咪崽捏",
@@ -12191,6 +12221,12 @@
     "room_id": 25915733,
     "face": "/bfs/face/010214361f33a6eef3177f366f078197b497345c.jpg"
   },
+  "3493118525573806": {
+    "name": "弦羽-hane",
+    "type": "vtuber",
+    "room_id": 26855307,
+    "face": "/bfs/face/e3c7a6516e39e33905b995fd0f6cecf3d40a7bdb.jpg"
+  },
   "1863644136": {
     "name": "弦羽Hane",
     "type": "vtuber",
@@ -12244,6 +12280,12 @@
     "type": "vtuber",
     "room_id": 23055731,
     "face": "/bfs/face/fcc324633760bcb4674bed5072aa20088737f56e.jpg"
+  },
+  "1706304861": {
+    "name": "影潞Kagami",
+    "type": "vtuber",
+    "room_id": 23703544,
+    "face": "/bfs/face/33895e2dd67ae403eb49b951bc03aefff4cb68bf.jpg"
   },
   "1877063": {
     "name": "祈加紫",
@@ -19775,6 +19817,12 @@
     "room_id": 22207390,
     "face": "/bfs/face/7e3d78a36cb4d83529a9cecab4a873a6261a3f4e.jpg"
   },
+  "3493105407887843": {
+    "name": "王年年Official",
+    "type": "vtuber",
+    "room_id": 26659944,
+    "face": "/bfs/face/809cfb3f7f50dd9620ff3178fba471b4aa3596c1.jpg"
+  },
   "500289236": {
     "name": "王沐沐_mumu",
     "type": "vtuber",
@@ -20241,7 +20289,7 @@
     "name": "甘霖Gerlin",
     "type": "vtuber",
     "room_id": 24656351,
-    "face": "/bfs/face/9d052adede629ae5d72665f7cb073e850cdee162.jpg"
+    "face": "/bfs/face/15d9c9f40b7a456e9ce9b92c5fa0493bda836d8c.jpg"
   },
   "557080920": {
     "name": "甜崽Babys",
@@ -24598,6 +24646,12 @@
     "type": "vtuber",
     "room_id": 24852703,
     "face": "/bfs/face/973c9c7db67e14f7f0a62f6496a1604ca820e4b1.jpg"
+  },
+  "2045507518": {
+    "name": "茉澪Magonia",
+    "type": "vtuber",
+    "room_id": 26145302,
+    "face": "/bfs/face/2533eedad270783f345c15b628eb4efcb6a27ee9.jpg"
   },
   "1531735495": {
     "name": "茉白茉莉_MashiroMari",
