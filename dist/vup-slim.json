@@ -464,11 +464,6 @@
     "type": "vtuber",
     "room": 5165
   },
-  "37557460": {
-    "name": "Diphylia星空",
-    "type": "group",
-    "room": 1362483
-  },
   "1236638112": {
     "name": "DiscoverPS企划",
     "type": "group",
@@ -483,16 +478,6 @@
     "name": "クロロ__エリス",
     "type": "vtuber",
     "room": 14806
-  },
-  "490912699": {
-    "name": "HayaLive官方",
-    "type": "group",
-    "room": 0
-  },
-  "573556": {
-    "name": "DuckDriver官方",
-    "type": "group",
-    "room": 4678174
   },
   "2007539336": {
     "name": "EC-一般路过赛博白河豚",
@@ -3614,11 +3599,6 @@
     "type": "vtuber",
     "room": 24606
   },
-  "12261171": {
-    "name": "上官紫宸Official",
-    "type": "vtuber",
-    "room": 762813
-  },
   "85386279": {
     "name": "上官蓦然",
     "type": "vtuber",
@@ -6133,11 +6113,6 @@
     "name": "卯雪眠_Somnia",
     "type": "vtuber",
     "room": 25987850
-  },
-  "36999375": {
-    "name": "墨色潮汐",
-    "type": "vtuber",
-    "room": 25701460
   },
   "3900277": {
     "name": "卷毛姆",
@@ -11759,11 +11734,6 @@
     "type": "vtuber",
     "room": 21060551
   },
-  "480460413": {
-    "name": "星空雫Channel",
-    "type": "vtuber",
-    "room": 22423059
-  },
   "39743256": {
     "name": "星籁Yzuki",
     "type": "vtuber",
@@ -12853,11 +12823,6 @@
     "name": "机智的孙工",
     "type": "vtuber",
     "room": 395113
-  },
-  "2424614": {
-    "name": "破破破Poi晓",
-    "type": "vtuber",
-    "room": 4637570
   },
   "41160587": {
     "name": "朽木素",
@@ -16929,6 +16894,11 @@
     "type": "vtuber",
     "room": 22592134
   },
+  "742365": {
+    "name": "生命幻象",
+    "type": "vtuber",
+    "room": 209225
+  },
   "45813298": {
     "name": "田中大和喵",
     "type": "vtuber",
@@ -18104,11 +18074,6 @@
     "type": "vtuber",
     "room": 21356526
   },
-  "30582077": {
-    "name": "山猫与白鸽",
-    "type": "vtuber",
-    "room": 6653009
-  },
   "361916885": {
     "name": "希爱Noah",
     "type": "vtuber",
@@ -18178,6 +18143,11 @@
     "name": "祢礼Miri",
     "type": "vtuber",
     "room": 4757784
+  },
+  "1398337493": {
+    "name": "禁漫娘西丝特official",
+    "type": "vtuber",
+    "room": 26545331
   },
   "1527061501": {
     "name": "福绵绵吖",
@@ -20078,11 +20048,6 @@
     "name": "花丸晴琉Official",
     "type": "vtuber",
     "room": 21547895
-  },
-  "445989102": {
-    "name": "花之宫茉莉",
-    "type": "vtuber",
-    "room": 21515588
   },
   "1598630768": {
     "name": "花乱悠莉",
@@ -24618,6 +24583,11 @@
     "name": "鸶鸶鹭揚",
     "type": "vtuber",
     "room": 23868554
+  },
+  "11399495": {
+    "name": "鸽一品",
+    "type": "vtuber",
+    "room": 4910271
   },
   "35478071": {
     "name": "言知_Dove",
