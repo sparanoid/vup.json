@@ -7370,6 +7370,13 @@
     "face": "/bfs/face/6cd9b3dace77d83a48aa3f4cd661b5b275a51a0b.jpg",
     "sign": "私用号"
   },
+  "1793306366": {
+    "name": "凌薇Ivy",
+    "type": "vtuber",
+    "room": 24925477,
+    "face": "/bfs/face/2ff880288589608ad35310adecb566d91282fd3d.jpg",
+    "sign": "歌势vup，每晚16:30-21:30直播，直播群号：879731141"
+  },
   "394601599": {
     "name": "凌魂少女",
     "type": "vtuber",
@@ -8034,6 +8041,20 @@
     "room": 21444278,
     "face": "/bfs/face/ce6e99327a7a9f67311074d61647421625a38149.jpg",
     "sign": "一只努力进行人类观察的见习山神！请多多指教！ 每周六B站直播、周日404直播！商业合作请私信 养老直播，日常咕咕咕！"
+  },
+  "1722518576": {
+    "name": "千浪愛永",
+    "type": "vtuber",
+    "room": 26829599,
+    "face": "/bfs/face/83d8403996dce646a6e3f63fd27ff2d15843cf86.jpg",
+    "sign": "Pulsation所属 个人VTuber / Twitter @Chinamit0"
+  },
+  "3493079816342483": {
+    "name": "千浪雪乃",
+    "type": "vtuber",
+    "room": 26830747,
+    "face": "/bfs/face/ac95443a083548e758e4ca061f0bf50229fd99ad.jpg",
+    "sign": "Pulsation所属　"
   },
   "402830371": {
     "name": "是只阿璃吖",
@@ -26929,11 +26950,11 @@
     "sign": "是神，亦是神的挚友。录播@水晶储蓄罐"
   },
   "88035929": {
-    "name": "绫音乃苏",
+    "name": "三重野chiame",
     "type": "vtuber",
     "room": 4994465,
-    "face": "/bfs/face/6ee8a4b35702b5537478cc1e9a402c511c066bef.jpg",
-    "sign": "dv日文虚拟歌姬 中之人：樱庭铃"
+    "face": "/bfs/face/744e6b7c8622f9d5d54096e4120c4f850428e7e5.jpg",
+    "sign": "画师/cv/唱见/美工/模型师  代表作：《Magic Animal Idol Project》星谷星希/九重北凉"
   },
   "690608696": {
     "name": "绮楼Qilou",
@@ -32023,6 +32044,13 @@
     "room": 4351862,
     "face": "/bfs/face/267fa54e112fe00090bacdcfc95928fcc922f1d8.jpg",
     "sign": ""
+  },
+  "215453261": {
+    "name": "阮阮Rabiice",
+    "type": "vtuber",
+    "room": 26310144,
+    "face": "/bfs/face/d0d6de125f9a93eedfa72631a980483ac3089c55.jpg",
+    "sign": "evl所属，想要摆脱命运掌控的人偶，你们愿意帮助我嘛？ 喜欢唱歌，游戏（APEX重度用户）！群：567727987  请多关照捏w"
   },
   "692900": {
     "name": "阳炎_Official",

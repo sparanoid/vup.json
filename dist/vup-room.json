@@ -6317,6 +6317,12 @@
     "room_id": 21944800,
     "face": "/bfs/face/6cd9b3dace77d83a48aa3f4cd661b5b275a51a0b.jpg"
   },
+  "1793306366": {
+    "name": "凌薇Ivy",
+    "type": "vtuber",
+    "room_id": 24925477,
+    "face": "/bfs/face/2ff880288589608ad35310adecb566d91282fd3d.jpg"
+  },
   "394601599": {
     "name": "凌魂少女",
     "type": "vtuber",
@@ -6886,6 +6892,18 @@
     "type": "vtuber",
     "room_id": 21444278,
     "face": "/bfs/face/ce6e99327a7a9f67311074d61647421625a38149.jpg"
+  },
+  "1722518576": {
+    "name": "千浪愛永",
+    "type": "vtuber",
+    "room_id": 26829599,
+    "face": "/bfs/face/83d8403996dce646a6e3f63fd27ff2d15843cf86.jpg"
+  },
+  "3493079816342483": {
+    "name": "千浪雪乃",
+    "type": "vtuber",
+    "room_id": 26830747,
+    "face": "/bfs/face/ac95443a083548e758e4ca061f0bf50229fd99ad.jpg"
   },
   "402830371": {
     "name": "是只阿璃吖",
@@ -23082,10 +23100,10 @@
     "face": "/bfs/face/8982aaa703ea068d97a5f5c26e085af72a1d0def.jpg"
   },
   "88035929": {
-    "name": "绫音乃苏",
+    "name": "三重野chiame",
     "type": "vtuber",
     "room_id": 4994465,
-    "face": "/bfs/face/6ee8a4b35702b5537478cc1e9a402c511c066bef.jpg"
+    "face": "/bfs/face/744e6b7c8622f9d5d54096e4120c4f850428e7e5.jpg"
   },
   "690608696": {
     "name": "绮楼Qilou",
@@ -27448,6 +27466,12 @@
     "type": "vtuber",
     "room_id": 4351862,
     "face": "/bfs/face/267fa54e112fe00090bacdcfc95928fcc922f1d8.jpg"
+  },
+  "215453261": {
+    "name": "阮阮Rabiice",
+    "type": "vtuber",
+    "room_id": 26310144,
+    "face": "/bfs/face/d0d6de125f9a93eedfa72631a980483ac3089c55.jpg"
   },
   "692900": {
     "name": "阳炎_Official",
