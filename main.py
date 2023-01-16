@@ -34,6 +34,7 @@ for user in vtbs_vdb:
         vdb_dict[uid] = dict(
             name = user['name'][default_name_lang],
             type = user['type'],
+            group_name = user['group_name'] if 'group_name' in user else ''
         )
 
 for user in vtbs:
@@ -43,6 +44,7 @@ for user in vtbs:
 
         if str(uid) in vdb_dict.keys():
             type = vdb_dict[str(uid)]['type']
+            group_name = vdb_dict[str(uid)]['group_name']
         else:
             type = 'unknown'
 
@@ -51,6 +53,7 @@ for user in vtbs:
             type = type,
             room = user['roomid'],
             face = face_hash,
+            group_name = group_name,
         )
         vup_desc[uid] = dict(
             name = user['uname'],
@@ -58,17 +61,20 @@ for user in vtbs:
             room = user['roomid'],
             face = face_hash,
             sign = user['sign'],
+            group_name = group_name,
         )
         vup_slim[uid] = dict(
             name = user['uname'],
             type = type,
             room = user['roomid'],
+            group_name = group_name,
         )
         vup_room[uid] = dict(
             name = user['uname'],
             type = type,
             room_id = user['roomid'],
             face = face_hash,
+            group_name = group_name,
         )
 
 with open('dist/vup.json', 'w') as file:
