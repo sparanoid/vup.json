@@ -5005,10 +5005,10 @@
     "group_name": ""
   },
   "1220672487": {
-    "name": "小马嘟嘟丸",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 25545201,
-    "face": "/bfs/face/fc64e795113901e88003689e91de0e5c620de280.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "23719713": {
