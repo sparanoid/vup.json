@@ -2681,10 +2681,10 @@
     "group_name": "StarrySky战姬学院"
   },
   "93690833": {
-    "name": "TROCC-Official",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 6055086,
-    "face": "/bfs/face/581f3a649d77640595349a08d962377f2e4da2e4.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": "月光社"
   },
   "29371864": {
@@ -12022,7 +12022,7 @@
     "name": "菠萝子_official",
     "type": "vtuber",
     "room": 21755112,
-    "face": "/bfs/face/3cefc4f966936b2e3007cb9eb7cd70880f19013b.jpg",
+    "face": "/bfs/face/e7d2cadba767a26dabe73c3014949d5b3ccd8dd4.jpg",
     "group_name": ""
   },
   "1377219279": {
@@ -12967,7 +12967,7 @@
     "name": "小风铃是只咕咕狐",
     "type": "vtuber",
     "room": 5293697,
-    "face": "/bfs/face/522d08fb8a1e37aa8d3d45c70bd14f16e33f33dd.jpg",
+    "face": "/bfs/face/8faa2f2be732b710c613855327c0f988a3628a78.jpg",
     "group_name": ""
   },
   "1494451119": {
@@ -14248,7 +14248,7 @@
     "name": "弦羽-hane",
     "type": "vtuber",
     "room": 26855307,
-    "face": "/bfs/face/e3c7a6516e39e33905b995fd0f6cecf3d40a7bdb.jpg",
+    "face": "/bfs/face/8912aecb2be930131d0f2bc70daf35fa11a13ab6.jpg",
     "group_name": "虚研社"
   },
   "1863644136": {
@@ -17720,7 +17720,7 @@
     "name": "木之白是坐忘道白板",
     "type": "vtuber",
     "room": 1106283,
-    "face": "/bfs/face/ca2e3c4427ff3d7161ef874c806dfb4eb4ce1a3b.jpg",
+    "face": "/bfs/face/245a27344de05e6e72cec547826467e897a8cb9c.jpg",
     "group_name": ""
   },
   "1422240684": {
@@ -33050,7 +33050,7 @@
     "name": "雾屿Yugi",
     "type": "vtuber",
     "room": 885794,
-    "face": "/bfs/face/06353ad1fada21a419d14b839f043c2500918c7e.jpg",
+    "face": "/bfs/face/28c980e424e0458d5e518ed059019e69710b76ed.jpg",
     "group_name": ""
   },
   "21203842": {
