@@ -14006,6 +14006,13 @@
     "face": "/bfs/face/84bd0031308c3180c90ab05bf5df41d8b2a8d1c6.jpg",
     "group_name": ""
   },
+  "1961014543": {
+    "name": "幽柚YOYO",
+    "type": "vtuber",
+    "room_id": 25194064,
+    "face": "/bfs/face/29c2156299841d7c3d257824545130242ea3b701.jpg",
+    "group_name": ""
+  },
   "4763529": {
     "name": "幽灵事务所_XPEC",
     "type": "vtuber",
@@ -14025,6 +14032,13 @@
     "type": "vtuber",
     "room_id": 24731908,
     "face": "/bfs/face/ec02c6a864f074b63c9bb43890d2cbe19cfb6df7.jpg",
+    "group_name": ""
+  },
+  "1965565735": {
+    "name": "广末小季",
+    "type": "vtuber",
+    "room_id": 26021724,
+    "face": "/bfs/face/5c5db147f0e5990aa9014b30bdafd14b8c0f8bea.jpg",
     "group_name": ""
   },
   "216379": {
@@ -18955,6 +18969,13 @@
     "face": "/bfs/face/ff3f14fe263f8e55ab4b0353bfd49249ba3e0910.jpg",
     "group_name": "悠梦する-女仆咖啡厅"
   },
+  "1823500310": {
+    "name": "桃姆Q吃手手",
+    "type": "vtuber",
+    "room_id": 26174302,
+    "face": "/bfs/face/b497e88d680cb5f43f3696bb9d6e9da9e6e87ffa.jpg",
+    "group_name": "Nebula-Beat​"
+  },
   "1970372013": {
     "name": "桃子没有在摸鱼",
     "type": "vtuber",
@@ -19445,11 +19466,11 @@
     "face": "/bfs/face/7e550a3dcde9fe4bedaa9828c38107e95e701590.jpg",
     "group_name": "四禧丸子"
   },
-  "1487222449": {
-    "name": "梨梨Eriri",
+  "1495180530": {
+    "name": "Eriri梨梨",
     "type": "vtuber",
-    "room_id": 25147262,
-    "face": "/bfs/face/d2bd3da4e1512d298544a2744a7c99fbd60cc41b.jpg",
+    "room_id": 25761859,
+    "face": "/bfs/face/70d27e7297512b6e939a5311c054f248c50c1ac6.jpg",
     "group_name": "极光社"
   },
   "674862953": {
@@ -22363,6 +22384,13 @@
     "room_id": 1370045,
     "face": "/bfs/face/11950542344b0c00a3b0d308fcead879296e383d.jpg",
     "group_name": "AVP古流社"
+  },
+  "592150173": {
+    "name": "牧牧白miiu",
+    "type": "vtuber",
+    "room_id": 26874853,
+    "face": "/bfs/face/b88c132aa3c60ccb7ee2dcb86ff59d7534558e31.jpg",
+    "group_name": ""
   },
   "875335": {
     "name": "牧苏Musu",
