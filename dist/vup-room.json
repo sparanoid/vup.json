@@ -8375,7 +8375,7 @@
     "name": "Nesarf_Mollor",
     "type": "vtuber",
     "room_id": 3110924,
-    "face": "/bfs/face/d301ad801444870214cc1aab1b45547c18fef442.jpg",
+    "face": "/bfs/face/109f50e4b27e48b25e6cd134659cd70af79d89d8.jpg",
     "group_name": "AVP古流社"
   },
   "1869949659": {
@@ -28091,10 +28091,10 @@
     "group_name": "花寄女子寮"
   },
   "1598630768": {
-    "name": "花乱悠莉",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 24742998,
-    "face": "/bfs/face/4e74087fae46eea88c61ffa3ea255f09412d77fd.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": "极光社"
   },
   "1340967709": {
