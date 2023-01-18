@@ -8714,6 +8714,13 @@
     "face": "/bfs/face/461a1024379851ac246007dc692ce5388c830f6e.jpg",
     "group_name": ""
   },
+  "471968583": {
+    "name": "取栀有道",
+    "type": "vtuber",
+    "room": 21621676,
+    "face": "/bfs/face/b128057589aba9e98e345ea4a6f7a0050741db79.jpg",
+    "group_name": ""
+  },
   "2038193": {
     "name": "口狈クリスX口狈椋",
     "type": "vtuber",
@@ -9141,6 +9148,13 @@
     "face": "/bfs/face/126aff64d308b57ad3a689b4208ff0f5b140c15c.jpg",
     "group_name": ""
   },
+  "3493082976750157": {
+    "name": "吾音坊_Official",
+    "type": "group",
+    "room": 26804409,
+    "face": "/bfs/face/a381aff1a926b3635a2295530b80d33dc6dd19f4.jpg",
+    "group_name": ""
+  },
   "478769889": {
     "name": "呆卡普里奥",
     "type": "vtuber",
@@ -9546,6 +9560,13 @@
     "room": 12171,
     "face": "/bfs/face/443f7c17483a4765c380c5360c8bb4d319d2a162.jpg",
     "group_name": ""
+  },
+  "3493089505184413": {
+    "name": "吾音-商颂",
+    "type": "vtuber",
+    "room": 26864013,
+    "face": "/bfs/face/2bd0acf8707014ce643a880209453b112818de83.jpg",
+    "group_name": "吾音坊"
   },
   "5320543": {
     "name": "啊昭是啊昭",
@@ -12235,6 +12256,13 @@
     "face": "/bfs/face/ad3745700e8c67824f05814b9fe7928b9d03c26a.jpg",
     "group_name": "虚研社"
   },
+  "3493083742210681": {
+    "name": "吾音-宫雅",
+    "type": "vtuber",
+    "room": 26805080,
+    "face": "/bfs/face/86574ef912d4ef71c4a0c48e9e4ac6531266609d.jpg",
+    "group_name": "吾音坊"
+  },
   "14897804": {
     "name": "宴宁ccccc",
     "type": "vtuber",
@@ -14503,6 +14531,13 @@
     "face": "/bfs/face/db70aaa07be071913075bc8087ce239409484fb3.jpg",
     "group_name": ""
   },
+  "3493105508550977": {
+    "name": "吾音-徵呛呛",
+    "type": "vtuber",
+    "room": 26863985,
+    "face": "/bfs/face/8c71f5cae60818432856ad36f4cee1aaf62d6115.jpg",
+    "group_name": "吾音坊"
+  },
   "27961340": {
     "name": "徵羽泽",
     "type": "vtuber",
@@ -14858,6 +14893,13 @@
     "type": "vtuber",
     "room": 22613664,
     "face": "/bfs/face/5a8a21610cf6bcf96e004201bcc2b0fb7a699473.jpg",
+    "group_name": ""
+  },
+  "1033428397": {
+    "name": "悦咲etsuemi",
+    "type": "vtuber",
+    "room": 26550099,
+    "face": "/bfs/face/6fbc87625e2655c748740445cbc19c6f2df624cb.jpg",
     "group_name": ""
   },
   "2128800": {
@@ -20227,13 +20269,6 @@
     "type": "vtuber",
     "room": 868293,
     "face": "/bfs/face/fcba1aaf851c387d1f5eadc8ebaf293c2c72d9b1.jpg",
-    "group_name": ""
-  },
-  "34135251": {
-    "name": "香鳥莉莉絲",
-    "type": "vtuber",
-    "room": 994019,
-    "face": "/bfs/face/a1db056c0ee9afef47afcc9a105ddee8bfa52b6d.jpg",
     "group_name": ""
   },
   "642391225": {
@@ -26116,6 +26151,13 @@
     "face": "/bfs/face/8df2563abb708968089e8613eaa678b7ca45e16b.jpg",
     "group_name": "Facemoe官方"
   },
+  "1845920872": {
+    "name": "米娅在地下室",
+    "type": "vtuber",
+    "room": 23311575,
+    "face": "/bfs/face/e5e5ea69a6dd43cf788110e92677290a02bda11b.jpg",
+    "group_name": ""
+  },
   "873426": {
     "name": "遥火Haruka",
     "type": "vtuber",
@@ -27382,6 +27424,13 @@
     "room": 22725037,
     "face": "/bfs/face/8d7a0d1e4e87ac4604a5e8d5a5334eb1cfe393aa.jpg",
     "group_name": ""
+  },
+  "3493108442466769": {
+    "name": "吾音-羽真",
+    "type": "vtuber",
+    "room": 26863991,
+    "face": "/bfs/face/b0dff7ce3fee85cbeeb39ca1a2a73b36597924eb.jpg",
+    "group_name": "吾音坊"
   },
   "412808470": {
     "name": "请叫小希hope酱",
@@ -30385,6 +30434,13 @@
     "room": 21752694,
     "face": "/bfs/face/01274cb73d4f539c8709bbc296535812283aa624.jpg",
     "group_name": "Hololive"
+  },
+  "3493093668031093": {
+    "name": "吾音-角鸣",
+    "type": "vtuber",
+    "room": 26864017,
+    "face": "/bfs/face/0f0d4263c3e2be3bd788cb4a67b448d56cede707.jpg",
+    "group_name": "吾音坊"
   },
   "178645": {
     "name": "言乃official",

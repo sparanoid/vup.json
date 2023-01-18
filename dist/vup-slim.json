@@ -7469,6 +7469,12 @@
     "room": 21423289,
     "group_name": ""
   },
+  "471968583": {
+    "name": "取栀有道",
+    "type": "vtuber",
+    "room": 21621676,
+    "group_name": ""
+  },
   "2038193": {
     "name": "口狈クリスX口狈椋",
     "type": "vtuber",
@@ -7835,6 +7841,12 @@
     "room": 0,
     "group_name": ""
   },
+  "3493082976750157": {
+    "name": "吾音坊_Official",
+    "type": "group",
+    "room": 26804409,
+    "group_name": ""
+  },
   "478769889": {
     "name": "呆卡普里奥",
     "type": "vtuber",
@@ -8182,6 +8194,12 @@
     "type": "vtuber",
     "room": 12171,
     "group_name": ""
+  },
+  "3493089505184413": {
+    "name": "吾音-商颂",
+    "type": "vtuber",
+    "room": 26864013,
+    "group_name": "吾音坊"
   },
   "5320543": {
     "name": "啊昭是啊昭",
@@ -10487,6 +10505,12 @@
     "room": 870491,
     "group_name": "虚研社"
   },
+  "3493083742210681": {
+    "name": "吾音-宫雅",
+    "type": "vtuber",
+    "room": 26805080,
+    "group_name": "吾音坊"
+  },
   "14897804": {
     "name": "宴宁ccccc",
     "type": "vtuber",
@@ -12431,6 +12455,12 @@
     "room": 25578177,
     "group_name": ""
   },
+  "3493105508550977": {
+    "name": "吾音-徵呛呛",
+    "type": "vtuber",
+    "room": 26863985,
+    "group_name": "吾音坊"
+  },
   "27961340": {
     "name": "徵羽泽",
     "type": "vtuber",
@@ -12735,6 +12765,12 @@
     "name": "悠音Yune",
     "type": "vtuber",
     "room": 22613664,
+    "group_name": ""
+  },
+  "1033428397": {
+    "name": "悦咲etsuemi",
+    "type": "vtuber",
+    "room": 26550099,
     "group_name": ""
   },
   "2128800": {
@@ -17337,12 +17373,6 @@
     "name": "欧阳凌空Channel",
     "type": "vtuber",
     "room": 868293,
-    "group_name": ""
-  },
-  "34135251": {
-    "name": "香鳥莉莉絲",
-    "type": "vtuber",
-    "room": 994019,
     "group_name": ""
   },
   "642391225": {
@@ -22385,6 +22415,12 @@
     "room": 25136784,
     "group_name": "Facemoe官方"
   },
+  "1845920872": {
+    "name": "米娅在地下室",
+    "type": "vtuber",
+    "room": 23311575,
+    "group_name": ""
+  },
   "873426": {
     "name": "遥火Haruka",
     "type": "vtuber",
@@ -23470,6 +23506,12 @@
     "type": "vtuber",
     "room": 22725037,
     "group_name": ""
+  },
+  "3493108442466769": {
+    "name": "吾音-羽真",
+    "type": "vtuber",
+    "room": 26863991,
+    "group_name": "吾音坊"
   },
   "412808470": {
     "name": "请叫小希hope酱",
@@ -26044,6 +26086,12 @@
     "type": "vtuber",
     "room": 21752694,
     "group_name": "Hololive"
+  },
+  "3493093668031093": {
+    "name": "吾音-角鸣",
+    "type": "vtuber",
+    "room": 26864017,
+    "group_name": "吾音坊"
   },
   "178645": {
     "name": "言乃official",
