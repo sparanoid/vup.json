@@ -4672,7 +4672,7 @@
     "name": "一支橘猫",
     "type": "vtuber",
     "room_id": 193520,
-    "face": "/bfs/face/a7b6b59c2234c02c8bb2995c0d19ffb51931266a.jpg",
+    "face": "/bfs/face/6edb14c4aabc57e0bc7e44800bbeab95fd08d787.jpg",
     "group_name": ""
   },
   "2080453344": {
@@ -4951,7 +4951,7 @@
   "515237794": {
     "name": "bilibili",
     "type": "vtuber",
-    "room_id": 22088217,
+    "room_id": 0,
     "face": "/images/member/noface.gif",
     "group_name": ""
   },
@@ -7598,7 +7598,7 @@
     "name": "初焰Hatsuhomura",
     "type": "vtuber",
     "room_id": 21426806,
-    "face": "/bfs/face/abce9691ebf2d41190a6a738f5bc27ae0aa0bc18.jpg",
+    "face": "/bfs/face/aba564d56d7cb2f846ef064154e675154a2438a6.jpg",
     "group_name": "狄灵计划"
   },
   "12818595": {
@@ -15760,7 +15760,7 @@
     "name": "早穗",
     "type": "vtuber",
     "room_id": 22569046,
-    "face": "/bfs/face/9ffda7654cea67bda4ae332ef05eb2d0cebe2b73.jpg",
+    "face": "/bfs/face/779ee0a67920790a3ad362369f4cdb9aff04d402.jpg",
     "group_name": ""
   },
   "541696090": {
@@ -16194,7 +16194,7 @@
     "name": "星川铃_Official",
     "type": "vtuber",
     "room_id": 21816863,
-    "face": "/bfs/face/e771e5a84a93d0c2daebad93c7960c7f8ed22b61.jpg",
+    "face": "/bfs/face/fb44ccb03d9e49ab2a5dd083144b0def4fc246de.jpg",
     "group_name": "chaoslive"
   },
   "692283838": {
