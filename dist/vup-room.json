@@ -12043,7 +12043,7 @@
     "name": "菠萝子_official",
     "type": "vtuber",
     "room_id": 21755112,
-    "face": "/bfs/face/e7d2cadba767a26dabe73c3014949d5b3ccd8dd4.jpg",
+    "face": "/bfs/face/54b0e4025ab19227eb1e6725f74f0ca18761977a.jpg",
     "group_name": ""
   },
   "1377219279": {
@@ -16422,10 +16422,10 @@
     "group_name": ""
   },
   "1884671231": {
-    "name": "星璃_Official",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 22856556,
-    "face": "/bfs/face/e41e8c0427d729c0f850cfa5a6eaa245c8d11706.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": "木南工坊"
   },
   "1466592156": {
@@ -19498,7 +19498,7 @@
     "name": "梦魇Tsuki",
     "type": "vtuber",
     "room_id": 851181,
-    "face": "/bfs/face/bdf6c21943c13fcb440fa6f7c19f6d7c4d08a68d.jpg",
+    "face": "/bfs/face/5365ec0e24f400da77fc198eb9894522853482ad.jpg",
     "group_name": ""
   },
   "1674242827": {
@@ -28191,7 +28191,7 @@
   "1598630768": {
     "name": "bilibili",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 24742998,
     "face": "/images/member/noface.gif",
     "group_name": "极光社"
   },
