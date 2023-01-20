@@ -18227,13 +18227,6 @@
     "face": "/bfs/face/0e928e8e467ea8d02f19cbce64c2ed35a2ca5c91.jpg",
     "group_name": ""
   },
-  "11263516": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 4963432,
-    "face": "/images/member/noface.gif",
-    "group_name": "IPG联合"
-  },
   "4235319": {
     "name": "养只小未",
     "type": "vtuber",
@@ -32226,13 +32219,6 @@
     "room": 30926,
     "face": "/bfs/face/3661e32976084a875b4aa0fc31af6152a08d3b65.jpg",
     "group_name": "ChaosLiveSprout"
-  },
-  "703085863": {
-    "name": "阿喵Ania",
-    "type": "vtuber",
-    "room": 22599479,
-    "face": "/bfs/face/08e7b0d27f5623d8d03c03895fa6cc9b392c4ab2.jpg",
-    "group_name": ""
   },
   "449174986": {
     "name": "阿喵吃喵喵",
