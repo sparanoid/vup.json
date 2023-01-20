@@ -12292,10 +12292,10 @@
     "group_name": ""
   },
   "366525894": {
-    "name": "寄白_Yorishiro",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 23305870,
-    "face": "/bfs/face/30473ab871e8b374b112c15b14be44b9668a1876.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": "chaoslive"
   },
   "611210901": {
