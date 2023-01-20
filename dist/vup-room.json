@@ -6220,7 +6220,7 @@
     "type": "vtuber",
     "room_id": 26427138,
     "face": "/bfs/face/85197405637dd57dcf49917b7c044670ae061e2d.jpg",
-    "group_name": ""
+    "group_name": "Nebula-Beat​"
   },
   "2037141": {
     "name": "伊菲露诺_已搬家",
@@ -6297,13 +6297,6 @@
     "type": "vtuber",
     "room_id": 23875470,
     "face": "/bfs/face/8572ce947428d992d9e05666538ab1eaf6e145b4.jpg",
-    "group_name": ""
-  },
-  "22385806": {
-    "name": "萝娜火辣辣",
-    "type": "vtuber",
-    "room_id": 26173394,
-    "face": "/bfs/face/7f33ad72af898adfaadde898faa0c55aad47123d.jpg",
     "group_name": ""
   },
   "487710": {
@@ -29462,6 +29455,13 @@
     "face": "/bfs/face/67b97ca9eec8efcf2b09c620e07b52236d82920b.jpg",
     "group_name": "新科动漫"
   },
+  "22385806": {
+    "name": "萝娜火辣辣",
+    "type": "vtuber",
+    "room_id": 26173394,
+    "face": "/bfs/face/7f33ad72af898adfaadde898faa0c55aad47123d.jpg",
+    "group_name": "Nebula-Beat​"
+  },
   "9312944": {
     "name": "萝蜜Romi",
     "type": "vtuber",
@@ -32190,7 +32190,7 @@
     "type": "vtuber",
     "room_id": 25038149,
     "face": "/bfs/face/0cf375fbc66feec715046210f15392c59486bbb5.jpg",
-    "group_name": ""
+    "group_name": "Nebula-Beat​"
   },
   "117906": {
     "name": "阿伊蕾特Ayelet",
@@ -33240,7 +33240,7 @@
     "type": "vtuber",
     "room_id": 6542664,
     "face": "/bfs/face/94cfb81eb6ed2494da6ebb945088940c0827e044.jpg",
-    "group_name": ""
+    "group_name": "Nebula-Beat​"
   },
   "1612858588": {
     "name": "霏豆儿Fiona",
