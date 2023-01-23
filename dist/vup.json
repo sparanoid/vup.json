@@ -5645,7 +5645,7 @@
     "name": "云团fuwa",
     "type": "vtuber",
     "room": 25664253,
-    "face": "/bfs/face/f5ea48504203ac56bbc0f91e5e40634751f86d2d.jpg",
+    "face": "/bfs/face/e9675d373f6b5422f996eb105e1341e8b3b24f25.jpg",
     "group_name": ""
   },
   "17987645": {
@@ -6802,6 +6802,13 @@
     "room": 12335117,
     "face": "/bfs/face/1ea37a9329a424b292421518e92a1bbbdc798a92.jpg",
     "group_name": "upd8"
+  },
+  "3493076991478276": {
+    "name": "兔三秋啊",
+    "type": "vtuber",
+    "room": 26334904,
+    "face": "/bfs/face/9e94f93e15275f1693df3b1f6433823f34c9ae7a.jpg",
+    "group_name": ""
   },
   "11864934": {
     "name": "苺実とまる",
@@ -23026,7 +23033,7 @@
     "name": "猫辞猫辞猫",
     "type": "vtuber",
     "room": 1033927,
-    "face": "/bfs/face/a6d3e13ec7709ed6dec3cd7fca2e65b6a8171082.jpg",
+    "face": "/bfs/face/8c5910b2e206206c95c3ced44450ad5dad52528a.jpg",
     "group_name": ""
   },
   "2126081242": {
