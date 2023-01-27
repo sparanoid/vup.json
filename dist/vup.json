@@ -538,6 +538,13 @@
     "face": "/bfs/face/8edce62d196a8264ebef8a9fa0248b8f8e9cf304.jpg",
     "group_name": ""
   },
+  "1309306": {
+    "name": "CHICKER",
+    "type": "vtuber",
+    "room": 11351,
+    "face": "/bfs/face/eddedeb4373268fb3c00b1e85c3a1ed10e1788c9.jpg",
+    "group_name": ""
+  },
   "508149110": {
     "name": "ChaosLive情报局",
     "type": "group",
@@ -4920,6 +4927,13 @@
     "face": "/bfs/face/b935d605e19e2005f5ea9b7e45c587457c07543d.jpg",
     "group_name": ""
   },
+  "1563192916": {
+    "name": "万殊w",
+    "type": "vtuber",
+    "room": 26823939,
+    "face": "/bfs/face/03fe4e0c9c7948f3b38de6ad2c631a93d5b89a17.jpg",
+    "group_name": ""
+  },
   "1121411561": {
     "name": "万灼",
     "type": "vtuber",
@@ -7608,6 +7622,13 @@
     "face": "/bfs/face/aba564d56d7cb2f846ef064154e675154a2438a6.jpg",
     "group_name": "狄灵计划"
   },
+  "2012650315": {
+    "name": "初礼kyra",
+    "type": "vtuber",
+    "room": 25797324,
+    "face": "/bfs/face/2ce9281f7a182f51b476f0f69ff47e0a22bbb26c.jpg",
+    "group_name": ""
+  },
   "12818595": {
     "name": "这个初霁就是逊啦",
     "type": "vtuber",
@@ -10247,6 +10268,13 @@
     "face": "/bfs/face/18368ab0a3578b0ef241aa4e7ba84c03e616dbfa.jpg",
     "group_name": ""
   },
+  "1638437": {
+    "name": "夏橙_Cia",
+    "type": "vtuber",
+    "room": 876968,
+    "face": "/bfs/face/803806ce0456c0df763f987c6d0803611b53312a.jpg",
+    "group_name": ""
+  },
   "19671811": {
     "name": "夏琳-Official",
     "type": "vtuber",
@@ -11568,6 +11596,13 @@
     "type": "vtuber",
     "room": 22404256,
     "face": "/bfs/face/f62b8d25721f3d6a6bbf49cb6e47ee9dabdc82f6.jpg",
+    "group_name": ""
+  },
+  "1924797677": {
+    "name": "好喝的姜撞奶啤",
+    "type": "vtuber",
+    "room": 25303407,
+    "face": "/bfs/face/70277c24fd3fca7b2139c7648232ad7d023eb9e1.jpg",
     "group_name": ""
   },
   "50635063": {
@@ -21986,6 +22021,13 @@
     "face": "/bfs/face/b5315d610775053bec8d3d1962322e5b4a886c47.jpg",
     "group_name": ""
   },
+  "387103852": {
+    "name": "濑川绪良Official",
+    "type": "vtuber",
+    "room": 24352205,
+    "face": "/bfs/face/cfe8b654853512ce5497b98496026bd7b19109bc.jpg",
+    "group_name": ""
+  },
   "18863045": {
     "name": "会跑步的图图",
     "type": "vtuber",
@@ -23033,7 +23075,7 @@
     "name": "霜草Cat",
     "type": "vtuber",
     "room": 23425533,
-    "face": "/bfs/face/befe28e05f60c8b42c2d15faf8eb9dde4a6f10a4.jpg",
+    "face": "/bfs/face/e71d33f58b74067365958bc3039188e42bb2c097.jpg",
     "group_name": ""
   },
   "487550002": {
@@ -25849,6 +25891,13 @@
     "room": 22667952,
     "face": "/bfs/face/6de6d867307fb54989d1b99a1e9cc08854d46392.jpg",
     "group_name": "LupinusVG公式"
+  },
+  "7699390": {
+    "name": "空澈妖灵Pro",
+    "type": "vtuber",
+    "room": 648936,
+    "face": "/bfs/face/c52aac2db661f727b289422b861e45b6aaff3b34.jpg",
+    "group_name": ""
   },
   "1491057187": {
     "name": "空真密丽-官方WACTOR",
@@ -33884,6 +33933,13 @@
     "type": "vtuber",
     "room": 22700650,
     "face": "/bfs/face/dda23c3997935ab76d1d1777a907df21faff73eb.jpg",
+    "group_name": ""
+  },
+  "3063155": {
+    "name": "饭咩Meya",
+    "type": "vtuber",
+    "room": 1259929,
+    "face": "/bfs/face/c01acdd7965717b0b0de4a484dd7f8136e39c512.jpg",
     "group_name": ""
   },
   "545530293": {
