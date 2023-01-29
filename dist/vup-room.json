@@ -5767,6 +5767,13 @@
     "face": "/bfs/face/3a339edb57fbfa7d40618ac79f1080b69ae3bd2e.jpg",
     "group_name": "ChaosLiveSprout"
   },
+  "7388060": {
+    "name": "五千兆圆",
+    "type": "vtuber",
+    "room_id": 272880,
+    "face": "/bfs/face/5a83971d455fd23ed9c7ba00cd51d7f06d97c0db.jpg",
+    "group_name": ""
+  },
   "16059520": {
     "name": "五彩呆鸟咩Official",
     "type": "vtuber",
@@ -8791,6 +8798,13 @@
     "face": "/bfs/face/5b3c9ea78fd6f470595dc04dc0b0477aa15ec4b4.jpg",
     "group_name": ""
   },
+  "23134740": {
+    "name": "只鱼只",
+    "type": "vtuber",
+    "room_id": 3607081,
+    "face": "/bfs/face/fbc5588f77eed57fe836db202a45c7c6bcf1ed77.jpg",
+    "group_name": ""
+  },
   "487902": {
     "name": "召唤师yami",
     "type": "vtuber",
@@ -9748,6 +9762,13 @@
     "type": "vtuber",
     "room_id": 12420293,
     "face": "/bfs/face/9c1e92eae9da7ac33495475f7873afc32242355e.jpg",
+    "group_name": ""
+  },
+  "524556198": {
+    "name": "喵诺mono",
+    "type": "vtuber",
+    "room_id": 26946475,
+    "face": "/bfs/face/d15d517e33ec6d895434b5efee2fbf98e54cb7a4.jpg",
     "group_name": ""
   },
   "1085503057": {
@@ -10979,7 +11000,7 @@
     "name": "-春嵐",
     "type": "vtuber",
     "room_id": 1997001,
-    "face": "/bfs/face/572d166c58c0ad5a5470dd8c8e241c1417d1b925.jpg",
+    "face": "/bfs/face/2e76bb65e8c0708b2ff3d687590ee364951cb08b.jpg",
     "group_name": ""
   },
   "10979361": {
@@ -18819,7 +18840,7 @@
     "name": "柳鹤烟Otori",
     "type": "vtuber",
     "room_id": 25478421,
-    "face": "/bfs/face/eab869fb79f0fdfe910f0604634ad3d394ecd6a9.jpg",
+    "face": "/bfs/face/7b623628ea544bc601dce0e9b242aaee61ed5c85.jpg",
     "group_name": "樱满月虚拟社团"
   },
   "3072262": {
@@ -21206,7 +21227,7 @@
     "name": "洛汐亚Lucia",
     "type": "vtuber",
     "room_id": 22735927,
-    "face": "/bfs/face/6d47a216a64ae16aa299b41ca060a4538d31d260.jpg",
+    "face": "/bfs/face/10735fab33de3c9969dd21f7c9d15909d448fc13.jpg",
     "group_name": "Providence"
   },
   "574477": {
@@ -21278,6 +21299,13 @@
     "room_id": 25803437,
     "face": "/bfs/face/c72fa009f826c273b8a82e5b1d4a3275aa392dfd.jpg",
     "group_name": "hitorino"
+  },
+  "1549963": {
+    "name": "洲崎绫响",
+    "type": "vtuber",
+    "room_id": 95818,
+    "face": "/bfs/face/85718fb489348ffcf980d262d0bb0664ba27c078.jpg",
+    "group_name": ""
   },
   "43403127": {
     "name": "派大露が",
@@ -27166,6 +27194,13 @@
     "face": "/bfs/face/60a9522d4945aea6d96326bfc4208c9e3c009486.jpg",
     "group_name": ""
   },
+  "2560234": {
+    "name": "绯绯色-",
+    "type": "vtuber",
+    "room_id": 7305536,
+    "face": "/bfs/face/a646e303b241b7f6abb4cda62b8ba261b6a7249e.jpg",
+    "group_name": ""
+  },
   "7922204": {
     "name": "绯花爱吃烤面包qwq",
     "type": "vtuber",
@@ -32819,7 +32854,7 @@
     "name": "雨街F",
     "type": "vtuber",
     "room_id": 4611671,
-    "face": "/bfs/face/7d0da7dcd816ccd1643b1daa2b0873df1eb82eb5.jpg",
+    "face": "/bfs/face/4838d5bf9cd12975d1bc6bb59c20db796793e89e.jpg",
     "group_name": "REDCircle红圈社"
   },
   "129946331": {
