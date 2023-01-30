@@ -895,6 +895,13 @@
     "face": "/bfs/face/b7696d5734d4405a4e1832aeba60c246b439a8ef.jpg",
     "group_name": "NIJISANJI EN"
   },
+  "361363473": {
+    "name": "Fulgur的电子厂",
+    "type": "vtuber",
+    "room_id": 24474915,
+    "face": "/bfs/face/0a38ba674d1e6132a42c4b5b24b65a9b865ddddf.jpg",
+    "group_name": "NIJISANJI EN"
+  },
   "598663307": {
     "name": "Function社",
     "type": "group",
@@ -1075,6 +1082,20 @@
     "type": "vtuber",
     "room_id": 24731531,
     "face": "/bfs/face/6f0473ea0c756e33d304c1997eb56ec104b8063d.jpg",
+    "group_name": "NIJISANJI EN"
+  },
+  "1763663258": {
+    "name": "Ike的随笔札记",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/c589dadbd729d673820528c3850d799591dc3fa8.jpg",
+    "group_name": "NIJISANJI EN"
+  },
+  "1730051024": {
+    "name": "Ike的鱼子酱批发商",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/bdc088513bd37003d0443e9e975db30c393de75e.jpg",
     "group_name": "NIJISANJI EN"
   },
   "19872419": {
@@ -2596,6 +2617,13 @@
     "face": "/bfs/face/48c39b0e56bd9d270a925c691e7596a49e27f035.jpg",
     "group_name": ""
   },
+  "490592728": {
+    "name": "Shoto的汪汪队",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/92fd442be889eeb57784d700e7eb4c8e0ca5ed28.jpg",
+    "group_name": ""
+  },
   "1420890712": {
     "name": "Shu_Official",
     "type": "vtuber",
@@ -2651,6 +2679,13 @@
     "room_id": 6983385,
     "face": "/bfs/face/462905577e60e40c7349fdab26d23a2d19a988e3.jpg",
     "group_name": ""
+  },
+  "1359534346": {
+    "name": "Sonny的VSF分队",
+    "type": "vtuber",
+    "room_id": 24524982,
+    "face": "/bfs/face/4c9041c7d94a93b22df003b78a9eb6f517642af2.jpg",
+    "group_name": "NIJISANJI EN"
   },
   "7238137": {
     "name": "Sorako空子",
@@ -2791,6 +2826,13 @@
     "room_id": 0,
     "face": "/bfs/face/4ce5ba6271241e726e6d942c898ee11e30365647.jpg",
     "group_name": "UV社"
+  },
+  "2129870539": {
+    "name": "Uki的捕星网",
+    "type": "vtuber",
+    "room_id": 24471272,
+    "face": "/bfs/face/6a14de4c335fc2df1c68e3221518ab3e67e9eee3.jpg",
+    "group_name": "NIJISANJI EN"
   },
   "1957582635": {
     "name": "Uko017_Official",
@@ -5150,6 +5192,13 @@
     "room_id": 21572617,
     "face": "/bfs/face/39a175968eaf1f4f5670b7999d5a6feae772f8d9.jpg",
     "group_name": "Hololive"
+  },
+  "543106544": {
+    "name": "不破湊的甜甜圈工坊",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/6850f15caaa2e258c4f95b226d44cc66ee342b72.jpg",
+    "group_name": ""
   },
   "1566230": {
     "name": "不祈十弦Official",
@@ -7754,6 +7803,20 @@
     "room_id": 22470168,
     "face": "/bfs/face/9ea4a897f721dff9d0794bb743e55250343f7b92.jpg",
     "group_name": "NIJISANJI"
+  },
+  "3612946": {
+    "name": "加賀美隼人非公式搬运",
+    "type": "vtuber",
+    "room_id": 724453,
+    "face": "/bfs/face/5a9dcdb8b4baf1ea9179d31a95213ae774696a94.jpg",
+    "group_name": ""
+  },
+  "2075226": {
+    "name": "加贺美隼人工业搬运部",
+    "type": "vtuber",
+    "room_id": 1031430,
+    "face": "/bfs/face/4ffd6f57168fc6a2e94478eab265f440b97333ac.jpg",
+    "group_name": ""
   },
   "5444269": {
     "name": "哔哩克力",
@@ -15140,6 +15203,13 @@
     "face": "/bfs/face/d0d7d4cff558ed3c910e1cdc4efc59c193f4676a.jpg",
     "group_name": "NIJISANJI"
   },
+  "4903038": {
+    "name": "戌亥の造梦坊",
+    "type": "vtuber",
+    "room_id": 41344,
+    "face": "/bfs/face/38e6ce696f1016600a5274a7d77e186961bf940e.jpg",
+    "group_name": ""
+  },
   "2009235986": {
     "name": "戌夜初Hajime",
     "type": "vtuber",
@@ -21885,7 +21955,7 @@
     "name": "游鱼yuka",
     "type": "vtuber",
     "room_id": 4162691,
-    "face": "/bfs/face/409d50bf8b7e58d10f6a403d33e6d550f6345a41.jpg",
+    "face": "/bfs/face/054bd2e11c4e0eb18b0d9eee13d312a5b57b7c53.jpg",
     "group_name": ""
   },
   "375504219": {
@@ -23904,6 +23974,13 @@
     "face": "/bfs/face/96a2657b5e163eb15849b0349c15d25728299ec4.jpg",
     "group_name": "Vi-D"
   },
+  "543529510": {
+    "name": "甲斐田晴的魔物研究所",
+    "type": "vtuber",
+    "room_id": 22320579,
+    "face": "/bfs/face/677994976e77ce3f5296bc4afb26dab69dd53eee.jpg",
+    "group_name": ""
+  },
   "2138676495": {
     "name": "申䒕雅_小雅Official",
     "type": "vtuber",
@@ -23952,6 +24029,13 @@
     "room_id": 1672899,
     "face": "/bfs/face/7b041aaf33e10cd8a47a6482a89a15ad6747aee1.jpg",
     "group_name": "NIJISANJI"
+  },
+  "46085853": {
+    "name": "町田千麻的瓜子铺",
+    "type": "vtuber",
+    "room_id": 22540856,
+    "face": "/bfs/face/a3bd524ee6892850e14f4d5cbfce293dd049a6f5.jpg",
+    "group_name": ""
   },
   "698168210": {
     "name": "画外灯official",
@@ -29109,7 +29193,7 @@
     "name": "草木青w",
     "type": "vtuber",
     "room_id": 26257851,
-    "face": "/bfs/face/8d2e06c71066fdff183284124b898353edcec816.jpg",
+    "face": "/bfs/face/4546a937effd30b0aef9984ecbabb971cfb06a50.jpg",
     "group_name": ""
   },
   "3286364": {
@@ -29285,6 +29369,13 @@
     "type": "vtuber",
     "room_id": 23329350,
     "face": "/bfs/face/939cea1dfa38c003c133c76b78752cd053c451c3.jpg",
+    "group_name": ""
+  },
+  "1626066286": {
+    "name": "莎乐美的满分管家",
+    "type": "vtuber",
+    "room_id": 25106861,
+    "face": "/bfs/face/07ea9c894ab0b230a9a3305a6f0a975bc2a1b989.jpg",
     "group_name": ""
   },
   "2146809865": {
@@ -29699,6 +29790,13 @@
     "room_id": 4010880,
     "face": "/bfs/face/f8c4393961b3063afeb36659a4eec99ea57e02c9.jpg",
     "group_name": "Facemoe官方"
+  },
+  "476879987": {
+    "name": "葛叶搬运组",
+    "type": "vtuber",
+    "room_id": 22320689,
+    "face": "/bfs/face/f8fa4bc3b2dcc35021a9493343b83f99d44652d8.jpg",
+    "group_name": ""
   },
   "1742274827": {
     "name": "葛城奇跡",
@@ -35327,6 +35425,13 @@
     "room_id": 22543135,
     "face": "/bfs/face/fe62a3a1160c21e3bf2956f7cedbd1337d0f0bda.jpg",
     "group_name": "NIJISANJI"
+  },
+  "471227123": {
+    "name": "黛灰字幕组",
+    "type": "vtuber",
+    "room_id": 21824026,
+    "face": "/bfs/face/bc55b68940a8483d383fb76edb4e954b784ccc5c.jpg",
+    "group_name": ""
   },
   "517135723": {
     "name": "鼎鼎子",
