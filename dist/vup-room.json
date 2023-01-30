@@ -2163,10 +2163,10 @@
     "group_name": ""
   },
   "523494605": {
-    "name": "Power_Yuki",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 22892743,
-    "face": "/bfs/face/aad5b111f8f626b20f6e27b0a66a5fa2cbb48cfa.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": "樱满月虚拟社团"
   },
   "129531": {
@@ -5939,7 +5939,7 @@
     "name": "人间蜜药",
     "type": "vtuber",
     "room_id": 22262300,
-    "face": "/bfs/face/22416e63690fa5f5b771d2598f99ef53831b0217.jpg",
+    "face": "/bfs/face/c422d796fa4e5c473c56f83e3ab7f4d57bbb2d02.jpg",
     "group_name": ""
   },
   "2053456684": {
@@ -9492,7 +9492,7 @@
     "group_name": ""
   },
   "1223229089": {
-    "name": "咿喔很哇呜",
+    "name": "咿喔io",
     "type": "vtuber",
     "room_id": 26032691,
     "face": "/bfs/face/c7d0de1e12600de8b2fcf02496e5382050ad8fa0.jpg",
@@ -12918,7 +12918,7 @@
     "name": "小舟潞Kofunero",
     "type": "vtuber",
     "room_id": 26376932,
-    "face": "/bfs/face/f7548a3780c69504f052905a42636f1a37375380.jpg",
+    "face": "/bfs/face/f4f77419c6dfa5b89f169031e801ce9e734b72a7.jpg",
     "group_name": ""
   },
   "477904396": {
@@ -14178,7 +14178,7 @@
     "name": "库沃帕Kwopa",
     "type": "vtuber",
     "room_id": 23235886,
-    "face": "/bfs/face/944112b565d1f4be5d6db22c52567973ede1cdcd.jpg",
+    "face": "/bfs/face/419201d71e2973be3f1eec278b815b62146ebf0c.jpg",
     "group_name": ""
   },
   "1754655094": {
@@ -15249,7 +15249,7 @@
     "name": "托丽Tori",
     "type": "vtuber",
     "room_id": 24789004,
-    "face": "/bfs/face/f87496f2008c3a71f8069dba1ba92c63587eb008.jpg",
+    "face": "/bfs/face/d7cd139d71bcf2d98f7d07e7dfce528a9202a52a.jpg",
     "group_name": "云光计划"
   },
   "85523780": {
@@ -15844,7 +15844,7 @@
     "name": "早穗",
     "type": "vtuber",
     "room_id": 22569046,
-    "face": "/bfs/face/505fb9d79e42d91e41b302579313eebd5268e21c.jpg",
+    "face": "/bfs/face/9fa7b44396bfc01001b05fea63e962edaf1f54b1.jpg",
     "group_name": ""
   },
   "541696090": {

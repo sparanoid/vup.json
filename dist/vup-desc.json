@@ -2472,11 +2472,11 @@
     "group_name": ""
   },
   "523494605": {
-    "name": "Power_Yuki",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 22892743,
-    "face": "/bfs/face/aad5b111f8f626b20f6e27b0a66a5fa2cbb48cfa.jpg",
-    "sign": "不改了！",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": "樱满月虚拟社团"
   },
   "129531": {
@@ -6787,7 +6787,7 @@
     "name": "人间蜜药",
     "type": "vtuber",
     "room": 22262300,
-    "face": "/bfs/face/22416e63690fa5f5b771d2598f99ef53831b0217.jpg",
+    "face": "/bfs/face/c422d796fa4e5c473c56f83e3ab7f4d57bbb2d02.jpg",
     "sign": "❥从你的心底找到我，这颗药不来自外界，是你爱自己治愈自己的力量，你弄丢我很久了吗？❥直播：周二至六21:00-00:00",
     "group_name": ""
   },
@@ -10848,7 +10848,7 @@
     "group_name": ""
   },
   "1223229089": {
-    "name": "咿喔很哇呜",
+    "name": "咿喔io",
     "type": "vtuber",
     "room": 26032691,
     "face": "/bfs/face/c7d0de1e12600de8b2fcf02496e5382050ad8fa0.jpg",
@@ -12100,7 +12100,7 @@
     "type": "vtuber",
     "room": 22279402,
     "face": "/bfs/face/f3c09b913ff106297a83a08b760403c1ffafc646.jpg",
-    "sign": "◇雪风军团SP所属◇ APEX&LOL双大师 LOL/CSGO专业解说 游戏问题和联动合作欢迎私信",
+    "sign": "APEX&LOL双大师 LOL/CSGO专业解说 游戏问题和联动合作欢迎私信",
     "group_name": ""
   },
   "136322951": {
@@ -14763,7 +14763,7 @@
     "name": "小舟潞Kofunero",
     "type": "vtuber",
     "room": 26376932,
-    "face": "/bfs/face/f7548a3780c69504f052905a42636f1a37375380.jpg",
+    "face": "/bfs/face/f4f77419c6dfa5b89f169031e801ce9e734b72a7.jpg",
     "sign": "个狐势vup | 来自异世界的魔王|清楚系话痨| 每晚8点| 粉丝群：820797256 |感谢陪伴！",
     "group_name": ""
   },
@@ -16203,7 +16203,7 @@
     "name": "库沃帕Kwopa",
     "type": "vtuber",
     "room": 23235886,
-    "face": "/bfs/face/944112b565d1f4be5d6db22c52567973ede1cdcd.jpg",
+    "face": "/bfs/face/419201d71e2973be3f1eec278b815b62146ebf0c.jpg",
     "sign": "粉丝群963552678(✧∇✧) 欢迎大家来玩嗷呜~搜不到置顶动态有二维码喔(●• ̀ω•́ )✧",
     "group_name": ""
   },
@@ -17427,7 +17427,7 @@
     "name": "托丽Tori",
     "type": "vtuber",
     "room": 24789004,
-    "face": "/bfs/face/f87496f2008c3a71f8069dba1ba92c63587eb008.jpg",
+    "face": "/bfs/face/d7cd139d71bcf2d98f7d07e7dfce528a9202a52a.jpg",
     "sign": "天堂鸟？知更鸟？qq群:166296121@云光计划",
     "group_name": "云光计划"
   },
@@ -18107,7 +18107,7 @@
     "name": "早穗",
     "type": "vtuber",
     "room": 22569046,
-    "face": "/bfs/face/505fb9d79e42d91e41b302579313eebd5268e21c.jpg",
+    "face": "/bfs/face/9fa7b44396bfc01001b05fea63e962edaf1f54b1.jpg",
     "sign": "✨早穗自己所属✨  被大家喜欢着所以很幸福！\n录播@荔也",
     "group_name": ""
   },
