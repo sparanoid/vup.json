@@ -269,6 +269,12 @@
     "room": 24686616,
     "group_name": ""
   },
+  "1412872951": {
+    "name": "Alban的24h便利店",
+    "type": "vtuber",
+    "room": 24483963,
+    "group_name": ""
+  },
   "32906095": {
     "name": "Alec艾里",
     "type": "vtuber",
@@ -1359,6 +1365,12 @@
     "name": "Meo_Channel",
     "type": "vtuber",
     "room": 11436729,
+    "group_name": ""
+  },
+  "1570624336": {
+    "name": "MerryOfficial",
+    "type": "vtuber",
+    "room": 25524451,
     "group_name": ""
   },
   "780791": {
@@ -2717,6 +2729,18 @@
     "room": 11110277,
     "group_name": "upd8"
   },
+  "1308924026": {
+    "name": "YuNi_Official",
+    "type": "vtuber",
+    "room": 23906228,
+    "group_name": ""
+  },
+  "634324400": {
+    "name": "Yugo的动感DJ舞厅",
+    "type": "vtuber",
+    "room": 24469359,
+    "group_name": ""
+  },
   "1753451": {
     "name": "Yuka碳",
     "type": "vtuber",
@@ -3071,6 +3095,12 @@
     "room": 26664589,
     "group_name": ""
   },
+  "2093138472": {
+    "name": "murasakihiroshi",
+    "type": "vtuber",
+    "room": 25686982,
+    "group_name": ""
+  },
   "569843534": {
     "name": "nanamori_stpr",
     "type": "vtuber",
@@ -3094,6 +3124,12 @@
     "type": "vtuber",
     "room": 21839954,
     "group_name": "远星社FarStar"
+  },
+  "1680099254": {
+    "name": "noro_official",
+    "type": "vtuber",
+    "room": 25511329,
+    "group_name": ""
   },
   "514726274": {
     "name": "喵年nyanon_Channel",
@@ -5847,6 +5883,12 @@
     "name": "克莉雅-Koria",
     "type": "vtuber",
     "room": 22569760,
+    "group_name": ""
+  },
+  "362420674": {
+    "name": "克蕾雅家后院的狸猫窝",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   "2076245548": {
@@ -8807,6 +8849,12 @@
     "room": 1700323,
     "group_name": ""
   },
+  "1416046076": {
+    "name": "夏实萌惠_official",
+    "type": "vtuber",
+    "room": 24220680,
+    "group_name": ""
+  },
   "3262991": {
     "name": "夏小芫Official",
     "type": "vtuber",
@@ -11380,6 +11428,12 @@
     "type": "vtuber",
     "room": 21925057,
     "group_name": "No.6 Channel"
+  },
+  "42342944": {
+    "name": "尤里卡-崔西雅",
+    "type": "vtuber",
+    "room": 4086436,
+    "group_name": ""
   },
   "525105971": {
     "name": "紫海由爱Channel",
@@ -17045,6 +17099,12 @@
     "room": 21302469,
     "group_name": "NIJISANJI"
   },
+  "390800017": {
+    "name": "椎名唯華字幕组",
+    "type": "vtuber",
+    "room": 21096962,
+    "group_name": ""
+  },
   "223133732": {
     "name": "588925",
     "type": "vtuber",
@@ -18095,6 +18155,12 @@
     "room": 47377,
     "group_name": "VirtuaReal"
   },
+  "434021034": {
+    "name": "泠鸢yousa创作组官方号",
+    "type": "vtuber",
+    "room": 25046803,
+    "group_name": ""
+  },
   "397633547": {
     "name": "楪こまりOfficial",
     "type": "vtuber",
@@ -18969,6 +19035,12 @@
     "name": "会跑步的图图",
     "type": "vtuber",
     "room": 1870922,
+    "group_name": ""
+  },
+  "9170926": {
+    "name": "是濠梁喔",
+    "type": "vtuber",
+    "room": 60364,
     "group_name": ""
   },
   "1999738104": {
@@ -21759,6 +21831,12 @@
     "name": "礼弥Hisashi",
     "type": "vtuber",
     "room": 3566358,
+    "group_name": ""
+  },
+  "414127280": {
+    "name": "社筑单推组",
+    "type": "vtuber",
+    "room": 21417455,
     "group_name": ""
   },
   "458154141": {
@@ -25086,7 +25164,7 @@
     "group_name": ""
   },
   "6058674": {
-    "name": "戒葵曼荼",
+    "name": "花楽Kara",
     "type": "vtuber",
     "room": 552983,
     "group_name": ""
@@ -27341,6 +27419,12 @@
     "room": 23905455,
     "group_name": "量子少年Official"
   },
+  "19058549": {
+    "name": "量子猫EH",
+    "type": "vtuber",
+    "room": 63758,
+    "group_name": ""
+  },
   "18699270": {
     "name": "灰豆花",
     "type": "vtuber",
@@ -28876,6 +28960,12 @@
     "type": "vtuber",
     "room": 21302352,
     "group_name": "NIJISANJI"
+  },
+  "323590528": {
+    "name": "静凛字幕组",
+    "type": "vtuber",
+    "room": 11231974,
+    "group_name": ""
   },
   "20600085": {
     "name": "呆丶萌の夜夜",

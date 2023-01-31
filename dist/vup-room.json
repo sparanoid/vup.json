@@ -314,6 +314,13 @@
     "face": "/bfs/face/f108ccbbc756983ce96f487c7616164190af8825.jpg",
     "group_name": ""
   },
+  "1412872951": {
+    "name": "Alban的24h便利店",
+    "type": "vtuber",
+    "room_id": 24483963,
+    "face": "/bfs/face/a99417c7b3dd7757ad878172fef6ff248d344c94.jpg",
+    "group_name": ""
+  },
   "32906095": {
     "name": "Alec艾里",
     "type": "vtuber",
@@ -1586,6 +1593,13 @@
     "type": "vtuber",
     "room_id": 11436729,
     "face": "/bfs/face/e647b9f015505a775bd2d8a7cd28293502dc8979.jpg",
+    "group_name": ""
+  },
+  "1570624336": {
+    "name": "MerryOfficial",
+    "type": "vtuber",
+    "room_id": 25524451,
+    "face": "/bfs/face/c8c3b6ed450f0e001d5cd7e1e08a9e055a00393a.jpg",
     "group_name": ""
   },
   "780791": {
@@ -3170,6 +3184,20 @@
     "face": "/bfs/face/c085c35aeb78fd4421454f806a3fb9835fb557ca.jpg",
     "group_name": "upd8"
   },
+  "1308924026": {
+    "name": "YuNi_Official",
+    "type": "vtuber",
+    "room_id": 23906228,
+    "face": "/bfs/face/aaa5de5fde02bcf9ac0bb91c7c658582d90e358d.jpg",
+    "group_name": ""
+  },
+  "634324400": {
+    "name": "Yugo的动感DJ舞厅",
+    "type": "vtuber",
+    "room_id": 24469359,
+    "face": "/bfs/face/1d1b27ed1359fed7ca0e760167339d8237632a2c.jpg",
+    "group_name": ""
+  },
   "1753451": {
     "name": "Yuka碳",
     "type": "vtuber",
@@ -3583,6 +3611,13 @@
     "face": "/bfs/face/fb62ae5a360b61fbd3f7e3d0776c7794ed4bd0d1.jpg",
     "group_name": ""
   },
+  "2093138472": {
+    "name": "murasakihiroshi",
+    "type": "vtuber",
+    "room_id": 25686982,
+    "face": "/bfs/face/11a2adb1521244b27d3aabd4fd072257d9745b80.jpg",
+    "group_name": ""
+  },
   "569843534": {
     "name": "nanamori_stpr",
     "type": "vtuber",
@@ -3610,6 +3645,13 @@
     "room_id": 21839954,
     "face": "/bfs/face/22468859b1fa0fc89e50994887586d10033eef6f.jpg",
     "group_name": "远星社FarStar"
+  },
+  "1680099254": {
+    "name": "noro_official",
+    "type": "vtuber",
+    "room_id": 25511329,
+    "face": "/bfs/face/f9d09d0b0d2e6bc7f801267a296eb471dfcb9d2f.jpg",
+    "group_name": ""
   },
   "514726274": {
     "name": "喵年nyanon_Channel",
@@ -6822,6 +6864,13 @@
     "type": "vtuber",
     "room_id": 22569760,
     "face": "/bfs/face/4640845a8aef9c494114dcd11174ce0457fd08c8.jpg",
+    "group_name": ""
+  },
+  "362420674": {
+    "name": "克蕾雅家后院的狸猫窝",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/f5244d154ace13c2422e778832f4396af63df670.jpg",
     "group_name": ""
   },
   "2076245548": {
@@ -10275,6 +10324,13 @@
     "face": "/bfs/face/09f51b9a6debe416151860ee6094c9faa34c8575.jpg",
     "group_name": ""
   },
+  "1416046076": {
+    "name": "夏实萌惠_official",
+    "type": "vtuber",
+    "room_id": 24220680,
+    "face": "/bfs/face/97c0859bfa68a8a195e692877aa3c1d09f51d345.jpg",
+    "group_name": ""
+  },
   "3262991": {
     "name": "夏小芫Official",
     "type": "vtuber",
@@ -12351,7 +12407,7 @@
     "name": "宣小纸不怕火",
     "type": "vtuber",
     "room_id": 26276187,
-    "face": "/bfs/face/570bb9367351c3f3ef537b9c03f76defb46a14fb.jpg",
+    "face": "/bfs/face/4a65ee6a73cae0da986ca38a175e7939f362a7ea.jpg",
     "group_name": "Nebula-Beat​"
   },
   "12485637": {
@@ -13277,6 +13333,13 @@
     "room_id": 21925057,
     "face": "/bfs/face/56e49024d37a9b7667ab2080ce8c32ebea052020.jpg",
     "group_name": "No.6 Channel"
+  },
+  "42342944": {
+    "name": "尤里卡-崔西雅",
+    "type": "vtuber",
+    "room_id": 4086436,
+    "face": "/bfs/face/44e00e6f386c0b8f8b648d00dfaa424dc6de5b22.jpg",
+    "group_name": ""
   },
   "525105971": {
     "name": "紫海由爱Channel",
@@ -19886,6 +19949,13 @@
     "face": "/bfs/face/3ae4408b6d6946d5867cf82a4c7a8568c6ae2da6.jpg",
     "group_name": "NIJISANJI"
   },
+  "390800017": {
+    "name": "椎名唯華字幕组",
+    "type": "vtuber",
+    "room_id": 21096962,
+    "face": "/bfs/face/c339a05168f2c912d8dff7aef77b13abb27c231d.jpg",
+    "group_name": ""
+  },
   "223133732": {
     "name": "588925",
     "type": "vtuber",
@@ -21111,6 +21181,13 @@
     "face": "/bfs/face/42f49f91edd6a868b508fb0482dcff8fb6c74aaa.jpg",
     "group_name": "VirtuaReal"
   },
+  "434021034": {
+    "name": "泠鸢yousa创作组官方号",
+    "type": "vtuber",
+    "room_id": 25046803,
+    "face": "/bfs/face/e975ca02ec3c731c580cdb45bb29b34b5a16b40a.jpg",
+    "group_name": ""
+  },
   "397633547": {
     "name": "楪こまりOfficial",
     "type": "vtuber",
@@ -22131,6 +22208,13 @@
     "type": "vtuber",
     "room_id": 1870922,
     "face": "/bfs/face/fbb23e719e035137f0a28ea3f94eeb28074f4178.jpg",
+    "group_name": ""
+  },
+  "9170926": {
+    "name": "是濠梁喔",
+    "type": "vtuber",
+    "room_id": 60364,
+    "face": "/bfs/face/336eab569a63a70af8f64761eaa0ff16359f46ed.jpg",
     "group_name": ""
   },
   "1999738104": {
@@ -25386,6 +25470,13 @@
     "type": "vtuber",
     "room_id": 3566358,
     "face": "/bfs/face/a703cca85c97101a4acb7e989e236ade6f14f154.jpg",
+    "group_name": ""
+  },
+  "414127280": {
+    "name": "社筑单推组",
+    "type": "vtuber",
+    "room_id": 21417455,
+    "face": "/bfs/face/59950b7efd9e3b26ca44181482f948966d11903b.jpg",
     "group_name": ""
   },
   "458154141": {
@@ -29267,10 +29358,10 @@
     "group_name": ""
   },
   "6058674": {
-    "name": "戒葵曼荼",
+    "name": "花楽Kara",
     "type": "vtuber",
     "room_id": 552983,
-    "face": "/bfs/face/93b21a0866850c7c9904aa9967191cdd24b2190b.jpg",
+    "face": "/bfs/face/1717761cdeae24462d7a4c3bc159eaa8ac373dd9.jpg",
     "group_name": ""
   },
   "11771366": {
@@ -31898,6 +31989,13 @@
     "face": "/bfs/face/0068ca9e004bc9da358a281c54aa9498575ec777.jpg",
     "group_name": "量子少年Official"
   },
+  "19058549": {
+    "name": "量子猫EH",
+    "type": "vtuber",
+    "room_id": 63758,
+    "face": "/bfs/face/775fdb3a94b44826db4d8ed424f27742076f8f26.jpg",
+    "group_name": ""
+  },
   "18699270": {
     "name": "灰豆花",
     "type": "vtuber",
@@ -33689,6 +33787,13 @@
     "room_id": 21302352,
     "face": "/bfs/face/f3828cb7eb627cfdb334a10009d2b6171afb1535.jpg",
     "group_name": "NIJISANJI"
+  },
+  "323590528": {
+    "name": "静凛字幕组",
+    "type": "vtuber",
+    "room_id": 11231974,
+    "face": "/bfs/face/0f6fd3f339247744784f5ed7f3b55c5831eb6fde.jpg",
+    "group_name": ""
   },
   "20600085": {
     "name": "呆丶萌の夜夜",
