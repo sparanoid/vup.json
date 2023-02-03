@@ -18693,7 +18693,7 @@
     "name": "柊苓月",
     "type": "vtuber",
     "room_id": 24924119,
-    "face": "/bfs/face/5e4d237b6e92cbb16cb0d31a959d603ae2675320.jpg",
+    "face": "/bfs/face/c8bdb079d5435c7cef90214c2241dceb66b7db35.jpg",
     "group_name": ""
   },
   "2844993": {
@@ -19285,10 +19285,10 @@
     "group_name": ""
   },
   "1521875866": {
-    "name": "桃桃凛Momorin",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 23817986,
-    "face": "/bfs/face/8b1d70abc95a30fc58df1652d157185b3ef580c4.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "2078544350": {
@@ -24727,7 +24727,7 @@
     "name": "白雪眠",
     "type": "vtuber",
     "room_id": 26021194,
-    "face": "/bfs/face/7a9944e7a9754c1a567d59544b9d9944096ee342.jpg",
+    "face": "/bfs/face/a0cf60d0d18189aefde657f24f6fa00ed7960364.jpg",
     "group_name": ""
   },
   "1728751": {
