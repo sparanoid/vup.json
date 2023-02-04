@@ -131,12 +131,6 @@
     "room": 0,
     "group_name": ""
   },
-  "1210419111": {
-    "name": "馍馍_Pann",
-    "type": "vtuber",
-    "room": 26021274,
-    "group_name": "C-Live_Project"
-  },
   "484322035": {
     "name": "AIChannel中国绊爱",
     "type": "vtuber",
@@ -3160,6 +3154,12 @@
     "type": "vtuber",
     "room": 0,
     "group_name": "草莓王子"
+  },
+  "3493118663985555": {
+    "name": "rosabel_official",
+    "type": "vtuber",
+    "room": 26863393,
+    "group_name": ""
   },
   "1745191666": {
     "name": "rucaco_official",
@@ -6545,6 +6545,12 @@
     "room": 139372,
     "group_name": ""
   },
+  "1095323126": {
+    "name": "凯洛Kairo",
+    "type": "vtuber",
+    "room": 26822010,
+    "group_name": "C-Live_Project"
+  },
   "1051422690": {
     "name": "凰清音_Kouseion",
     "type": "vtuber",
@@ -7209,6 +7215,12 @@
     "name": "华小科Official",
     "type": "vtuber",
     "room": 22536559,
+    "group_name": ""
+  },
+  "434685044": {
+    "name": "华曦妙妙",
+    "type": "vtuber",
+    "room": 22180656,
     "group_name": ""
   },
   "609570409": {
@@ -8290,6 +8302,12 @@
     "type": "vtuber",
     "room": 24849407,
     "group_name": "新月社FCrescent"
+  },
+  "2110724949": {
+    "name": "哭哭给你两拳",
+    "type": "vtuber",
+    "room": 26621541,
+    "group_name": ""
   },
   "11707013": {
     "name": "哲十八Sigma",
@@ -14969,6 +14987,12 @@
     "room": 150067,
     "group_name": ""
   },
+  "1605958838": {
+    "name": "暮雪初霁_",
+    "type": "vtuber",
+    "room": 25849181,
+    "group_name": ""
+  },
   "13954468": {
     "name": "暴白_Blizzardwhite",
     "type": "vtuber",
@@ -17949,6 +17973,12 @@
     "name": "沉溺于你的Butterfly",
     "type": "vtuber",
     "room": 2174963,
+    "group_name": ""
+  },
+  "2111835557": {
+    "name": "沉默藕和Kururu",
+    "type": "vtuber",
+    "room": 22711677,
     "group_name": ""
   },
   "476755934": {
@@ -26591,6 +26621,12 @@
     "room": 26110195,
     "group_name": ""
   },
+  "3493124934470587": {
+    "name": "豹豹达凛",
+    "type": "vtuber",
+    "room": 26951599,
+    "group_name": "C-Live_Project"
+  },
   "7664000": {
     "name": "貓小涼nya",
     "type": "vtuber",
@@ -29362,6 +29398,12 @@
     "type": "vtuber",
     "room": 24379966,
     "group_name": ""
+  },
+  "650363356": {
+    "name": "馍馍Pann",
+    "type": "vtuber",
+    "room": 26855029,
+    "group_name": "C-Live_Project"
   },
   "574317507": {
     "name": "香取绮罗_kira",

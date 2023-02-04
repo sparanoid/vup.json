@@ -153,13 +153,6 @@
     "face": "/bfs/face/4a9bc6b627dc9e31db2207039c13b3fcb25a171e.jpg",
     "group_name": ""
   },
-  "1210419111": {
-    "name": "馍馍_Pann",
-    "type": "vtuber",
-    "room": 26021274,
-    "face": "/bfs/face/288bc34348309e17b6ce847b477688bcfaaa3bda.jpg",
-    "group_name": "C-Live_Project"
-  },
   "484322035": {
     "name": "AIChannel中国绊爱",
     "type": "vtuber",
@@ -3687,6 +3680,13 @@
     "room": 0,
     "face": "/bfs/face/59575c0ab2c9fecacb3a6494565fb590642a9eb7.jpg",
     "group_name": "草莓王子"
+  },
+  "3493118663985555": {
+    "name": "rosabel_official",
+    "type": "vtuber",
+    "room": 26863393,
+    "face": "/bfs/face/678e0b5224f384f51302fd1e0d6d5774d59eee6d.jpg",
+    "group_name": ""
   },
   "1745191666": {
     "name": "rucaco_official",
@@ -7636,6 +7636,13 @@
     "face": "/bfs/face/8c63e0b03426e5aadec16477f1e88e06536d995d.jpg",
     "group_name": ""
   },
+  "1095323126": {
+    "name": "凯洛Kairo",
+    "type": "vtuber",
+    "room": 26822010,
+    "face": "/bfs/face/4ce557771bd4e056bbac974c88e1ecba4dcb9b9b.jpg",
+    "group_name": "C-Live_Project"
+  },
   "1051422690": {
     "name": "凰清音_Kouseion",
     "type": "vtuber",
@@ -8411,6 +8418,13 @@
     "type": "vtuber",
     "room": 22536559,
     "face": "/bfs/face/b1ad2c4cde20bfd77291dfe09e3202a1667a8093.jpg",
+    "group_name": ""
+  },
+  "434685044": {
+    "name": "华曦妙妙",
+    "type": "vtuber",
+    "room": 22180656,
+    "face": "/bfs/face/fa47d9ee82ca3d692b7d97b75735e6e3ef2d9580.jpg",
     "group_name": ""
   },
   "609570409": {
@@ -9672,6 +9686,13 @@
     "room": 24849407,
     "face": "/bfs/face/a061c56ceac8e1fe0a1cfe30ed8f8770837a88ae.jpg",
     "group_name": "新月社FCrescent"
+  },
+  "2110724949": {
+    "name": "哭哭给你两拳",
+    "type": "vtuber",
+    "room": 26621541,
+    "face": "/bfs/face/ccfe3943daab11f7e33756cd45d1b27319c646ac.jpg",
+    "group_name": ""
   },
   "11707013": {
     "name": "哲十八Sigma",
@@ -17464,6 +17485,13 @@
     "face": "/bfs/face/8dccebe68fd517302da7e30d3bf75e427c7d13b8.jpg",
     "group_name": ""
   },
+  "1605958838": {
+    "name": "暮雪初霁_",
+    "type": "vtuber",
+    "room": 25849181,
+    "face": "/bfs/face/1ec2534183f8bb9ba724936cec40d8edcb9db133.jpg",
+    "group_name": ""
+  },
   "13954468": {
     "name": "暴白_Blizzardwhite",
     "type": "vtuber",
@@ -20941,6 +20969,13 @@
     "type": "vtuber",
     "room": 2174963,
     "face": "/bfs/face/d28d4ab60ac2aed4b4b49d371c91c1f86debdca3.png",
+    "group_name": ""
+  },
+  "2111835557": {
+    "name": "沉默藕和Kururu",
+    "type": "vtuber",
+    "room": 22711677,
+    "face": "/bfs/face/2513443ac94c7d6c66b8ec83f8508edde177b2c4.jpg",
     "group_name": ""
   },
   "476755934": {
@@ -31023,6 +31058,13 @@
     "face": "/bfs/face/c8ca572605fbb6b42ef28af962ae1c8c4785e859.jpg",
     "group_name": ""
   },
+  "3493124934470587": {
+    "name": "豹豹达凛",
+    "type": "vtuber",
+    "room": 26951599,
+    "face": "/bfs/face/26e73bd55468c51a2c620a0fe297382b51dfad66.jpg",
+    "group_name": "C-Live_Project"
+  },
   "7664000": {
     "name": "貓小涼nya",
     "type": "vtuber",
@@ -34256,6 +34298,13 @@
     "room": 24379966,
     "face": "/bfs/face/47d188f3fca7030f88dd7d19c16fac299b80e302.jpg",
     "group_name": ""
+  },
+  "650363356": {
+    "name": "馍馍Pann",
+    "type": "vtuber",
+    "room": 26855029,
+    "face": "/bfs/face/1410e10d1b7f17bc176503982ae31ddacbd17add.jpg",
+    "group_name": "C-Live_Project"
   },
   "574317507": {
     "name": "香取绮罗_kira",
