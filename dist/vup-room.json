@@ -1931,6 +1931,13 @@
     "face": "/bfs/face/2aaae7dcee1cd85de628079ec7958a1a7143a10c.jpg",
     "group_name": ""
   },
+  "188679": {
+    "name": "Niya阿布",
+    "type": "vtuber",
+    "room_id": 685026,
+    "face": "/bfs/face/20172b247373caf465f065dff762bf8efd2c5805.jpg",
+    "group_name": ""
+  },
   "434662713": {
     "name": "NoWorld_Official",
     "type": "vtuber",
@@ -5842,6 +5849,13 @@
     "type": "vtuber",
     "room_id": 24555731,
     "face": "/bfs/face/f481b7bf62be40a3797c04d3545de45a0f974142.jpg",
+    "group_name": ""
+  },
+  "1277309396": {
+    "name": "亓玖玖丶",
+    "type": "vtuber",
+    "room_id": 23817749,
+    "face": "/bfs/face/65b8bc9eebb74ca14b76996370fbb10b1a13bce5.jpg",
     "group_name": ""
   },
   "1086330105": {
@@ -29944,6 +29958,13 @@
     "room_id": 22857429,
     "face": "/bfs/face/92fca11d5ed4728f08bee0764a5241d7a010fe2a.jpg",
     "group_name": "Palette"
+  },
+  "3461577575500225": {
+    "name": "葱鱼腩NegitoroCh",
+    "type": "vtuber",
+    "room_id": 26217053,
+    "face": "/bfs/face/52df8195b908bb3bc0e0acceaeb9f49abb3fc339.jpg",
+    "group_name": ""
   },
   "2006314323": {
     "name": "葵Shiro_Official",
