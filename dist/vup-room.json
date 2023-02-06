@@ -13590,7 +13590,7 @@
     "name": "岁己SUI",
     "type": "vtuber",
     "room_id": 25788785,
-    "face": "/bfs/face/87ef139bcb9d3e083841a5b614acff1e4e68ae65.jpg",
+    "face": "/bfs/face/d5655656343c1b101d41606d9f1f07b0dd2cca29.jpg",
     "group_name": "VirtuaReal"
   },
   "646344560": {
@@ -19918,7 +19918,7 @@
     "name": "森绘麻Moriema",
     "type": "vtuber",
     "room_id": 22650959,
-    "face": "/bfs/face/6aa02930923bf03b08fcf32fa1560be4941ea858.jpg",
+    "face": "/bfs/face/71bc40658cea3915d73e576ac250b29ea8528153.jpg",
     "group_name": ""
   },
   "1510901": {
@@ -25490,7 +25490,7 @@
     "name": "砂那Suna",
     "type": "vtuber",
     "room_id": 25070229,
-    "face": "/bfs/face/787eedb53f938c3ccf28831ded5fbc90e2435bd2.jpg",
+    "face": "/bfs/face/01acc033af11c90aa135eaab48da6f1ada2cde2f.jpg",
     "group_name": ""
   },
   "9311399": {
@@ -28857,7 +28857,7 @@
     "name": "花雨春绘",
     "type": "vtuber",
     "room_id": 23696756,
-    "face": "/bfs/face/6263fb178ae54bfe093d1ce6ee3915371e13ef61.jpg",
+    "face": "/bfs/face/035013d5bdbf906c28612d4019f6cf1fb09a451a.jpg",
     "group_name": "极光社"
   },
   "521780993": {
@@ -30930,6 +30930,13 @@
     "type": "vtuber",
     "room_id": 9650345,
     "face": "/bfs/face/1e0aa9e56356cc0da3395e1d16fabbe40474ace9.jpg",
+    "group_name": ""
+  },
+  "3493111175055928": {
+    "name": "诗织_Shiori",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/d5a5ea54b0d22630094d8cc438b4be5fdeec4963.jpg",
     "group_name": ""
   },
   "17384147": {
