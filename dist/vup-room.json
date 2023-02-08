@@ -2750,6 +2750,13 @@
     "face": "/bfs/face/69e4424d14c3cdcd475cd31a4ab79123da6daed4.jpg",
     "group_name": "纸片人计划"
   },
+  "3493123334343174": {
+    "name": "TTUP_HOME",
+    "type": "group",
+    "room_id": 27044364,
+    "face": "/bfs/face/6660e3ea1155bd1f6ac9f077c0a46af7358a96ec.jpg",
+    "group_name": ""
+  },
   "181559741": {
     "name": "Tacitly_麟犀",
     "type": "vtuber",
@@ -8427,6 +8434,13 @@
     "face": "/bfs/face/0d1a80c17cc1ac3f34e1dde5638fdf85ddee0d27.jpg",
     "group_name": ""
   },
+  "3493086422370649": {
+    "name": "半夏_Pinky",
+    "type": "vtuber",
+    "room_id": 26879035,
+    "face": "/bfs/face/cd8e3327fd24c9e69f6aa51ab4ade6230d2fd9cf.jpg",
+    "group_name": "TTUP"
+  },
   "24626465": {
     "name": "月见果Channel",
     "type": "vtuber",
@@ -10098,6 +10112,13 @@
     "type": "vtuber",
     "room_id": 22117557,
     "face": "/bfs/face/1095ed7b66012f2724a0e215828b892aa070d2c9.jpg",
+    "group_name": ""
+  },
+  "1858271923": {
+    "name": "圣园响_Hibiki",
+    "type": "vtuber",
+    "room_id": 25004479,
+    "face": "/bfs/face/01708442f542e487062075dbdf642ce982172283.jpg",
     "group_name": ""
   },
   "20675652": {
@@ -12248,6 +12269,13 @@
     "room_id": 25472608,
     "face": "/bfs/face/70168fba847f72c32edf73201a05eae90423261b.jpg",
     "group_name": ""
+  },
+  "3493086428662337": {
+    "name": "安婧_Tiffany",
+    "type": "vtuber",
+    "room_id": 26928634,
+    "face": "/bfs/face/432a4c46f7494d9339ec9fd1a169bdc3ecfc0fad.jpg",
+    "group_name": "TTUP"
   },
   "383994444": {
     "name": "安宫颯翼__Dingt",
@@ -21447,6 +21475,13 @@
     "face": "/bfs/face/8d5ff6073c3865dfc123f09faa57706a64c7b420.jpg",
     "group_name": ""
   },
+  "1447574": {
+    "name": "洛少爷",
+    "type": "vtuber",
+    "room_id": 936475,
+    "face": "/bfs/face/12c8c1e81dcd8749007bcaa75739d450f9927a96.jpg",
+    "group_name": ""
+  },
   "391127091": {
     "name": "洛弗洛萨LovreLothar",
     "type": "vtuber",
@@ -30302,6 +30337,13 @@
     "face": "/bfs/face/2d192b89f19f00e05939c12354c021e23b03d98f.jpg",
     "group_name": ""
   },
+  "3493076263766277": {
+    "name": "薄荷Miint",
+    "type": "vtuber",
+    "room_id": 26323225,
+    "face": "/bfs/face/24daaf2a68006a748a9a37c1405395373498235f.jpg",
+    "group_name": ""
+  },
   "1545968622": {
     "name": "我真的很可爱喵",
     "type": "vtuber",
@@ -32059,6 +32101,13 @@
     "face": "/bfs/face/5a3e58b63c01f5c6f06b8eb2888b5ddd06d01496.jpg",
     "group_name": ""
   },
+  "3493086413982205": {
+    "name": "里沙_Tesia",
+    "type": "vtuber",
+    "room_id": 26878897,
+    "face": "/bfs/face/0f3b89ab54c1b2559f6859fa677f382af6d4f4c4.jpg",
+    "group_name": "TTUP"
+  },
   "3020880": {
     "name": "里荼院双星",
     "type": "vtuber",
@@ -33542,6 +33591,13 @@
     "room_id": 23644722,
     "face": "/bfs/face/d05c059fd1caa22d35dcf627fe50cda30a660ca5.jpg",
     "group_name": ""
+  },
+  "3493086437050375": {
+    "name": "零一_Uri",
+    "type": "vtuber",
+    "room_id": 26883130,
+    "face": "/bfs/face/dfbd3ffc69978d9e23ee8bbe67eac7744a1f4f47.jpg",
+    "group_name": "TTUP"
   },
   "351856931": {
     "name": "Tadyi零叁_Channel",
