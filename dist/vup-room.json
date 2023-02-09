@@ -5393,7 +5393,7 @@
     "name": "丧喵owo",
     "type": "vtuber",
     "room_id": 11946834,
-    "face": "/bfs/face/9b10ac082a0c1911f3cc03774bff6e6c5ef95f89.jpg",
+    "face": "/bfs/face/32844a7d2a721dd2697b0de6918ed27d01a55f75.jpg",
     "group_name": ""
   },
   "480291322": {
@@ -7061,6 +7061,13 @@
     "room_id": 26345216,
     "face": "/bfs/face/262551ea86cc2b2e48b193adcdab8d8de556835b.jpg",
     "group_name": ""
+  },
+  "1570133561": {
+    "name": "兔美咪奈-官方WACTOR",
+    "type": "vtuber",
+    "room_id": 26652753,
+    "face": "/bfs/face/84a615a34c228a4d581ad21bcf3a0ec217538ea8.jpg",
+    "group_name": "WACTOR"
   },
   "493252584": {
     "name": "兔萝YOKA",
@@ -15179,7 +15186,7 @@
     "name": "悠织YURI",
     "type": "vtuber",
     "room_id": 800332,
-    "face": "/bfs/face/90616724bdce6d7206bbbfbaef701016d867ce10.jpg",
+    "face": "/bfs/face/1371777240e49102689ec05bad992ed086505ebf.jpg",
     "group_name": ""
   },
   "620905044": {
@@ -15515,7 +15522,7 @@
     "name": "抓住一只柴柴",
     "type": "vtuber",
     "room_id": 26635832,
-    "face": "/bfs/face/12c06ddd475e5ef3ee908ba62c180b73dacb71a9.jpg",
+    "face": "/bfs/face/397596bc6327576bbadae4fb1fc10d60dfb2e8d2.jpg",
     "group_name": "YOLO"
   },
   "631070414": {
@@ -19183,7 +19190,7 @@
     "name": "栗原南_minami",
     "type": "vtuber",
     "room_id": 7387222,
-    "face": "/bfs/face/3b88c1300e901e1004c88796fde16a49dd9e4a94.jpg",
+    "face": "/bfs/face/ac7af6e4b8179bb347205f364a1591bd7273cfe5.jpg",
     "group_name": ""
   },
   "50980433": {
@@ -32784,7 +32791,7 @@
     "name": "曜曜的小狗",
     "type": "vtuber",
     "room_id": 22729526,
-    "face": "/bfs/face/8751ae3775241b30297aae12cbc91fd3a38e8491.jpg",
+    "face": "/bfs/face/000b1994c8efabdf115d3ad243931eee7ba94d86.jpg",
     "group_name": "极光社"
   },
   "511613155": {
