@@ -9834,6 +9834,13 @@
     "face": "/bfs/face/d0b836e9e39a3dde203e4debae80658408bd4472.jpg",
     "group_name": ""
   },
+  "3493122996702172": {
+    "name": "啾尤尤OwO",
+    "type": "vtuber",
+    "room": 26916154,
+    "face": "/bfs/face/a2ae94c14c3f2e38d7ca5cdd1b2b1c533a825dcb.jpg",
+    "group_name": ""
+  },
   "1109759825": {
     "name": "啾铃Jolin",
     "type": "vtuber",
@@ -16022,6 +16029,13 @@
     "face": "/bfs/face/d2d65bdf2e262b301ba78a7d7dd87eb217a2a277.jpg",
     "group_name": ""
   },
+  "1319038464": {
+    "name": "日寄郁",
+    "type": "vtuber",
+    "room": 27004867,
+    "face": "/bfs/face/af94a0a304de64438ca84bff1537f240cb6756c8.jpg",
+    "group_name": ""
+  },
   "1017254472": {
     "name": "日雨柒",
     "type": "vtuber",
@@ -16098,6 +16112,13 @@
     "room": 21711540,
     "face": "/bfs/face/29d017ee669d7e21b2d132c79e24ad1df1fc0a3b.jpg",
     "group_name": ""
+  },
+  "1797782115": {
+    "name": "早野奇迹__きせき",
+    "type": "vtuber",
+    "room": 24159433,
+    "face": "/bfs/face/effe21f0ce6276ddbd06e7fa82f1e1422cef4dd9.jpg",
+    "group_name": "ChaosLiveSprout"
   },
   "3938351": {
     "name": "早铃",
@@ -23323,6 +23344,13 @@
     "face": "/bfs/face/72f95842f42f296a4d5bef2f136431965e694434.jpg",
     "group_name": "Vi-D"
   },
+  "397146": {
+    "name": "猫崎星衣藍_channel",
+    "type": "vtuber",
+    "room": 213250,
+    "face": "/bfs/face/a01bd48cd920dae18337b10e2c52561edd781ac4.jpg",
+    "group_name": ""
+  },
   "1926687": {
     "name": "taku道",
     "type": "vtuber",
@@ -23644,6 +23672,13 @@
     "room": 22321043,
     "face": "/bfs/face/1ab357cd76ad5a211e0e09140dddd9edd739e782.jpg",
     "group_name": "Providence"
+  },
+  "228466198": {
+    "name": "玛桃Myrtle",
+    "type": "vtuber",
+    "room": 6293675,
+    "face": "/bfs/face/043f6a7e187aa14329ce9cecd5a0b21d2a02cc8a.jpg",
+    "group_name": ""
   },
   "1585307828": {
     "name": "玛琳璱Official",
@@ -24154,6 +24189,13 @@
     "type": "vtuber",
     "room": 24656351,
     "face": "/bfs/face/f47df3ecc49bddb18300706565bb5303286ef845.jpg",
+    "group_name": ""
+  },
+  "526729810": {
+    "name": "甜夕sweet",
+    "type": "vtuber",
+    "room": 26103248,
+    "face": "/bfs/face/195974d3f97744bea33b404c498d34ac04eba645.jpg",
     "group_name": ""
   },
   "557080920": {
@@ -26008,7 +26050,7 @@
     "name": "秋乌不是啾呜",
     "type": "vtuber",
     "room": 1422090,
-    "face": "/bfs/face/488174fd456687228a073e7cd838fbf30ebe5ff6.jpg",
+    "face": "/bfs/face/5ce391e9c020d8af96427f84009dbd8f4e8ede0a.jpg",
     "group_name": ""
   },
   "1610379": {
