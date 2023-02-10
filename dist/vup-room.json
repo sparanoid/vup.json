@@ -16750,6 +16750,13 @@
     "face": "/bfs/face/3c85b77acc9153e1f5952d2cc2061b415250348c.jpg",
     "group_name": ""
   },
+  "484759992": {
+    "name": "星由莉Hoshiyuri星ゆり",
+    "type": "vtuber",
+    "room_id": 22642960,
+    "face": "/bfs/face/50e329e48ab9e4054a5b9cf2a81853e60bf544dc.jpg",
+    "group_name": ""
+  },
   "675652": {
     "name": "星界璃海",
     "type": "vtuber",
@@ -31623,6 +31630,13 @@
     "type": "vtuber",
     "room_id": 24439303,
     "face": "/bfs/face/5d8009b2f779bb44554ec9cd8dc95fa133ea67e6.jpg",
+    "group_name": ""
+  },
+  "1696914608": {
+    "name": "车又又_YOYO",
+    "type": "vtuber",
+    "room_id": 24915450,
+    "face": "/bfs/face/59916fdd0ff8c7b75f698ee0f482066469b14c40.jpg",
     "group_name": ""
   },
   "49694204": {
