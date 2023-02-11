@@ -3479,7 +3479,7 @@
     "group_name": "inkschool"
   },
   "4564287": {
-    "name": "一个富有欧气的名字",
+    "name": "会否极泰来呜哇哇哇",
     "type": "vtuber",
     "room_id": 2732949,
     "face": "/bfs/face/4d748c9cf1ceae7adc7bd5307ed5c4bdcd9f5107.jpg",
@@ -4904,6 +4904,13 @@
     "type": "vtuber",
     "room_id": 701558,
     "face": "/bfs/face/cdc7ed8be365c957886b527f394fccc9b64e11f2.jpg",
+    "group_name": ""
+  },
+  "3493133740410899": {
+    "name": "七代Erika",
+    "type": "vtuber",
+    "room_id": 27068595,
+    "face": "/bfs/face/7594687fbab41c46d344bbd791f9ab396a0b566a.jpg",
     "group_name": ""
   },
   "3461572460546094": {
@@ -7104,6 +7111,13 @@
     "face": "/bfs/face/0aa8f6ea87339a5c3b6b1e96d77d22cc765e9a16.jpg",
     "group_name": ""
   },
+  "434306798": {
+    "name": "入夜Trey",
+    "type": "vtuber",
+    "room_id": 27011336,
+    "face": "/bfs/face/bc18d041e02a39fcedbe5143df5284eaa12994b5.jpg",
+    "group_name": ""
+  },
   "1531227247": {
     "name": "入間綠",
     "type": "vtuber",
@@ -7283,7 +7297,7 @@
     "name": "关于莓芙可的一切",
     "type": "vtuber",
     "room_id": 4375197,
-    "face": "/bfs/face/0246c90e1175c3b546c26bfb7c8e07ce5c3f77a4.jpg",
+    "face": "/bfs/face/998617c4aae7aef0a91b20efc51ac2af60ef36ec.jpg",
     "group_name": ""
   },
   "31496716": {
@@ -7634,6 +7648,13 @@
     "type": "vtuber",
     "room_id": 25290861,
     "face": "/bfs/face/2ff6ca4b9250b841beec814a7b65376d8ac1a41e.jpg",
+    "group_name": ""
+  },
+  "15004349": {
+    "name": "凝万Harmony",
+    "type": "vtuber",
+    "room_id": 24267517,
+    "face": "/bfs/face/faa38344776d7ef9a55f56df67a1415954c54476.jpg",
     "group_name": ""
   },
   "508921078": {
@@ -8292,6 +8313,13 @@
     "type": "vtuber",
     "room_id": 21109751,
     "face": "/bfs/face/53c9efcf9452480d08173bc9a3b21b92fa618bb4.jpg",
+    "group_name": ""
+  },
+  "3493081399691605": {
+    "name": "千祈senki",
+    "type": "vtuber",
+    "room_id": 26877217,
+    "face": "/bfs/face/f088d189ef4ecd957c6b5f14784c5d47c15b9b7c.jpg",
     "group_name": ""
   },
   "418293195": {
@@ -17673,6 +17701,13 @@
     "room_id": 448176,
     "face": "/bfs/face/4f66e416ca97f0cfbf51c17905ccfda25316b039.jpg",
     "group_name": "夕映结社"
+  },
+  "1968342232": {
+    "name": "曲奇Aria",
+    "type": "vtuber",
+    "room_id": 24538373,
+    "face": "/bfs/face/cf62a661436dde7841ea2055d2507eb7eb0d65cc.jpg",
+    "group_name": "Pursue-live"
   },
   "2456052": {
     "name": "曲奇恶霸",
@@ -29588,6 +29623,13 @@
     "face": "/bfs/face/2a9af93163debca6801c5962fd11d3224aa92922.jpg",
     "group_name": ""
   },
+  "3493083639450221": {
+    "name": "荞伊荞tako",
+    "type": "vtuber",
+    "room_id": 26782111,
+    "face": "/bfs/face/30764d71be10efbe34b28d82cb7ff5e64a484a71.jpg",
+    "group_name": ""
+  },
   "8314767": {
     "name": "西美螈1212",
     "type": "vtuber",
@@ -31559,7 +31601,7 @@
     "name": "赫拉Kris",
     "type": "vtuber",
     "room_id": 22861834,
-    "face": "/bfs/face/b35f83f146e8781074ec1117f5aa191443fba9a7.jpg",
+    "face": "/bfs/face/c58e08b121101e4379fa272b2500175ddae157a0.jpg",
     "group_name": "Croven教团"
   },
   "1039584302": {
@@ -32457,6 +32499,13 @@
     "room_id": 10579054,
     "face": "/bfs/face/43d6646676dcdbf7ca0cb18232a5609d2ee8d42f.jpg",
     "group_name": ""
+  },
+  "1057152924": {
+    "name": "銘晴Halo",
+    "type": "vtuber",
+    "room_id": 23682355,
+    "face": "/bfs/face/5fb43c8f09ac8acaf1fdb3531f68bac2728f3364.jpg",
+    "group_name": "虚研学园"
   },
   "8881297": {
     "name": "钉宫妮妮Ninico",
