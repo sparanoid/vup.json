@@ -6509,6 +6509,13 @@
     "face": "/bfs/face/dff40dd832482e7472b4271bdfff02e2cad67534.jpg",
     "group_name": ""
   },
+  "3461579934796579": {
+    "name": "伊诺贝尔Eno",
+    "type": "vtuber",
+    "room": 26461540,
+    "face": "/bfs/face/4bd08231c05cdf40aaf335b89024782a355efd84.jpg",
+    "group_name": ""
+  },
   "146977967": {
     "name": "伊贝可Ibek",
     "type": "vtuber",
@@ -6640,6 +6647,13 @@
     "type": "vtuber",
     "room": 18060,
     "face": "/bfs/face/7bc35756b905abe530eae8454a1d5a5365c8508f.jpg",
+    "group_name": ""
+  },
+  "15989638": {
+    "name": "bili_4659719558",
+    "type": "vtuber",
+    "room": 3881476,
+    "face": "/bfs/face/0970efb9d97e4a8317b62247a4edcf66e1b265cb.jpg",
     "group_name": ""
   },
   "642588972": {
@@ -7543,6 +7557,13 @@
     "type": "vtuber",
     "room": 23246975,
     "face": "/bfs/face/aa9acd27f73890b64ca599c3244d48f965bb533a.jpg",
+    "group_name": ""
+  },
+  "630649": {
+    "name": "冰点梨花Official",
+    "type": "vtuber",
+    "room": 794413,
+    "face": "/bfs/face/96c024da85c0630d2c65886f96d57acd0c43acb8.jpg",
     "group_name": ""
   },
   "1518831": {
@@ -10140,6 +10161,13 @@
     "type": "vtuber",
     "room": 26946475,
     "face": "/bfs/face/d15d517e33ec6d895434b5efee2fbf98e54cb7a4.jpg",
+    "group_name": ""
+  },
+  "1950577263": {
+    "name": "喵豆子nyazuko",
+    "type": "vtuber",
+    "room": 26759036,
+    "face": "/bfs/face/16b38413aae3c99650cc3c164c05f09b23a0f643.jpg",
     "group_name": ""
   },
   "1085503057": {
@@ -14104,6 +14132,13 @@
     "face": "/bfs/face/84d643e6640cab8fde68f716322f974b8c82a41b.jpg",
     "group_name": ""
   },
+  "595211": {
+    "name": "布谷小羊",
+    "type": "vtuber",
+    "room": 21855763,
+    "face": "/bfs/face/dc5c1deba193bd99b4fcbf23b9e7da9d3b089cc6.jpg",
+    "group_name": ""
+  },
   "1097060010": {
     "name": "布鲁布鲁荣",
     "type": "vtuber",
@@ -15922,6 +15957,13 @@
     "type": "vtuber",
     "room": 1208203,
     "face": "/bfs/face/11aeb670e7421e22d3708ed2ba8b2797708f1e87.jpg",
+    "group_name": ""
+  },
+  "1245370792": {
+    "name": "捷灵J0の勇敢冒险",
+    "type": "vtuber",
+    "room": 26074795,
+    "face": "/bfs/face/52c98d3e4db974f37ab40aefb253bf11a0c56572.jpg",
     "group_name": ""
   },
   "61810": {
@@ -21432,6 +21474,13 @@
     "room": 22503378,
     "face": "/bfs/face/12b3f3cf04c3231f1cfd7c982133280efead992e.jpg",
     "group_name": "Hololive EN"
+  },
+  "3488227": {
+    "name": "沅峥",
+    "type": "vtuber",
+    "room": 1241053,
+    "face": "/bfs/face/154a280d52af10395807e14f069aede9290978cf.jpg",
+    "group_name": ""
   },
   "243669470": {
     "name": "沈澈HarukaOfficial",
