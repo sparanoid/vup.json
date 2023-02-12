@@ -2869,6 +2869,13 @@
     "face": "/bfs/face/8f3f875aa40b2fabc6bb66affd43b5888f5432a0.jpg",
     "group_name": ""
   },
+  "2114112193": {
+    "name": "ToriThaiga",
+    "type": "vtuber",
+    "room": 25375000,
+    "face": "/bfs/face/2f5e75fbba4c588980c874c8eb489e64a899808d.jpg",
+    "group_name": ""
+  },
   "1319045985": {
     "name": "Toxic豆奶",
     "type": "vtuber",
@@ -21860,6 +21867,13 @@
     "face": "/bfs/face/8d5ff6073c3865dfc123f09faa57706a64c7b420.jpg",
     "group_name": ""
   },
+  "1468863621": {
+    "name": "洛宝宝lover",
+    "type": "vtuber",
+    "room": 23346943,
+    "face": "/bfs/face/67dfc80bd476181f440810a9a9fba91e0c2ee767.jpg",
+    "group_name": ""
+  },
   "1447574": {
     "name": "洛少爷",
     "type": "vtuber",
@@ -27716,7 +27730,7 @@
     "name": "纱夜凛",
     "type": "vtuber",
     "room": 25948616,
-    "face": "/bfs/face/d99ae2bcece79bd1afa9087fe0a7e36e35310d7b.jpg",
+    "face": "/bfs/face/be75825cdaadd91e71fdd1874de100804b935305.jpg",
     "group_name": "极光社"
   },
   "11912741": {

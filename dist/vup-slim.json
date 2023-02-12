@@ -2459,6 +2459,12 @@
     "room": 0,
     "group_name": ""
   },
+  "2114112193": {
+    "name": "ToriThaiga",
+    "type": "vtuber",
+    "room": 25375000,
+    "group_name": ""
+  },
   "1319045985": {
     "name": "Toxic豆奶",
     "type": "vtuber",
@@ -18735,6 +18741,12 @@
     "name": "洛冰凌channel",
     "type": "vtuber",
     "room": 262939,
+    "group_name": ""
+  },
+  "1468863621": {
+    "name": "洛宝宝lover",
+    "type": "vtuber",
+    "room": 23346943,
     "group_name": ""
   },
   "1447574": {
