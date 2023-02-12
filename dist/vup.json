@@ -76,6 +76,13 @@
     "face": "/bfs/face/fd9a48a07edfe3529ae324c66013da781aed62f7.jpg",
     "group_name": ""
   },
+  "796556": {
+    "name": "-菫時-",
+    "type": "vtuber",
+    "room": 3473884,
+    "face": "/bfs/face/35555b155ca9289c60bb7e562ed9e93d0b8f523e.jpg",
+    "group_name": ""
+  },
   "160526160": {
     "name": "丛林蛙Hek",
     "type": "vtuber",
@@ -1567,6 +1574,13 @@
     "face": "/bfs/face/5566e3a4786959527a72545f908b5664693a2945.jpg",
     "group_name": ""
   },
+  "633251": {
+    "name": "Melina_目里奈",
+    "type": "vtuber",
+    "room": 165428,
+    "face": "/bfs/face/601d8b06531c2f2aefea902c6a671bbb06b3c6ab.jpg",
+    "group_name": ""
+  },
   "87386257": {
     "name": "梅露蒂雅Melodia",
     "type": "vtuber",
@@ -2811,6 +2825,13 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/8f3f875aa40b2fabc6bb66affd43b5888f5432a0.jpg",
+    "group_name": ""
+  },
+  "1319045985": {
+    "name": "Toxic豆奶",
+    "type": "vtuber",
+    "room": 24178656,
+    "face": "/bfs/face/b4d1269bed8cc0ce0d617b9fb22e9ae973b775af.jpg",
     "group_name": ""
   },
   "484706916": {
@@ -5912,6 +5933,13 @@
     "type": "vtuber",
     "room": 452450,
     "face": "/bfs/face/2112abc332215a1a4c560d9ee779b901e5d9ccc2.jpg",
+    "group_name": ""
+  },
+  "145901490": {
+    "name": "五更妖音",
+    "type": "vtuber",
+    "room": 13863380,
+    "face": "/bfs/face/65589f8639363c055ea3c1443a1198df3da1173c.jpg",
     "group_name": ""
   },
   "441952268": {
@@ -18703,6 +18731,13 @@
     "face": "/bfs/face/4f898b2f33c0ba376c4bd9501b019f2b18e7aefb.jpg",
     "group_name": ""
   },
+  "5235717": {
+    "name": "松葉Matsuba",
+    "type": "vtuber",
+    "room": 139137,
+    "face": "/bfs/face/a4c732ad98eb6c57954fa580426a390c2e15e155.jpg",
+    "group_name": ""
+  },
   "1061608795": {
     "name": "松雪安娜",
     "type": "vtuber",
@@ -21088,6 +21123,13 @@
     "type": "vtuber",
     "room": 22320946,
     "face": "/bfs/face/ab5b5338b89abfbca4eb15a10ee79a384a860532.jpg",
+    "group_name": ""
+  },
+  "1426714555": {
+    "name": "江崎Esaki97",
+    "type": "vtuber",
+    "room": 25077199,
+    "face": "/bfs/face/6dfe05b8893b5ce941a03bb0d3eebca02ae71883.jpg",
     "group_name": ""
   },
   "422501642": {
@@ -24590,6 +24632,13 @@
     "face": "/bfs/face/f9849046305df5b4e8e865365fc6eaa3be27b523.jpg",
     "group_name": ""
   },
+  "3493075267619423": {
+    "name": "白夜恒星HakuyaSoleil",
+    "type": "vtuber",
+    "room": 26305905,
+    "face": "/bfs/face/7080b753472cf3fb2c4634a2310f2fbf0d07be7b.jpg",
+    "group_name": ""
+  },
   "12247475": {
     "name": "白宫みみ搬运组",
     "type": "vtuber",
@@ -25275,6 +25324,13 @@
     "room": 968252,
     "face": "/bfs/face/ac510f8087f5b67ed020cebaabc8db6578b7f2ae.jpg",
     "group_name": "极光社"
+  },
+  "1319590030": {
+    "name": "Pisdo皮斯多",
+    "type": "vtuber",
+    "room": 24037998,
+    "face": "/bfs/face/5fc7fc6c95a142cce5757f01f99d984e19c313ec.jpg",
+    "group_name": "Pursue-live"
   },
   "357892988": {
     "name": "皮皮ぴ",
@@ -30673,6 +30729,13 @@
     "face": "/bfs/face/4e0b921b862be759097df3655a321753859dd6af.jpg",
     "group_name": "Vidol工作室"
   },
+  "1179831688": {
+    "name": "虾霸锅Bargo",
+    "type": "vtuber",
+    "room": 26280408,
+    "face": "/bfs/face/c51e6b633ddba9a97da1b240e6eb68cbc07ca4c2.jpg",
+    "group_name": ""
+  },
   "10039139": {
     "name": "蚊主任",
     "type": "vtuber",
@@ -33655,6 +33718,13 @@
     "face": "/bfs/face/0851220462a52bf2f9ba3be26a4a236c345556a0.jpg",
     "group_name": ""
   },
+  "3493104967486322": {
+    "name": "雪绫Official",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/62d813818f1f3cf7caf1a8d65d5068a36051fbd0.jpg",
+    "group_name": ""
+  },
   "65717712": {
     "name": "莉咔Rika",
     "type": "vtuber",
@@ -34325,6 +34395,13 @@
     "type": "vtuber",
     "room": 21457279,
     "face": "/bfs/face/c409746fbc3121358c75b0b4865e22895445cc00.jpg",
+    "group_name": ""
+  },
+  "2117027592": {
+    "name": "顾德正",
+    "type": "vtuber",
+    "room": 25502112,
+    "face": "/bfs/face/79f16170a9e87e923af27a31373bedd0c59d4d57.jpg",
     "group_name": ""
   },
   "8558290": {
