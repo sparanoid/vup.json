@@ -11714,7 +11714,7 @@
     "name": "沫茗Awako",
     "type": "vtuber",
     "room": 271675,
-    "face": "/bfs/face/30afb0ad55271e1a4645a1e6f51b595032f7f804.jpg",
+    "face": "/bfs/face/8bb67b3f75e95cd0ccc4dc0cafe47ea51f42a1eb.jpg",
     "group_name": ""
   },
   "35028769": {
@@ -13559,7 +13559,7 @@
     "group_name": ""
   },
   "1034537291": {
-    "name": "苇名小骨",
+    "name": "小骨被猫挠烂了",
     "type": "vtuber",
     "room": 26106772,
     "face": "/bfs/face/8a9a287a99f0c6ae3e7b3191c8d27361ea139f8c.jpg",
@@ -30489,6 +30489,13 @@
     "type": "vtuber",
     "room": 644622,
     "face": "/bfs/face/7d4f592d3db7a1f37a13bc380da38ebca8ea2bfd.jpg",
+    "group_name": ""
+  },
+  "630774747": {
+    "name": "萌吱吱",
+    "type": "vtuber",
+    "room": 23400686,
+    "face": "/bfs/face/cf76328e690aa0256d6bd20d75262c33895ac48b.jpg",
     "group_name": ""
   },
   "34040214": {
