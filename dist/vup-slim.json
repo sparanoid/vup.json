@@ -95,6 +95,12 @@
     "room": 24537299,
     "group_name": ""
   },
+  "13397626": {
+    "name": "011179号飞船",
+    "type": "vtuber",
+    "room": 25332325,
+    "group_name": ""
+  },
   "145913": {
     "name": "3000biubiubiu",
     "type": "vtuber",
@@ -1649,6 +1655,12 @@
     "room": 23013945,
     "group_name": ""
   },
+  "1797902": {
+    "name": "Nico_StarLight",
+    "type": "vtuber",
+    "room": 76887,
+    "group_name": ""
+  },
   "3220897": {
     "name": "神经漫游者ID7",
     "type": "vtuber",
@@ -1959,6 +1971,12 @@
     "name": "Pursue-live",
     "type": "group",
     "room": 0,
+    "group_name": ""
+  },
+  "569885690": {
+    "name": "p_ma_ru",
+    "type": "vtuber",
+    "room": 23593916,
     "group_name": ""
   },
   "2842413": {
@@ -4229,12 +4247,6 @@
     "room": 27068595,
     "group_name": ""
   },
-  "3461572460546094": {
-    "name": "七代的邮局登记馆",
-    "type": "vtuber",
-    "room": 26056395,
-    "group_name": ""
-  },
   "402370331": {
     "name": "镜像组_Channel",
     "type": "vtuber",
@@ -4408,6 +4420,12 @@
     "type": "vtuber",
     "room": 8330899,
     "group_name": ""
+  },
+  "263238": {
+    "name": "三枝明那搬运组",
+    "type": "vtuber",
+    "room": 836535,
+    "group_name": "NIJISANJI"
   },
   "554576": {
     "name": "三枝番夏",
@@ -5879,6 +5897,12 @@
     "room": 188693,
     "group_name": ""
   },
+  "104561147": {
+    "name": "先斗宁的烤蓝莓饼摊",
+    "type": "vtuber",
+    "room": 12008500,
+    "group_name": "NIJISANJI"
+  },
   "3461573697866274": {
     "name": "光临Welcome",
     "type": "vtuber",
@@ -7043,6 +7067,12 @@
     "room": 22724842,
     "group_name": ""
   },
+  "1581915789": {
+    "name": "千夏夏灬",
+    "type": "vtuber",
+    "room": 26126710,
+    "group_name": ""
+  },
   "1951478555": {
     "name": "千夜白_Channel",
     "type": "vtuber",
@@ -7323,6 +7353,12 @@
     "name": "华曦妙妙",
     "type": "vtuber",
     "room": 22180656,
+    "group_name": ""
+  },
+  "362628": {
+    "name": "华枝雀_Harpy",
+    "type": "vtuber",
+    "room": 7249558,
     "group_name": ""
   },
   "609570409": {
@@ -7947,6 +7983,12 @@
     "name": "吃肉包的怂鼠",
     "type": "vtuber",
     "room": 4726132,
+    "group_name": ""
+  },
+  "7058667": {
+    "name": "吃货白羊Official",
+    "type": "vtuber",
+    "room": 797089,
     "group_name": ""
   },
   "32926827": {
@@ -8669,6 +8711,12 @@
     "room": 22324117,
     "group_name": ""
   },
+  "1531092980": {
+    "name": "四季凪的菠萝阅览室",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "NIJISANJI"
+  },
   "217127": {
     "name": "四季巡礼",
     "type": "vtuber",
@@ -8877,6 +8925,12 @@
     "name": "墨凑字数",
     "type": "vtuber",
     "room": 2874257,
+    "group_name": ""
+  },
+  "1180223498": {
+    "name": "墨卡MOKA_channel",
+    "type": "vtuber",
+    "room": 26131900,
     "group_name": ""
   },
   "845921": {
@@ -10043,6 +10097,12 @@
     "room": 9870662,
     "group_name": ""
   },
+  "1339818768": {
+    "name": "奈良部茶辅",
+    "type": "vtuber",
+    "room": 22914236,
+    "group_name": ""
+  },
   "702843929": {
     "name": "奈芊歌_Channel",
     "type": "vtuber",
@@ -10907,6 +10967,12 @@
     "room": 3173023,
     "group_name": ""
   },
+  "1655293448": {
+    "name": "小乐希xixi",
+    "type": "vtuber",
+    "room": 23671312,
+    "group_name": ""
+  },
   "353044891": {
     "name": "小亚的幽灵古堡",
     "type": "vtuber",
@@ -10917,6 +10983,12 @@
     "name": "小仓栗栗",
     "type": "vtuber",
     "room": 478605,
+    "group_name": ""
+  },
+  "3493080351115928": {
+    "name": "小伏兔呀o",
+    "type": "vtuber",
+    "room": 26515408,
     "group_name": ""
   },
   "1740548": {
@@ -11752,6 +11824,12 @@
     "type": "vtuber",
     "room": 14795432,
     "group_name": ""
+  },
+  "35958802": {
+    "name": "山神的天狗神社",
+    "type": "vtuber",
+    "room": 22724917,
+    "group_name": "NIJISANJI"
   },
   "1969028": {
     "name": "浅野山霧Yamakiri",
@@ -13151,6 +13229,12 @@
     "room": 13990746,
     "group_name": "winks"
   },
+  "478148524": {
+    "name": "愈曜",
+    "type": "vtuber",
+    "room": 24726423,
+    "group_name": ""
+  },
   "517035315": {
     "name": "愛内薬尾Syringes",
     "type": "vtuber",
@@ -13377,6 +13461,12 @@
     "name": "扶桑大红花丶",
     "type": "vtuber",
     "room": 947866,
+    "group_name": ""
+  },
+  "8337028": {
+    "name": "找呀找呀找乐子",
+    "type": "vtuber",
+    "room": 306066,
     "group_name": ""
   },
   "1790657636": {
@@ -15095,6 +15185,12 @@
     "room": 22901927,
     "group_name": ""
   },
+  "1870201522": {
+    "name": "晴小萤hotaru",
+    "type": "vtuber",
+    "room": 22670681,
+    "group_name": ""
+  },
   "1402290747": {
     "name": "晴晴子Hare",
     "type": "vtuber",
@@ -16475,6 +16571,12 @@
     "room": 25478421,
     "group_name": "樱满月虚拟社团"
   },
+  "23760783": {
+    "name": "柴卡的游戏王连锁军团",
+    "type": "vtuber",
+    "room": 497385,
+    "group_name": "NIJISANJI"
+  },
   "3072262": {
     "name": "柴崎连_Channel",
     "type": "vtuber",
@@ -17471,6 +17573,12 @@
     "room": 21848420,
     "group_name": "ChaosLiveSprout"
   },
+  "10713043": {
+    "name": "樱井林official",
+    "type": "vtuber",
+    "room": 573091,
+    "group_name": ""
+  },
   "375742421": {
     "name": "桜井花咲Official",
     "type": "vtuber",
@@ -17811,6 +17919,12 @@
     "name": "-菂-",
     "type": "vtuber",
     "room": 24363883,
+    "group_name": ""
+  },
+  "2145655554": {
+    "name": "歩夜_poya",
+    "type": "vtuber",
+    "room": 25314420,
     "group_name": ""
   },
   "18672279": {
@@ -18947,6 +19061,12 @@
     "room": 905813,
     "group_name": ""
   },
+  "14895420": {
+    "name": "清宵Koyoi",
+    "type": "vtuber",
+    "room": 1893631,
+    "group_name": ""
+  },
   "694914748": {
     "name": "清影醉是兔兔吖",
     "type": "vtuber",
@@ -19654,6 +19774,12 @@
     "type": "vtuber",
     "room": 22016027,
     "group_name": "风云社"
+  },
+  "37265298": {
+    "name": "片桐秋_Official",
+    "type": "vtuber",
+    "room": 22628126,
+    "group_name": ""
   },
   "2231439": {
     "name": "牙牙丸绘",
@@ -20723,10 +20849,10 @@
     "room": 14085407,
     "group_name": ""
   },
-  "1917237530": {
-    "name": "瑶光不Yuka",
+  "3493129999091767": {
+    "name": "瑶光Yuka",
     "type": "vtuber",
-    "room": 25301269,
+    "room": 27016575,
     "group_name": ""
   },
   "414293809": {
@@ -21291,6 +21417,12 @@
     "name": "爱吃肉的云老师",
     "type": "vtuber",
     "room": 21945,
+    "group_name": ""
+  },
+  "166866492": {
+    "name": "白玉糖Miya",
+    "type": "vtuber",
+    "room": 23157901,
     "group_name": ""
   },
   "435858133": {
@@ -21874,6 +22006,12 @@
     "type": "vtuber",
     "room": 0,
     "group_name": ""
+  },
+  "112469835": {
+    "name": "真白的灵异事件簿",
+    "type": "vtuber",
+    "room": 22308967,
+    "group_name": "NIJISANJI"
   },
   "2127355475": {
     "name": "真白茉由_Official",
@@ -24599,6 +24737,12 @@
     "room": 21441973,
     "group_name": ""
   },
+  "11616894": {
+    "name": "芙兰fufu",
+    "type": "vtuber",
+    "room": 1971525,
+    "group_name": ""
+  },
   "2522465": {
     "name": "芙喵-ネコフラン",
     "type": "vtuber",
@@ -26747,6 +26891,12 @@
     "room": 1459779,
     "group_name": ""
   },
+  "9254842": {
+    "name": "语部纺的幽灵社",
+    "type": "vtuber",
+    "room": 2296153,
+    "group_name": "NIJISANJI"
+  },
   "646555991": {
     "name": "诸星晓_Official",
     "type": "vtuber",
@@ -26872,6 +27022,12 @@
     "type": "vtuber",
     "room": 21735722,
     "group_name": "超V学园"
+  },
+  "7179227": {
+    "name": "谢林的侦探事务所",
+    "type": "vtuber",
+    "room": 176152,
+    "group_name": ""
   },
   "73369488": {
     "name": "AkagiEternal",
@@ -27220,6 +27376,12 @@
     "type": "vtuber",
     "room": 23126335,
     "group_name": "Providence"
+  },
+  "626628": {
+    "name": "路奇Luche",
+    "type": "vtuber",
+    "room": 1155152,
+    "group_name": "虚研学园"
   },
   "2006452883": {
     "name": "路希维德Wiede",
@@ -30161,10 +30323,10 @@
     "room": 23158421,
     "group_name": "Tinsgoo-Project"
   },
-  "236022662": {
-    "name": "鸣神裁字幕组",
+  "1629850247": {
+    "name": "鸣神裁Official",
     "type": "vtuber",
-    "room": 0,
+    "room": 23376577,
     "group_name": ""
   },
   "354940834": {
