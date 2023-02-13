@@ -7593,7 +7593,7 @@
     "name": "ENIAC_卡尔特Curt",
     "type": "vtuber",
     "room": 24153568,
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "442769447": {
     "name": "卡恩马林娜罗德尼",
@@ -12556,6 +12556,12 @@
     "type": "vtuber",
     "room": 25194064,
     "group_name": ""
+  },
+  "5570510": {
+    "name": "幽游Yuu",
+    "type": "vtuber",
+    "room": 25097,
+    "group_name": "Croven教团"
   },
   "4763529": {
     "name": "幽灵事务所_XPEC",
@@ -23603,12 +23609,6 @@
     "room": 22397790,
     "group_name": "三垣四象project"
   },
-  "5570510": {
-    "name": "幽游Yuu",
-    "type": "vtuber",
-    "room": 25097,
-    "group_name": "Croven教团"
-  },
   "125341259": {
     "name": "紫崎キリカ",
     "type": "vtuber",
@@ -24729,7 +24729,7 @@
     "name": "ENIAC_艾博单Ableton",
     "type": "vtuber",
     "room": 24153561,
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "55775602": {
     "name": "艾可aicooo",
@@ -28749,7 +28749,7 @@
     "name": "ENIAC_阿希娜Emma",
     "type": "vtuber",
     "room": 24288012,
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "6967940": {
     "name": "岚雨ゅ",
@@ -31005,7 +31005,7 @@
     "name": "ENIAC_麻可可Nacoco",
     "type": "vtuber",
     "room": 24153551,
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "1929287": {
     "name": "麻吉喵MaJiNya",

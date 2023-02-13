@@ -10125,7 +10125,7 @@
     "room": 24153568,
     "face": "/bfs/face/b93ace0be1f4b73c730979fae83c2ce4ef004004.jpg",
     "sign": "你好像有什么要问的，说出来听听？",
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "442769447": {
     "name": "卡恩马林娜罗德尼",
@@ -16743,6 +16743,14 @@
     "sign": "全职个人势 丢失记忆的幽灵少女~\n希望给大家带来快乐！     组号@幽灵柚子の录屏组\n感谢你的关注！",
     "group_name": ""
   },
+  "5570510": {
+    "name": "幽游Yuu",
+    "type": "vtuber",
+    "room": 25097,
+    "face": "/bfs/face/7bc4f51c4489577230024be889e44bc4fb0a09ff.jpg",
+    "sign": "✧*｡٩(ˊᗜˋ*)و ✧*",
+    "group_name": "Croven教团"
+  },
   "4763529": {
     "name": "幽灵事务所_XPEC",
     "type": "vtuber",
@@ -20203,7 +20211,7 @@
     "name": "是天天阿",
     "type": "vtuber",
     "room": 23281524,
-    "face": "/bfs/face/536cda5cac0a7bfd71fbb3300f8bfea93deff9fc.jpg",
+    "face": "/bfs/face/e933ee3990e406ebfbdcf5341a2f5c4eae0bf51d.jpg",
     "sign": "感恩所有的相遇",
     "group_name": ""
   },
@@ -31471,14 +31479,6 @@
     "sign": "个人想当普普通通的社畜修炼修炼几年再来，勿扰呀",
     "group_name": "三垣四象project"
   },
-  "5570510": {
-    "name": "幽游Yuu",
-    "type": "vtuber",
-    "room": 25097,
-    "face": "/bfs/face/7bc4f51c4489577230024be889e44bc4fb0a09ff.jpg",
-    "sign": "✧*｡٩(ˊᗜˋ*)و ✧*",
-    "group_name": "Croven教团"
-  },
   "125341259": {
     "name": "紫崎キリカ",
     "type": "vtuber",
@@ -32973,7 +32973,7 @@
     "room": 24153561,
     "face": "/bfs/face/41d6827d3118b567d91d8d0a84d892f8a5419a46.jpg",
     "sign": "将平庸做到极致！",
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "55775602": {
     "name": "艾可aicooo",
@@ -38333,7 +38333,7 @@
     "room": 24288012,
     "face": "/bfs/face/e75fa579d0bf64c3087cbf2577a3407a5e15acb1.jpg",
     "sign": "占卜的结果嘛……让我咬一口就告诉你！",
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "6967940": {
     "name": "岚雨ゅ",
@@ -41341,7 +41341,7 @@
     "room": 24153551,
     "face": "/bfs/face/9dc251e3ca3a35f556096f01b9caa41916db2356.jpg",
     "sign": "不可以摸女孩子的头哦， 会长不高的～",
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "1929287": {
     "name": "麻吉喵MaJiNya",

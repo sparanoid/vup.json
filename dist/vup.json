@@ -8859,7 +8859,7 @@
     "type": "vtuber",
     "room": 24153568,
     "face": "/bfs/face/b93ace0be1f4b73c730979fae83c2ce4ef004004.jpg",
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "442769447": {
     "name": "卡恩马林娜罗德尼",
@@ -14650,6 +14650,13 @@
     "face": "/bfs/face/c4911a009afa9a57c3392a99ddf7cca295727759.jpg",
     "group_name": ""
   },
+  "5570510": {
+    "name": "幽游Yuu",
+    "type": "vtuber",
+    "room": 25097,
+    "face": "/bfs/face/7bc4f51c4489577230024be889e44bc4fb0a09ff.jpg",
+    "group_name": "Croven教团"
+  },
   "4763529": {
     "name": "幽灵事务所_XPEC",
     "type": "vtuber",
@@ -17678,7 +17685,7 @@
     "name": "是天天阿",
     "type": "vtuber",
     "room": 23281524,
-    "face": "/bfs/face/536cda5cac0a7bfd71fbb3300f8bfea93deff9fc.jpg",
+    "face": "/bfs/face/e933ee3990e406ebfbdcf5341a2f5c4eae0bf51d.jpg",
     "group_name": ""
   },
   "180485916": {
@@ -27537,13 +27544,6 @@
     "face": "/bfs/face/d325d4c2399441551cccb2c93f91ae45ddf29133.jpg",
     "group_name": "三垣四象project"
   },
-  "5570510": {
-    "name": "幽游Yuu",
-    "type": "vtuber",
-    "room": 25097,
-    "face": "/bfs/face/7bc4f51c4489577230024be889e44bc4fb0a09ff.jpg",
-    "group_name": "Croven教团"
-  },
   "125341259": {
     "name": "紫崎キリカ",
     "type": "vtuber",
@@ -28851,7 +28851,7 @@
     "type": "vtuber",
     "room": 24153561,
     "face": "/bfs/face/41d6827d3118b567d91d8d0a84d892f8a5419a46.jpg",
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "55775602": {
     "name": "艾可aicooo",
@@ -33541,7 +33541,7 @@
     "type": "vtuber",
     "room": 24288012,
     "face": "/bfs/face/e75fa579d0bf64c3087cbf2577a3407a5e15acb1.jpg",
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "6967940": {
     "name": "岚雨ゅ",
@@ -36173,7 +36173,7 @@
     "type": "vtuber",
     "room": 24153551,
     "face": "/bfs/face/9dc251e3ca3a35f556096f01b9caa41916db2356.jpg",
-    "group_name": "ENIAC"
+    "group_name": ""
   },
   "1929287": {
     "name": "麻吉喵MaJiNya",
