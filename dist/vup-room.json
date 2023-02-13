@@ -12438,6 +12438,13 @@
     "face": "/bfs/face/2e57810b08d86cfb029881eabc61e67419178587.jpg",
     "group_name": ""
   },
+  "293917": {
+    "name": "子言姐姐",
+    "type": "vtuber",
+    "room_id": 929340,
+    "face": "/bfs/face/f4e8e32f29cb0edd85569a1625aa6bb5e0a49004.jpg",
+    "group_name": ""
+  },
   "359081808": {
     "name": "季毅Jiyi",
     "type": "vtuber",
@@ -15013,6 +15020,13 @@
     "room_id": 13009645,
     "face": "/bfs/face/member/noface.jpg",
     "group_name": "holostars"
+  },
+  "2603083": {
+    "name": "律子丶",
+    "type": "vtuber",
+    "room_id": 1214173,
+    "face": "/bfs/face/70704c8bb2c115abd36d36384d22c0d81cf0df00.jpg",
+    "group_name": ""
   },
   "1849519124": {
     "name": "律花_Ritsuka",
@@ -25239,6 +25253,13 @@
     "type": "vtuber",
     "room_id": 24248394,
     "face": "/bfs/face/e49c39b709c9dd11b246bc8c0f02d18c420bf265.jpg",
+    "group_name": ""
+  },
+  "1461492020": {
+    "name": "白狼座official",
+    "type": "vtuber",
+    "room_id": 23521868,
+    "face": "/bfs/face/98a53d9b243cb72c24946ecd3dc8f9ad372010ec.jpg",
     "group_name": ""
   },
   "5772351": {

@@ -10661,6 +10661,12 @@
     "room": 21725187,
     "group_name": ""
   },
+  "293917": {
+    "name": "子言姐姐",
+    "type": "vtuber",
+    "room": 929340,
+    "group_name": ""
+  },
   "359081808": {
     "name": "季毅Jiyi",
     "type": "vtuber",
@@ -12868,6 +12874,12 @@
     "type": "vtuber",
     "room": 13009645,
     "group_name": "holostars"
+  },
+  "2603083": {
+    "name": "律子丶",
+    "type": "vtuber",
+    "room": 1214173,
+    "group_name": ""
   },
   "1849519124": {
     "name": "律花_Ritsuka",
@@ -21633,6 +21645,12 @@
     "name": "白熊Guru",
     "type": "vtuber",
     "room": 24248394,
+    "group_name": ""
+  },
+  "1461492020": {
+    "name": "白狼座official",
+    "type": "vtuber",
+    "room": 23521868,
     "group_name": ""
   },
   "5772351": {
