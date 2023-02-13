@@ -5277,6 +5277,13 @@
     "face": "/bfs/face/c33bd05da5cf79e98f031ec5f57c4937186d5a9a.jpg",
     "group_name": ""
   },
+  "677162751": {
+    "name": "上矢咲和_sayori",
+    "type": "vtuber",
+    "room_id": 22506059,
+    "face": "/bfs/face/c8899f557d6f3d15b5c2ae5dc5224d107d76274d.jpg",
+    "group_name": ""
+  },
   "3461581822233342": {
     "name": "上草草Surcao",
     "type": "vtuber",
@@ -12513,6 +12520,13 @@
     "type": "vtuber",
     "room_id": 25839275,
     "face": "/bfs/face/77cdd9a3139e0abe1f2dceda1b23af9bd598a026.jpg",
+    "group_name": ""
+  },
+  "157298643": {
+    "name": "安喵Airy",
+    "type": "vtuber",
+    "room_id": 12607198,
+    "face": "/bfs/face/d7f5f2b33a062f712cd2de99645e942d0573c8a4.jpg",
     "group_name": ""
   },
   "392505232": {
