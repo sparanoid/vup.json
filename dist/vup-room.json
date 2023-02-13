@@ -19865,6 +19865,13 @@
     "face": "/bfs/face/74db402a570ebecb16f46a4c240b9a76087a6f55.jpg",
     "group_name": ""
   },
+  "413236907": {
+    "name": "桃爱TOA",
+    "type": "vtuber",
+    "room_id": 25619498,
+    "face": "/bfs/face/573c8c1330d869f018b65814dc504c5b8b350803.jpg",
+    "group_name": ""
+  },
   "26613467": {
     "name": "桃瑞丝Official",
     "type": "vtuber",
@@ -24182,6 +24189,13 @@
     "type": "vtuber",
     "room_id": 495561,
     "face": "/bfs/face/91714c0aa69c792e30d256cc228a2e937d79bf6a.jpg",
+    "group_name": ""
+  },
+  "1270402498": {
+    "name": "玺月兔兔",
+    "type": "vtuber",
+    "room_id": 23628792,
+    "face": "/bfs/face/18780e29d9363fc485a39f7309ae102aead0518a.jpg",
     "group_name": ""
   },
   "1829633422": {
