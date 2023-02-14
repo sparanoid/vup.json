@@ -12599,6 +12599,13 @@
     "face": "/bfs/face/c921547bf4d73e0963d6860e5ad038eb2ac6d024.jpg",
     "group_name": "Vidol工作室"
   },
+  "3493076827900379": {
+    "name": "安尔珀_Ambrum",
+    "type": "vtuber",
+    "room_id": 26599080,
+    "face": "/bfs/face/44e9254ce56b82057986b7165b55a47d6da78c81.jpg",
+    "group_name": ""
+  },
   "33708487": {
     "name": "安德烈-赫岑朵夫Official",
     "type": "vtuber",
@@ -19438,6 +19445,13 @@
     "face": "/bfs/face/3b4a6659c2357cf52e23a3cb05a7a9c0a0854030.jpg",
     "group_name": ""
   },
+  "1072823729": {
+    "name": "柚米Ymi",
+    "type": "vtuber",
+    "room_id": 24496653,
+    "face": "/bfs/face/071f97127a26c80d730bfdb8ba5db2dfa2a71c3f.jpg",
+    "group_name": ""
+  },
   "402326": {
     "name": "柚花花_Official",
     "type": "vtuber",
@@ -24268,6 +24282,13 @@
     "face": "/bfs/face/8c95c95fa79556996ac7e628f129edcc89a9fafa.jpg",
     "group_name": ""
   },
+  "3493104562735987": {
+    "name": "珂菈_Konrada",
+    "type": "vtuber",
+    "room_id": 26662852,
+    "face": "/bfs/face/c13df0dde9e5f8fbfafa9dca30fe35b2ec748b72.jpg",
+    "group_name": ""
+  },
   "4695879": {
     "name": "珂蕾贝雅Gliesaray",
     "type": "vtuber",
@@ -27901,6 +27922,13 @@
     "face": "/bfs/face/43d85d5f593653b7cb63227dc74b4d47f6634f63.jpg",
     "group_name": ""
   },
+  "2091023367": {
+    "name": "纱纹_Rhodonite",
+    "type": "vtuber",
+    "room_id": 25712165,
+    "face": "/bfs/face/b1706e8a9c9414d3100e0d44bf661d890e1e8a4b.jpg",
+    "group_name": ""
+  },
   "1251806725": {
     "name": "纱雫sana",
     "type": "vtuber",
@@ -29139,6 +29167,13 @@
     "room_id": 561668,
     "face": "/bfs/face/031eda91f276ab737e3ad9321f492a0b9e9c9dea.jpg",
     "group_name": "云光计划"
+  },
+  "1649321129": {
+    "name": "芊櫻Sakura",
+    "type": "vtuber",
+    "room_id": 23641430,
+    "face": "/bfs/face/4ed8c43b7a90941fbf4932cc55db8b67f2c54f5c.jpg",
+    "group_name": ""
   },
   "341122517": {
     "name": "芊绫喵",
@@ -31279,7 +31314,7 @@
     "name": "蛋蛋布奶Neko",
     "type": "vtuber",
     "room_id": 23271955,
-    "face": "/bfs/face/eb7ebc44f47351c9ac04576a3cedf7020cfbc25e.jpg",
+    "face": "/bfs/face/a85bd2cbdeda5b4d2b3d5ef68f2512979a186692.jpg",
     "group_name": ""
   },
   "1551528": {
