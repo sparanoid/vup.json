@@ -4987,7 +4987,7 @@
     "name": "七代Erika",
     "type": "vtuber",
     "room_id": 27068595,
-    "face": "/bfs/face/7594687fbab41c46d344bbd791f9ab396a0b566a.jpg",
+    "face": "/bfs/face/bbdc2adf3cf5195055277c2a26a0d43f3947cf65.jpg",
     "group_name": ""
   },
   "402370331": {
@@ -6926,7 +6926,7 @@
     "name": "元气嘻嘻欢",
     "type": "vtuber",
     "room_id": 24930226,
-    "face": "/bfs/face/d25b7c3ed133422f79d819351965316f5977a20a.jpg",
+    "face": "/bfs/face/4da72182868997fdc2920c62b6d98776c9e38b27.jpg",
     "group_name": ""
   },
   "173435110": {
@@ -17699,7 +17699,7 @@
     "name": "春鹿村村",
     "type": "vtuber",
     "room_id": 23301030,
-    "face": "/bfs/face/b18659eed2167aac7c77adb6ad57f3280d638dda.jpg",
+    "face": "/bfs/face/5b3fa2edc1f2bb0c0754cc1e136dedd6ecf9b754.jpg",
     "group_name": ""
   },
   "14280897": {
@@ -34206,6 +34206,13 @@
     "type": "vtuber",
     "room_id": 3370413,
     "face": "/bfs/face/ff9487da03d71f2b11525c89783045a5842e96b0.jpg",
+    "group_name": ""
+  },
+  "1769338597": {
+    "name": "雪息Yuki",
+    "type": "vtuber",
+    "room_id": 25454130,
+    "face": "/bfs/face/aa99952493b63a2c21a7e250a3022f806bea25fc.jpg",
     "group_name": ""
   },
   "451793": {
