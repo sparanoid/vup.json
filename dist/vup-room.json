@@ -8084,6 +8084,13 @@
     "face": "/bfs/face/4ffd6f57168fc6a2e94478eab265f440b97333ac.jpg",
     "group_name": ""
   },
+  "1660351669": {
+    "name": "劳伦伊罗斯的通缉名单",
+    "type": "vtuber",
+    "room_id": 23368615,
+    "face": "/bfs/face/e8f317d705045cb64e1c778e321983e615e69a3e.jpg",
+    "group_name": "NIJISANJI"
+  },
   "5444269": {
     "name": "哔哩克力",
     "type": "vtuber",
@@ -9091,6 +9098,13 @@
     "room_id": 21603514,
     "face": "/bfs/face/ec0e4b5903144ba501e9b4e6c835257e4964f71e.jpg",
     "group_name": ""
+  },
+  "1620407186": {
+    "name": "双叶樱奈",
+    "type": "vtuber",
+    "room_id": 25264896,
+    "face": "/bfs/face/82f3e13ac9eb39ab26bed6c9bfaf5188c3704bdc.jpg",
+    "group_name": "光年神话"
   },
   "48330353": {
     "name": "双尾彗星",
@@ -21507,7 +21521,7 @@
     "name": "池年",
     "type": "vtuber",
     "room_id": 918717,
-    "face": "/bfs/face/38e72131bb2cd35bd11e31be197857756672c70a.jpg",
+    "face": "/bfs/face/4dc952312bf321677805eccf2f448d380d0271ce.jpg",
     "group_name": "哔哩哔哩电竞"
   },
   "8041302": {
@@ -24801,10 +24815,10 @@
     "group_name": "Vi-D"
   },
   "229175813": {
-    "name": "由川伶子",
+    "name": "由川伶",
     "type": "vtuber",
     "room_id": 26821431,
-    "face": "/bfs/face/129c219b13c7619597038a41c9e8adc04fbbdf3b.jpg",
+    "face": "/bfs/face/fbbbc3c0e5436033427b86b3c8e52662b6a6b97a.jpg",
     "group_name": ""
   },
   "543529510": {
@@ -34058,7 +34072,7 @@
     "name": "雨鱼渔爱吃鱼",
     "type": "vtuber",
     "room_id": 26543891,
-    "face": "/bfs/face/5659baf2576a3038f48164b25ea3e84691c5b9b6.jpg",
+    "face": "/bfs/face/abfa5e510bdc93b38caba5883fd8d8ec48900d0c.jpg",
     "group_name": "Nebula-Beat​"
   },
   "5352545": {

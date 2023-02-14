@@ -6929,6 +6929,12 @@
     "room": 1031430,
     "group_name": ""
   },
+  "1660351669": {
+    "name": "劳伦伊罗斯的通缉名单",
+    "type": "vtuber",
+    "room": 23368615,
+    "group_name": "NIJISANJI"
+  },
   "5444269": {
     "name": "哔哩克力",
     "type": "vtuber",
@@ -7792,6 +7798,12 @@
     "type": "vtuber",
     "room": 21603514,
     "group_name": ""
+  },
+  "1620407186": {
+    "name": "双叶樱奈",
+    "type": "vtuber",
+    "room": 25264896,
+    "group_name": "光年神话"
   },
   "48330353": {
     "name": "双尾彗星",
@@ -21258,7 +21270,7 @@
     "group_name": "Vi-D"
   },
   "229175813": {
-    "name": "由川伶子",
+    "name": "由川伶",
     "type": "vtuber",
     "room": 26821431,
     "group_name": ""
