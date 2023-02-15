@@ -715,7 +715,7 @@
     "name": "C叔小酒馆",
     "type": "vtuber",
     "room": 23300805,
-    "face": "/bfs/face/8c01cd64dd770f1f8623ab1b80cc78244cb1a508.jpg",
+    "face": "/bfs/face/6ad8775a1bc39727045890c41adf5c790730d2af.jpg",
     "sign": "这里在异世界经营小酒馆的C叔，异世界酒馆（直播）每天晚8点营业，欢迎朋友们的光临！和大家一起喝酒唱歌聊天，等你~",
     "group_name": ""
   },
@@ -8030,6 +8030,14 @@
     "face": "/bfs/face/e4597ce1a4c5687bc35f4019d731e2ec667ff424.jpg",
     "sign": "w(ﾟДﾟ)w",
     "group_name": ""
+  },
+  "2036323283": {
+    "name": "克罗刻Kk",
+    "type": "vtuber",
+    "room": 24128011,
+    "face": "/bfs/face/dd0d79d66c1f9dacd58d76a9f478e448d55c783a.jpg",
+    "sign": "晚安。好梦。官方联系@EminaStudio 古早录播@克罗刻的二创组",
+    "group_name": "Emina-Studio"
   },
   "560301353": {
     "name": "bilibili",
@@ -25287,6 +25295,14 @@
     "sign": "平时都在画画哦 直播的话 会在群里有通知 ！！（大露在好好学习 以后我可是要当画师的人✨）",
     "group_name": ""
   },
+  "3976443": {
+    "name": "派拉Para",
+    "type": "vtuber",
+    "room": 13702956,
+    "face": "/bfs/face/4c70e4607370de0952737e03ca300ecd00aa8ab9.jpg",
+    "sign": "棕头鸦雀，飞天神教非虔诚信徒，下饭鸡。",
+    "group_name": ""
+  },
   "470085432": {
     "name": "派萝喵Official",
     "type": "vtuber",
@@ -38815,6 +38831,14 @@
     "sign": "负责猫宫家另外三位Vtuber：隐神木荫-九石玉-八寻惠、、助养途径：hinatach.fanbox.cc",
     "group_name": "ENTUM"
   },
+  "7233069": {
+    "name": "难道越越不可爱",
+    "type": "vtuber",
+    "room": 34979,
+    "face": "/bfs/face/ae5a020f5311a7f6edd53f37cf270794ab188060.jpg",
+    "sign": "狐狸5窝：450698944\n平时上课太忙惹可能看不到所有私信～你们给的建议我都会记住哒\n没有除了b站之外任何平台的账号如发现小心上当受骗！",
+    "group_name": ""
+  },
   "319975083": {
     "name": "雀翎Suzume",
     "type": "vtuber",
@@ -39175,21 +39199,13 @@
     "sign": "ColorLink所属，画师麻麻@月灰灰，建模麻麻@艾尔希娅_channel。\n",
     "group_name": "ColorLink"
   },
-  "1366383704": {
-    "name": "雪璐璐璐璐",
+  "516241502": {
+    "name": "雪璐_Sheryl",
     "type": "vtuber",
-    "room": 23607547,
-    "face": "/bfs/face/1ac3268ad1a1a69c3125e545ae490982326222c4.jpg",
-    "sign": "",
+    "room": 23105331,
+    "face": "/bfs/face/dcb2fd8b4c0555d6d9434f2349a2ae7d95ef6dbc.jpg",
+    "sign": "个人势全职VUP，慵懒系台湾大姐姐，在异世界猫咖打工的猫娘服务生",
     "group_name": ""
-  },
-  "1476333866": {
-    "name": "雪璐xuelu",
-    "type": "vtuber",
-    "room": 24359941,
-    "face": "/bfs/face/faa0e7ca6b28fb99692de00073dd1c040e8d6e12.jpg",
-    "sign": "来自异世界猫咖的猫娘服务生雪璐 ",
-    "group_name": "极光社"
   },
   "13294045": {
     "name": "雪穗椛_channel",
@@ -39758,6 +39774,14 @@
     "face": "/bfs/face/98476d799d3edb29ba60608d7e58c1797ae9fe55.jpg",
     "sign": "黎明到来时，记得和我说早安。",
     "group_name": ""
+  },
+  "3493075747867553": {
+    "name": "青月AO",
+    "type": "vtuber",
+    "room": 26312997,
+    "face": "/bfs/face/f87b07f09d4e9c3c9663129891310d1febcdda67.jpg",
+    "sign": "hOuOu虚拟艺人团体成员。   希望我的歌声能够让你开心      商务：houou_project@163.com",
+    "group_name": "hOuOu_Project"
   },
   "414840678": {
     "name": "青木ルアOfficial",

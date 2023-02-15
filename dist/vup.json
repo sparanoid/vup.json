@@ -626,7 +626,7 @@
     "name": "C叔小酒馆",
     "type": "vtuber",
     "room": 23300805,
-    "face": "/bfs/face/8c01cd64dd770f1f8623ab1b80cc78244cb1a508.jpg",
+    "face": "/bfs/face/6ad8775a1bc39727045890c41adf5c790730d2af.jpg",
     "group_name": ""
   },
   "67141": {
@@ -7026,6 +7026,13 @@
     "room": 4604817,
     "face": "/bfs/face/e4597ce1a4c5687bc35f4019d731e2ec667ff424.jpg",
     "group_name": ""
+  },
+  "2036323283": {
+    "name": "克罗刻Kk",
+    "type": "vtuber",
+    "room": 24128011,
+    "face": "/bfs/face/dd0d79d66c1f9dacd58d76a9f478e448d55c783a.jpg",
+    "group_name": "Emina-Studio"
   },
   "560301353": {
     "name": "bilibili",
@@ -22126,6 +22133,13 @@
     "face": "/bfs/face/9813b13172f168ff5f1e324b61cd44d511f9c9ae.jpg",
     "group_name": ""
   },
+  "3976443": {
+    "name": "派拉Para",
+    "type": "vtuber",
+    "room": 13702956,
+    "face": "/bfs/face/4c70e4607370de0952737e03ca300ecd00aa8ab9.jpg",
+    "group_name": ""
+  },
   "470085432": {
     "name": "派萝喵Official",
     "type": "vtuber",
@@ -33963,6 +33977,13 @@
     "face": "/bfs/face/9c0c324f014fb4431193a30aea20bd9fe28cddbe.jpg",
     "group_name": "ENTUM"
   },
+  "7233069": {
+    "name": "难道越越不可爱",
+    "type": "vtuber",
+    "room": 34979,
+    "face": "/bfs/face/ae5a020f5311a7f6edd53f37cf270794ab188060.jpg",
+    "group_name": ""
+  },
   "319975083": {
     "name": "雀翎Suzume",
     "type": "vtuber",
@@ -34278,19 +34299,12 @@
     "face": "/bfs/face/98294dd4674a726bb349d9d514fefafcd61c8464.jpg",
     "group_name": "ColorLink"
   },
-  "1366383704": {
-    "name": "雪璐璐璐璐",
+  "516241502": {
+    "name": "雪璐_Sheryl",
     "type": "vtuber",
-    "room": 23607547,
-    "face": "/bfs/face/1ac3268ad1a1a69c3125e545ae490982326222c4.jpg",
+    "room": 23105331,
+    "face": "/bfs/face/dcb2fd8b4c0555d6d9434f2349a2ae7d95ef6dbc.jpg",
     "group_name": ""
-  },
-  "1476333866": {
-    "name": "雪璐xuelu",
-    "type": "vtuber",
-    "room": 24359941,
-    "face": "/bfs/face/faa0e7ca6b28fb99692de00073dd1c040e8d6e12.jpg",
-    "group_name": "极光社"
   },
   "13294045": {
     "name": "雪穗椛_channel",
@@ -34788,6 +34802,13 @@
     "room": 23770402,
     "face": "/bfs/face/98476d799d3edb29ba60608d7e58c1797ae9fe55.jpg",
     "group_name": ""
+  },
+  "3493075747867553": {
+    "name": "青月AO",
+    "type": "vtuber",
+    "room": 26312997,
+    "face": "/bfs/face/f87b07f09d4e9c3c9663129891310d1febcdda67.jpg",
+    "group_name": "hOuOu_Project"
   },
   "414840678": {
     "name": "青木ルアOfficial",
