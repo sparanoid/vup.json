@@ -6439,6 +6439,13 @@
     "face": "/bfs/face/befd82f413b9e97d6815810fc2eb830b8b9492b1.jpg",
     "group_name": ""
   },
+  "1542516095": {
+    "name": "伊舞Eve",
+    "type": "vtuber",
+    "room_id": 26966452,
+    "face": "/bfs/face/d728b275ab4bec5168c6c3238704d0a97b4bf714.jpg",
+    "group_name": "VirtuaReal"
+  },
   "2308730": {
     "name": "xxxXx_X_XX_",
     "type": "vtuber",
@@ -9960,6 +9967,13 @@
     "face": "/bfs/face/a33d38758ce843c0428bafd0d8bc608c93793ad5.jpg",
     "group_name": ""
   },
+  "3493131651647686": {
+    "name": "哟哟io",
+    "type": "vtuber",
+    "room_id": 27088517,
+    "face": "/bfs/face/142b84d8ef1ae439fcd0200a6854838efaa91e9c.jpg",
+    "group_name": "虚研社"
+  },
   "1834090921": {
     "name": "哟蔻桃桃YOCO",
     "type": "vtuber",
@@ -12583,6 +12597,13 @@
     "type": "vtuber",
     "room_id": 4066032,
     "face": "/bfs/face/29acc307c83e1f853f5352276255f26339c34c88.jpg",
+    "group_name": ""
+  },
+  "3493134575077620": {
+    "name": "安娜斯塔Official",
+    "type": "vtuber",
+    "room_id": 27091552,
+    "face": "/bfs/face/17fa1596ba3d464f8dd940453241bd099bc45f77.jpg",
     "group_name": ""
   },
   "688059819": {
@@ -17135,6 +17156,13 @@
     "face": "/bfs/face/0057eda09a4f166566f6d497dbfc7fc299fc98ce.jpg",
     "group_name": ""
   },
+  "1265433547": {
+    "name": "星熙子",
+    "type": "vtuber",
+    "room_id": 23682809,
+    "face": "/bfs/face/ecd04ec00a9d227881a9327838868cf5f26834fe.jpg",
+    "group_name": ""
+  },
   "2107426014": {
     "name": "星熠_Official",
     "type": "vtuber",
@@ -19746,6 +19774,13 @@
     "face": "/bfs/face/798a582c9f597cf6eb6f30883865ab18d4afc212.jpg",
     "group_name": "椛榊计划"
   },
+  "1609526545": {
+    "name": "栞栞Shiori",
+    "type": "vtuber",
+    "room_id": 26966466,
+    "face": "/bfs/face/863febb7e96005c92ac21bd721054bb350b3b016.jpg",
+    "group_name": "VirtuaReal"
+  },
   "727109": {
     "name": "小幸星的小宇宙",
     "type": "vtuber",
@@ -21104,6 +21139,13 @@
     "face": "/bfs/face/342dd96887cdfabda7b4e4ef409e6edc836e453f.jpg",
     "group_name": ""
   },
+  "1827139579": {
+    "name": "欧珀Opal",
+    "type": "vtuber",
+    "room_id": 25762103,
+    "face": "/bfs/face/ef7f40caf88da3d6bcbba912cb2b35014865251c.jpg",
+    "group_name": "VirtuaReal"
+  },
   "5868110": {
     "name": "欧翼_Channel",
     "type": "vtuber",
@@ -22144,7 +22186,7 @@
     "name": "派拉Para",
     "type": "vtuber",
     "room_id": 13702956,
-    "face": "/bfs/face/4c70e4607370de0952737e03ca300ecd00aa8ab9.jpg",
+    "face": "/bfs/face/b7285cc5041d013ed6d389778e00a451b2dec5d1.jpg",
     "group_name": ""
   },
   "470085432": {
@@ -30414,6 +30456,13 @@
     "face": "/bfs/face/fb1ba54bb1736c451d0e4813ab2683459a6a089a.jpg",
     "group_name": "chaoslive"
   },
+  "1097083213": {
+    "name": "莓野麻团Official",
+    "type": "vtuber",
+    "room_id": 23545716,
+    "face": "/bfs/face/f4e604616ffbb4a70299e0dbd22d74b4bdd1afda.jpg",
+    "group_name": ""
+  },
   "628276383": {
     "name": "莓露莎Official",
     "type": "vtuber",
@@ -35430,7 +35479,7 @@
     "name": "驿双Ethan_Channel",
     "type": "vtuber",
     "room_id": 22508827,
-    "face": "/bfs/face/1009e9d10eca434cc885dbab0b4c025213708685.jpg",
+    "face": "/bfs/face/886568380fbcf26683fc1b5a73fe05507d46916b.jpg",
     "group_name": "KonKoe"
   },
   "296133": {
