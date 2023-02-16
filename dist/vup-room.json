@@ -3149,6 +3149,13 @@
     "face": "/bfs/face/6e796effa1c36a5be87b71882e92aec34602b5c9.jpg",
     "group_name": "WACTOR"
   },
+  "25308097": {
+    "name": "Wal1nna",
+    "type": "vtuber",
+    "room_id": 21805942,
+    "face": "/bfs/face/1d2446eb65c4b18a054b9d395a1ff7ed7fc29f21.jpg",
+    "group_name": ""
+  },
   "1353152128": {
     "name": "WednesdayChannel",
     "type": "vtuber",
@@ -6131,6 +6138,13 @@
     "face": "/bfs/face/1680a84706bcccdbbffe398556af90d45b13fa03.jpg",
     "group_name": ""
   },
+  "478425060": {
+    "name": "京九霜",
+    "type": "vtuber",
+    "room_id": 26679133,
+    "face": "/bfs/face/039a44e81ac393ec6bce68712d4a3faaf53fbcac.jpg",
+    "group_name": "YOLO"
+  },
   "412630000": {
     "name": "亮_Sama",
     "type": "vtuber",
@@ -7606,6 +7620,13 @@
     "type": "vtuber",
     "room_id": 792889,
     "face": "/bfs/face/6bf3d67423e3ceea2f833be123e62423edd9328e.jpg",
+    "group_name": ""
+  },
+  "453880": {
+    "name": "冰隙CIELON",
+    "type": "vtuber",
+    "room_id": 836238,
+    "face": "/bfs/face/0572a233107a3013b060a4f9c0ffc03772422752.jpg",
     "group_name": ""
   },
   "25395147": {
@@ -16778,6 +16799,13 @@
     "face": "/bfs/face/84970d5f607113606a46c8aa1a3e93bdd9732714.jpg",
     "group_name": "REDCircle红圈社"
   },
+  "52355700": {
+    "name": "星启_Venus",
+    "type": "vtuber",
+    "room_id": 1678802,
+    "face": "/bfs/face/da85cb09516813892f541e39b47cc95bc417e9fe.jpg",
+    "group_name": ""
+  },
   "701975828": {
     "name": "星启芊子Channel",
     "type": "vtuber",
@@ -19746,6 +19774,13 @@
     "face": "/bfs/face/6be30545c9189fa2ec49529df4b305126c2537bc.jpg",
     "group_name": ""
   },
+  "1355459439": {
+    "name": "栗栗糍",
+    "type": "vtuber",
+    "room_id": 26578439,
+    "face": "/bfs/face/ad6f27225036405594a4918a667c0a5d1366467e.jpg",
+    "group_name": ""
+  },
   "1737480418": {
     "name": "栗梦_drowzee",
     "type": "vtuber",
@@ -20423,6 +20458,13 @@
     "type": "vtuber",
     "room_id": 2676569,
     "face": "/bfs/face/36c2ed84d00564b0ff8fd6ba05ce8d5c96c5af48.jpg",
+    "group_name": ""
+  },
+  "355093560": {
+    "name": "梵阿景不是啊景",
+    "type": "vtuber",
+    "room_id": 21875665,
+    "face": "/bfs/face/edfd53ecf129083e41b9e29e4b48941ae9ec6990.jpg",
     "group_name": ""
   },
   "77543886": {
@@ -23005,7 +23047,7 @@
     "name": "火羽ひのめ",
     "type": "vtuber",
     "room_id": 22748536,
-    "face": "/bfs/face/687592beb7343f9d020e2c2a96fe94b6e197af61.jpg",
+    "face": "/bfs/face/96bfa1a6251527c9a0b6fce9a3e94ce2ae290560.jpg",
     "group_name": ""
   },
   "1401928": {
@@ -24287,6 +24329,13 @@
     "type": "vtuber",
     "room_id": 22663203,
     "face": "/bfs/face/ea46a0ada2da49f2d5d066964e021be8a7ca7858.jpg",
+    "group_name": ""
+  },
+  "1303231": {
+    "name": "玛茜洛尼酱",
+    "type": "vtuber",
+    "room_id": 12685259,
+    "face": "/bfs/face/105bef49293e42709008a8fb1a2856fe54eb64bc.jpg",
     "group_name": ""
   },
   "595313593": {
@@ -31455,6 +31504,13 @@
     "type": "vtuber",
     "room_id": 6425576,
     "face": "/bfs/face/a030e225a7f250bac96e77cb19e2cbcfe0b13b1c.jpg",
+    "group_name": ""
+  },
+  "1579895002": {
+    "name": "蜜汁C今天摸了",
+    "type": "vtuber",
+    "room_id": 24551418,
+    "face": "/bfs/face/77fb6b56220252de85d69bb5624ffc2748dd4a83.jpg",
     "group_name": ""
   },
   "80505": {
