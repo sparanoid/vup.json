@@ -4483,7 +4483,7 @@
     "name": "ゴミOfficial",
     "type": "vtuber",
     "room": 1267984,
-    "face": "/bfs/face/c7474921f92c922588241fbc3de8b7bca0847a85.jpg",
+    "face": "/bfs/face/a8549178e1bee1b67aad959079bd861c611784eb.jpg",
     "group_name": ""
   },
   "477780496": {
@@ -12344,7 +12344,7 @@
     "name": "奥姵莉娜Abelia",
     "type": "vtuber",
     "room": 21688663,
-    "face": "/bfs/face/9ce27dc35c794a305597f86c54c554684d7ea566.jpg",
+    "face": "/bfs/face/99c1e088e9d05d3cd6d3a2696860fe669fa503f3.jpg",
     "group_name": "星研社"
   },
   "630559288": {
@@ -25815,6 +25815,13 @@
     "face": "/bfs/face/781b9502c88cb8982647081c3c7b7f916ec890f5.jpg",
     "group_name": ""
   },
+  "1519968668": {
+    "name": "百音星幽",
+    "type": "vtuber",
+    "room": 23938965,
+    "face": "/bfs/face/547abda5860326ab0108a28adb59111838f7a7f3.jpg",
+    "group_name": ""
+  },
   "389858027": {
     "name": "百鬼绫目Official",
     "type": "vtuber",
@@ -29768,6 +29775,13 @@
     "type": "vtuber",
     "room": 22887091,
     "face": "/bfs/face/124fd64230d01f9addce26019a45644dad55db79.jpg",
+    "group_name": ""
+  },
+  "1623138694": {
+    "name": "花黏黏Pika",
+    "type": "vtuber",
+    "room": 25649865,
+    "face": "/bfs/face/ec64e812186940094ef136a69625d282126cba4f.jpg",
     "group_name": ""
   },
   "27176897": {
