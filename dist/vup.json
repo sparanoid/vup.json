@@ -1354,7 +1354,7 @@
     "name": "Laine_official",
     "type": "vtuber",
     "room": 22513500,
-    "face": "/bfs/face/336e6d909805eb39189f4c30e7b483e9a2ff2e8b.jpg",
+    "face": "/bfs/face/4f2bdd1aa723dfb675f8f2475a68e953df5d0118.jpg",
     "group_name": ""
   },
   "702154877": {
@@ -8663,13 +8663,6 @@
     "type": "vtuber",
     "room": 13292738,
     "face": "/bfs/face/f63ae7745214aeb212adeb1b4abc8591ec324cce.jpg",
-    "group_name": ""
-  },
-  "698026701": {
-    "name": "仓鼠已换号",
-    "type": "vtuber",
-    "room": 22633165,
-    "face": "/bfs/face/0d1a80c17cc1ac3f34e1dde5638fdf85ddee0d27.jpg",
     "group_name": ""
   },
   "3493086422370649": {
@@ -17643,7 +17636,7 @@
     "name": "星野绵奈",
     "type": "vtuber",
     "room": 4346806,
-    "face": "/bfs/face/32396bf36df05e45d478122a6c3ef6a8ec111fd3.jpg",
+    "face": "/bfs/face/d77f4ad5ac886b0ecc22726f9cc6a9dca510d7c9.jpg",
     "group_name": ""
   },
   "2930964": {
@@ -19684,7 +19677,7 @@
     "group_name": ""
   },
   "120307508": {
-    "name": "菜芽えええ",
+    "name": "芽衣meiii",
     "type": "vtuber",
     "room": 8193489,
     "face": "/bfs/face/0ec1af64494372c649abb55768f3f111d7138c8f.jpg",
@@ -30938,6 +30931,13 @@
     "room": 22090513,
     "face": "/bfs/face/92b055f2e9ede224ea62fb4992d105fc6baa3b13.jpg",
     "group_name": "英灵殿ValhallaClub"
+  },
+  "350414988": {
+    "name": "落笙Rosiel_",
+    "type": "vtuber",
+    "room": 21686346,
+    "face": "/bfs/face/a8f466312f80ebc795f5799e045406f7bc98c1eb.jpg",
+    "group_name": ""
   },
   "628292889": {
     "name": "叶加濑冬雪Official",

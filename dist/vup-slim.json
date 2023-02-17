@@ -7427,12 +7427,6 @@
     "room": 13292738,
     "group_name": ""
   },
-  "698026701": {
-    "name": "仓鼠已换号",
-    "type": "vtuber",
-    "room": 22633165,
-    "group_name": ""
-  },
   "3493086422370649": {
     "name": "半夏_Pinky",
     "type": "vtuber",
@@ -16872,7 +16866,7 @@
     "group_name": ""
   },
   "120307508": {
-    "name": "菜芽えええ",
+    "name": "芽衣meiii",
     "type": "vtuber",
     "room": 8193489,
     "group_name": ""
@@ -26518,6 +26512,12 @@
     "type": "vtuber",
     "room": 22090513,
     "group_name": "英灵殿ValhallaClub"
+  },
+  "350414988": {
+    "name": "落笙Rosiel_",
+    "type": "vtuber",
+    "room": 21686346,
+    "group_name": ""
   },
   "628292889": {
     "name": "叶加濑冬雪Official",
