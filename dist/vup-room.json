@@ -10100,6 +10100,13 @@
     "face": "/bfs/face/81d014088ac8d189a2c78d7da5cf08e35a9db87f.jpg",
     "group_name": ""
   },
+  "3461577015561176": {
+    "name": "啵尼可_Official",
+    "type": "vtuber",
+    "room_id": 26195137,
+    "face": "/bfs/face/e02dc248f29a7f5e807499a65cb2a14091da8d2c.jpg",
+    "group_name": ""
+  },
   "1226850716": {
     "name": "啵缇兔_Official",
     "type": "vtuber",
@@ -10266,6 +10273,13 @@
     "type": "vtuber",
     "room_id": 126556,
     "face": "/bfs/face/dd56315b46871ff7accabd13a751088721915e38.jpg",
+    "group_name": ""
+  },
+  "614428140": {
+    "name": "嗷金宝很柔弱_",
+    "type": "vtuber",
+    "room_id": 25746973,
+    "face": "/bfs/face/db183b8473492ac2389880a20192f7a7676c4ba0.jpg",
     "group_name": ""
   },
   "279348": {
@@ -13488,6 +13502,13 @@
     "face": "/bfs/face/e866eaa49cdd8440d0f74f0329836a0ca2215629.jpg",
     "group_name": ""
   },
+  "480437746": {
+    "name": "小红豆露露",
+    "type": "vtuber",
+    "room_id": 25219239,
+    "face": "/bfs/face/0b7653f233a18f931adaa9602162ebecc2ad8ca3.jpg",
+    "group_name": ""
+  },
   "264161": {
     "name": "❀Sakulaˇ小舞",
     "type": "vtuber",
@@ -14237,6 +14258,13 @@
     "face": "/bfs/face/84d643e6640cab8fde68f716322f974b8c82a41b.jpg",
     "group_name": ""
   },
+  "1470014194": {
+    "name": "布林-Official",
+    "type": "vtuber",
+    "room_id": 25382906,
+    "face": "/bfs/face/b4a08451a02a8026796cd7d351dcf1941aad932f.jpg",
+    "group_name": ""
+  },
   "595211": {
     "name": "布谷小羊",
     "type": "vtuber",
@@ -14920,7 +14948,7 @@
     "name": "弥利雅Miya",
     "type": "vtuber",
     "room_id": 23140896,
-    "face": "/bfs/face/764fca0b06fa09ea73b51dc26f828db8dd1166b9.jpg",
+    "face": "/bfs/face/7ccfeb42709511fb7e4474c1515a55ef211bebe1.jpg",
     "group_name": ""
   },
   "477317922": {
@@ -35332,7 +35360,7 @@
     "name": "飕鹿法_SO",
     "type": "vtuber",
     "room_id": 5131782,
-    "face": "/bfs/face/5b29e821a4f0809288dbc40510959434eba13e41.jpg",
+    "face": "/bfs/face/21345369fbc12761dfb2c4edb2f750265d4e23d5.jpg",
     "group_name": "风云社"
   },
   "6432092": {
