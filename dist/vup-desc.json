@@ -12784,7 +12784,7 @@
     "group_name": "Hololive"
   },
   "670725269": {
-    "name": "夜羽玲夕是只许愿狐",
+    "name": "夜羽玲夕",
     "type": "vtuber",
     "room": 22479430,
     "face": "/bfs/face/2eb4fbdcf040df3ffaecc8edc76924ae0f841ed7.jpg",
@@ -20204,7 +20204,7 @@
     "type": "vtuber",
     "room": 25049543,
     "face": "/bfs/face/9f4d234faf87f0c8fba0f4c3c975cbdefa0bcd80.jpg",
-    "sign": "不是虚拟主播！只是套个皮打游戏的养设子人！",
+    "sign": "（把我取关了吧）",
     "group_name": ""
   },
   "1636809": {
@@ -27784,11 +27784,11 @@
     "group_name": ""
   },
   "451025339": {
-    "name": "玖麻Kuma",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 22799368,
-    "face": "/bfs/face/9b609f45ef51fe6d69b75cd9b329b2dd8c5dbaf2.jpg",
-    "sign": "【已毕业】愿你平安喜乐，来日之路光明灿烂",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": "Facemoe官方"
   },
   "284379050": {

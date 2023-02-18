@@ -9588,7 +9588,7 @@
     "group_name": "Hololive"
   },
   "670725269": {
-    "name": "夜羽玲夕是只许愿狐",
+    "name": "夜羽玲夕",
     "type": "vtuber",
     "room": 22479430,
     "group_name": ""
@@ -20838,9 +20838,9 @@
     "group_name": ""
   },
   "451025339": {
-    "name": "玖麻Kuma",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 22799368,
+    "room": 0,
     "group_name": "Facemoe官方"
   },
   "284379050": {
