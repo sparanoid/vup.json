@@ -13544,6 +13544,13 @@
     "face": "/bfs/face/17ca876698c7d054ddc4385ad37ebd6211e0dac9.jpg",
     "group_name": ""
   },
+  "65122164": {
+    "name": "小若是兔宝呐ovo",
+    "type": "vtuber",
+    "room_id": 3137619,
+    "face": "/bfs/face/80031a25ebf02f2c9061b35051651f33fef0c667.jpg",
+    "group_name": ""
+  },
   "76080175": {
     "name": "小荧Lumos",
     "type": "vtuber",
@@ -14368,6 +14375,13 @@
     "type": "vtuber",
     "room_id": 23414796,
     "face": "/bfs/face/88834a6828f9e07face1ad607b4effe6851b1f46.jpg",
+    "group_name": ""
+  },
+  "6534118": {
+    "name": "希拉依Scillae",
+    "type": "vtuber",
+    "room_id": 5510719,
+    "face": "/bfs/face/1f6effd675d31cb4578bac28e1283ba7857fdca2.jpg",
     "group_name": ""
   },
   "488104861": {
@@ -16533,6 +16547,13 @@
     "face": "/bfs/face/b0cb27e9e1b9e92ea7e9e6d1aef7ebac511f8db8.jpg",
     "group_name": ""
   },
+  "80000000": {
+    "name": "早椰恋恋",
+    "type": "vtuber",
+    "room_id": 26774400,
+    "face": "/bfs/face/47820ec86f3a4480606d964d9e695a8270f13dee.jpg",
+    "group_name": ""
+  },
   "436693674": {
     "name": "早濑弥生Official",
     "type": "vtuber",
@@ -16652,11 +16673,11 @@
     "face": "/bfs/face/4bee9c761c20a4563700317f34e432e2dfc20765.jpg",
     "group_name": ""
   },
-  "1533406766": {
-    "name": "请关注明夏珊海",
+  "1124440113": {
+    "name": "明夏珊海",
     "type": "vtuber",
-    "room_id": 24448785,
-    "face": "/bfs/face/01c42aa7872acdeb6ef81dafcde5ba034fca6a56.jpg",
+    "room_id": 25604590,
+    "face": "/bfs/face/5562b73b1b25e5e93bbb519e0f6b9fb148fc6b61.jpg",
     "group_name": ""
   },
   "25193913": {
@@ -22259,6 +22280,13 @@
     "face": "/bfs/face/0458b11111084ff5ce0b071c92e9cd05a76a10b7.jpg",
     "group_name": ""
   },
+  "3461574234736872": {
+    "name": "流明汐奈",
+    "type": "vtuber",
+    "room_id": 26112308,
+    "face": "/bfs/face/e643d62164ac28761bdbdb0f4d8130e3d1f0f131.jpg",
+    "group_name": ""
+  },
   "670241922": {
     "name": "流琉蒼Official",
     "type": "vtuber",
@@ -27582,7 +27610,7 @@
   "45519311": {
     "name": "bilibili",
     "type": "vtuber",
-    "room_id": 3784886,
+    "room_id": 0,
     "face": "/images/member/noface.gif",
     "group_name": ""
   },

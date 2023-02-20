@@ -15479,6 +15479,14 @@
     "sign": "毕业了不干了，感谢大家的陪伴",
     "group_name": ""
   },
+  "65122164": {
+    "name": "小若是兔宝呐ovo",
+    "type": "vtuber",
+    "room": 3137619,
+    "face": "/bfs/face/80031a25ebf02f2c9061b35051651f33fef0c667.jpg",
+    "sign": "未出道个歌势/非全职/谢谢你喜欢听我唱歌～网易云：杜若Dora。是一只喜欢汪苏泷13年的兔兔啦！",
+    "group_name": ""
+  },
   "76080175": {
     "name": "小荧Lumos",
     "type": "vtuber",
@@ -16421,6 +16429,14 @@
     "room": 23414796,
     "face": "/bfs/face/88834a6828f9e07face1ad607b4effe6851b1f46.jpg",
     "sign": "个人势猪咪 哼唧~",
+    "group_name": ""
+  },
+  "6534118": {
+    "name": "希拉依Scillae",
+    "type": "vtuber",
+    "room": 5510719,
+    "face": "/bfs/face/1f6effd675d31cb4578bac28e1283ba7857fdca2.jpg",
+    "sign": "来自广辽境泛土陆冰域的一名普通学生，就读于霜原大学物质交互原理学院。一起学习寒子场论吗？\n信息站点 blog.Akrhyose.com",
     "group_name": ""
   },
   "488104861": {
@@ -18895,6 +18911,14 @@
     "sign": "个人势努力奋斗的元气VUP！",
     "group_name": ""
   },
+  "80000000": {
+    "name": "早椰恋恋",
+    "type": "vtuber",
+    "room": 26774400,
+    "face": "/bfs/face/47820ec86f3a4480606d964d9e695a8270f13dee.jpg",
+    "sign": "❤ 个人势 ❤ 试播中 ❤ 一位温柔可爱的马猴烧酒 ❤ 主打的就是治愈系！",
+    "group_name": ""
+  },
   "436693674": {
     "name": "早濑弥生Official",
     "type": "vtuber",
@@ -19031,12 +19055,12 @@
     "sign": "海浪会来，生活总会继续。商务联系：suibian1111111@outlook.com",
     "group_name": ""
   },
-  "1533406766": {
-    "name": "请关注明夏珊海",
+  "1124440113": {
+    "name": "明夏珊海",
     "type": "vtuber",
-    "room": 24448785,
-    "face": "/bfs/face/01c42aa7872acdeb6ef81dafcde5ba034fca6a56.jpg",
-    "sign": "关注新号：明夏珊海 直播通知群：625322282",
+    "room": 25604590,
+    "face": "/bfs/face/5562b73b1b25e5e93bbb519e0f6b9fb148fc6b61.jpg",
+    "sign": "君以国士待我，我必国士报之。 直播通知群：625322282",
     "group_name": ""
   },
   "25193913": {
@@ -25439,6 +25463,14 @@
     "sign": "个人势vup，兼职live2d模型师。\n游戏，杂谈，整活，唱歌！",
     "group_name": ""
   },
+  "3461574234736872": {
+    "name": "流明汐奈",
+    "type": "vtuber",
+    "room": 26112308,
+    "face": "/bfs/face/e643d62164ac28761bdbdb0f4d8130e3d1f0f131.jpg",
+    "sign": "你所感受到的只是你的悲伤\n每天九点不来就是似了",
+    "group_name": ""
+  },
   "670241922": {
     "name": "流琉蒼Official",
     "type": "vtuber",
@@ -31522,7 +31554,7 @@
   "45519311": {
     "name": "bilibili",
     "type": "vtuber",
-    "room": 3784886,
+    "room": 0,
     "face": "/images/member/noface.gif",
     "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""

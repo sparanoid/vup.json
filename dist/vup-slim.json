@@ -11609,6 +11609,12 @@
     "room": 23976580,
     "group_name": ""
   },
+  "65122164": {
+    "name": "小若是兔宝呐ovo",
+    "type": "vtuber",
+    "room": 3137619,
+    "group_name": ""
+  },
   "76080175": {
     "name": "小荧Lumos",
     "type": "vtuber",
@@ -12315,6 +12321,12 @@
     "name": "希拉Sheila",
     "type": "vtuber",
     "room": 23414796,
+    "group_name": ""
+  },
+  "6534118": {
+    "name": "希拉依Scillae",
+    "type": "vtuber",
+    "room": 5510719,
     "group_name": ""
   },
   "488104861": {
@@ -14171,6 +14183,12 @@
     "room": 1760427,
     "group_name": ""
   },
+  "80000000": {
+    "name": "早椰恋恋",
+    "type": "vtuber",
+    "room": 26774400,
+    "group_name": ""
+  },
   "436693674": {
     "name": "早濑弥生Official",
     "type": "vtuber",
@@ -14273,10 +14291,10 @@
     "room": 25034104,
     "group_name": ""
   },
-  "1533406766": {
-    "name": "请关注明夏珊海",
+  "1124440113": {
+    "name": "明夏珊海",
     "type": "vtuber",
-    "room": 24448785,
+    "room": 25604590,
     "group_name": ""
   },
   "25193913": {
@@ -19079,6 +19097,12 @@
     "room": 23128657,
     "group_name": ""
   },
+  "3461574234736872": {
+    "name": "流明汐奈",
+    "type": "vtuber",
+    "room": 26112308,
+    "group_name": ""
+  },
   "670241922": {
     "name": "流琉蒼Official",
     "type": "vtuber",
@@ -23642,7 +23666,7 @@
   "45519311": {
     "name": "bilibili",
     "type": "vtuber",
-    "room": 3784886,
+    "room": 0,
     "group_name": ""
   },
   "1262316876": {
