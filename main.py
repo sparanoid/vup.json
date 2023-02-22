@@ -21,6 +21,10 @@ vup_room = {}
 vup_slim = {}
 vup_full = {}
 
+vup_arr = []
+vup_desc_arr = []
+vup_slim_arr = []
+
 # Prepare JSON
 for user in vtbs_vdb:
     pending_removal = True
@@ -77,6 +81,39 @@ for user in vtbs:
             group_name = group_name,
         )
 
+for key, value in vup.items():
+    new_dict = {
+        "uid": int(key),
+        "name": value["name"],
+        "type": value["type"],
+        "room": value["room"],
+        "face": value["face"],
+        "group_name": value["group_name"]
+    }
+    vup_arr.append(new_dict)
+
+for key, value in vup_desc.items():
+    new_dict = {
+        "uid": int(key),
+        "name": value["name"],
+        "type": value["type"],
+        "room": value["room"],
+        "face": value["face"],
+        "sign": value["sign"],
+        "group_name": value["group_name"]
+    }
+    vup_desc_arr.append(new_dict)
+
+for key, value in vup_slim.items():
+    new_dict = {
+        "uid": int(key),
+        "name": value["name"],
+        "type": value["type"],
+        "room": value["room"],
+        "group_name": value["group_name"]
+    }
+    vup_slim_arr.append(new_dict)
+
 with open('dist/vup.json', 'w') as file:
     file.write(json.dumps(vup, indent=2, ensure_ascii=False))
 
@@ -88,3 +125,12 @@ with open('dist/vup-slim.json', 'w') as file:
 
 with open('dist/vup-room.json', 'w') as file:
     file.write(json.dumps(vup_room, indent=2, ensure_ascii=False))
+
+with open('dist/vup-array.json', 'w') as file:
+    file.write(json.dumps(vup_arr, indent=2, ensure_ascii=False))
+
+with open('dist/vup-desc-array.json', 'w') as file:
+    file.write(json.dumps(vup_desc_arr, indent=2, ensure_ascii=False))
+
+with open('dist/vup-slim-array.json', 'w') as file:
+    file.write(json.dumps(vup_slim_arr, indent=2, ensure_ascii=False))
