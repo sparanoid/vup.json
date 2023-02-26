@@ -86,7 +86,7 @@
     "type": "vtuber",
     "room": 21330414,
     "face": "/bfs/face/c99f36dc94ee913309292927c675413d7a7e8951.jpg",
-    "sign": "慢慢走，慢慢播",
+    "sign": "世界太快了，坐下来说点慢慢的话吧。",
     "group_name": ""
   },
   {
@@ -1365,6 +1365,15 @@
     "room": 0,
     "face": "/bfs/face/e81f72bed98c6b8d03f23d5630018be418398762.jpg",
     "sign": "大家好！我是N计划的 姬！接下来会为了养活我们姐妹而拼命做视频！请大家多多关照！",
+    "group_name": ""
+  },
+  {
+    "uid": 1993313,
+    "name": "北燕Hokume",
+    "type": "vtuber",
+    "room": 4583886,
+    "face": "/bfs/face/52c154220fd94264439833910eb7b9d43aafaa6a.jpg",
+    "sign": "个人势虚拟liver，你永远的虚拟小鸟 | 写点自己喜欢的歌，目的主要是自娱自乐 | 直播通知群：251510412",
     "group_name": ""
   },
   {
@@ -4293,6 +4302,15 @@
     "group_name": ""
   },
   {
+    "uid": 1528165105,
+    "name": "Zephyr-风泠社",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/665c09a3ade1f40c19c9984d48dcb337113915c0.jpg",
+    "sign": "",
+    "group_name": ""
+  },
+  {
     "uid": 1592759,
     "name": "Zimo菌今天开始养蚂蚁",
     "type": "vtuber",
@@ -6957,6 +6975,15 @@
     "group_name": ""
   },
   {
+    "uid": 19986917,
+    "name": "与枝老师",
+    "type": "vtuber",
+    "room": 24343457,
+    "face": "/bfs/face/8dd4dd4e0bba9d384f1a04510ea882eb9c1eb6bf.jpg",
+    "sign": "全职VUP/杂谈势/配音势/养成系歌势，你不会想错过我的直播的。FC社所属。联动合作请私戳~",
+    "group_name": "新月社FCrescent"
+  },
+  {
     "uid": 413303710,
     "name": "与田姬official",
     "type": "vtuber",
@@ -7657,6 +7684,15 @@
     "face": "/bfs/face/e5bd49b1b21f4aad809d68ee474e1e79b8c61222.jpg",
     "sign": "又懒又宅，不定期直播 粉丝群：783809691，喜欢可以加一下",
     "group_name": ""
+  },
+  {
+    "uid": 1384287229,
+    "name": "云萝Kinoko",
+    "type": "vtuber",
+    "room": 25436017,
+    "face": "/bfs/face/f18f4ea3ab028dd020e82f84406a2057b4ca1118.jpg",
+    "sign": "Zephyr所属--异世界的蘑菇贤者，乐于倾听他人的烦恼，好奇心旺盛，会学习各种有趣的东西~",
+    "group_name": "Zephyr-风泠社"
   },
   {
     "uid": 1287031552,
@@ -10656,6 +10692,15 @@
     "group_name": ""
   },
   {
+    "uid": 8713705,
+    "name": "十七为何那样",
+    "type": "vtuber",
+    "room": 5129913,
+    "face": "/bfs/face/d75d767ff261006e868d19c66dcb9a8234fbe133.jpg",
+    "sign": "做自己喜欢的事情会快乐~然后想和大家一起快乐！（窝点群号请留意关注自动回复哦~",
+    "group_name": ""
+  },
+  {
     "uid": 433597809,
     "name": "十三さま-",
     "type": "vtuber",
@@ -11020,7 +11065,7 @@
     "name": "千鈴鳴_Official",
     "type": "vtuber",
     "room": 26724557,
-    "face": "/bfs/face/34f35e3837bc09b274359e3116f07a753a4f0137.jpg",
+    "face": "/bfs/face/8921aae8fd7393b307dff818f25638360275d737.jpg",
     "sign": "猫又さんです 是猫又小姐哦",
     "group_name": "P家"
   },
@@ -12073,7 +12118,7 @@
     "name": "叶秋羽NHz",
     "type": "vtuber",
     "room": 2288529,
-    "face": "/bfs/face/f3063684175fff86aab6bb11399b469265006ff8.jpg",
+    "face": "/bfs/face/2204fb0039315199d8c3c49d463adf10ca21501b.jpg",
     "sign": "做自己。高音系男歌势，NeoHertz男团/成员/队长/叶秋羽NHz",
     "group_name": "Neo Hertz"
   },
@@ -14481,6 +14526,15 @@
     "group_name": "NIJISANJI"
   },
   {
+    "uid": 177356192,
+    "name": "夜雪千沫Channel",
+    "type": "vtuber",
+    "room": 8794116,
+    "face": "/bfs/face/12fe7ff4784f9bd85cdd3e84301ef4d444a7da68.jpg",
+    "sign": "个人势VUP，个人粉丝群：791536497，不是女仆粉丝群或神教群！原神已退坑->诺艾尔神教14群：813639919",
+    "group_name": ""
+  },
+  {
     "uid": 427061218,
     "name": "夜霧Yogiri",
     "type": "vtuber",
@@ -16362,6 +16416,15 @@
     "group_name": "极光社"
   },
   {
+    "uid": 11057151,
+    "name": "安梦梦Dream",
+    "type": "vtuber",
+    "room": 3694811,
+    "face": "/bfs/face/8489f9a9a24ee2b9221e76752d1c85652a07d04b.jpg",
+    "sign": "感谢关注！个人势vup活动准备中！是男猫猫！",
+    "group_name": ""
+  },
+  {
     "uid": 350838179,
     "name": "安梦琪AmQ",
     "type": "vtuber",
@@ -16935,6 +16998,15 @@
     "room": 24344580,
     "face": "/bfs/face/d8d806cd735bef50c361d863622d58ceb31eef3f.jpg",
     "sign": "人生速通了所以是幽灵，深夜快乐，粉丝群：643129657",
+    "group_name": ""
+  },
+  {
+    "uid": 3493089278691882,
+    "name": "小夜歌Sayoka",
+    "type": "vtuber",
+    "room": 26708561,
+    "face": "/bfs/face/f4d35a3984f7f7315136ec5c75815ec4d660280c.jpg",
+    "sign": "地雷系甜妹vup/个人势/晚8直播/联动请私信/禁言通知群724197409",
     "group_name": ""
   },
   {
@@ -18391,7 +18463,7 @@
     "name": "帅比笙歌超可爱OvO",
     "type": "vtuber",
     "room": 573893,
-    "face": "/bfs/face/4cdb2e9675e86afa5f4ddbeca5f38efb93108f57.jpg",
+    "face": "/bfs/face/498a1f560173363c68c86071cbbf3b0712e99654.jpg",
     "sign": "psplive所属 国风温柔美少女歌势 ",
     "group_name": "P-SP"
   },
@@ -25767,6 +25839,15 @@
     "group_name": ""
   },
   {
+    "uid": 1621973210,
+    "name": "桃桃酸酪冰_发疯版",
+    "type": "vtuber",
+    "room": 22987471,
+    "face": "/bfs/face/4ef69f2aab87155ea288daa040bd294d7d5800b5.jpg",
+    "sign": "想做酒心巧克力的狗",
+    "group_name": ""
+  },
+  {
     "uid": 906279,
     "name": "桃沢白夜Mmswhakuya",
     "type": "vtuber",
@@ -27261,6 +27342,15 @@
     "group_name": ""
   },
   {
+    "uid": 1585264891,
+    "name": "檀玖tan",
+    "type": "vtuber",
+    "room": 23465572,
+    "face": "/bfs/face/dc3b6055cb1c0b68f1eabc54024f341b13bf09ee.jpg",
+    "sign": "杂谈整活乐器系个鼠势清楚鼠包。梦想是世界和平。一般在早上八点半啵啵。 录播：檀玖tan录播组 ",
+    "group_name": ""
+  },
+  {
     "uid": 1187226603,
     "name": "檸檬誘",
     "type": "vtuber",
@@ -27382,7 +27472,7 @@
     "name": "正直少年李发卡",
     "type": "vtuber",
     "room": 2444178,
-    "face": "/bfs/face/ab0db809e13efdbd127c6b275ef8432c1a392162.jpg",
+    "face": "/bfs/face/d5b69c37cb0b1a300ffa09660b2f8fdcdefb2826.jpg",
     "sign": "微博@李艺彤 兴趣是翻唱！是喜欢小裙子的月球人~",
     "group_name": ""
   },
@@ -28912,7 +29002,7 @@
     "name": "海离Channel",
     "type": "vtuber",
     "room": 449047,
-    "face": "/bfs/face/2ab444705f383aa8ef18273e1625d073501797a0.jpg",
+    "face": "/bfs/face/82b002c4de735f969177ff3bd4161d23ee725d57.jpg",
     "sign": "也可以叫我离子/个人势战斗系VUP 喜欢开载具/DD/开发者/纸片人计划/直播间449047/摸鱼ing",
     "group_name": ""
   },
@@ -29543,7 +29633,7 @@
     "type": "vtuber",
     "room": 9170973,
     "face": "/bfs/face/71ca512dfa1c458954e7e934749e33a7478b8861.jpg",
-    "sign": "",
+    "sign": "爱发店/网一云/豆音 同名\n",
     "group_name": ""
   },
   {
@@ -29975,7 +30065,7 @@
     "type": "vtuber",
     "room": 24471858,
     "face": "/bfs/face/628126b6ee17da2cc49341329db3689bb973539b.jpg",
-    "sign": "每天晚9点播，不看私信，视频只做自己喜欢的内容喵❤\n“要敢和生活顶撞 敢在逆境里撒野 直面生活的污水 永远乐意为了新的一轮月亮和日落欢呼”❤",
+    "sign": "“说什么呢 你能健康活着就已经很好了”❤",
     "group_name": ""
   },
   {
@@ -30047,7 +30137,7 @@
     "type": "vtuber",
     "room": 8816397,
     "face": "/bfs/face/47eb8fe3fb46309173b515254ed687bcbb536430.jpg",
-    "sign": "我的故乡是小熊星 那里很暖和  没有夜晚和分离 我想说的都已说完了 其余是秘密",
+    "sign": "我的故乡是小熊星 那里很暖和  没有夜晚和分离",
     "group_name": ""
   },
   {
@@ -32679,6 +32769,15 @@
     "group_name": ""
   },
   {
+    "uid": 3461570877197190,
+    "name": "白果Shiroka",
+    "type": "vtuber",
+    "room": 26013678,
+    "face": "/bfs/face/9fbee7a1da04761aa09ebe50745de4dab7f6a567.jpg",
+    "sign": "Zephyr所属歌势，麻辣兔头试播中﻿！直播内容以歌回、杂谈为主，喜欢唱歌、弹琴、打游戏、配音~欢迎入群rua兔子捏：752408121",
+    "group_name": "Zephyr-风泠社"
+  },
+  {
     "uid": 1516482,
     "name": "白桃Shirako",
     "type": "vtuber",
@@ -33696,6 +33795,15 @@
     "group_name": ""
   },
   {
+    "uid": 17206435,
+    "name": "真白梨柚",
+    "type": "vtuber",
+    "room": 27131086,
+    "face": "/bfs/face/0ab34400bfafac48ba3800749b904c7aa11e330b.jpg",
+    "sign": "「虚拟偶像企划StarDust所属」来陪梨柚一起探险吧！\n梨园门牌号：748325416 ～一起来玩呀！\n画师妈妈：@_真名_",
+    "group_name": "StarDust星云社"
+  },
+  {
     "uid": 112469835,
     "name": "真白的灵异事件簿",
     "type": "vtuber",
@@ -33909,6 +34017,15 @@
     "room": 21678586,
     "face": "/bfs/face/25cc00442a5cc98b32964ef96bde637d0c2cc6e0.jpg",
     "sign": "直播时间为平日晚上9点！  私信有空的话会回喔！  粉丝群710119541（需点亮粉丝牌）",
+    "group_name": ""
+  },
+  {
+    "uid": 3493111426714457,
+    "name": "知慧ChihHui",
+    "type": "vtuber",
+    "room": 27068412,
+    "face": "/bfs/face/6de4491953ea856f21fa8d92a2f6dec9ee34086a.jpg",
+    "sign": "觅我知音，候君慧听ξ( ✿＞◡❛)\n录播和唱歌切片请关注https://space.bilibili.com/545210881知慧的蔷薇园",
     "group_name": ""
   },
   {
@@ -36126,6 +36243,15 @@
     "group_name": ""
   },
   {
+    "uid": 1129001360,
+    "name": "纪星娴tsuki",
+    "type": "vtuber",
+    "room": 26013717,
+    "face": "/bfs/face/a8abbf17e33e5a218b9f30e2acf0bc734d29d83f.jpg",
+    "sign": "Zephyr所属杂谈&游戏势！喜欢各种各样亮闪闪的东西！在寻遍世间珍宝后与大家相遇！一起变得闪闪发光吧！粉丝群号：686011759",
+    "group_name": "Zephyr-风泠社"
+  },
+  {
     "uid": 3461576189282324,
     "name": "纱依shayi",
     "type": "vtuber",
@@ -37204,6 +37330,15 @@
     "face": "/bfs/face/64e58be10c6874756ec267fce1fe3eeb52d9c08c.jpg",
     "sign": "个人势，0.5歌势，随缘直播，真的非常谢谢大家的喜欢 录播组：八里山项目组  切片：ヤッホー_肆Hinata哟",
     "group_name": "星研社"
+  },
+  {
+    "uid": 630942745,
+    "name": "肉包子-可乐冠名",
+    "type": "vtuber",
+    "room": 23031717,
+    "face": "/bfs/face/f0d93f6ace9376ee52b3e7d89bb85be7425e8bae.jpg",
+    "sign": "不是你太无情 是我太无趣了",
+    "group_name": ""
   },
   {
     "uid": 221725397,
@@ -44572,7 +44707,7 @@
     "name": "雪铃-Channel",
     "type": "vtuber",
     "room": 23904713,
-    "face": "/bfs/face/bc2378afa225c4ff27e488db1ccc6f7b5633115f.jpg",
+    "face": "/bfs/face/ddcf8b6cc1f8e86e6fd6d715a00222c74ac2585a.jpg",
     "sign": "是外星个人歌势！希望能唱更久的歌 也希望你能喜欢和开心⭐",
     "group_name": ""
   },
@@ -46087,6 +46222,15 @@
     "face": "/bfs/face/a11e30793983dcc15ab0051365d9607701e6801e.jpg",
     "sign": "魂喵科技所属吉祥物/来人间拯救大家的不开心/合作请注明来意QQ2124342319",
     "group_name": "魂喵Official"
+  },
+  {
+    "uid": 3493124712172000,
+    "name": "魈格Yezpi",
+    "type": "vtuber",
+    "room": 26941523,
+    "face": "/bfs/face/1b723a6ed9a5b27d23a75451b544296b5f901a93.jpg",
+    "sign": "个人势拼接纸片猴，攒钱做点有意思的小动画之类的吧！",
+    "group_name": ""
   },
   {
     "uid": 624252711,

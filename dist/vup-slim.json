@@ -911,6 +911,12 @@
     "room": 0,
     "group_name": ""
   },
+  "1993313": {
+    "name": "北燕Hokume",
+    "type": "vtuber",
+    "room": 4583886,
+    "group_name": ""
+  },
   "286700005": {
     "name": "hololive",
     "type": "group",
@@ -2861,6 +2867,12 @@
     "room": 10552040,
     "group_name": ""
   },
+  "1528165105": {
+    "name": "Zephyr-风泠社",
+    "type": "group",
+    "room": 0,
+    "group_name": ""
+  },
   "1592759": {
     "name": "Zimo菌今天开始养蚂蚁",
     "type": "vtuber",
@@ -4637,6 +4649,12 @@
     "room": 22256250,
     "group_name": ""
   },
+  "19986917": {
+    "name": "与枝老师",
+    "type": "vtuber",
+    "room": 24343457,
+    "group_name": "新月社FCrescent"
+  },
   "413303710": {
     "name": "与田姬official",
     "type": "vtuber",
@@ -5104,6 +5122,12 @@
     "type": "vtuber",
     "room": 22436811,
     "group_name": ""
+  },
+  "1384287229": {
+    "name": "云萝Kinoko",
+    "type": "vtuber",
+    "room": 25436017,
+    "group_name": "Zephyr-风泠社"
   },
   "1287031552": {
     "name": "云路翼Tsubasa",
@@ -7101,6 +7125,12 @@
     "name": "ツナシ_Tsunashi",
     "type": "vtuber",
     "room": 22804456,
+    "group_name": ""
+  },
+  "8713705": {
+    "name": "十七为何那样",
+    "type": "vtuber",
+    "room": 5129913,
     "group_name": ""
   },
   "433597809": {
@@ -9653,6 +9683,12 @@
     "room": 22543160,
     "group_name": "NIJISANJI"
   },
+  "177356192": {
+    "name": "夜雪千沫Channel",
+    "type": "vtuber",
+    "room": 8794116,
+    "group_name": ""
+  },
   "427061218": {
     "name": "夜霧Yogiri",
     "type": "vtuber",
@@ -10907,6 +10943,12 @@
     "room": 8389046,
     "group_name": "极光社"
   },
+  "11057151": {
+    "name": "安梦梦Dream",
+    "type": "vtuber",
+    "room": 3694811,
+    "group_name": ""
+  },
   "350838179": {
     "name": "安梦琪AmQ",
     "type": "vtuber",
@@ -11289,6 +11331,12 @@
     "name": "小夜子Sayoko_",
     "type": "vtuber",
     "room": 24344580,
+    "group_name": ""
+  },
+  "3493089278691882": {
+    "name": "小夜歌Sayoka",
+    "type": "vtuber",
+    "room": 26708561,
     "group_name": ""
   },
   "1237746158": {
@@ -17177,6 +17225,12 @@
     "room": 24951279,
     "group_name": ""
   },
+  "1621973210": {
+    "name": "桃桃酸酪冰_发疯版",
+    "type": "vtuber",
+    "room": 22987471,
+    "group_name": ""
+  },
   "906279": {
     "name": "桃沢白夜Mmswhakuya",
     "type": "vtuber",
@@ -18171,6 +18225,12 @@
     "name": "橙子良夕_Channel",
     "type": "vtuber",
     "room": 410979,
+    "group_name": ""
+  },
+  "1585264891": {
+    "name": "檀玖tan",
+    "type": "vtuber",
+    "room": 23465572,
     "group_name": ""
   },
   "1187226603": {
@@ -21785,6 +21845,12 @@
     "room": 12552491,
     "group_name": ""
   },
+  "3461570877197190": {
+    "name": "白果Shiroka",
+    "type": "vtuber",
+    "room": 26013678,
+    "group_name": "Zephyr-风泠社"
+  },
   "1516482": {
     "name": "白桃Shirako",
     "type": "vtuber",
@@ -22463,6 +22529,12 @@
     "room": 0,
     "group_name": ""
   },
+  "17206435": {
+    "name": "真白梨柚",
+    "type": "vtuber",
+    "room": 27131086,
+    "group_name": "StarDust星云社"
+  },
   "112469835": {
     "name": "真白的灵异事件簿",
     "type": "vtuber",
@@ -22605,6 +22677,12 @@
     "name": "矢神水心Channel",
     "type": "vtuber",
     "room": 21678586,
+    "group_name": ""
+  },
+  "3493111426714457": {
+    "name": "知慧ChihHui",
+    "type": "vtuber",
+    "room": 27068412,
     "group_name": ""
   },
   "7780379": {
@@ -24083,6 +24161,12 @@
     "room": 22768399,
     "group_name": ""
   },
+  "1129001360": {
+    "name": "纪星娴tsuki",
+    "type": "vtuber",
+    "room": 26013717,
+    "group_name": "Zephyr-风泠社"
+  },
   "3461576189282324": {
     "name": "纱依shayi",
     "type": "vtuber",
@@ -24802,6 +24886,12 @@
     "type": "vtuber",
     "room": 892957,
     "group_name": "星研社"
+  },
+  "630942745": {
+    "name": "肉包子-可乐冠名",
+    "type": "vtuber",
+    "room": 23031717,
+    "group_name": ""
   },
   "221725397": {
     "name": "dpej_",
@@ -30724,6 +30814,12 @@
     "type": "vtuber",
     "room": 21768883,
     "group_name": "魂喵Official"
+  },
+  "3493124712172000": {
+    "name": "魈格Yezpi",
+    "type": "vtuber",
+    "room": 26941523,
+    "group_name": ""
   },
   "624252711": {
     "name": "魔乃阿萝耶Official",
