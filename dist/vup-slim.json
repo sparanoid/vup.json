@@ -1847,6 +1847,12 @@
     "room": 25878452,
     "group_name": "Palette"
   },
+  "3461566691280964": {
+    "name": "Para-dice",
+    "type": "group",
+    "room": 0,
+    "group_name": ""
+  },
   "1735111737": {
     "name": "Perciva珀西瓦",
     "type": "group",
@@ -5248,6 +5254,12 @@
     "type": "vtuber",
     "room": 21808786,
     "group_name": ""
+  },
+  "2070988100": {
+    "name": "亚岚_Yalan",
+    "type": "vtuber",
+    "room": 25939984,
+    "group_name": "Para-dice"
   },
   "419394449": {
     "name": "亚德Yard",
@@ -12605,6 +12617,12 @@
     "room": 757321,
     "group_name": "Lucca"
   },
+  "1630573996": {
+    "name": "幻想社Fantas1A",
+    "type": "group",
+    "room": 24955876,
+    "group_name": ""
+  },
   "432175033": {
     "name": "星野幻月",
     "type": "vtuber",
@@ -12784,6 +12802,12 @@
     "type": "vtuber",
     "room": 22675226,
     "group_name": "MZ次元"
+  },
+  "3493143091612045": {
+    "name": "库洛西娅Celosia",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "Para-dice"
   },
   "1306091103": {
     "name": "库若米Kuromi",
@@ -14032,6 +14056,12 @@
     "type": "vtuber",
     "room": 22463657,
     "group_name": ""
+  },
+  "3461571086911776": {
+    "name": "斯诺丽嘉_Snow",
+    "type": "vtuber",
+    "room": 26070590,
+    "group_name": "幻想社Fantas1A"
   },
   "1171565532": {
     "name": "新新社恐人",
@@ -25151,6 +25181,12 @@
     "room": 22936218,
     "group_name": ""
   },
+  "1594261331": {
+    "name": "艾梨尔Ariel",
+    "type": "vtuber",
+    "room": 25604832,
+    "group_name": ""
+  },
   "1189884570": {
     "name": "艾沐Official",
     "type": "vtuber",
@@ -27935,6 +27971,12 @@
     "room": 22800243,
     "group_name": ""
   },
+  "402110060": {
+    "name": "赫卡特_Hecate",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "Para-dice"
+  },
   "823547": {
     "name": "莱伯德",
     "type": "vtuber",
@@ -29331,6 +29373,12 @@
     "name": "阿蛙Kaeru",
     "type": "vtuber",
     "room": 954810,
+    "group_name": ""
+  },
+  "67343062": {
+    "name": "阿里鸭Alya",
+    "type": "vtuber",
+    "room": 2668595,
     "group_name": ""
   },
   "2222400": {

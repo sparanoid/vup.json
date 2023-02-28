@@ -2155,6 +2155,13 @@
     "face": "/bfs/face/6c99518423206ac4a65ef4901e949eecdbad6229.jpg",
     "group_name": "Palette"
   },
+  "3461566691280964": {
+    "name": "Para-dice",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/0dd473afbdc9f91e28fbe96539b97b391b75617f.jpg",
+    "group_name": ""
+  },
   "1735111737": {
     "name": "Perciva珀西瓦",
     "type": "group",
@@ -6123,6 +6130,13 @@
     "room": 21808786,
     "face": "/bfs/face/fc63de10a55d82d1d15b58dc1e675d6d20643bcf.jpg",
     "group_name": ""
+  },
+  "2070988100": {
+    "name": "亚岚_Yalan",
+    "type": "vtuber",
+    "room": 25939984,
+    "face": "/bfs/face/95fee9b0635f834a5fa4300d7aeb17d4e397f4bf.jpg",
+    "group_name": "Para-dice"
   },
   "419394449": {
     "name": "亚德Yard",
@@ -14706,6 +14720,13 @@
     "face": "/bfs/face/bb7b534200fcdeddf21b7ad592fb691e89ba32c4.jpg",
     "group_name": "Lucca"
   },
+  "1630573996": {
+    "name": "幻想社Fantas1A",
+    "type": "group",
+    "room": 24955876,
+    "face": "/bfs/face/60ebbf531416e68642d8c43971cdb966625c56ae.jpg",
+    "group_name": ""
+  },
   "432175033": {
     "name": "星野幻月",
     "type": "vtuber",
@@ -14915,6 +14936,13 @@
     "room": 22675226,
     "face": "/bfs/face/ff9651cefc3ef6d31ae9ae1c6c6379438404920f.jpg",
     "group_name": "MZ次元"
+  },
+  "3493143091612045": {
+    "name": "库洛西娅Celosia",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/216ab70eef02c1f2c7640f8b666b86925ff11d42.jpg",
+    "group_name": "Para-dice"
   },
   "1306091103": {
     "name": "库若米Kuromi",
@@ -16371,6 +16399,13 @@
     "room": 22463657,
     "face": "/bfs/face/118538ac982458e75f49a35924016584cd5ff24f.jpg",
     "group_name": ""
+  },
+  "3461571086911776": {
+    "name": "斯诺丽嘉_Snow",
+    "type": "vtuber",
+    "room": 26070590,
+    "face": "/bfs/face/cf7ca894ede228dbb5dc4ededd5476794ffb102e.jpg",
+    "group_name": "幻想社Fantas1A"
   },
   "1171565532": {
     "name": "新新社恐人",
@@ -29343,6 +29378,13 @@
     "face": "/bfs/face/f1efc88d099200ef547dc0ed47fce841e9e899a3.jpg",
     "group_name": ""
   },
+  "1594261331": {
+    "name": "艾梨尔Ariel",
+    "type": "vtuber",
+    "room": 25604832,
+    "face": "/bfs/face/fb1da1012497020d72d2de43501e55cf2ed9ccd2.jpg",
+    "group_name": ""
+  },
   "1189884570": {
     "name": "艾沐Official",
     "type": "vtuber",
@@ -32591,6 +32633,13 @@
     "face": "/bfs/face/78b9e404eac26d5be636216fcb4f5382376b949c.jpg",
     "group_name": ""
   },
+  "402110060": {
+    "name": "赫卡特_Hecate",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/369c02fcb5ac33e91b9ba73cafa4157e72ef402d.jpg",
+    "group_name": "Para-dice"
+  },
   "823547": {
     "name": "莱伯德",
     "type": "vtuber",
@@ -34220,6 +34269,13 @@
     "type": "vtuber",
     "room": 954810,
     "face": "/bfs/face/b7681624c04156b3d13275518514b3e4e458c56f.jpg",
+    "group_name": ""
+  },
+  "67343062": {
+    "name": "阿里鸭Alya",
+    "type": "vtuber",
+    "room": 2668595,
+    "face": "/bfs/face/794a3a73808e236dcde983552cdd6ddc5f40a50c.jpg",
     "group_name": ""
   },
   "2222400": {
