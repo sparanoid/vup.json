@@ -13208,6 +13208,13 @@
     "face": "/bfs/face/e35363d82a45b1fb669cd11d14c5448bb0f3efab.jpg",
     "group_name": ""
   },
+  "3493083628964730": {
+    "name": "小如饱",
+    "type": "vtuber",
+    "room": 26497444,
+    "face": "/bfs/face/d5c9441c0305e1f3392b80337de6164bd0550a8b.jpg",
+    "group_name": ""
+  },
   "1908808301": {
     "name": "小宝安奈Ana",
     "type": "vtuber",
@@ -27423,6 +27430,13 @@
     "type": "vtuber",
     "room": 345397,
     "face": "/bfs/face/32aea80b978e0fd720419114bcfb018369f8b44e.jpg",
+    "group_name": ""
+  },
+  "1545319815": {
+    "name": "笨蛋小姐很奇怪",
+    "type": "vtuber",
+    "room": 25590529,
+    "face": "/bfs/face/36f0f59d35c847fc388166cae507644140ec177e.jpg",
     "group_name": ""
   },
   "701041148": {
