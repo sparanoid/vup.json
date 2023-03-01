@@ -13095,15 +13095,6 @@
     "group_name": ""
   },
   {
-    "uid": 1836495,
-    "name": "喵奈nyanago尾巴超大",
-    "type": "vtuber",
-    "room": 102153,
-    "face": "/bfs/face/fa30a362344b725cac4b5cb91e0e1275d14e53cd.jpg",
-    "sign": "愿你有一天，能和你最重要的人相逢\n✨此后如竟没有炬火，我便是唯一的光✨",
-    "group_name": "kenlos"
-  },
-  {
     "uid": 517318139,
     "name": "喵子Nya_Official",
     "type": "vtuber",
@@ -16584,6 +16575,15 @@
     "room": 1676221,
     "face": "/bfs/face/8de0d4cc0ccae1e968eefc79b5601bf9eb4e7e11.jpg",
     "sign": "来自日本的孤独风中一匹狼。微博:宫崎壮玄",
+    "group_name": ""
+  },
+  {
+    "uid": 1050518108,
+    "name": "宫心绘梨奈",
+    "type": "vtuber",
+    "room": 26730839,
+    "face": "/bfs/face/94fd8134b9aba1b7c6934e4e03093d319ddac3a8.jpg",
+    "sign": "心软的猎手为了寻找躲在人类世界的超级小熊猫，成为爱与正义的化身，角落里等待天选之人守护的小熊猫正在哭泣着",
     "group_name": ""
   },
   {
@@ -29679,6 +29679,15 @@
     "room": 21722071,
     "face": "/bfs/face/0118f9a835dd7c20e6e8c698067551ab01cf6ab6.jpg",
     "sign": "已毕业",
+    "group_name": ""
+  },
+  {
+    "uid": 3493094221678918,
+    "name": "澪月Zero",
+    "type": "vtuber",
+    "room": 26761425,
+    "face": "/bfs/face/f88b56e78c0d0ec5fc334a677d3fab6cba0c560e.jpg",
+    "sign": "堪称完美的天才救援现在已经开始，来和我并肩作战吧！保持可爱才是天才行为，这就是本小姐的可爱方程式！Zero咖啡馆地点：636440435",
     "group_name": ""
   },
   {

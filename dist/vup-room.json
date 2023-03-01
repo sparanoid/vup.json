@@ -10184,13 +10184,6 @@
     "face": "/bfs/face/05891e710f2a519275575ed686892b148e07e4ce.jpg",
     "group_name": ""
   },
-  "1836495": {
-    "name": "喵奈nyanago尾巴超大",
-    "type": "vtuber",
-    "room_id": 102153,
-    "face": "/bfs/face/fa30a362344b725cac4b5cb91e0e1275d14e53cd.jpg",
-    "group_name": "kenlos"
-  },
   "517318139": {
     "name": "喵子Nya_Official",
     "type": "vtuber",
@@ -12898,6 +12891,13 @@
     "type": "vtuber",
     "room_id": 1676221,
     "face": "/bfs/face/8de0d4cc0ccae1e968eefc79b5601bf9eb4e7e11.jpg",
+    "group_name": ""
+  },
+  "1050518108": {
+    "name": "宫心绘梨奈",
+    "type": "vtuber",
+    "room_id": 26730839,
+    "face": "/bfs/face/94fd8134b9aba1b7c6934e4e03093d319ddac3a8.jpg",
     "group_name": ""
   },
   "1319467": {
@@ -23083,6 +23083,13 @@
     "type": "vtuber",
     "room_id": 21722071,
     "face": "/bfs/face/0118f9a835dd7c20e6e8c698067551ab01cf6ab6.jpg",
+    "group_name": ""
+  },
+  "3493094221678918": {
+    "name": "澪月Zero",
+    "type": "vtuber",
+    "room_id": 26761425,
+    "face": "/bfs/face/f88b56e78c0d0ec5fc334a677d3fab6cba0c560e.jpg",
     "group_name": ""
   },
   "3358737": {

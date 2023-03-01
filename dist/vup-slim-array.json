@@ -10185,13 +10185,6 @@
     "group_name": ""
   },
   {
-    "uid": 1836495,
-    "name": "喵奈nyanago尾巴超大",
-    "type": "vtuber",
-    "room": 102153,
-    "group_name": "kenlos"
-  },
-  {
     "uid": 517318139,
     "name": "喵子Nya_Official",
     "type": "vtuber",
@@ -12898,6 +12891,13 @@
     "name": "虚拟宫宫Official",
     "type": "vtuber",
     "room": 1676221,
+    "group_name": ""
+  },
+  {
+    "uid": 1050518108,
+    "name": "宫心绘梨奈",
+    "type": "vtuber",
+    "room": 26730839,
     "group_name": ""
   },
   {
@@ -23083,6 +23083,13 @@
     "name": "澪Official",
     "type": "vtuber",
     "room": 21722071,
+    "group_name": ""
+  },
+  {
+    "uid": 3493094221678918,
+    "name": "澪月Zero",
+    "type": "vtuber",
+    "room": 26761425,
     "group_name": ""
   },
   {
