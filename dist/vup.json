@@ -2505,13 +2505,6 @@
     "face": "/bfs/face/3cb92155399d7d5aa5ef2cf4408e8f3eeb57d3ee.jpg",
     "group_name": "Antinomy13"
   },
-  "2529253": {
-    "name": "天城凉_RyoAmagi",
-    "type": "vtuber",
-    "room": 5327835,
-    "face": "/bfs/face/f7a2fe4bd267fab108c1eeba149fd27ff1e85433.jpg",
-    "group_name": ""
-  },
   "1217141241": {
     "name": "RyumaChannel",
     "type": "vtuber",
@@ -2805,13 +2798,6 @@
     "room": 1081541,
     "face": "/bfs/face/ba6e8b83c19c7b2393d58625513b1d1e364c2366.jpg",
     "group_name": ""
-  },
-  "93690833": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": "月光社"
   },
   "29371864": {
     "name": "TTT酱_",
@@ -3966,13 +3952,6 @@
     "type": "vtuber",
     "room": 449396,
     "face": "/bfs/face/e7447df5366b44d545a7fd212599a40fa84d4ea8.jpg",
-    "group_name": ""
-  },
-  "175056": {
-    "name": "yakko暗影",
-    "type": "vtuber",
-    "room": 653286,
-    "face": "/bfs/face/2428676e7b1d3aac13b276fa9a5226720e607b7b.jpg",
     "group_name": ""
   },
   "448651815": {
@@ -5256,13 +5235,6 @@
     "face": "/bfs/face/33024e0bed308a0ab6bb1a0396020ae21f7f9a2c.jpg",
     "group_name": ""
   },
-  "1220672487": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25545201,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "23719713": {
     "name": "三花酱-Official",
     "type": "vtuber",
@@ -5709,13 +5681,6 @@
     "type": "vtuber",
     "room": 79477,
     "face": "/bfs/face/c7552ea73e3d1c3403b1f0e8e700ebfc71b06f97.jpg",
-    "group_name": ""
-  },
-  "18157666": {
-    "name": "恶斗露Nai",
-    "type": "vtuber",
-    "room": 307697,
-    "face": "/bfs/face/41d13135e04c8eaa4f5253fe3d97c3d385edffd8.jpg",
     "group_name": ""
   },
   "483231": {
@@ -9120,13 +9085,6 @@
     "face": "/bfs/face/f24b5bfd6bf333799e5836f5405b0eea48fdd0ad.jpg",
     "group_name": ""
   },
-  "81552504": {
-    "name": "原味奶介呀_",
-    "type": "vtuber",
-    "room": 3248270,
-    "face": "/bfs/face/ef17216a164a3cb9cbb1f8d738f9fab1969e4227.jpg",
-    "group_name": ""
-  },
   "1453221585": {
     "name": "原野牟牟Mumu",
     "type": "vtuber",
@@ -9454,13 +9412,6 @@
     "type": "vtuber",
     "room": 480865,
     "face": "/bfs/face/0dba1a41c3b1b4755317481495e9b26234b96526.jpg",
-    "group_name": ""
-  },
-  "151207919": {
-    "name": "糖糖不想说话了",
-    "type": "vtuber",
-    "room": 21662772,
-    "face": "/bfs/face/84382fa88368401e585ea10d05c00d769587c141.jpg",
     "group_name": ""
   },
   "24970050": {
@@ -10456,13 +10407,6 @@
     "room": 23146906,
     "face": "/bfs/face/cd1fe10bc34d2ef616b5986a0d5bdb860769baf8.jpg",
     "group_name": "鸽鹉live"
-  },
-  "414827620": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 22257854,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
   },
   "686241472": {
     "name": "团小哈",
@@ -22413,13 +22357,6 @@
     "face": "/bfs/face/b7285cc5041d013ed6d389778e00a451b2dec5d1.jpg",
     "group_name": ""
   },
-  "470085432": {
-    "name": "派萝喵Official",
-    "type": "vtuber",
-    "room": 23128657,
-    "face": "/bfs/face/0458b11111084ff5ce0b071c92e9cd05a76a10b7.jpg",
-    "group_name": ""
-  },
   "3461574234736872": {
     "name": "流明汐奈",
     "type": "vtuber",
@@ -24232,13 +24169,6 @@
     "room": 22160846,
     "face": "/bfs/face/780ef11cda34d451a16281abe5e5cae30c571b99.jpg",
     "group_name": "MarbleCreators"
-  },
-  "379251305": {
-    "name": "猫猫罐头_",
-    "type": "vtuber",
-    "room": 14269939,
-    "face": "/bfs/face/a28f10fa6184fa2206975e9751b17fc7c56b3eed.jpg",
-    "group_name": ""
   },
   "689274741": {
     "name": "猫白ShiroNeko",
@@ -29063,13 +28993,6 @@
     "face": "/bfs/face/85cb6ad2bbeed9375867538d05de0fb81dd6f9e7.jpg",
     "group_name": "十万伏特SWIFT"
   },
-  "5866210": {
-    "name": "肆犬suki",
-    "type": "vtuber",
-    "room": 4480043,
-    "face": "/bfs/face/01852171bbaa522c2f313cf6e3da8c3438b3ed53.jpg",
-    "group_name": ""
-  },
   "679945": {
     "name": "肆肆_Official",
     "type": "vtuber",
@@ -31120,13 +31043,6 @@
     "room": 31634,
     "face": "/bfs/face/433eea200a2491d0dfc5bee95d41816ed2b0e0f4.jpg",
     "group_name": "Nameless Project"
-  },
-  "524101241": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 22499627,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
   },
   "492449182": {
     "name": "萨咩Same_Official",
@@ -36943,13 +36859,6 @@
     "type": "vtuber",
     "room": 409538,
     "face": "/bfs/face/f60c718c3cf42d30125ff4649f5b7f5548aabbac.jpg",
-    "group_name": ""
-  },
-  "81138841": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1895156": {
