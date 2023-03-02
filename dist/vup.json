@@ -9323,6 +9323,13 @@
     "face": "/bfs/face/4341e672ed05d501db49ee6c48f833e6d36883ce.jpg",
     "group_name": ""
   },
+  "3493076477676002": {
+    "name": "可烙_official",
+    "type": "vtuber",
+    "room": 26331930,
+    "face": "/bfs/face/212bafb7bf07e02211f8c660317b45c23a2bdcf1.jpg",
+    "group_name": ""
+  },
   "24924516": {
     "name": "可诺Kino",
     "type": "vtuber",
@@ -21718,6 +21725,13 @@
     "type": "vtuber",
     "room": 28655,
     "face": "/bfs/face/7d07c1a7e14e7aaa09cf5b76d0d725fb601a54c1.jpg",
+    "group_name": ""
+  },
+  "3493122277379029": {
+    "name": "汐汎_official",
+    "type": "vtuber",
+    "room": 26905152,
+    "face": "/bfs/face/6b43bcf5d7c372736543cb6f79e431f24a786cb7.jpg",
     "group_name": ""
   },
   "1623136625": {
