@@ -18,15 +18,6 @@
     "group_name": ""
   },
   {
-    "uid": 506184344,
-    "name": "超级小奈喵-",
-    "type": "vtuber",
-    "room": 24885893,
-    "face": "/bfs/face/4fbd4bb664cc45360e2f77d05627c38780a92057.jpg",
-    "sign": "一只宅猫猫 超乖～",
-    "group_name": ""
-  },
-  {
     "uid": 356113776,
     "name": "-晚风铃-",
     "type": "vtuber",
@@ -439,24 +430,6 @@
     "face": "/bfs/face/54055d699a9ef24168ba6a76d5cfce78cb152807.jpg",
     "sign": "Palette Project Official / パレプロ / ",
     "group_name": ""
-  },
-  {
-    "uid": 401817833,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21498255,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
-  {
-    "uid": 317479031,
-    "name": "阿雨Ameko",
-    "type": "vtuber",
-    "room": 23556402,
-    "face": "/bfs/face/df28cff11147c228678b24cf8786a480f7068ea7.jpg",
-    "sign": "隶属cesirelive，或许…你想听点歌吗？\n直播通知群：851932914\n",
-    "group_name": "cesirelive"
   },
   {
     "uid": 2903285,
@@ -1791,15 +1764,6 @@
     "group_name": ""
   },
   {
-    "uid": 400128632,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25300582,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
-  {
     "uid": 423443185,
     "name": "萝贝利亚",
     "type": "vtuber",
@@ -1935,15 +1899,6 @@
     "group_name": ""
   },
   {
-    "uid": 1975905323,
-    "name": "MO4莫哟莫哟_Official",
-    "type": "vtuber",
-    "room": 23738561,
-    "face": "/bfs/face/890b613f4f52da462479ac0d79cb0c5bc69ee4b7.jpg",
-    "sign": "我叫莫哟莫哟哦！新人虚拟主播莫哟～！",
-    "group_name": ""
-  },
-  {
     "uid": 6189012,
     "name": "MOJIもら",
     "type": "vtuber",
@@ -2031,15 +1986,6 @@
     "room": 25576078,
     "face": "/bfs/face/21772639c8240e42e89209908363bbb54b24dd94.jpg",
     "sign": "NIJISANJI EN所属liver Maria Marionette的非公式搬运组",
-    "group_name": ""
-  },
-  {
-    "uid": 524460145,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26515937,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {
@@ -2158,15 +2104,6 @@
     "face": "/bfs/face/3a3e4f5b32a72453756bb710a60471fc74149880.jpg",
     "sign": "星巡学园的歌姬，大家要叫我「大姐姐」哦！每周五晚固定直播，其余时间不一定。官方粉丝群：1158774111",
     "group_name": "星巡学园"
-  },
-  {
-    "uid": 25362533,
-    "name": "MikoSix_账号已停用",
-    "type": "vtuber",
-    "room": 101797,
-    "face": "/bfs/face/adb8360e4eedeb5efa34017898b1fc23fd90c754.jpg",
-    "sign": "已从虚拟主播的身份毕业，该账号会作为留念保留，不再使用，感谢大家以来的支持，再见",
-    "group_name": "ChaosLiveSprout"
   },
   {
     "uid": 1841441900,
@@ -2907,22 +2844,13 @@
     "group_name": ""
   },
   {
-    "uid": 523494605,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": "樱满月虚拟社团"
-  },
-  {
     "uid": 129531,
     "name": "ProjectLupinus",
     "type": "unknown",
     "room": 474425,
     "face": "/bfs/face/b19dcfbda75cf5f2ed84501ff02cccfb2f077001.jpg",
     "sign": "Vliver事务所【Project Lupinus】的官方账号。联系邮箱：contact@virtualupinus.com",
-    "group_name": "樱满月虚拟社团"
+    "group_name": ""
   },
   {
     "uid": 622020997,
@@ -6165,15 +6093,6 @@
     "group_name": ""
   },
   {
-    "uid": 5683525,
-    "name": "温晚睡醒啦",
-    "type": "vtuber",
-    "room": 4336706,
-    "face": "/bfs/face/2d96177829ea3ffccb32ee533910e86dd7c34a3c.jpg",
-    "sign": "别忘掉你自己。",
-    "group_name": ""
-  },
-  {
     "uid": 627432065,
     "name": "一口吃掉粥粥",
     "type": "vtuber",
@@ -6648,15 +6567,6 @@
     "room": 23086860,
     "face": "/bfs/face/e97521ce379325d8c433ffd3eddd2335661c3589.jpg",
     "sign": "虚拟在校生❤️音乐爱好者",
-    "group_name": ""
-  },
-  {
-    "uid": 515237794,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {
@@ -7650,15 +7560,6 @@
     "group_name": ""
   },
   {
-    "uid": 108465779,
-    "name": "我不是云筱Kumo",
-    "type": "vtuber",
-    "room": 8338616,
-    "face": "/bfs/face/27dab0d52ac02908dc52585fb1b10940eaa5721b.jpg",
-    "sign": "个人势17岁女高中生vup 游戏天才\n杂谈/歌姬养成中･ 老父亲@千叶暮水寻\n录播@云筱_kumo录播姬 欢迎贴贴: 662677768",
-    "group_name": ""
-  },
-  {
     "uid": 432253466,
     "name": "云茹Ziena-Official",
     "type": "vtuber",
@@ -8323,15 +8224,6 @@
     "face": "/bfs/face/945b713ba1b6cec236d817d481c28a6842453ac8.jpg",
     "sign": "psplive所属✨从天而降的恶龙，努力打工还债中✨禁言通知群：261842958",
     "group_name": "P-SP"
-  },
-  {
-    "uid": 36403332,
-    "name": "伊露露大魔王",
-    "type": "vtuber",
-    "room": 4909229,
-    "face": "/bfs/face/befd82f413b9e97d6815810fc2eb830b8b9492b1.jpg",
-    "sign": "恶役大小姐。梦想是成为世界第一大魔王！每晚七点直播！直播通知群：595421840。",
-    "group_name": ""
   },
   {
     "uid": 1542516095,
@@ -15544,10 +15436,10 @@
   },
   {
     "uid": 15033230,
-    "name": "给我一条老默鲨的鱼",
+    "name": "好想莫泥吉吉鸭",
     "type": "vtuber",
     "room": 22387943,
-    "face": "/bfs/face/35a9813312cd20c14c2add1dcb79c7033fdc644b.jpg",
+    "face": "/bfs/face/a21f28a64a65b54b5851a9ba204d35e10f83547c.jpg",
     "sign": "烂泥主播",
     "group_name": ""
   },

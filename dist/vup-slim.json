@@ -11,12 +11,6 @@
     "room": 23492749,
     "group_name": ""
   },
-  "506184344": {
-    "name": "超级小奈喵-",
-    "type": "vtuber",
-    "room": 24885893,
-    "group_name": ""
-  },
   "356113776": {
     "name": "-晚风铃-",
     "type": "vtuber",
@@ -292,18 +286,6 @@
     "type": "vtuber",
     "room": 0,
     "group_name": ""
-  },
-  "401817833": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21498255,
-    "group_name": ""
-  },
-  "317479031": {
-    "name": "阿雨Ameko",
-    "type": "vtuber",
-    "room": 23556402,
-    "group_name": "cesirelive"
   },
   "2903285": {
     "name": "Amy精一杯",
@@ -1193,12 +1175,6 @@
     "room": 23053137,
     "group_name": ""
   },
-  "400128632": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25300582,
-    "group_name": ""
-  },
   "423443185": {
     "name": "萝贝利亚",
     "type": "vtuber",
@@ -1289,12 +1265,6 @@
     "room": 5229,
     "group_name": ""
   },
-  "1975905323": {
-    "name": "MO4莫哟莫哟_Official",
-    "type": "vtuber",
-    "room": 23738561,
-    "group_name": ""
-  },
   "6189012": {
     "name": "MOJIもら",
     "type": "vtuber",
@@ -1353,12 +1323,6 @@
     "name": "Maria的玩具后宫",
     "type": "vtuber",
     "room": 25576078,
-    "group_name": ""
-  },
-  "524460145": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26515937,
     "group_name": ""
   },
   "455888811": {
@@ -1438,12 +1402,6 @@
     "type": "vtuber",
     "room": 22671728,
     "group_name": "星巡学园"
-  },
-  "25362533": {
-    "name": "MikoSix_账号已停用",
-    "type": "vtuber",
-    "room": 101797,
-    "group_name": "ChaosLiveSprout"
   },
   "1841441900": {
     "name": "Millie的地狱搏击馆",
@@ -1937,17 +1895,11 @@
     "room": 26020086,
     "group_name": ""
   },
-  "523494605": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": "樱满月虚拟社团"
-  },
   "129531": {
     "name": "ProjectLupinus",
     "type": "unknown",
     "room": 474425,
-    "group_name": "樱满月虚拟社团"
+    "group_name": ""
   },
   "622020997": {
     "name": "PL茶水间",
@@ -4109,12 +4061,6 @@
     "room": 14036102,
     "group_name": ""
   },
-  "5683525": {
-    "name": "温晚睡醒啦",
-    "type": "vtuber",
-    "room": 4336706,
-    "group_name": ""
-  },
   "627432065": {
     "name": "一口吃掉粥粥",
     "type": "vtuber",
@@ -4431,12 +4377,6 @@
     "name": "三宝iu",
     "type": "vtuber",
     "room": 23086860,
-    "group_name": ""
-  },
-  "515237794": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   "571841213": {
@@ -5099,12 +5039,6 @@
     "room": 22764086,
     "group_name": ""
   },
-  "108465779": {
-    "name": "我不是云筱Kumo",
-    "type": "vtuber",
-    "room": 8338616,
-    "group_name": ""
-  },
   "432253466": {
     "name": "云茹Ziena-Official",
     "type": "vtuber",
@@ -5548,12 +5482,6 @@
     "type": "vtuber",
     "room": 25971921,
     "group_name": "P-SP"
-  },
-  "36403332": {
-    "name": "伊露露大魔王",
-    "type": "vtuber",
-    "room": 4909229,
-    "group_name": ""
   },
   "1542516095": {
     "name": "伊舞Eve",
@@ -10362,7 +10290,7 @@
     "group_name": ""
   },
   "15033230": {
-    "name": "给我一条老默鲨的鱼",
+    "name": "好想莫泥吉吉鸭",
     "type": "vtuber",
     "room": 22387943,
     "group_name": ""

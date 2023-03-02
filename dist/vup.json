@@ -13,13 +13,6 @@
     "face": "/bfs/face/3551fcfd82f957d4c44ff33b8b7e8b31b9702a25.jpg",
     "group_name": ""
   },
-  "506184344": {
-    "name": "超级小奈喵-",
-    "type": "vtuber",
-    "room": 24885893,
-    "face": "/bfs/face/4fbd4bb664cc45360e2f77d05627c38780a92057.jpg",
-    "group_name": ""
-  },
   "356113776": {
     "name": "-晚风铃-",
     "type": "vtuber",
@@ -341,20 +334,6 @@
     "room": 0,
     "face": "/bfs/face/54055d699a9ef24168ba6a76d5cfce78cb152807.jpg",
     "group_name": ""
-  },
-  "401817833": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21498255,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  "317479031": {
-    "name": "阿雨Ameko",
-    "type": "vtuber",
-    "room": 23556402,
-    "face": "/bfs/face/df28cff11147c228678b24cf8786a480f7068ea7.jpg",
-    "group_name": "cesirelive"
   },
   "2903285": {
     "name": "Amy精一杯",
@@ -1392,13 +1371,6 @@
     "face": "/bfs/face/e165adfb87a181e2c8d1c954d7fa6c6ad21c2b33.jpg",
     "group_name": ""
   },
-  "400128632": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25300582,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "423443185": {
     "name": "萝贝利亚",
     "type": "vtuber",
@@ -1504,13 +1476,6 @@
     "face": "/bfs/face/3b831f158142ba94101076b457d48786f33815dc.jpg",
     "group_name": ""
   },
-  "1975905323": {
-    "name": "MO4莫哟莫哟_Official",
-    "type": "vtuber",
-    "room": 23738561,
-    "face": "/bfs/face/890b613f4f52da462479ac0d79cb0c5bc69ee4b7.jpg",
-    "group_name": ""
-  },
   "6189012": {
     "name": "MOJIもら",
     "type": "vtuber",
@@ -1579,13 +1544,6 @@
     "type": "vtuber",
     "room": 25576078,
     "face": "/bfs/face/21772639c8240e42e89209908363bbb54b24dd94.jpg",
-    "group_name": ""
-  },
-  "524460145": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26515937,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "455888811": {
@@ -1678,13 +1636,6 @@
     "room": 22671728,
     "face": "/bfs/face/3a3e4f5b32a72453756bb710a60471fc74149880.jpg",
     "group_name": "星巡学园"
-  },
-  "25362533": {
-    "name": "MikoSix_账号已停用",
-    "type": "vtuber",
-    "room": 101797,
-    "face": "/bfs/face/adb8360e4eedeb5efa34017898b1fc23fd90c754.jpg",
-    "group_name": "ChaosLiveSprout"
   },
   "1841441900": {
     "name": "Millie的地狱搏击馆",
@@ -2260,19 +2211,12 @@
     "face": "/bfs/face/90d0e888545b1717b8f5eab924a915b969018776.jpg",
     "group_name": ""
   },
-  "523494605": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": "樱满月虚拟社团"
-  },
   "129531": {
     "name": "ProjectLupinus",
     "type": "unknown",
     "room": 474425,
     "face": "/bfs/face/b19dcfbda75cf5f2ed84501ff02cccfb2f077001.jpg",
-    "group_name": "樱满月虚拟社团"
+    "group_name": ""
   },
   "622020997": {
     "name": "PL茶水间",
@@ -4794,13 +4738,6 @@
     "face": "/bfs/face/f58d47ee510036f7e2e238a7e6a5988f777f6148.jpg",
     "group_name": ""
   },
-  "5683525": {
-    "name": "温晚睡醒啦",
-    "type": "vtuber",
-    "room": 4336706,
-    "face": "/bfs/face/2d96177829ea3ffccb32ee533910e86dd7c34a3c.jpg",
-    "group_name": ""
-  },
   "627432065": {
     "name": "一口吃掉粥粥",
     "type": "vtuber",
@@ -5170,13 +5107,6 @@
     "type": "vtuber",
     "room": 23086860,
     "face": "/bfs/face/e97521ce379325d8c433ffd3eddd2335661c3589.jpg",
-    "group_name": ""
-  },
-  "515237794": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "571841213": {
@@ -5949,13 +5879,6 @@
     "face": "/bfs/face/e70f0a1153a3ca9911b66aebb3e3df4d07b0c5e4.jpg",
     "group_name": ""
   },
-  "108465779": {
-    "name": "我不是云筱Kumo",
-    "type": "vtuber",
-    "room": 8338616,
-    "face": "/bfs/face/27dab0d52ac02908dc52585fb1b10940eaa5721b.jpg",
-    "group_name": ""
-  },
   "432253466": {
     "name": "云茹Ziena-Official",
     "type": "vtuber",
@@ -6473,13 +6396,6 @@
     "room": 25971921,
     "face": "/bfs/face/945b713ba1b6cec236d817d481c28a6842453ac8.jpg",
     "group_name": "P-SP"
-  },
-  "36403332": {
-    "name": "伊露露大魔王",
-    "type": "vtuber",
-    "room": 4909229,
-    "face": "/bfs/face/befd82f413b9e97d6815810fc2eb830b8b9492b1.jpg",
-    "group_name": ""
   },
   "1542516095": {
     "name": "伊舞Eve",
@@ -12089,10 +12005,10 @@
     "group_name": ""
   },
   "15033230": {
-    "name": "给我一条老默鲨的鱼",
+    "name": "好想莫泥吉吉鸭",
     "type": "vtuber",
     "room": 22387943,
-    "face": "/bfs/face/35a9813312cd20c14c2add1dcb79c7033fdc644b.jpg",
+    "face": "/bfs/face/a21f28a64a65b54b5851a9ba204d35e10f83547c.jpg",
     "group_name": ""
   },
   "1028302812": {
