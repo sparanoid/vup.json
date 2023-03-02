@@ -1182,6 +1182,13 @@
     "face": "/bfs/face/55c44c8fdf515eec7681ef52754cb0cdd757d94a.jpg",
     "group_name": ""
   },
+  "500037010": {
+    "name": "Jucy是个小趴菜",
+    "type": "vtuber",
+    "room": 26599245,
+    "face": "/bfs/face/2255fa8c763539153f652912e57935d67a7329dc.jpg",
+    "group_name": ""
+  },
   "1413880763": {
     "name": "伊奥丝_Eos",
     "type": "vtuber",
@@ -5690,6 +5697,13 @@
     "face": "/bfs/face/434507ae5f497912f06ff737211e7c92add50c84.jpg",
     "group_name": "超次元学院"
   },
+  "3493090694269186": {
+    "name": "乐悦_official",
+    "type": "vtuber",
+    "room": 26761628,
+    "face": "/bfs/face/3a7c8785fa2132b88e028ed10712f0c3eafa61ea.jpg",
+    "group_name": ""
+  },
   "544133342": {
     "name": "乔微微_Official",
     "type": "vtuber",
@@ -7039,6 +7053,13 @@
     "type": "vtuber",
     "room": 22727937,
     "face": "/bfs/face/37beabce6b2a3e84d86382dd27075e26fada21b7.jpg",
+    "group_name": ""
+  },
+  "1044308417": {
+    "name": "克拉尔Clare",
+    "type": "vtuber",
+    "room": 26649415,
+    "face": "/bfs/face/72430aa867e859dd343db359c43021b36f2f5c90.jpg",
     "group_name": ""
   },
   "501280": {
@@ -22459,7 +22480,7 @@
     "name": "浥昕sora",
     "type": "vtuber",
     "room": 5631165,
-    "face": "/bfs/face/fae52474dd938906028c4bb81326b463fc2d5a36.jpg",
+    "face": "/bfs/face/434e78306efbdcd5ef804e1b748f22af38212437.jpg",
     "group_name": ""
   },
   "668648017": {
@@ -35402,7 +35423,7 @@
     "name": "顾子韵_w",
     "type": "vtuber",
     "room": 437817,
-    "face": "/bfs/face/08d25f54100dfab6f6ede94164f5051d28ea144f.jpg",
+    "face": "/bfs/face/161327d9d84aca7414ede488b70674faf942fc82.jpg",
     "group_name": ""
   },
   "435936774": {
@@ -35420,7 +35441,7 @@
     "group_name": ""
   },
   "8558290": {
-    "name": "顾晓Knight丶",
+    "name": "顾晓Knight丶11号半周年",
     "type": "vtuber",
     "room": 22256275,
     "face": "/bfs/face/b84d4b008752ff47d23530158506bdb552ad2a51.jpg",

@@ -1521,6 +1521,15 @@
     "group_name": ""
   },
   {
+    "uid": 500037010,
+    "name": "Jucy是个小趴菜",
+    "type": "vtuber",
+    "room": 26599245,
+    "face": "/bfs/face/2255fa8c763539153f652912e57935d67a7329dc.jpg",
+    "sign": "jucy喝着juice，每天都在期待你的出现啊～",
+    "group_name": ""
+  },
+  {
     "uid": 1413880763,
     "name": "伊奥丝_Eos",
     "type": "vtuber",
@@ -7317,6 +7326,15 @@
     "group_name": "超次元学院"
   },
   {
+    "uid": 3493090694269186,
+    "name": "乐悦_official",
+    "type": "vtuber",
+    "room": 26761628,
+    "face": "/bfs/face/3a7c8785fa2132b88e028ed10712f0c3eafa61ea.jpg",
+    "sign": "不止于当电子宠物喵w\n更要成为最腻害滴偶像喲(^・x・^)！\n围脖@乐悦_official 蟹蟹喜欢～窝也最喜欢大家啦",
+    "group_name": ""
+  },
+  {
     "uid": 544133342,
     "name": "乔微微_Official",
     "type": "vtuber",
@@ -8789,7 +8807,7 @@
     "type": "vtuber",
     "room": 1930660,
     "face": "/bfs/face/19101ddf283c5d665479de8ecd7972e698e119c3.jpg",
-    "sign": "偶尔直播游戏的虚拟up主，希望大家看得开心！",
+    "sign": "偶尔会直播和做视频的随处可见的普通女孩子",
     "group_name": ""
   },
   {
@@ -9051,6 +9069,15 @@
     "room": 22727937,
     "face": "/bfs/face/37beabce6b2a3e84d86382dd27075e26fada21b7.jpg",
     "sign": "<ChaosLive·S>所属侦探双人组合\n欢迎来到Salem事务所，我们在这里等您很久了。",
+    "group_name": ""
+  },
+  {
+    "uid": 1044308417,
+    "name": "克拉尔Clare",
+    "type": "vtuber",
+    "room": 26649415,
+    "face": "/bfs/face/72430aa867e859dd343db359c43021b36f2f5c90.jpg",
+    "sign": "「变得可爱吧，用歌声传达绝赞的爱。」",
     "group_name": ""
   },
   {
@@ -13379,7 +13406,7 @@
     "type": "vtuber",
     "room": 22520319,
     "face": "/bfs/face/b2e87d1c1c4523bd7b3cf3b63744f241924cbfdf.jpg",
-    "sign": "EroS所属✨  腓腓爱撒娇，男，很吵。商务合作：eros264@163.com",
+    "sign": "EroS所属✨  杂谈势，商务合作：eros264@163.com",
     "group_name": "EroS"
   },
   {
@@ -13631,7 +13658,7 @@
     "type": "vtuber",
     "room": 22341130,
     "face": "/bfs/face/8559dc5222d7b2feb440d253db34f742453bbfc5.jpg",
-    "sign": "阿澈 要成为护盾电池的狐狸！",
+    "sign": "个人势狐狸！游戏力歌力都很差（）感谢关注！感谢投喂！",
     "group_name": ""
   },
   {
@@ -23792,7 +23819,7 @@
     "type": "vtuber",
     "room": 26826382,
     "face": "/bfs/face/b45e0df22204a70f461e36f4ab54227835634be7.jpg",
-    "sign": "个狼势，谢谢大家发现狼堡❤直播通知群：227865110",
+    "sign": "个狼势，深夜歌姬，谢谢大家发现狼堡❤直播通知群：227865110",
     "group_name": ""
   },
   {
@@ -26204,7 +26231,7 @@
     "type": "vtuber",
     "room": 22777350,
     "face": "/bfs/face/7063701c567dad45e23c7c676daa136a96e8f43e.jpg",
-    "sign": "个人势萌新Vup,是男v!邪神“星之彩”猫猫，主玩第五人格，曾A35使徒安，A77入殓师",
+    "sign": "个人势萌新Vup,是男v!邪神“星之彩”猫猫，主玩第五人格，A24使徒安，A77入殓师",
     "group_name": ""
   },
   {
@@ -28876,7 +28903,7 @@
     "name": "浥昕sora",
     "type": "vtuber",
     "room": 5631165,
-    "face": "/bfs/face/fae52474dd938906028c4bb81326b463fc2d5a36.jpg",
+    "face": "/bfs/face/434e78306efbdcd5ef804e1b748f22af38212437.jpg",
     "sign": "My life was a war that could never be won. ",
     "group_name": ""
   },
@@ -42332,7 +42359,7 @@
     "type": "vtuber",
     "room": 25062472,
     "face": "/bfs/face/7abf5283385d94dc99bcef4bf6c862360d9f1a68.jpg",
-    "sign": "",
+    "sign": "龍龍女兒勢，50艦解鎖偶像歌服",
     "group_name": ""
   },
   {
@@ -45517,7 +45544,7 @@
     "name": "顾子韵_w",
     "type": "vtuber",
     "room": 437817,
-    "face": "/bfs/face/08d25f54100dfab6f6ede94164f5051d28ea144f.jpg",
+    "face": "/bfs/face/161327d9d84aca7414ede488b70674faf942fc82.jpg",
     "sign": "个人势，想睡一整天，，微博@顾子韵_w  \n工作邮箱：yuuunnnn437817@163.com",
     "group_name": ""
   },
@@ -45541,7 +45568,7 @@
   },
   {
     "uid": 8558290,
-    "name": "顾晓Knight丶",
+    "name": "顾晓Knight丶11号半周年",
     "type": "vtuber",
     "room": 22256275,
     "face": "/bfs/face/b84d4b008752ff47d23530158506bdb552ad2a51.jpg",
