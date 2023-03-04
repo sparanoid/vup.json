@@ -4725,6 +4725,15 @@
     "group_name": "草莓王子"
   },
   {
+    "uid": 1124175567,
+    "name": "Neko贩卖机",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/3f330d45d7a3cabee66e55e86d2f331e7b2fc4e9.jpg",
+    "sign": "",
+    "group_name": ""
+  },
+  {
     "uid": 400484164,
     "name": "nijiirohirari",
     "type": "vtuber",
@@ -20565,6 +20574,15 @@
     "group_name": ""
   },
   {
+    "uid": 1078707962,
+    "name": "摩尔钠Miner",
+    "type": "vtuber",
+    "room": 25475152,
+    "face": "/bfs/face/9125002bdb63a4e296e51282896742e96c794fa2.jpg",
+    "sign": "Neko贩卖机所属~",
+    "group_name": "neko贩卖机"
+  },
+  {
     "uid": 389052754,
     "name": "摩提_MoChi",
     "type": "vtuber",
@@ -25899,7 +25917,7 @@
     "room": 25386814,
     "face": "/bfs/face/deb9a6df7db43d53b4c7ce99a0808870fe2aa6ae.jpg",
     "sign": "Neko贩卖机所属~",
-    "group_name": ""
+    "group_name": "neko贩卖机"
   },
   {
     "uid": 7033120,
@@ -29601,6 +29619,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493110608825275,
+    "name": "烛雾Brume",
+    "type": "vtuber",
+    "room": 27121256,
+    "face": "/bfs/face/bc9db442f2b487df18bfaa98e356880c847e05c3.jpg",
+    "sign": "Neko贩卖机所属～作为一团雾，没脑子很正常的……对吧～",
+    "group_name": "neko贩卖机"
+  },
+  {
     "uid": 498305332,
     "name": "烛龙烛九阴Official",
     "type": "vtuber",
@@ -30100,7 +30127,7 @@
     "name": "犬川面面Miami",
     "type": "vtuber",
     "room": 23293581,
-    "face": "/bfs/face/99d0c0c333c66aeb196053a9f18a281f3ef5f65f.jpg",
+    "face": "/bfs/face/0778d372dc1bf7cb6197bc86691b9251cbd9ffba.jpg",
     "sign": "✧无公会无社团个人势小狗✧抓住我的手 ，一起去奔跑吧 ，直到说分别的那天。晚8点后开播❥",
     "group_name": ""
   },
@@ -31426,6 +31453,15 @@
     "face": "/bfs/face/fdb2205ee17ec8d2d42efaae073818d8c4ff6626.jpg",
     "sign": "虚拟艺人团体VirtuaReal成员，瑞娅Rhea。希望我的魔法能拨动你的心✨！合作请联系bd@vrp.live",
     "group_name": "VirtuaReal"
+  },
+  {
+    "uid": 475481230,
+    "name": "瑞希Roxie",
+    "type": "vtuber",
+    "room": 26743881,
+    "face": "/bfs/face/7c315e0ce5b850257c783133d36ce9c44e68f322.jpg",
+    "sign": "Neko贩卖机所属~ 录播指路@瑞希录播存放站",
+    "group_name": "neko贩卖机"
   },
   {
     "uid": 19618681,

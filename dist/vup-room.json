@@ -3674,6 +3674,13 @@
     "face": "/bfs/face/f033ae373d1b9871a3b832ba85674a82f005b4c7.jpg",
     "group_name": "草莓王子"
   },
+  "1124175567": {
+    "name": "Neko贩卖机",
+    "type": "group",
+    "room_id": 0,
+    "face": "/bfs/face/3f330d45d7a3cabee66e55e86d2f331e7b2fc4e9.jpg",
+    "group_name": ""
+  },
   "400484164": {
     "name": "nijiirohirari",
     "type": "vtuber",
@@ -15994,6 +16001,13 @@
     "face": "/bfs/face/41f7e866910ae9a9b53b81c8302ec23679c2d724.jpg",
     "group_name": ""
   },
+  "1078707962": {
+    "name": "摩尔钠Miner",
+    "type": "vtuber",
+    "room_id": 25475152,
+    "face": "/bfs/face/9125002bdb63a4e296e51282896742e96c794fa2.jpg",
+    "group_name": "neko贩卖机"
+  },
   "389052754": {
     "name": "摩提_MoChi",
     "type": "vtuber",
@@ -20143,7 +20157,7 @@
     "type": "vtuber",
     "room_id": 25386814,
     "face": "/bfs/face/deb9a6df7db43d53b4c7ce99a0808870fe2aa6ae.jpg",
-    "group_name": ""
+    "group_name": "neko贩卖机"
   },
   "7033120": {
     "name": "梦野ちじわ",
@@ -23022,6 +23036,13 @@
     "face": "/bfs/face/628126b6ee17da2cc49341329db3689bb973539b.jpg",
     "group_name": ""
   },
+  "3493110608825275": {
+    "name": "烛雾Brume",
+    "type": "vtuber",
+    "room_id": 27121256,
+    "face": "/bfs/face/bc9db442f2b487df18bfaa98e356880c847e05c3.jpg",
+    "group_name": "neko贩卖机"
+  },
   "498305332": {
     "name": "烛龙烛九阴Official",
     "type": "vtuber",
@@ -23411,7 +23432,7 @@
     "name": "犬川面面Miami",
     "type": "vtuber",
     "room_id": 23293581,
-    "face": "/bfs/face/99d0c0c333c66aeb196053a9f18a281f3ef5f65f.jpg",
+    "face": "/bfs/face/0778d372dc1bf7cb6197bc86691b9251cbd9ffba.jpg",
     "group_name": ""
   },
   "1795978925": {
@@ -24442,6 +24463,13 @@
     "room_id": 23260993,
     "face": "/bfs/face/fdb2205ee17ec8d2d42efaae073818d8c4ff6626.jpg",
     "group_name": "VirtuaReal"
+  },
+  "475481230": {
+    "name": "瑞希Roxie",
+    "type": "vtuber",
+    "room_id": 26743881,
+    "face": "/bfs/face/7c315e0ce5b850257c783133d36ce9c44e68f322.jpg",
+    "group_name": "neko贩卖机"
   },
   "19618681": {
     "name": "唐景泽taku",

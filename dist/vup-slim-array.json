@@ -3675,6 +3675,13 @@
     "group_name": "草莓王子"
   },
   {
+    "uid": 1124175567,
+    "name": "Neko贩卖机",
+    "type": "group",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 400484164,
     "name": "nijiirohirari",
     "type": "vtuber",
@@ -15995,6 +16002,13 @@
     "group_name": ""
   },
   {
+    "uid": 1078707962,
+    "name": "摩尔钠Miner",
+    "type": "vtuber",
+    "room": 25475152,
+    "group_name": "neko贩卖机"
+  },
+  {
     "uid": 389052754,
     "name": "摩提_MoChi",
     "type": "vtuber",
@@ -20143,7 +20157,7 @@
     "name": "梦野Ayanna",
     "type": "vtuber",
     "room": 25386814,
-    "group_name": ""
+    "group_name": "neko贩卖机"
   },
   {
     "uid": 7033120,
@@ -23023,6 +23037,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493110608825275,
+    "name": "烛雾Brume",
+    "type": "vtuber",
+    "room": 27121256,
+    "group_name": "neko贩卖机"
+  },
+  {
     "uid": 498305332,
     "name": "烛龙烛九阴Official",
     "type": "vtuber",
@@ -24442,6 +24463,13 @@
     "type": "vtuber",
     "room": 23260993,
     "group_name": "VirtuaReal"
+  },
+  {
+    "uid": 475481230,
+    "name": "瑞希Roxie",
+    "type": "vtuber",
+    "room": 26743881,
+    "group_name": "neko贩卖机"
   },
   {
     "uid": 19618681,
