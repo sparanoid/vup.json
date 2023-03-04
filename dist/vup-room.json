@@ -2537,7 +2537,7 @@
     "name": "Sawako碎花子",
     "type": "vtuber",
     "room_id": 3649650,
-    "face": "/bfs/face/35045cb4bdd0085755aff03d7c961299c4ba401a.jpg",
+    "face": "/bfs/face/ed17bd2582dd17246d41c902c7b9037bfb486a02.jpg",
     "group_name": ""
   },
   "409631607": {
@@ -5953,7 +5953,7 @@
     "name": "五十岚Lucain",
     "type": "vtuber",
     "room_id": 12318856,
-    "face": "/bfs/face/3a339edb57fbfa7d40618ac79f1080b69ae3bd2e.jpg",
+    "face": "/bfs/face/26472653ae7a1b11ce93da3865bbf97daf6613a5.jpg",
     "group_name": "ChaosLiveSprout"
   },
   "7388060": {
@@ -10104,7 +10104,7 @@
     "name": "喵波菈-bola",
     "type": "vtuber",
     "room_id": 23575177,
-    "face": "/bfs/face/63ca6f2911e374460046de9281d9f73737738cbe.jpg",
+    "face": "/bfs/face/67a5243145c9711f33f18f62c07bc2253377ef38.jpg",
     "group_name": ""
   },
   "846180": {
@@ -10962,7 +10962,7 @@
     "group_name": "VirtuaReal"
   },
   "1523623": {
-    "name": "紅荭纮虹讧叿红",
+    "name": "不吃人的红也",
     "type": "vtuber",
     "room_id": 3668335,
     "face": "/bfs/face/080c8a9b6a53d458e2a23a93308bb56adb1879b9.jpg",
@@ -21261,7 +21261,7 @@
   "355810003": {
     "name": "水科葵搬运",
     "type": "unknown",
-    "room_id": 0,
+    "room_id": 13307515,
     "face": "/bfs/face/02bcc44c95501845b2d15c05ec03530706e0606d.jpg",
     "group_name": "ReAcT"
   },
@@ -25756,7 +25756,7 @@
     "name": "皮皮ぴ",
     "type": "vtuber",
     "room_id": 13231673,
-    "face": "/bfs/face/4afd26ac6139af453ecba3a4adac0c6a94b06403.jpg",
+    "face": "/bfs/face/6924c45135ebd479917af8992a3325e8e284630e.jpg",
     "group_name": ""
   },
   "1839110606": {
@@ -29627,7 +29627,7 @@
     "name": "花音璃",
     "type": "vtuber",
     "room_id": 26196781,
-    "face": "/bfs/face/ff3d09da8d9497effc1825f12f03c96744192b93.jpg",
+    "face": "/bfs/face/b001a25ded4a7169c62a40b65736648b01e77b8b.jpg",
     "group_name": "YOLO"
   },
   "1393211314": {
@@ -32599,7 +32599,7 @@
     "group_name": "Nature"
   },
   "11187227": {
-    "name": "铃月不熬夜Official",
+    "name": "铃月澪_Azlier",
     "type": "vtuber",
     "room_id": 12320762,
     "face": "/bfs/face/3bfccb681055d092ea935dda0e7dc2f1e26cc2a4.jpg",
@@ -36572,83 +36572,6 @@
     "type": "vtuber",
     "room_id": 22553112,
     "face": "/bfs/face/fcd3d96904ceebfefa1e497693342f6030ec8e3a.jpg",
-    "group_name": ""
-  },
-  "32472953": {
-    "name": "少女前线制作组",
-    "type": "unknown",
-    "room_id": 902593,
-    "face": "/bfs/face/667e4b1ca39300bff0672774f1980c02c2353b11.jpg",
-    "group_name": ""
-  },
-  "697654195": {
-    "name": "少女前线2-追放制作组",
-    "type": "unknown",
-    "room_id": 0,
-    "face": "/bfs/face/95f3873d78e10e5288f15246bbd7014155d9dd13.jpg",
-    "group_name": ""
-  },
-  "382651856": {
-    "name": "战双帕弥什",
-    "type": "unknown",
-    "room_id": 21242511,
-    "face": "/bfs/face/29d40886bc649fd2b81793c17077728820d411b6.jpg",
-    "group_name": ""
-  },
-  "1197454103": {
-    "name": "重返未来1999",
-    "type": "unknown",
-    "room_id": 0,
-    "face": "/bfs/face/6a1936d5cb5b315311fedbf2d4793c4d404cac83.jpg",
-    "group_name": ""
-  },
-  "471259688": {
-    "name": "深空之眼手游",
-    "type": "unknown",
-    "room_id": 23389262,
-    "face": "/bfs/face/813ddf1ff1076288566026dc521a38bd028576d5.jpg",
-    "group_name": ""
-  },
-  "1636034895": {
-    "name": "绝区零",
-    "type": "unknown",
-    "room_id": 0,
-    "face": "/bfs/face/049b47e0e73fc5cc1564343bb0aeacce8ae8e6f8.jpg",
-    "group_name": ""
-  },
-  "1340190821": {
-    "name": "崩坏星穹铁道",
-    "type": "unknown",
-    "room_id": 27263119,
-    "face": "/bfs/face/e76fc676b58f23c6bd9161723f12da00c7e051c5.jpg",
-    "group_name": ""
-  },
-  "401742377": {
-    "name": "原神",
-    "type": "unknown",
-    "room_id": 21987615,
-    "face": "/bfs/face/99a184d94d3737af802b3abbfe1ee51f458f83d8.jpg",
-    "group_name": ""
-  },
-  "161775300": {
-    "name": "明日方舟",
-    "type": "unknown",
-    "room_id": 5555734,
-    "face": "/bfs/face/d4005a0f9b898d8bb049caf9c6355f8e8f772a8f.jpg",
-    "group_name": ""
-  },
-  "27534330": {
-    "name": "崩坏3第一偶像爱酱",
-    "type": "unknown",
-    "room_id": 1319882,
-    "face": "/bfs/face/8c3166d57213a3349f63e19004ab38cfd76ba5b1.jpg",
-    "group_name": ""
-  },
-  "33605910": {
-    "name": "啵啵小狗341",
-    "type": "unknown",
-    "room_id": 2450440,
-    "face": "/bfs/face/8229576b7c3956be8725ef6575c27f6bb52295db.jpg",
     "group_name": ""
   }
 }

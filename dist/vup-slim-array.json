@@ -10963,7 +10963,7 @@
   },
   {
     "uid": 1523623,
-    "name": "紅荭纮虹讧叿红",
+    "name": "不吃人的红也",
     "type": "vtuber",
     "room": 3668335,
     "group_name": "Virtopia"
@@ -21262,7 +21262,7 @@
     "uid": 355810003,
     "name": "水科葵搬运",
     "type": "unknown",
-    "room": 0,
+    "room": 13307515,
     "group_name": "ReAcT"
   },
   {
@@ -32600,7 +32600,7 @@
   },
   {
     "uid": 11187227,
-    "name": "铃月不熬夜Official",
+    "name": "铃月澪_Azlier",
     "type": "vtuber",
     "room": 12320762,
     "group_name": ""
@@ -36572,83 +36572,6 @@
     "name": "龙野铃铃Rinrin",
     "type": "vtuber",
     "room": 22553112,
-    "group_name": ""
-  },
-  {
-    "uid": 32472953,
-    "name": "少女前线制作组",
-    "type": "unknown",
-    "room": 902593,
-    "group_name": ""
-  },
-  {
-    "uid": 697654195,
-    "name": "少女前线2-追放制作组",
-    "type": "unknown",
-    "room": 0,
-    "group_name": ""
-  },
-  {
-    "uid": 382651856,
-    "name": "战双帕弥什",
-    "type": "unknown",
-    "room": 21242511,
-    "group_name": ""
-  },
-  {
-    "uid": 1197454103,
-    "name": "重返未来1999",
-    "type": "unknown",
-    "room": 0,
-    "group_name": ""
-  },
-  {
-    "uid": 471259688,
-    "name": "深空之眼手游",
-    "type": "unknown",
-    "room": 23389262,
-    "group_name": ""
-  },
-  {
-    "uid": 1636034895,
-    "name": "绝区零",
-    "type": "unknown",
-    "room": 0,
-    "group_name": ""
-  },
-  {
-    "uid": 1340190821,
-    "name": "崩坏星穹铁道",
-    "type": "unknown",
-    "room": 27263119,
-    "group_name": ""
-  },
-  {
-    "uid": 401742377,
-    "name": "原神",
-    "type": "unknown",
-    "room": 21987615,
-    "group_name": ""
-  },
-  {
-    "uid": 161775300,
-    "name": "明日方舟",
-    "type": "unknown",
-    "room": 5555734,
-    "group_name": ""
-  },
-  {
-    "uid": 27534330,
-    "name": "崩坏3第一偶像爱酱",
-    "type": "unknown",
-    "room": 1319882,
-    "group_name": ""
-  },
-  {
-    "uid": 33605910,
-    "name": "啵啵小狗341",
-    "type": "unknown",
-    "room": 2450440,
     "group_name": ""
   }
 ]
