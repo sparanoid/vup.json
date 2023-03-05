@@ -28251,6 +28251,13 @@
     "face": "/bfs/face/947201c7131f27e564677d63528b9fc5e0df7924.jpg",
     "group_name": ""
   },
+  "549484731": {
+    "name": "缡迟Lichi",
+    "type": "vtuber",
+    "room_id": 24413802,
+    "face": "/bfs/face/ab5cf3e472055761d9a29365f2e35f652cfed706.jpg",
+    "group_name": ""
+  },
   "1685991705": {
     "name": "福莱莱不胡来Hoo",
     "type": "vtuber",
@@ -31183,6 +31190,13 @@
     "room_id": 22908657,
     "face": "/bfs/face/1dbc874eec8f6f412f3edb6dca170770e64ecb1f.jpg",
     "group_name": "虚研社"
+  },
+  "494024888": {
+    "name": "虞情-official-",
+    "type": "vtuber",
+    "room_id": 27037060,
+    "face": "/bfs/face/2c9be1ebdb6c0da144709cfa541ef1ca82fd55f9.jpg",
+    "group_name": ""
   },
   "1811071010": {
     "name": "虞莫MOMO",
