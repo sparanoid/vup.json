@@ -1729,6 +1729,13 @@
     "group_name": ""
   },
   {
+    "uid": 432062669,
+    "name": "MZM的秘密古堡",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 427623918,
     "name": "Moonlight木莱",
     "type": "vtuber",
@@ -8111,6 +8118,13 @@
     "type": "vtuber",
     "room": 109860,
     "group_name": "Vi-D"
+  },
+  {
+    "uid": 15202645,
+    "name": "包子脸三木MIKI",
+    "type": "vtuber",
+    "room": 3293867,
+    "group_name": ""
   },
   {
     "uid": 4893930,
@@ -21924,6 +21938,13 @@
     "group_name": ""
   },
   {
+    "uid": 1410501943,
+    "name": "泽因Zein",
+    "type": "vtuber",
+    "room": 26084831,
+    "group_name": ""
+  },
+  {
     "uid": 1521060322,
     "name": "泽拉茉娅Moya",
     "type": "vtuber",
@@ -31864,6 +31885,13 @@
     "group_name": "超V学园"
   },
   {
+    "uid": 245830447,
+    "name": "谁来给緋月ゆい建组啊",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 7179227,
     "name": "谢林的侦探事务所",
     "type": "vtuber",
@@ -32372,6 +32400,13 @@
     "name": "软桃桃_Official",
     "type": "vtuber",
     "room": 22627061,
+    "group_name": ""
+  },
+  {
+    "uid": 251159663,
+    "name": "软水水",
+    "type": "vtuber",
+    "room": 23199319,
     "group_name": ""
   },
   {
@@ -33528,6 +33563,13 @@
     "type": "vtuber",
     "room": 22729526,
     "group_name": "极光社"
+  },
+  {
+    "uid": 179300970,
+    "name": "阿姒Aisi",
+    "type": "vtuber",
+    "room": 24114685,
+    "group_name": ""
   },
   {
     "uid": 511613155,
