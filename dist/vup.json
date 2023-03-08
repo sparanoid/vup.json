@@ -13173,6 +13173,13 @@
     "face": "/bfs/face/f4e80c387edba8d3d5608d63d3f73b7680fbab39.jpg",
     "group_name": ""
   },
+  "2143861244": {
+    "name": "小日和酱Hiyori",
+    "type": "vtuber",
+    "room": 26709562,
+    "face": "/bfs/face/fbf770ee39d8d4a44a4977970126680bc3fad17b.jpg",
+    "group_name": ""
+  },
   "1095803401": {
     "name": "小春_Koharu",
     "type": "vtuber",
@@ -31420,6 +31427,13 @@
     "type": "vtuber",
     "room": 22341433,
     "face": "/bfs/face/e86513d916e0d6587a29d841632b854f32f92477.jpg",
+    "group_name": ""
+  },
+  "1328163065": {
+    "name": "蟹黄豆腐OuO",
+    "type": "vtuber",
+    "room": 24788285,
+    "face": "/bfs/face/9962c2cecc87ebb4f380b90168b5b690db18f8ea.jpg",
     "group_name": ""
   },
   "21292023": {
