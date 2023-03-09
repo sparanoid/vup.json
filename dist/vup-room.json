@@ -3527,6 +3527,13 @@
     "face": "/bfs/face/4d748c9cf1ceae7adc7bd5307ed5c4bdcd9f5107.jpg",
     "group_name": ""
   },
+  "3493119861459826": {
+    "name": "ittami",
+    "type": "vtuber",
+    "room_id": 26888829,
+    "face": "/bfs/face/7efe96872660aee5844ece84734ab21d7243f7d1.jpg",
+    "group_name": ""
+  },
   "607286": {
     "name": "i御十二",
     "type": "vtuber",
@@ -8733,6 +8740,13 @@
     "type": "vtuber",
     "room_id": 908654,
     "face": "/bfs/face/2ce47d47b56652114656a44a02155178ef9c8442.jpg",
+    "group_name": ""
+  },
+  "13431768": {
+    "name": "南宫弈天_Channel",
+    "type": "vtuber",
+    "room_id": 5766747,
+    "face": "/bfs/face/ae0a2cd485b5138f47c20453aafd2bee9fa3bf5f.jpg",
     "group_name": ""
   },
   "1359996": {
@@ -24583,6 +24597,13 @@
     "face": "/bfs/face/a62e78560b3d3f307313ba909e0f5079bbb349de.jpg",
     "group_name": "winks"
   },
+  "584128": {
+    "name": "瑟莱徳司",
+    "type": "vtuber",
+    "room_id": 3640716,
+    "face": "/bfs/face/843f8bd2a76db7e847176c5b31070bdcbd71fa19.jpg",
+    "group_name": ""
+  },
   "519874142": {
     "name": "瑟薇尔",
     "type": "vtuber",
@@ -29244,6 +29265,13 @@
     "room_id": 23465045,
     "face": "/bfs/face/01f986ad3e7b07fbcc98859e4436b208301bcd8c.jpg",
     "group_name": "NIJISANJI"
+  },
+  "8156542": {
+    "name": "芙蕾_Furei",
+    "type": "vtuber",
+    "room_id": 23058813,
+    "face": "/bfs/face/eb2c30b310e41ab7a23253ba6921565a57e053bb.jpg",
+    "group_name": ""
   },
   "10675863": {
     "name": "芜狐WUHU",

@@ -3023,6 +3023,12 @@
     "room": 2732949,
     "group_name": ""
   },
+  "3493119861459826": {
+    "name": "ittami",
+    "type": "vtuber",
+    "room": 26888829,
+    "group_name": ""
+  },
   "607286": {
     "name": "i御十二",
     "type": "vtuber",
@@ -7485,6 +7491,12 @@
     "name": "南宮凜子",
     "type": "vtuber",
     "room": 908654,
+    "group_name": ""
+  },
+  "13431768": {
+    "name": "南宫弈天_Channel",
+    "type": "vtuber",
+    "room": 5766747,
     "group_name": ""
   },
   "1359996": {
@@ -21071,6 +21083,12 @@
     "room": 21739927,
     "group_name": "winks"
   },
+  "584128": {
+    "name": "瑟莱徳司",
+    "type": "vtuber",
+    "room": 3640716,
+    "group_name": ""
+  },
   "519874142": {
     "name": "瑟薇尔",
     "type": "vtuber",
@@ -25066,6 +25084,12 @@
     "type": "vtuber",
     "room": 23465045,
     "group_name": "NIJISANJI"
+  },
+  "8156542": {
+    "name": "芙蕾_Furei",
+    "type": "vtuber",
+    "room": 23058813,
+    "group_name": ""
   },
   "10675863": {
     "name": "芜狐WUHU",
