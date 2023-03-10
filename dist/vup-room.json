@@ -762,6 +762,13 @@
     "face": "/bfs/face/8848841bce429ce72fb354e428a4a837a27b38fa.jpg",
     "group_name": ""
   },
+  "1639389144": {
+    "name": "ElevenOfficial_",
+    "type": "vtuber",
+    "room_id": 25896305,
+    "face": "/bfs/face/f5a7de9a6e32a6223ca0d0d41774e2d0298517f3.jpg",
+    "group_name": ""
+  },
   "345800862": {
     "name": "Elira的龙之宝库",
     "type": "vtuber",
@@ -8854,6 +8861,13 @@
     "face": "/bfs/face/b93ace0be1f4b73c730979fae83c2ce4ef004004.jpg",
     "group_name": ""
   },
+  "319111511": {
+    "name": "卡帕多西娅Docians",
+    "type": "vtuber",
+    "room_id": 26958531,
+    "face": "/bfs/face/e8e889a675bd284c0853331e03670a8d7fcf6cfc.jpg",
+    "group_name": ""
+  },
   "442769447": {
     "name": "卡恩马林娜罗德尼",
     "type": "vtuber",
@@ -9594,6 +9608,13 @@
     "type": "vtuber",
     "room_id": 21654496,
     "face": "/bfs/face/aa234266c133e06afd3da6b404bf805e953c5e24.jpg",
+    "group_name": ""
+  },
+  "450124086": {
+    "name": "呐呐Uni",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/04873bd11ced23bf8b96820d5501e1618cdffb0c.jpg",
     "group_name": ""
   },
   "107600": {
@@ -11799,6 +11820,13 @@
     "type": "vtuber",
     "room_id": 12054926,
     "face": "/bfs/face/b2e7e4215b10ad24d6cae86b8866bc6c1c0aad0b.jpg",
+    "group_name": ""
+  },
+  "3493125349706233": {
+    "name": "奈奈才不是地雷女",
+    "type": "vtuber",
+    "room_id": 27000783,
+    "face": "/bfs/face/79e4e9ad04dfb2fc99704e565d9f0ff9bfd91fef.jpg",
     "group_name": ""
   },
   "489146840": {
@@ -24779,6 +24807,13 @@
     "face": "/bfs/face/6d39e3b9d4091851101273b9fdf3fcda1ee5be74.jpg",
     "group_name": ""
   },
+  "19793760": {
+    "name": "甜悠",
+    "type": "vtuber",
+    "room_id": 1247459,
+    "face": "/bfs/face/ad19d143f08a954a4f89e3137d8a677e0d43bc7b.jpg",
+    "group_name": ""
+  },
   "19206708": {
     "name": "甜梨Official",
     "type": "vtuber",
@@ -30084,6 +30119,13 @@
     "room_id": 33942,
     "face": "/bfs/face/5e88c1269614d6c966f60bcdb147799da2f1eca0.jpg",
     "group_name": "VirtuaReal"
+  },
+  "1684973043": {
+    "name": "茶川甜恬",
+    "type": "vtuber",
+    "room_id": 24230971,
+    "face": "/bfs/face/97e30b29361a0b2f91d8963387290a87b5e482e1.jpg",
+    "group_name": ""
   },
   "1280313968": {
     "name": "茶泡饭Channel",
