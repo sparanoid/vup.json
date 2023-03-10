@@ -9894,7 +9894,7 @@
     "uid": 11673035,
     "name": "哎咿多工作室",
     "type": "group",
-    "room": 22784346,
+    "room": 0,
     "group_name": "哎咿多工作室"
   },
   {
@@ -12524,7 +12524,7 @@
   },
   {
     "uid": 12918458,
-    "name": "安奈るりChannel",
+    "name": "田所安奈先辈Channel",
     "type": "vtuber",
     "room": 4066032,
     "group_name": ""
@@ -36452,7 +36452,7 @@
     "uid": 532974,
     "name": "黑羽白夜Channel",
     "type": "vtuber",
-    "room": 3142220,
+    "room": 0,
     "group_name": ""
   },
   {

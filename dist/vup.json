@@ -9893,7 +9893,7 @@
   "11673035": {
     "name": "哎咿多工作室",
     "type": "group",
-    "room": 22784346,
+    "room": 0,
     "face": "/bfs/face/b34ae6c8434f16159403b0d19781331e04cf8ec0.jpg",
     "group_name": "哎咿多工作室"
   },
@@ -12523,10 +12523,10 @@
     "group_name": "VirtuaReal"
   },
   "12918458": {
-    "name": "安奈るりChannel",
+    "name": "田所安奈先辈Channel",
     "type": "vtuber",
     "room": 4066032,
-    "face": "/bfs/face/1203efc8d2042d763d26e36d142f2a6d1912f252.jpg",
+    "face": "/bfs/face/b4eb6d08d13e6b90060b6b56925df0709340a165.jpg",
     "group_name": ""
   },
   "3493134575077620": {
@@ -17699,7 +17699,7 @@
     "name": "春鹿村村",
     "type": "vtuber",
     "room": 23301030,
-    "face": "/bfs/face/5b3fa2edc1f2bb0c0754cc1e136dedd6ecf9b754.jpg",
+    "face": "/bfs/face/fb1869ca062aaa0d672960836df40a19cc38500b.jpg",
     "group_name": ""
   },
   "14280897": {
@@ -36451,7 +36451,7 @@
   "532974": {
     "name": "黑羽白夜Channel",
     "type": "vtuber",
-    "room": 3142220,
+    "room": 0,
     "face": "/bfs/face/371932fcc47938fc8a459b32619149f6b605d353.jpg",
     "group_name": ""
   },
