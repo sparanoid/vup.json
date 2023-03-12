@@ -9292,7 +9292,7 @@
     "name": "叶崎花火是大聪明",
     "type": "vtuber",
     "room_id": 22605333,
-    "face": "/bfs/face/a27f869d81c4dedbcee81047b007a2b921979b51.jpg",
+    "face": "/bfs/face/01ab10225fd9a5f4228a5e4bd654b2e9db011cfa.jpg",
     "group_name": ""
   },
   "1431690261": {
@@ -22152,6 +22152,13 @@
     "type": "vtuber",
     "room_id": 95818,
     "face": "/bfs/face/2a96ce88c8f89b4885b7c0166da4fedc242e8118.jpg",
+    "group_name": ""
+  },
+  "32159860": {
+    "name": "洺知-故犯",
+    "type": "vtuber",
+    "room_id": 1267105,
+    "face": "/bfs/face/8a223e7e41911ffdd12fb692f9f60f0cd3d262db.jpg",
     "group_name": ""
   },
   "43403127": {
