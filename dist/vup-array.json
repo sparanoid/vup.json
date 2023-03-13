@@ -36992,12 +36992,20 @@
     "group_name": ""
   },
   {
+    "uid": 11959750,
+    "name": "超极巨里里桉",
+    "type": "vtuber",
+    "room": 1654233,
+    "face": "/bfs/face/8cc994c643b40f81ac9ab3cb45d9908385008f4c.jpg",
+    "group_name": "虚研学园"
+  },
+  {
     "uid": 487817699,
     "name": "超次元学院",
     "type": "unknown",
     "room": 0,
     "face": "/bfs/face/4ee940ba58e22e6de90f2238e5b5dfee84be39a8.jpg",
-    "group_name": ""
+    "group_name": "虚研学园"
   },
   {
     "uid": 545125460,

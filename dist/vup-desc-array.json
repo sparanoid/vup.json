@@ -29111,7 +29111,7 @@
     "type": "vtuber",
     "room": 21453024,
     "face": "/bfs/face/8c9486bb0f35cddee67ee81cf5c07ae0f817b19d.jpg",
-    "sign": "<ChaosLive·S>个人势。视频/直播/gamer/请多指教。",
+    "sign": "<ChaosLive·S>个人势。视频/直播/Gamer/请多指教。",
     "group_name": "ChaosLiveSprout"
   },
   {
@@ -41616,13 +41616,22 @@
     "group_name": ""
   },
   {
+    "uid": 11959750,
+    "name": "超极巨里里桉",
+    "type": "vtuber",
+    "room": 1654233,
+    "face": "/bfs/face/8cc994c643b40f81ac9ab3cb45d9908385008f4c.jpg",
+    "sign": "一根巨蟒!虚研学园所属，有个群488701825",
+    "group_name": "虚研学园"
+  },
+  {
     "uid": 487817699,
     "name": "超次元学院",
     "type": "unknown",
     "room": 0,
     "face": "/bfs/face/4ee940ba58e22e6de90f2238e5b5dfee84be39a8.jpg",
     "sign": "超次元学院官方账号~招聘邮箱：1498173041@qq.com商务合作：  shangwu@acgvr.com",
-    "group_name": ""
+    "group_name": "虚研学园"
   },
   {
     "uid": 545125460,

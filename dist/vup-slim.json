@@ -27743,11 +27743,17 @@
     "room": 3765033,
     "group_name": ""
   },
+  "11959750": {
+    "name": "超极巨里里桉",
+    "type": "vtuber",
+    "room": 1654233,
+    "group_name": "虚研学园"
+  },
   "487817699": {
     "name": "超次元学院",
     "type": "unknown",
     "room": 0,
-    "group_name": ""
+    "group_name": "虚研学园"
   },
   "545125460": {
     "name": "次元鸡的小号",
