@@ -1995,7 +1995,7 @@
     "group_name": ""
   },
   "7684135": {
-    "name": "キミ以外いちゃ嫌だ",
+    "name": "BSJSBGFJE",
     "type": "vtuber",
     "room": 645292,
     "face": "/bfs/face/fa92e8fd5e030c085646510cf8d8c47438c3709e.jpg",
@@ -6283,6 +6283,13 @@
     "type": "vtuber",
     "room": 842680,
     "face": "/bfs/face/f8d1f431072d1e8c8ba1ae2fc06854b4502669d0.jpg",
+    "group_name": ""
+  },
+  "1435073674": {
+    "name": "伊佐茨lzotz",
+    "type": "vtuber",
+    "room": 26086615,
+    "face": "/bfs/face/90999ddeaab9de44f7f04a0b045ab82be61a1ea0.jpg",
     "group_name": ""
   },
   "2110900767": {
@@ -21829,7 +21836,7 @@
     "name": "法里达",
     "type": "vtuber",
     "room": 972474,
-    "face": "/bfs/face/6278c16ca6c069a27077c6e6f8befe65fbc15e32.jpg",
+    "face": "/bfs/face/0b62649bbeda1d700266a5d4bcea6894bc7ba6b3.jpg",
     "group_name": ""
   },
   "7321578": {
