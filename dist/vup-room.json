@@ -3779,6 +3779,13 @@
     "face": "/bfs/face/97e8226bb31ca83090df457f0809813577879f75.jpg",
     "group_name": ""
   },
+  "88120148": {
+    "name": "ruka藏在深夜中",
+    "type": "vtuber",
+    "room_id": 23626809,
+    "face": "/bfs/face/eb5e90b499cbf7abe60886ef563110ab60d1d535.jpg",
+    "group_name": ""
+  },
   "102668397": {
     "name": "LOLO长期维护中",
     "type": "vtuber",
@@ -10826,6 +10833,13 @@
     "type": "vtuber",
     "room_id": 1321846,
     "face": "/bfs/face/a01361841966bab1301855a1e2ff571ea3781351.jpg",
+    "group_name": ""
+  },
+  "12633794": {
+    "name": "夏野Nana",
+    "type": "vtuber",
+    "room_id": 6529382,
+    "face": "/bfs/face/a8c9fcd32215bdae0ea5138a78ef071fdafcb05d.jpg",
     "group_name": ""
   },
   "5786005": {
@@ -22427,6 +22441,13 @@
     "face": "/bfs/face/68d7e19708756ddf61398ea7c7486220f11fdccf.jpg",
     "group_name": ""
   },
+  "3493094557222916": {
+    "name": "涅芙",
+    "type": "vtuber",
+    "room_id": 26995318,
+    "face": "/bfs/face/91ae531746cc5940435606b0fa297e47c8d28586.jpg",
+    "group_name": ""
+  },
   "17576229": {
     "name": "涅雅Nea",
     "type": "vtuber",
@@ -26998,6 +27019,13 @@
     "face": "/bfs/face/10e1db4ba4323b8c638bc9de533561785bafe7c0.jpg",
     "group_name": "WACTOR"
   },
+  "522059097": {
+    "name": "空蓂",
+    "type": "vtuber",
+    "room_id": 24972852,
+    "face": "/bfs/face/7875abdda8787655095cedf98b5656b230e6d0a2.jpg",
+    "group_name": ""
+  },
   "471678922": {
     "name": "空调KuuJo-灯代Tomoyo",
     "type": "vtuber",
@@ -29894,6 +29922,13 @@
     "type": "vtuber",
     "room_id": 828675,
     "face": "/bfs/face/5148939838a6b3bf2986197289097b16eeaaa6d8.jpg",
+    "group_name": ""
+  },
+  "1088679624": {
+    "name": "苍青还在熬夜吗",
+    "type": "vtuber",
+    "room_id": 24197078,
+    "face": "/bfs/face/76a5eb51f7ff9778458f6cf43bbbf7fdfade8899.jpg",
     "group_name": ""
   },
   "5963844": {
@@ -34739,6 +34774,13 @@
     "room_id": 1495145,
     "face": "/bfs/face/8a97cac14ceb696f0617c3cd87a673be2e7780d1.jpg",
     "group_name": ""
+  },
+  "12278659": {
+    "name": "霜树Lointa",
+    "type": "vtuber",
+    "room_id": 3559003,
+    "face": "/bfs/face/696d380e0a8c660f0a83c61acbc629e4ad65a04c.jpg",
+    "group_name": "chaoslive"
   },
   "1982983249": {
     "name": "霜空Neco",
