@@ -1499,7 +1499,7 @@
     "uid": 351226133,
     "name": "瓶装寂寞kolo",
     "type": "vtuber",
-    "room": 12338080,
+    "room": 0,
     "face": "/bfs/face/b047a50e0e8589ca5236edd383d41b0949bac12b.jpg",
     "group_name": ""
   },
@@ -8028,7 +8028,7 @@
     "name": "克拉尔Clare",
     "type": "vtuber",
     "room": 26649415,
-    "face": "/bfs/face/72430aa867e859dd343db359c43021b36f2f5c90.jpg",
+    "face": "/bfs/face/60c02432a354da83885965aa3b43c9309062c405.jpg",
     "group_name": ""
   },
   {
@@ -17953,10 +17953,10 @@
   },
   {
     "uid": 1800010,
-    "name": "黑曜KokuYou",
+    "name": "愛里紗メイプル",
     "type": "vtuber",
     "room": 307972,
-    "face": "/bfs/face/43a01df16c21219bc61ccc28ee3d45261231a091.jpg",
+    "face": "/bfs/face/06411937806ff9347d4a03eb1a8d672b3bede7da.jpg",
     "group_name": "Virtopia"
   },
   {
@@ -19500,7 +19500,7 @@
     "name": "瑾星晚_Channel",
     "type": "vtuber",
     "room": 30294,
-    "face": "/bfs/face/e0451d8380ba22bc7d5907f1eb3442e11d261181.jpg",
+    "face": "/bfs/face/78a45da089f109ebc0e57d65ff328e1a12b025e7.jpg",
     "group_name": "纸片人计划"
   },
   {
@@ -36940,7 +36940,7 @@
     "name": "赤琥Akakora",
     "type": "vtuber",
     "room": 21697031,
-    "face": "/bfs/face/78298e1e7f33a3a7638f0624219e9efb25892536.jpg",
+    "face": "/bfs/face/23d7f3c2acfdd0caaa0dfffc6c24e048f6d09371.jpg",
     "group_name": "狄灵计划"
   },
   {
