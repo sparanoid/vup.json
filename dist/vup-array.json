@@ -18172,7 +18172,7 @@
     "name": "才不是害羞",
     "type": "vtuber",
     "room": 3748267,
-    "face": "/bfs/face/4add3acfc930fcd07d06ea5e10a3a377314141c2.jpg",
+    "face": "/bfs/face/65b8354c09fd6a822636172cd92e8d322a905717.jpg",
     "group_name": ""
   },
   {
@@ -31981,6 +31981,14 @@
     "type": "vtuber",
     "room": 4865385,
     "face": "/bfs/face/3e8b923b1a15dc3e9830373321bfeb4ca98d5c7e.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 427487966,
+    "name": "红魔游戏手机",
+    "type": "vtuber",
+    "room": 21705550,
+    "face": "/bfs/face/9af32acaef4839a68593c76b569ccc96f9e6e4aa.jpg",
     "group_name": ""
   },
   {
