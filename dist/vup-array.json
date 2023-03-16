@@ -3044,7 +3044,7 @@
     "name": "Shu的香蕉种植园",
     "type": "vtuber",
     "room": 24555293,
-    "face": "/bfs/face/d2832cdc8cc481436e68851d95646b92cb0e989c.jpg",
+    "face": "/bfs/face/aa5544841a8e238ae342f51d11a35b326f6d460f.jpg",
     "group_name": ""
   },
   {
@@ -18572,7 +18572,7 @@
     "name": "斯托拉斯sato",
     "type": "vtuber",
     "room": 22463657,
-    "face": "/bfs/face/118538ac982458e75f49a35924016584cd5ff24f.jpg",
+    "face": "/bfs/face/d083ec6386726eff824f6dca5b678257d536e158.jpg",
     "group_name": ""
   },
   {
@@ -21285,6 +21285,14 @@
     "type": "vtuber",
     "room": 1106283,
     "face": "/bfs/face/245a27344de05e6e72cec547826467e897a8cb9c.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 439438614,
+    "name": "木几萌Moe",
+    "type": "vtuber",
+    "room": 27004785,
+    "face": "/bfs/face/b52d18627d2ce06dcf22b0b777b51fde410fb4da.jpg",
     "group_name": ""
   },
   {
