@@ -8963,6 +8963,12 @@
     "room": 21345375,
     "group_name": ""
   },
+  "15092274": {
+    "name": "堡堡恰饱饱",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
   "389647363": {
     "name": "堰代ミコ搬运",
     "type": "vtuber",
@@ -15458,7 +15464,7 @@
   "309487": {
     "name": "百香果茶加点糖",
     "type": "vtuber",
-    "room": 40379,
+    "room": 0,
     "group_name": ""
   },
   "159034962": {
@@ -23930,7 +23936,7 @@
   "407106379": {
     "name": "绯赤艾莉欧_NHOTBOT",
     "type": "vtuber",
-    "room": 21396545,
+    "room": 0,
     "group_name": "chucolala"
   },
   "403930401": {

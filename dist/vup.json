@@ -10457,6 +10457,13 @@
     "face": "/bfs/face/d208a3c7db62d2b3e5c2b97c7c985f284edae935.jpg",
     "group_name": ""
   },
+  "15092274": {
+    "name": "堡堡恰饱饱",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/bfa314063d501aba5be12a6cf4ba3a6f696776e2.jpg",
+    "group_name": ""
+  },
   "389647363": {
     "name": "堰代ミコ搬运",
     "type": "vtuber",
@@ -18034,7 +18041,7 @@
   "309487": {
     "name": "百香果茶加点糖",
     "type": "vtuber",
-    "room": 40379,
+    "room": 0,
     "face": "/bfs/face/8fe18705c5daa959e5807a2b09a79e77a0723f65.jpg",
     "group_name": ""
   },
@@ -27918,7 +27925,7 @@
   "407106379": {
     "name": "绯赤艾莉欧_NHOTBOT",
     "type": "vtuber",
-    "room": 21396545,
+    "room": 0,
     "face": "/bfs/face/5cb0841c3c2e4ddc88a58a7a232e68460fcd5c79.jpg",
     "group_name": "chucolala"
   },
