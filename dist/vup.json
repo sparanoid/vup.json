@@ -9253,6 +9253,13 @@
     "face": "/bfs/face/62c3de40248d294c06b4a0d035157088ef819120.jpg",
     "group_name": ""
   },
+  "163010740": {
+    "name": "可希Senyo",
+    "type": "vtuber",
+    "room": 7378130,
+    "face": "/bfs/face/cfdf4e13597e985501f2f8c6564012a1add1aec9.jpg",
+    "group_name": ""
+  },
   "14248896": {
     "name": "可愛的島風",
     "type": "vtuber",
@@ -17885,7 +17892,7 @@
     "group_name": ""
   },
   "8964888": {
-    "name": "鹊川家的時葉",
+    "name": "時葉ミスミ",
     "type": "vtuber",
     "room": 218550,
     "face": "/bfs/face/7b29836ba2bb773a66e0869b42ddee805bae8f56.jpg",
@@ -23845,7 +23852,7 @@
     "name": "CHILDWOLF",
     "type": "vtuber",
     "room": 52813,
-    "face": "/bfs/face/17483c7e386587c3eb4995f28c13e54ccf3859c5.jpg",
+    "face": "/bfs/face/ae0593cdc9aea43ad225085bac971626b6447d4b.jpg",
     "group_name": ""
   },
   "1931030982": {
