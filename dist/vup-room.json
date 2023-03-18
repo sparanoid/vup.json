@@ -13,6 +13,13 @@
     "face": "/bfs/face/3551fcfd82f957d4c44ff33b8b7e8b31b9702a25.jpg",
     "group_name": ""
   },
+  "3493137070688536": {
+    "name": "-星辰呐呐-",
+    "type": "vtuber",
+    "room_id": 27136647,
+    "face": "/bfs/face/0940255a14a8e52fc8a545f5f81e2e573570b2f2.jpg",
+    "group_name": ""
+  },
   "356113776": {
     "name": "-晚风铃-",
     "type": "vtuber",
@@ -1376,6 +1383,13 @@
     "type": "group",
     "room_id": 23053137,
     "face": "/bfs/face/e165adfb87a181e2c8d1c954d7fa6c6ad21c2b33.jpg",
+    "group_name": ""
+  },
+  "1627747284": {
+    "name": "Lita_Official",
+    "type": "vtuber",
+    "room_id": 26349188,
+    "face": "/bfs/face/1feb863fc0327c8aaed25d9822495aab08105cf0.jpg",
     "group_name": ""
   },
   "423443185": {
@@ -2868,6 +2882,13 @@
     "room_id": 7117085,
     "face": "/bfs/face/f8e8884431e7cffa2aae57de2e0cb7f2d118dac8.jpg",
     "group_name": "狄灵计划"
+  },
+  "514674253": {
+    "name": "山本うごUGO_Official",
+    "type": "vtuber",
+    "room_id": 27268326,
+    "face": "/bfs/face/86676d27e5bfcbcadf878ef0540118412e053f61.jpg",
+    "group_name": ""
   },
   "451377668": {
     "name": "歌声放送部",

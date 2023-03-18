@@ -16,6 +16,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493137070688536,
+    "name": "-星辰呐呐-",
+    "type": "vtuber",
+    "room": 27136647,
+    "face": "/bfs/face/0940255a14a8e52fc8a545f5f81e2e573570b2f2.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 356113776,
     "name": "-晚风铃-",
     "type": "vtuber",
@@ -1573,6 +1581,14 @@
     "type": "group",
     "room": 23053137,
     "face": "/bfs/face/e165adfb87a181e2c8d1c954d7fa6c6ad21c2b33.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1627747284,
+    "name": "Lita_Official",
+    "type": "vtuber",
+    "room": 26349188,
+    "face": "/bfs/face/1feb863fc0327c8aaed25d9822495aab08105cf0.jpg",
     "group_name": ""
   },
   {
@@ -3278,6 +3294,14 @@
     "room": 7117085,
     "face": "/bfs/face/f8e8884431e7cffa2aae57de2e0cb7f2d118dac8.jpg",
     "group_name": "狄灵计划"
+  },
+  {
+    "uid": 514674253,
+    "name": "山本うごUGO_Official",
+    "type": "vtuber",
+    "room": 27268326,
+    "face": "/bfs/face/86676d27e5bfcbcadf878ef0540118412e053f61.jpg",
+    "group_name": ""
   },
   {
     "uid": 451377668,
