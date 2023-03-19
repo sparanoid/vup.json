@@ -6602,7 +6602,7 @@
     "type": "vtuber",
     "room": 26823939,
     "face": "/bfs/face/03fe4e0c9c7948f3b38de6ad2c631a93d5b89a17.jpg",
-    "sign": "个人势狐ฅ 国风小狐娘 直播时间：12点~15点（详见动态周表）",
+    "sign": "个人势狐ฅ 国风小狐娘 直播时间：11点~15点（详见动态周表）",
     "group_name": ""
   },
   {
@@ -7143,6 +7143,15 @@
     "room": 0,
     "face": "/bfs/face/64e25dd024205e9fe9ba2d456bf92bc44faec464.jpg",
     "sign": "我的主人就是你们呀~",
+    "group_name": ""
+  },
+  {
+    "uid": 404564413,
+    "name": "丹炀",
+    "type": "vtuber",
+    "room": 27230330,
+    "face": "/bfs/face/1ea9e0bcb9f8cc87b5a4b93ce6b8e027ecd013cc.jpg",
+    "sign": "v圈傻系gamer，怎么还不关注！",
     "group_name": ""
   },
   {
@@ -8987,7 +8996,7 @@
     "type": "vtuber",
     "room": 26357773,
     "face": "/bfs/face/0d3156e0777599038f45e8e5b5d1f2858dd1937d.jpg",
-    "sign": "个人势虚拟组合【MoRii！】成员 @望舒lua @师音Sin @苏叶bellis",
+    "sign": "个人势虚拟偶像！欢迎光临我的频道！",
     "group_name": ""
   },
   {
@@ -12425,7 +12434,7 @@
     "type": "vtuber",
     "room": 22595837,
     "face": "/bfs/face/0551431aeac44d0411e7e287aa459e045e79c663.jpg",
-    "sign": "「幻想社Fantas1A七期生」\n✨仅活跃在互联网的宅女gamer，梦想是成为卡面来打\n网络话痨现实社恐\n粉丝群：705320939\n",
+    "sign": "「幻想社Fantas1A七期生」仅活跃在互联网的宅女gamer，网络话痨现实社恐，粉丝群：705320939\n",
     "group_name": ""
   },
   {
@@ -12523,7 +12532,7 @@
     "name": "和香澄",
     "type": "vtuber",
     "room": 2811604,
-    "face": "/bfs/face/0853bf4256e10493d6df67b0bd946b7349c5403b.jpg",
+    "face": "/bfs/face/ea417e17fd9fa85987de97c101e027fb13d8fa10.jpg",
     "sign": "再接，就不礼貌了",
     "group_name": ""
   },
@@ -15151,7 +15160,7 @@
     "name": "沫茗Awako",
     "type": "vtuber",
     "room": 271675,
-    "face": "/bfs/face/8bb67b3f75e95cd0ccc4dc0cafe47ea51f42a1eb.jpg",
+    "face": "/bfs/face/e05ca56127aca074e693443f7d1313e8927ac2a2.jpg",
     "sign": "全职病弱小猫咪——唱歌是爱好，摆烂是常态，网瘾少女，重度apex下饭人，每天都在努力的活着❤",
     "group_name": ""
   },

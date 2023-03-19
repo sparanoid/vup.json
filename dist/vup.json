@@ -5557,6 +5557,13 @@
     "face": "/bfs/face/64e25dd024205e9fe9ba2d456bf92bc44faec464.jpg",
     "group_name": ""
   },
+  "404564413": {
+    "name": "丹炀",
+    "type": "vtuber",
+    "room": 27230330,
+    "face": "/bfs/face/1ea9e0bcb9f8cc87b5a4b93ce6b8e027ecd013cc.jpg",
+    "group_name": ""
+  },
   "1421667": {
     "name": "丹羽加奈-Kenlos店长",
     "type": "vtuber",
@@ -9740,7 +9747,7 @@
     "name": "和香澄",
     "type": "vtuber",
     "room": 2811604,
-    "face": "/bfs/face/0853bf4256e10493d6df67b0bd946b7349c5403b.jpg",
+    "face": "/bfs/face/ea417e17fd9fa85987de97c101e027fb13d8fa10.jpg",
     "group_name": ""
   },
   "3724949": {
@@ -11784,7 +11791,7 @@
     "name": "沫茗Awako",
     "type": "vtuber",
     "room": 271675,
-    "face": "/bfs/face/8bb67b3f75e95cd0ccc4dc0cafe47ea51f42a1eb.jpg",
+    "face": "/bfs/face/e05ca56127aca074e693443f7d1313e8927ac2a2.jpg",
     "group_name": ""
   },
   "35028769": {
