@@ -4444,7 +4444,7 @@
     "name": "tanoki苒佚",
     "type": "vtuber",
     "room": 302140,
-    "face": "/bfs/face/1a8b7435f91f41cb2a41df82bdb0b0f554311b04.jpg",
+    "face": "/bfs/face/edaa4f633ef0cec26312e0ad07e672e066dcecff.jpg",
     "group_name": "chaoslive"
   },
   {
@@ -4875,7 +4875,7 @@
     "uid": 472135480,
     "name": "まこと-macoto官方",
     "type": "vtuber",
-    "room": 22759492,
+    "room": 0,
     "face": "/bfs/face/575168b9476f988d637e168f633e6ce4a20da4a8.jpg",
     "group_name": ""
   },
@@ -18617,7 +18617,7 @@
   },
   {
     "uid": 1753158001,
-    "name": "新月社fc",
+    "name": "新月社F-Crescent",
     "type": "group",
     "room": 25999918,
     "face": "/bfs/face/e2c7e028aed1f2cc98090abb30342748e8b8e2a7.jpg",
@@ -24211,7 +24211,7 @@
     "uid": 49922172,
     "name": "正直少年李发卡",
     "type": "vtuber",
-    "room": 2444178,
+    "room": 0,
     "face": "/bfs/face/d5b69c37cb0b1a300ffa09660b2f8fdcdefb2826.jpg",
     "group_name": ""
   },
