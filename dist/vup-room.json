@@ -5165,6 +5165,13 @@
     "face": "/bfs/face/7bfed057f4eeef9e0d1b333cd37447dc4c1c0d2c.jpg",
     "group_name": ""
   },
+  "32207738": {
+    "name": "三千院果",
+    "type": "vtuber",
+    "room_id": 1161556,
+    "face": "/bfs/face/43696211c460d1ce74f966a826776eec65b02814.jpg",
+    "group_name": ""
+  },
   "176528442": {
     "name": "三宝iu",
     "type": "vtuber",
@@ -10394,6 +10401,13 @@
     "face": "/bfs/face/cd1fe10bc34d2ef616b5986a0d5bdb860769baf8.jpg",
     "group_name": "鸽鹉live"
   },
+  "3493130735192179": {
+    "name": "因离离",
+    "type": "vtuber",
+    "room_id": 27143111,
+    "face": "/bfs/face/a1a5b1aa5a6461d80d18c314c6d24fa8c6bab1bb.jpg",
+    "group_name": ""
+  },
   "686241472": {
     "name": "团小哈",
     "type": "vtuber",
@@ -11912,6 +11926,13 @@
     "room_id": 15157903,
     "face": "/bfs/face/30358b1de8bb1bdfe665f0adeebd6e00e5ff9567.jpg",
     "group_name": "winks"
+  },
+  "3493093812734297": {
+    "name": "奈昔NeXI",
+    "type": "vtuber",
+    "room_id": 26616374,
+    "face": "/bfs/face/2071e1b8ab5af8c164afc781d27ced4c3dcc80ce.jpg",
+    "group_name": ""
   },
   "7514914": {
     "name": "奈特Niet",
@@ -14936,6 +14957,13 @@
     "room_id": 22131016,
     "face": "/bfs/face/b5ea174c5254a607d8bfeb3d9fbe5657423c36ca.jpg",
     "group_name": "Gn-Gg社"
+  },
+  "1508979": {
+    "name": "张禾尐-TUTU",
+    "type": "vtuber",
+    "room_id": 782735,
+    "face": "/bfs/face/7de1661e1cff5e27792ea935d3881f4f5e18533f.jpg",
+    "group_name": "虚研学园"
   },
   "1281818069": {
     "name": "弥利雅Miya",
@@ -18899,6 +18927,13 @@
     "face": "/bfs/face/271548ae0ba95d62eace7b27f4d90ffa995824f3.jpg",
     "group_name": ""
   },
+  "32043388": {
+    "name": "机智的殊殊",
+    "type": "vtuber",
+    "room_id": 3168433,
+    "face": "/bfs/face/d5a712f315702da9182e055675ba4f3d07c24e21.jpg",
+    "group_name": ""
+  },
   "41160587": {
     "name": "朽木素",
     "type": "vtuber",
@@ -21251,6 +21286,13 @@
     "face": "/bfs/face/5d99f8d55b3584a43b9583031556ff6b8d8d8105.jpg",
     "group_name": ""
   },
+  "1266594350": {
+    "name": "毒霸姬official_金山毒霸",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/1dc2c58d7555f8b1bad932e9727b2cf0c79cf750.jpg",
+    "group_name": ""
+  },
   "481379187": {
     "name": "比良坂とわ",
     "type": "vtuber",
@@ -22826,6 +22868,13 @@
     "face": "/bfs/face/e617c279590bda52f19f2d1c13121a671162fb9c.jpg",
     "group_name": "ProjectViberglow"
   },
+  "2041997": {
+    "name": "源求Channel",
+    "type": "vtuber",
+    "room_id": 826168,
+    "face": "/bfs/face/82e739c6d7cc6ac764205beec8605902e523d3fe.jpg",
+    "group_name": ""
+  },
   "180177570": {
     "name": "溧子喵",
     "type": "vtuber",
@@ -23202,6 +23251,13 @@
     "type": "vtuber",
     "room_id": 24471858,
     "face": "/bfs/face/628126b6ee17da2cc49341329db3689bb973539b.jpg",
+    "group_name": ""
+  },
+  "2383077": {
+    "name": "烛银珑珑Loong",
+    "type": "vtuber",
+    "room_id": 13963200,
+    "face": "/bfs/face/622cbdce3753bdb0755fb9731727ba0f7c2a8a2e.jpg",
     "group_name": ""
   },
   "3493110608825275": {
@@ -33668,6 +33724,13 @@
     "room_id": 30926,
     "face": "/bfs/face/3661e32976084a875b4aa0fc31af6152a08d3b65.jpg",
     "group_name": "ChaosLiveSprout"
+  },
+  "1063087903": {
+    "name": "阿卡莉Akari",
+    "type": "vtuber",
+    "room_id": 26938993,
+    "face": "/bfs/face/a5494b7296902ed184270f95a2fc78ac2502e387.jpg",
+    "group_name": ""
   },
   "449174986": {
     "name": "阿喵吃喵喵",
