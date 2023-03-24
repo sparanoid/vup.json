@@ -12637,7 +12637,7 @@
   "12918458": {
     "name": "田所安奈先辈Channel",
     "type": "vtuber",
-    "room_id": 4066032,
+    "room_id": 0,
     "face": "/bfs/face/b4eb6d08d13e6b90060b6b56925df0709340a165.jpg",
     "group_name": ""
   },
@@ -13568,7 +13568,7 @@
   "1575790132": {
     "name": "小莔莔子",
     "type": "vtuber",
-    "room_id": 24587207,
+    "room_id": 0,
     "face": "/bfs/face/979218510e8ab904da42b561de4aa95b1cdd50d2.jpg",
     "group_name": ""
   },
@@ -29017,7 +29017,7 @@
   "1215655557": {
     "name": "艾余_ay",
     "type": "vtuber",
-    "room_id": 22808159,
+    "room_id": 0,
     "face": "/bfs/face/0ef7c87b25719d444484963ec0b2c2f6455069f8.jpg",
     "group_name": ""
   },
