@@ -13135,7 +13135,7 @@
     "name": "神奈川樱子_",
     "type": "vtuber",
     "room_id": 3006360,
-    "face": "/bfs/face/e19ee54d501eddd8568ad63a11214f3370370d74.jpg",
+    "face": "/bfs/face/b3cb9da3e3b279ff7b2fb4712e9ae9481afd2e84.jpg",
     "group_name": ""
   },
   "8760033": {
@@ -33140,7 +33140,7 @@
   "1895683714": {
     "name": "量子少年Official",
     "type": "group",
-    "room_id": 23905455,
+    "room_id": 0,
     "face": "/bfs/face/0068ca9e004bc9da358a281c54aa9498575ec777.jpg",
     "group_name": "量子少年Official"
   },
