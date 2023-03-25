@@ -17184,13 +17184,6 @@
     "face": "/bfs/face/b10d7df9be67b63efccb963f19102770f9e7b316.jpg",
     "group_name": ""
   },
-  "549999893": {
-    "name": "bili_549999893",
-    "type": "vtuber",
-    "room_id": 22167332,
-    "face": "/bfs/face/daad6cd16210c9cb9a01ba9820d6abdc1f6b535c.jpg",
-    "group_name": ""
-  },
   "14831646": {
     "name": "橘猫小鱼干喵",
     "type": "vtuber",
@@ -36305,7 +36298,7 @@
     "name": "鹿实Tamiko",
     "type": "vtuber",
     "room_id": 26067860,
-    "face": "/bfs/face/2226d005628f3edb4a68ed1395af261ed8ccbab0.jpg",
+    "face": "/bfs/face/1947ff222af07ee929890d095086ee6e2b3f2315.jpg",
     "group_name": ""
   },
   "114307830": {
