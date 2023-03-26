@@ -20237,7 +20237,7 @@
     "type": "vtuber",
     "room": 1128978,
     "face": "/bfs/face/b51a103c1f7ead8770b8e2ff3aafc3cf1d64daec.jpg",
-    "sign": "某不知名的蓝瞳v，小蓝鸟@xiaoyanmiao内有舰长音频的试听版哦",
+    "sign": "某不知名的蓝瞳v，小蓝鸟@xiaoyanmiao",
     "group_name": ""
   },
   {
@@ -25511,7 +25511,7 @@
     "type": "vtuber",
     "room": 60619,
     "face": "/bfs/face/ebac62d311b8e667c331697df479cf8e7b9c8d1a.jpg",
-    "sign": "不营业的小废柴。有缘人请留下，压力怪请远离。因为朋友少所以动态会当空间用，请谨慎关注。",
+    "sign": "不营业的小废柴。有缘人请留下，压力怪请远离。当个NPC就不用考虑复杂的事情了！",
     "group_name": ""
   },
   {
@@ -37819,11 +37819,11 @@
   },
   {
     "uid": 10675863,
-    "name": "芜狐WUHU",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 8678426,
-    "face": "/bfs/face/ceeaa25915c07cfe9edcce16fd8eb6423919a35c.jpg",
-    "sign": "ETHER CYBER所属，来自平行世界的观测者，喜欢观测《地球》的一切，小心被我逮着做那种事哦～",
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {
@@ -38353,7 +38353,7 @@
     "name": "花音璃",
     "type": "vtuber",
     "room": 26196781,
-    "face": "/bfs/face/6e86c1c15d46cc7ef7ddd88abb81b0c62fe01041.jpg",
+    "face": "/bfs/face/1cf00b6191b6d1f63171398cfd52918f5667e11d.jpg",
     "sign": "喜欢音乐的温柔少女 | 个人势偶像努力中~欢迎加群：537801512",
     "group_name": "YOLO"
   },

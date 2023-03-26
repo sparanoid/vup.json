@@ -33617,10 +33617,10 @@
   },
   {
     "uid": 10675863,
-    "name": "芜狐WUHU",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 8678426,
-    "face": "/bfs/face/ceeaa25915c07cfe9edcce16fd8eb6423919a35c.jpg",
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -34092,7 +34092,7 @@
     "name": "花音璃",
     "type": "vtuber",
     "room": 26196781,
-    "face": "/bfs/face/6e86c1c15d46cc7ef7ddd88abb81b0c62fe01041.jpg",
+    "face": "/bfs/face/1cf00b6191b6d1f63171398cfd52918f5667e11d.jpg",
     "group_name": "YOLO"
   },
   {
