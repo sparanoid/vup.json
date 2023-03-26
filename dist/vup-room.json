@@ -8731,7 +8731,7 @@
   "1781408": {
     "name": "卑微小瑟",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 37073,
     "face": "/bfs/face/4fc229aec4764126c7767a017c2f380df3b6c9f9.jpg",
     "group_name": ""
   },
@@ -13666,7 +13666,7 @@
   "506074310": {
     "name": "小雀香奈_Official",
     "type": "vtuber",
-    "room_id": 22138292,
+    "room_id": 0,
     "face": "/bfs/face/cd9813539efdf4f350b2e86146470e4d3937f890.jpg",
     "group_name": ""
   },
