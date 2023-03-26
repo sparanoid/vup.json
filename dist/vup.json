@@ -1028,6 +1028,13 @@
     "face": "/bfs/face/9334a5ef38d1cb1a2d46e353474bc6e671c5f2a9.jpg",
     "group_name": ""
   },
+  "3493080839752134": {
+    "name": "莉娜-Helena",
+    "type": "vtuber",
+    "room": 26449494,
+    "face": "/bfs/face/1a4610e37465760bf15343302ae0f99c374af90c.jpg",
+    "group_name": ""
+  },
   "51269394": {
     "name": "HetmesAskalana",
     "type": "vtuber",
@@ -1946,10 +1953,10 @@
     "group_name": ""
   },
   "3220897": {
-    "name": "神经漫游者ID7",
+    "name": "IC7lear",
     "type": "vtuber",
     "room": 3014016,
-    "face": "/bfs/face/e0179e657c82a89cbb86f60bd1097a7aede3e920.jpg",
+    "face": "/bfs/face/83817522abbeb9900d092779d861a593aba98778.jpg",
     "group_name": ""
   },
   "1329085897": {
@@ -6443,7 +6450,7 @@
     "name": "伊橙Yzumi",
     "type": "vtuber",
     "room": 1463398,
-    "face": "/bfs/face/1a86a3e00d87e11eeac9569130716fd33d982e82.jpg",
+    "face": "/bfs/face/3b867c0856fa2cf3c2e7dd9bbb9ac46a27f80938.jpg",
     "group_name": "LepusLive"
   },
   "275529510": {
@@ -30145,7 +30152,7 @@
     "name": "茉吱Mojuko",
     "type": "vtuber",
     "room": 22926711,
-    "face": "/bfs/face/7cdee05f2cc0e0b607ba9f5a0f5598674dcffaf9.jpg",
+    "face": "/bfs/face/682dd1e3bea2816abd15ef6818ce210dae6a028e.jpg",
     "group_name": "Providence"
   },
   "2045507518": {
