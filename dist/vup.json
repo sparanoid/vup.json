@@ -10097,7 +10097,7 @@
     "name": "啦比_rabby",
     "type": "vtuber",
     "room": 24040860,
-    "face": "/bfs/face/81d014088ac8d189a2c78d7da5cf08e35a9db87f.jpg",
+    "face": "/bfs/face/3faca80787bfc04779ba4ff65408eaa7cd7a44e7.jpg",
     "group_name": ""
   },
   "3461577015561176": {
@@ -24512,6 +24512,13 @@
     "room": 6517607,
     "face": "/bfs/face/06fac0e150a69c4bafa4a8e33c380f383b794a93.jpg",
     "group_name": "Vi-D"
+  },
+  "1762978463": {
+    "name": "理理Lyrics",
+    "type": "vtuber",
+    "room": 27019718,
+    "face": "/bfs/face/00fd3bf1bbfed3cdb65d157381e4b42046b02a70.jpg",
+    "group_name": ""
   },
   "489046950": {
     "name": "理芽_RIM",

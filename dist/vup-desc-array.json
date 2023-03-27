@@ -7853,7 +7853,7 @@
     "type": "vtuber",
     "room": 22308209,
     "face": "/bfs/face/f4e6ac980e694f12f4a3060717c382c73ddf3d17.jpg",
-    "sign": "【弱智吧吧主候选人】8点播 不准时，最近在学瓦洛兰特",
+    "sign": "（网瘾版）8点播 不准时，最近在学瓦洛兰特",
     "group_name": ""
   },
   {
@@ -12982,7 +12982,7 @@
     "name": "啦比_rabby",
     "type": "vtuber",
     "room": 24040860,
-    "face": "/bfs/face/81d014088ac8d189a2c78d7da5cf08e35a9db87f.jpg",
+    "face": "/bfs/face/3faca80787bfc04779ba4ff65408eaa7cd7a44e7.jpg",
     "sign": "非全职的个兔势～直播内容多以杂谈和游戏（高血压版）为主捏！想要给大家带来开心和快乐！",
     "group_name": ""
   },
@@ -31518,6 +31518,15 @@
     "group_name": "Vi-D"
   },
   {
+    "uid": 1762978463,
+    "name": "理理Lyrics",
+    "type": "vtuber",
+    "room": 27019718,
+    "face": "/bfs/face/00fd3bf1bbfed3cdb65d157381e4b42046b02a70.jpg",
+    "sign": "一只自由的个人女仆势。粉丝群：744545380 ",
+    "group_name": ""
+  },
+  {
     "uid": 489046950,
     "name": "理芽_RIM",
     "type": "vtuber",
@@ -36068,7 +36077,7 @@
     "type": "vtuber",
     "room": 180680,
     "face": "/bfs/face/9266381cd23acc23730edaf4f06ff0f678b450ea.png",
-    "sign": "碎镜所映何人影 浪打残纱绕春泥——]-?{;&935657482/?…",
+    "sign": "碎镜所映何人影 浪打残纱绕春泥",
     "group_name": ""
   },
   {
@@ -45347,7 +45356,7 @@
     "type": "group",
     "room": 22509409,
     "face": "/bfs/face/5794e1d91a8ab6c9a48dfa97c20c420ef95782a8.jpg",
-    "sign": "虚拟主播社团-风云社，一起创建温馨家园。加入我们：https://wj.qq.com/s2/8458452/3984/",
+    "sign": "虚拟主播社团-风云社，一起创建温馨家园。",
     "group_name": "风云社"
   },
   {
