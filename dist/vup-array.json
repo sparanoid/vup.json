@@ -2328,6 +2328,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493137448176445,
+    "name": "Ohana_official",
+    "type": "vtuber",
+    "room": 27156026,
+    "face": "/bfs/face/ff6c91cc22c4663462c0f83f9caf7cd095bb22df.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 345648420,
     "name": "Okome_VTuber官方频道",
     "type": "vtuber",
@@ -9820,7 +9828,7 @@
     "name": "千零莉露卡",
     "type": "vtuber",
     "room": 23251345,
-    "face": "/bfs/face/31e437fe884694602a4822985bcb953daeb07932.jpg",
+    "face": "/bfs/face/8f71dcf86d5858578c67f3b077f0a34275747caa.jpg",
     "group_name": "极光社"
   },
   {
@@ -13093,6 +13101,14 @@
     "type": "vtuber",
     "room": 1353049,
     "face": "/bfs/face/43979492c0f4559b48eb62ec0b1a18d897bcfc91.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 489406226,
+    "name": "天井一号Beta",
+    "type": "vtuber",
+    "room": 27112918,
+    "face": "/bfs/face/1177a1db808b27cc0d83c6efff94499837cd7fe5.jpg",
     "group_name": ""
   },
   {
@@ -17080,6 +17096,14 @@
     "group_name": ""
   },
   {
+    "uid": 15272213,
+    "name": "弃暗投我鸭-",
+    "type": "vtuber",
+    "room": 21481532,
+    "face": "/bfs/face/9d35ecb3bc6edd809e148f8b6391ad2356d278ef.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 540064490,
     "name": "式部巡里",
     "type": "vtuber",
@@ -17653,6 +17677,14 @@
     "type": "vtuber",
     "room": 23655036,
     "face": "/bfs/face/290e897e3a7e5e51b18c6ad3ecf30096b70cfb48.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 2090208,
+    "name": "怀纸桐花official",
+    "type": "vtuber",
+    "room": 289440,
+    "face": "/bfs/face/8fbfac5bdd2061559d2c99b8f72e8cb9e06610ea.jpg",
     "group_name": ""
   },
   {
@@ -25708,7 +25740,7 @@
     "name": "涅芙",
     "type": "vtuber",
     "room": 26995318,
-    "face": "/bfs/face/91ae531746cc5940435606b0fa297e47c8d28586.jpg",
+    "face": "/bfs/face/3fe547013db6cd516db2283a00927cbb50ba2080.jpg",
     "group_name": ""
   },
   {
@@ -26821,6 +26853,14 @@
     "type": "vtuber",
     "room": 23920202,
     "face": "/bfs/face/574bdb4f492b9c608fd7fa25d0c6cbb77528f4bb.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493118355704695,
+    "name": "爱莉兔之",
+    "type": "vtuber",
+    "room": 26862159,
+    "face": "/bfs/face/146af8477b463f0a5e4dfc78575c22a14a499187.jpg",
     "group_name": ""
   },
   {
@@ -30180,7 +30220,7 @@
     "name": "礼墨Sumi",
     "type": "vtuber",
     "room": 23222837,
-    "face": "/bfs/face/f7e60520d3850f98c19f0d560bb384d94d3a6762.jpg",
+    "face": "/bfs/face/ad76c94f329a17b45c4e398278f428e862237d42.jpg",
     "group_name": "P-SP"
   },
   {
@@ -32065,7 +32105,7 @@
   },
   {
     "uid": 11912741,
-    "name": "纱布Sa_Official",
+    "name": "纱布_official",
     "type": "vtuber",
     "room": 180680,
     "face": "/bfs/face/9266381cd23acc23730edaf4f06ff0f678b450ea.png",

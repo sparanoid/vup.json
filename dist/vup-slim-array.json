@@ -2037,6 +2037,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493137448176445,
+    "name": "Ohana_official",
+    "type": "vtuber",
+    "room": 27156026,
+    "group_name": ""
+  },
+  {
     "uid": 345648420,
     "name": "Okome_VTuber官方频道",
     "type": "vtuber",
@@ -11459,6 +11466,13 @@
     "group_name": ""
   },
   {
+    "uid": 489406226,
+    "name": "天井一号Beta",
+    "type": "vtuber",
+    "room": 27112918,
+    "group_name": ""
+  },
+  {
     "uid": 126401,
     "name": "天仓五Alice",
     "type": "vtuber",
@@ -14945,6 +14959,13 @@
     "group_name": ""
   },
   {
+    "uid": 15272213,
+    "name": "弃暗投我鸭-",
+    "type": "vtuber",
+    "room": 21481532,
+    "group_name": ""
+  },
+  {
     "uid": 540064490,
     "name": "式部巡里",
     "type": "vtuber",
@@ -15446,6 +15467,13 @@
     "name": "空山无人-_",
     "type": "vtuber",
     "room": 23655036,
+    "group_name": ""
+  },
+  {
+    "uid": 2090208,
+    "name": "怀纸桐花official",
+    "type": "vtuber",
+    "room": 289440,
     "group_name": ""
   },
   {
@@ -23471,6 +23499,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493118355704695,
+    "name": "爱莉兔之",
+    "type": "vtuber",
+    "room": 26862159,
+    "group_name": ""
+  },
+  {
     "uid": 169409674,
     "name": "lili今天吃了么",
     "type": "vtuber",
@@ -28057,7 +28092,7 @@
   },
   {
     "uid": 11912741,
-    "name": "纱布Sa_Official",
+    "name": "纱布_official",
     "type": "vtuber",
     "room": 180680,
     "group_name": ""
