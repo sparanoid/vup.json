@@ -1353,7 +1353,7 @@
   "110725714": {
     "name": "LUNA_月老板",
     "type": "vtuber",
-    "room": 0,
+    "room": 23981982,
     "face": "/bfs/face/432b6398b076ec8b7fe17511de2b3796c61cd180.jpg",
     "group_name": ""
   },
@@ -6604,7 +6604,7 @@
     "name": "伊阿依Hathor",
     "type": "vtuber",
     "room": 24602311,
-    "face": "/bfs/face/61f81dd0e0d45a08adaea0b453a978152def4447.jpg",
+    "face": "/bfs/face/e154b6b22c5d274469f62e055492ba857ccb1bd6.jpg",
     "group_name": ""
   },
   "435201473": {
@@ -6897,7 +6897,7 @@
   "18214288": {
     "name": "修伊Huey",
     "type": "vtuber",
-    "room": 12267464,
+    "room": 0,
     "face": "/bfs/face/982d0526c061cbea16e094b5b778cdbf85d9f990.jpg",
     "group_name": "云光计划"
   },
@@ -8248,7 +8248,7 @@
   "3252395": {
     "name": "阿萨今天吃什么",
     "type": "vtuber",
-    "room": 9700650,
+    "room": 0,
     "face": "/bfs/face/dfe9db7b8c5cf7a75284cfed3589a9f7d132dd0e.jpg",
     "group_name": ""
   },
@@ -26292,7 +26292,7 @@
     "group_name": ""
   },
   "2393138": {
-    "name": "矢上飞鸟-yakami",
+    "name": "yakami哒",
     "type": "vtuber",
     "room": 3824860,
     "face": "/bfs/face/93daf2135e29fb1b13a4762fde6bea02cb074d29.jpg",
