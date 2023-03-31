@@ -451,7 +451,7 @@
     "uid": 1283658,
     "name": "Ara手一滑_Channel",
     "type": "vtuber",
-    "room": 12602526,
+    "room": 0,
     "face": "/bfs/face/3da040e29116c87f68c4f310b04a6f4236c01638.jpg",
     "group_name": ""
   },
@@ -700,7 +700,7 @@
     "name": "C叔小酒馆",
     "type": "vtuber",
     "room": 23300805,
-    "face": "/bfs/face/6ad8775a1bc39727045890c41adf5c790730d2af.jpg",
+    "face": "/bfs/face/03397619b88d725c8433a0a840b52aa55c392506.jpg",
     "group_name": ""
   },
   {
@@ -9332,7 +9332,7 @@
     "name": "勾檀Mayumi",
     "type": "vtuber",
     "room": 22778610,
-    "face": "/bfs/face/4de05138512b22fe34628c9f00b3514290ae6db7.jpg",
+    "face": "/bfs/face/9b5f4ee06f12b49d3ec08e6bf3b7394ba71a8ddb.jpg",
     "group_name": "VirtuaReal"
   },
   {
@@ -11228,7 +11228,7 @@
     "name": "咩噗绒绒",
     "type": "vtuber",
     "room": 25158669,
-    "face": "/bfs/face/9dd7bd578ef1ba8a829cf7d72f83fc9be8c802b1.jpg",
+    "face": "/bfs/face/e14198634739b1c32c67e66d746942bf581bd4ad.jpg",
     "group_name": "极光社"
   },
   {
