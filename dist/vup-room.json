@@ -14597,7 +14597,7 @@
   "2075571410": {
     "name": "平井殿下アメザリ",
     "type": "vtuber",
-    "room_id": 22922468,
+    "room_id": 0,
     "face": "/bfs/face/15df18485963c2e7e249f294491b134a7c72ef08.jpg",
     "group_name": ""
   },
@@ -19329,7 +19329,7 @@
   "1715569439": {
     "name": "果然是一只喵",
     "type": "vtuber",
-    "room_id": 22917555,
+    "room_id": 0,
     "face": "/bfs/face/8b47f3b4760fb73dc5d5273dc7cec9da7bb85660.jpg",
     "group_name": ""
   },
@@ -34057,7 +34057,7 @@
   "7391608": {
     "name": "阿藻Rera",
     "type": "vtuber",
-    "room_id": 22791744,
+    "room_id": 0,
     "face": "/bfs/face/3f9e7921c5f322f092f6c1db6a6a3501d674191b.jpg",
     "group_name": ""
   },
