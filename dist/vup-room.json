@@ -9134,6 +9134,13 @@
     "face": "/bfs/face/c02f9206933f8436abad551f65b3c24fb0084f35.jpg",
     "group_name": "VirtuaReal"
   },
+  "5294134": {
+    "name": "友理★HAGIA",
+    "type": "vtuber",
+    "room_id": 677068,
+    "face": "/bfs/face/af196d6566f42f508bc4c8eb7d2e12eb79f26489.jpg",
+    "group_name": ""
+  },
   "472631609": {
     "name": "花宮友纪",
     "type": "vtuber",
@@ -20962,6 +20969,13 @@
     "type": "group",
     "room_id": 0,
     "face": "/bfs/face/98eb24d8c0059843fc52b9912a2a8f72ad5c38d4.jpg",
+    "group_name": ""
+  },
+  "3493259785537942": {
+    "name": "樱甜心_",
+    "type": "vtuber",
+    "room_id": 27348026,
+    "face": "/bfs/face/95d8b202438bfb0def52783f84a58ba4889c0f75.jpg",
     "group_name": ""
   },
   "96457812": {

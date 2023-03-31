@@ -9135,6 +9135,13 @@
     "group_name": "VirtuaReal"
   },
   {
+    "uid": 5294134,
+    "name": "友理★HAGIA",
+    "type": "vtuber",
+    "room": 677068,
+    "group_name": ""
+  },
+  {
     "uid": 472631609,
     "name": "花宮友纪",
     "type": "vtuber",
@@ -20962,6 +20969,13 @@
     "name": "樱满月虚拟社团",
     "type": "group",
     "room": 0,
+    "group_name": ""
+  },
+  {
+    "uid": 3493259785537942,
+    "name": "樱甜心_",
+    "type": "vtuber",
+    "room": 27348026,
     "group_name": ""
   },
   {
