@@ -394,8 +394,8 @@
   "1283658": {
     "name": "Ara手一滑_Channel",
     "type": "vtuber",
-    "room": 0,
-    "face": "/bfs/face/3da040e29116c87f68c4f310b04a6f4236c01638.jpg",
+    "room": 12602526,
+    "face": "/bfs/face/eef3266c3fb12f17d0f87ffba840496b91060f9b.jpg",
     "group_name": ""
   },
   "1436589496": {
@@ -6051,7 +6051,7 @@
     "name": "五月七日病",
     "type": "vtuber",
     "room": 24105617,
-    "face": "/bfs/face/cd438c7aba133d0acdb244b5da44588580e5681a.jpg",
+    "face": "/bfs/face/74aa0c252c01fc52840717773bf2b11d80dc1447.jpg",
     "group_name": ""
   },
   "441952268": {
@@ -6622,10 +6622,10 @@
     "group_name": ""
   },
   "401166457": {
-    "name": "伏见ガク搬运组",
+    "name": "ピースサイン搬运组w",
     "type": "vtuber",
     "room": 22379387,
-    "face": "/bfs/face/f70ec2bfcc9ef0f624c9645ebd0c60f14dec5ce2.jpg",
+    "face": "/bfs/face/dd804f62b800815471824df7f1d9debcac196707.jpg",
     "group_name": ""
   },
   "29488539": {
@@ -13877,7 +13877,7 @@
     "name": "尼奈nine_Official",
     "type": "vtuber",
     "room": 162180,
-    "face": "/bfs/face/374fe04579ec89f72091c3a38aa4369ae003f5d8.jpg",
+    "face": "/bfs/face/29cc8490ac248205d9b45484c6b2a906e7460de6.jpg",
     "group_name": ""
   },
   "12120515": {
@@ -14367,7 +14367,7 @@
     "name": "希侑Kiyuu",
     "type": "vtuber",
     "room": 23805066,
-    "face": "/bfs/face/a024b30d907031a05eca2826e50905b54adf94bf.jpg",
+    "face": "/bfs/face/c9a3b5c3468f9cf9f60a40bb92a90468133862d3.jpg",
     "group_name": "VirtuaReal"
   },
   "2099399911": {
@@ -14597,7 +14597,7 @@
   "2075571410": {
     "name": "平井殿下アメザリ",
     "type": "vtuber",
-    "room": 0,
+    "room": 22922468,
     "face": "/bfs/face/15df18485963c2e7e249f294491b134a7c72ef08.jpg",
     "group_name": ""
   },
@@ -16670,7 +16670,7 @@
     "name": "时尾树",
     "type": "vtuber",
     "room": 23578404,
-    "face": "/bfs/face/94264ad056f3d3e58245e5f57fd0c5407d13ef54.jpg",
+    "face": "/bfs/face/d510148d27a9b2fa4da31ab30ca2a4cb35596a98.jpg",
     "group_name": ""
   },
   "545539883": {
@@ -19862,7 +19862,7 @@
     "name": "栗雪_Official",
     "type": "vtuber",
     "room": 23218628,
-    "face": "/bfs/face/798a582c9f597cf6eb6f30883865ab18d4afc212.jpg",
+    "face": "/bfs/face/40d31fa92e7207defe5d7d229dda608998166525.jpg",
     "group_name": "椛榊计划"
   },
   "1609526545": {
@@ -23698,7 +23698,7 @@
     "name": "犬山玉姬Official",
     "type": "vtuber",
     "room": 4634167,
-    "face": "/bfs/face/829247855e6bf9d0316e7823d24eb88c92acb2e3.jpg",
+    "face": "/bfs/face/df59262b92eb6376772e243e75af7f823f48eb3c.jpg",
     "group_name": "NoriPro"
   },
   "14350494": {
@@ -25826,7 +25826,7 @@
     "name": "白鸟Asuta_Channel",
     "type": "vtuber",
     "room": 22330815,
-    "face": "/bfs/face/0e84108e00825ff4ea91d473d6fe3e5968613231.jpg",
+    "face": "/bfs/face/9b768b11fd0080c3826aaa1ab3a6cc0ef6e0d74a.jpg",
     "group_name": "hOuOu_Project"
   },
   "40741210": {
@@ -32874,7 +32874,7 @@
   "105295579": {
     "name": "迪蒙格拉斯",
     "type": "vtuber",
-    "room": 22292305,
+    "room": 0,
     "face": "/bfs/face/f0742e840574f2fcfe1bd765ad460b623981a54a.jpg",
     "group_name": "EroS"
   },
