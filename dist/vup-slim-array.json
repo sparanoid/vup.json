@@ -2409,7 +2409,7 @@
   },
   {
     "uid": 5308042,
-    "name": "Reimu的地灵殿",
+    "name": "ホホホイ・遠藤",
     "type": "vtuber",
     "room": 0,
     "group_name": ""
@@ -5860,7 +5860,7 @@
   },
   {
     "uid": 686340,
-    "name": "二之前十一_C",
+    "name": "二之前是一_C",
     "type": "vtuber",
     "room": 1473078,
     "group_name": ""
@@ -31097,7 +31097,7 @@
     "uid": 7685014,
     "name": "蒸汽猫薄荷Official",
     "type": "unknown",
-    "room": 0,
+    "room": 270102,
     "group_name": "inkschool"
   },
   {

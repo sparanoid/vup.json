@@ -2408,10 +2408,10 @@
     "group_name": ""
   },
   "5308042": {
-    "name": "Reimu的地灵殿",
+    "name": "ホホホイ・遠藤",
     "type": "vtuber",
     "room_id": 0,
-    "face": "/bfs/face/5c9380ab56f06544551940f6edf34d5051df3067.jpg",
+    "face": "/bfs/face/731f967bd6d692980cb24de93c23efefe4072016.jpg",
     "group_name": ""
   },
   "505638272": {
@@ -5859,7 +5859,7 @@
     "group_name": ""
   },
   "686340": {
-    "name": "二之前十一_C",
+    "name": "二之前是一_C",
     "type": "vtuber",
     "room_id": 1473078,
     "face": "/bfs/face/b7d4eb4230703bca60d9688e914578da0fae529e.jpg",
@@ -8130,7 +8130,7 @@
     "name": "劳伦伊罗斯的通缉名单",
     "type": "vtuber",
     "room_id": 23368615,
-    "face": "/bfs/face/e8f317d705045cb64e1c778e321983e615e69a3e.jpg",
+    "face": "/bfs/face/a6ee141e08849593d7c0b7c8be794e0e27a43fa9.jpg",
     "group_name": "NIJISANJI"
   },
   "5444269": {
@@ -31096,7 +31096,7 @@
   "7685014": {
     "name": "蒸汽猫薄荷Official",
     "type": "unknown",
-    "room_id": 0,
+    "room_id": 270102,
     "face": "/bfs/face/0a109e7fb508e4044591a29c58f9b434c257386f.jpg",
     "group_name": "inkschool"
   },
