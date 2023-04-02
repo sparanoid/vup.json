@@ -2595,7 +2595,7 @@
     "uid": 7684135,
     "name": "bilibili",
     "type": "vtuber",
-    "room": 645292,
+    "room": 0,
     "face": "/images/member/noface.gif",
     "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
@@ -2974,7 +2974,7 @@
     "name": "Pumpkin_H南瓜",
     "type": "vtuber",
     "room": 10361318,
-    "face": "/bfs/face/e0aa97e83ed1df2039234d206e4d935652392b49.jpg",
+    "face": "/bfs/face/017dd972bb4873e7039eea0ef749b756df0a571a.jpg",
     "sign": "只要好玩的游戏视频都会传！！！",
     "group_name": ""
   },
@@ -3511,11 +3511,11 @@
   },
   {
     "uid": 1359534346,
-    "name": "BrrrrBr_BrrBrrr",
+    "name": "Sonny的VSF分队",
     "type": "vtuber",
     "room": 24524982,
-    "face": "/bfs/face/1ac56c5fabeeaa8b00ae4623cf9fa8216dfcec28.jpg",
-    "sign": "Brrrr Br Brr BrrrrrBrrrr Br Brr Brrrr Br Brr Brrrrr Brrrr Br Brr Brrrr",
+    "face": "/bfs/face/e5e94d9173f6622b00da5e33c295f401b51a52d5.jpg",
+    "sign": "这里是NIJISANJI EN所属五期生Sonny Brisko的非公式翻译搬运组！ 审核：956271365",
     "group_name": "NIJISANJI EN"
   },
   {
@@ -3745,11 +3745,11 @@
   },
   {
     "uid": 2129870539,
-    "name": "香芋小鲜肉后援会",
+    "name": "Uki的捕星网",
     "type": "vtuber",
     "room": 24471272,
-    "face": "/bfs/face/c0b2b19dd124658a491fb4f2761994026e63d4c2.jpg",
-    "sign": "✨这里是Nijisanji EN所属艺人香芋小鲜肉的民间中文后援会✨ 审核群：955784464 ",
+    "face": "/bfs/face/434afb05efadb79c17a5cc9116c0fd0751cbec18.jpg",
+    "sign": "✨这里是Nijisanji EN所属V-tuber Uki Violeta的非正式字幕组✨ 审核群：955784464 ",
     "group_name": "NIJISANJI EN"
   },
   {
@@ -11930,7 +11930,7 @@
     "type": "vtuber",
     "room": 22852241,
     "face": "/bfs/face/cdbdff242dde3e19948c9f1242a4c73b7c238f7c.jpg",
-    "sign": "画师妈妈:阿蛙Kaeru  合作请私信，承接音乐制作。网易/Q音同名个人官网：www.kedaongaku.com",
+    "sign": "你好我是可嗒。不规律性直播。\n喜欢写歌。Q音，网易，抖音:可嗒\n合作请私信。",
     "group_name": ""
   },
   {
@@ -16023,7 +16023,7 @@
     "uid": 348677594,
     "name": "嫣然Laurel",
     "type": "vtuber",
-    "room": 0,
+    "room": 24650593,
     "face": "/bfs/face/0063dedcb335a409021d1519b1ac5ea7bc905f56.jpg",
     "sign": "做个梦给你。",
     "group_name": "云光计划"
@@ -20767,7 +20767,7 @@
     "name": "挽歌歌_",
     "type": "vtuber",
     "room": 21594123,
-    "face": "/bfs/face/e912358e3125a7b2ad92b4592502ee0c1d66441f.jpg",
+    "face": "/bfs/face/01ea881c84cff80e520c0569a0aef603d4babb09.jpg",
     "sign": "个人歌势，会一直留在你身边。网易云：挽歌歌_   录播号:是挽鹅    直播通知群：860951222",
     "group_name": ""
   },
@@ -22629,7 +22629,7 @@
     "uid": 17720955,
     "name": "alter亲",
     "type": "vtuber",
-    "room": 249310,
+    "room": 0,
     "face": "/bfs/face/5cbe20b11d4be2d046a987363d10e9aaa521d08d.jpg",
     "sign": "alter概念的具象化，会转换自身现世显现形态 （ps.兴趣使然的vup罢了，有主业不靠直播恰饭）",
     "group_name": ""
@@ -23574,7 +23574,7 @@
     "uid": 4254032,
     "name": "月夜見海棠Kaido",
     "type": "vtuber",
-    "room": 531435,
+    "room": 0,
     "face": "/bfs/face/0ed6cd79fab14443df375c695f5af4ac813b0b7a.jpg",
     "sign": "虚拟精神病人，努力不毕业。私家精神病院交流群915243427，一起突发恶疾！入院请备注。",
     "group_name": ""
@@ -26321,7 +26321,7 @@
     "type": "vtuber",
     "room": 22536488,
     "face": "/bfs/face/af5d0a88e21ccafa99d5a1cfbe2957d19de6e21f.jpg",
-    "sign": "个人势，是企鹅啦",
+    "sign": "铁血个人势企鹅！主打一个炸鸡唱片机，请选择合适的炸鸡投喂企鹅！",
     "group_name": ""
   },
   {
@@ -32566,7 +32566,7 @@
     "name": "白小蛮不讲理",
     "type": "vtuber",
     "room": 25773817,
-    "face": "/bfs/face/b3e0c08790ef09d770ab6d576a15c55a0a74ddd0.jpg",
+    "face": "/bfs/face/ada05a00096528c808cbde1624368958d2eb0a2b.jpg",
     "sign": "动漫作品《电狗人》中主要角色。由虚研社Astra出品。",
     "group_name": "虚研社"
   },
@@ -36526,7 +36526,7 @@
     "name": "绯吧official",
     "type": "vtuber",
     "room": 24722893,
-    "face": "/bfs/face/9effd018abb9f0e6047b88d5ab437f0e794bdc15.jpg",
+    "face": "/bfs/face/5aaa6cc44208b764c5b8b9d2d3e1dea57c7918e3.jpg",
     "sign": "[绯赤艾利欧吧投稿用]  视频制作协会  不是主播本人 不是主播本人 不是主播本人",
     "group_name": ""
   },
@@ -41016,7 +41016,7 @@
     "uid": 12070947,
     "name": "见风kaze",
     "type": "vtuber",
-    "room": 944614,
+    "room": 0,
     "face": "/bfs/face/3a34460341b05b52d7b3973ec2aa789055813bd1.jpg",
     "sign": "直播通知群：602782327",
     "group_name": ""
@@ -41854,7 +41854,7 @@
     "name": "路伊丝Louise",
     "type": "vtuber",
     "room": 23126335,
-    "face": "/bfs/face/ef9da28ef026efce5b1de226a25043c791c04197.jpg",
+    "face": "/bfs/face/80ca941c23e686170d6238ffee6068a7665fb091.jpg",
     "sign": "普罗维登二期生路伊丝๑外国蛇๑晕3D种田流玩家๑VC浓度过高警告๑直播时间晚9点-12点半๑相声日固定隔周一次",
     "group_name": "Providence"
   },

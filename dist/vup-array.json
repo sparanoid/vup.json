@@ -2307,7 +2307,7 @@
     "uid": 7684135,
     "name": "bilibili",
     "type": "vtuber",
-    "room": 645292,
+    "room": 0,
     "face": "/images/member/noface.gif",
     "group_name": ""
   },
@@ -2644,7 +2644,7 @@
     "name": "Pumpkin_H南瓜",
     "type": "vtuber",
     "room": 10361318,
-    "face": "/bfs/face/e0aa97e83ed1df2039234d206e4d935652392b49.jpg",
+    "face": "/bfs/face/017dd972bb4873e7039eea0ef749b756df0a571a.jpg",
     "group_name": ""
   },
   {
@@ -3121,10 +3121,10 @@
   },
   {
     "uid": 1359534346,
-    "name": "BrrrrBr_BrrBrrr",
+    "name": "Sonny的VSF分队",
     "type": "vtuber",
     "room": 24524982,
-    "face": "/bfs/face/1ac56c5fabeeaa8b00ae4623cf9fa8216dfcec28.jpg",
+    "face": "/bfs/face/e5e94d9173f6622b00da5e33c295f401b51a52d5.jpg",
     "group_name": "NIJISANJI EN"
   },
   {
@@ -3329,10 +3329,10 @@
   },
   {
     "uid": 2129870539,
-    "name": "香芋小鲜肉后援会",
+    "name": "Uki的捕星网",
     "type": "vtuber",
     "room": 24471272,
-    "face": "/bfs/face/c0b2b19dd124658a491fb4f2761994026e63d4c2.jpg",
+    "face": "/bfs/face/434afb05efadb79c17a5cc9116c0fd0751cbec18.jpg",
     "group_name": "NIJISANJI EN"
   },
   {
@@ -14243,7 +14243,7 @@
     "uid": 348677594,
     "name": "嫣然Laurel",
     "type": "vtuber",
-    "room": 0,
+    "room": 24650593,
     "face": "/bfs/face/0063dedcb335a409021d1519b1ac5ea7bc905f56.jpg",
     "group_name": "云光计划"
   },
@@ -18460,7 +18460,7 @@
     "name": "挽歌歌_",
     "type": "vtuber",
     "room": 21594123,
-    "face": "/bfs/face/e912358e3125a7b2ad92b4592502ee0c1d66441f.jpg",
+    "face": "/bfs/face/01ea881c84cff80e520c0569a0aef603d4babb09.jpg",
     "group_name": ""
   },
   {
@@ -20115,7 +20115,7 @@
     "uid": 17720955,
     "name": "alter亲",
     "type": "vtuber",
-    "room": 249310,
+    "room": 0,
     "face": "/bfs/face/5cbe20b11d4be2d046a987363d10e9aaa521d08d.jpg",
     "group_name": ""
   },
@@ -20955,7 +20955,7 @@
     "uid": 4254032,
     "name": "月夜見海棠Kaido",
     "type": "vtuber",
-    "room": 531435,
+    "room": 0,
     "face": "/bfs/face/0ed6cd79fab14443df375c695f5af4ac813b0b7a.jpg",
     "group_name": ""
   },
@@ -28948,7 +28948,7 @@
     "name": "白小蛮不讲理",
     "type": "vtuber",
     "room": 25773817,
-    "face": "/bfs/face/b3e0c08790ef09d770ab6d576a15c55a0a74ddd0.jpg",
+    "face": "/bfs/face/ada05a00096528c808cbde1624368958d2eb0a2b.jpg",
     "group_name": "虚研社"
   },
   {
@@ -32468,7 +32468,7 @@
     "name": "绯吧official",
     "type": "vtuber",
     "room": 24722893,
-    "face": "/bfs/face/9effd018abb9f0e6047b88d5ab437f0e794bdc15.jpg",
+    "face": "/bfs/face/5aaa6cc44208b764c5b8b9d2d3e1dea57c7918e3.jpg",
     "group_name": ""
   },
   {
@@ -36459,7 +36459,7 @@
     "uid": 12070947,
     "name": "见风kaze",
     "type": "vtuber",
-    "room": 944614,
+    "room": 0,
     "face": "/bfs/face/3a34460341b05b52d7b3973ec2aa789055813bd1.jpg",
     "group_name": ""
   },
@@ -37204,7 +37204,7 @@
     "name": "路伊丝Louise",
     "type": "vtuber",
     "room": 23126335,
-    "face": "/bfs/face/ef9da28ef026efce5b1de226a25043c791c04197.jpg",
+    "face": "/bfs/face/80ca941c23e686170d6238ffee6068a7665fb091.jpg",
     "group_name": "Providence"
   },
   {
