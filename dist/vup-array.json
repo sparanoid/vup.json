@@ -24424,6 +24424,14 @@
     "group_name": ""
   },
   {
+    "uid": 644237,
+    "name": "水一",
+    "type": "vtuber",
+    "room": 2264158,
+    "face": "/bfs/face/6b0f9b754f554b1d8c751f527a001598e8185c9d.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 5971153,
     "name": "水川静流",
     "type": "vtuber",
@@ -24508,7 +24516,7 @@
     "name": "水瓶メノ",
     "type": "vtuber",
     "room": 0,
-    "face": "/bfs/face/e975bda2b1a348e59a6cc0b706602a76fbe8ffdc.jpg",
+    "face": "/bfs/face/9713e6d609ad0afd7eee1bfebae123cd85bd4c03.jpg",
     "group_name": ""
   },
   {
