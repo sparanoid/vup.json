@@ -5932,7 +5932,7 @@
     "type": "vtuber",
     "room": 23086860,
     "face": "/bfs/face/e97521ce379325d8c433ffd3eddd2335661c3589.jpg",
-    "sign": "养成系VUP主打唱歌陪伴，每晚22:30开播歌杂，一般在周六组织游戏回（舰长团建）",
+    "sign": "养成系VUP唱歌陪伴，每晚22:00歌杂-深夜点歌台",
     "group_name": ""
   },
   "571841213": {
@@ -12139,7 +12139,7 @@
     "name": "墨喵星突突母舰Official",
     "type": "vtuber",
     "room": 10525,
-    "face": "/bfs/face/54245e98a4a1e16640a9889b56b822623ff1852c.jpg",
+    "face": "/bfs/face/b871d6ff6f53d2759308828a116bd0b238c913ef.jpg",
     "sign": "寄术高超指挥官墨喵，堂堂参上！擅长命令与征服，红色警戒，影之诗（皇家）【画师才是主业】墨喵的催更小群：484505301",
     "group_name": ""
   },
@@ -20962,7 +20962,7 @@
   "4254032": {
     "name": "月夜見海棠Kaido",
     "type": "vtuber",
-    "room": 0,
+    "room": 531435,
     "face": "/bfs/face/0ed6cd79fab14443df375c695f5af4ac813b0b7a.jpg",
     "sign": "虚拟精神病人，努力不毕业。私家精神病院交流群915243427，一起突发恶疾！入院请备注。",
     "group_name": ""
@@ -36474,7 +36474,7 @@
   "12070947": {
     "name": "见风kaze",
     "type": "vtuber",
-    "room": 0,
+    "room": 944614,
     "face": "/bfs/face/3a34460341b05b52d7b3973ec2aa789055813bd1.jpg",
     "sign": "直播通知群：602782327",
     "group_name": ""
@@ -37813,6 +37813,14 @@
     "room": 22858498,
     "face": "/bfs/face/16f19ef1b6c9011495dc3274181d795308676f51.jpg",
     "sign": " 融一块糖，为你画一个月亮 ｜电台主播、成长系唱见、野生配音员  人设形象是绵毛水苏!",
+    "group_name": ""
+  },
+  "3493077192804446": {
+    "name": "酥妲Starlight",
+    "type": "vtuber",
+    "room": 26337911,
+    "face": "/bfs/face/434065cb5edd0b848e464ebabbbede80b38e5017.jpg",
+    "sign": "什么是夜晚？出售星辰之书的书商",
     "group_name": ""
   },
   "454223734": {
@@ -41272,11 +41280,11 @@
     "group_name": ""
   },
   "142527799": {
-    "name": "鳥咕",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 4595844,
-    "face": "/bfs/face/16a5a0ac9c32e06d3c7eb9c73c26618257099de1.jpg",
-    "sign": "希望你也快乐。//每晚6点直播~",
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "1237941945": {

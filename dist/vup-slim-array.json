@@ -18343,7 +18343,7 @@
     "uid": 4254032,
     "name": "月夜見海棠Kaido",
     "type": "vtuber",
-    "room": 0,
+    "room": 531435,
     "group_name": ""
   },
   {
@@ -31916,7 +31916,7 @@
     "uid": 12070947,
     "name": "见风kaze",
     "type": "vtuber",
-    "room": 0,
+    "room": 944614,
     "group_name": ""
   },
   {
@@ -33086,6 +33086,13 @@
     "name": "酥壳Sarika",
     "type": "vtuber",
     "room": 22858498,
+    "group_name": ""
+  },
+  {
+    "uid": 3493077192804446,
+    "name": "酥妲Starlight",
+    "type": "vtuber",
+    "room": 26337911,
     "group_name": ""
   },
   {
@@ -36114,7 +36121,7 @@
   },
   {
     "uid": 142527799,
-    "name": "鳥咕",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 4595844,
     "group_name": ""
