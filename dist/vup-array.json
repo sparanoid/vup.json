@@ -9464,6 +9464,14 @@
     "group_name": ""
   },
   {
+    "uid": 337068859,
+    "name": "北藤Betty",
+    "type": "vtuber",
+    "room": 14399688,
+    "face": "/bfs/face/f5f39bfab5a11884a4eb22066de3f6cc6e1d9139.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1951760606,
     "name": "ツナシ_Tsunashi",
     "type": "vtuber",
@@ -19596,7 +19604,7 @@
     "name": "瑾星晚_Channel",
     "type": "vtuber",
     "room": 30294,
-    "face": "/bfs/face/df674be956b856577925b58dbe91cab26e770627.jpg",
+    "face": "/bfs/face/7be8a041d2a8a03b7a0dc5de92d6d0978318d0bb.jpg",
     "group_name": "纸片人计划"
   },
   {
@@ -29678,6 +29686,14 @@
     "room": 21425985,
     "face": "/bfs/face/19c8121cf048f6902f4aec2354995e823ee57ed9.jpg",
     "group_name": "ENTUM"
+  },
+  {
+    "uid": 410267272,
+    "name": "皇みかどvtuber",
+    "type": "vtuber",
+    "room": 23730263,
+    "face": "/bfs/face/eef939c2a1dd07f883817bf6766bc22bc3ecfdc6.jpg",
+    "group_name": ""
   },
   {
     "uid": 4482037,
