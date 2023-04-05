@@ -2018,7 +2018,7 @@
   "7684135": {
     "name": "bilibili",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 645292,
     "face": "/images/member/noface.gif",
     "group_name": ""
   },
@@ -14497,10 +14497,10 @@
     "group_name": "C-Live_Project"
   },
   "16649310": {
-    "name": "リドンシュ",
+    "name": "可不可以装作不认识我",
     "type": "vtuber",
     "room_id": 23280495,
-    "face": "/bfs/face/b985d9c6df4bfec92d019dcd7e22943977c03f57.jpg",
+    "face": "/bfs/face/71560ae2bdcb8c8b52244c3a420f2c13464ea691.jpg",
     "group_name": ""
   },
   "3493082429393021": {
@@ -34274,7 +34274,7 @@
   "206983318": {
     "name": "雀雀Official",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 21008542,
     "face": "/bfs/face/8988039622fd83feeb2a82b75e0809bfa2ea1e39.jpg",
     "group_name": "云光计划"
   },

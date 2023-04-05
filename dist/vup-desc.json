@@ -2306,7 +2306,7 @@
   "7684135": {
     "name": "bilibili",
     "type": "vtuber",
-    "room": 0,
+    "room": 645292,
     "face": "/images/member/noface.gif",
     "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
@@ -16568,10 +16568,10 @@
     "group_name": "C-Live_Project"
   },
   "16649310": {
-    "name": "リドンシュ",
+    "name": "可不可以装作不认识我",
     "type": "vtuber",
     "room": 23280495,
-    "face": "/bfs/face/b985d9c6df4bfec92d019dcd7e22943977c03f57.jpg",
+    "face": "/bfs/face/71560ae2bdcb8c8b52244c3a420f2c13464ea691.jpg",
     "sign": "",
     "group_name": ""
   },
@@ -30524,7 +30524,7 @@
     "type": "vtuber",
     "room": 4617224,
     "face": "/bfs/face/b5bfa3f236a76fcec8f3a898adc0b33a2a4dc08c.jpg",
-    "sign": "大家一起去到纯白色的天国（个人势准备中）",
+    "sign": "一起去往纯白色的天国",
     "group_name": ""
   },
   "411700399": {
@@ -39170,7 +39170,7 @@
   "206983318": {
     "name": "雀雀Official",
     "type": "vtuber",
-    "room": 0,
+    "room": 21008542,
     "face": "/bfs/face/8988039622fd83feeb2a82b75e0809bfa2ea1e39.jpg",
     "sign": "一只喜欢唱歌的小鸟!",
     "group_name": "云光计划"
