@@ -13674,7 +13674,7 @@
     "name": "小软睡醒了吗",
     "type": "vtuber",
     "room": 27043887,
-    "face": "/bfs/face/f1c7acf2bfb6c0ba4bac61c5976418feb3833d87.jpg",
+    "face": "/bfs/face/2fc290376682991d79dadb1c5954a727da4ec875.jpg",
     "group_name": ""
   },
   "1267463286": {
@@ -24131,7 +24131,7 @@
   "343490": {
     "name": "bilibili",
     "type": "vtuber",
-    "room": 40512,
+    "room": 0,
     "face": "/images/member/noface.gif",
     "group_name": ""
   },
