@@ -385,10 +385,10 @@
   },
   {
     "uid": 371691012,
-    "name": "PaletteProject",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 0,
-    "face": "/bfs/face/54055d699a9ef24168ba6a76d5cfce78cb152807.jpg",
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -6204,7 +6204,7 @@
     "name": "与枝老师",
     "type": "vtuber",
     "room": 24343457,
-    "face": "/bfs/face/8dd4dd4e0bba9d384f1a04510ea882eb9c1eb6bf.jpg",
+    "face": "/bfs/face/755db73ad197e68747bdb1f211d1638c08f4684a.jpg",
     "group_name": "新月社FCrescent"
   },
   {
@@ -7796,7 +7796,7 @@
     "name": "迟叶Oku",
     "type": "vtuber",
     "room": 1552519,
-    "face": "/bfs/face/d091f0fddaee3cfa17e5dec61f0077abe6b657c9.jpg",
+    "face": "/bfs/face/7eeb8d3217a434bd60b65f7dc475b3e5df645f9e.jpg",
     "group_name": ""
   },
   {
@@ -7852,7 +7852,7 @@
     "name": "依依Eyi",
     "type": "vtuber",
     "room": 23095058,
-    "face": "/bfs/face/7ba429b92d833d123ac4e7e6a17eaa615413a445.jpg",
+    "face": "/bfs/face/aa4f7c694c7a4736822fb1c76899345e974ee1cf.jpg",
     "group_name": ""
   },
   {
@@ -28316,7 +28316,7 @@
     "name": "喵仔瑞狩",
     "type": "vtuber",
     "room": 6031397,
-    "face": "/bfs/face/aca5d0ef380d4d5f9db40ad07be4201d0cc53a25.jpg",
+    "face": "/bfs/face/2e1af71de1926a3fe32c865331e0f2852f83856f.jpg",
     "group_name": ""
   },
   {
