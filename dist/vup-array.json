@@ -873,10 +873,10 @@
   },
   {
     "uid": 687304,
-    "name": "Elena-沐沐",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 73168,
-    "face": "/bfs/face/8848841bce429ce72fb354e428a4a837a27b38fa.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -27595,7 +27595,7 @@
     "uid": 343490,
     "name": "bilibili",
     "type": "vtuber",
-    "room": 0,
+    "room": 40512,
     "face": "/images/member/noface.gif",
     "group_name": ""
   },
@@ -30764,7 +30764,7 @@
     "name": "秋凛子Rinco",
     "type": "vtuber",
     "room": 21677969,
-    "face": "/bfs/face/b9bcdd444ee5618202e24e2196b03d8d5cd9c437.jpg",
+    "face": "/bfs/face/850cdb5eb92066a0a54932e8f3ebdc8ef1495769.jpg",
     "group_name": "P-SP"
   },
   {
@@ -36284,7 +36284,7 @@
     "name": "血狼墨雯",
     "type": "vtuber",
     "room": 21577332,
-    "face": "/bfs/face/bdd2f7dd3b92cecb7debb31dfb825d4f5fcbc947.jpg",
+    "face": "/bfs/face/bb12d2142c8b0d448bee399f398a355440279101.jpg",
     "group_name": ""
   },
   {

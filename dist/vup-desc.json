@@ -872,11 +872,11 @@
     "group_name": "夜空Project"
   },
   "687304": {
-    "name": "Elena-沐沐",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 73168,
-    "face": "/bfs/face/8848841bce429ce72fb354e428a4a837a27b38fa.jpg",
-    "sign": "嗞哇儿嗞哇儿，头像是茶饭老师画的",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "1639389144": {
@@ -2556,7 +2556,7 @@
     "type": "vtuber",
     "room": 438063,
     "face": "/bfs/face/7a00885c5e52e12118f7e91086845a0a907129e8.jpg",
-    "sign": "歌势VUP | 不唱歌的时候就是在D",
+    "sign": "歌势VUP | 无限期停播",
     "group_name": ""
   },
   "434103559": {
@@ -21516,7 +21516,7 @@
     "type": "vtuber",
     "room": 23858863,
     "face": "/bfs/face/aee5b6ae83f077116e975ac20a417093e4a80b6c.jpg",
-    "sign": "文字系vup，虚研学园所属。即使是黑夜雨，总有一天也能折射出微弱的光吧。天气预报群号：837368248",
+    "sign": "文字系vup，虚研学园所属。即使是黑夜雨，总有一天也能折射出微弱的光吧。",
     "group_name": "虚研学园"
   },
   "6699767": {
@@ -27594,7 +27594,7 @@
   "343490": {
     "name": "bilibili",
     "type": "vtuber",
-    "room": 0,
+    "room": 40512,
     "face": "/images/member/noface.gif",
     "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
@@ -30763,7 +30763,7 @@
     "name": "秋凛子Rinco",
     "type": "vtuber",
     "room": 21677969,
-    "face": "/bfs/face/b9bcdd444ee5618202e24e2196b03d8d5cd9c437.jpg",
+    "face": "/bfs/face/850cdb5eb92066a0a54932e8f3ebdc8ef1495769.jpg",
     "sign": "psplive所属。神社网这么破，活该没人来！【6G信号的神社：908926777】",
     "group_name": "P-SP"
   },
@@ -32092,7 +32092,7 @@
     "type": "vtuber",
     "room": 1145005,
     "face": "/bfs/face/765e6951a60bf298d10dcd94ca2bfa2fcb36b049.jpg",
-    "sign": "哇呜/新工作实习中",
+    "sign": "哇呜/新工作实习中/安稳下来再更新,各位同学抱歉哦",
     "group_name": ""
   },
   "147821346": {
@@ -36283,7 +36283,7 @@
     "name": "血狼墨雯",
     "type": "vtuber",
     "room": 21577332,
-    "face": "/bfs/face/bdd2f7dd3b92cecb7debb31dfb825d4f5fcbc947.jpg",
+    "face": "/bfs/face/bb12d2142c8b0d448bee399f398a355440279101.jpg",
     "sign": "兽人VUP，贪吃，爱玩/微博账号:血狼墨雯，但行好事，莫问前程。",
     "group_name": ""
   },
