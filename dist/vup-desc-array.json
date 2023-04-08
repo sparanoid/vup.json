@@ -15836,7 +15836,7 @@
     "type": "vtuber",
     "room": 23426285,
     "face": "/bfs/face/4607e7b2d60e40ac5bb4ee16729fdf7bd0893822.jpg",
-    "sign": "祝陌生的你一生平安喜乐～个人势V～\n直播时间：一般早上和晚上随机掉落～\n流星亮起来，不输日月。\n有偿招切片人～欢迎来私",
+    "sign": "流星亮起来，不输日月。",
     "group_name": ""
   },
   {
@@ -37956,7 +37956,7 @@
     "uid": 10675863,
     "name": "bilibili",
     "type": "vtuber",
-    "room": 8678426,
+    "room": 0,
     "face": "/images/member/noface.gif",
     "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
