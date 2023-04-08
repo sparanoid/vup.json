@@ -336,10 +336,10 @@
     "group_name": ""
   },
   "371691012": {
-    "name": "bilibili",
+    "name": "PaletteProject",
     "type": "vtuber",
     "room_id": 0,
-    "face": "/images/member/noface.gif",
+    "face": "/bfs/face/54055d699a9ef24168ba6a76d5cfce78cb152807.jpg",
     "group_name": ""
   },
   "2903285": {
@@ -6788,6 +6788,13 @@
     "room_id": 26197914,
     "face": "/bfs/face/43b37cb6df514878018374cadfd71b8f69e122c2.jpg",
     "group_name": "YOLO"
+  },
+  "150467539": {
+    "name": "余若_",
+    "type": "vtuber",
+    "room_id": 8506223,
+    "face": "/bfs/face/a1f92a971de312353dd182edec9b2f3ffa5e465e.jpg",
+    "group_name": ""
   },
   "33697714": {
     "name": "佚名ANO_",
@@ -22448,6 +22455,13 @@
     "face": "/bfs/face/773846ae2fa880850c0fbf581e99d58efacf94dc.jpg",
     "group_name": "P-SP"
   },
+  "3493260139956262": {
+    "name": "海月贝_official",
+    "type": "vtuber",
+    "room_id": 27373061,
+    "face": "/bfs/face/06de7ca455d58edbc82c40a4c2e550b800df92ce.jpg",
+    "group_name": ""
+  },
   "1479945": {
     "name": "海栖深水",
     "type": "vtuber",
@@ -28052,7 +28066,7 @@
     "name": "红晓音Akane",
     "type": "vtuber",
     "room_id": 411318,
-    "face": "/bfs/face/ce6e0b88b8891dbf4490426e6a8f93694d958bca.jpg",
+    "face": "/bfs/face/12fe483ccaccef9010646b1b8bcb33f174ab8f60.jpg",
     "group_name": "P-SP"
   },
   "30729515": {

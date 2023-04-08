@@ -288,7 +288,7 @@
     "group_name": ""
   },
   "371691012": {
-    "name": "bilibili",
+    "name": "PaletteProject",
     "type": "vtuber",
     "room": 0,
     "group_name": ""
@@ -5818,6 +5818,12 @@
     "type": "vtuber",
     "room": 26197914,
     "group_name": "YOLO"
+  },
+  "150467539": {
+    "name": "余若_",
+    "type": "vtuber",
+    "room": 8506223,
+    "group_name": ""
   },
   "33697714": {
     "name": "佚名ANO_",
@@ -19240,6 +19246,12 @@
     "type": "vtuber",
     "room": 23015128,
     "group_name": "P-SP"
+  },
+  "3493260139956262": {
+    "name": "海月贝_official",
+    "type": "vtuber",
+    "room": 27373061,
+    "group_name": ""
   },
   "1479945": {
     "name": "海栖深水",

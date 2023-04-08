@@ -433,11 +433,11 @@
   },
   {
     "uid": 371691012,
-    "name": "bilibili",
+    "name": "PaletteProject",
     "type": "vtuber",
     "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "face": "/bfs/face/54055d699a9ef24168ba6a76d5cfce78cb152807.jpg",
+    "sign": "Palette Project Official / パレプロ / ",
     "group_name": ""
   },
   {
@@ -8728,6 +8728,15 @@
     "face": "/bfs/face/43b37cb6df514878018374cadfd71b8f69e122c2.jpg",
     "sign": "歌杂势！爱唱歌！粉丝/直播通知群：727711063丨录播&歌切：@佑灯Akashi录播组",
     "group_name": "YOLO"
+  },
+  {
+    "uid": 150467539,
+    "name": "余若_",
+    "type": "vtuber",
+    "room": 8506223,
+    "face": "/bfs/face/a1f92a971de312353dd182edec9b2f3ffa5e465e.jpg",
+    "sign": "世间好物不坚牢｜不接稿",
+    "group_name": ""
   },
   {
     "uid": 33697714,
@@ -28863,6 +28872,15 @@
     "group_name": "P-SP"
   },
   {
+    "uid": 3493260139956262,
+    "name": "海月贝_official",
+    "type": "vtuber",
+    "room": 27373061,
+    "face": "/bfs/face/06de7ca455d58edbc82c40a4c2e550b800df92ce.jpg",
+    "sign": "我是在水族馆里出生和长大的人鱼女孩，海月贝（海月シェル）！\n属于作词・作曲・边唱边跳的音乐系Vtuber/Vsinger。",
+    "group_name": ""
+  },
+  {
     "uid": 1479945,
     "name": "海栖深水",
     "type": "vtuber",
@@ -36067,7 +36085,7 @@
     "name": "红晓音Akane",
     "type": "vtuber",
     "room": 411318,
-    "face": "/bfs/face/ce6e0b88b8891dbf4490426e6a8f93694d958bca.jpg",
+    "face": "/bfs/face/12fe483ccaccef9010646b1b8bcb33f174ab8f60.jpg",
     "sign": "psplive所属。喜欢唱歌的魔法少女，被迫早起的悲惨社畜，与你相遇就是最美的魔法！妈妈是@皐月深鈴。",
     "group_name": "P-SP"
   },
