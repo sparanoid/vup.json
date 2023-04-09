@@ -873,10 +873,10 @@
   },
   {
     "uid": 687304,
-    "name": "bilibili",
+    "name": "Elena-沐沐",
     "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
+    "room": 73168,
+    "face": "/bfs/face/8848841bce429ce72fb354e428a4a837a27b38fa.jpg",
     "group_name": ""
   },
   {
@@ -8099,7 +8099,7 @@
     "uid": 1249759353,
     "name": "bilibili",
     "type": "vtuber",
-    "room": 25569279,
+    "room": 0,
     "face": "/images/member/noface.gif",
     "group_name": "chaoslive"
   },
@@ -12100,7 +12100,7 @@
     "name": "塞拉菲娜_Serafina",
     "type": "vtuber",
     "room": 23941099,
-    "face": "/bfs/face/41bbff10dee63ee02379879b52f21a566320245e.jpg",
+    "face": "/bfs/face/02318c45f4f57205af4a39298488c1adc1390cdc.jpg",
     "group_name": "极光社"
   },
   {
@@ -25092,7 +25092,7 @@
     "name": "宇宙第一杏玛尔殿下",
     "type": "vtuber",
     "room": 8757487,
-    "face": "/bfs/face/d92b8f1b096dcadd7d0a7ff95797f72dbb567516.jpg",
+    "face": "/bfs/baselabs/622d7ffa52d6cab20a486966a97de427d191d56f.png",
     "group_name": ""
   },
   {
@@ -27996,7 +27996,7 @@
     "name": "珂菈_Konrada",
     "type": "vtuber",
     "room": 26662852,
-    "face": "/bfs/face/2c78bafaafd8e79237ebb182b77066742ee6e671.jpg",
+    "face": "/bfs/face/643e56ab6feede0971c5ffc0aee6d3d0be41ab6d.jpg",
     "group_name": ""
   },
   {
