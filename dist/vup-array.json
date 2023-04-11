@@ -18497,10 +18497,10 @@
   },
   {
     "uid": 8155464,
-    "name": "捌川-Yakawa",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 1208203,
-    "face": "/bfs/face/23ab4f727d72c736740b6f98d5573ac2602060bd.jpg",
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -26972,7 +26972,7 @@
     "name": "片桐秋_Official",
     "type": "vtuber",
     "room": 22628126,
-    "face": "/bfs/face/412f0b6bd034d3a226fb13183475a528140611c2.jpg",
+    "face": "/bfs/face/413c6e83b92b782c236bb9f340cb3672677b4e79.jpg",
     "group_name": ""
   },
   {
@@ -31508,7 +31508,7 @@
     "name": "米白zzz",
     "type": "vtuber",
     "room": 866400,
-    "face": "/bfs/face/f69287c37d099961ab8022c9bf23c31b3a16468d.jpg",
+    "face": "/bfs/face/2f431ffb9b8c39abfd180ab0cd455bec5ebeb7db.jpg",
     "group_name": "REDCircle红圈社"
   },
   {
