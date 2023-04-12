@@ -15240,11 +15240,11 @@
     "group_name": ""
   },
   "29984484": {
-    "name": "是小扶桑吖",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 2715801,
-    "face": "/bfs/face/45bf91a77256398d81811505c8d1689a9da46507.jpg",
-    "sign": "停播「山海经里的扶桑神树」",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "62778929": {
@@ -32451,7 +32451,7 @@
     "name": "绫月汐Shio",
     "type": "vtuber",
     "room": 6204892,
-    "face": "/bfs/face/2d2a5861c766b966fd32b41338600031a0afdac2.jpg",
+    "face": "/bfs/face/f29a04f467ea961136764c5b3d031a747325f20a.jpg",
     "sign": "自由的个人歌势，愿大家都吃上好吃的鱿鱼！",
     "group_name": ""
   },
@@ -41379,7 +41379,7 @@
     "name": "一般循环真由理",
     "type": "vtuber",
     "room": 23797878,
-    "face": "/bfs/face/6eb1dbdcb6e274fc4ed39dfe32ea750c60511b10.jpg",
+    "face": "/bfs/face/d17dfa7823c9734c2091b21420d501b585186c77.jpg",
     "sign": "玉玉小企鹅！不营业！会发点痛苦指南！容易生气！别惹姐！讨厌没礼貌！",
     "group_name": ""
   },

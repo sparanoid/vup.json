@@ -13335,10 +13335,10 @@
     "group_name": ""
   },
   "29984484": {
-    "name": "是小扶桑吖",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 2715801,
-    "face": "/bfs/face/45bf91a77256398d81811505c8d1689a9da46507.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "62778929": {
@@ -28395,7 +28395,7 @@
     "name": "绫月汐Shio",
     "type": "vtuber",
     "room_id": 6204892,
-    "face": "/bfs/face/2d2a5861c766b966fd32b41338600031a0afdac2.jpg",
+    "face": "/bfs/face/f29a04f467ea961136764c5b3d031a747325f20a.jpg",
     "group_name": ""
   },
   "20966016": {
@@ -36207,7 +36207,7 @@
     "name": "一般循环真由理",
     "type": "vtuber",
     "room_id": 23797878,
-    "face": "/bfs/face/6eb1dbdcb6e274fc4ed39dfe32ea750c60511b10.jpg",
+    "face": "/bfs/face/d17dfa7823c9734c2091b21420d501b585186c77.jpg",
     "group_name": ""
   },
   "287139378": {
