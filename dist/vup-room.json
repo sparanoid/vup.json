@@ -133,10 +133,10 @@
     "group_name": ""
   },
   "34237849": {
-    "name": "千代茨",
+    "name": "bilibili",
     "type": "vtuber",
     "room_id": 22802744,
-    "face": "/bfs/face/ab718e1e29f3ec29d6479c77f2b8f1c228142262.jpg",
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "31761638": {
@@ -4812,7 +4812,7 @@
     "name": "一口吃掉粥粥",
     "type": "vtuber",
     "room_id": 24199791,
-    "face": "/bfs/face/a31d4a02bedc226253ed60c6234f108847f84619.jpg",
+    "face": "/bfs/face/cf7524885480819c90227cc93873ca0eb78b6c97.jpg",
     "group_name": ""
   },
   "1726049329": {
@@ -16184,10 +16184,10 @@
     "group_name": ""
   },
   "8155464": {
-    "name": "bilibili",
+    "name": "捌川-Yakawa",
     "type": "vtuber",
     "room_id": 1208203,
-    "face": "/images/member/noface.gif",
+    "face": "/bfs/face/23ab4f727d72c736740b6f98d5573ac2602060bd.jpg",
     "group_name": ""
   },
   "1245370792": {
