@@ -3660,6 +3660,13 @@
     "face": "/bfs/face/bb3299d130c88428e6116312e1d7487284cc8803.jpg",
     "group_name": ""
   },
+  "3493116629748133": {
+    "name": "琳子夢Kila",
+    "type": "vtuber",
+    "room": 27196218,
+    "face": "/bfs/face/79dca1c3782ede9a59fa26c16db783d1676f05cb.jpg",
+    "group_name": ""
+  },
   "26541399": {
     "name": "鹿子kanoco",
     "type": "vtuber",
@@ -19431,6 +19438,13 @@
     "face": "/bfs/face/0693be70b6bff3da84dce152cd5cf2640f5ee1ae.jpg",
     "group_name": ""
   },
+  "90885100": {
+    "name": "柏岚_official",
+    "type": "vtuber",
+    "room": 26992968,
+    "face": "/bfs/face/00d24d7ad8badee3b37ac68205686e29d1274670.jpg",
+    "group_name": ""
+  },
   "2844993": {
     "name": "某柯moke",
     "type": "vtuber",
@@ -31275,6 +31289,13 @@
     "face": "/bfs/face/d27c67ddb378b40f16b7867240b175f6fe466f61.jpg",
     "group_name": "蟠桃组"
   },
+  "3493120318638494": {
+    "name": "蕉蕉bana",
+    "type": "vtuber",
+    "room": 26937844,
+    "face": "/bfs/face/3977747a3d8832ea4ff9c2f65e9ff2b8d789c02f.jpg",
+    "group_name": ""
+  },
   "1657621": {
     "name": "蕾伊娜Reyna",
     "type": "vtuber",
@@ -33120,7 +33141,7 @@
     "name": "酒酒井Anri",
     "type": "vtuber",
     "room": 15748,
-    "face": "/bfs/face/cc0e792ec4dec5515d4e694748ed5aecb9ab7122.jpg",
+    "face": "/bfs/face/55593db21d97cf8d47246e0d41ef2470b8088307.jpg",
     "group_name": ""
   },
   "44062985": {
