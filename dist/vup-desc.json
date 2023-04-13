@@ -7068,7 +7068,7 @@
     "type": "vtuber",
     "room": 6576550,
     "face": "/bfs/face/1680a84706bcccdbbffe398556af90d45b13fa03.jpg",
-    "sign": "【Wonderlive】所属staff<无心所行 愿自由如风>",
+    "sign": "<无心所行 愿自由如风>",
     "group_name": ""
   },
   "478425060": {
@@ -15248,11 +15248,11 @@
     "group_name": ""
   },
   "29984484": {
-    "name": "bilibili",
+    "name": "是小扶桑吖",
     "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "room": 2715801,
+    "face": "/bfs/face/45bf91a77256398d81811505c8d1689a9da46507.jpg",
+    "sign": "停播「山海经里的扶桑神树」",
     "group_name": ""
   },
   "62778929": {
