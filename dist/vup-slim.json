@@ -1163,12 +1163,6 @@
     "room": 23981982,
     "group_name": ""
   },
-  "632368824": {
-    "name": "琳子夢",
-    "type": "vtuber",
-    "room": 22881951,
-    "group_name": ""
-  },
   "668479385": {
     "name": "Laine_official",
     "type": "vtuber",
@@ -10558,6 +10552,12 @@
     "type": "vtuber",
     "room": 739818,
     "group_name": ""
+  },
+  "3493271057730096": {
+    "name": "妮莉安Lily",
+    "type": "vtuber",
+    "room": 27484357,
+    "group_name": "雪域Provealms"
   },
   "1160110127": {
     "name": "姉崎雪美Official",

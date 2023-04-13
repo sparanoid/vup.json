@@ -1357,13 +1357,6 @@
     "face": "/bfs/face/432b6398b076ec8b7fe17511de2b3796c61cd180.jpg",
     "group_name": ""
   },
-  "632368824": {
-    "name": "琳子夢",
-    "type": "vtuber",
-    "room": 22881951,
-    "face": "/bfs/face/0feca75114cd09549d7c77f0f2c8b3bf5d562c82.jpg",
-    "group_name": ""
-  },
   "668479385": {
     "name": "Laine_official",
     "type": "vtuber",
@@ -9376,7 +9369,7 @@
     "name": "叶崎花火是大聪明",
     "type": "vtuber",
     "room": 22605333,
-    "face": "/bfs/face/6e0ced91bac16763fd72ed3abf16b1d01ec54512.jpg",
+    "face": "/bfs/face/38743824ec9ac4b2e04c5caa961db710a75c088b.jpg",
     "group_name": ""
   },
   "1431690261": {
@@ -12318,6 +12311,13 @@
     "room": 739818,
     "face": "/bfs/face/7443c7c80c6daa3b5c5db306853fc8e4bbbc0046.jpg",
     "group_name": ""
+  },
+  "3493271057730096": {
+    "name": "妮莉安Lily",
+    "type": "vtuber",
+    "room": 27484357,
+    "face": "/bfs/face/81e39eb61a0cbefeb7a6647137167011a63e717f.jpg",
+    "group_name": "雪域Provealms"
   },
   "1160110127": {
     "name": "姉崎雪美Official",
