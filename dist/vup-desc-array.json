@@ -10188,6 +10188,15 @@
     "group_name": "C-Live_Project"
   },
   {
+    "uid": 3493118590585505,
+    "name": "凯莱Xella",
+    "type": "vtuber",
+    "room": 26868917,
+    "face": "/bfs/face/e6772b036e87f52172ff5dff8cf182c8f84e39db.jpg",
+    "sign": "_Eating my wings to make me tame_",
+    "group_name": ""
+  },
+  {
     "uid": 1051422690,
     "name": "凰清音_Kouseion",
     "type": "vtuber",
@@ -21003,6 +21012,15 @@
     "room": 4640640,
     "face": "/bfs/face/6910acecbc7a9698bf0b135970a3437fe69aa8b4.jpg",
     "sign": "我们大多数生活得并不快乐",
+    "group_name": ""
+  },
+  {
+    "uid": 518227085,
+    "name": "文野Fenya",
+    "type": "vtuber",
+    "room": 26865384,
+    "face": "/bfs/face/96f60dc6aff849ca3c63abe82eaeab10611b752f.jpg",
+    "sign": "",
     "group_name": ""
   },
   {
