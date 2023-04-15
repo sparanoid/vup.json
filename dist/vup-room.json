@@ -5011,6 +5011,13 @@
     "face": "/bfs/face/5500fd199433da823bb78fcc6dc0cb4106788aa5.jpg",
     "group_name": ""
   },
+  "275713752": {
+    "name": "七之宝",
+    "type": "vtuber",
+    "room_id": 23822558,
+    "face": "/bfs/face/8b319ee2e94e0be476b2bb5da916d6cf03b30875.jpg",
+    "group_name": ""
+  },
   "6658426": {
     "name": "七云洛",
     "type": "vtuber",
@@ -10399,6 +10406,13 @@
     "type": "vtuber",
     "room_id": 24883813,
     "face": "/bfs/face/68b24f8444313d7208aaba11ef3e327f58bba73e.jpg",
+    "group_name": ""
+  },
+  "140525084": {
+    "name": "四方竹志",
+    "type": "vtuber",
+    "room_id": 14553721,
+    "face": "/bfs/face/593004806ace0019f165ea1ccd17a40dd4cb6484.jpg",
     "group_name": ""
   },
   "3324664": {
@@ -22405,6 +22419,13 @@
     "room_id": 0,
     "face": "/bfs/face/bc8880caf652178c8007fb6b42a630aa72a5c6b2.jpg",
     "group_name": "浅海Project"
+  },
+  "382787873": {
+    "name": "浅羽啾yami",
+    "type": "vtuber",
+    "room_id": 22739872,
+    "face": "/bfs/face/f8490a6c28425a754b66f6348d0037008fc064d7.jpg",
+    "group_name": ""
   },
   "12348934": {
     "name": "浅蓝-血余_Official",

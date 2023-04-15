@@ -5012,6 +5012,13 @@
     "group_name": ""
   },
   {
+    "uid": 275713752,
+    "name": "七之宝",
+    "type": "vtuber",
+    "room": 23822558,
+    "group_name": ""
+  },
+  {
     "uid": 6658426,
     "name": "七云洛",
     "type": "vtuber",
@@ -10399,6 +10406,13 @@
     "name": "四宮胡桃_Official",
     "type": "vtuber",
     "room": 24883813,
+    "group_name": ""
+  },
+  {
+    "uid": 140525084,
+    "name": "四方竹志",
+    "type": "vtuber",
+    "room": 14553721,
     "group_name": ""
   },
   {
@@ -22405,6 +22419,13 @@
     "type": "group",
     "room": 0,
     "group_name": "浅海Project"
+  },
+  {
+    "uid": 382787873,
+    "name": "浅羽啾yami",
+    "type": "vtuber",
+    "room": 22739872,
+    "group_name": ""
   },
   {
     "uid": 12348934,

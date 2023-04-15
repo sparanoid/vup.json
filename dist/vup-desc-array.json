@@ -6444,6 +6444,15 @@
     "group_name": ""
   },
   {
+    "uid": 275713752,
+    "name": "七之宝",
+    "type": "vtuber",
+    "room": 23822558,
+    "face": "/bfs/face/8b319ee2e94e0be476b2bb5da916d6cf03b30875.jpg",
+    "sign": "Mango school唯一学员，喜欢宅在家吃零食打枪的七宝！",
+    "group_name": ""
+  },
+  {
     "uid": 6658426,
     "name": "七云洛",
     "type": "vtuber",
@@ -13371,6 +13380,15 @@
     "room": 24883813,
     "face": "/bfs/face/68b24f8444313d7208aaba11ef3e327f58bba73e.jpg",
     "sign": "https://twitter.com/KurumiShinomiya ",
+    "group_name": ""
+  },
+  {
+    "uid": 140525084,
+    "name": "四方竹志",
+    "type": "vtuber",
+    "room": 14553721,
+    "face": "/bfs/face/593004806ace0019f165ea1ccd17a40dd4cb6484.jpg",
+    "sign": "连接虚拟与现实、现在与未来，是我的使命。",
     "group_name": ""
   },
   {
@@ -28807,6 +28825,15 @@
     "face": "/bfs/face/bc8880caf652178c8007fb6b42a630aa72a5c6b2.jpg",
     "sign": "",
     "group_name": "浅海Project"
+  },
+  {
+    "uid": 382787873,
+    "name": "浅羽啾yami",
+    "type": "vtuber",
+    "room": 22739872,
+    "face": "/bfs/face/f8490a6c28425a754b66f6348d0037008fc064d7.jpg",
+    "sign": "各位小啾鸠们 啾啾爱你们呀~",
+    "group_name": ""
   },
   {
     "uid": 12348934,
