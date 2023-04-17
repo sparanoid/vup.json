@@ -3724,6 +3724,13 @@
     "group_name": "草莓王子"
   },
   {
+    "uid": 3461577258830514,
+    "name": "涅可Necro_official",
+    "type": "vtuber",
+    "room": 27144863,
+    "group_name": ""
+  },
+  {
     "uid": 1124175567,
     "name": "Neko贩卖机",
     "type": "group",
@@ -36502,6 +36509,13 @@
     "name": "鹿实Tamiko",
     "type": "vtuber",
     "room": 26067860,
+    "group_name": ""
+  },
+  {
+    "uid": 3493116151598026,
+    "name": "鹿小清-",
+    "type": "vtuber",
+    "room": 27535049,
     "group_name": ""
   },
   {

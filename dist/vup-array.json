@@ -4256,6 +4256,14 @@
     "group_name": "草莓王子"
   },
   {
+    "uid": 3461577258830514,
+    "name": "涅可Necro_official",
+    "type": "vtuber",
+    "room": 27144863,
+    "face": "/bfs/face/749fc0a8cef5018a9c184f46fd08676027a14bde.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1124175567,
     "name": "Neko贩卖机",
     "type": "group",
@@ -41717,6 +41725,14 @@
     "type": "vtuber",
     "room": 26067860,
     "face": "/bfs/face/1947ff222af07ee929890d095086ee6e2b3f2315.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493116151598026,
+    "name": "鹿小清-",
+    "type": "vtuber",
+    "room": 27535049,
+    "face": "/bfs/face/c34fe355d5a772f3fb5aee7293711438fbc6278f.jpg",
     "group_name": ""
   },
   {
