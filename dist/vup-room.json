@@ -15249,7 +15249,7 @@
     "name": "律子丶",
     "type": "vtuber",
     "room_id": 1214173,
-    "face": "/bfs/face/70704c8bb2c115abd36d36384d22c0d81cf0df00.jpg",
+    "face": "/bfs/face/66e2b078f27c01b4a199f93d89e7c99f9e6f6f0e.jpg",
     "group_name": ""
   },
   "1849519124": {
@@ -23271,7 +23271,7 @@
     "name": "灵晓_Official",
     "type": "vtuber",
     "room_id": 3484029,
-    "face": "/bfs/face/4642f6b46344c85f2138a15b8c5adda39383f015.jpg",
+    "face": "/bfs/face/67fc748ae78a55b849da69e14618ad8c5d186c58.jpg",
     "group_name": ""
   },
   "1398": {
@@ -24127,6 +24127,13 @@
     "room_id": 9286381,
     "face": "/bfs/face/f2842ded00e67fd062f6add8acb17ff7293b91e0.jpg",
     "group_name": "ENTUM"
+  },
+  "1356089080": {
+    "name": "猫宮悠米-星辰计划",
+    "type": "vtuber",
+    "room_id": 26652742,
+    "face": "/bfs/face/5df610810f8106c23c37f0dcf2c952d90db55c69.jpg",
+    "group_name": "WACTOR"
   },
   "126676": {
     "name": "猫宮梅メイ",
