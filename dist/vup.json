@@ -14377,6 +14377,13 @@
     "face": "/bfs/face/ce9f9fb30ebfb0d199d89e5813d769e90970a081.jpg",
     "group_name": ""
   },
+  "2048498401": {
+    "name": "布鲁荣_Miya",
+    "type": "vtuber",
+    "room": 27512260,
+    "face": "/bfs/face/8076a4efa24b4ce66929a5884ee872e1b2723ef9.jpg",
+    "group_name": ""
+  },
   "10955537": {
     "name": "帅冷冷QuQ",
     "type": "vtuber",
@@ -16726,7 +16733,7 @@
     "name": "早铃",
     "type": "vtuber",
     "room": 22953683,
-    "face": "/bfs/face/4029b538bce8c668cd802a9b39795ab634c405a2.jpg",
+    "face": "/bfs/face/c6261b5fd84961bb7f96bfeaf03c2ed349db69f3.jpg",
     "group_name": ""
   },
   "565286306": {
@@ -36670,6 +36677,13 @@
     "type": "vtuber",
     "room": 9990672,
     "face": "/bfs/face/d8d953b4692ad4765d5e48ef0edda1242d7a8b8a.jpg",
+    "group_name": ""
+  },
+  "3493104606775735": {
+    "name": "麻辣突兔",
+    "type": "vtuber",
+    "room": 26646598,
+    "face": "/bfs/face/cd87edd4858e8f425d3afcc8415e00c7dd7cf25f.jpg",
     "group_name": ""
   },
   "690147773": {
