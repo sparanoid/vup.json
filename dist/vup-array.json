@@ -14620,7 +14620,7 @@
     "name": "菠萝子_Pineapple",
     "type": "vtuber",
     "room": 21755112,
-    "face": "/bfs/face/06e7c502383cc165676308a12504c6d0aad9106b.jpg",
+    "face": "/bfs/face/f93a8d47fdde00c40435fea872b400d1e1bdb382.jpg",
     "group_name": ""
   },
   {
@@ -24673,10 +24673,10 @@
   },
   {
     "uid": 289584842,
-    "name": "咕咕蓝某人",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 10674313,
-    "face": "/bfs/face/f66387c0cb5e9c3ac7778a10cbe39882e8e6629b.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": "妖灵project"
   },
   {
@@ -28420,7 +28420,7 @@
     "name": "喵仔瑞狩",
     "type": "vtuber",
     "room": 6031397,
-    "face": "/bfs/face/e058cfe825b22f9d31f7704e1a9ccee497e810b4.jpg",
+    "face": "/bfs/face/47cbf68c2c4fff68182252a382c547e619a0fb2c.jpg",
     "group_name": ""
   },
   {
