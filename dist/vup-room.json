@@ -5386,7 +5386,7 @@
     "name": "不知原深",
     "type": "vtuber",
     "room_id": 26526557,
-    "face": "/bfs/face/589b090e32e39a97cf38c908f393c9f6155da736.jpg",
+    "face": "/bfs/face/f31fe3939dcbd9a6b8916d023f63b36e1e6cf661.jpg",
     "group_name": "猫邮社"
   },
   "454737600": {
@@ -14363,6 +14363,13 @@
     "face": "/bfs/face/b4a08451a02a8026796cd7d351dcf1941aad932f.jpg",
     "group_name": ""
   },
+  "1877010830": {
+    "name": "布蕾Nonoko",
+    "type": "vtuber",
+    "room_id": 27201226,
+    "face": "/bfs/face/56014b829e2239dd067d1783044cd94add55995f.jpg",
+    "group_name": ""
+  },
   "595211": {
     "name": "布谷小羊",
     "type": "vtuber",
@@ -14948,7 +14955,7 @@
     "name": "库洛西娅Celosia",
     "type": "vtuber",
     "room_id": 27251912,
-    "face": "/bfs/face/2da428746b3faa2e31b762c0433cb86b3a830bd5.jpg",
+    "face": "/bfs/face/6d7e5b57388f48aaf11bfd03e27061bbe8d18520.jpg",
     "group_name": "Para-dice"
   },
   "1306091103": {
