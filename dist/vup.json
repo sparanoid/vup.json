@@ -132,13 +132,6 @@
     "face": "/bfs/face/3281e7f39f8cdde6149eb6a3f63db2bc9a0421ac.jpg",
     "group_name": ""
   },
-  "34237849": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 22802744,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "31761638": {
     "name": "8911勘测研究所",
     "type": "vtuber",
@@ -2008,13 +2001,6 @@
     "face": "/bfs/face/fa3f55539575e5e45a7a5a2f84a3335874a6e5d9.jpg",
     "group_name": ""
   },
-  "7684135": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "471542440": {
     "name": "轰渣机牌录播组",
     "type": "vtuber",
@@ -3427,13 +3413,6 @@
     "type": "vtuber",
     "room": 21607261,
     "face": "/bfs/face/7a537696d8e72b5a1e81a878ef55378700a2e976.jpg",
-    "group_name": ""
-  },
-  "650592442": {
-    "name": "关注biubiu酱紫玩",
-    "type": "vtuber",
-    "room": 25035778,
-    "face": "/bfs/face/3e15cc4b568649dd7a9039713bc71f786c90b1d9.jpg",
     "group_name": ""
   },
   "499547525": {
@@ -4975,13 +4954,6 @@
     "room": 24173033,
     "face": "/bfs/face/2db0ab45d7f694c00983410b999e96f91ec772d2.jpg",
     "group_name": ""
-  },
-  "106348951": {
-    "name": "一色翎Official",
-    "type": "vtuber",
-    "room": 4442849,
-    "face": "/bfs/face/10df4adaa2429f6788886854e200bdb413b230b7.jpg",
-    "group_name": "妖精体系FairySystem"
   },
   "517060084": {
     "name": "一颗芽Official",
@@ -7097,13 +7069,6 @@
     "face": "/bfs/face/81e90a729076305a3b8da50fa47f8971b28bb991.jpg",
     "group_name": ""
   },
-  "1249759353": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25569279,
-    "face": "/images/member/noface.gif",
-    "group_name": "chaoslive"
-  },
   "6121204": {
     "name": "克洛伊斯く",
     "type": "vtuber",
@@ -8329,13 +8294,6 @@
     "face": "/bfs/face/d75d767ff261006e868d19c66dcb9a8234fbe133.jpg",
     "group_name": ""
   },
-  "433597809": {
-    "name": "十三さま-",
-    "type": "vtuber",
-    "room": 21441066,
-    "face": "/bfs/face/cc93bdc255e31c374a35e5546a8252e4c956155d.jpg",
-    "group_name": ""
-  },
   "6074208": {
     "name": "十六夜凛子",
     "type": "vtuber",
@@ -8915,13 +8873,6 @@
     "type": "vtuber",
     "room": 735709,
     "face": "/bfs/face/d69624dbbff7065da614a412620cf0a9936b0ef3.jpg",
-    "group_name": ""
-  },
-  "3493081923979268": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1250146883": {
@@ -12528,13 +12479,6 @@
     "room": 23429625,
     "face": "/bfs/face/125e9833c29741538b5e439caf9e87b0d858f1fb.jpg",
     "group_name": ""
-  },
-  "313478686": {
-    "name": "嬉野卯衣Official",
-    "type": "vtuber",
-    "room": 10407213,
-    "face": "/bfs/face/08f33ca5eb338d195cdcbd1a0cfc4995fb8b470a.jpg",
-    "group_name": "Project Lupinus"
   },
   "687741776": {
     "name": "嬉野那姬Official",
@@ -19767,13 +19711,6 @@
     "face": "/bfs/face/6eb1981a8c0888365247674a2da1e7e9444c6a04.jpg",
     "group_name": "ChaosLiveSprout"
   },
-  "1817270847": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25478421,
-    "face": "/images/member/noface.gif",
-    "group_name": "樱满月虚拟社团"
-  },
   "23760783": {
     "name": "柴卡的游戏王连锁军团",
     "type": "vtuber",
@@ -23792,13 +23729,6 @@
     "face": "/bfs/face/b13d204e89225329e746757e9a1cb56507f95323.jpg",
     "group_name": ""
   },
-  "43679276": {
-    "name": "犬冢鈴_Official",
-    "type": "vtuber",
-    "room": 1349309,
-    "face": "/bfs/face/67beb33e94878aed2233dbf4740de130e7c7232f.jpg",
-    "group_name": "TTTeam"
-  },
   "1386545245": {
     "name": "犬卷日鞠-官方WACTOR",
     "type": "vtuber",
@@ -24238,13 +24168,6 @@
     "type": "vtuber",
     "room": 232211,
     "face": "/bfs/face/b95938a46d79f9fb4e628f48804ba1ec9d403f79.jpg",
-    "group_name": ""
-  },
-  "343490": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1489184103": {
@@ -29623,13 +29546,6 @@
     "face": "/bfs/face/eb2c30b310e41ab7a23253ba6921565a57e053bb.jpg",
     "group_name": ""
   },
-  "10675863": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "17992194": {
     "name": "芝士饿晕了耶",
     "type": "vtuber",
@@ -31435,13 +31351,6 @@
     "room": 23195972,
     "face": "/bfs/face/4173fafd0be98631cd429e3ebab0ba458cf8d9bf.jpg",
     "group_name": ""
-  },
-  "1097496558": {
-    "name": "账号暂留",
-    "type": "vtuber",
-    "room": 22882795,
-    "face": "/bfs/face/93f6affee439f68305c99dd7b9dd52d12763825c.jpg",
-    "group_name": "Facemoe官方"
   },
   "867152": {
     "name": "蕾蕾大表哥",
