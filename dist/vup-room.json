@@ -7602,7 +7602,7 @@
     "group_name": "忘崽牛奶"
   },
   "11368670": {
-    "name": "冬泽枫official",
+    "name": "冬泽枫啥都想干就是菜",
     "type": "vtuber",
     "room_id": 242574,
     "face": "/bfs/face/7f444dce8ffc125cd374874d4eaa42ea428436b3.jpg",
@@ -26249,6 +26249,13 @@
     "face": "/bfs/face/fb8fc002a50de6b38085dd8f0e76642533f1dc98.jpg",
     "group_name": ""
   },
+  "363395719": {
+    "name": "真咲樱_Official",
+    "type": "vtuber",
+    "room_id": 22426839,
+    "face": "/bfs/face/d62e9581a904b27a90870696859edc5c1c46dd05.jpg",
+    "group_name": ""
+  },
   "17573731": {
     "name": "真城煌璃Official",
     "type": "vtuber",
@@ -26446,7 +26453,7 @@
     "group_name": ""
   },
   "2393138": {
-    "name": "yakami哒",
+    "name": "飞鸟yakami",
     "type": "vtuber",
     "room_id": 3824860,
     "face": "/bfs/face/93daf2135e29fb1b13a4762fde6bea02cb074d29.jpg",
@@ -31552,7 +31559,7 @@
     "name": "虚拟小萨",
     "type": "vtuber",
     "room_id": 43241,
-    "face": "/bfs/face/26a6ee86561d98fc55212b65ceeafa2ca6cf28af.jpg",
+    "face": "/bfs/face/6e1d8b88f3814677a3708f299879cd45d2f692e5.jpg",
     "group_name": "玹云社"
   },
   "916984": {
