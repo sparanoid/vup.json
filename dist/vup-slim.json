@@ -9017,12 +9017,6 @@
     "room": 21737386,
     "group_name": "hOuOu_Project"
   },
-  "519445886": {
-    "name": "Nya尼桠",
-    "type": "vtuber",
-    "room": 23142425,
-    "group_name": ""
-  },
   "1257095895": {
     "name": "塔洛斯Tartarus",
     "type": "vtuber",
@@ -10395,6 +10389,12 @@
     "name": "奶思初",
     "type": "vtuber",
     "room": 25191122,
+    "group_name": ""
+  },
+  "3493271158393805": {
+    "name": "奶曦Tsuki",
+    "type": "vtuber",
+    "room": 27515917,
     "group_name": ""
   },
   "169710597": {
@@ -26907,12 +26907,6 @@
     "name": "薇拉_Xaviera",
     "type": "vtuber",
     "room": 23364521,
-    "group_name": ""
-  },
-  "93669": {
-    "name": "薛ちゃんねる",
-    "type": "vtuber",
-    "room": 854960,
     "group_name": ""
   },
   "11013822": {

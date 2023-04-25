@@ -10520,13 +10520,6 @@
     "face": "/bfs/face/17430dccfe1c7ecab179ef291d874a157d13b1e2.jpg",
     "group_name": "hOuOu_Project"
   },
-  "519445886": {
-    "name": "Nya尼桠",
-    "type": "vtuber",
-    "room": 23142425,
-    "face": "/bfs/face/b3f7b18bd040f6b821de9b64093f411b71aefe0b.jpg",
-    "group_name": ""
-  },
   "1257095895": {
     "name": "塔洛斯Tartarus",
     "type": "vtuber",
@@ -12128,6 +12121,13 @@
     "type": "vtuber",
     "room": 25191122,
     "face": "/bfs/face/8ff938602ac4d3c82d64611dbcc0b8939b7282f4.jpg",
+    "group_name": ""
+  },
+  "3493271158393805": {
+    "name": "奶曦Tsuki",
+    "type": "vtuber",
+    "room": 27515917,
+    "face": "/bfs/face/7f840bb00a79d588de5ceea334ae8adee4b36578.jpg",
     "group_name": ""
   },
   "169710597": {
@@ -31392,13 +31392,6 @@
     "type": "vtuber",
     "room": 23364521,
     "face": "/bfs/face/2d7a1e373d5761107fa213b58b941682da79cfb2.jpg",
-    "group_name": ""
-  },
-  "93669": {
-    "name": "薛ちゃんねる",
-    "type": "vtuber",
-    "room": 854960,
-    "face": "/bfs/face/943c097ca4fbbaefce2de19cdcbcdd3f769c9735.jpg",
     "group_name": ""
   },
   "11013822": {
