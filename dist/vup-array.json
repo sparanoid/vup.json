@@ -3540,7 +3540,7 @@
     "name": "Vox_EN_Official",
     "type": "vtuber",
     "room": 24731541,
-    "face": "/bfs/face/5bfc30adca0fe5431f7222fc9b11aae2a7dc74fb.jpg",
+    "face": "/bfs/face/85cb053d25500c863224bfd01ebf754af226bec5.jpg",
     "group_name": "NIJISANJI EN"
   },
   {
@@ -22572,7 +22572,7 @@
     "name": "芽衣meiii",
     "type": "vtuber",
     "room": 8193489,
-    "face": "/bfs/face/0ec1af64494372c649abb55768f3f111d7138c8f.jpg",
+    "face": "/bfs/face/2b2b78aaaf3f631a565f5f2e4ef0ad84d8fbe51d.jpg",
     "group_name": ""
   },
   {
@@ -26505,10 +26505,10 @@
   },
   {
     "uid": 22081435,
-    "name": "灯侨呀",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 3217309,
-    "face": "/bfs/face/c7850c1043c3cf9341bdf33b64aa6610f68d6bc3.jpg",
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -32404,7 +32404,7 @@
     "name": "绘梨糯Nino",
     "type": "vtuber",
     "room": 25539608,
-    "face": "/bfs/face/1bda77777e91266d2d4b82769869b8191d1cfd39.jpg",
+    "face": "/bfs/face/26a12572a62be55a22b193f11a3bdfcdc86910e4.jpg",
     "group_name": ""
   },
   {
@@ -38460,7 +38460,7 @@
     "name": "银杏Kyou",
     "type": "vtuber",
     "room": 24572617,
-    "face": "/bfs/face/bfaa4dbf9bdf5343244c372587eff7aa78c3dfee.jpg",
+    "face": "/bfs/face/6f26a28c7611ee2df61a1af6e754f1e5d517c6d1.jpg",
     "group_name": "chaoslive"
   },
   {
