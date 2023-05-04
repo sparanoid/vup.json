@@ -1145,7 +1145,7 @@
     "name": "伊塔Ita",
     "type": "vtuber",
     "room": 27651,
-    "group_name": "SOW"
+    "group_name": ""
   },
   {
     "uid": 382821371,
@@ -2426,7 +2426,7 @@
     "name": "Riztech",
     "type": "vtuber",
     "room": 58896,
-    "group_name": "SOW"
+    "group_name": ""
   },
   {
     "uid": 2304086,
@@ -2504,13 +2504,6 @@
     "type": "vtuber",
     "room": 3569888,
     "group_name": "V_G研究所"
-  },
-  {
-    "uid": 413638423,
-    "name": "Virtual社团SOW",
-    "type": "group",
-    "room": 0,
-    "group_name": ""
   },
   {
     "uid": 2791185,
@@ -4800,13 +4793,6 @@
     "type": "vtuber",
     "room": 24199791,
     "group_name": ""
-  },
-  {
-    "uid": 1726049329,
-    "name": "克噜噜krul",
-    "type": "vtuber",
-    "room": 25763040,
-    "group_name": "云光计划"
   },
   {
     "uid": 21591929,
@@ -8338,7 +8324,7 @@
   },
   {
     "uid": 1662426,
-    "name": "来个人把我打晕到五月",
+    "name": "是棵草",
     "type": "vtuber",
     "room": 576643,
     "group_name": ""
@@ -8594,13 +8580,6 @@
     "type": "vtuber",
     "room": 23251345,
     "group_name": "极光社"
-  },
-  {
-    "uid": 68143307,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 8638332,
-    "group_name": ""
   },
   {
     "uid": 553771121,
@@ -11873,7 +11852,7 @@
   },
   {
     "uid": 18796087,
-    "name": "Eluthya",
+    "name": "伊露夏Eluthya",
     "type": "vtuber",
     "room": 246149,
     "group_name": ""
@@ -12832,7 +12811,7 @@
   },
   {
     "uid": 97439580,
-    "name": "HAORENHAORRN",
+    "name": "老爹使用中",
     "type": "vtuber",
     "room": 3927637,
     "group_name": "鸽鹉live"
@@ -16653,13 +16632,6 @@
     "group_name": ""
   },
   {
-    "uid": 13791309,
-    "name": "小狐狸樱喵",
-    "type": "vtuber",
-    "room": 989552,
-    "group_name": "kenlos"
-  },
-  {
     "uid": 479591145,
     "name": "早起喵Official",
     "type": "vtuber",
@@ -18344,7 +18316,7 @@
     "name": "月夜摸鱼Official",
     "type": "vtuber",
     "room": 21445382,
-    "group_name": "SOW"
+    "group_name": ""
   },
   {
     "uid": 9312446,
@@ -20738,13 +20710,6 @@
     "name": "蛋黄酥不要麻薯",
     "type": "vtuber",
     "room": 2293136,
-    "group_name": ""
-  },
-  {
-    "uid": 653593,
-    "name": "椰栗Yeri",
-    "type": "vtuber",
-    "room": 5258376,
     "group_name": ""
   },
   {
@@ -23863,6 +23828,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493276812315028,
+    "name": "狐猫阿黎",
+    "type": "vtuber",
+    "room": 27594639,
+    "group_name": ""
+  },
+  {
     "uid": 1575399192,
     "name": "奈糖Kitsune",
     "type": "vtuber",
@@ -26558,13 +26530,6 @@
     "group_name": ""
   },
   {
-    "uid": 3328498,
-    "name": "祁宝困兮兮",
-    "type": "vtuber",
-    "room": 2416317,
-    "group_name": ""
-  },
-  {
     "uid": 234782,
     "name": "祈Inory",
     "type": "vtuber",
@@ -27612,7 +27577,7 @@
     "name": "米莎ミサOfficial",
     "type": "vtuber",
     "room": 21361292,
-    "group_name": "SOW"
+    "group_name": ""
   },
   {
     "uid": 476676325,
@@ -29369,13 +29334,6 @@
     "name": "Evt塔宝初号机",
     "type": "vtuber",
     "room": 304143,
-    "group_name": ""
-  },
-  {
-    "uid": 1145291829,
-    "name": "艾薇妮雅AVENIYA",
-    "type": "vtuber",
-    "room": 22701393,
     "group_name": ""
   },
   {
@@ -35427,6 +35385,13 @@
     "group_name": ""
   },
   {
+    "uid": 1625699469,
+    "name": "风太_Fuuta",
+    "type": "vtuber",
+    "room": 26355646,
+    "group_name": ""
+  },
+  {
     "uid": 28656055,
     "name": "风早Channel",
     "type": "vtuber",
@@ -35887,13 +35852,6 @@
     "type": "vtuber",
     "room": 21785538,
     "group_name": "Nature"
-  },
-  {
-    "uid": 1785908279,
-    "name": "魔宫永恋Mamiya",
-    "type": "vtuber",
-    "room": 23157235,
-    "group_name": "虚研社"
   },
   {
     "uid": 317517440,

@@ -1145,7 +1145,7 @@
     "type": "vtuber",
     "room": 27651,
     "face": "/bfs/face/b253c554ba150bb86725aecc1a90b308c5cd12ca.jpg",
-    "group_name": "SOW"
+    "group_name": ""
   },
   "382821371": {
     "name": "JJ-Official",
@@ -2426,7 +2426,7 @@
     "type": "vtuber",
     "room": 58896,
     "face": "/bfs/face/53841c6beb7b0852a361bd184fc305ef3c1dfd73.jpg",
-    "group_name": "SOW"
+    "group_name": ""
   },
   "2304086": {
     "name": "shugen",
@@ -2504,13 +2504,6 @@
     "room": 3569888,
     "face": "/bfs/face/bb3ed22ad617e01649fdb071104a8085f2d383a7.jpg",
     "group_name": "V_G研究所"
-  },
-  "413638423": {
-    "name": "Virtual社团SOW",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/19630425b1a89ac073967681d48fbd3dbd5557a4.jpg",
-    "group_name": ""
   },
   "2791185": {
     "name": "SUKI酱_Channel",
@@ -4800,13 +4793,6 @@
     "room": 24199791,
     "face": "/bfs/face/cf7524885480819c90227cc93873ca0eb78b6c97.jpg",
     "group_name": ""
-  },
-  "1726049329": {
-    "name": "克噜噜krul",
-    "type": "vtuber",
-    "room": 25763040,
-    "face": "/bfs/face/0c6eb6f97c723e7e2949f792f25bb30b05f574ef.jpg",
-    "group_name": "云光计划"
   },
   "21591929": {
     "name": "一只小菟伊",
@@ -8337,7 +8323,7 @@
     "group_name": ""
   },
   "1662426": {
-    "name": "来个人把我打晕到五月",
+    "name": "是棵草",
     "type": "vtuber",
     "room": 576643,
     "face": "/bfs/face/af3e4447b5fd58ff0cf6e34a46fcccd21e5f65c3.jpg",
@@ -8594,13 +8580,6 @@
     "room": 23251345,
     "face": "/bfs/face/8f71dcf86d5858578c67f3b077f0a34275747caa.jpg",
     "group_name": "极光社"
-  },
-  "68143307": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 8638332,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
   },
   "553771121": {
     "name": "千鸟Official",
@@ -11872,7 +11851,7 @@
     "group_name": ""
   },
   "18796087": {
-    "name": "Eluthya",
+    "name": "伊露夏Eluthya",
     "type": "vtuber",
     "room": 246149,
     "face": "/bfs/face/0a5e13fe3d3b3c2aa0f4c51bccd201c394259ffb.png",
@@ -12831,7 +12810,7 @@
     "group_name": ""
   },
   "97439580": {
-    "name": "HAORENHAORRN",
+    "name": "老爹使用中",
     "type": "vtuber",
     "room": 3927637,
     "face": "/bfs/face/8d7a0d1e4e87ac4604a5e8d5a5334eb1cfe393aa.jpg",
@@ -16652,13 +16631,6 @@
     "face": "/bfs/face/858407156ff59a81fed9201ac1ce0d91c383c16f.jpg",
     "group_name": ""
   },
-  "13791309": {
-    "name": "小狐狸樱喵",
-    "type": "vtuber",
-    "room": 989552,
-    "face": "/bfs/face/c3cb4a522de7dbc7a6f4caeb05192b564c908a69.jpg",
-    "group_name": "kenlos"
-  },
   "479591145": {
     "name": "早起喵Official",
     "type": "vtuber",
@@ -18344,7 +18316,7 @@
     "type": "vtuber",
     "room": 21445382,
     "face": "/bfs/face/4e1f3c2f375cf42a7a3bbf62b018111b126e7dce.jpg",
-    "group_name": "SOW"
+    "group_name": ""
   },
   "9312446": {
     "name": "月夜织Orihime",
@@ -18896,7 +18868,7 @@
     "name": "本猫-待定",
     "type": "vtuber",
     "room": 23348776,
-    "face": "/bfs/face/d586038774cbc0408a45a935712d44c5f5b17a46.jpg",
+    "face": "/bfs/face/abfa235467cd80028966b0c823e7fd381b5874c2.jpg",
     "group_name": ""
   },
   "403928672": {
@@ -20738,13 +20710,6 @@
     "type": "vtuber",
     "room": 2293136,
     "face": "/bfs/face/8e9f274abded8b49f74bbbdb76ad193043f5d9ab.jpg",
-    "group_name": ""
-  },
-  "653593": {
-    "name": "椰栗Yeri",
-    "type": "vtuber",
-    "room": 5258376,
-    "face": "/bfs/face/62982a30b8ea50e9d677e54056479b5479e296b2.jpg",
     "group_name": ""
   },
   "499713932": {
@@ -23862,6 +23827,13 @@
     "face": "/bfs/face/6b687803e8ac40dbdddb0578c9b8f37026263b6b.jpg",
     "group_name": ""
   },
+  "3493276812315028": {
+    "name": "狐猫阿黎",
+    "type": "vtuber",
+    "room": 27594639,
+    "face": "/bfs/face/a3a3b29f3176d3ae71e10481f251fe487bc86ff1.jpg",
+    "group_name": ""
+  },
   "1575399192": {
     "name": "奈糖Kitsune",
     "type": "vtuber",
@@ -26557,13 +26529,6 @@
     "face": "/bfs/face/828875f64975e7d556f86fa7cfd931778346c2fc.jpg",
     "group_name": ""
   },
-  "3328498": {
-    "name": "祁宝困兮兮",
-    "type": "vtuber",
-    "room": 2416317,
-    "face": "/bfs/face/5de3aa64734a1f4ebc2c024957a255eec8556c50.jpg",
-    "group_name": ""
-  },
   "234782": {
     "name": "祈Inory",
     "type": "vtuber",
@@ -27612,7 +27577,7 @@
     "type": "vtuber",
     "room": 21361292,
     "face": "/bfs/face/8b840b82ec205b8c49a695b55731674ce2e956f0.jpg",
-    "group_name": "SOW"
+    "group_name": ""
   },
   "476676325": {
     "name": "米蕾優channel",
@@ -29369,13 +29334,6 @@
     "type": "vtuber",
     "room": 304143,
     "face": "/bfs/face/6680b57d617cfc59f971673ad7ffcc98278aef6f.jpg",
-    "group_name": ""
-  },
-  "1145291829": {
-    "name": "艾薇妮雅AVENIYA",
-    "type": "vtuber",
-    "room": 22701393,
-    "face": "/bfs/face/0e2fc42cc7d19472c159d4a6798a0b7f51b8b70a.jpg",
     "group_name": ""
   },
   "41654706": {
@@ -35426,6 +35384,13 @@
     "face": "/bfs/face/f55e0ea4af200179f4827dac533c38ee27d0b4b3.jpg",
     "group_name": ""
   },
+  "1625699469": {
+    "name": "风太_Fuuta",
+    "type": "vtuber",
+    "room": 26355646,
+    "face": "/bfs/face/ab6a511fe8d70e3158e0bb3eef8c9d5c868110a2.jpg",
+    "group_name": ""
+  },
   "28656055": {
     "name": "风早Channel",
     "type": "vtuber",
@@ -35887,13 +35852,6 @@
     "room": 21785538,
     "face": "/bfs/face/5b0187838212df5ed4d5ced18f26a52c3ef51b93.jpg",
     "group_name": "Nature"
-  },
-  "1785908279": {
-    "name": "魔宫永恋Mamiya",
-    "type": "vtuber",
-    "room": 23157235,
-    "face": "/bfs/face/bb2089588b58df441e2d8d1834a83c445065e466.jpg",
-    "group_name": "虚研社"
   },
   "317517440": {
     "name": "魔希みちる搬运",
