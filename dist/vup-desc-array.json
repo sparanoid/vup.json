@@ -1026,15 +1026,6 @@
     "group_name": ""
   },
   {
-    "uid": 696245487,
-    "name": "EraVerses",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/abe6870f3b971935e950a997c0cf0c698a9914a1.jpg",
-    "sign": "老板带着主运营跑路了，如有信息想要咨询，可以联系QQ：1511559733 （记得备注哦）",
-    "group_name": ""
-  },
-  {
     "uid": 652495460,
     "name": "Era猩纪元",
     "type": "vtuber",
@@ -1095,7 +1086,7 @@
     "room": 0,
     "face": "/bfs/face/365e0aa0476084ba1c9d315a88dd099473aa0818.jpg",
     "sign": "Future Land录播号",
-    "group_name": "Future Land"
+    "group_name": ""
   },
   {
     "uid": 472260465,
@@ -1105,15 +1096,6 @@
     "face": "/bfs/face/a7a4a4b8d731ca2d6c9638540309d603f1ff8716.jpg",
     "sign": "这里是facemoe企划官方账号。  合作请联系邮箱2971605516@qq.com",
     "group_name": "Facemoe官方"
-  },
-  {
-    "uid": 431534214,
-    "name": "哈姆哈姆太郎",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/442eaf7095946dcc48a72065a56b8d96cd72a4ab.jpg",
-    "sign": "準備中",
-    "group_name": ""
   },
   {
     "uid": 16485175,
@@ -1170,33 +1152,6 @@
     "group_name": "NIJISANJI EN"
   },
   {
-    "uid": 598663307,
-    "name": "Function社",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/f23032fe539752ad4bad2494583843e3198809cb.jpg",
-    "sign": "虚拟VUP社团Function，合作联系邮箱：kuamu@function.onexmail.com",
-    "group_name": ""
-  },
-  {
-    "uid": 1037847204,
-    "name": "Future-Land",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/5f41fb960dbce3c8ff017614923facf23fc94427.jpg",
-    "sign": "虚拟主播社团FutureLand  fl_recruit@163.com",
-    "group_name": ""
-  },
-  {
-    "uid": 1682620519,
-    "name": "GALAXY群星计划",
-    "type": "group",
-    "room": 23585847,
-    "face": "/bfs/face/a8b66540c5e460621625b705336fe662bc267eb3.jpg",
-    "sign": "GALAXY企划官方账号 招募优质个人势/中之人/美工视频等staff 审核群请私信qq：1009136881",
-    "group_name": ""
-  },
-  {
     "uid": 6481343,
     "name": "GB_Official",
     "type": "vtuber",
@@ -1221,15 +1176,6 @@
     "room": 184400,
     "face": "/bfs/face/1ba8c61442dd53ca81d2fa856e7bfdb99fa680a5.jpg",
     "sign": "摸了",
-    "group_name": ""
-  },
-  {
-    "uid": 570121110,
-    "name": "GNGG石榴石",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/5389a2a315cf3dfdb01943168f2484def37c5d08.jpg",
-    "sign": "【每一个闯入地球的外星旅人，都是超级英雄】",
     "group_name": ""
   },
   {
@@ -1275,7 +1221,7 @@
     "room": 544868,
     "face": "/bfs/face/8f206d3d68ebb1dce52eb594c5319b4e93a120e1.jpg",
     "sign": "PopCorner社团所属Vup优纪光hikari。督促用QQ群：960528656欢迎任何形式的联动，具体请b站私信。",
-    "group_name": "POPCORNER官方"
+    "group_name": ""
   },
   {
     "uid": 70606554,
@@ -1284,7 +1230,7 @@
     "room": 10949670,
     "face": "/bfs/face/d5c61b1b1e637b23fbde1cb1710cc88f7dea1efc.jpg",
     "sign": "欢迎光临，这里是在尾巴田酒馆打工的[试作型AI] Hachime朷初，可以给予您完美的游戏<过载>体验【SWIFT所属】",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 4718291,
@@ -1395,31 +1341,13 @@
     "group_name": ""
   },
   {
-    "uid": 1461488278,
-    "name": "神原kami录播机",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/521775e9436ebca7d21d6d4d9df14836859f1bb2.jpg",
-    "sign": "我就是一个录播。",
-    "group_name": ""
-  },
-  {
-    "uid": 96609619,
-    "name": "IPwork",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/03ade3f078dcad62d2bb2a25b58099f3255098f4.jpg",
-    "sign": "VTB社团International Project官方账号",
-    "group_name": "IPwork"
-  },
-  {
     "uid": 1895255207,
     "name": "IRA艾芮",
     "type": "vtuber",
     "room": 23111212,
     "face": "/bfs/face/be4c1e4298e372357a9064f36c3b079e42185dd9.jpg",
     "sign": "-当渴望值达到一定程度，与宇宙建立联系-",
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   {
     "uid": 1921596130,
@@ -1464,7 +1392,7 @@
     "room": 22782781,
     "face": "/bfs/face/c7e906cd735daef21f13f49f2f3ee3a7d2a6d1a2.jpg",
     "sign": "SMR-∞-002 Isako",
-    "group_name": "撒币社"
+    "group_name": ""
   },
   {
     "uid": 166617,
@@ -1626,7 +1554,7 @@
     "room": 14222920,
     "face": "/bfs/face/b6b4bfa0f1de8a103b17966b5da503507fb8ef8d.jpg",
     "sign": "我是虚拟主播Kanna！狂热的呆呆兽爱好者！！直播通知群971159760 粉丝群242022193 QQ音乐：康娜",
-    "group_name": "Ferret女学院"
+    "group_name": ""
   },
   {
     "uid": 146181099,
@@ -1986,7 +1914,7 @@
     "room": 22782928,
     "face": "/bfs/face/f86e6e7075ec29ad978cad9071a524015e14202e.jpg",
     "sign": "SMR-011 一期生Maquia玛奇雅",
-    "group_name": "撒币社"
+    "group_name": ""
   },
   {
     "uid": 1217057066,
@@ -2256,7 +2184,7 @@
     "room": 21494900,
     "face": "/bfs/face/08d35e208928125e5a25c633ade61cbbb287c510.jpg",
     "sign": "过分谨慎兔耳男+随心所欲小恶魔，木莱和Saki的双人账号。Crst.还存在的地方。",
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   {
     "uid": 143681547,
@@ -2709,15 +2637,6 @@
     "group_name": ""
   },
   {
-    "uid": 531552440,
-    "name": "POPCORNER官方号",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/54255b2f7654ceef214f09c70031cd2064badc9d.jpg",
-    "sign": "POPCORNER联合创作社团的官方号，合作请b站私信或加官方号qq",
-    "group_name": "POPCORNER官方"
-  },
-  {
     "uid": 1313374368,
     "name": "PSL官方",
     "type": "group",
@@ -2871,24 +2790,6 @@
     "group_name": ""
   },
   {
-    "uid": 129531,
-    "name": "ProjectLupinus",
-    "type": "unknown",
-    "room": 474425,
-    "face": "/bfs/face/b19dcfbda75cf5f2ed84501ff02cccfb2f077001.jpg",
-    "sign": "Vliver事务所【Project Lupinus】的官方账号。联系邮箱：contact@virtualupinus.com",
-    "group_name": ""
-  },
-  {
-    "uid": 622020997,
-    "name": "PL茶水间",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/dbc5995f7ab8d61b42d359f199f2bace06f22196.jpg",
-    "sign": "Vliver事务所“Project Lupinus”的staff管理账号。",
-    "group_name": ""
-  },
-  {
     "uid": 1247559638,
     "name": "Project-Hilda",
     "type": "group",
@@ -3004,15 +2905,6 @@
     "face": "/bfs/face/da8958397c02fddde250a80ae9c5a91290c6cd90.jpg",
     "sign": "这里是可以变成你想成为的自己的直播平台 会有各种VTuber过来直播哦",
     "group_name": "WFIE"
-  },
-  {
-    "uid": 631779457,
-    "name": "RedCircleProject",
-    "type": "group",
-    "room": 23070921,
-    "face": "/bfs/face/d175ba7eaeae93c135e57898e841388dc8ca1955.jpg",
-    "sign": "虚拟主播社团RedCircle在此静候各位到来，联系邮箱:RedCircleproject@163.com",
-    "group_name": ""
   },
   {
     "uid": 411278071,
@@ -3156,7 +3048,7 @@
     "room": 22382380,
     "face": "/bfs/face/c218eface6d7b77256a68dffd31be131383ff78c.jpg",
     "sign": "SMR-002 Roya（绝赞绝唱中）",
-    "group_name": "撒币社"
+    "group_name": ""
   },
   {
     "uid": 47441,
@@ -3192,7 +3084,7 @@
     "room": 31992,
     "face": "/bfs/face/5e4dd43ab2d5429162cd1b8daf19fb8d27e471a8.jpg",
     "sign": "和三位猫小姐一起的のんびり生活〜【伯岚咖啡馆营业中】afdian.net/a/hakuran-cafe",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 97340936,
@@ -5469,7 +5361,7 @@
     "room": 22784708,
     "face": "/bfs/face/623100acfa8ca288f1fcf731327935bdc75f11d4.jpg",
     "sign": "",
-    "group_name": "IPwork"
+    "group_name": ""
   },
   {
     "uid": 472135480,
@@ -7215,7 +7107,7 @@
     "room": 1469089,
     "face": "/bfs/face/5262004a47d903dd27eee87f2b5449d35a2eeb29.jpg",
     "sign": "【半停播中】全战全败的褪色魔女。\n\n『我总是痛彻地感觉到，人生无时无刻不是在战斗。\n   而我迄今为止，一次都没有赢过。』",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 662164326,
@@ -7584,7 +7476,7 @@
     "room": 2548377,
     "face": "/bfs/face/d033f667dda49734423d38a6ae1441d6e541ad24.jpg",
     "sign": "云子粉丝群 ： 810242942~群密码  香喷喷的云子肉\n欢迎联动！！！喜欢的可以点个关注嗷呜~",
-    "group_name": "EraVerses"
+    "group_name": ""
   },
   {
     "uid": 702355574,
@@ -8259,7 +8151,7 @@
     "room": 22531388,
     "face": "/bfs/face/b1d9daa498c4e1f64548a9c587448f2a39ed8174.jpg",
     "sign": "SMR-004 伊斯特尔",
-    "group_name": "撒币社"
+    "group_name": ""
   },
   {
     "uid": 35806727,
@@ -8466,7 +8358,7 @@
     "room": 22491324,
     "face": "/bfs/face/790466be422b0d6d9689025914d9c89e4f836408.jpg",
     "sign": "StuMRare所属社员，穿越来的，快转形成美食品鉴主播了",
-    "group_name": "撒币社"
+    "group_name": ""
   },
   {
     "uid": 7375144,
@@ -9663,7 +9555,7 @@
     "room": 22650610,
     "face": "/bfs/face/80b98c317565a690d8ad8fa4c68baabab7acc578.jpg",
     "sign": "个人势໒꒱° 每天8点后直播(不准时)！不会忘记每分每秒的感动✨商务合作请加2302905180",
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   {
     "uid": 131347356,
@@ -10032,7 +9924,7 @@
     "room": 14507014,
     "face": "/bfs/face/728e5f823e1283ce6ca9ef3d2474be6e887e1362.jpg",
     "sign": "RedCircle所属⭐️",
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   {
     "uid": 3046509,
@@ -10545,7 +10437,7 @@
     "room": 643679,
     "face": "/bfs/face/71bb7bb5bcd9a6b3165ba9d90701e39643d6091c.jpg",
     "sign": "一个拥有P社多重身份证的罪大恶极之人（？）",
-    "group_name": "TTTeam"
+    "group_name": ""
   },
   {
     "uid": 2079522008,
@@ -11094,7 +10986,7 @@
     "room": 22995913,
     "face": "/bfs/face/7a74fd58ab5a7c1fec73a26b83645d7a460c03e7.jpg",
     "sign": "Future Land所属||",
-    "group_name": "Future Land"
+    "group_name": ""
   },
   {
     "uid": 1658766768,
@@ -11598,7 +11490,7 @@
     "room": 8056064,
     "face": "/bfs/face/117868c0ec53da2a15d1a15d25567900ba457c77.jpg",
     "sign": "▽SWIFT所属▽游戏&绘画▽无性别双人格胡狼▽\n -Death is also a relief-",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 377711190,
@@ -14775,7 +14667,7 @@
     "room": 22443094,
     "face": "/bfs/face/c4f9b7fa0e6675c6104bd6f74a7d0b4689f2e957.jpg",
     "sign": "曾经有过的幸福时光\n【2022.06.30已毕业】",
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   {
     "uid": 1922761275,
@@ -14784,7 +14676,7 @@
     "room": 23682160,
     "face": "/bfs/face/8deb70f1ff267128e37a264f59a9ca7cad0b2a63.jpg",
     "sign": "我们正在努力减少DD!　2022年6月30日活動終了",
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   {
     "uid": 1601919108,
@@ -15387,7 +15279,7 @@
     "room": 22784525,
     "face": "/bfs/face/67b71f388fa698338259b3c0132c7e61920747cd.jpg",
     "sign": "SMR-∞-1 虚拟up主 提问箱: https://www.tapechat.net/u/naro007/6U1ET9N4",
-    "group_name": "撒币社"
+    "group_name": ""
   },
   {
     "uid": 8256946,
@@ -16026,7 +15918,7 @@
     "room": 22536913,
     "face": "/bfs/face/6b7553290398c49efaa278211eef5847205ed19f.jpg",
     "sign": "现个人势狼狼！无限期暂停活动中！",
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   {
     "uid": 764750,
@@ -17844,7 +17736,7 @@
     "room": 22243143,
     "face": "/bfs/face/95671c4595a12d25b09c5d98dc82808512cc917d.jpg",
     "sign": "个龙势。陪伴系虚拟up，6月11开始啵爆！",
-    "group_name": "POPCORNER官方"
+    "group_name": ""
   },
   {
     "uid": 624252712,
@@ -19266,7 +19158,7 @@
     "room": 22131016,
     "face": "/bfs/face/b5ea174c5254a607d8bfeb3d9fbe5657423c36ca.jpg",
     "sign": "就算身高只有153也是最强金星刺客  -GNGG-所属 吹水群：1070055456",
-    "group_name": "Gn-Gg社"
+    "group_name": ""
   },
   {
     "uid": 1508979,
@@ -19455,7 +19347,7 @@
     "room": 23055731,
     "face": "/bfs/face/031b2c2c331591ccd9392ee1a4087c0ccbdd6c6c.jpg",
     "sign": "- 星と共に君のもとへ - 来自永恒之夜的虚拟英雄",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 1706304861,
@@ -20409,7 +20301,7 @@
     "room": 23093993,
     "face": "/bfs/face/2137ac6c34d23b3bc15b7058feb77da5a77475b9.jpg",
     "sign": "FUTURE LAND所属 二哈一只！喜欢唱歌玩游戏聊天！",
-    "group_name": "Future Land"
+    "group_name": ""
   },
   {
     "uid": 412135619,
@@ -20862,15 +20754,6 @@
     "group_name": ""
   },
   {
-    "uid": 604968827,
-    "name": "StuMRare",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/5f8363fffdccf69da3c5c44e1785428c1502ce60.jpg",
-    "sign": "虚拟主播团体StuMRare官方账号  合作联系：stumrare@aliyun.com",
-    "group_name": "撒币社"
-  },
-  {
     "uid": 2005546384,
     "name": "攸仪Yui_official",
     "type": "vtuber",
@@ -21120,7 +21003,7 @@
     "room": 282643,
     "face": "/bfs/face/6f81d7223ab4fb15961eed162f7f074d71defaaf.jpg",
     "sign": "※<GALAXY 群星计划>※所属个人势。古人云：夜观天象，76037764甚妙。",
-    "group_name": "GALAXY群星社"
+    "group_name": ""
   },
   {
     "uid": 20875904,
@@ -21750,7 +21633,7 @@
     "room": 22566126,
     "face": "/bfs/face/6d4988bb95cfa10d92f0ea00717583d00d70583d.jpg",
     "sign": "",
-    "group_name": "EraVerses"
+    "group_name": ""
   },
   {
     "uid": 14999682,
@@ -22425,7 +22308,7 @@
     "room": 14907086,
     "face": "/bfs/face/d689aa31085a26d0cabf48b94dcc87ec3d844ea4.jpg",
     "sign": "已毕业 也许有一天，我们会对虚拟主播这个行业失去热情，但还不是今天",
-    "group_name": "TTTeam"
+    "group_name": ""
   },
   {
     "uid": 428523,
@@ -23739,7 +23622,7 @@
     "room": 22553538,
     "face": "/bfs/face/36ae7af8a7239ef208e4a3a685b467914b5e21ad.jpg",
     "sign": "Project Lupinus所属虚拟美大生 能看见些一般人看不见的东西 妈妈：ニナハチ(にじゅ)",
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   {
     "uid": 491470,
@@ -24567,7 +24450,7 @@
     "room": 24471382,
     "face": "/bfs/face/862143449ceaca5bc33498348d90cbc498ca79e9.jpg",
     "sign": "-Swift所属外星人-",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 609610777,
@@ -24972,7 +24855,7 @@
     "room": 25364046,
     "face": "/bfs/face/96796d70a8b08c7ae962020b0e614a6d92da7708.jpg",
     "sign": "✧<GALAXY群星计划>✧所属个人势粉麒麟\n群号749519077",
-    "group_name": "GALAXY群星社"
+    "group_name": ""
   },
   {
     "uid": 90820845,
@@ -25872,7 +25755,7 @@
     "room": 1986325,
     "face": "/bfs/face/4cd0413c5c1fdb2e3d3d67074ece80a611d9d88b.jpg",
     "sign": "一般通过ルルル",
-    "group_name": "IPG联合"
+    "group_name": ""
   },
   {
     "uid": 161287332,
@@ -26088,7 +25971,7 @@
     "room": 22752369,
     "face": "/bfs/face/1c68b82feeb02ad5116daf72779a88e0e031eaa5.jpg",
     "sign": "愿各自安好",
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   {
     "uid": 1637486568,
@@ -28086,7 +27969,7 @@
     "room": 21955996,
     "face": "/bfs/face/870a59e974c116d01531b6bf95f7969b076cb8c4.jpg",
     "sign": "来自异世界的个人势猫猫，会做一些自己喜欢的东西。\n甜品铺子：108821834",
-    "group_name": "Function"
+    "group_name": ""
   },
   {
     "uid": 544367533,
@@ -28176,7 +28059,7 @@
     "room": 23854724,
     "face": "/bfs/face/22786ba23b044e89ac18bf8ef08aa7568fa2fb94.jpg",
     "sign": "Future Land所属鹅霸| 总有人愿意为你而战 | 画师妈咪:@和香澄",
-    "group_name": "Future Land"
+    "group_name": ""
   },
   {
     "uid": 21191392,
@@ -29400,7 +29283,7 @@
     "room": 22250279,
     "face": "/bfs/face/d3815fb2dedf6ee606974768e97555d7aa1a13b2.jpg",
     "sign": "SMR-001 温言言 ",
-    "group_name": "撒币社"
+    "group_name": ""
   },
   {
     "uid": 499198187,
@@ -29418,7 +29301,7 @@
     "room": 25206404,
     "face": "/bfs/face/ff073794c68546fc9b649428b149eed8d88a12f0.jpg",
     "sign": "录播号@游三水昔日影像馆",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 8299419,
@@ -30165,7 +30048,7 @@
     "room": 8728766,
     "face": "/bfs/face/2225774b92ad9e7b8857f80f8d4b915486504d9c.jpg",
     "sign": "是一只个人势金毛犬",
-    "group_name": "IPG联合"
+    "group_name": ""
   },
   {
     "uid": 1741307981,
@@ -30210,7 +30093,7 @@
     "room": 36508,
     "face": "/bfs/face/e75928b0ddec64b0e98fc434475a9766020092c4.jpg",
     "sign": "",
-    "group_name": "IPG联合"
+    "group_name": ""
   },
   {
     "uid": 585578,
@@ -31281,7 +31164,7 @@
     "room": 22796050,
     "face": "/bfs/face/616e23cdd243dfaf1454212c8c8b5fe75fc94ec5.jpg",
     "sign": "SMR-012 一期生玉白\nTHE MAN MAN CLOSETLESS RTA 世界第二的男人。",
-    "group_name": "撒币社"
+    "group_name": ""
   },
   {
     "uid": 43651295,
@@ -31425,7 +31308,7 @@
     "room": 23118096,
     "face": "/bfs/face/f417830bf2b2620312a60da8b934f7c71c01a0ba.jpg",
     "sign": "PopCorner社团所属个人陪伴势Vup\n直播内容: 杂谈/游戏/画画/唱歌\n中日文○ 英语▲，合作/联动请私信～",
-    "group_name": "POPCORNER官方"
+    "group_name": ""
   },
   {
     "uid": 1710146343,
@@ -32001,7 +31884,7 @@
     "room": 21648286,
     "face": "/bfs/face/19e92ea819ff5ec0dc7b1ba46840ac91585b6af6.jpg",
     "sign": "Project Lupinus所属一般陨石，来自虚拟宇宙。 担当画师：依存 粉丝群：920309024",
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   {
     "uid": 385803327,
@@ -32433,7 +32316,7 @@
     "room": 22553548,
     "face": "/bfs/face/c80bbb61b4d1051a0974866bb516f88cd6dd46df.jpg",
     "sign": "看板广报型话势主播 活动休止中",
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   {
     "uid": 8571340,
@@ -33261,7 +33144,7 @@
     "room": 22355982,
     "face": "/bfs/face/d1355d09beb6986e8ad018ff410da3c70e841de3.jpg",
     "sign": "嗨～我是PopCorner所属绘画个人势VUP白鹿(๑´∀`๑)约稿请走橱窗或私信咨询，直播自由～谢谢你的喜爱！粉丝群:995090765",
-    "group_name": "POPCORNER官方"
+    "group_name": ""
   },
   {
     "uid": 429983758,
@@ -34638,7 +34521,7 @@
     "room": 24475053,
     "face": "/bfs/face/7cd90aa7692684aa13a109c803f8ec04d88dab66.jpg",
     "sign": "风格多适配黑切黑少年——（咚）——受到了来自一颗石头的攻击——但你恢复了999点生命值",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 669275668,
@@ -34962,7 +34845,7 @@
     "room": 22384137,
     "face": "/bfs/face/c057b05fafa71e8bf7182e4176614443f16bf67e.jpg",
     "sign": "RedCircle所属Vliver / 一年全勤直播的都市丽人",
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   {
     "uid": 1617739681,
@@ -35079,7 +34962,7 @@
     "room": 22372920,
     "face": "/bfs/face/f3812b47a9f4077086c44cf8a1589ffdfd9c07ae.jpg",
     "sign": "",
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   {
     "uid": 12304275,
@@ -35412,7 +35295,7 @@
     "room": 866400,
     "face": "/bfs/face/2f431ffb9b8c39abfd180ab0cd455bec5ebeb7db.jpg",
     "sign": "请不要搬运、补档我的歌，无论出于什么目的。请勿艾特。",
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   {
     "uid": 588700067,
@@ -35610,7 +35493,7 @@
     "room": 24135903,
     "face": "/bfs/face/496c950cb6b55c679fa316d1b43742e92d7165ed.jpg",
     "sign": "个人势小猫猫！一只活泼好动的拿破仑~希望带给大家快乐~",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 176836079,
@@ -36753,7 +36636,7 @@
     "room": 379685,
     "face": "/bfs/face/3f5feab267f85992109b712deb008bd3a317edb1.jpg",
     "sign": "前营业十三部三期生，前EraVerses一期生，现个人势皇家骑士团首席，罗兰，参上！",
-    "group_name": "EraVerses"
+    "group_name": ""
   },
   {
     "uid": 1315573139,
@@ -37194,7 +37077,7 @@
     "room": 24814176,
     "face": "/bfs/face/85cb6ad2bbeed9375867538d05de0fb81dd6f9e7.jpg",
     "sign": "-我厌恶阳光的施舍，投入月光的怀抱-",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 679945,
@@ -37446,7 +37329,7 @@
     "room": 10001030,
     "face": "/bfs/face/979d8065588fafb7f91c35d19afa55662961a346.jpg",
     "sign": "空洞",
-    "group_name": "IPG联合"
+    "group_name": ""
   },
   {
     "uid": 8039394,
@@ -37860,7 +37743,7 @@
     "room": 23106228,
     "face": "/bfs/face/e5f773eea572443d9b8ef03d8057bc23df5f7a40.jpg",
     "sign": "Future Land所属///カワイイ顔には必ず何かが隠れてる//画师妈咪：@oisyselucy",
-    "group_name": "Future Land"
+    "group_name": ""
   },
   {
     "uid": 364670866,
@@ -37878,6 +37761,15 @@
     "room": 21503113,
     "face": "/bfs/face/0c32258e416a914453c47beaf81a4a8d6ebfa5dc.jpg",
     "sign": "已转生，指路：白芙Yuki\n你们永远是芙芙心里的第一波支持我的人w",
+    "group_name": ""
+  },
+  {
+    "uid": 3493109874821237,
+    "name": "芙洛尔Flore",
+    "type": "vtuber",
+    "room": 26726802,
+    "face": "/bfs/face/38fadbd49a0595bd63cfd77af83f3c73681db341.jpg",
+    "sign": "ʚ个人势未出道ɞ一只爱唱歌，爱吃甜品的猫猫～直播时间15:00-18:00 录播指路@芙洛尔的录播机",
     "group_name": ""
   },
   {
@@ -37995,7 +37887,7 @@
     "room": 21398753,
     "face": "/bfs/face/2f452c307cc4fe5e62523a5ce06e3ea73d7e2d8a.jpg",
     "sign": "「Non-Punk」\n据说戒酒的的退休警探，不会开船也不会游泳，很难是船长。\n*需授权大胆私信*\n\n母：小罗XL\n",
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   {
     "uid": 441381282,
@@ -38535,7 +38427,7 @@
     "room": 22508846,
     "face": "/bfs/face/3ddf27ae9eb98a4a0e883e2f33972a2364c19fc4.jpg",
     "sign": "成为自己最喜欢的自己。    担当画师：三瀬ゆづき",
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   {
     "uid": 72537730,
@@ -42000,7 +41892,7 @@
     "room": 16649,
     "face": "/bfs/face/e15aeb6ca6b51f998e3019bbdf5e1966a5326a57.jpg",
     "sign": "这里是憨憨狼！！欢迎入住墨家庄，各位客官里面请，喜欢的可以加粉丝群：605913046",
-    "group_name": "TTTeam"
+    "group_name": ""
   },
   {
     "uid": 1964786482,
@@ -42288,7 +42180,7 @@
     "room": 23179536,
     "face": "/bfs/face/167c1212fb904b21363e4517e6e7411aa77367f4.jpg",
     "sign": "G-一般路过画画魔女|自我构筑中...        ✞魔女养老院：875900258",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 105295579,
@@ -43017,7 +42909,7 @@
     "room": 22993378,
     "face": "/bfs/face/2c14a410035248b89ec9c1bc72871fc08d95d6db.jpg",
     "sign": "Future Land 所属｜非全职死宅VUP｜画师妈咪：小咪相撲",
-    "group_name": "Future Land"
+    "group_name": ""
   },
   {
     "uid": 1730842065,
@@ -43341,7 +43233,7 @@
     "room": 22414926,
     "face": "/bfs/face/2a8ff82caa3044307003235e02bf9710723d0e40.jpg",
     "sign": "个人势vup，为[数据删除]而尝试进行科普的新人AI，也有可能去做教材教程。模型：雪鸳猫，画师：雪鸯兔。",
-    "group_name": "IPG联合"
+    "group_name": ""
   },
   {
     "uid": 443932564,
@@ -43746,7 +43638,7 @@
     "room": 340331,
     "face": "/bfs/face/f5cdd97dbce056ec0e2419b06a5d32ed188d9483.jpg",
     "sign": "你好我是阿祁纳，是个仙人（曾经）初来乍到这个世界还请多关照。现在我在名为GNGG的社团里栖身，偶尔会直播玩，还请各位道友多多指教了。",
-    "group_name": "Gn-Gg社"
+    "group_name": ""
   },
   {
     "uid": 703055595,
@@ -44187,7 +44079,7 @@
     "room": 4611671,
     "face": "/bfs/face/4838d5bf9cd12975d1bc6bb59c20db796793e89e.jpg",
     "sign": "设定是冷酷的杀手",
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   {
     "uid": 129946331,
@@ -44610,7 +44502,7 @@
     "room": 21013446,
     "face": "/bfs/face/000c5cdad665d9dc54cf5ea2498aa859c59e77fa.jpg",
     "sign": "对不起我是天才 合作联系sizukululu@gmail.com 粉丝群在置顶文章里 ",
-    "group_name": "Ferret女学院"
+    "group_name": ""
   },
   {
     "uid": 1820388854,
@@ -45294,7 +45186,7 @@
     "room": 21533868,
     "face": "/bfs/face/874dfb3d7a7582452e6fb831455a1c6fc9f43e24.jpg",
     "sign": "欢迎来到nelineli音乐！音音継ねね和猫姫琥珀用歌声治愈你〜",
-    "group_name": "Ferret女学院"
+    "group_name": ""
   },
   {
     "uid": 434973578,
@@ -45690,7 +45582,7 @@
     "room": 1456945,
     "face": "/bfs/face/62f8b3e640a0ed4203ea2c13b22eecab27c79888.jpg",
     "sign": "此号不在活动.感谢你的喜欢(勿关注)",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 1357409459,
@@ -45897,7 +45789,7 @@
     "room": 22679745,
     "face": "/bfs/face/ba56e90a2728a4f91f8b5e69c6969e6a583897d0.jpg",
     "sign": "字幕组长期招收各项职务，审核群QQ983012796\n粉丝群1057548165",
-    "group_name": "IPwork"
+    "group_name": ""
   },
   {
     "uid": 503302,
@@ -46302,7 +46194,7 @@
     "room": 23112323,
     "face": "/bfs/face/5493c914df62db83aa082dd411838f40852811a7.jpg",
     "sign": "字幕组长期招收各项职务，审核群QQ983012796 粉丝群：756598400",
-    "group_name": "IPwork"
+    "group_name": ""
   },
   {
     "uid": 1293142895,
@@ -46815,7 +46707,7 @@
     "room": 4864151,
     "face": "/bfs/face/e10104c09a155bae3ee4cb239af2ead58808674b.jpg",
     "sign": "我爬我爬",
-    "group_name": "TTTeam"
+    "group_name": ""
   },
   {
     "uid": 588034,
@@ -46932,7 +46824,7 @@
     "room": 23862248,
     "face": "/bfs/face/60efecf99a3910c2946bb76783f5785d58da596b.jpg",
     "sign": "向前进吧向着光！做音乐做配音做礼物定制的 来自异世界的非典型女巫家族出身黑皮天使鸽势VUP！欢迎合作欢迎私信",
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   {
     "uid": 582225536,

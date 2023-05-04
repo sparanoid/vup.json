@@ -683,12 +683,6 @@
     "room": 23690697,
     "group_name": ""
   },
-  "696245487": {
-    "name": "EraVerses",
-    "type": "group",
-    "room": 0,
-    "group_name": ""
-  },
   "652495460": {
     "name": "Era猩纪元",
     "type": "vtuber",
@@ -729,19 +723,13 @@
     "name": "FL的监控室老大爷",
     "type": "vtuber",
     "room": 0,
-    "group_name": "Future Land"
+    "group_name": ""
   },
   "472260465": {
     "name": "Facemoe",
     "type": "group",
     "room": 0,
     "group_name": "Facemoe官方"
-  },
-  "431534214": {
-    "name": "哈姆哈姆太郎",
-    "type": "group",
-    "room": 0,
-    "group_name": ""
   },
   "16485175": {
     "name": "一口陈年无糖",
@@ -779,24 +767,6 @@
     "room": 24474915,
     "group_name": "NIJISANJI EN"
   },
-  "598663307": {
-    "name": "Function社",
-    "type": "group",
-    "room": 0,
-    "group_name": ""
-  },
-  "1037847204": {
-    "name": "Future-Land",
-    "type": "group",
-    "room": 0,
-    "group_name": ""
-  },
-  "1682620519": {
-    "name": "GALAXY群星计划",
-    "type": "group",
-    "room": 23585847,
-    "group_name": ""
-  },
   "6481343": {
     "name": "GB_Official",
     "type": "vtuber",
@@ -813,12 +783,6 @@
     "name": "GaEmAi_White",
     "type": "vtuber",
     "room": 184400,
-    "group_name": ""
-  },
-  "570121110": {
-    "name": "GNGG石榴石",
-    "type": "group",
-    "room": 0,
     "group_name": ""
   },
   "3008887": {
@@ -849,13 +813,13 @@
     "name": "优纪光channel",
     "type": "vtuber",
     "room": 544868,
-    "group_name": "POPCORNER官方"
+    "group_name": ""
   },
   "70606554": {
     "name": "Hachime朷初",
     "type": "vtuber",
     "room": 10949670,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "4718291": {
     "name": "花见汐梨Yuuri",
@@ -929,23 +893,11 @@
     "room": 108270,
     "group_name": ""
   },
-  "1461488278": {
-    "name": "神原kami录播机",
-    "type": "group",
-    "room": 0,
-    "group_name": ""
-  },
-  "96609619": {
-    "name": "IPwork",
-    "type": "group",
-    "room": 0,
-    "group_name": "IPwork"
-  },
   "1895255207": {
     "name": "IRA艾芮",
     "type": "vtuber",
     "room": 23111212,
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   "1921596130": {
     "name": "Ike_Official",
@@ -975,7 +927,7 @@
     "name": "伊佐子Isako",
     "type": "vtuber",
     "room": 22782781,
-    "group_name": "撒币社"
+    "group_name": ""
   },
   "166617": {
     "name": "伊塔Ita",
@@ -1083,7 +1035,7 @@
     "name": "Kanna_康娜Official",
     "type": "vtuber",
     "room": 14222920,
-    "group_name": "Ferret女学院"
+    "group_name": ""
   },
   "146181099": {
     "name": "Karo_卡洛",
@@ -1323,7 +1275,7 @@
     "name": "Maquia_official",
     "type": "vtuber",
     "room": 22782928,
-    "group_name": "撒币社"
+    "group_name": ""
   },
   "1217057066": {
     "name": "Maria_M_Official",
@@ -1503,7 +1455,7 @@
     "name": "Moonlight木莱",
     "type": "vtuber",
     "room": 21494900,
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   "143681547": {
     "name": "安夏Charila",
@@ -1805,12 +1757,6 @@
     "room": 3108474,
     "group_name": ""
   },
-  "531552440": {
-    "name": "POPCORNER官方号",
-    "type": "group",
-    "room": 0,
-    "group_name": "POPCORNER官方"
-  },
   "1313374368": {
     "name": "PSL官方",
     "type": "group",
@@ -1913,18 +1859,6 @@
     "room": 26020086,
     "group_name": ""
   },
-  "129531": {
-    "name": "ProjectLupinus",
-    "type": "unknown",
-    "room": 474425,
-    "group_name": ""
-  },
-  "622020997": {
-    "name": "PL茶水间",
-    "type": "group",
-    "room": 0,
-    "group_name": ""
-  },
   "1247559638": {
     "name": "Project-Hilda",
     "type": "group",
@@ -2002,12 +1936,6 @@
     "type": "vtuber",
     "room": 21117073,
     "group_name": "WFIE"
-  },
-  "631779457": {
-    "name": "RedCircleProject",
-    "type": "group",
-    "room": 23070921,
-    "group_name": ""
   },
   "411278071": {
     "name": "RainbowO3-彩虹君",
@@ -2103,7 +2031,7 @@
     "name": "Royayaho",
     "type": "vtuber",
     "room": 22382380,
-    "group_name": "撒币社"
+    "group_name": ""
   },
   "47441": {
     "name": "Ruriko琉璃子Channel",
@@ -2127,7 +2055,7 @@
     "name": "Ryuryuu_",
     "type": "vtuber",
     "room": 31992,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "97340936": {
     "name": "S1娘Official",
@@ -3645,7 +3573,7 @@
     "name": "猫羽SORA",
     "type": "vtuber",
     "room": 22784708,
-    "group_name": "IPwork"
+    "group_name": ""
   },
   "472135480": {
     "name": "まこと-macoto官方",
@@ -4809,7 +4737,7 @@
     "name": "久远寺刹那Setsuna",
     "type": "vtuber",
     "room": 1469089,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "662164326": {
     "name": "箱守可憐",
@@ -5055,7 +4983,7 @@
     "name": "云子kumoko",
     "type": "vtuber",
     "room": 2548377,
-    "group_name": "EraVerses"
+    "group_name": ""
   },
   "702355574": {
     "name": "云宝KumoChyan",
@@ -5505,7 +5433,7 @@
     "name": "伊斯特尔_official",
     "type": "vtuber",
     "room": 22531388,
-    "group_name": "撒币社"
+    "group_name": ""
   },
   "35806727": {
     "name": "伊橙Yzumi",
@@ -5643,7 +5571,7 @@
     "name": "伍尔夫拉姆_official",
     "type": "vtuber",
     "room": 22491324,
-    "group_name": "撒币社"
+    "group_name": ""
   },
   "7375144": {
     "name": "猫庭ネコロ_Official",
@@ -6441,7 +6369,7 @@
     "name": "冥冥meichan",
     "type": "vtuber",
     "room": 22650610,
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   "131347356": {
     "name": "冥雪にゃ゜Channel",
@@ -6687,7 +6615,7 @@
     "name": "凛星RinStar",
     "type": "vtuber",
     "room": 14507014,
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   "3046509": {
     "name": "凛音秀吉",
@@ -7029,7 +6957,7 @@
     "name": "北世卿泠channel",
     "type": "vtuber",
     "room": 643679,
-    "group_name": "TTTeam"
+    "group_name": ""
   },
   "2079522008": {
     "name": "北东西南south",
@@ -7395,7 +7323,7 @@
     "name": "千鹤-Chizuru",
     "type": "vtuber",
     "room": 22995913,
-    "group_name": "Future Land"
+    "group_name": ""
   },
   "1658766768": {
     "name": "午哞哞",
@@ -7731,7 +7659,7 @@
     "name": "厄多卡斯Edcus",
     "type": "vtuber",
     "room": 8056064,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "377711190": {
     "name": "修普西娅_Hypsia",
@@ -9849,13 +9777,13 @@
     "name": "天使米谢尔Michelle",
     "type": "vtuber",
     "room": 22443094,
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   "1922761275": {
     "name": "天使花夜乃_Official",
     "type": "unknown",
     "room": 23682160,
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   "1601919108": {
     "name": "VUP准备中",
@@ -10257,7 +10185,7 @@
     "name": "奈罗Naro_official",
     "type": "vtuber",
     "room": 22784525,
-    "group_name": "撒币社"
+    "group_name": ""
   },
   "8256946": {
     "name": "奈罗花字幕组",
@@ -10683,7 +10611,7 @@
     "name": "嬉野那姬Official",
     "type": "vtuber",
     "room": 22536913,
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   "764750": {
     "name": "子中中Channel",
@@ -11895,7 +11823,7 @@
     "name": "尼芽Niya",
     "type": "vtuber",
     "room": 22243143,
-    "group_name": "POPCORNER官方"
+    "group_name": ""
   },
   "624252712": {
     "name": "尾丸波尔卡Official",
@@ -12843,7 +12771,7 @@
     "name": "张团团不圆圆",
     "type": "vtuber",
     "room": 22131016,
-    "group_name": "Gn-Gg社"
+    "group_name": ""
   },
   "1508979": {
     "name": "张禾尐-TUTU",
@@ -12969,7 +12897,7 @@
     "name": "影森一輝_Kazuki",
     "type": "vtuber",
     "room": 23055731,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "1706304861": {
     "name": "影潞Kagami",
@@ -13605,7 +13533,7 @@
     "name": "戌夜初Hajime",
     "type": "vtuber",
     "room": 23093993,
-    "group_name": "Future Land"
+    "group_name": ""
   },
   "412135619": {
     "name": "戌神沁音Official",
@@ -13907,12 +13835,6 @@
     "room": 21116901,
     "group_name": ""
   },
-  "604968827": {
-    "name": "StuMRare",
-    "type": "group",
-    "room": 0,
-    "group_name": "撒币社"
-  },
   "2005546384": {
     "name": "攸仪Yui_official",
     "type": "vtuber",
@@ -14079,7 +14001,7 @@
     "name": "无名古人",
     "type": "vtuber",
     "room": 282643,
-    "group_name": "GALAXY群星社"
+    "group_name": ""
   },
   "20875904": {
     "name": "无家可归的流浪鲲鲲",
@@ -14499,7 +14421,7 @@
     "name": "星夜Channel",
     "type": "vtuber",
     "room": 22566126,
-    "group_name": "EraVerses"
+    "group_name": ""
   },
   "14999682": {
     "name": "雾雨魔理沙__DAZE",
@@ -14949,7 +14871,7 @@
     "name": "柊栗Kuri",
     "type": "vtuber",
     "room": 14907086,
-    "group_name": "TTTeam"
+    "group_name": ""
   },
   "428523": {
     "name": "星至Channel",
@@ -15825,7 +15747,7 @@
     "name": "月见里朔良Official",
     "type": "vtuber",
     "room": 22553538,
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   "491470": {
     "name": "月野由爱Yume",
@@ -16377,7 +16299,7 @@
     "name": "来自外星的Vivi耶",
     "type": "vtuber",
     "room": 24471382,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "609610777": {
     "name": "杨远洛里斯",
@@ -16647,7 +16569,7 @@
     "name": "麟崽不困",
     "type": "vtuber",
     "room": 25364046,
-    "group_name": "GALAXY群星社"
+    "group_name": ""
   },
   "90820845": {
     "name": "染崎绿Midori",
@@ -17247,7 +17169,7 @@
     "name": "ルルル_rururu",
     "type": "vtuber",
     "room": 1986325,
-    "group_name": "IPG联合"
+    "group_name": ""
   },
   "161287332": {
     "name": "笨天Betya",
@@ -17391,7 +17313,7 @@
     "name": "梦咲奈留Official",
     "type": "vtuber",
     "room": 22752369,
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   "1637486568": {
     "name": "梦咲有绪",
@@ -18723,7 +18645,7 @@
     "name": "沢気彻子Official",
     "type": "vtuber",
     "room": 21955996,
-    "group_name": "Function"
+    "group_name": ""
   },
   "544367533": {
     "name": "沢雾野Sakino",
@@ -18783,7 +18705,7 @@
     "name": "泉鹅Izumi",
     "type": "vtuber",
     "room": 23854724,
-    "group_name": "Future Land"
+    "group_name": ""
   },
   "21191392": {
     "name": "法娜Fyna",
@@ -19599,7 +19521,7 @@
     "name": "温言言Yanyan",
     "type": "vtuber",
     "room": 22250279,
-    "group_name": "撒币社"
+    "group_name": ""
   },
   "499198187": {
     "name": "游侠曙星baturu",
@@ -19611,7 +19533,7 @@
     "name": "游淼yumia",
     "type": "vtuber",
     "room": 25206404,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "8299419": {
     "name": "游莲official",
@@ -20109,7 +20031,7 @@
     "name": "爱丝艾芙",
     "type": "vtuber",
     "room": 8728766,
-    "group_name": "IPG联合"
+    "group_name": ""
   },
   "1741307981": {
     "name": "爱丽丝莉奈Official",
@@ -20139,7 +20061,7 @@
     "name": "Ace_Krem",
     "type": "vtuber",
     "room": 36508,
-    "group_name": "IPG联合"
+    "group_name": ""
   },
   "585578": {
     "name": "_Moy_",
@@ -20853,7 +20775,7 @@
     "name": "玉白_official",
     "type": "vtuber",
     "room": 22796050,
-    "group_name": "撒币社"
+    "group_name": ""
   },
   "43651295": {
     "name": "玉目绊Official",
@@ -20949,7 +20871,7 @@
     "name": "环Tamaki_channel",
     "type": "vtuber",
     "room": 23118096,
-    "group_name": "POPCORNER官方"
+    "group_name": ""
   },
   "1710146343": {
     "name": "玲儿ZeroTwo",
@@ -21333,7 +21255,7 @@
     "name": "璐比Channel",
     "type": "vtuber",
     "room": 21648286,
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   "385803327": {
     "name": "璐洛洛_official",
@@ -21621,7 +21543,7 @@
     "name": "白井諭吉Official",
     "type": "vtuber",
     "room": 22553548,
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   "8571340": {
     "name": "白信柚希Official",
@@ -22173,7 +22095,7 @@
     "name": "白鹿Channel",
     "type": "vtuber",
     "room": 22355982,
-    "group_name": "POPCORNER官方"
+    "group_name": ""
   },
   "429983758": {
     "name": "--BB--",
@@ -23091,7 +23013,7 @@
     "name": "秋珀Kohagami",
     "type": "vtuber",
     "room": 24475053,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "669275668": {
     "name": "秋田稻穗",
@@ -23307,7 +23229,7 @@
     "name": "立花结那official",
     "type": "vtuber",
     "room": 22384137,
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   "1617739681": {
     "name": "立花遥はるか",
@@ -23385,7 +23307,7 @@
     "name": "竹嗣Takeshi",
     "type": "vtuber",
     "room": 22372920,
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   "12304275": {
     "name": "竹子Official",
@@ -23607,7 +23529,7 @@
     "name": "米白zzz",
     "type": "vtuber",
     "room": 866400,
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   "588700067": {
     "name": "米艾尔蜂蜜Official",
@@ -23739,7 +23661,7 @@
     "name": "糖西Tansy",
     "type": "vtuber",
     "room": 24135903,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "176836079": {
     "name": "糯依Noi",
@@ -24501,7 +24423,7 @@
     "name": "皇家骑士罗兰",
     "type": "vtuber",
     "room": 379685,
-    "group_name": "EraVerses"
+    "group_name": ""
   },
   "1315573139": {
     "name": "罗兹Blazing",
@@ -24795,7 +24717,7 @@
     "name": "聿茗_YuM",
     "type": "vtuber",
     "room": 24814176,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "679945": {
     "name": "肆肆_Official",
@@ -24963,7 +24885,7 @@
     "name": "艾兰Official",
     "type": "vtuber",
     "room": 10001030,
-    "group_name": "IPG联合"
+    "group_name": ""
   },
   "8039394": {
     "name": "艾冰Phoenix",
@@ -25239,7 +25161,7 @@
     "name": "芙拉_Fula",
     "type": "vtuber",
     "room": 23106228,
-    "group_name": "Future Land"
+    "group_name": ""
   },
   "364670866": {
     "name": "芙染的时光机",
@@ -25251,6 +25173,12 @@
     "name": "芙栗希娅Felicia",
     "type": "vtuber",
     "room": 21503113,
+    "group_name": ""
+  },
+  "3493109874821237": {
+    "name": "芙洛尔Flore",
+    "type": "vtuber",
+    "room": 26726802,
     "group_name": ""
   },
   "1589833236": {
@@ -25329,7 +25257,7 @@
     "name": "亚哈Ahab_Channel",
     "type": "vtuber",
     "room": 21398753,
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   "441381282": {
     "name": "花丸晴琉Official",
@@ -25689,7 +25617,7 @@
     "name": "苍井瑞月Official",
     "type": "vtuber",
     "room": 22508846,
-    "group_name": "Project Lupinus"
+    "group_name": ""
   },
   "72537730": {
     "name": "苍冰-Official",
@@ -27999,7 +27927,7 @@
     "name": "墨子伦Channel",
     "type": "vtuber",
     "room": 16649,
-    "group_name": "TTTeam"
+    "group_name": ""
   },
   "1964786482": {
     "name": "软桃桃_Official",
@@ -28191,7 +28119,7 @@
     "name": "迦黎娅Garyia",
     "type": "vtuber",
     "room": 23179536,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "105295579": {
     "name": "迪蒙格拉斯",
@@ -28677,7 +28605,7 @@
     "name": "铃伊_Rei",
     "type": "vtuber",
     "room": 22993378,
-    "group_name": "Future Land"
+    "group_name": ""
   },
   "1730842065": {
     "name": "铃兰兰_suzuran",
@@ -28893,7 +28821,7 @@
     "name": "间厄止礼",
     "type": "vtuber",
     "room": 22414926,
-    "group_name": "IPG联合"
+    "group_name": ""
   },
   "443932564": {
     "name": "是阁诺",
@@ -29163,7 +29091,7 @@
     "name": "阿祁纳",
     "type": "vtuber",
     "room": 340331,
-    "group_name": "Gn-Gg社"
+    "group_name": ""
   },
   "703055595": {
     "name": "阿绿Midori",
@@ -29457,7 +29385,7 @@
     "name": "雨街F",
     "type": "vtuber",
     "room": 4611671,
-    "group_name": "REDCircle红圈社"
+    "group_name": ""
   },
   "129946331": {
     "name": "夏夜星眠",
@@ -29739,7 +29667,7 @@
     "name": "雫るる_Official",
     "type": "vtuber",
     "room": 21013446,
-    "group_name": "Ferret女学院"
+    "group_name": ""
   },
   "1820388854": {
     "name": "零-Hanhan",
@@ -30195,7 +30123,7 @@
     "name": "nelineli音乐",
     "type": "vtuber",
     "room": 21533868,
-    "group_name": "Ferret女学院"
+    "group_name": ""
   },
   "434973578": {
     "name": "响木青Official",
@@ -30459,7 +30387,7 @@
     "name": "饭饭饭酱丶",
     "type": "vtuber",
     "room": 1456945,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "1357409459": {
     "name": "小粉毛搬家咯",
@@ -30597,7 +30525,7 @@
     "name": "骨魅むくろOfficial",
     "type": "vtuber",
     "room": 22679745,
-    "group_name": "IPwork"
+    "group_name": ""
   },
   "503302": {
     "name": "高原守Channel",
@@ -30867,7 +30795,7 @@
     "name": "鲁卡波尔卡Official",
     "type": "vtuber",
     "room": 23112323,
-    "group_name": "IPwork"
+    "group_name": ""
   },
   "1293142895": {
     "name": "鲁鲁不想出门啊",
@@ -31209,7 +31137,7 @@
     "name": "汪汪佩立大功",
     "type": "vtuber",
     "room": 4864151,
-    "group_name": "TTTeam"
+    "group_name": ""
   },
   "588034": {
     "name": "猫猫糖特攻队",
@@ -31287,7 +31215,7 @@
     "name": "麦格林_Maeglin",
     "type": "vtuber",
     "room": 23862248,
-    "group_name": "十万伏特SWIFT"
+    "group_name": ""
   },
   "582225536": {
     "name": "麦芽不甜_",
