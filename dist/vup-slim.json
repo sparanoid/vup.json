@@ -671,12 +671,6 @@
     "room": 394623,
     "group_name": ""
   },
-  "674692942": {
-    "name": "EMINA录播组",
-    "type": "group",
-    "room": 24566580,
-    "group_name": ""
-  },
   "489306359": {
     "name": "Enna的天堂唱诗班",
     "type": "vtuber",
@@ -2739,7 +2733,7 @@
     "name": "Yu-u-mi",
     "type": "vtuber",
     "room": 6871426,
-    "group_name": "妖精体系FairySystem"
+    "group_name": ""
   },
   "3032688": {
     "name": "-Yu酱-",
@@ -5175,7 +5169,7 @@
     "name": "亚米Ami_Official",
     "type": "vtuber",
     "room": 21564263,
-    "group_name": "妖精体系FairySystem"
+    "group_name": ""
   },
   "666953": {
     "name": "亚诺斯Official",
@@ -5985,7 +5979,7 @@
     "name": "克罗刻Kk",
     "type": "vtuber",
     "room": 24128011,
-    "group_name": "Emina-Studio"
+    "group_name": ""
   },
   "6708494": {
     "name": "普雷拉蒂Rleyh",
@@ -10402,12 +10396,6 @@
     "type": "group",
     "room": 0,
     "group_name": "妖灵project"
-  },
-  "414040583": {
-    "name": "妖精体系FairySystem",
-    "type": "group",
-    "room": 0,
-    "group_name": "妖精体系FairySystem"
   },
   "67224873": {
     "name": "妖精偶像小啾",
@@ -21333,7 +21321,7 @@
     "name": "甜梨Official",
     "type": "vtuber",
     "room": 22331152,
-    "group_name": "妖精体系FairySystem"
+    "group_name": ""
   },
   "599505098": {
     "name": "甜甜冰块",
@@ -29655,7 +29643,7 @@
     "name": "雪鹤Uki",
     "type": "vtuber",
     "room": 24447536,
-    "group_name": "Emina-Studio"
+    "group_name": ""
   },
   "387636363": {
     "name": "雫るる_Official",
@@ -31311,7 +31299,7 @@
     "name": "黑咲雾奈_Official",
     "type": "vtuber",
     "room": 21606079,
-    "group_name": "妖精体系FairySystem"
+    "group_name": ""
   },
   "4425196": {
     "name": "黑子莺",

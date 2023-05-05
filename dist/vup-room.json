@@ -783,13 +783,6 @@
     "face": "/bfs/face/a569a3a1bcd3044041ad9f48263f0166ae5b585d.jpg",
     "group_name": ""
   },
-  "674692942": {
-    "name": "EMINA录播组",
-    "type": "group",
-    "room_id": 24566580,
-    "face": "/bfs/face/abc2bab28d70a140671c2fe5873ac15567b129a2.jpg",
-    "group_name": ""
-  },
   "489306359": {
     "name": "Enna的天堂唱诗班",
     "type": "vtuber",
@@ -3196,7 +3189,7 @@
     "type": "vtuber",
     "room_id": 6871426,
     "face": "/bfs/face/0009a08eb1bcd3cbaa59bd028e7efa2d6a115aca.jpg",
-    "group_name": "妖精体系FairySystem"
+    "group_name": ""
   },
   "3032688": {
     "name": "-Yu酱-",
@@ -6038,7 +6031,7 @@
     "type": "vtuber",
     "room_id": 21564263,
     "face": "/bfs/face/13e51ca41e85237dc264dd9de49c8b74d3a8bc7a.jpg",
-    "group_name": "妖精体系FairySystem"
+    "group_name": ""
   },
   "666953": {
     "name": "亚诺斯Official",
@@ -6983,7 +6976,7 @@
     "type": "vtuber",
     "room_id": 24128011,
     "face": "/bfs/face/dd0d79d66c1f9dacd58d76a9f478e448d55c783a.jpg",
-    "group_name": "Emina-Studio"
+    "group_name": ""
   },
   "6708494": {
     "name": "普雷拉蒂Rleyh",
@@ -12136,13 +12129,6 @@
     "room_id": 0,
     "face": "/bfs/face/99c2aa151f102b63bc8f0e2ca451cabcf389a128.jpg",
     "group_name": "妖灵project"
-  },
-  "414040583": {
-    "name": "妖精体系FairySystem",
-    "type": "group",
-    "room_id": 0,
-    "face": "/bfs/face/b34895f5be38a77983d9d92b885573eff4b0bce3.jpg",
-    "group_name": "妖精体系FairySystem"
   },
   "67224873": {
     "name": "妖精偶像小啾",
@@ -24889,7 +24875,7 @@
     "type": "vtuber",
     "room_id": 22331152,
     "face": "/bfs/face/8042e9204f9d97fa6cbff579e2f8d4fe5ee6764a.jpg",
-    "group_name": "妖精体系FairySystem"
+    "group_name": ""
   },
   "599505098": {
     "name": "甜甜冰块",
@@ -27373,7 +27359,7 @@
     "name": "米团团Miho",
     "type": "vtuber",
     "room_id": 1487005,
-    "face": "/bfs/face/8abd236313c0b9f0f50b8812c430244883b16db6.jpg",
+    "face": "/bfs/face/afd6eabc2f3141a6c99576bd592644216ac1498d.jpg",
     "group_name": ""
   },
   "1835314626": {
@@ -34598,7 +34584,7 @@
     "type": "vtuber",
     "room_id": 24447536,
     "face": "/bfs/face/e21f37574982cb35b125f660b1b29b21381feebd.jpg",
-    "group_name": "Emina-Studio"
+    "group_name": ""
   },
   "387636363": {
     "name": "雫るる_Official",
@@ -36530,7 +36516,7 @@
     "type": "vtuber",
     "room_id": 21606079,
     "face": "/bfs/face/e006a4b66d71d435403eff0e87b2a4940d83bd0a.jpg",
-    "group_name": "妖精体系FairySystem"
+    "group_name": ""
   },
   "4425196": {
     "name": "黑子莺",
