@@ -791,14 +791,6 @@
     "sign": "让更多人认识ECHO是我的使命！",
     "group_name": ""
   },
-  "20946335": {
-    "name": "ELA辰",
-    "type": "vtuber",
-    "room": 586008,
-    "face": "/bfs/face/65a27b7de00f30ec6de5a5c9857b66edc59af055.jpg",
-    "sign": "来和我一起在漫长的岁月里寻找快乐吧～///杂谈游戏个鬼势///备用储备粮群号：645652099//联动请私信！很好说话的",
-    "group_name": ""
-  },
   "2018113152": {
     "name": "EOE组合",
     "type": "group",
@@ -2796,7 +2788,7 @@
     "type": "vtuber",
     "room": 24837306,
     "face": "/bfs/face/522d5ece6343ce869fa4d704cd4e129ce6b4295f.jpg",
-    "sign": "喜欢多睡会 不定时私信营业\n商务合作请联系@猫邮社Owlpost",
+    "sign": "喜欢多睡会\n商务合作请联系@猫邮社Owlpost",
     "group_name": "猫邮社"
   },
   "477007": {
@@ -7549,7 +7541,7 @@
     "room": 22409418,
     "face": "/bfs/face/40ad598cf822441c20088764f666ab90b97a937a.jpg",
     "sign": "",
-    "group_name": "樱铃万事屋"
+    "group_name": ""
   },
   "625220399": {
     "name": "佐仓铃Official",
@@ -7557,7 +7549,7 @@
     "room": 22421282,
     "face": "/bfs/face/ec91f817bd4c3aa62221e4866c28f51abae09d1c.jpg",
     "sign": "感谢有你，再见啦，有缘再会。",
-    "group_name": "樱铃万事屋"
+    "group_name": ""
   },
   "341190": {
     "name": "怀念那只猫星人",
@@ -7732,7 +7724,7 @@
     "type": "vtuber",
     "room": 21614019,
     "face": "/bfs/face/f3411b633c97c1a3670fd6e2d0ce76d31d8e0116.jpg",
-    "sign": "自由二次元画师-摸鱼一般发在同名lofter\n不会画画，努力学习中。",
+    "sign": "自由二次元画师-摸鱼一般发在同名lofter\n不会画画，努力学习中。\n约稿走米画师：阿依｜或ayipaidayinji@foxmai.com",
     "group_name": ""
   },
   "1742630": {
@@ -10332,7 +10324,7 @@
     "type": "vtuber",
     "room": 1496449,
     "face": "/bfs/face/ed6abc7f3bdcab6557fc3ee3d77836fd5e450433.jpg",
-    "sign": "周二三五六四天晚8点半直播，B站视频首发，战锤背景党、业余历史研究者，商务联系Swhx2019",
+    "sign": "5月6日不播，7日补。周二三五六四天晚8点半直播，B站视频首发，战锤背景党、业余历史研究者，商务联系Swhx2019",
     "group_name": ""
   },
   "62359": {
@@ -10406,6 +10398,14 @@
     "face": "/bfs/face/a7edad60dab7f5bf46b4ce6460e9ff988acbc68e.jpg",
     "sign": "Chucolala所属古守ちゆ  妈妈：paryi",
     "group_name": "chucolala"
+  },
+  "3493141864778336": {
+    "name": "古月Tsuki",
+    "type": "vtuber",
+    "room": 27682230,
+    "face": "/bfs/face/0cd6fa9de6c2af0fe121dd84fbe4d06108bf8026.jpg",
+    "sign": "社畜转生狐狸一枚，主打一个分享生活和游戏实况~每天不定时下午或者晚上开播~还就主打一个陪伴",
+    "group_name": ""
   },
   "498231490": {
     "name": "狐坂紫織official",
@@ -11342,6 +11342,14 @@
     "face": "/bfs/face/2329720a242537e57755a6f0241e2ae179a7c990.jpg",
     "sign": "⭐️大家好！我是威风！⭐️\n不签任何平台或公司\n合作请加wx：hsnhdslhkahs（注明来意）\n约妆和约拍可找（限南京本地）",
     "group_name": "月光社"
+  },
+  "437990": {
+    "name": "唐茶Karacha",
+    "type": "vtuber",
+    "room": 44856,
+    "face": "/bfs/face/ab5f1a88ebd594005178f6503a580c752c01e565.jpg",
+    "sign": "来自土星的神秘贵族。ヽ(´・ω・`)ﾉ\n群：739518428",
+    "group_name": ""
   },
   "519866775": {
     "name": "由比未崋子_Channel",
@@ -16597,7 +16605,7 @@
     "room": 13683908,
     "face": "/bfs/face/17043eb68fee13670ae62e4be6244cb1d68149c9.jpg",
     "sign": "个人势，不知道写什么",
-    "group_name": "蟠桃组"
+    "group_name": ""
   },
   "8772820": {
     "name": "幻姬SIRVEKA",
@@ -17775,14 +17783,6 @@
     "sign": "",
     "group_name": ""
   },
-  "1966977602": {
-    "name": "爱心猫猫头一号",
-    "type": "group",
-    "room": 22925116,
-    "face": "/bfs/face/8abe4d10468b1c375da4f29b1661fffed76f8802.jpg",
-    "sign": "",
-    "group_name": "悠梦する-女仆咖啡厅"
-  },
   "2046790804": {
     "name": "猫猫万岁噢耶",
     "type": "vtuber",
@@ -18821,7 +18821,7 @@
     "room": 4398166,
     "face": "/bfs/face/8714564016f6c3c6570e1ad02bd889724f610bbe.jpg",
     "sign": "(・ε・)啥么都玩！是个人，势力很大。不要定义我。",
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   "518817": {
     "name": "早凉",
@@ -19605,6 +19605,14 @@
     "room": 22595967,
     "face": "/bfs/face/0057eda09a4f166566f6d497dbfc7fc299fc98ce.jpg",
     "sign": "我是幽蓝星的星灵，在一次意外下来到了地球，现在伪装成占卜师在地球进行活动。所屬WonIDOLand二期",
+    "group_name": ""
+  },
+  "3493105972021270": {
+    "name": "星熊uru",
+    "type": "vtuber",
+    "room": 27016766,
+    "face": "/bfs/face/92282f3217ff1ec8df61c9fc4e40c5888c352b57.jpg",
+    "sign": "妈妈 paryi",
     "group_name": ""
   },
   "1265433547": {
@@ -20987,7 +20995,7 @@
     "name": "月野由爱Yume",
     "type": "vtuber",
     "room": 10128,
-    "face": "/bfs/face/8c20234dd5b31d33dcfec94850849e3b5712f1fe.jpg",
+    "face": "/bfs/face/557fc48223ab40a1e9e4b8b0afc70494a3dc0b1a.jpg",
     "sign": "適当Vup▲Singer&Rapper▲直播间5451▲微博同名",
     "group_name": ""
   },
@@ -21604,7 +21612,7 @@
     "type": "vtuber",
     "room": 22966160,
     "face": "/bfs/face/d474cb8461d312c45543cf07b6c01d20c0af62e6.jpg",
-    "sign": "PSPLIVE所属虚拟熊猫!目前在休眠状态基本不直播zZZパンダ少女日々進化中！二创#大熊猫豆漫#",
+    "sign": "PSPLIVE所属虚拟熊猫!正在休眠zZZパンダ少女日々進化中！二创#大熊猫豆漫#",
     "group_name": "P-SP"
   },
   "34099792": {
@@ -22677,7 +22685,7 @@
     "room": 22086803,
     "face": "/bfs/face/ff3f14fe263f8e55ab4b0353bfd49249ba3e0910.jpg",
     "sign": "再也不见",
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   "1823500310": {
     "name": "桃姆Q吃手手",
@@ -23862,14 +23870,6 @@
     "face": "/bfs/face/f67034baea9e954c2378e5d9b5dca48fd59cd3d3.jpg",
     "sign": "插画丶漫画 ／作品：玻璃的另一侧、舰R－四格、RO-短漫。工作聯絡請直接Email ",
     "group_name": ""
-  },
-  "516780319": {
-    "name": "樱铃万事屋",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/3c0e92721cfbbfc424310347904eb4d01db3d756.jpg",
-    "sign": "樱铃万事屋是也！希望小小的我们可以为你们带来大大的幸福！合作请加QQ1329733639官网sakurasuzu.com",
-    "group_name": "樱铃万事屋"
   },
   "3096031": {
     "name": "樱饼静Channel",
@@ -25172,7 +25172,7 @@
     "type": "vtuber",
     "room": 25352613,
     "face": "/bfs/face/ff34ce4dad5938f0b233cbe0de173155f89f7c9d.jpg",
-    "sign": "全职纯个势音乐系vup(＾∀＾)ﾉｼ努力被你们听到！茉露露集结519649601【录播：@茉宝储糖罐】",
+    "sign": "全职个人歌势(＾∀＾)ﾉｼ努力被你们听到！茉露露集结519649601【录播：@茉宝储糖罐】",
     "group_name": ""
   },
   "547498202": {
@@ -25982,14 +25982,6 @@
     "face": "/bfs/face/c814428f198e038e3cb687594ce11c1513805dd5.jpg",
     "sign": "主号是@温彻思墨，这个号是暂时的直播号哈~",
     "group_name": ""
-  },
-  "15551343": {
-    "name": "温梨梨L1meow",
-    "type": "vtuber",
-    "room": 8318494,
-    "face": "/bfs/face/539816535d1b8dec0f77378e979c0cc862525f54.jpg",
-    "sign": "休息中",
-    "group_name": "ChaosLiveSprout"
   },
   "520776389": {
     "name": "温泽丶",
@@ -28229,7 +28221,7 @@
     "room": 22450023,
     "face": "/bfs/face/62fcfdeb71fc76774f55913846e9a169b65a9f42.jpg",
     "sign": "自由猫咪ฅ^-ω-^ฅ动态势",
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   "1744395": {
     "name": "瑟露丝里德",
@@ -35581,7 +35573,7 @@
     "room": 21662131,
     "face": "/bfs/face/d27c67ddb378b40f16b7867240b175f6fe466f61.jpg",
     "sign": "个人势vup蕉灼 现役大学生 穿梭于各个游戏的鱼塘之中 粉丝群（bushi）：1036765814",
-    "group_name": "蟠桃组"
+    "group_name": ""
   },
   "3493120318638494": {
     "name": "蕉蕉bana",
@@ -35901,7 +35893,7 @@
     "room": 23575258,
     "face": "/bfs/face/6c97b4bff2e7ea5f9a4bd355dc4973c603ccaab9.jpg",
     "sign": "",
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   "1186762218": {
     "name": "蛇目Janome",
@@ -36207,14 +36199,6 @@
     "sign": "是甲鱼呀～",
     "group_name": ""
   },
-  "1209958561": {
-    "name": "褚斐易",
-    "type": "vtuber",
-    "room": 22807430,
-    "face": "/bfs/face/4ad409b1afacfe3f43563b54a971288b4597d500.jpg",
-    "sign": "无限期休眠|你所见的世界，就是你所相信的~",
-    "group_name": ""
-  },
   "7355824": {
     "name": "褰裳ys",
     "type": "vtuber",
@@ -36484,7 +36468,7 @@
     "type": "vtuber",
     "room": 519508,
     "face": "/bfs/face/63fb8e431ff78124fbe2248902384881f956ed8b.jpg",
-    "sign": "<虚研学园>清唱哲思北极熊，翻车区主播，催眠系歌手，能为你带来快乐是我的荣幸！",
+    "sign": "<虚研学园>清唱哲思北极熊，MLB棒球美少女，翻车区主播，催眠系歌手，胡椒博士代言人，能为你带来快乐是我的荣幸！",
     "group_name": ""
   },
   "1766160737": {
@@ -37253,7 +37237,7 @@
     "room": 7111251,
     "face": "/bfs/face/d14cee95c59875129585b2cce7c475ff6b4eb6fd.jpg",
     "sign": " 【Alice映画所属】是个画手，米画师/p站/微博ID：软软Rakki，今年已满，不接了",
-    "group_name": "樱铃万事屋"
+    "group_name": ""
   },
   "504140200": {
     "name": "软软riu",
@@ -38253,7 +38237,7 @@
     "room": 8043184,
     "face": "/bfs/face/6c495e8945adaa43edb0aff3c17b1f75fb3a92cb.jpg",
     "sign": "励志向上小魔女！",
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   "14295657": {
     "name": "霄湮虹",
@@ -39687,6 +39671,14 @@
     "sign": "（八美肉注意）20岁的海军学院学生，雾枝白茶desu！麻麻是@女巫Vivian（白茶港（粉丝群）798193692）",
     "group_name": ""
   },
+  "3493078891497932": {
+    "name": "雾氧Uo",
+    "type": "vtuber",
+    "room": 27206038,
+    "face": "/bfs/face/9cc770fab42c6dfc8e29398252aa20a45802e8ac.jpg",
+    "sign": "雪域provealms所属的夜族指挥官 / 合作provealms@foxmail.com",
+    "group_name": "雪域Provealms"
+  },
   "1484169431": {
     "name": "雾深Girimi",
     "type": "vtuber",
@@ -40412,7 +40404,7 @@
     "type": "vtuber",
     "room": 5131782,
     "face": "/bfs/face/2e8a6932fced90a96294edebf35422757d93e402.jpg",
-    "sign": "风云社所属，穿越到人类界的魔女SO。游戏势，主机白金党一枚。",
+    "sign": "一个穿越到人类界的魔女SO。游戏势，主机白金党一枚。",
     "group_name": "风云社"
   },
   "6432092": {

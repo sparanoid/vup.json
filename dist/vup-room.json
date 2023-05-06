@@ -692,13 +692,6 @@
     "face": "/bfs/face/a8cdbb8c37ab58e0350c3d16b2c485c7ea0bdb6c.jpg",
     "group_name": ""
   },
-  "20946335": {
-    "name": "ELA辰",
-    "type": "vtuber",
-    "room_id": 586008,
-    "face": "/bfs/face/65a27b7de00f30ec6de5a5c9857b66edc59af055.jpg",
-    "group_name": ""
-  },
   "2018113152": {
     "name": "EOE组合",
     "type": "group",
@@ -6605,14 +6598,14 @@
     "type": "vtuber",
     "room_id": 22409418,
     "face": "/bfs/face/40ad598cf822441c20088764f666ab90b97a937a.jpg",
-    "group_name": "樱铃万事屋"
+    "group_name": ""
   },
   "625220399": {
     "name": "佐仓铃Official",
     "type": "vtuber",
     "room_id": 22421282,
     "face": "/bfs/face/ec91f817bd4c3aa62221e4866c28f51abae09d1c.jpg",
-    "group_name": "樱铃万事屋"
+    "group_name": ""
   },
   "341190": {
     "name": "怀念那只猫星人",
@@ -9106,6 +9099,13 @@
     "face": "/bfs/face/a7edad60dab7f5bf46b4ce6460e9ff988acbc68e.jpg",
     "group_name": "chucolala"
   },
+  "3493141864778336": {
+    "name": "古月Tsuki",
+    "type": "vtuber",
+    "room_id": 27682230,
+    "face": "/bfs/face/0cd6fa9de6c2af0fe121dd84fbe4d06108bf8026.jpg",
+    "group_name": ""
+  },
   "498231490": {
     "name": "狐坂紫織official",
     "type": "vtuber",
@@ -9924,6 +9924,13 @@
     "room_id": 0,
     "face": "/bfs/face/2329720a242537e57755a6f0241e2ae179a7c990.jpg",
     "group_name": "月光社"
+  },
+  "437990": {
+    "name": "唐茶Karacha",
+    "type": "vtuber",
+    "room_id": 44856,
+    "face": "/bfs/face/ab5f1a88ebd594005178f6503a580c752c01e565.jpg",
+    "group_name": ""
   },
   "519866775": {
     "name": "由比未崋子_Channel",
@@ -14522,7 +14529,7 @@
     "type": "vtuber",
     "room_id": 13683908,
     "face": "/bfs/face/17043eb68fee13670ae62e4be6244cb1d68149c9.jpg",
-    "group_name": "蟠桃组"
+    "group_name": ""
   },
   "8772820": {
     "name": "幻姬SIRVEKA",
@@ -15553,13 +15560,6 @@
     "face": "/bfs/face/d2b0a7162cde1f0d0fbda4c01de9f3d3c24d1f46.jpg",
     "group_name": ""
   },
-  "1966977602": {
-    "name": "爱心猫猫头一号",
-    "type": "group",
-    "room_id": 22925116,
-    "face": "/bfs/face/8abe4d10468b1c375da4f29b1661fffed76f8802.jpg",
-    "group_name": "悠梦する-女仆咖啡厅"
-  },
   "2046790804": {
     "name": "猫猫万岁噢耶",
     "type": "vtuber",
@@ -16468,7 +16468,7 @@
     "type": "vtuber",
     "room_id": 4398166,
     "face": "/bfs/face/8714564016f6c3c6570e1ad02bd889724f610bbe.jpg",
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   "518817": {
     "name": "早凉",
@@ -17154,6 +17154,13 @@
     "type": "vtuber",
     "room_id": 22595967,
     "face": "/bfs/face/0057eda09a4f166566f6d497dbfc7fc299fc98ce.jpg",
+    "group_name": ""
+  },
+  "3493105972021270": {
+    "name": "星熊uru",
+    "type": "vtuber",
+    "room_id": 27016766,
+    "face": "/bfs/face/92282f3217ff1ec8df61c9fc4e40c5888c352b57.jpg",
     "group_name": ""
   },
   "1265433547": {
@@ -18364,7 +18371,7 @@
     "name": "月野由爱Yume",
     "type": "vtuber",
     "room_id": 10128,
-    "face": "/bfs/face/8c20234dd5b31d33dcfec94850849e3b5712f1fe.jpg",
+    "face": "/bfs/face/557fc48223ab40a1e9e4b8b0afc70494a3dc0b1a.jpg",
     "group_name": ""
   },
   "24214302": {
@@ -19842,7 +19849,7 @@
     "type": "vtuber",
     "room_id": 22086803,
     "face": "/bfs/face/ff3f14fe263f8e55ab4b0353bfd49249ba3e0910.jpg",
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   "1823500310": {
     "name": "桃姆Q吃手手",
@@ -20879,13 +20886,6 @@
     "room_id": 22881160,
     "face": "/bfs/face/f67034baea9e954c2378e5d9b5dca48fd59cd3d3.jpg",
     "group_name": ""
-  },
-  "516780319": {
-    "name": "樱铃万事屋",
-    "type": "group",
-    "room_id": 0,
-    "face": "/bfs/face/3c0e92721cfbbfc424310347904eb4d01db3d756.jpg",
-    "group_name": "樱铃万事屋"
   },
   "3096031": {
     "name": "樱饼静Channel",
@@ -22734,13 +22734,6 @@
     "room_id": 22395326,
     "face": "/bfs/face/c814428f198e038e3cb687594ce11c1513805dd5.jpg",
     "group_name": ""
-  },
-  "15551343": {
-    "name": "温梨梨L1meow",
-    "type": "vtuber",
-    "room_id": 8318494,
-    "face": "/bfs/face/539816535d1b8dec0f77378e979c0cc862525f54.jpg",
-    "group_name": "ChaosLiveSprout"
   },
   "520776389": {
     "name": "温泽丶",
@@ -24700,7 +24693,7 @@
     "type": "vtuber",
     "room_id": 22450023,
     "face": "/bfs/face/62fcfdeb71fc76774f55913846e9a169b65a9f42.jpg",
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   "1744395": {
     "name": "瑟露丝里德",
@@ -31133,7 +31126,7 @@
     "type": "vtuber",
     "room_id": 21662131,
     "face": "/bfs/face/d27c67ddb378b40f16b7867240b175f6fe466f61.jpg",
-    "group_name": "蟠桃组"
+    "group_name": ""
   },
   "3493120318638494": {
     "name": "蕉蕉bana",
@@ -31413,7 +31406,7 @@
     "type": "vtuber",
     "room_id": 23575258,
     "face": "/bfs/face/6c97b4bff2e7ea5f9a4bd355dc4973c603ccaab9.jpg",
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   "1186762218": {
     "name": "蛇目Janome",
@@ -31679,13 +31672,6 @@
     "type": "vtuber",
     "room_id": 237490,
     "face": "/bfs/face/74cb13df68334f14433520d667859301f859c531.jpg",
-    "group_name": ""
-  },
-  "1209958561": {
-    "name": "褚斐易",
-    "type": "vtuber",
-    "room_id": 22807430,
-    "face": "/bfs/face/4ad409b1afacfe3f43563b54a971288b4597d500.jpg",
     "group_name": ""
   },
   "7355824": {
@@ -32596,7 +32582,7 @@
     "type": "vtuber",
     "room_id": 7111251,
     "face": "/bfs/face/d14cee95c59875129585b2cce7c475ff6b4eb6fd.jpg",
-    "group_name": "樱铃万事屋"
+    "group_name": ""
   },
   "504140200": {
     "name": "软软riu",
@@ -33471,7 +33457,7 @@
     "type": "vtuber",
     "room_id": 8043184,
     "face": "/bfs/face/6c495e8945adaa43edb0aff3c17b1f75fb3a92cb.jpg",
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   "14295657": {
     "name": "霄湮虹",
@@ -34725,6 +34711,13 @@
     "room_id": 617845,
     "face": "/bfs/face/4c96eec20996a832552c015d81ef98c7c2d40368.jpg",
     "group_name": ""
+  },
+  "3493078891497932": {
+    "name": "雾氧Uo",
+    "type": "vtuber",
+    "room_id": 27206038,
+    "face": "/bfs/face/9cc770fab42c6dfc8e29398252aa20a45802e8ac.jpg",
+    "group_name": "雪域Provealms"
   },
   "1484169431": {
     "name": "雾深Girimi",

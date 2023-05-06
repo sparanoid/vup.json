@@ -693,13 +693,6 @@
     "group_name": ""
   },
   {
-    "uid": 20946335,
-    "name": "ELA辰",
-    "type": "vtuber",
-    "room": 586008,
-    "group_name": ""
-  },
-  {
     "uid": 2018113152,
     "name": "EOE组合",
     "type": "group",
@@ -6605,14 +6598,14 @@
     "name": "佐仓旬夏Official",
     "type": "vtuber",
     "room": 22409418,
-    "group_name": "樱铃万事屋"
+    "group_name": ""
   },
   {
     "uid": 625220399,
     "name": "佐仓铃Official",
     "type": "vtuber",
     "room": 22421282,
-    "group_name": "樱铃万事屋"
+    "group_name": ""
   },
   {
     "uid": 341190,
@@ -9107,6 +9100,13 @@
     "group_name": "chucolala"
   },
   {
+    "uid": 3493141864778336,
+    "name": "古月Tsuki",
+    "type": "vtuber",
+    "room": 27682230,
+    "group_name": ""
+  },
+  {
     "uid": 498231490,
     "name": "狐坂紫織official",
     "type": "vtuber",
@@ -9924,6 +9924,13 @@
     "type": "vtuber",
     "room": 0,
     "group_name": "月光社"
+  },
+  {
+    "uid": 437990,
+    "name": "唐茶Karacha",
+    "type": "vtuber",
+    "room": 44856,
+    "group_name": ""
   },
   {
     "uid": 519866775,
@@ -14522,7 +14529,7 @@
     "name": "幺幺yaoo00",
     "type": "vtuber",
     "room": 13683908,
-    "group_name": "蟠桃组"
+    "group_name": ""
   },
   {
     "uid": 8772820,
@@ -15554,13 +15561,6 @@
     "group_name": ""
   },
   {
-    "uid": 1966977602,
-    "name": "爱心猫猫头一号",
-    "type": "group",
-    "room": 22925116,
-    "group_name": "悠梦する-女仆咖啡厅"
-  },
-  {
     "uid": 2046790804,
     "name": "猫猫万岁噢耶",
     "type": "vtuber",
@@ -16468,7 +16468,7 @@
     "name": "早乙女雪葵",
     "type": "vtuber",
     "room": 4398166,
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   {
     "uid": 518817,
@@ -17154,6 +17154,13 @@
     "name": "星灵幽蓝",
     "type": "vtuber",
     "room": 22595967,
+    "group_name": ""
+  },
+  {
+    "uid": 3493105972021270,
+    "name": "星熊uru",
+    "type": "vtuber",
+    "room": 27016766,
     "group_name": ""
   },
   {
@@ -19842,7 +19849,7 @@
     "name": "昵称处空白",
     "type": "vtuber",
     "room": 22086803,
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   {
     "uid": 1823500310,
@@ -20879,13 +20886,6 @@
     "type": "vtuber",
     "room": 22881160,
     "group_name": ""
-  },
-  {
-    "uid": 516780319,
-    "name": "樱铃万事屋",
-    "type": "group",
-    "room": 0,
-    "group_name": "樱铃万事屋"
   },
   {
     "uid": 3096031,
@@ -22734,13 +22734,6 @@
     "type": "vtuber",
     "room": 22395326,
     "group_name": ""
-  },
-  {
-    "uid": 15551343,
-    "name": "温梨梨L1meow",
-    "type": "vtuber",
-    "room": 8318494,
-    "group_name": "ChaosLiveSprout"
   },
   {
     "uid": 520776389,
@@ -24700,7 +24693,7 @@
     "name": "瑟薇尔",
     "type": "vtuber",
     "room": 22450023,
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   {
     "uid": 1744395,
@@ -31133,7 +31126,7 @@
     "name": "蕉灼_Channel",
     "type": "vtuber",
     "room": 21662131,
-    "group_name": "蟠桃组"
+    "group_name": ""
   },
   {
     "uid": 3493120318638494,
@@ -31413,7 +31406,7 @@
     "name": "bili_45336112935",
     "type": "vtuber",
     "room": 23575258,
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   {
     "uid": 1186762218,
@@ -31679,13 +31672,6 @@
     "name": "裸奔的甲鱼Official",
     "type": "vtuber",
     "room": 237490,
-    "group_name": ""
-  },
-  {
-    "uid": 1209958561,
-    "name": "褚斐易",
-    "type": "vtuber",
-    "room": 22807430,
     "group_name": ""
   },
   {
@@ -32596,7 +32582,7 @@
     "name": "软软Rakki",
     "type": "vtuber",
     "room": 7111251,
-    "group_name": "樱铃万事屋"
+    "group_name": ""
   },
   {
     "uid": 504140200,
@@ -33471,7 +33457,7 @@
     "name": "月月_活力满满版",
     "type": "vtuber",
     "room": 8043184,
-    "group_name": "悠梦する-女仆咖啡厅"
+    "group_name": ""
   },
   {
     "uid": 14295657,
@@ -34725,6 +34711,13 @@
     "type": "vtuber",
     "room": 617845,
     "group_name": ""
+  },
+  {
+    "uid": 3493078891497932,
+    "name": "雾氧Uo",
+    "type": "vtuber",
+    "room": 27206038,
+    "group_name": "雪域Provealms"
   },
   {
     "uid": 1484169431,
