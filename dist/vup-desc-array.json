@@ -716,7 +716,7 @@
     "type": "vtuber",
     "room": 25474431,
     "face": "/bfs/face/f571d38543dc3017c7fedca655cd628addac2e44.jpg",
-    "sign": "「极光社所属」努力成长蜕变的小企鹅一只，梦想成为大家心中的小太阳！目前非洲度假中~~~ 商务合作VX：JGSAurora",
+    "sign": "「极光社所属」努力成长蜕变的小企鹅一只，梦想成为大家心中的光！目前非洲度假中~~~ 商务合作VX：JGSAurora",
     "group_name": "极光社"
   },
   {
@@ -9002,10 +9002,19 @@
   {
     "uid": 2076245548,
     "name": "兎乃USANO",
-    "type": "vtuber",
+    "type": "unknown",
     "room": 23239501,
     "face": "/bfs/face/66a37df7f493d5a080f5242288710bd40cf79363.jpg",
     "sign": "喜欢唱歌·更喜欢你笑",
+    "group_name": ""
+  },
+  {
+    "uid": 15265,
+    "name": "兎乃",
+    "type": "vtuber",
+    "room": 27216357,
+    "face": "/bfs/face/fe8085ac130bf0cffbdc014cd401e313ba3cc17a.jpg",
+    "sign": "只管努力就好啦,其他的交给时间.",
     "group_name": ""
   },
   {
@@ -18086,7 +18095,7 @@
     "type": "vtuber",
     "room": 3252961,
     "face": "/bfs/face/d59886812a23fca6f91e92085b5b763378ba8d2f.jpg",
-    "sign": "社恐，请小心对待",
+    "sign": "社恐，请小心对待｜低浮上",
     "group_name": ""
   },
   {
@@ -33881,7 +33890,7 @@
     "type": "vtuber",
     "room": 25070229,
     "face": "/bfs/face/01acc033af11c90aa135eaab48da6f1ada2cde2f.jpg",
-    "sign": "个人势日日进化vup，只是随心所欲~ƪ(˘⌣˘)ʃ~砂那的星砂瓶：769088137",
+    "sign": "人间游荡小天使，只是随心所欲~ƪ(˘⌣˘)ʃ~",
     "group_name": ""
   },
   {

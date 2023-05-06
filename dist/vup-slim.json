@@ -6001,8 +6001,14 @@
   },
   "2076245548": {
     "name": "兎乃USANO",
-    "type": "vtuber",
+    "type": "unknown",
     "room": 23239501,
+    "group_name": ""
+  },
+  "15265": {
+    "name": "兎乃",
+    "type": "vtuber",
+    "room": 27216357,
     "group_name": ""
   },
   "13619728": {
