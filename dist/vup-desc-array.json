@@ -819,15 +819,6 @@
     "group_name": ""
   },
   {
-    "uid": 692258132,
-    "name": "微尘计划网络传媒",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/4f4ceb383e6959a92ab32f13b2241abe685d750e.jpg",
-    "sign": "让微小的梦想闪闪发光：绵阳微尘计划网络传媒有限公司旗下虚拟主播团官方账号",
-    "group_name": ""
-  },
-  {
     "uid": 488979186,
     "name": "DUSTCELL_官方",
     "type": "vtuber",
@@ -13554,15 +13545,6 @@
     "group_name": "Croven教团"
   },
   {
-    "uid": 50729578,
-    "name": "墨辰星的笔记本",
-    "type": "vtuber",
-    "room": 4039669,
-    "face": "/bfs/face/8210ac6e0803a4b8c6d8e3968b01397130ab0c71.jpg",
-    "sign": "墨辰星的录播组",
-    "group_name": "DUSTLIVE微尘计划"
-  },
-  {
     "uid": 1098845992,
     "name": "墨青玑",
     "type": "vtuber",
@@ -19990,11 +19972,11 @@
   },
   {
     "uid": 2046790804,
-    "name": "猫猫万岁噢耶",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 25761442,
-    "face": "/bfs/face/aacdf78829be6e9b3f4424cccc889de480f314e5.jpg",
-    "sign": "喜欢软乎乎毛茸茸的东西！",
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {
@@ -20166,7 +20148,7 @@
     "room": 21622688,
     "face": "/bfs/face/8b3be69cb17f8c681c13ec5b63367d6f9c40e445.jpg",
     "sign": "这里是社畜成长系个人势主播，出没时间一般在晚上21:00左右╯^╰",
-    "group_name": "超V学园"
+    "group_name": ""
   },
   {
     "uid": 268116282,
@@ -24585,7 +24567,7 @@
     "room": 21622687,
     "face": "/bfs/face/fa8c4798187b3ace3e83b63caf105e8d7db22588.jpg",
     "sign": "来自学校的美少女，欢迎来直播间溜达，谢谢大家的陪伴~~",
-    "group_name": "超V学园"
+    "group_name": ""
   },
   {
     "uid": 14110514,
@@ -24630,7 +24612,7 @@
     "room": 21622680,
     "face": "/bfs/face/19054eabe7934d8b843cb444358e8a605eb20779.jpg",
     "sign": "ᕱ⑅ᕱ 爱唱歌画画打游戏的JK老二次元兔兔，心潮澎湃",
-    "group_name": "超V学园"
+    "group_name": ""
   },
   {
     "uid": 1289581866,
@@ -26224,15 +26206,6 @@
     "face": "/bfs/face/7f8f2d22098691221472564b640d3af5c37bcf20.jpg",
     "sign": "博美犬もふもふ〜\n个人势‪︎✿喜欢摆烂︎✿棉花团团:812436850\n商务合作:info@cherrynova.net",
     "group_name": ""
-  },
-  {
-    "uid": 4290020,
-    "name": "要来点抹茶拿铁吗",
-    "type": "vtuber",
-    "room": 1567213,
-    "face": "/bfs/face/dedff64842beeab7302c78dabf29db05212bc982.jpg",
-    "sign": "尽力而为我的宝@八千流野晒",
-    "group_name": "DUSTLIVE微尘计划"
   },
   {
     "uid": 6298904,
@@ -32721,7 +32694,7 @@
     "room": 21622694,
     "face": "/bfs/face/f252d98d5018b31e3085b85b87f07b6afcd00093.jpg",
     "sign": "Zzzz…Z……z………",
-    "group_name": "超V学园"
+    "group_name": ""
   },
   {
     "uid": 696961866,
@@ -36105,7 +36078,7 @@
     "room": 21692594,
     "face": "/bfs/face/184b84de3ca2efd032cfdba0bf0ac42426909878.jpg",
     "sign": "一只拥有自己图书馆的猫，精通各种世界的魔法，但是啥都不想干，只想摆烂打游戏。（有空就播有空就播）",
-    "group_name": "DUSTLIVE微尘计划"
+    "group_name": ""
   },
   {
     "uid": 690608697,
@@ -41166,15 +41139,6 @@
     "group_name": "VirtuaReal"
   },
   {
-    "uid": 487898033,
-    "name": "课后V派对",
-    "type": "vtuber",
-    "room": 21735722,
-    "face": "/bfs/face/89e23b2cd331ae72164aedada45ee46897d1fdf7.jpg",
-    "sign": "这里是介绍超V学院课外时间的官方节目频道！1月10日开始播出！首期节目的嘉宾为电脑少女小白，鹿乃的二位！天輝おこめ为助手（協力：超V学园）",
-    "group_name": "超V学园"
-  },
-  {
     "uid": 245830447,
     "name": "谁来给緋月ゆい建组啊",
     "type": "vtuber",
@@ -41631,15 +41595,6 @@
     "room": 22337684,
     "face": "/bfs/face/51e8efd8c596ee0a531023719381f3df9f24e917.jpg",
     "sign": "我是好奇心旺盛的日本小学生 老是爱玩游戏 非常喜欢中国 我将要挑战很多事情！",
-    "group_name": ""
-  },
-  {
-    "uid": 477002148,
-    "name": "超V学园",
-    "type": "group",
-    "room": 21717356,
-    "face": "/bfs/face/2cc0684bad397b0436aa003ef2f654bd66f46ddf.jpg",
-    "sign": "“超V学园”---》超D乐园 合作请联系chaodian_vup@bilibili.com",
     "group_name": ""
   },
   {
@@ -42810,7 +42765,7 @@
     "room": 51721,
     "face": "/bfs/face/f6730262acb86e5894f31256750a811dae5585e5.jpg",
     "sign": "这里是钥 !Dustlive所属。  现正在为了美好的未来奋斗！晚间不定时直播~粉丝群：777080696",
-    "group_name": "DUSTLIVE微尘计划"
+    "group_name": ""
   },
   {
     "uid": 2996709,
@@ -46639,7 +46594,7 @@
   },
   {
     "uid": 3493116151598026,
-    "name": "鹿小清-",
+    "name": "鹿小清5月10满月and生日",
     "type": "vtuber",
     "room": 27535049,
     "face": "/bfs/face/c34fe355d5a772f3fb5aee7293711438fbc6278f.jpg",

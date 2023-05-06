@@ -636,13 +636,6 @@
     "face": "/bfs/face/41fe38f9fd145fc1c53b9b565e618e62b201a26d.jpg",
     "group_name": ""
   },
-  "692258132": {
-    "name": "微尘计划网络传媒",
-    "type": "group",
-    "room_id": 0,
-    "face": "/bfs/face/4f4ceb383e6959a92ab32f13b2241abe685d750e.jpg",
-    "group_name": ""
-  },
   "488979186": {
     "name": "DUSTCELL_官方",
     "type": "vtuber",
@@ -10541,13 +10534,6 @@
     "face": "/bfs/face/11715abf9606aa3ad0f2bb306d31306ffca9c768.jpg",
     "group_name": "Croven教团"
   },
-  "50729578": {
-    "name": "墨辰星的笔记本",
-    "type": "vtuber",
-    "room_id": 4039669,
-    "face": "/bfs/face/8210ac6e0803a4b8c6d8e3968b01397130ab0c71.jpg",
-    "group_name": "DUSTLIVE微尘计划"
-  },
   "1098845992": {
     "name": "墨青玑",
     "type": "vtuber",
@@ -15547,10 +15533,10 @@
     "group_name": ""
   },
   "2046790804": {
-    "name": "猫猫万岁噢耶",
+    "name": "bilibili",
     "type": "vtuber",
     "room_id": 25761442,
-    "face": "/bfs/face/aacdf78829be6e9b3f4424cccc889de480f314e5.jpg",
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "172427807": {
@@ -15684,7 +15670,7 @@
     "type": "vtuber",
     "room_id": 21622688,
     "face": "/bfs/face/8b3be69cb17f8c681c13ec5b63367d6f9c40e445.jpg",
-    "group_name": "超V学园"
+    "group_name": ""
   },
   "268116282": {
     "name": "DD-慕泽晴",
@@ -19121,7 +19107,7 @@
     "type": "vtuber",
     "room_id": 21622687,
     "face": "/bfs/face/fa8c4798187b3ace3e83b63caf105e8d7db22588.jpg",
-    "group_name": "超V学园"
+    "group_name": ""
   },
   "14110514": {
     "name": "林小可Iris",
@@ -19156,7 +19142,7 @@
     "type": "vtuber",
     "room_id": 21622680,
     "face": "/bfs/face/19054eabe7934d8b843cb444358e8a605eb20779.jpg",
-    "group_name": "超V学园"
+    "group_name": ""
   },
   "1289581866": {
     "name": "林みことChannel",
@@ -20396,13 +20382,6 @@
     "room_id": 25185027,
     "face": "/bfs/face/7f8f2d22098691221472564b640d3af5c37bcf20.jpg",
     "group_name": ""
-  },
-  "4290020": {
-    "name": "要来点抹茶拿铁吗",
-    "type": "vtuber",
-    "room_id": 1567213,
-    "face": "/bfs/face/dedff64842beeab7302c78dabf29db05212bc982.jpg",
-    "group_name": "DUSTLIVE微尘计划"
   },
   "6298904": {
     "name": "棠衣衣吖",
@@ -25449,7 +25428,7 @@
     "type": "vtuber",
     "room_id": 21622694,
     "face": "/bfs/face/f252d98d5018b31e3085b85b87f07b6afcd00093.jpg",
-    "group_name": "超V学园"
+    "group_name": ""
   },
   "696961866": {
     "name": "白祉_official",
@@ -28081,7 +28060,7 @@
     "type": "vtuber",
     "room_id": 21692594,
     "face": "/bfs/face/184b84de3ca2efd032cfdba0bf0ac42426909878.jpg",
-    "group_name": "DUSTLIVE微尘计划"
+    "group_name": ""
   },
   "690608697": {
     "name": "纽伊Official",
@@ -32017,13 +31996,6 @@
     "face": "/bfs/face/aeeae5b4ca9105419f562a105e6513249f9e30db.jpg",
     "group_name": "VirtuaReal"
   },
-  "487898033": {
-    "name": "课后V派对",
-    "type": "vtuber",
-    "room_id": 21735722,
-    "face": "/bfs/face/89e23b2cd331ae72164aedada45ee46897d1fdf7.jpg",
-    "group_name": "超V学园"
-  },
   "245830447": {
     "name": "谁来给緋月ゆい建组啊",
     "type": "vtuber",
@@ -32379,13 +32351,6 @@
     "type": "vtuber",
     "room_id": 22337684,
     "face": "/bfs/face/51e8efd8c596ee0a531023719381f3df9f24e917.jpg",
-    "group_name": ""
-  },
-  "477002148": {
-    "name": "超V学园",
-    "type": "group",
-    "room_id": 21717356,
-    "face": "/bfs/face/2cc0684bad397b0436aa003ef2f654bd66f46ddf.jpg",
     "group_name": ""
   },
   "94375859": {
@@ -33296,7 +33261,7 @@
     "type": "vtuber",
     "room_id": 51721,
     "face": "/bfs/face/f6730262acb86e5894f31256750a811dae5585e5.jpg",
-    "group_name": "DUSTLIVE微尘计划"
+    "group_name": ""
   },
   "2996709": {
     "name": "钰銤0フ0_Channel",
@@ -36274,7 +36239,7 @@
     "group_name": ""
   },
   "3493116151598026": {
-    "name": "鹿小清-",
+    "name": "鹿小清5月10满月and生日",
     "type": "vtuber",
     "room_id": 27535049,
     "face": "/bfs/face/c34fe355d5a772f3fb5aee7293711438fbc6278f.jpg",
