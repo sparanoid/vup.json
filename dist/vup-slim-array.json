@@ -1124,7 +1124,7 @@
     "name": "Juno_阿尔卡特",
     "type": "vtuber",
     "room": 3469627,
-    "group_name": "辉夙星人类文明博物馆"
+    "group_name": ""
   },
   {
     "uid": 17479767,
@@ -1155,13 +1155,6 @@
     "group_name": ""
   },
   {
-    "uid": 50710770,
-    "name": "KOT-Official",
-    "type": "group",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 1046323261,
     "name": "KUROSUYAHIRO",
     "type": "vtuber",
@@ -1180,7 +1173,7 @@
     "name": "地雷ペダル",
     "type": "vtuber",
     "room": 2373631,
-    "group_name": "Lucca"
+    "group_name": ""
   },
   {
     "uid": 298077390,
@@ -1355,13 +1348,6 @@
     "name": "Luca的Augustus饲养所",
     "type": "vtuber",
     "room": 24045632,
-    "group_name": ""
-  },
-  {
-    "uid": 353050668,
-    "name": "Lucca事务所",
-    "type": "group",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -5569,7 +5555,7 @@
     "name": "乌拉の帝国Official",
     "type": "vtuber",
     "room": 14893,
-    "group_name": "Lucca"
+    "group_name": ""
   },
   {
     "uid": 32365653,
@@ -7298,7 +7284,7 @@
     "name": "莎莎不知道",
     "type": "vtuber",
     "room": 2436830,
-    "group_name": "Lucca"
+    "group_name": ""
   },
   {
     "uid": 194326389,
@@ -10049,7 +10035,7 @@
     "name": "喀秋莎秋明Official",
     "type": "vtuber",
     "room": 2610619,
-    "group_name": "Lucca"
+    "group_name": ""
   },
   {
     "uid": 3946421,
@@ -10672,7 +10658,7 @@
     "name": "夏怿妉Channel",
     "type": "vtuber",
     "room": 0,
-    "group_name": "辉夙星人类文明博物馆"
+    "group_name": ""
   },
   {
     "uid": 1940246442,
@@ -14564,7 +14550,7 @@
     "name": "幻想口袋喵w",
     "type": "vtuber",
     "room": 757321,
-    "group_name": "Lucca"
+    "group_name": ""
   },
   {
     "uid": 1630573996,
@@ -18071,7 +18057,7 @@
     "name": "曦娜Soina",
     "type": "vtuber",
     "room": 25174502,
-    "group_name": "KOT"
+    "group_name": ""
   },
   {
     "uid": 4675985,
@@ -20955,7 +20941,7 @@
     "name": "橘真白_Channel",
     "type": "vtuber",
     "room": 21651249,
-    "group_name": "Lucca"
+    "group_name": ""
   },
   {
     "uid": 1222235381,
@@ -24665,7 +24651,7 @@
     "name": "瑞肯RayKen",
     "type": "vtuber",
     "room": 24474876,
-    "group_name": "KOT"
+    "group_name": ""
   },
   {
     "uid": 666726802,
@@ -30853,7 +30839,7 @@
     "name": "萨莎柯里克Official",
     "type": "vtuber",
     "room": 21318294,
-    "group_name": "Lucca"
+    "group_name": ""
   },
   {
     "uid": 320225995,
@@ -32645,13 +32631,6 @@
     "name": "轻鸢白羽",
     "type": "vtuber",
     "room": 290889,
-    "group_name": ""
-  },
-  {
-    "uid": 7663811,
-    "name": "辉夙星人类文明博物馆",
-    "type": "group",
-    "room": 311941,
     "group_name": ""
   },
   {
@@ -34738,7 +34717,7 @@
     "name": "雾间mist",
     "type": "vtuber",
     "room": 21716411,
-    "group_name": "Lucca"
+    "group_name": ""
   },
   {
     "uid": 638467578,
@@ -36796,7 +36775,7 @@
     "name": "齐绫KylinMoriaty",
     "type": "vtuber",
     "room": 24479925,
-    "group_name": "KOT"
+    "group_name": ""
   },
   {
     "uid": 1420223,
