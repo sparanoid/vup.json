@@ -11550,10 +11550,10 @@
     "group_name": "玹云社"
   },
   "515200194": {
-    "name": "天满妮娅Official",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 0,
-    "face": "/bfs/face/52dcf067ebc6a7627018a7388437245a02040153.jpg",
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "2058194452": {
@@ -26666,7 +26666,7 @@
     "name": "鲸鱼娘西丝特official",
     "type": "vtuber",
     "room": 26545331,
-    "face": "/bfs/face/41389c65240ac9331c8115ba71b0f9fb14b8f40e.jpg",
+    "face": "/bfs/face/2d8347a344249161241deb093b7c94c6e650fb84.jpg",
     "group_name": ""
   },
   "1527061501": {
