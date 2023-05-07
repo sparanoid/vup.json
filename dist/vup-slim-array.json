@@ -1023,7 +1023,7 @@
   },
   {
     "uid": 1895255207,
-    "name": "IRA艾芮",
+    "name": "亚哈小姐的狗",
     "type": "vtuber",
     "room": 23111212,
     "group_name": ""
@@ -15533,13 +15533,6 @@
     "group_name": ""
   },
   {
-    "uid": 2046790804,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25761442,
-    "group_name": ""
-  },
-  {
     "uid": 172427807,
     "name": "悠米Umii",
     "type": "vtuber",
@@ -20864,6 +20857,13 @@
     "name": "樱饼饼Sakura",
     "type": "vtuber",
     "room": 1960179,
+    "group_name": ""
+  },
+  {
+    "uid": 37913961,
+    "name": "樹枳丶",
+    "type": "vtuber",
+    "room": 8338983,
     "group_name": ""
   },
   {

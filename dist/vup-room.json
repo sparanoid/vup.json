@@ -1022,10 +1022,10 @@
     "group_name": ""
   },
   "1895255207": {
-    "name": "IRA艾芮",
+    "name": "亚哈小姐的狗",
     "type": "vtuber",
     "room_id": 23111212,
-    "face": "/bfs/face/be4c1e4298e372357a9064f36c3b079e42185dd9.jpg",
+    "face": "/bfs/face/f12b9b45c8570560589c23924dedf8b44b65c070.jpg",
     "group_name": ""
   },
   "1921596130": {
@@ -15532,13 +15532,6 @@
     "face": "/bfs/face/d2b0a7162cde1f0d0fbda4c01de9f3d3c24d1f46.jpg",
     "group_name": ""
   },
-  "2046790804": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 25761442,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "172427807": {
     "name": "悠米Umii",
     "type": "vtuber",
@@ -20866,6 +20859,13 @@
     "face": "/bfs/face/f04806fe9500c649c5bfa251c25ad4173bc83328.jpg",
     "group_name": ""
   },
+  "37913961": {
+    "name": "樹枳丶",
+    "type": "vtuber",
+    "room_id": 8338983,
+    "face": "/bfs/face/4e885a0a8fb5e90e7d5efadc1d7694f3264ae852.jpg",
+    "group_name": ""
+  },
   "439941": {
     "name": "樹莓蛋奶酥",
     "type": "vtuber",
@@ -23873,7 +23873,7 @@
     "name": "猫姬琥珀_official",
     "type": "vtuber",
     "room_id": 23778409,
-    "face": "/bfs/face/1a3aa4140f53bb2817c12339bd3a68bdfea1a5cf.jpg",
+    "face": "/bfs/face/6a666973645e3f7ab6d14a4b5d78abf84fee849d.jpg",
     "group_name": ""
   },
   "396728248": {
@@ -35871,7 +35871,7 @@
     "name": "鲨鲨ZJiangs",
     "type": "vtuber",
     "room_id": 26040665,
-    "face": "/bfs/face/48ff52ef79a9d0e4a016054e642fdb122fee5c50.jpg",
+    "face": "/bfs/face/3cb8db46b2185d026b0bf2915d9d30b2a3f15a23.jpg",
     "group_name": ""
   },
   "3352418": {
