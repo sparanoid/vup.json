@@ -10920,6 +10920,14 @@
     "group_name": "MeUmyShelf"
   },
   {
+    "uid": 3493260825725825,
+    "name": "呜绒",
+    "type": "vtuber",
+    "room": 27352619,
+    "face": "/bfs/face/7a9843b251581f45368e6c58ec0cb0651564895b.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 702607661,
     "name": "黑川礼音Reion",
     "type": "vtuber",
@@ -24320,6 +24328,14 @@
     "group_name": ""
   },
   {
+    "uid": 2387571,
+    "name": "水無濑烛烛",
+    "type": "vtuber",
+    "room": 11253649,
+    "face": "/bfs/face/399e8ac05b9a45de3de7f3d5f220015614e6280f.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 390131950,
     "name": "水無瀬rui_official",
     "type": "vtuber",
@@ -27973,14 +27989,6 @@
     "type": "vtuber",
     "room": 22777127,
     "face": "/bfs/face/80d072725ae5aeb6b503c21ac2fcb09bc822ccf9.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 1723100461,
-    "name": "琥珀玲_Official",
-    "type": "vtuber",
-    "room": 24044804,
-    "face": "/bfs/face/6799110277857fba552fcb0549f4df1c7f29ba72.jpg",
     "group_name": ""
   },
   {
@@ -33872,14 +33880,6 @@
     "group_name": "VirtuaReal"
   },
   {
-    "uid": 13928503,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 410708,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  {
     "uid": 619471232,
     "name": "花緑青official",
     "type": "vtuber",
@@ -35957,14 +35957,6 @@
     "type": "vtuber",
     "room": 853672,
     "face": "/bfs/face/d376a49baf46593b71d748ede7e025d2a1ba550f.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 699327470,
-    "name": "蜜汁粥粥_",
-    "type": "vtuber",
-    "room": 22578273,
-    "face": "/bfs/face/89dac439c4ff9b6897ef46e375bcbf446526b6d9.jpg",
     "group_name": ""
   },
   {
@@ -41621,6 +41613,14 @@
     "type": "vtuber",
     "room": 59803,
     "face": "/bfs/face/5a7845ee0bee1a5ae14285c4a091a0ace3befb9c.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493258091039121,
+    "name": "黎夜OuO",
+    "type": "vtuber",
+    "room": 27532924,
+    "face": "/bfs/face/faea02337de8d89c4f039cf898a98582ff2ee6fc.jpg",
     "group_name": ""
   },
   {

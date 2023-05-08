@@ -9555,6 +9555,13 @@
     "group_name": "MeUmyShelf"
   },
   {
+    "uid": 3493260825725825,
+    "name": "呜绒",
+    "type": "vtuber",
+    "room": 27352619,
+    "group_name": ""
+  },
+  {
     "uid": 702607661,
     "name": "黑川礼音Reion",
     "type": "vtuber",
@@ -21280,6 +21287,13 @@
     "group_name": ""
   },
   {
+    "uid": 2387571,
+    "name": "水無濑烛烛",
+    "type": "vtuber",
+    "room": 11253649,
+    "group_name": ""
+  },
+  {
     "uid": 390131950,
     "name": "水無瀬rui_official",
     "type": "vtuber",
@@ -24476,13 +24490,6 @@
     "name": "琥珀ねね_Offical",
     "type": "vtuber",
     "room": 22777127,
-    "group_name": ""
-  },
-  {
-    "uid": 1723100461,
-    "name": "琥珀玲_Official",
-    "type": "vtuber",
-    "room": 24044804,
     "group_name": ""
   },
   {
@@ -29638,13 +29645,6 @@
     "group_name": "VirtuaReal"
   },
   {
-    "uid": 13928503,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 410708,
-    "group_name": ""
-  },
-  {
     "uid": 619471232,
     "name": "花緑青official",
     "type": "vtuber",
@@ -31462,13 +31462,6 @@
     "name": "蜜汁工坊",
     "type": "vtuber",
     "room": 853672,
-    "group_name": ""
-  },
-  {
-    "uid": 699327470,
-    "name": "蜜汁粥粥_",
-    "type": "vtuber",
-    "room": 22578273,
     "group_name": ""
   },
   {
@@ -36418,6 +36411,13 @@
     "name": "@黎之恒",
     "type": "vtuber",
     "room": 59803,
+    "group_name": ""
+  },
+  {
+    "uid": 3493258091039121,
+    "name": "黎夜OuO",
+    "type": "vtuber",
+    "room": 27532924,
     "group_name": ""
   },
   {

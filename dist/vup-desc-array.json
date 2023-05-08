@@ -12285,6 +12285,15 @@
     "group_name": "MeUmyShelf"
   },
   {
+    "uid": 3493260825725825,
+    "name": "呜绒",
+    "type": "vtuber",
+    "room": 27352619,
+    "face": "/bfs/face/7a9843b251581f45368e6c58ec0cb0651564895b.jpg",
+    "sign": "个人势  中韩混血vup  唱歌 杂谈 游戏 ..  开播通知群：790119188",
+    "group_name": ""
+  },
+  {
     "uid": 702607661,
     "name": "黑川礼音Reion",
     "type": "vtuber",
@@ -27360,6 +27369,15 @@
     "group_name": ""
   },
   {
+    "uid": 2387571,
+    "name": "水無濑烛烛",
+    "type": "vtuber",
+    "room": 11253649,
+    "face": "/bfs/face/399e8ac05b9a45de3de7f3d5f220015614e6280f.jpg",
+    "sign": "来自异世界的蒸汽小兔，作为新人vup努力修行中！",
+    "group_name": ""
+  },
+  {
     "uid": 390131950,
     "name": "水無瀬rui_official",
     "type": "vtuber",
@@ -31470,15 +31488,6 @@
     "room": 22777127,
     "face": "/bfs/face/80d072725ae5aeb6b503c21ac2fcb09bc822ccf9.jpg",
     "sign": "",
-    "group_name": ""
-  },
-  {
-    "uid": 1723100461,
-    "name": "琥珀玲_Official",
-    "type": "vtuber",
-    "room": 24044804,
-    "face": "/bfs/face/6799110277857fba552fcb0549f4df1c7f29ba72.jpg",
-    "sign": "来自云上之国，叫【琥珀玲】打算在b站上传直播短片和翻唱喔！请多多指教！",
     "group_name": ""
   },
   {
@@ -38106,15 +38115,6 @@
     "group_name": "VirtuaReal"
   },
   {
-    "uid": 13928503,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 410708,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
-  {
     "uid": 619471232,
     "name": "花緑青official",
     "type": "vtuber",
@@ -40452,15 +40452,6 @@
     "room": 853672,
     "face": "/bfs/face/d376a49baf46593b71d748ede7e025d2a1ba550f.jpg",
     "sign": "喜欢摸鱼的涩恐猫猫头，也是画师。作品查看爱发电@蜜汁工坊   口球三群180286119",
-    "group_name": ""
-  },
-  {
-    "uid": 699327470,
-    "name": "蜜汁粥粥_",
-    "type": "vtuber",
-    "room": 22578273,
-    "face": "/bfs/face/89dac439c4ff9b6897ef46e375bcbf446526b6d9.jpg",
-    "sign": "江湖远，终有一别。相见无期，望君重。\n停业了！别打米！我用来时不时分享日常 告诉大家近况！",
     "group_name": ""
   },
   {
@@ -46824,6 +46815,15 @@
     "room": 59803,
     "face": "/bfs/face/5a7845ee0bee1a5ae14285c4a091a0ace3befb9c.jpg",
     "sign": "画漫画的社恐大姐姐 《妹子太多，只好飞升了》作者 黎之恒/抹茶酱酱酱 双人共用号",
+    "group_name": ""
+  },
+  {
+    "uid": 3493258091039121,
+    "name": "黎夜OuO",
+    "type": "vtuber",
+    "room": 27532924,
+    "face": "/bfs/face/faea02337de8d89c4f039cf898a98582ff2ee6fc.jpg",
+    "sign": "是一只爱唠嗑的小精灵 一般都在夜晚掉落 ",
     "group_name": ""
   },
   {
