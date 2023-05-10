@@ -11040,6 +11040,14 @@
     "group_name": ""
   },
   {
+    "uid": 1483180353,
+    "name": "咕奈guna",
+    "type": "vtuber",
+    "room": 27464430,
+    "face": "/bfs/face/e010443a0b1e59a660a3e9af110d0d9ba015c820.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1620747197,
     "name": "大铁柱柱子",
     "type": "vtuber",
@@ -15550,6 +15558,14 @@
     "room": 22196167,
     "face": "/bfs/face/3ba59169fba6ca1ec3bd817a63ff266343d56052.jpg",
     "group_name": "P.K.S"
+  },
+  {
+    "uid": 619487,
+    "name": "小鳥遊凪_Nagi",
+    "type": "vtuber",
+    "room": 3609684,
+    "face": "/bfs/face/012928045810f7bedfa2b169c2cc99d1c2d7ea72.jpg",
+    "group_name": ""
   },
   {
     "uid": 3461570239662267,
@@ -27617,10 +27633,10 @@
   },
   {
     "uid": 2080453815,
-    "name": "望仔mochi",
+    "name": "望仔是牛奶不是猫",
     "type": "vtuber",
     "room": 22644333,
-    "face": "/bfs/face/6f6b6d898be62bb0a64b419ebdb823aedb7d93f7.jpg",
+    "face": "/bfs/face/1a9a19e17a4cf6cbe4ef09f93429a8dcc9e16842.jpg",
     "group_name": "三垣四象project"
   },
   {
@@ -28861,6 +28877,14 @@
     "type": "vtuber",
     "room": 5156036,
     "face": "/bfs/face/c410e8d743167b1889a1f121494447bde752b320.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 34086425,
+    "name": "白幼甜儿",
+    "type": "vtuber",
+    "room": 5311503,
+    "face": "/bfs/face/1f5b8867257ee49fb9e71d276243ff0debf65e84.jpg",
     "group_name": ""
   },
   {

@@ -9660,6 +9660,13 @@
     "group_name": ""
   },
   {
+    "uid": 1483180353,
+    "name": "咕奈guna",
+    "type": "vtuber",
+    "room": 27464430,
+    "group_name": ""
+  },
+  {
     "uid": 1620747197,
     "name": "大铁柱柱子",
     "type": "vtuber",
@@ -13606,6 +13613,13 @@
     "type": "vtuber",
     "room": 22196167,
     "group_name": "P.K.S"
+  },
+  {
+    "uid": 619487,
+    "name": "小鳥遊凪_Nagi",
+    "type": "vtuber",
+    "room": 3609684,
+    "group_name": ""
   },
   {
     "uid": 3461570239662267,
@@ -24165,7 +24179,7 @@
   },
   {
     "uid": 2080453815,
-    "name": "望仔mochi",
+    "name": "望仔是牛奶不是猫",
     "type": "vtuber",
     "room": 22644333,
     "group_name": "三垣四象project"
@@ -25253,6 +25267,13 @@
     "name": "是白川佳奈呀",
     "type": "vtuber",
     "room": 5156036,
+    "group_name": ""
+  },
+  {
+    "uid": 34086425,
+    "name": "白幼甜儿",
+    "type": "vtuber",
+    "room": 5311503,
     "group_name": ""
   },
   {
