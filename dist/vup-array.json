@@ -8619,7 +8619,7 @@
     "uid": 18391386,
     "name": "冷雨sama",
     "type": "vtuber",
-    "room": 0,
+    "room": 2040456,
     "face": "/bfs/face/1ca075608f8e878e2d4f01e4c5d1cade640a5f8b.jpg",
     "group_name": "コーロンサス学園"
   },
@@ -40981,6 +40981,14 @@
     "type": "vtuber",
     "room": 56987,
     "face": "/bfs/face/f7702bf5e5d3a4d23e8d6e492bfdbf3e14c6aa26.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 349662107,
+    "name": "鲨鱼小辣椒sakana",
+    "type": "vtuber",
+    "room": 12393484,
+    "face": "/bfs/face/f06cf63edc3635c9aa422bfe2606d9e1e7e3698b.jpg",
     "group_name": ""
   },
   {

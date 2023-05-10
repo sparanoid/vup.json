@@ -7542,7 +7542,7 @@
     "uid": 18391386,
     "name": "冷雨sama",
     "type": "vtuber",
-    "room": 0,
+    "room": 2040456,
     "group_name": "コーロンサス学園"
   },
   {
@@ -35858,6 +35858,13 @@
     "name": "鲨克莉斯Official",
     "type": "vtuber",
     "room": 56987,
+    "group_name": ""
+  },
+  {
+    "uid": 349662107,
+    "name": "鲨鱼小辣椒sakana",
+    "type": "vtuber",
+    "room": 12393484,
     "group_name": ""
   },
   {
