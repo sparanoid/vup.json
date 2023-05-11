@@ -188,6 +188,13 @@
     "face": "/bfs/face/5a6651ed7b71ee85947f952a03091b3ed625d9f2.jpg",
     "group_name": ""
   },
+  "3493144389749651": {
+    "name": "AI泥泥",
+    "type": "vtuber",
+    "room_id": 27537748,
+    "face": "/bfs/face/1d51f1078cbef8b7def5eff3528e804463c19ed4.jpg",
+    "group_name": ""
+  },
   "53159212": {
     "name": "涅阿",
     "type": "vtuber",
@@ -2580,6 +2587,13 @@
     "type": "vtuber",
     "room_id": 6983385,
     "face": "/bfs/face/462905577e60e40c7349fdab26d23a2d19a988e3.jpg",
+    "group_name": ""
+  },
+  "3493137158768803": {
+    "name": "絨_Antler",
+    "type": "vtuber",
+    "room_id": 27563359,
+    "face": "/bfs/face/d3075f2396d81d950b1fc0c148d0a33b52a9c5c1.jpg",
     "group_name": ""
   },
   "1359534346": {
@@ -7118,11 +7132,11 @@
     "face": "/bfs/face/9bcdfb9d809865e6662b3450f9a632bee4a7ba3a.jpg",
     "group_name": ""
   },
-  "155872620": {
-    "name": "不再使用此账号",
+  "1356781652": {
+    "name": "兔籽鲸",
     "type": "vtuber",
-    "room_id": 4784632,
-    "face": "/bfs/face/0da8fbcc11d8bb65ac95de3a725d9ba237ff3eb0.jpg",
+    "room_id": 26497866,
+    "face": "/bfs/face/17c225ab836f087b1f22f8e54db4021995b93567.jpg",
     "group_name": ""
   },
   "23657606": {
@@ -12477,7 +12491,7 @@
     "name": "娜贝可Nabeko",
     "type": "vtuber",
     "room_id": 11393303,
-    "face": "/bfs/face/f6278bba68743a2b26dde17045bb4cfaaf7cf757.jpg",
+    "face": "/bfs/face/d01deef6627e4a0a92bb1f7c820c382034eaea1a.jpg",
     "group_name": ""
   },
   "313248263": {
@@ -27125,10 +27139,10 @@
     "group_name": ""
   },
   "549288373": {
-    "name": "竹一墩uzoo",
+    "name": "竹一墩uzoo-休眠版",
     "type": "vtuber",
     "room_id": 25336791,
-    "face": "/bfs/face/223c838768e9f88d5cac373800996c72725b2b7e.jpg",
+    "face": "/bfs/face/366b534b33f3de163d5159d9f2ad550477aee325.jpg",
     "group_name": ""
   },
   "1518059": {
@@ -32521,6 +32535,13 @@
     "face": "/bfs/face/e15aeb6ca6b51f998e3019bbdf5e1966a5326a57.jpg",
     "group_name": ""
   },
+  "3493286935267861": {
+    "name": "o软呜呜o",
+    "type": "vtuber",
+    "room_id": 27714289,
+    "face": "/bfs/face/2ee85f31c0f2786487917663088810ed5189ecbb.jpg",
+    "group_name": ""
+  },
   "1964786482": {
     "name": "软桃桃_Official",
     "type": "vtuber",
@@ -36397,6 +36418,13 @@
     "type": "vtuber",
     "room_id": 3094014,
     "face": "/bfs/face/774aafd925ddc5329b4ed5c1ca10fe7b8a38d930.jpg",
+    "group_name": ""
+  },
+  "3493075871598759": {
+    "name": "麻呜Meow",
+    "type": "vtuber",
+    "room_id": 27364270,
+    "face": "/bfs/face/ff56e38480885487e6b922a48fc275cee584244c.jpg",
     "group_name": ""
   },
   "1265605287": {

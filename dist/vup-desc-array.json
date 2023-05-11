@@ -243,6 +243,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493144389749651,
+    "name": "AI泥泥",
+    "type": "vtuber",
+    "room": 27537748,
+    "face": "/bfs/face/1d51f1078cbef8b7def5eff3528e804463c19ed4.jpg",
+    "sign": "泥泥是由人工智能驱动的小姑娘，会直播和大家实时聊天、回答各种问题，晚上会玩明日方舟。直播时间为下午4-6点至晚上12点。",
+    "group_name": ""
+  },
+  {
     "uid": 53159212,
     "name": "涅阿",
     "type": "vtuber",
@@ -3318,6 +3327,15 @@
     "room": 6983385,
     "face": "/bfs/face/462905577e60e40c7349fdab26d23a2d19a988e3.jpg",
     "sign": "画师  微博：snozaki@筱崎  pid：19476792  粉丝1群942617078",
+    "group_name": ""
+  },
+  {
+    "uid": 3493137158768803,
+    "name": "絨_Antler",
+    "type": "vtuber",
+    "room": 27563359,
+    "face": "/bfs/face/d3075f2396d81d950b1fc0c148d0a33b52a9c5c1.jpg",
+    "sign": "狐狐来噜！/真的是清楚系/晚上9.30-凌晨3点出没/狐狐下午恰饭很合理",
     "group_name": ""
   },
   {
@@ -9153,12 +9171,12 @@
     "group_name": ""
   },
   {
-    "uid": 155872620,
-    "name": "不再使用此账号",
+    "uid": 1356781652,
+    "name": "兔籽鲸",
     "type": "vtuber",
-    "room": 4784632,
-    "face": "/bfs/face/0da8fbcc11d8bb65ac95de3a725d9ba237ff3eb0.jpg",
-    "sign": "新账号:@兔籽鲸\n账号停止使用",
+    "room": 26497866,
+    "face": "/bfs/face/17c225ab836f087b1f22f8e54db4021995b93567.jpg",
+    "sign": "6.12日新模型.......滴滴滴\n‖不怎么看私信，有事请走→‖微博@兔籽鲸Usagi\n不要给我任何定义，因为都会被打破",
     "group_name": ""
   },
   {
@@ -16042,7 +16060,7 @@
     "name": "娜贝可Nabeko",
     "type": "vtuber",
     "room": 11393303,
-    "face": "/bfs/face/f6278bba68743a2b26dde17045bb4cfaaf7cf757.jpg",
+    "face": "/bfs/face/d01deef6627e4a0a92bb1f7c820c382034eaea1a.jpg",
     "sign": "这个人懒死了什么都没穿(･᷄ὢ･᷅)\n个鼠势\n群：866016121",
     "group_name": ""
   },
@@ -26033,7 +26051,7 @@
     "type": "vtuber",
     "room": 3638379,
     "face": "/bfs/face/651c2315deed8501139348a6c4a2d9f10c4cbf21.jpg",
-    "sign": "蝴蝶直播号:UID:22870排单群:610331667剩余稿数:18    加急排序:0问就是还接，慢慢排✓工坊不排\n米画师:梦蝶依X雨栖",
+    "sign": "蝴蝶直播号:UID:22870排单群:610331667剩余稿数:19  加急排序:0问就是还接，慢慢排✓工坊不排\n米画师:梦蝶依X雨栖",
     "group_name": ""
   },
   {
@@ -34876,11 +34894,11 @@
   },
   {
     "uid": 549288373,
-    "name": "竹一墩uzoo",
+    "name": "竹一墩uzoo-休眠版",
     "type": "vtuber",
     "room": 25336791,
-    "face": "/bfs/face/223c838768e9f88d5cac373800996c72725b2b7e.jpg",
-    "sign": "目标是成为有十万关注的清楚偶像",
+    "face": "/bfs/face/366b534b33f3de163d5159d9f2ad550477aee325.jpg",
+    "sign": "祝大家永远开心",
     "group_name": ""
   },
   {
@@ -41814,6 +41832,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493286935267861,
+    "name": "o软呜呜o",
+    "type": "vtuber",
+    "room": 27714289,
+    "face": "/bfs/face/2ee85f31c0f2786487917663088810ed5189ecbb.jpg",
+    "sign": "我爹是个东北虎(我娘跟我讲的)   交流群：820712910",
+    "group_name": ""
+  },
+  {
     "uid": 1964786482,
     "name": "软桃桃_Official",
     "type": "vtuber",
@@ -46797,6 +46824,15 @@
     "room": 3094014,
     "face": "/bfs/face/774aafd925ddc5329b4ed5c1ca10fe7b8a38d930.jpg",
     "sign": "一只威风的长毛橘猫~欢迎贴贴！q群门牌号：576459895",
+    "group_name": ""
+  },
+  {
+    "uid": 3493075871598759,
+    "name": "麻呜Meow",
+    "type": "vtuber",
+    "room": 27364270,
+    "face": "/bfs/face/ff56e38480885487e6b922a48fc275cee584244c.jpg",
+    "sign": "我叫麻呜，是社恐猫猫，出门走下水道？猫猫群:766183146",
     "group_name": ""
   },
   {
