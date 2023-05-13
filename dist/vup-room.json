@@ -601,6 +601,13 @@
     "face": "/bfs/face/2471e2578b3660bacff9ded98196f559080d5be6.jpg",
     "group_name": ""
   },
+  "12697413": {
+    "name": "Color_黄色",
+    "type": "vtuber",
+    "room_id": 286906,
+    "face": "/bfs/face/51a03951c7b4fe758f455e32e96a8422a3577c93.jpg",
+    "group_name": ""
+  },
   "589309893": {
     "name": "Croven教团",
     "type": "group",
@@ -10114,6 +10121,13 @@
     "face": "/bfs/face/ab5f1a88ebd594005178f6503a580c752c01e565.jpg",
     "group_name": ""
   },
+  "3493258283977582": {
+    "name": "唯伊FireFox",
+    "type": "vtuber",
+    "room_id": 27378469,
+    "face": "/bfs/face/d00b3ab6b47f2a6215f019ac53335392599b428b.jpg",
+    "group_name": ""
+  },
   "519866775": {
     "name": "由比未崋子_Channel",
     "type": "vtuber",
@@ -16099,6 +16113,13 @@
     "face": "/bfs/face/591c803d05139017f8bfd51e202ebfe81542160f.jpg",
     "group_name": "ChaosLiveSprout"
   },
+  "176860439": {
+    "name": "我玉玉了ぃ",
+    "type": "vtuber",
+    "room_id": 14098514,
+    "face": "/bfs/face/1484b1bc61b267774da578e0251a393596981309.jpg",
+    "group_name": ""
+  },
   "364225566": {
     "name": "战斗吧歌姬官方账号",
     "type": "vtuber",
@@ -16511,6 +16532,13 @@
     "room_id": 26070590,
     "face": "/bfs/face/cf7ca894ede228dbb5dc4ededd5476794ffb102e.jpg",
     "group_name": "幻想社Fantas1A"
+  },
+  "1569337486": {
+    "name": "新恒纪芸",
+    "type": "vtuber",
+    "room_id": 25929913,
+    "face": "/bfs/face/cd2e05a85af8c82f4d07bb09dd27650d89c84aac.jpg",
+    "group_name": ""
   },
   "1171565532": {
     "name": "塞尔社",
@@ -16958,6 +16986,13 @@
     "type": "vtuber",
     "room_id": 1363320,
     "face": "/bfs/face/83e45041a4d98687b271f8bb1dde174b4a6f4c67.jpg",
+    "group_name": ""
+  },
+  "1369052": {
+    "name": "易遥Hayes",
+    "type": "vtuber",
+    "room_id": 3881557,
+    "face": "/bfs/face/bf51d56e973f881fc18650d937d7570c88e00a4c.jpg",
     "group_name": ""
   },
   "297340": {
@@ -23645,6 +23680,13 @@
     "face": "/bfs/face/de4e6fc6ee7c0aea3d53b0cb0b9cf894c6f3725e.jpg",
     "group_name": ""
   },
+  "3493263304559033": {
+    "name": "煤狸猫neko",
+    "type": "vtuber",
+    "room_id": 27506993,
+    "face": "/bfs/face/5dd815bdbfea19f28dfbd7d7f63cee43bf151706.jpg",
+    "group_name": ""
+  },
   "3448258": {
     "name": "熊くま喵",
     "type": "vtuber",
@@ -27971,6 +28013,13 @@
     "face": "/bfs/face/5671d4832ea7327c317a4b33bef3a426988bb32b.jpg",
     "group_name": "浅海Project"
   },
+  "1505256": {
+    "name": "米饼Misa",
+    "type": "vtuber",
+    "room_id": 1184824,
+    "face": "/bfs/face/15cf5288fac9fdd79d11a47605dfa6dce545a443.jpg",
+    "group_name": ""
+  },
   "1931763107": {
     "name": "米香Rice_Official",
     "type": "vtuber",
@@ -28242,6 +28291,13 @@
     "type": "vtuber",
     "room_id": 21992651,
     "face": "/bfs/face/b1397656a7297419295a653787ca26eb00ddaa4d.jpg",
+    "group_name": ""
+  },
+  "632171719": {
+    "name": "紫贝儿official",
+    "type": "vtuber",
+    "room_id": 25908077,
+    "face": "/bfs/face/6ccafbfe0aeff0f57ac6408102cbf627d3728581.jpg",
     "group_name": ""
   },
   "5182754": {
