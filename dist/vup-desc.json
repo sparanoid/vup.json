@@ -3333,7 +3333,7 @@
     "room": 748674,
     "face": "/bfs/face/f1beaf2266e136323472d76bf8a8d27149848d26.jpg",
     "sign": "幻想社Fantas1A的一女的",
-    "group_name": ""
+    "group_name": "幻想社Fantas1A"
   },
   "492997998": {
     "name": "Vi-D鸽舍",
@@ -5695,6 +5695,14 @@
     "sign": "✈️虚拟飞行员七海幽娴,湛蓝苍穹的守护天使,颂赞无限希望的未来! <画师: Eir;希卡Shika.><ViD鸽舍社员>",
     "group_name": "Vi-D"
   },
+  "607630": {
+    "name": "七海悦玥",
+    "type": "vtuber",
+    "room": 517537,
+    "face": "/bfs/face/25dea741cee4531fd6886b116308f07a749bcaed.jpg",
+    "sign": "",
+    "group_name": ""
+  },
   "353361863": {
     "name": "七濑Unia",
     "type": "vtuber",
@@ -6351,6 +6359,14 @@
     "sign": "久遠藍 (Kuon Ran)Twitter:@vy_ran_　画像無断転載禁止",
     "group_name": ""
   },
+  "44528471": {
+    "name": "久酱kiyomi",
+    "type": "vtuber",
+    "room": 27611220,
+    "face": "/bfs/face/e95cc9a0f1eb3eb515414867e44b6529ad802fc8.jpg",
+    "sign": "【微光社所属】直播通知聊天群767190845",
+    "group_name": ""
+  },
   "447355958": {
     "name": "么奇Mochi",
     "type": "vtuber",
@@ -6967,6 +6983,14 @@
     "sign": "个人势，你再不来，我要下雪了粉丝  直播通知群：746915978",
     "group_name": "YOLO"
   },
+  "3493089322732330": {
+    "name": "京凛",
+    "type": "vtuber",
+    "room": 27553177,
+    "face": "/bfs/face/256f9ba2d27b3eb2a834a8783b0fc410f8017024.jpg",
+    "sign": "警告！0点和17点，目标\"凛\"每日都在此时出没，请诸位守株待兔!",
+    "group_name": ""
+  },
   "412630000": {
     "name": "亮_Sama",
     "type": "vtuber",
@@ -7359,6 +7383,14 @@
     "sign": "从异世界穿越过来的喜欢游戏和吃甜食的高贵血族，什么你说狐狸？吾才不是狐狸！粉丝群：1057474612",
     "group_name": ""
   },
+  "3493285284809356": {
+    "name": "伊莉莎Elisa",
+    "type": "vtuber",
+    "room": 27701872,
+    "face": "/bfs/face/0e07d33b54a1ba0ed8645fbaeabe6b8ab17108fe.jpg",
+    "sign": "成长型温柔治愈Vup~",
+    "group_name": ""
+  },
   "11137181": {
     "name": "伊莎蓓尔Isabel",
     "type": "vtuber",
@@ -7734,6 +7766,14 @@
     "face": "/bfs/face/c63a8383a206bad3d46ab1ea8182c7bc1c635e2a.jpg",
     "sign": "❤ 想和你一起完成本不可能之事❤TheVirkyrie所属二期生，或许有点浓厚的人马大姐姐。借阅登记群：470547515",
     "group_name": "TheVirkyrie"
+  },
+  "3493273542855492": {
+    "name": "佩洛pelo",
+    "type": "vtuber",
+    "room": 27518807,
+    "face": "/bfs/face/61fe54fbc7db083ba815097edfd6b489fb068700.jpg",
+    "sign": "新v歌势擅长国语，闽南语，粤语。日语正在学习中，晚10-早6",
+    "group_name": ""
   },
   "314513297": {
     "name": "佳澄Kasumi",
@@ -8903,6 +8943,14 @@
     "sign": "你好我是凡绘！\ntwitter.@KankaiChan",
     "group_name": ""
   },
+  "1329702678": {
+    "name": "凡节Fanjie",
+    "type": "vtuber",
+    "room": 25384515,
+    "face": "/bfs/face/048ac9ef2512301f0374730a5a92dbbb20fa3ebf.jpg",
+    "sign": "八木百货临时左将军，盆植凡节出阵，5月14日正式出道！",
+    "group_name": ""
+  },
   "475570": {
     "name": "凤凰院千夏ちなつ",
     "type": "vtuber",
@@ -9270,6 +9318,14 @@
     "face": "/bfs/face/810135b75de3a068e4d9db2514e8624791ac409d.jpg",
     "sign": "111",
     "group_name": "三垣四象project"
+  },
+  "3493277424683027": {
+    "name": "_勿天星_",
+    "type": "vtuber",
+    "room": 27592289,
+    "face": "/bfs/face/6e7a587f5f66541ef6f6d0d3a5b00aa51528e615.jpg",
+    "sign": "〈问尘仙会〉所属。\n杂谈势，偶尔画画唱歌打游戏！\n每日0点后出没~偶尔清晨掉落！\n群113295941，暗号勿天星~",
+    "group_name": ""
   },
   "894610": {
     "name": "包子侯爵",
@@ -11047,14 +11103,6 @@
     "sign": "个人势  中韩混血vup  唱歌 杂谈 游戏 ..  开播通知群：790119188",
     "group_name": ""
   },
-  "702607661": {
-    "name": "黑川礼音Reion",
-    "type": "vtuber",
-    "room": 22595837,
-    "face": "/bfs/face/97b16783dd3229cd334b35197494df220b35a827.jpg",
-    "sign": "幻想社Fantas1A七期所属成员，仅活跃在互联网的宅女gamer，网络话痨现实社恐，努力进步，粉丝群：705320939\n",
-    "group_name": ""
-  },
   "918958": {
     "name": "周七玄",
     "type": "vtuber",
@@ -11911,6 +11959,14 @@
     "sign": "一只见习小狐神 辉夜姬大人说梦想都是会实现的，对吧？！",
     "group_name": ""
   },
+  "1762258446": {
+    "name": "团妈Nikudango",
+    "type": "vtuber",
+    "room": 25545083,
+    "face": "/bfs/face/4e6c8771c593e03e760300c6b618ec1beeb90848.jpg",
+    "sign": "|30岁|御妈|深夜档|杂谈势|粤语|闽南语|学唱歌|学画画|学日语|游戏菜|粉丝群:196691599",
+    "group_name": ""
+  },
   "686241472": {
     "name": "团小哈",
     "type": "vtuber",
@@ -12309,7 +12365,7 @@
     "room": 27667518,
     "face": "/bfs/face/cdf26e5a98a8077e03f92d7a59b8cddd017e1b10.jpg",
     "sign": "是幻想社Fantas1A想成为闪耀明日偶像之星的夏延Sean，快来和我一起创造出只属于我们的回忆吧！",
-    "group_name": ""
+    "group_name": "幻想社Fantas1A"
   },
   "487247653": {
     "name": "夏怿妉Channel",
@@ -13446,6 +13502,14 @@
     "face": "/bfs/face/dc440674ed415161c46aac88d120a1041fc7e94e.jpg",
     "sign": "游戏玩家/画师 喜欢直播~希望和大家做朋友~喜欢的话请关注我吧~不喜欢的话...我再努力努力！！！",
     "group_name": ""
+  },
+  "1642965774": {
+    "name": "天船Alpha",
+    "type": "vtuber",
+    "room": 25498965,
+    "face": "/bfs/face/970a0e9db61bb9a89425a9d601aa829629c2b86a.jpg",
+    "sign": "⭐幻想社Fantas1A五期生⭐是随着英仙座流星雨来到地球上的星际船长⭐商务工作请联系QQ：3404862803⭐",
+    "group_name": "幻想社Fantas1A"
   },
   "2005932785": {
     "name": "天草ミライ",
@@ -15861,7 +15925,7 @@
     "room": 21925057,
     "face": "/bfs/face/56e49024d37a9b7667ab2080ce8c32ebea052020.jpg",
     "sign": "ʚ幻想社Fantas1A一期生ɞ黑天鹅福音天使，歌势vup/商务联系qq:3404862803",
-    "group_name": "No.6 Channel"
+    "group_name": "幻想社Fantas1A"
   },
   "42342944": {
     "name": "尤里卡-崔西雅",
@@ -15877,6 +15941,14 @@
     "room": 22067425,
     "face": "/bfs/face/662fab0b07d6e083ac242bf994ff6aaa7a809873.jpg",
     "sign": "我是虚研社国际部的紫海由爱！爱打 FPS 和做料理，希望大家和我一起前进！",
+    "group_name": ""
+  },
+  "3493128419936717": {
+    "name": "尹柯Inkkkkk",
+    "type": "vtuber",
+    "room": 27595871,
+    "face": "/bfs/face/eae93e26a2221fe78cd4f06c8d923d7ef65dd43d.jpg",
+    "sign": "一个每天DDL的普通女大",
     "group_name": ""
   },
   "877530": {
@@ -16566,6 +16638,14 @@
     "face": "/bfs/face/11bc717f3c5789c2dc9dae26b3e9f8cdfea86058.jpg",
     "sign": "我们不是一开始就放弃了理想主义，而是在现实中寻找理想主义的基础。聊天群：322674485",
     "group_name": ""
+  },
+  "1024165874": {
+    "name": "希欧_Theo",
+    "type": "vtuber",
+    "room": 24974439,
+    "face": "/bfs/face/23bc9fc2c42ea0d1203fe2352a9fbfdc1d333039.jpg",
+    "sign": "Fantas1A幻想社二期生 |   中世纪穿越而来的吟游诗人，你愿意停下来听我为你咏唱一曲吗",
+    "group_name": "幻想社Fantas1A"
   },
   "1723206278": {
     "name": "希洛伊Shiroi",
@@ -18909,6 +18989,14 @@
     "room": 2269412,
     "face": "/bfs/face/c3d527a21688e43130a87fe5489ea68c9160841b.webp",
     "sign": "重铸恶魔荣光，我辈义不容辞。个人势vup，不需要你学其他语言来与我交流。群：683220544。",
+    "group_name": ""
+  },
+  "1683672": {
+    "name": "无聊到底",
+    "type": "vtuber",
+    "room": 591970,
+    "face": "/bfs/face/79d8a4625c847a3b37ddedf661867fb51168d8f6.jpg",
+    "sign": "不怕告诉你，狼鸟可是《山海经》从未记载过的非常厉害的大妖！",
     "group_name": ""
   },
   "1850939514": {
@@ -25295,6 +25383,14 @@
     "sign": "谢谢喜欢波利佧",
     "group_name": ""
   },
+  "1355322618": {
+    "name": "波奈奈bunny",
+    "type": "vtuber",
+    "room": 25272177,
+    "face": "/bfs/face/ac7db13bbb6c2011094054bd5406da2fd4505fab.jpg",
+    "sign": "幻想社Fantas1A三期生\n\n努力成为厉害的音乐制作人！！！\n也想努力被大家喜欢！！！\n\n\n商务联系3404862803",
+    "group_name": "幻想社Fantas1A"
+  },
   "1059724449": {
     "name": "波娜娜Nana",
     "type": "vtuber",
@@ -26598,6 +26694,14 @@
     "face": "/bfs/face/9247673c7682b8a7bb5fdb2ccd54b112907d8138.jpg",
     "sign": "普罗维登企划2.5期生、Magicros组合成员￤名为海涅的虚拟云属性折耳猫～ ￤微博@灰音Haine￤群115108587",
     "group_name": "Providence"
+  },
+  "3493136129067397": {
+    "name": "灵儿Eire",
+    "type": "vtuber",
+    "room": 27141710,
+    "face": "/bfs/face/9bc29e29c637de0c1dee2479c23811cc3b0d8ee1.jpg",
+    "sign": "【全职新v】营业时间：凌晨0点-3点；下午17点-20点；眼里有光，心里有爱！",
+    "group_name": ""
   },
   "47651507": {
     "name": "灵夜Reiya",
@@ -28391,6 +28495,22 @@
     "sign": "neu-upc，是科研废物（粉丝数达到1000抽一箱辣条",
     "group_name": "鸽鹉live"
   },
+  "362788146": {
+    "name": "瑜瑜驯养手册",
+    "type": "vtuber",
+    "room": 25496452,
+    "face": "/bfs/face/e994ac983f6c782cef9ec09df3b2390cebda5ea1.jpg",
+    "sign": "",
+    "group_name": ""
+  },
+  "580782": {
+    "name": "瑞兹Ritz",
+    "type": "vtuber",
+    "room": 221394,
+    "face": "/bfs/face/16dfe6c4405f91c304c85021b89b020fdd083891.jpg",
+    "sign": "有点憨的女巫小姐，个巫势，什么都播 直播通知群：894691352",
+    "group_name": ""
+  },
   "690608698": {
     "name": "瑞娅_Rhea",
     "type": "vtuber",
@@ -29679,6 +29799,14 @@
     "sign": "万智牌 跑团类游戏 cy弹珠爱好者 万智群 746743630 弹射群 833463970 指挥官群 641422066",
     "group_name": ""
   },
+  "15513977": {
+    "name": "白鹭妮可ちゃん",
+    "type": "vtuber",
+    "room": 319120,
+    "face": "/bfs/face/521e4ab9daf763f36fff691d7e063e017f9e2f8d.jpg",
+    "sign": "妮可妮可妮~(/･ω･)/",
+    "group_name": ""
+  },
   "69229475": {
     "name": "白鹭镜_银silveroid",
     "type": "vtuber",
@@ -29742,6 +29870,14 @@
     "face": "/bfs/face/9697337b58cf90a3a6c36f811c02f3bf191e5cf9.jpg",
     "sign": "❈个人势声优vup❈ \n诶？被你看到啦(OωO)...\n那就让我超天才魔法少女给你施个好运魔法吧！\n努力成为更厉害的人！\n配音合作欢迎私信！",
     "group_name": "V_G研究所"
+  },
+  "15007932": {
+    "name": "百斯拉_Hundreds",
+    "type": "vtuber",
+    "room": 8845661,
+    "face": "/bfs/face/b6e7d1cbf13624619c3103726918911831f2e19d.jpg",
+    "sign": "幻想社 POP组无期生爆参！就爱唱摇滚！",
+    "group_name": "幻想社Fantas1A"
   },
   "12226194": {
     "name": "白井织姬",
@@ -29909,6 +30045,14 @@
     "room": 23948583,
     "face": "/bfs/face/dc23a77e9090bacf8d364aa2e52e421951efc1fd.jpg",
     "sign": "请带我去你的星星上吧。",
+    "group_name": ""
+  },
+  "14888933": {
+    "name": "盐芝早早o-O",
+    "type": "vtuber",
+    "room": 21548051,
+    "face": "/bfs/face/9904db189b0d1d6db294a385fd310ad098080eeb.jpg",
+    "sign": "努力努力再努力一点～",
     "group_name": ""
   },
   "219507": {
@@ -31727,6 +31871,14 @@
     "sign": "网易云@粢饭｜微博@粢饭_Ri｜个人群1046316743\n除作品外请勿讨论其他。感谢喜欢( ´θ｀)ノ",
     "group_name": ""
   },
+  "3493136477194362": {
+    "name": "粥粥5月24生日回",
+    "type": "vtuber",
+    "room": 27130072,
+    "face": "/bfs/face/64cb88cee3c8ab9b6b1b38756e5e1a1ac61eafaa.jpg",
+    "sign": "我今天摆烂，明天摆烂，这不是自律是什么",
+    "group_name": ""
+  },
   "152257800": {
     "name": "Elu的精灵の森",
     "type": "vtuber",
@@ -32695,6 +32847,14 @@
     "sign": "✟ love&death ✟ \n喜欢摸鱼的自由小猫咪一只喵",
     "group_name": ""
   },
+  "3493279169513630": {
+    "name": "绵绵千雪_loli",
+    "type": "vtuber",
+    "room": 27705044,
+    "face": "/bfs/face/d591f36239ebca8b50e9979610f6e92246c00ae1.jpg",
+    "sign": "可是努力总不会出错吧…\n个人势新v喵喵喵^ ^\n有点子笨笨的养成系 不要欺负我喵T^T\n愿望是每天都能见到你喵！！！\n",
+    "group_name": ""
+  },
   "4405549": {
     "name": "缇娅阿比斯TiaAbyss",
     "type": "vtuber",
@@ -32749,14 +32909,6 @@
     "room": 24413802,
     "face": "/bfs/face/ab5cf3e472055761d9a29365f2e35f652cfed706.jpg",
     "sign": "*:.✝️附身灵，有些内向的死宅",
-    "group_name": ""
-  },
-  "1685991705": {
-    "name": "福莱莱不胡来Hoo",
-    "type": "vtuber",
-    "room": 25091513,
-    "face": "/bfs/face/338195da9a4e79bf96add735e52987c8a51d0f4a.jpg",
-    "sign": "别看了",
     "group_name": ""
   },
   "1556629067": {
@@ -33734,6 +33886,14 @@
     "face": "/bfs/face/80099d6e393bedc227a1904d8dfebc5e71dcef7c.jpg",
     "sign": "“想要站在聚光灯下，人群中央”\n»未出道个人势蓝猫«\n喵窝群：953418982",
     "group_name": "kingdomknight"
+  },
+  "3493272410393405": {
+    "name": "芊雪是只狐",
+    "type": "vtuber",
+    "room": 27504209,
+    "face": "/bfs/face/c90cab84fe7321d5d7e18f69e4d349e0be68ec8a.jpg",
+    "sign": "一只来自蓬莱的林间小狐狸",
+    "group_name": ""
   },
   "2078225540": {
     "name": "芋泥cookie",
@@ -35327,6 +35487,14 @@
     "sign": "个人势vup，妈妈是Paryi,想要人间观察\n推特@sumirehina微博@菫妃奈",
     "group_name": "VirtuaReal"
   },
+  "3493270933997724": {
+    "name": "菲娅faye",
+    "type": "vtuber",
+    "room": 27481677,
+    "face": "/bfs/face/b6778e27d9c277d60abe2c7cf765e6ceb2e454a6.jpg",
+    "sign": "「幻想社Fantas1A  POP组成员」街角甜品店老板娘",
+    "group_name": "幻想社Fantas1A"
+  },
   "12600": {
     "name": "菲娜兹Channel",
     "type": "vtuber",
@@ -35655,6 +35823,14 @@
     "sign": "个鼠势,切片号@囤囤鼠的小宝箱  录播号@囤囤鼠的大仓库  切片哥群749658193",
     "group_name": ""
   },
+  "3493273219893879": {
+    "name": "蒂亚_Thyia",
+    "type": "vtuber",
+    "room": 27578871,
+    "face": "/bfs/face/b9b53b9544787881f53a29d41d3e75ba19aaddd5.jpg",
+    "sign": "宅腐双修的中二老混沌罢了，迫于生计积极（？营业中。",
+    "group_name": ""
+  },
   "503820721": {
     "name": "DeliaBackHome",
     "type": "vtuber",
@@ -35669,6 +35845,14 @@
     "room": 23527503,
     "face": "/bfs/face/419d194ecd51cb1264a5d446484f744cb7cc0e69.jpg",
     "sign": "个人势，人界游历的迷糊法师，喜欢唱歌，更喜欢打游戏。现在也喜欢建模了。",
+    "group_name": ""
+  },
+  "3493112741628777": {
+    "name": "蒂萌奎茵_DQuinn",
+    "type": "vtuber",
+    "room": 27699918,
+    "face": "/bfs/face/a22bad2d229e2e79a8b559300e3922e857f55730.jpg",
+    "sign": "〈问尘仙会〉所属喂喂喂！吾乃魔界之王！还不快快臣服于吾！企鹅群号：257094364",
     "group_name": ""
   },
   "408490081": {
@@ -35742,6 +35926,14 @@
     "face": "/bfs/face/3e62c335031f60a10e28d916dcd8f43dcc8f73f6.jpg",
     "sign": "HNST蒼月エリ汉化搬运，很高兴有过你的陪伴，生肉搬运@陽向葵的向日葵",
     "group_name": "774 inc"
+  },
+  "3493266156685780": {
+    "name": "蒼雨梨",
+    "type": "vtuber",
+    "room": 27476674,
+    "face": "/bfs/face/015c039535446f71d911a5cacfc86562a40713c3.jpg",
+    "sign": "〈问尘仙会〉所属。杂谈势修仙选手，塑料日语，皮套制作中~ 欢迎来玩！直播时间：每晚23点 通知水群：170601641",
+    "group_name": ""
   },
   "560887630": {
     "name": "蓝冰_Channel",
@@ -36517,6 +36709,14 @@
     "room": 12548471,
     "face": "/bfs/face/b5d7b1fc1afd83eafe1d54c9c64872ef4a075ebf.jpg",
     "sign": "很摸 不怎么营业 ",
+    "group_name": ""
+  },
+  "3493279150639441": {
+    "name": "西柚starlight",
+    "type": "vtuber",
+    "room": 27583681,
+    "face": "/bfs/face/3d1d802d65102ac4d428b717357067196b983e09.jpg",
+    "sign": "?大家好，这里是西柚酱哦?\n平时直播时间凌晨3点-6点 下午4点-7点\n希望能给大家带来开心",
     "group_name": ""
   },
   "21605809": {
@@ -38527,6 +38727,14 @@
     "sign": "<ChaosLive>穿越五百年的人类军官 喜欢说中文的韩国歌势vup 晚上七点开播！｜开播通知禁言群：985383656",
     "group_name": "chaoslive"
   },
+  "1948592457": {
+    "name": "银酥s",
+    "type": "vtuber",
+    "room": 27007923,
+    "face": "/bfs/face/33b213dc0bbe9ee8fe937c54ae701e928fe34cd8.jpg",
+    "sign": "ฅ幻想社Fantas1A7期生ฅ努力型雪豹",
+    "group_name": "幻想社Fantas1A"
+  },
   "4832930": {
     "name": "银银子deisu",
     "type": "vtuber",
@@ -38838,6 +39046,14 @@
     "face": "/bfs/face/f25615045fb5363f6fe5d9bfde5b15c6ba49cf2e.jpg",
     "sign": "holostars所属一期生，喜欢披萨和肉肉的意大利人。担当画师：lack",
     "group_name": "holostars"
+  },
+  "13491492": {
+    "name": "阿尔忒弥斯Artemisya",
+    "type": "vtuber",
+    "room": 4632430,
+    "face": "/bfs/face/8a422b09a334b20db383b1df30623059fc59ffb4.jpg",
+    "sign": "野兽的女主人与荒野的领主/个人势 粉丝群：176979931",
+    "group_name": ""
   },
   "515640590": {
     "name": "阿尔狄娜-Aldina",
@@ -40815,6 +41031,14 @@
     "sign": "我是天才Vtuber餡寿桃咖！正在寻找我的主人様！粉丝群: 992049770",
     "group_name": ""
   },
+  "678947871": {
+    "name": "馋馋饿了",
+    "type": "vtuber",
+    "room": 27502051,
+    "face": "/bfs/face/34df9d329067d509bf344a0b1e77b61efe8f6f84.jpg",
+    "sign": "高级反骨仔（对老板除外）",
+    "group_name": ""
+  },
   "650363356": {
     "name": "馍馍Pann",
     "type": "vtuber",
@@ -42054,6 +42278,14 @@
     "face": "/bfs/face/31d3e48c6acfacf79b4008cbb6af12dd97fea96d.jpg",
     "sign": "初次见面， 这里是来自黑暗世界的黑龙，清楚系新人vup黑崎暗，今后随缘创作更多有趣的视频和直播，请多指教~",
     "group_name": ""
+  },
+  "702607661": {
+    "name": "黑川礼音Reion",
+    "type": "vtuber",
+    "room": 22595837,
+    "face": "/bfs/face/97b16783dd3229cd334b35197494df220b35a827.jpg",
+    "sign": "幻想社Fantas1A七期所属成员，仅活跃在互联网的宅女gamer，网络话痨现实社恐，努力进步，粉丝群：705320939\n",
+    "group_name": "幻想社Fantas1A"
   },
   "1284680": {
     "name": "黑川蓝KurokawaAi",

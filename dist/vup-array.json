@@ -3333,7 +3333,7 @@
     "type": "vtuber",
     "room": 748674,
     "face": "/bfs/face/f1beaf2266e136323472d76bf8a8d27149848d26.jpg",
-    "group_name": ""
+    "group_name": "幻想社Fantas1A"
   },
   {
     "uid": 492997998,
@@ -5696,6 +5696,14 @@
     "group_name": "Vi-D"
   },
   {
+    "uid": 607630,
+    "name": "七海悦玥",
+    "type": "vtuber",
+    "room": 517537,
+    "face": "/bfs/face/25dea741cee4531fd6886b116308f07a749bcaed.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 353361863,
     "name": "七濑Unia",
     "type": "vtuber",
@@ -6352,6 +6360,14 @@
     "group_name": ""
   },
   {
+    "uid": 44528471,
+    "name": "久酱kiyomi",
+    "type": "vtuber",
+    "room": 27611220,
+    "face": "/bfs/face/e95cc9a0f1eb3eb515414867e44b6529ad802fc8.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 447355958,
     "name": "么奇Mochi",
     "type": "vtuber",
@@ -6968,6 +6984,14 @@
     "group_name": "YOLO"
   },
   {
+    "uid": 3493089322732330,
+    "name": "京凛",
+    "type": "vtuber",
+    "room": 27553177,
+    "face": "/bfs/face/256f9ba2d27b3eb2a834a8783b0fc410f8017024.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 412630000,
     "name": "亮_Sama",
     "type": "vtuber",
@@ -7360,6 +7384,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493285284809356,
+    "name": "伊莉莎Elisa",
+    "type": "vtuber",
+    "room": 27701872,
+    "face": "/bfs/face/0e07d33b54a1ba0ed8645fbaeabe6b8ab17108fe.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 11137181,
     "name": "伊莎蓓尔Isabel",
     "type": "vtuber",
@@ -7734,6 +7766,14 @@
     "room": 23337191,
     "face": "/bfs/face/c63a8383a206bad3d46ab1ea8182c7bc1c635e2a.jpg",
     "group_name": "TheVirkyrie"
+  },
+  {
+    "uid": 3493273542855492,
+    "name": "佩洛pelo",
+    "type": "vtuber",
+    "room": 27518807,
+    "face": "/bfs/face/61fe54fbc7db083ba815097edfd6b489fb068700.jpg",
+    "group_name": ""
   },
   {
     "uid": 314513297,
@@ -8904,6 +8944,14 @@
     "group_name": ""
   },
   {
+    "uid": 1329702678,
+    "name": "凡节Fanjie",
+    "type": "vtuber",
+    "room": 25384515,
+    "face": "/bfs/face/048ac9ef2512301f0374730a5a92dbbb20fa3ebf.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 475570,
     "name": "凤凰院千夏ちなつ",
     "type": "vtuber",
@@ -9270,6 +9318,14 @@
     "room": 13417733,
     "face": "/bfs/face/810135b75de3a068e4d9db2514e8624791ac409d.jpg",
     "group_name": "三垣四象project"
+  },
+  {
+    "uid": 3493277424683027,
+    "name": "_勿天星_",
+    "type": "vtuber",
+    "room": 27592289,
+    "face": "/bfs/face/6e7a587f5f66541ef6f6d0d3a5b00aa51528e615.jpg",
+    "group_name": ""
   },
   {
     "uid": 894610,
@@ -11048,14 +11104,6 @@
     "group_name": ""
   },
   {
-    "uid": 702607661,
-    "name": "黑川礼音Reion",
-    "type": "vtuber",
-    "room": 22595837,
-    "face": "/bfs/face/97b16783dd3229cd334b35197494df220b35a827.jpg",
-    "group_name": ""
-  },
-  {
     "uid": 918958,
     "name": "周七玄",
     "type": "vtuber",
@@ -11912,6 +11960,14 @@
     "group_name": ""
   },
   {
+    "uid": 1762258446,
+    "name": "团妈Nikudango",
+    "type": "vtuber",
+    "room": 25545083,
+    "face": "/bfs/face/4e6c8771c593e03e760300c6b618ec1beeb90848.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 686241472,
     "name": "团小哈",
     "type": "vtuber",
@@ -12309,7 +12365,7 @@
     "type": "vtuber",
     "room": 27667518,
     "face": "/bfs/face/cdf26e5a98a8077e03f92d7a59b8cddd017e1b10.jpg",
-    "group_name": ""
+    "group_name": "幻想社Fantas1A"
   },
   {
     "uid": 487247653,
@@ -13446,6 +13502,14 @@
     "room": 22735800,
     "face": "/bfs/face/dc440674ed415161c46aac88d120a1041fc7e94e.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 1642965774,
+    "name": "天船Alpha",
+    "type": "vtuber",
+    "room": 25498965,
+    "face": "/bfs/face/970a0e9db61bb9a89425a9d601aa829629c2b86a.jpg",
+    "group_name": "幻想社Fantas1A"
   },
   {
     "uid": 2005932785,
@@ -15861,7 +15925,7 @@
     "type": "vtuber",
     "room": 21925057,
     "face": "/bfs/face/56e49024d37a9b7667ab2080ce8c32ebea052020.jpg",
-    "group_name": "No.6 Channel"
+    "group_name": "幻想社Fantas1A"
   },
   {
     "uid": 42342944,
@@ -15877,6 +15941,14 @@
     "type": "vtuber",
     "room": 22067425,
     "face": "/bfs/face/662fab0b07d6e083ac242bf994ff6aaa7a809873.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493128419936717,
+    "name": "尹柯Inkkkkk",
+    "type": "vtuber",
+    "room": 27595871,
+    "face": "/bfs/face/eae93e26a2221fe78cd4f06c8d923d7ef65dd43d.jpg",
     "group_name": ""
   },
   {
@@ -16566,6 +16638,14 @@
     "room": 23030445,
     "face": "/bfs/face/11bc717f3c5789c2dc9dae26b3e9f8cdfea86058.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 1024165874,
+    "name": "希欧_Theo",
+    "type": "vtuber",
+    "room": 24974439,
+    "face": "/bfs/face/23bc9fc2c42ea0d1203fe2352a9fbfdc1d333039.jpg",
+    "group_name": "幻想社Fantas1A"
   },
   {
     "uid": 1723206278,
@@ -18909,6 +18989,14 @@
     "type": "vtuber",
     "room": 2269412,
     "face": "/bfs/face/c3d527a21688e43130a87fe5489ea68c9160841b.webp",
+    "group_name": ""
+  },
+  {
+    "uid": 1683672,
+    "name": "无聊到底",
+    "type": "vtuber",
+    "room": 591970,
+    "face": "/bfs/face/79d8a4625c847a3b37ddedf661867fb51168d8f6.jpg",
     "group_name": ""
   },
   {
@@ -25296,6 +25384,14 @@
     "group_name": ""
   },
   {
+    "uid": 1355322618,
+    "name": "波奈奈bunny",
+    "type": "vtuber",
+    "room": 25272177,
+    "face": "/bfs/face/ac7db13bbb6c2011094054bd5406da2fd4505fab.jpg",
+    "group_name": "幻想社Fantas1A"
+  },
+  {
     "uid": 1059724449,
     "name": "波娜娜Nana",
     "type": "vtuber",
@@ -26598,6 +26694,14 @@
     "room": 21502501,
     "face": "/bfs/face/9247673c7682b8a7bb5fdb2ccd54b112907d8138.jpg",
     "group_name": "Providence"
+  },
+  {
+    "uid": 3493136129067397,
+    "name": "灵儿Eire",
+    "type": "vtuber",
+    "room": 27141710,
+    "face": "/bfs/face/9bc29e29c637de0c1dee2479c23811cc3b0d8ee1.jpg",
+    "group_name": ""
   },
   {
     "uid": 47651507,
@@ -28392,6 +28496,22 @@
     "group_name": "鸽鹉live"
   },
   {
+    "uid": 362788146,
+    "name": "瑜瑜驯养手册",
+    "type": "vtuber",
+    "room": 25496452,
+    "face": "/bfs/face/e994ac983f6c782cef9ec09df3b2390cebda5ea1.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 580782,
+    "name": "瑞兹Ritz",
+    "type": "vtuber",
+    "room": 221394,
+    "face": "/bfs/face/16dfe6c4405f91c304c85021b89b020fdd083891.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 690608698,
     "name": "瑞娅_Rhea",
     "type": "vtuber",
@@ -29680,6 +29800,14 @@
     "group_name": ""
   },
   {
+    "uid": 15513977,
+    "name": "白鹭妮可ちゃん",
+    "type": "vtuber",
+    "room": 319120,
+    "face": "/bfs/face/521e4ab9daf763f36fff691d7e063e017f9e2f8d.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 69229475,
     "name": "白鹭镜_银silveroid",
     "type": "vtuber",
@@ -29742,6 +29870,14 @@
     "room": 21928479,
     "face": "/bfs/face/9697337b58cf90a3a6c36f811c02f3bf191e5cf9.jpg",
     "group_name": "V_G研究所"
+  },
+  {
+    "uid": 15007932,
+    "name": "百斯拉_Hundreds",
+    "type": "vtuber",
+    "room": 8845661,
+    "face": "/bfs/face/b6e7d1cbf13624619c3103726918911831f2e19d.jpg",
+    "group_name": "幻想社Fantas1A"
   },
   {
     "uid": 12226194,
@@ -29909,6 +30045,14 @@
     "type": "vtuber",
     "room": 23948583,
     "face": "/bfs/face/dc23a77e9090bacf8d364aa2e52e421951efc1fd.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 14888933,
+    "name": "盐芝早早o-O",
+    "type": "vtuber",
+    "room": 21548051,
+    "face": "/bfs/face/9904db189b0d1d6db294a385fd310ad098080eeb.jpg",
     "group_name": ""
   },
   {
@@ -31728,6 +31872,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493136477194362,
+    "name": "粥粥5月24生日回",
+    "type": "vtuber",
+    "room": 27130072,
+    "face": "/bfs/face/64cb88cee3c8ab9b6b1b38756e5e1a1ac61eafaa.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 152257800,
     "name": "Elu的精灵の森",
     "type": "vtuber",
@@ -32696,6 +32848,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493279169513630,
+    "name": "绵绵千雪_loli",
+    "type": "vtuber",
+    "room": 27705044,
+    "face": "/bfs/face/d591f36239ebca8b50e9979610f6e92246c00ae1.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 4405549,
     "name": "缇娅阿比斯TiaAbyss",
     "type": "vtuber",
@@ -32749,14 +32909,6 @@
     "type": "vtuber",
     "room": 24413802,
     "face": "/bfs/face/ab5cf3e472055761d9a29365f2e35f652cfed706.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 1685991705,
-    "name": "福莱莱不胡来Hoo",
-    "type": "vtuber",
-    "room": 25091513,
-    "face": "/bfs/face/338195da9a4e79bf96add735e52987c8a51d0f4a.jpg",
     "group_name": ""
   },
   {
@@ -33734,6 +33886,14 @@
     "room": 23896124,
     "face": "/bfs/face/80099d6e393bedc227a1904d8dfebc5e71dcef7c.jpg",
     "group_name": "kingdomknight"
+  },
+  {
+    "uid": 3493272410393405,
+    "name": "芊雪是只狐",
+    "type": "vtuber",
+    "room": 27504209,
+    "face": "/bfs/face/c90cab84fe7321d5d7e18f69e4d349e0be68ec8a.jpg",
+    "group_name": ""
   },
   {
     "uid": 2078225540,
@@ -35328,6 +35488,14 @@
     "group_name": "VirtuaReal"
   },
   {
+    "uid": 3493270933997724,
+    "name": "菲娅faye",
+    "type": "vtuber",
+    "room": 27481677,
+    "face": "/bfs/face/b6778e27d9c277d60abe2c7cf765e6ceb2e454a6.jpg",
+    "group_name": "幻想社Fantas1A"
+  },
+  {
     "uid": 12600,
     "name": "菲娜兹Channel",
     "type": "vtuber",
@@ -35656,6 +35824,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493273219893879,
+    "name": "蒂亚_Thyia",
+    "type": "vtuber",
+    "room": 27578871,
+    "face": "/bfs/face/b9b53b9544787881f53a29d41d3e75ba19aaddd5.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 503820721,
     "name": "DeliaBackHome",
     "type": "vtuber",
@@ -35669,6 +35845,14 @@
     "type": "vtuber",
     "room": 23527503,
     "face": "/bfs/face/419d194ecd51cb1264a5d446484f744cb7cc0e69.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493112741628777,
+    "name": "蒂萌奎茵_DQuinn",
+    "type": "vtuber",
+    "room": 27699918,
+    "face": "/bfs/face/a22bad2d229e2e79a8b559300e3922e857f55730.jpg",
     "group_name": ""
   },
   {
@@ -35742,6 +35926,14 @@
     "room": 0,
     "face": "/bfs/face/3e62c335031f60a10e28d916dcd8f43dcc8f73f6.jpg",
     "group_name": "774 inc"
+  },
+  {
+    "uid": 3493266156685780,
+    "name": "蒼雨梨",
+    "type": "vtuber",
+    "room": 27476674,
+    "face": "/bfs/face/015c039535446f71d911a5cacfc86562a40713c3.jpg",
+    "group_name": ""
   },
   {
     "uid": 560887630,
@@ -36517,6 +36709,14 @@
     "type": "vtuber",
     "room": 12548471,
     "face": "/bfs/face/b5d7b1fc1afd83eafe1d54c9c64872ef4a075ebf.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493279150639441,
+    "name": "西柚starlight",
+    "type": "vtuber",
+    "room": 27583681,
+    "face": "/bfs/face/3d1d802d65102ac4d428b717357067196b983e09.jpg",
     "group_name": ""
   },
   {
@@ -38528,6 +38728,14 @@
     "group_name": "chaoslive"
   },
   {
+    "uid": 1948592457,
+    "name": "银酥s",
+    "type": "vtuber",
+    "room": 27007923,
+    "face": "/bfs/face/33b213dc0bbe9ee8fe937c54ae701e928fe34cd8.jpg",
+    "group_name": "幻想社Fantas1A"
+  },
+  {
     "uid": 4832930,
     "name": "银银子deisu",
     "type": "vtuber",
@@ -38838,6 +39046,14 @@
     "room": 22171183,
     "face": "/bfs/face/f25615045fb5363f6fe5d9bfde5b15c6ba49cf2e.jpg",
     "group_name": "holostars"
+  },
+  {
+    "uid": 13491492,
+    "name": "阿尔忒弥斯Artemisya",
+    "type": "vtuber",
+    "room": 4632430,
+    "face": "/bfs/face/8a422b09a334b20db383b1df30623059fc59ffb4.jpg",
+    "group_name": ""
   },
   {
     "uid": 515640590,
@@ -40816,6 +41032,14 @@
     "group_name": ""
   },
   {
+    "uid": 678947871,
+    "name": "馋馋饿了",
+    "type": "vtuber",
+    "room": 27502051,
+    "face": "/bfs/face/34df9d329067d509bf344a0b1e77b61efe8f6f84.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 650363356,
     "name": "馍馍Pann",
     "type": "vtuber",
@@ -42054,6 +42278,14 @@
     "room": 470799,
     "face": "/bfs/face/31d3e48c6acfacf79b4008cbb6af12dd97fea96d.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 702607661,
+    "name": "黑川礼音Reion",
+    "type": "vtuber",
+    "room": 22595837,
+    "face": "/bfs/face/97b16783dd3229cd334b35197494df220b35a827.jpg",
+    "group_name": "幻想社Fantas1A"
   },
   {
     "uid": 1284680,
