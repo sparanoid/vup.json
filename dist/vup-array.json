@@ -4164,7 +4164,7 @@
     "name": "ninnikuu",
     "type": "vtuber",
     "room": 675014,
-    "face": "/bfs/face/d0365415cbd5b04df74652816f5d2f36a364af3e.jpg",
+    "face": "/bfs/face/623ef9f3bb55a90d474e99d0b5560284a77c232e.jpg",
     "group_name": ""
   },
   {
@@ -17956,7 +17956,7 @@
     "name": "怡妹喝可乐",
     "type": "vtuber",
     "room": 25501881,
-    "face": "/bfs/face/9ff29ce028c175e6508ff5d01f8b3dff7e4e677f.jpg",
+    "face": "/bfs/face/c0331a2b66f32687d91fadeccf7932d0a984afb3.jpg",
     "group_name": ""
   },
   {
@@ -19956,7 +19956,7 @@
     "name": "星海聆音",
     "type": "vtuber",
     "room": 24008276,
-    "face": "/bfs/face/b75e6a32bf869da2b890a2919d452341c146c714.jpg",
+    "face": "/bfs/face/20e53446bc0e1e3c8df7de988e1e64cc7b62df72.jpg",
     "group_name": ""
   },
   {
@@ -22829,6 +22829,14 @@
     "type": "vtuber",
     "room": 908374,
     "face": "/bfs/face/2d34c69031f616de35f2cec089c39ae839d7fb6e.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493277313534134,
+    "name": "树礼Suki",
+    "type": "vtuber",
+    "room": 27578385,
+    "face": "/bfs/face/0911a6015a610b20eefa3779a148e5690cc2e84c.jpg",
     "group_name": ""
   },
   {
@@ -31724,7 +31732,7 @@
     "name": "三七有点二",
     "type": "vtuber",
     "room": 25590529,
-    "face": "/bfs/face/096322f2df46839861ac69b52013997d5f2f8c70.jpg",
+    "face": "/bfs/face/bb188c76072fedbdb2d9832bd58ce3d8daa43639.jpg",
     "group_name": ""
   },
   {
@@ -37436,7 +37444,7 @@
     "name": "贝萨Bessa",
     "type": "vtuber",
     "room": 22288476,
-    "face": "/bfs/face/40c969da4b02f4e2b8387fa87a80de4a1dd87e42.jpg",
+    "face": "/bfs/face/a9bec98418a394704e1ba14db48893054bd84cd2.jpg",
     "group_name": "Orig1n"
   },
   {
