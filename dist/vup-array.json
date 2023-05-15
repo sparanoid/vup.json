@@ -23688,6 +23688,14 @@
     "group_name": ""
   },
   {
+    "uid": 2098173126,
+    "name": "梨渝Liyu",
+    "type": "vtuber",
+    "room": 27612452,
+    "face": "/bfs/face/8f3c9be8985d6633ad6f370236fd1af0b79de542.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 6759757,
     "name": "梨绘_Rie",
     "type": "vtuber",
@@ -37149,6 +37157,14 @@
     "type": "vtuber",
     "room": 519508,
     "face": "/bfs/face/63fb8e431ff78124fbe2248902384881f956ed8b.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1640145306,
+    "name": "许诺MoMo",
+    "type": "vtuber",
+    "room": 25588736,
+    "face": "/bfs/face/2be26e3e39d51202660ade9d275dc44348f9ec63.jpg",
     "group_name": ""
   },
   {
