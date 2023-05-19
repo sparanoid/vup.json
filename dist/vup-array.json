@@ -19276,7 +19276,7 @@
     "name": "早野奇迹__きせき",
     "type": "vtuber",
     "room": 24159433,
-    "face": "/bfs/face/7670c4fcbef6a05302403c47afde532ad47e5b42.jpg",
+    "face": "/bfs/face/baa0f610801a38e2249def251b541e2de4b581aa.jpg",
     "group_name": "ChaosLiveSprout"
   },
   {
@@ -23516,7 +23516,7 @@
     "name": "梦咲有绪",
     "type": "vtuber",
     "room": 25622556,
-    "face": "/bfs/face/61d83d15222981e80fc36a13b9f692c7b14464b8.jpg",
+    "face": "/bfs/face/4a5dc60fa762699f44e56077b8e4346b706291b6.jpg",
     "group_name": ""
   },
   {
@@ -30356,7 +30356,7 @@
     "name": "雨宫彩恋",
     "type": "vtuber",
     "room": 24640652,
-    "face": "/bfs/face/4239a1812628a2cb1126620a80028d530d1d333d.jpg",
+    "face": "/bfs/face/afc8cc53101925bc8625a97446779d60f0cc2eec.jpg",
     "group_name": ""
   },
   {
@@ -37568,12 +37568,20 @@
     "group_name": "コーロンサス学園"
   },
   {
+    "uid": 1336581,
+    "name": "赤夜幽",
+    "type": "vtuber",
+    "room": 27151088,
+    "face": "/bfs/face/c07ce5858dd0c73f203a41b133db39125d7a3b0b.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 444559,
     "name": "赤星组Channel",
     "type": "unknown",
     "room": 24276,
     "face": "/bfs/face/939883d737f59b7d1428df8efebcf487ecd9878a.jpg",
-    "group_name": "コーロンサス学園"
+    "group_name": ""
   },
   {
     "uid": 397047629,
@@ -38068,7 +38076,7 @@
     "name": "辣奶火锅5月27生日回",
     "type": "vtuber",
     "room": 25062472,
-    "face": "/bfs/face/d4ed6c82684d8eac9add363967eca7d57d2f5701.jpg",
+    "face": "/bfs/face/be27aa46daf6830fcaa71ba3d32358494499421a.jpg",
     "group_name": ""
   },
   {
