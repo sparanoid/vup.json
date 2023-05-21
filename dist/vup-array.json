@@ -20492,7 +20492,7 @@
     "name": "星野绵奈",
     "type": "vtuber",
     "room": 4346806,
-    "face": "/bfs/face/3bc19deba92d7ebac51dcf09435309b525f27ef6.jpg",
+    "face": "/bfs/face/964db122d81e57766c5eae0e0740dadfcd58aceb.jpg",
     "group_name": ""
   },
   {
@@ -25168,6 +25168,14 @@
     "group_name": ""
   },
   {
+    "uid": 1833290718,
+    "name": "汤音mayume",
+    "type": "vtuber",
+    "room": 24880916,
+    "face": "/bfs/face/3bcadb1b27c28225e335392932d5b2bfe69ccbf0.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 674600649,
     "name": "阿米莉亚・华生Official",
     "type": "vtuber",
@@ -26332,7 +26340,7 @@
     "name": "清梦_Kira",
     "type": "vtuber",
     "room": 24069117,
-    "face": "/bfs/face/bd3e13607120275ff2cf9475bb4c4984b52be563.jpg",
+    "face": "/bfs/face/5d595e12142cb0d6491090fe30a3221ce424c01c.jpg",
     "group_name": ""
   },
   {
