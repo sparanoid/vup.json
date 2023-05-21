@@ -21520,6 +21520,14 @@
     "group_name": "猫邮社"
   },
   {
+    "uid": 5107722,
+    "name": "有苏十一_Evelyn",
+    "type": "vtuber",
+    "room": 846462,
+    "face": "/bfs/face/9d37c769152b60d432f3de04b93cd98fc1844e14.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1402705384,
     "name": "Yui_Arisato",
     "type": "vtuber",
@@ -26860,7 +26868,7 @@
     "name": "灯瑠hiru",
     "type": "vtuber",
     "room": 23404362,
-    "face": "/bfs/face/a577e127dc0f93995cefbc9d338ad5bce789ce8b.jpg",
+    "face": "/bfs/face/db0de673075d47582966a1f569aa35629499b87f.jpg",
     "group_name": "Providence"
   },
   {
@@ -27148,7 +27156,7 @@
     "name": "熊木兔Kumagi",
     "type": "vtuber",
     "room": 7404017,
-    "face": "/bfs/face/50ed5923c8086fc6f50e21fffefe96ba6a9abaf2.jpg",
+    "face": "/bfs/face/7315b53c99bae24183c75dd32dfe0e8dad0c8b03.jpg",
     "group_name": "コーロンサス学園"
   },
   {
@@ -30548,7 +30556,7 @@
     "name": "眠眠official",
     "type": "vtuber",
     "room": 23028000,
-    "face": "/bfs/face/4effa5dbdc06561cbca8873de7caf6b19ead7e86.jpg",
+    "face": "/bfs/face/214ce6e1e86da47dd3b9b99800968020c973671e.jpg",
     "group_name": ""
   },
   {
