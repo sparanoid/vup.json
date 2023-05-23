@@ -14299,7 +14299,7 @@
     "name": "妩九Melantha",
     "type": "vtuber",
     "room": 7638830,
-    "face": "/bfs/face/d3d9e9d51a35d5698a7b8a28fe08589bbf7e77c0.jpg",
+    "face": "/bfs/face/abe63d2c1c9aabb3ea887903c5494e6ca34a219a.jpg",
     "sign": "明天在捡石头打我",
     "group_name": ""
   },
@@ -16100,7 +16100,7 @@
     "type": "vtuber",
     "room": 673353,
     "face": "/bfs/face/4ab7ec7b2441efdfc48dbf3cb179af28674451ad.jpg",
-    "sign": "✞来自异世界的混沌博学安心年上系 现居人间界授课中✞\n晚间19/22点出没 直播通知群：929239527",
+    "sign": "✞来自异世界的混沌博学安心年上正经系 现居人间界授课中✞\n晚间19/22点出没 直播通知群：929239527",
     "group_name": ""
   },
   "690608709": {
@@ -42869,6 +42869,14 @@
     "room": 21641569,
     "face": "/bfs/face/b5e82aca42450be98952a72681eccb3a5c7b096b.jpg",
     "sign": "",
+    "group_name": ""
+  },
+  "1319863621": {
+    "name": "黑桃胡桃Official",
+    "type": "vtuber",
+    "room": 22924230,
+    "face": "/bfs/face/7d9e48ecebcbb90cbecef4ebab9f41f59eda9dd6.jpg",
+    "sign": "黑猫VTuber 黑桃胡桃(人类阶段)~(日语名：黒桃くるみ)",
     "group_name": ""
   },
   "2740005": {
