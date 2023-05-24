@@ -6404,6 +6404,13 @@
     "face": "/bfs/face/27cafb550dc58f468604ce440cd47ddce2f7faf5.jpg",
     "group_name": ""
   },
+  "3493105107995064": {
+    "name": "伊安-Ean",
+    "type": "vtuber",
+    "room_id": 26833206,
+    "face": "/bfs/face/7eab32b4f6b6585527f078ff90830511e5c3435b.jpg",
+    "group_name": ""
+  },
   "104138094": {
     "name": "伊尔比思",
     "type": "vtuber",
@@ -12528,6 +12535,13 @@
     "room_id": 27484357,
     "face": "/bfs/face/81e39eb61a0cbefeb7a6647137167011a63e717f.jpg",
     "group_name": "雪域Provealms"
+  },
+  "641700024": {
+    "name": "妲小喵",
+    "type": "vtuber",
+    "room_id": 27507301,
+    "face": "/bfs/face/ec15b3811efdf3809ac1459857d37279425530f0.jpg",
+    "group_name": ""
   },
   "1160110127": {
     "name": "姉崎雪美Official",
@@ -18913,6 +18927,13 @@
     "face": "/bfs/face/78ad870ac3ff00fd79e4ac33606a2cff59ceed72.jpg",
     "group_name": "VirtuaReal"
   },
+  "432238053": {
+    "name": "有枝Yoz",
+    "type": "vtuber",
+    "room_id": 25235233,
+    "face": "/bfs/face/1116f398ed1423baa2128fd8a34f5a288bb433eb.jpg",
+    "group_name": ""
+  },
   "3149619": {
     "name": "有栖Mana_Official",
     "type": "vtuber",
@@ -23428,6 +23449,13 @@
     "face": "/bfs/face/993cc48e2ba2f12bc3aa5e064fa3631dcff31102.jpg",
     "group_name": ""
   },
+  "24246384": {
+    "name": "滑稽的啦啦君",
+    "type": "vtuber",
+    "room_id": 2370576,
+    "face": "/bfs/face/e16966eb8557e80cc10f706a537c9321a1446c16.jpg",
+    "group_name": ""
+  },
   "7016631": {
     "name": "互联网蜘蛛满地乱爬",
     "type": "vtuber",
@@ -23946,6 +23974,13 @@
     "face": "/bfs/face/4edaf80fa999a5949fa19cbc47bd446a4c8123e0.jpg",
     "group_name": ""
   },
+  "3493131561470207": {
+    "name": "燃宝ivan",
+    "type": "vtuber",
+    "room_id": 27067045,
+    "face": "/bfs/face/7dd26a9709c7b54caa0542111d47332c2fda1be1.jpg",
+    "group_name": ""
+  },
   "7326570": {
     "name": "燕逐晓",
     "type": "vtuber",
@@ -24435,6 +24470,13 @@
     "room_id": 22023331,
     "face": "/bfs/face/657f75fc3fbec0372472a8f710cf4635faa4f5be.jpg",
     "group_name": "夕映结社"
+  },
+  "3461578707962799": {
+    "name": "狸酱lino",
+    "type": "vtuber",
+    "room_id": 26206886,
+    "face": "/bfs/face/a258e87861f5d0b3d7e5d8d752862a6fd1c29420.jpg",
+    "group_name": ""
   },
   "589185": {
     "name": "CHILDWOLF",
@@ -26900,6 +26942,13 @@
     "face": "/bfs/face/4b3f0a4084c44af1f5ca4c93df2d70280b913c45.jpg",
     "group_name": "KonKoe"
   },
+  "3493271848356790": {
+    "name": "眠铃Neruno",
+    "type": "vtuber",
+    "room_id": 27494872,
+    "face": "/bfs/face/05c299fd4e5c6b0af397c66696288d7ebe36f68f.jpg",
+    "group_name": ""
+  },
   "473708883": {
     "name": "新账号请查看置顶喵",
     "type": "vtuber",
@@ -27284,6 +27333,13 @@
     "room_id": 11851558,
     "face": "/bfs/face/a2f1c8d0fde221bddc6db1001eea80682c228a6e.jpg",
     "group_name": "Vi-D"
+  },
+  "651143714": {
+    "name": "神山夜夜",
+    "type": "vtuber",
+    "room_id": 26763749,
+    "face": "/bfs/face/31e0962d791c441a86383239f77161029e374963.jpg",
+    "group_name": ""
   },
   "9224445": {
     "name": "天国的莉莉",
@@ -31639,6 +31695,13 @@
     "face": "/bfs/face/efff9a753ba3191383d57b40c42c82ce0ab8052b.jpg",
     "group_name": ""
   },
+  "3461570310965376": {
+    "name": "萧清清清清清",
+    "type": "vtuber",
+    "room_id": 26332632,
+    "face": "/bfs/face/588d4c70d9863feae5bbb3b7ff6edbcaf9b9c7c0.jpg",
+    "group_name": ""
+  },
   "1631724": {
     "name": "我打鼾声音超大OvO",
     "type": "vtuber",
@@ -32484,6 +32547,13 @@
     "type": "vtuber",
     "room_id": 43473,
     "face": "/bfs/face/56511c1d144fc0ee5ab391880b4e100eb0846184.jpg",
+    "group_name": ""
+  },
+  "662269974": {
+    "name": "西卡Kita",
+    "type": "vtuber",
+    "room_id": 27492045,
+    "face": "/bfs/face/7b1684b092cd4f0e506a1a57305f0db24511ac9b.jpg",
     "group_name": ""
   },
   "8806326": {
