@@ -7044,7 +7044,7 @@
     "name": "魔法偶像_亡灵K",
     "type": "vtuber",
     "room": 4002920,
-    "face": "/bfs/face/bc7f3bc113072738a9b6a2c4f483149e559b04e5.jpg",
+    "face": "/bfs/face/35699ee95342a462a6c35d93e7fb79d0b0efb345.jpg",
     "group_name": ""
   },
   {
@@ -29913,7 +29913,7 @@
   },
   {
     "uid": 29473017,
-    "name": "白羽梦YOMO_Official",
+    "name": "AegithalosYOMO",
     "type": "vtuber",
     "room": 1269086,
     "face": "/bfs/face/3f360e7dbc5ea1c2a9501822961bcc069d60d7be.jpg",
@@ -39124,7 +39124,7 @@
     "name": "我不是雾间",
     "type": "vtuber",
     "room": 22670159,
-    "face": "/bfs/face/bd218a16c8131991a6029896d91da326864f9d7a.jpg",
+    "face": "/bfs/face/2106065f3aa76092c72baac1d1b69d30e9cecb26.jpg",
     "group_name": ""
   },
   {
@@ -39221,6 +39221,14 @@
     "type": "vtuber",
     "room": 6396137,
     "face": "/bfs/face/f07b3878dcd061167313ad67777c5b03b40db35f.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1860662,
+    "name": "铭音MeIoN-Official",
+    "type": "vtuber",
+    "room": 6059375,
+    "face": "/bfs/face/605175a3df149701ee5e0d8db7c4947dfb7811a4.jpg",
     "group_name": ""
   },
   {

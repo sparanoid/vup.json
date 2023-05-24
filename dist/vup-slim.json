@@ -22434,7 +22434,7 @@
     "group_name": ""
   },
   "29473017": {
-    "name": "白羽梦YOMO_Official",
+    "name": "AegithalosYOMO",
     "type": "vtuber",
     "room": 1269086,
     "group_name": ""
@@ -29415,6 +29415,12 @@
     "name": "霄湮虹",
     "type": "vtuber",
     "room": 6396137,
+    "group_name": ""
+  },
+  "1860662": {
+    "name": "铭音MeIoN-Official",
+    "type": "vtuber",
+    "room": 6059375,
     "group_name": ""
   },
   "498535110": {
