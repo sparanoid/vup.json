@@ -8441,6 +8441,13 @@
     "face": "/bfs/face/888e5e4021ee9b0d7152d57ded72119fc80a28ba.jpg",
     "group_name": ""
   },
+  "16236535": {
+    "name": "千军一笑Satori",
+    "type": "vtuber",
+    "room": 1133566,
+    "face": "/bfs/face/d41b711dd08417047d1c79c98b7f7c8cdc155b73.jpg",
+    "group_name": ""
+  },
   "1662426": {
     "name": "是棵草",
     "type": "vtuber",
@@ -12968,7 +12975,7 @@
     "type": "vtuber",
     "room": 26599080,
     "face": "/bfs/face/85f3db88f55c948e565176bb1966d24e76ea44e8.jpg",
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "33708487": {
     "name": "安德烈-赫岑朵夫Official",
@@ -17212,6 +17219,13 @@
     "face": "/bfs/face/bc7a90c312763d253b187f8afb36728e58f4e59b.jpg",
     "group_name": "VirtuaReal"
   },
+  "1279470566": {
+    "name": "星云社_CosmicNebula",
+    "type": "group",
+    "room": 25849509,
+    "face": "/bfs/face/b268fb6a0837827fcaa3bcdd94c89f499707b059.jpg",
+    "group_name": ""
+  },
   "525988990": {
     "name": "星井まゆき",
     "type": "vtuber",
@@ -19044,6 +19058,13 @@
     "type": "vtuber",
     "room": 23362558,
     "face": "/bfs/face/155b99ef52904af8e2481f10ececf2bc660883fd.jpg",
+    "group_name": ""
+  },
+  "3493142231779517": {
+    "name": "望月白枝_Official",
+    "type": "vtuber",
+    "room": 27275810,
+    "face": "/bfs/face/4330e6d8a3fcfbd20cdb06b262067f1d7ecdfaa2.jpg",
     "group_name": ""
   },
   "622623143": {
@@ -22350,6 +22371,13 @@
     "face": "/bfs/face/ccf2a81cee5fe85f49657a3cef1b9187ecc49893.jpg",
     "group_name": ""
   },
+  "1939568047": {
+    "name": "沧海月萌",
+    "type": "vtuber",
+    "room": 25100511,
+    "face": "/bfs/face/62fdfc7dc0710f87a2f2e7affe14c493d49eccba.jpg",
+    "group_name": "星云社_CosmicNebula"
+  },
   "49584022": {
     "name": "沧澜メロディChannel",
     "type": "vtuber",
@@ -23594,7 +23622,7 @@
     "type": "vtuber",
     "room": 5391723,
     "face": "/bfs/face/3da11cb9ae4617a8b190bf121fafa1a252e81c58.jpg",
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "387103852": {
     "name": "濑川绪良Official",
@@ -25050,7 +25078,7 @@
     "type": "vtuber",
     "room": 26662852,
     "face": "/bfs/face/77acc7859f4ba6240f3c86dd77823dcaa804718f.jpg",
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "4695879": {
     "name": "珂蕾贝雅Gliesaray",
@@ -28837,7 +28865,7 @@
     "type": "vtuber",
     "room": 25712165,
     "face": "/bfs/face/7d71bb3a606bab0dc00122d3af9ddd55f170aff2.jpg",
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "1251806725": {
     "name": "纱雫sana",
@@ -30839,7 +30867,7 @@
     "type": "vtuber",
     "room": 25599209,
     "face": "/bfs/face/b56bfedafd929f485d285a6033c2851d0929d635.jpg",
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "1077738277": {
     "name": "苏酥_SUSU_",
@@ -31581,7 +31609,7 @@
     "type": "vtuber",
     "room": 23365207,
     "face": "/bfs/face/56a497128e4473e2aec878b093359dc59d029888.jpg",
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "915387": {
     "name": "菲蕾嘉official",
@@ -37531,7 +37559,7 @@
     "type": "vtuber",
     "room": 26167845,
     "face": "/bfs/face/e12e9e596168abc67c29df4d54f5019aaa10e6d5.jpg",
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "490700": {
     "name": "夜色毁灭",

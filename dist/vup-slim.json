@@ -7235,6 +7235,12 @@
     "room": 21403189,
     "group_name": ""
   },
+  "16236535": {
+    "name": "千军一笑Satori",
+    "type": "vtuber",
+    "room": 1133566,
+    "group_name": ""
+  },
   "1662426": {
     "name": "是棵草",
     "type": "vtuber",
@@ -11115,7 +11121,7 @@
     "name": "安尔珀_Ambrum",
     "type": "vtuber",
     "room": 26599080,
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "33708487": {
     "name": "安德烈-赫岑朵夫Official",
@@ -14753,6 +14759,12 @@
     "room": 21763337,
     "group_name": "VirtuaReal"
   },
+  "1279470566": {
+    "name": "星云社_CosmicNebula",
+    "type": "group",
+    "room": 25849509,
+    "group_name": ""
+  },
   "525988990": {
     "name": "星井まゆき",
     "type": "vtuber",
@@ -16323,6 +16335,12 @@
     "name": "望月理莎",
     "type": "vtuber",
     "room": 23362558,
+    "group_name": ""
+  },
+  "3493142231779517": {
+    "name": "望月白枝_Official",
+    "type": "vtuber",
+    "room": 27275810,
     "group_name": ""
   },
   "622623143": {
@@ -19157,6 +19175,12 @@
     "room": 25722977,
     "group_name": ""
   },
+  "1939568047": {
+    "name": "沧海月萌",
+    "type": "vtuber",
+    "room": 25100511,
+    "group_name": "星云社_CosmicNebula"
+  },
   "49584022": {
     "name": "沧澜メロディChannel",
     "type": "vtuber",
@@ -20223,7 +20247,7 @@
     "name": "激辣味噌",
     "type": "vtuber",
     "room": 5391723,
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "387103852": {
     "name": "濑川绪良Official",
@@ -21471,7 +21495,7 @@
     "name": "珂菈_Konrada",
     "type": "vtuber",
     "room": 26662852,
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "4695879": {
     "name": "珂蕾贝雅Gliesaray",
@@ -24717,7 +24741,7 @@
     "name": "纱纹_Rhodonite",
     "type": "vtuber",
     "room": 25712165,
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "1251806725": {
     "name": "纱雫sana",
@@ -26433,7 +26457,7 @@
     "name": "苏萤_Fluorite",
     "type": "vtuber",
     "room": 25599209,
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "1077738277": {
     "name": "苏酥_SUSU_",
@@ -27069,7 +27093,7 @@
     "name": "菲莉丝_Phyllis",
     "type": "vtuber",
     "room": 23365207,
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "915387": {
     "name": "菲蕾嘉official",
@@ -32169,7 +32193,7 @@
     "name": "黎酩_Lunette",
     "type": "vtuber",
     "room": 26167845,
-    "group_name": ""
+    "group_name": "星云社_CosmicNebula"
   },
   "490700": {
     "name": "夜色毁灭",
