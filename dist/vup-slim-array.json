@@ -15330,6 +15330,13 @@
     "group_name": "VirtuaReal"
   },
   {
+    "uid": 3493276038465661,
+    "name": "弥撒Misaa",
+    "type": "vtuber",
+    "room": 27544657,
+    "group_name": "雪域Provealms"
+  },
+  {
     "uid": 6433651,
     "name": "弥栄クアム_YaSaKa",
     "type": "vtuber",
@@ -18753,6 +18760,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493266777442760,
+    "name": "月宫奏Kanade",
+    "type": "vtuber",
+    "room": 27533651,
+    "group_name": "雪域Provealms"
+  },
+  {
     "uid": 480285421,
     "name": "XxX__-----",
     "type": "vtuber",
@@ -19094,6 +19108,13 @@
     "type": "vtuber",
     "room": 23292893,
     "group_name": ""
+  },
+  {
+    "uid": 3493078824389254,
+    "name": "朝月夜Asa",
+    "type": "vtuber",
+    "room": 27399705,
+    "group_name": "雪域Provealms"
   },
   {
     "uid": 1502895122,
@@ -25114,6 +25135,13 @@
     "type": "vtuber",
     "room": 23812779,
     "group_name": ""
+  },
+  {
+    "uid": 3493275287685266,
+    "name": "珑歌Taki",
+    "type": "vtuber",
+    "room": 27870921,
+    "group_name": "雪域Provealms"
   },
   {
     "uid": 1816182565,
@@ -31708,6 +31736,13 @@
     "type": "vtuber",
     "room": 26173394,
     "group_name": "Nebula-Beat​"
+  },
+  {
+    "uid": 240686445,
+    "name": "萝艻看着你",
+    "type": "vtuber",
+    "room": 9287995,
+    "group_name": "雪域Provealms"
   },
   {
     "uid": 9312944,

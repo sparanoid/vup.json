@@ -15329,6 +15329,13 @@
     "face": "/bfs/face/58b8ecf4df30320c9fddbd5f085001a650243fee.jpg",
     "group_name": "VirtuaReal"
   },
+  "3493276038465661": {
+    "name": "弥撒Misaa",
+    "type": "vtuber",
+    "room": 27544657,
+    "face": "/bfs/face/e47f30431106dcbe3e9707f6041f55b32b11d8d2.jpg",
+    "group_name": "雪域Provealms"
+  },
   "6433651": {
     "name": "弥栄クアム_YaSaKa",
     "type": "vtuber",
@@ -18752,6 +18759,13 @@
     "face": "/bfs/face/0ed6cd79fab14443df375c695f5af4ac813b0b7a.jpg",
     "group_name": ""
   },
+  "3493266777442760": {
+    "name": "月宫奏Kanade",
+    "type": "vtuber",
+    "room": 27533651,
+    "face": "/bfs/face/c4a1d310dce41456762ffdd4beecd68a4a8dfc14.jpg",
+    "group_name": "雪域Provealms"
+  },
   "480285421": {
     "name": "XxX__-----",
     "type": "vtuber",
@@ -19094,6 +19108,13 @@
     "room": 23292893,
     "face": "/bfs/face/f7d9fd2576cb8abaaa2f66588f3e076f0568e75b.jpg",
     "group_name": ""
+  },
+  "3493078824389254": {
+    "name": "朝月夜Asa",
+    "type": "vtuber",
+    "room": 27399705,
+    "face": "/bfs/face/1b9eea9ec145a4e0350cade5c65684bce49b1ef6.jpg",
+    "group_name": "雪域Provealms"
   },
   "1502895122": {
     "name": "朝枝晓Akatsuki",
@@ -25114,6 +25135,13 @@
     "room": 23812779,
     "face": "/bfs/face/a6c45d45e5daa018498e8fd719d739ed3a5bc4e5.jpg",
     "group_name": ""
+  },
+  "3493275287685266": {
+    "name": "珑歌Taki",
+    "type": "vtuber",
+    "room": 27870921,
+    "face": "/bfs/face/e68a35feac644f17d42f9f300b65dc6198b29d80.jpg",
+    "group_name": "雪域Provealms"
   },
   "1816182565": {
     "name": "珞璃Official",
@@ -31708,6 +31736,13 @@
     "room": 26173394,
     "face": "/bfs/face/13f259521ce830c215691e856ee13ce764dfdeea.jpg",
     "group_name": "Nebula-Beat​"
+  },
+  "240686445": {
+    "name": "萝艻看着你",
+    "type": "vtuber",
+    "room": 9287995,
+    "face": "/bfs/face/05993bf59f0752f3422a81cce2cf2b21dfce7b33.jpg",
+    "group_name": "雪域Provealms"
   },
   "9312944": {
     "name": "萝蜜Romi",
