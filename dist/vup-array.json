@@ -9648,6 +9648,14 @@
     "group_name": ""
   },
   {
+    "uid": 6841063,
+    "name": "千代澪Channel",
+    "type": "vtuber",
+    "room": 846816,
+    "face": "/bfs/face/784b47d75e094e226add979dd5a60e15f8782bc7.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 16236535,
     "name": "千军一笑Satori",
     "type": "vtuber",
@@ -18812,7 +18820,7 @@
     "name": "招财不乖",
     "type": "vtuber",
     "room": 4777795,
-    "face": "/bfs/face/a301fac451241ee28c33e4e4f548179c90cb2f4a.jpg",
+    "face": "/bfs/face/ba07dfc202b5c03267703067b0fb6e0900ab23b4.jpg",
     "group_name": ""
   },
   {
