@@ -15724,7 +15724,7 @@
     "name": "小猪anna",
     "type": "vtuber",
     "room": 27015352,
-    "face": "/bfs/face/7e7950df2cad26305593208f0f46c04cf8e8535d.jpg",
+    "face": "/bfs/face/64d54fa67de2f6d2805f999cf443d72d1d089c0e.jpg",
     "group_name": ""
   },
   {
@@ -20940,7 +20940,7 @@
     "name": "是棉花糖糖呀",
     "type": "vtuber",
     "room": 23121863,
-    "face": "/bfs/face/1387d0b24996a3edc21d7e55336f9ecf0eacdd66.jpg",
+    "face": "/bfs/face/d5ec390ed0820cf3209c0206c89fe6e83f9d68e3.jpg",
     "group_name": ""
   },
   {
@@ -27212,7 +27212,7 @@
     "name": "灼灼Auburn",
     "type": "vtuber",
     "room": 25263257,
-    "face": "/bfs/face/043ac774f9a7e2da0d9d9d0dafc476de6f4a3950.jpg",
+    "face": "/bfs/face/6ab4a2a92972d4dd285f1d18427673091a6f2bba.jpg",
     "group_name": ""
   },
   {
@@ -27381,6 +27381,14 @@
     "type": "vtuber",
     "room": 55980,
     "face": "/bfs/face/f48d2017de6aebeb76651644603ffd17747e9f86.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493115730069946,
+    "name": "焰灵莓炉Channel",
+    "type": "vtuber",
+    "room": 27371389,
+    "face": "/bfs/face/92e5ce45934f3ef5104e9e53f03c18b38d50e8a7.jpg",
     "group_name": ""
   },
   {
