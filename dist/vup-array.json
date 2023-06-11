@@ -14392,6 +14392,14 @@
     "group_name": "NoriPro"
   },
   {
+    "uid": 390772810,
+    "name": "姬夜Friyal",
+    "type": "vtuber",
+    "room": 25095219,
+    "face": "/bfs/face/91e9c26d733094703902dd5122a776aeed3423a1.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1567721686,
     "name": "姬川铃",
     "type": "vtuber",
@@ -16081,7 +16089,7 @@
   },
   {
     "uid": 3493273005984690,
-    "name": "元気小鹿-宅豆芽冠名",
+    "name": "元気小鹿",
     "type": "vtuber",
     "room": 27541408,
     "face": "/bfs/face/68fdb7683a38f0d18bf76aa086e031745eefcd20.jpg",
@@ -24212,7 +24220,7 @@
     "name": "椛暗",
     "type": "vtuber",
     "room": 897752,
-    "face": "/bfs/face/381ab79c652d6c16dade624c4461bb3d9cdc2074.jpg",
+    "face": "/bfs/face/622d2896cee7529d3f1200e176754e75e5d3e9e4.jpg",
     "group_name": ""
   },
   {
@@ -34060,7 +34068,7 @@
     "name": "脆角鲨鲨",
     "type": "vtuber",
     "room": 2646668,
-    "face": "/bfs/face/f47c4285fb0d899d858863823114631273431f60.jpg",
+    "face": "/bfs/face/e7d22b594dacc3b90bf84333f6d17b9d0a60249c.jpg",
     "group_name": ""
   },
   {

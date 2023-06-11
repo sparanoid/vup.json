@@ -12593,6 +12593,13 @@
     "group_name": "NoriPro"
   },
   {
+    "uid": 390772810,
+    "name": "姬夜Friyal",
+    "type": "vtuber",
+    "room": 25095219,
+    "group_name": ""
+  },
+  {
     "uid": 1567721686,
     "name": "姬川铃",
     "type": "vtuber",
@@ -14071,7 +14078,7 @@
   },
   {
     "uid": 3493273005984690,
-    "name": "元気小鹿-宅豆芽冠名",
+    "name": "元気小鹿",
     "type": "vtuber",
     "room": 27541408,
     "group_name": ""
