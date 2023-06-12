@@ -778,7 +778,7 @@
     "name": "Color_黄色",
     "type": "vtuber",
     "room": 286906,
-    "face": "/bfs/face/43252c6e256c281ee06b2c060966db43acc75e6b.jpg",
+    "face": "/bfs/face/854433faf0262aa719917e29c3414f7aabaaa28b.jpg",
     "sign": "",
     "group_name": ""
   },
@@ -1652,7 +1652,7 @@
     "type": "vtuber",
     "room": 868973,
     "face": "/bfs/face/31848e4983479fbf861feb8da875b1c89235b5d8.jpg",
-    "sign": "纸片人计划所属，炼金术师小狐狸，做点自己感兴趣的内容，目标是成为能PY到游戏测试资格的UP主，粉丝群873574460，欢迎来玩",
+    "sign": "炼金术士，拥有操纵泥土的能力\n做点自己感兴趣的内容\n目标是成为能PY到游戏测试资格的UP主",
     "group_name": "纸片人计划"
   },
   {
@@ -8275,7 +8275,7 @@
     "name": "伊希莉Isilee",
     "type": "vtuber",
     "room": 23328890,
-    "face": "/bfs/face/e53a4443e7047ad7a13d045ba611f2b5b8cbe991.jpg",
+    "face": "/bfs/face/366e6fbcce57cba32ddcb25fd6a14297bc366e00.jpg",
     "sign": "个人势陪伴型主播 | 你会成为我的伊奴吗？",
     "group_name": ""
   },
@@ -10384,6 +10384,15 @@
     "face": "/bfs/face/c58aa791b3db8da9627abf81c86f1df4fef1e1ab.jpg",
     "sign": "歌势新v，有小小的梦想✨\n直播时间：19-02，粉丝群：538195722",
     "group_name": ""
+  },
+  {
+    "uid": 1711724633,
+    "name": "初濑Hatsuse",
+    "type": "vtuber",
+    "room": 27628009,
+    "face": "/bfs/face/ac584c902f1cd3e56a8101a79ccb8042eb5b4c52.jpg",
+    "sign": "虚拟艺人团体VirtuaReal成员 爱吃鸡腿的小蝙蝠初濑！ 商务合作：bd@vrp.live",
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 431473020,
@@ -13048,6 +13057,15 @@
     "face": "/bfs/face/b34ae6c8434f16159403b0d19781331e04cf8ec0.jpg",
     "sign": "Misson AYD 001进行中||  商务合作专用邮箱：business@a1duo.com ",
     "group_name": "哎咿多工作室"
+  },
+  {
+    "uid": 1567394869,
+    "name": "哎小呜Awu",
+    "type": "vtuber",
+    "room": 27627985,
+    "face": "/bfs/face/c67965c066573caf63b68eb081a31ff5831626a6.jpg",
+    "sign": "虚拟艺人团体VirtuaReal所属成员，宇宙第一机智的乘黄崽崽～商务合作请联系bd@vrp.live",
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 629814419,
@@ -24822,6 +24840,15 @@
     "group_name": ""
   },
   {
+    "uid": 1296515170,
+    "name": "未知夜Michiya",
+    "type": "vtuber",
+    "room": 27628030,
+    "face": "/bfs/face/a0d4fcda214e46fdbe5bfc8ea92e33a0002c3d83.jpg",
+    "sign": "虚拟艺人团体VirtuaReal成员，黑心恶魔的未来继承人只于永夜行走... | 商务合作：bd@vrp.live",
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 494669125,
     "name": "未絵Mieko",
     "type": "vtuber",
@@ -30006,6 +30033,15 @@
     "group_name": ""
   },
   {
+    "uid": 13724010,
+    "name": "清水呱子",
+    "type": "vtuber",
+    "room": 27866093,
+    "face": "/bfs/face/e22cbd045888fea9a8e2e8822057c8abc3ec359f.jpg",
+    "sign": "诚实友善是一位新时代虚拟主播的行为准则",
+    "group_name": ""
+  },
+  {
     "uid": 549120667,
     "name": "清水琴美Official",
     "type": "vtuber",
@@ -34722,6 +34758,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493296324217792,
+    "name": "真红之蝶Kurenai",
+    "type": "vtuber",
+    "room": 27894513,
+    "face": "/bfs/face/8ac25c61e37cd449986052addac77c628b49756a.jpg",
+    "sign": "✨多语歌势✨五彩斑斓的黑",
+    "group_name": ""
+  },
+  {
     "uid": 1485277312,
     "name": "真红莉爱official",
     "type": "vtuber",
@@ -38390,7 +38435,7 @@
     "type": "vtuber",
     "room": 2646668,
     "face": "/bfs/face/e7d22b594dacc3b90bf84333f6d17b9d0a60249c.jpg",
-    "sign": "是脆角鲨！！！每天中午12点到2点，晚上8-12点，深夜不定期出没，记得回家粉丝群：813064515 ",
+    "sign": "每天晚上6-12点，周一默认休，深夜不定期出没，记得回家粉丝群：813064515 ",
     "group_name": ""
   },
   {
@@ -40234,7 +40279,7 @@
     "name": "草药呐喵呜",
     "type": "vtuber",
     "room": 24531089,
-    "face": "/bfs/face/34a1ac7d207286e74b5138e12a0e5004dbc62851.jpg",
+    "face": "/bfs/face/765afc455c3590fe52433069df2563a0a2895a31.jpg",
     "sign": "有脑子我不用 我就傻着 哎 就是玩儿",
     "group_name": ""
   },
@@ -45513,6 +45558,15 @@
     "group_name": ""
   },
   {
+    "uid": 1932862336,
+    "name": "雨纪_Ameki",
+    "type": "vtuber",
+    "room": 27628019,
+    "face": "/bfs/face/0daae887dd6734340ff7e6c5cbc9134594bf7412.jpg",
+    "sign": "虚拟艺人团体VirtuaReal成员，雨中的蝴蝶。陪我一起看雨吧？ 商务合作请联系bd@vrp.live",
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 383388032,
     "name": "雨蝶酱哟",
     "type": "vtuber",
@@ -45742,8 +45796,8 @@
     "name": "雪烩Souffle",
     "type": "vtuber",
     "room": 22446298,
-    "face": "/bfs/face/95a25a38ab49954730255a65e5c0903a05cddac1.jpg",
-    "sign": "走一步看一步",
+    "face": "/bfs/face/e7a507b11e63c2bbf5e723f23447cfcd91dd6997.jpg",
+    "sign": "回到过去，一如既往。",
     "group_name": ""
   },
   {
@@ -46868,7 +46922,7 @@
     "type": "vtuber",
     "room": 26355646,
     "face": "/bfs/face/ab6a511fe8d70e3158e0bb3eef8c9d5c868110a2.jpg",
-    "sign": "d一下土狗吧！这对狗狗来说真的很重要呜呜呜！直播时间6：00-12：00pm",
+    "sign": "d一下土狗吧！这对狗狗来说真的很重要呜呜呜！直播时间6：00-12：00pm 录播：ネットゲー廃人悠",
     "group_name": ""
   },
   {

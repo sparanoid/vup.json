@@ -692,7 +692,7 @@
     "name": "Color_黄色",
     "type": "vtuber",
     "room": 286906,
-    "face": "/bfs/face/43252c6e256c281ee06b2c060966db43acc75e6b.jpg",
+    "face": "/bfs/face/854433faf0262aa719917e29c3414f7aabaaa28b.jpg",
     "group_name": ""
   },
   {
@@ -7356,7 +7356,7 @@
     "name": "伊希莉Isilee",
     "type": "vtuber",
     "room": 23328890,
-    "face": "/bfs/face/e53a4443e7047ad7a13d045ba611f2b5b8cbe991.jpg",
+    "face": "/bfs/face/366e6fbcce57cba32ddcb25fd6a14297bc366e00.jpg",
     "group_name": ""
   },
   {
@@ -9230,6 +9230,14 @@
     "room": 26540437,
     "face": "/bfs/face/c58aa791b3db8da9627abf81c86f1df4fef1e1ab.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 1711724633,
+    "name": "初濑Hatsuse",
+    "type": "vtuber",
+    "room": 27628009,
+    "face": "/bfs/face/ac584c902f1cd3e56a8101a79ccb8042eb5b4c52.jpg",
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 431473020,
@@ -11598,6 +11606,14 @@
     "room": 22784346,
     "face": "/bfs/face/b34ae6c8434f16159403b0d19781331e04cf8ec0.jpg",
     "group_name": "哎咿多工作室"
+  },
+  {
+    "uid": 1567394869,
+    "name": "哎小呜Awu",
+    "type": "vtuber",
+    "room": 27627985,
+    "face": "/bfs/face/c67965c066573caf63b68eb081a31ff5831626a6.jpg",
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 629814419,
@@ -22064,6 +22080,14 @@
     "group_name": ""
   },
   {
+    "uid": 1296515170,
+    "name": "未知夜Michiya",
+    "type": "vtuber",
+    "room": 27628030,
+    "face": "/bfs/face/a0d4fcda214e46fdbe5bfc8ea92e33a0002c3d83.jpg",
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 494669125,
     "name": "未絵Mieko",
     "type": "vtuber",
@@ -26672,6 +26696,14 @@
     "group_name": ""
   },
   {
+    "uid": 13724010,
+    "name": "清水呱子",
+    "type": "vtuber",
+    "room": 27866093,
+    "face": "/bfs/face/e22cbd045888fea9a8e2e8822057c8abc3ec359f.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 549120667,
     "name": "清水琴美Official",
     "type": "vtuber",
@@ -30861,6 +30893,14 @@
     "type": "vtuber",
     "room": 23600294,
     "face": "/bfs/face/630735800d3b4aa942f130e0e5498ffa2945134c.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493296324217792,
+    "name": "真红之蝶Kurenai",
+    "type": "vtuber",
+    "room": 27894513,
+    "face": "/bfs/face/8ac25c61e37cd449986052addac77c628b49756a.jpg",
     "group_name": ""
   },
   {
@@ -35764,7 +35804,7 @@
     "name": "草药呐喵呜",
     "type": "vtuber",
     "room": 24531089,
-    "face": "/bfs/face/34a1ac7d207286e74b5138e12a0e5004dbc62851.jpg",
+    "face": "/bfs/face/765afc455c3590fe52433069df2563a0a2895a31.jpg",
     "group_name": ""
   },
   {
@@ -40456,6 +40496,14 @@
     "group_name": ""
   },
   {
+    "uid": 1932862336,
+    "name": "雨纪_Ameki",
+    "type": "vtuber",
+    "room": 27628019,
+    "face": "/bfs/face/0daae887dd6734340ff7e6c5cbc9134594bf7412.jpg",
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 383388032,
     "name": "雨蝶酱哟",
     "type": "vtuber",
@@ -40660,7 +40708,7 @@
     "name": "雪烩Souffle",
     "type": "vtuber",
     "room": 22446298,
-    "face": "/bfs/face/95a25a38ab49954730255a65e5c0903a05cddac1.jpg",
+    "face": "/bfs/face/e7a507b11e63c2bbf5e723f23447cfcd91dd6997.jpg",
     "group_name": ""
   },
   {

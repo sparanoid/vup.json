@@ -8078,6 +8078,13 @@
     "group_name": ""
   },
   {
+    "uid": 1711724633,
+    "name": "初濑Hatsuse",
+    "type": "vtuber",
+    "room": 27628009,
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 431473020,
     "name": "初焰Hatsuhomura",
     "type": "vtuber",
@@ -10148,6 +10155,13 @@
     "type": "group",
     "room": 22784346,
     "group_name": "哎咿多工作室"
+  },
+  {
+    "uid": 1567394869,
+    "name": "哎小呜Awu",
+    "type": "vtuber",
+    "room": 27627985,
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 629814419,
@@ -19306,6 +19320,13 @@
     "group_name": ""
   },
   {
+    "uid": 1296515170,
+    "name": "未知夜Michiya",
+    "type": "vtuber",
+    "room": 27628030,
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 494669125,
     "name": "未絵Mieko",
     "type": "vtuber",
@@ -23338,6 +23359,13 @@
     "group_name": ""
   },
   {
+    "uid": 13724010,
+    "name": "清水呱子",
+    "type": "vtuber",
+    "room": 27866093,
+    "group_name": ""
+  },
+  {
     "uid": 549120667,
     "name": "清水琴美Official",
     "type": "vtuber",
@@ -27003,6 +27031,13 @@
     "name": "真綿真珠星_official",
     "type": "vtuber",
     "room": 23600294,
+    "group_name": ""
+  },
+  {
+    "uid": 3493296324217792,
+    "name": "真红之蝶Kurenai",
+    "type": "vtuber",
+    "room": 27894513,
     "group_name": ""
   },
   {
@@ -35397,6 +35432,13 @@
     "type": "vtuber",
     "room": 13619347,
     "group_name": ""
+  },
+  {
+    "uid": 1932862336,
+    "name": "雨纪_Ameki",
+    "type": "vtuber",
+    "room": 27628019,
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 383388032,
