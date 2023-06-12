@@ -21656,6 +21656,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493298142448397,
+    "name": "月见里雪yuki",
+    "type": "vtuber",
+    "room": 27921354,
+    "face": "/bfs/face/0c8e58ca4e8cf2f01e58d04400ea9e8c9f416e27.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 491470,
     "name": "月野由爱Yume",
     "type": "vtuber",
@@ -32232,6 +32240,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493119043570098,
+    "name": "第五灌灌",
+    "type": "vtuber",
+    "room": 26924998,
+    "face": "/bfs/face/ace7d6d42a7d03ae327264d52d4265471b72829d.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 701041148,
     "name": "笳米_纯爱战神",
     "type": "vtuber",
@@ -33540,7 +33556,7 @@
     "name": "维涅塔Vinetta",
     "type": "vtuber",
     "room": 24818161,
-    "face": "/bfs/face/166f2e566e000df6fd56f2b5763d2a3928bda4d4.jpg",
+    "face": "/bfs/face/fee0e56e022a324a24dd5837b2cd0b97f1bba38c.jpg",
     "group_name": ""
   },
   {
