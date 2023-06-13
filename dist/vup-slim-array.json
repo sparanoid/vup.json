@@ -24157,6 +24157,13 @@
     "group_name": ""
   },
   {
+    "uid": 7978242,
+    "name": "爆爆坚果",
+    "type": "vtuber",
+    "room": 18260,
+    "group_name": ""
+  },
+  {
     "uid": 2700878,
     "name": "爱丝艾芙",
     "type": "vtuber",
@@ -26982,6 +26989,13 @@
     "name": "真理シンリ_Official",
     "type": "vtuber",
     "room": 9977430,
+    "group_name": ""
+  },
+  {
+    "uid": 17615568,
+    "name": "真由Mayu",
+    "type": "vtuber",
+    "room": 4564601,
     "group_name": ""
   },
   {

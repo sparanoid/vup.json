@@ -15428,7 +15428,7 @@
     "type": "vtuber",
     "room": 14963868,
     "face": "/bfs/face/9059738db93bb6638c2919a7c1ddccece087868c.jpg",
-    "sign": "猫猫很懒不想写。",
+    "sign": "猫懒不写。",
     "group_name": ""
   },
   "25852539": {
@@ -27607,6 +27607,14 @@
     "sign": "",
     "group_name": ""
   },
+  "7978242": {
+    "name": "爆爆坚果",
+    "type": "vtuber",
+    "room": 18260,
+    "face": "/bfs/face/5f774e0b7e75eb8bc9cd9f94a400a5c7b52265ed.jpg",
+    "sign": "我的梦想是赚很多钱 请大家一起来找我玩（个人势））",
+    "group_name": ""
+  },
   "2700878": {
     "name": "爱丝艾芙",
     "type": "vtuber",
@@ -30837,6 +30845,14 @@
     "room": 9977430,
     "face": "/bfs/face/e87cf8f0902ba96131764f73fdfc345d6dc799c9.jpg",
     "sign": "momolive所属個人勢vtb，未成年不要關注我，謝謝！！！",
+    "group_name": ""
+  },
+  "17615568": {
+    "name": "真由Mayu",
+    "type": "vtuber",
+    "room": 4564601,
+    "face": "/bfs/face/bc17b100d52534ec9dd31efea28814c68e96806a.jpg",
+    "sign": "❤️66甜点铺❤️多猫格甜点师猫猫女仆一枚喵~\n目标是所有吃上甜点的客人都变得甜甜的~\n如果能当猫猫的主人就更好啦喵呜~\n（不加工会喵w）",
     "group_name": ""
   },
   "4525128": {

@@ -27608,6 +27608,14 @@
     "group_name": ""
   },
   {
+    "uid": 7978242,
+    "name": "爆爆坚果",
+    "type": "vtuber",
+    "room": 18260,
+    "face": "/bfs/face/5f774e0b7e75eb8bc9cd9f94a400a5c7b52265ed.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 2700878,
     "name": "爱丝艾芙",
     "type": "vtuber",
@@ -30837,6 +30845,14 @@
     "type": "vtuber",
     "room": 9977430,
     "face": "/bfs/face/e87cf8f0902ba96131764f73fdfc345d6dc799c9.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 17615568,
+    "name": "真由Mayu",
+    "type": "vtuber",
+    "room": 4564601,
+    "face": "/bfs/face/bc17b100d52534ec9dd31efea28814c68e96806a.jpg",
     "group_name": ""
   },
   {
