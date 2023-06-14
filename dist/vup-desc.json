@@ -21659,7 +21659,7 @@
     "name": "月见里雪yuki",
     "type": "vtuber",
     "room": 27921354,
-    "face": "/bfs/face/0c8e58ca4e8cf2f01e58d04400ea9e8c9f416e27.jpg",
+    "face": "/bfs/face/8dc599b7fa99d6f7d52ad0bfd99255b4da8123a0.jpg",
     "sign": "被我抓到啦ฅ₍ᐢ⸝⸝› ̫ ‹⸝⸝ᐢ₎ฅ˒˒",
     "group_name": ""
   },
@@ -34302,6 +34302,14 @@
     "face": "/bfs/face/4fd0ee92cf611e9a643e131d6590c898d9697e30.jpg",
     "sign": "Your Divine Fox has arrived!\n尼比陆 Friends所属 商务：friends @nibiru.work",
     "group_name": "尼比陆"
+  },
+  "3173750": {
+    "name": "艾伯特iBOT_Official",
+    "type": "vtuber",
+    "room": 24094,
+    "face": "/bfs/face/02ccc4bf2c91e06da8a0e76a8b03f1b1a42423a8.jpg",
+    "sign": "刚出道的新米VUP，见到阁下诸位我非常荣幸",
+    "group_name": ""
   },
   "1215655557": {
     "name": "艾余_ay",
