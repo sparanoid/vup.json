@@ -8385,6 +8385,13 @@
     "face": "/bfs/face/fa703bf0bb509a75f90a769d7287f6913e042b6d.jpg",
     "group_name": ""
   },
+  "1240518940": {
+    "name": "北立交桥",
+    "type": "group",
+    "room_id": 24375470,
+    "face": "/bfs/face/4a4c58875b4d7d3fc3a965135d5ce8171b977ff7.jpg",
+    "group_name": ""
+  },
   "337068859": {
     "name": "北藤Betty",
     "type": "vtuber",
@@ -18682,6 +18689,13 @@
     "face": "/bfs/face/a01ebf2ffbb65cf18789f8c1d74e15257c6ab886.jpg",
     "group_name": ""
   },
+  "3493078333656008": {
+    "name": "曾被称为卡米的龟",
+    "type": "vtuber",
+    "room_id": 26836672,
+    "face": "/bfs/face/323914d614d006d17f75435d5c0253d6e6ac1181.jpg",
+    "group_name": "北立交桥"
+  },
   "11041707": {
     "name": "最poi的Nia",
     "type": "vtuber",
@@ -23330,6 +23344,13 @@
     "face": "/bfs/face/1f710cfb0e9aecc538a453af1a7bbd5568e9e72b.jpg",
     "group_name": ""
   },
+  "1064646844": {
+    "name": "清乖子",
+    "type": "vtuber",
+    "room_id": 27400550,
+    "face": "/bfs/face/2a04f2941c1ba3e388f80cf20153d8b9dc961424.jpg",
+    "group_name": "北立交桥"
+  },
   "518490855": {
     "name": "清兰sealine",
     "type": "vtuber",
@@ -25072,6 +25093,13 @@
     "room_id": 779207,
     "face": "/bfs/face/360382bf1be2026a9cda8505a4c9b1ed4196173e.jpg",
     "group_name": ""
+  },
+  "1978636705": {
+    "name": "王宝煲",
+    "type": "vtuber",
+    "room_id": 26872684,
+    "face": "/bfs/face/cebc147e0462f5abbdbf85c6a1b1e49e86f8d93a.jpg",
+    "group_name": "北立交桥"
   },
   "679127344": {
     "name": "王摆摆真没摆",
@@ -30834,6 +30862,13 @@
     "face": "/bfs/face/7927c411f49a2ce86abaeb59ab90eaca9499ffd1.jpg",
     "group_name": "极光社"
   },
+  "3494356837206038": {
+    "name": "花雨络络",
+    "type": "vtuber",
+    "room_id": 30000574,
+    "face": "/bfs/face/8acfaa03dc3c3d889f515d1a59f9dfbf8278312c.jpg",
+    "group_name": ""
+  },
   "521780993": {
     "name": "花云燻搬运",
     "type": "vtuber",
@@ -31960,6 +31995,13 @@
     "room_id": 31634,
     "face": "/bfs/face/433eea200a2491d0dfc5bee95d41816ed2b0e0f4.jpg",
     "group_name": "Nameless Project"
+  },
+  "1950604344": {
+    "name": "萨比萌Sabimon",
+    "type": "vtuber",
+    "room_id": 23151096,
+    "face": "/bfs/face/82ec4d7dd6d997ac60cfe1ef968c7a10675b2d73.jpg",
+    "group_name": ""
   },
   "403894805": {
     "name": "萨莎柯里克Official",
@@ -35034,6 +35076,13 @@
     "face": "/bfs/face/bdabe4cb8922e21b06de944ef148a7fa03911e65.jpg",
     "group_name": ""
   },
+  "1652248534": {
+    "name": "阿想nia",
+    "type": "vtuber",
+    "room_id": 26553858,
+    "face": "/bfs/face/372cf6568467e1940e428b8e77c58f00a231571d.jpg",
+    "group_name": ""
+  },
   "43854370": {
     "name": "寄希予星",
     "type": "vtuber",
@@ -36964,7 +37013,7 @@
     "type": "vtuber",
     "room_id": 26941523,
     "face": "/bfs/face/8c36842d0a5a1da96b8749dc9d89b258bfb94b08.jpg",
-    "group_name": ""
+    "group_name": "北立交桥"
   },
   "624252711": {
     "name": "魔乃阿萝耶Official",
@@ -37750,6 +37799,13 @@
     "face": "/bfs/face/5a7845ee0bee1a5ae14285c4a091a0ace3befb9c.jpg",
     "group_name": ""
   },
+  "153016102": {
+    "name": "黎卡多legato",
+    "type": "vtuber",
+    "room_id": 7252274,
+    "face": "/bfs/face/ffdd9c601eed1c091f3b0a7f5061110e1a1543ac.jpg",
+    "group_name": "北立交桥"
+  },
   "3493258091039121": {
     "name": "黎夜OuO",
     "type": "vtuber",
@@ -38078,6 +38134,13 @@
     "room_id": 22727902,
     "face": "/bfs/face/f6cd9309a239bb6ca38c5b501f15f0326eab040d.jpg",
     "group_name": ""
+  },
+  "13315327": {
+    "name": "鼠标Office",
+    "type": "vtuber",
+    "room_id": 22632002,
+    "face": "/bfs/face/a68923dc34ad5beec06df10de4e5839f90f6f781.jpg",
+    "group_name": "北立交桥"
   },
   "225243410": {
     "name": "伊欧娜齐柏林伯爵",
