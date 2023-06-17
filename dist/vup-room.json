@@ -937,6 +937,13 @@
     "face": "/bfs/face/8af0b1625222f4b84e2261850bfe081d9fc731b9.jpg",
     "group_name": ""
   },
+  "1795172933": {
+    "name": "Hex_EN_Official",
+    "type": "vtuber",
+    "room_id": 27877011,
+    "face": "/bfs/face/548604b26dc23198e774a7002a176a4e0dae99b8.jpg",
+    "group_name": "NIJISANJI EN"
+  },
   "4365322": {
     "name": "优纪光channel",
     "type": "vtuber",
@@ -5145,10 +5152,10 @@
     "group_name": ""
   },
   "2022864237": {
-    "name": "三日月佑Official",
+    "name": "社牛阿米",
     "type": "vtuber",
     "room_id": 22861661,
-    "face": "/bfs/face/ca8fc24a1661e0a282a43f82e535e05fe659ffb9.jpg",
+    "face": "/bfs/face/3ef721bc677d35157a71c0149c5b1ab024ed7ccf.jpg",
     "group_name": "MZ次元"
   },
   "1118842758": {
@@ -7388,7 +7395,7 @@
     "name": "八朔莓梨",
     "type": "vtuber",
     "room_id": 10630142,
-    "face": "/bfs/face/cdec3d317ae083e9b690f6bc210e47efc6278850.jpg",
+    "face": "/bfs/face/2934f6ec7cf8ca97818b1b022f0116c384648c71.jpg",
     "group_name": ""
   },
   "480675481": {
@@ -7430,7 +7437,7 @@
     "name": "八神想-Official",
     "type": "vtuber",
     "room_id": 813971,
-    "face": "/bfs/face/97980dc30eb814801006936cc2aab4f6f0a199ba.jpg",
+    "face": "/bfs/face/57ec333402b1ad086bf3855e29fff9c3f4cfa57b.jpg",
     "group_name": ""
   },
   "400759756": {
@@ -7486,7 +7493,7 @@
     "name": "情绪不安定",
     "type": "vtuber",
     "room_id": 599020,
-    "face": "/bfs/face/4538f3db0edc1a6e3fba3b54e3acacc6e17c19b5.jpg",
+    "face": "/bfs/face/46e3313745e812ada2747f90eb8e38c21d8121f2.jpg",
     "group_name": ""
   },
   "4644514": {
@@ -10428,6 +10435,13 @@
     "room_id": 21615277,
     "face": "/bfs/face/f85f8ab3616497d5bc75368982bdb6de116ff394.jpg",
     "group_name": "VirtuaReal"
+  },
+  "582903392": {
+    "name": "喵柠Meolen",
+    "type": "vtuber",
+    "room_id": 26906753,
+    "face": "/bfs/face/28b9b5ef0583fdf6d50e81ca57cda953768569f4.jpg",
+    "group_name": "北立交桥"
   },
   "296880903": {
     "name": "喵波菈-bola",
@@ -16747,7 +16761,7 @@
     "name": "新新社恐人",
     "type": "vtuber",
     "room_id": 25117750,
-    "face": "/bfs/face/f4178cb59995dea72f39acbad4d03f1382769c0b.jpg",
+    "face": "/bfs/face/facaa4422dc6f14846b72b0ddf8c7b385eb07651.jpg",
     "group_name": ""
   },
   "3295": {
@@ -23019,7 +23033,7 @@
     "name": "浅羽啾yami",
     "type": "vtuber",
     "room_id": 22739872,
-    "face": "/bfs/face/34ba2eb6ab1b393b7e22d0a59e30dd034f1432d8.jpg",
+    "face": "/bfs/face/4995634e51f337adc7f1dcbc5577d543bf6d490a.jpg",
     "group_name": ""
   },
   "12348934": {
@@ -25501,10 +25515,10 @@
     "group_name": ""
   },
   "9354907": {
-    "name": "鱼宝今天写代码了吗",
+    "name": "seraphina瑜",
     "type": "vtuber",
     "room_id": 3261650,
-    "face": "/bfs/face/11e3abf51a2742c56e27c6e7a9a7a1b2a9197f6c.jpg",
+    "face": "/bfs/face/974c617c97bf9c3c8b2459f697138510e8269c47.jpg",
     "group_name": "鸽鹉live"
   },
   "362788146": {
@@ -27080,6 +27094,13 @@
     "type": "vtuber",
     "room_id": 24870744,
     "face": "/bfs/face/16443f8bbf51939b90196418ea6d165016179c67.jpg",
+    "group_name": ""
+  },
+  "2029255656": {
+    "name": "真穗Maho_Official",
+    "type": "vtuber",
+    "room_id": 24904525,
+    "face": "/bfs/face/48410c47c1913a1030b78266d18c7adcc706ca04.jpg",
     "group_name": ""
   },
   "2113007488": {
@@ -34397,6 +34418,13 @@
     "face": "/bfs/face/ff556ac157b7d6cf476235751459b6a6cf359dd0.jpg",
     "group_name": ""
   },
+  "1753389255": {
+    "name": "金飞龙Kiya",
+    "type": "vtuber",
+    "room_id": 27907539,
+    "face": "/bfs/face/aad8bcf6a24d31847f6d02799dfa0c444bd9a802.jpg",
+    "group_name": ""
+  },
   "1647745153": {
     "name": "金鱼叩叩",
     "type": "vtuber",
@@ -34775,6 +34803,13 @@
     "face": "/bfs/face/8edffbfcc8f796f8d8bfd8e98586a4369a93251e.jpg",
     "group_name": ""
   },
+  "3493273970673718": {
+    "name": "长离_li",
+    "type": "vtuber",
+    "room_id": 27779058,
+    "face": "/bfs/face/d20caf938eadb86d72663b57fa59e7b478dcae32.jpg",
+    "group_name": ""
+  },
   "5462822": {
     "name": "长萌月子",
     "type": "vtuber",
@@ -34914,6 +34949,13 @@
     "room_id": 22334596,
     "face": "/bfs/face/a5f07b7cafe08fceb3fd8cf562f72f8a357b768c.jpg",
     "group_name": ""
+  },
+  "3494351384611564": {
+    "name": "阿久_Aku",
+    "type": "vtuber",
+    "room_id": 27948670,
+    "face": "/bfs/face/23afa38cdd4673847cc1f5ffc1ec3fbbe7aca881.jpg",
+    "group_name": "hOuOu_Project"
   },
   "1428441528": {
     "name": "阿买official",

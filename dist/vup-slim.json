@@ -803,6 +803,12 @@
     "room": 24867595,
     "group_name": ""
   },
+  "1795172933": {
+    "name": "Hex_EN_Official",
+    "type": "vtuber",
+    "room": 27877011,
+    "group_name": "NIJISANJI EN"
+  },
   "4365322": {
     "name": "优纪光channel",
     "type": "vtuber",
@@ -4410,7 +4416,7 @@
     "group_name": ""
   },
   "2022864237": {
-    "name": "三日月佑Official",
+    "name": "社牛阿米",
     "type": "vtuber",
     "room": 22861661,
     "group_name": "MZ次元"
@@ -8938,6 +8944,12 @@
     "type": "vtuber",
     "room": 21615277,
     "group_name": "VirtuaReal"
+  },
+  "582903392": {
+    "name": "喵柠Meolen",
+    "type": "vtuber",
+    "room": 26906753,
+    "group_name": "北立交桥"
   },
   "296880903": {
     "name": "喵波菈-bola",
@@ -21858,7 +21870,7 @@
     "group_name": ""
   },
   "9354907": {
-    "name": "鱼宝今天写代码了吗",
+    "name": "seraphina瑜",
     "type": "vtuber",
     "room": 3261650,
     "group_name": "鸽鹉live"
@@ -23211,6 +23223,12 @@
     "name": "真白茉由_Official",
     "type": "vtuber",
     "room": 24870744,
+    "group_name": ""
+  },
+  "2029255656": {
+    "name": "真穗Maho_Official",
+    "type": "vtuber",
+    "room": 24904525,
     "group_name": ""
   },
   "2113007488": {
@@ -29483,6 +29501,12 @@
     "room": 21506029,
     "group_name": ""
   },
+  "1753389255": {
+    "name": "金飞龙Kiya",
+    "type": "vtuber",
+    "room": 27907539,
+    "group_name": ""
+  },
   "1647745153": {
     "name": "金鱼叩叩",
     "type": "vtuber",
@@ -29807,6 +29831,12 @@
     "room": 23069606,
     "group_name": ""
   },
+  "3493273970673718": {
+    "name": "长离_li",
+    "type": "vtuber",
+    "room": 27779058,
+    "group_name": ""
+  },
   "5462822": {
     "name": "长萌月子",
     "type": "vtuber",
@@ -29926,6 +29956,12 @@
     "type": "vtuber",
     "room": 22334596,
     "group_name": ""
+  },
+  "3494351384611564": {
+    "name": "阿久_Aku",
+    "type": "vtuber",
+    "room": 27948670,
+    "group_name": "hOuOu_Project"
   },
   "1428441528": {
     "name": "阿买official",

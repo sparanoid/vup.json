@@ -1206,6 +1206,15 @@
     "group_name": ""
   },
   {
+    "uid": 1795172933,
+    "name": "Hex_EN_Official",
+    "type": "vtuber",
+    "room": 27877011,
+    "face": "/bfs/face/548604b26dc23198e774a7002a176a4e0dae99b8.jpg",
+    "sign": "Hello, my name is Hex Haywire.",
+    "group_name": "NIJISANJI EN"
+  },
+  {
     "uid": 4365322,
     "name": "优纪光channel",
     "type": "vtuber",
@@ -2309,7 +2318,7 @@
     "type": "vtuber",
     "room": 156789,
     "face": "/bfs/face/25661212be9b14843fa7a6030ead2e52d6c094b3.jpg",
-    "sign": "Natsumesaki.cn｜明日への仆は歩き始めた",
+    "sign": "Natsumesaki.cn｜我不是归人，是个过客",
     "group_name": "薯条project"
   },
   {
@@ -6616,11 +6625,11 @@
   },
   {
     "uid": 2022864237,
-    "name": "三日月佑Official",
+    "name": "社牛阿米",
     "type": "vtuber",
     "room": 22861661,
-    "face": "/bfs/face/ca8fc24a1661e0a282a43f82e535e05fe659ffb9.jpg",
-    "sign": "是阿佑！明日方舟主播！努力做对大家有益的视频。商务合作请私信。欢迎来下饭～",
+    "face": "/bfs/face/3ef721bc677d35157a71c0149c5b1ab024ed7ccf.jpg",
+    "sign": "追求自由的人！明日方舟主播/游戏制作人。商务合作请私信。",
     "group_name": "MZ次元"
   },
   {
@@ -9499,7 +9508,7 @@
     "name": "八朔莓梨",
     "type": "vtuber",
     "room": 10630142,
-    "face": "/bfs/face/cdec3d317ae083e9b690f6bc210e47efc6278850.jpg",
+    "face": "/bfs/face/2934f6ec7cf8ca97818b1b022f0116c384648c71.jpg",
     "sign": "叶うはずもないような夢を見て",
     "group_name": ""
   },
@@ -9553,7 +9562,7 @@
     "name": "八神想-Official",
     "type": "vtuber",
     "room": 813971,
-    "face": "/bfs/face/97980dc30eb814801006936cc2aab4f6f0a199ba.jpg",
+    "face": "/bfs/face/57ec333402b1ad086bf3855e29fff9c3f4cfa57b.jpg",
     "sign": "twitter:@yagami_kokoro，写作想，读作こころ，音乐活动时的id：kokoronote，臭打游戏的，偶尔速通，DJ，P主",
     "group_name": ""
   },
@@ -9625,7 +9634,7 @@
     "name": "情绪不安定",
     "type": "vtuber",
     "room": 599020,
-    "face": "/bfs/face/4538f3db0edc1a6e3fba3b54e3acacc6e17c19b5.jpg",
+    "face": "/bfs/face/46e3313745e812ada2747f90eb8e38c21d8121f2.jpg",
     "sign": "愛するように",
     "group_name": ""
   },
@@ -13410,6 +13419,15 @@
     "group_name": "VirtuaReal"
   },
   {
+    "uid": 582903392,
+    "name": "喵柠Meolen",
+    "type": "vtuber",
+    "room": 26906753,
+    "face": "/bfs/face/28b9b5ef0583fdf6d50e81ca57cda953768569f4.jpg",
+    "sign": "『北立交桥』妖精管理局所属，一只常居车站的流浪猫猫。喵呜～",
+    "group_name": "北立交桥"
+  },
+  {
     "uid": 296880903,
     "name": "喵波菈-bola",
     "type": "vtuber",
@@ -16610,7 +16628,7 @@
     "type": "vtuber",
     "room": 10413051,
     "face": "/bfs/face/f40f104ae75572de53d99c6b7ea2798710b9e73b.jpg",
-    "sign": "一只喜欢打游戏的宅宅狗狗。妈妈：しらたま  喜欢的人是@月见 @棉花糖ame  不要在我的视频和直播间以外的地方提起我哦",
+    "sign": "一只喜欢睡觉的宅宅狗狗。妈妈：しらたま  喜欢的人是@月见 @棉花糖ame  不要在我的视频和直播间以外的地方提起我哦",
     "group_name": ""
   },
   {
@@ -17744,7 +17762,7 @@
     "type": "vtuber",
     "room": 27015352,
     "face": "/bfs/face/7a0293774fdff15e2c7218decd447922c0d2c735.jpg",
-    "sign": "能被肯定真是泰裤辣！\n直播时间：12-14 21-2\n祝大家\n平安喜乐\n吃嘛嘛香\n睡的饱饱\n万事胜意\n一起臭烘(´･ω･)",
+    "sign": "一只猪咪",
     "group_name": ""
   },
   {
@@ -19103,7 +19121,7 @@
     "type": "vtuber",
     "room": 23280495,
     "face": "/bfs/face/2d596ebeced68b5b8ccf11e831f818e2bd78ed12.jpg",
-    "sign": "",
+    "sign": "一边追名逐利，一边清心寡欲。\n希望在这里我可以做回自己。\n",
     "group_name": ""
   },
   {
@@ -21532,7 +21550,7 @@
     "name": "新新社恐人",
     "type": "vtuber",
     "room": 25117750,
-    "face": "/bfs/face/f4178cb59995dea72f39acbad4d03f1382769c0b.jpg",
+    "face": "/bfs/face/facaa4422dc6f14846b72b0ddf8c7b385eb07651.jpg",
     "sign": "我很可爱，请关注我\n个人势Vtuber，不加任何工会，不回私信谢谢！",
     "group_name": ""
   },
@@ -29596,7 +29614,7 @@
     "name": "浅羽啾yami",
     "type": "vtuber",
     "room": 22739872,
-    "face": "/bfs/face/34ba2eb6ab1b393b7e22d0a59e30dd034f1432d8.jpg",
+    "face": "/bfs/face/4995634e51f337adc7f1dcbc5577d543bf6d490a.jpg",
     "sign": "各位小啾鸠们 啾啾爱你们呀~",
     "group_name": ""
   },
@@ -32788,11 +32806,11 @@
   },
   {
     "uid": 9354907,
-    "name": "鱼宝今天写代码了吗",
+    "name": "seraphina瑜",
     "type": "vtuber",
     "room": 3261650,
-    "face": "/bfs/face/11e3abf51a2742c56e27c6e7a9a7a1b2a9197f6c.jpg",
-    "sign": "neu-upc，是科研废物（粉丝数达到1000抽一箱辣条",
+    "face": "/bfs/face/974c617c97bf9c3c8b2459f697138510e8269c47.jpg",
+    "sign": "",
     "group_name": "鸽鹉live"
   },
   {
@@ -34818,6 +34836,15 @@
     "room": 24870744,
     "face": "/bfs/face/16443f8bbf51939b90196418ea6d165016179c67.jpg",
     "sign": "我是萝莉天使偶像的真白茉由 请多关照哦！粉丝群760656542~字幕组审核群614263434",
+    "group_name": ""
+  },
+  {
+    "uid": 2029255656,
+    "name": "真穗Maho_Official",
+    "type": "vtuber",
+    "room": 24904525,
+    "face": "/bfs/face/48410c47c1913a1030b78266d18c7adcc706ca04.jpg",
+    "sign": "从天而降的魔法猫咪， 梦想是当猫咖店老板/画师麻麻：飴玉コン",
     "group_name": ""
   },
   {
@@ -44226,6 +44253,15 @@
     "group_name": ""
   },
   {
+    "uid": 1753389255,
+    "name": "金飞龙Kiya",
+    "type": "vtuber",
+    "room": 27907539,
+    "face": "/bfs/face/aad8bcf6a24d31847f6d02799dfa0c444bd9a802.jpg",
+    "sign": "金龙Vtuber 用金龙之力让更多的人感受到幸福和快乐  发电群：275516160",
+    "group_name": ""
+  },
+  {
     "uid": 1647745153,
     "name": "金鱼叩叩",
     "type": "vtuber",
@@ -44712,6 +44748,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493273970673718,
+    "name": "长离_li",
+    "type": "vtuber",
+    "room": 27779058,
+    "face": "/bfs/face/d20caf938eadb86d72663b57fa59e7b478dcae32.jpg",
+    "sign": "新v全职歌势，是只小凤凰喔～不是火鸡！\n早8:00-11:00  晚19:00-21:00\n群群：621174549\n",
+    "group_name": ""
+  },
+  {
     "uid": 5462822,
     "name": "长萌月子",
     "type": "vtuber",
@@ -44890,6 +44935,15 @@
     "face": "/bfs/face/a5f07b7cafe08fceb3fd8cf562f72f8a357b768c.jpg",
     "sign": "直播时间早上11-13下午19-21\n我就是要这个世界有一束光是为我而打的！我就是要有一个舞台是为我而亮的！我要这个世界上有人是为我而来的！",
     "group_name": ""
+  },
+  {
+    "uid": 3494351384611564,
+    "name": "阿久_Aku",
+    "type": "vtuber",
+    "room": 27948670,
+    "face": "/bfs/face/23afa38cdd4673847cc1f5ffc1ec3fbbe7aca881.jpg",
+    "sign": "hOuOu虚拟艺人团体成员。风大得像要吃掉我，果不其然被风梳了个大背头。",
+    "group_name": "hOuOu_Project"
   },
   {
     "uid": 1428441528,
