@@ -8568,6 +8568,13 @@
     "group_name": "VirtuaReal"
   },
   {
+    "uid": 1280923153,
+    "name": "千悦Chisa",
+    "type": "vtuber",
+    "room": 27218368,
+    "group_name": ""
+  },
+  {
     "uid": 558070433,
     "name": "千春_Chiharu",
     "type": "vtuber",
@@ -10476,6 +10483,13 @@
     "name": "喵豆子nyazuko",
     "type": "vtuber",
     "room": 26759036,
+    "group_name": ""
+  },
+  {
+    "uid": 3493080636328319,
+    "name": "喵酱nya",
+    "type": "vtuber",
+    "room": 26406129,
     "group_name": ""
   },
   {
@@ -12527,6 +12541,13 @@
     "name": "如月みう",
     "type": "vtuber",
     "room": 22313088,
+    "group_name": ""
+  },
+  {
+    "uid": 3493293390301322,
+    "name": "妍宝_doki为俏佳人冠名",
+    "type": "vtuber",
+    "room": 27803464,
     "group_name": ""
   },
   {
@@ -25683,6 +25704,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493277703604876,
+    "name": "璃烟正在长大ing",
+    "type": "vtuber",
+    "room": 27647294,
+    "group_name": ""
+  },
+  {
     "uid": 331249454,
     "name": "璃露露・璃露",
     "type": "vtuber",
@@ -26388,6 +26416,13 @@
     "type": "vtuber",
     "room": 199140,
     "group_name": "P.K.S"
+  },
+  {
+    "uid": 3493269767981281,
+    "name": "白瓷梅子汤-plum",
+    "type": "vtuber",
+    "room": 27465156,
+    "group_name": ""
   },
   {
     "uid": 2081324,
@@ -29415,7 +29450,7 @@
   },
   {
     "uid": 41348614,
-    "name": "维安VA-6月16百天啦",
+    "name": "维安VA-长安冠名版",
     "type": "vtuber",
     "room": 27286086,
     "group_name": ""
@@ -31759,6 +31794,13 @@
     "group_name": "VirtuaReal"
   },
   {
+    "uid": 3493290691267121,
+    "name": "莱斯_momo",
+    "type": "vtuber",
+    "room": 27741965,
+    "group_name": ""
+  },
+  {
     "uid": 62294084,
     "name": "奇米蛋厨",
     "type": "vtuber",
@@ -33807,6 +33849,13 @@
     "name": "软水水",
     "type": "vtuber",
     "room": 23199319,
+    "group_name": ""
+  },
+  {
+    "uid": 3493278013982909,
+    "name": "软白呼呼",
+    "type": "vtuber",
+    "room": 27873521,
     "group_name": ""
   },
   {
@@ -37748,6 +37797,13 @@
     "name": "鹿野葵",
     "type": "vtuber",
     "room": 2900985,
+    "group_name": ""
+  },
+  {
+    "uid": 23636880,
+    "name": "鹿饼干Aloha",
+    "type": "vtuber",
+    "room": 25190596,
     "group_name": ""
   },
   {

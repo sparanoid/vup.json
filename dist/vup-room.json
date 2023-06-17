@@ -8567,6 +8567,13 @@
     "face": "/bfs/face/097a00afc2195707cd0d8474da08c4aaee4696e5.jpg",
     "group_name": "VirtuaReal"
   },
+  "1280923153": {
+    "name": "千悦Chisa",
+    "type": "vtuber",
+    "room_id": 27218368,
+    "face": "/bfs/face/ef838815104a1b24e423b7806e2caec01a465a74.jpg",
+    "group_name": ""
+  },
   "558070433": {
     "name": "千春_Chiharu",
     "type": "vtuber",
@@ -10476,6 +10483,13 @@
     "type": "vtuber",
     "room_id": 26759036,
     "face": "/bfs/face/16b38413aae3c99650cc3c164c05f09b23a0f643.jpg",
+    "group_name": ""
+  },
+  "3493080636328319": {
+    "name": "喵酱nya",
+    "type": "vtuber",
+    "room_id": 26406129,
+    "face": "/bfs/face/7fc2684f71c5e3727689144a7870a6fdb9e96e37.jpg",
     "group_name": ""
   },
   "1085503057": {
@@ -12527,6 +12541,13 @@
     "type": "vtuber",
     "room_id": 22313088,
     "face": "/bfs/face/290ca09ae10ec104f07b003998e3cc05ac81c2ff.jpg",
+    "group_name": ""
+  },
+  "3493293390301322": {
+    "name": "妍宝_doki为俏佳人冠名",
+    "type": "vtuber",
+    "room_id": 27803464,
+    "face": "/bfs/face/ec5dfbd5dd15e1a43da2c15bc7d2aef553807c18.jpg",
     "group_name": ""
   },
   "1250051924": {
@@ -25682,6 +25703,13 @@
     "face": "/bfs/face/38a55cd260961f202dfb048d3a822728604043b0.jpg",
     "group_name": ""
   },
+  "3493277703604876": {
+    "name": "璃烟正在长大ing",
+    "type": "vtuber",
+    "room_id": 27647294,
+    "face": "/bfs/face/f9d2671898607692b3274678d68620c2e9ab0040.jpg",
+    "group_name": ""
+  },
   "331249454": {
     "name": "璃露露・璃露",
     "type": "vtuber",
@@ -26388,6 +26416,13 @@
     "room_id": 199140,
     "face": "/bfs/face/aaebd54eb5e3533ed76029905f5e949910289e3c.jpg",
     "group_name": "P.K.S"
+  },
+  "3493269767981281": {
+    "name": "白瓷梅子汤-plum",
+    "type": "vtuber",
+    "room_id": 27465156,
+    "face": "/bfs/face/4b5a9bf158a2161e49c63b06ea99980faa391661.jpg",
+    "group_name": ""
   },
   "2081324": {
     "name": "白白_Anlessya",
@@ -29414,10 +29449,10 @@
     "group_name": "浅海Project"
   },
   "41348614": {
-    "name": "维安VA-6月16百天啦",
+    "name": "维安VA-长安冠名版",
     "type": "vtuber",
     "room_id": 27286086,
-    "face": "/bfs/face/77fe26ab54e670320373e591f1ab3e00ae2bfd42.jpg",
+    "face": "/bfs/face/184e81b8f23ac62a57a5d7177b1c9066a6d51dc7.jpg",
     "group_name": ""
   },
   "4943067": {
@@ -31758,6 +31793,13 @@
     "face": "/bfs/face/79a9e656b100cc906deec2cda69c0597810f0e84.jpg",
     "group_name": "VirtuaReal"
   },
+  "3493290691267121": {
+    "name": "莱斯_momo",
+    "type": "vtuber",
+    "room_id": 27741965,
+    "face": "/bfs/face/3ddf367ddae39de17851ca64056462aea93a0e66.jpg",
+    "group_name": ""
+  },
   "62294084": {
     "name": "奇米蛋厨",
     "type": "vtuber",
@@ -33809,6 +33851,13 @@
     "face": "/bfs/face/bbc34b1ba601c8006b752c1146a1e57a0d65fde4.jpg",
     "group_name": ""
   },
+  "3493278013982909": {
+    "name": "软白呼呼",
+    "type": "vtuber",
+    "room_id": 27873521,
+    "face": "/bfs/face/26f27b18d57be791cdd7cad09695e144178e0da6.jpg",
+    "group_name": ""
+  },
   "1422451239": {
     "name": "布丁喵Official",
     "type": "vtuber",
@@ -35227,7 +35276,7 @@
     "name": "阿璃_Ali",
     "type": "vtuber",
     "room_id": 287083,
-    "face": "/bfs/face/691a9e6af1042baf22f767e42b0da5bec2748726.jpg",
+    "face": "/bfs/face/4d2afba88c1e1192fae6eb0fb5fe7bca465d129f.jpg",
     "group_name": ""
   },
   "865868": {
@@ -37748,6 +37797,13 @@
     "type": "vtuber",
     "room_id": 2900985,
     "face": "/bfs/face/c726188d5da14107bdf9d9877fa26197cd589276.jpg",
+    "group_name": ""
+  },
+  "23636880": {
+    "name": "鹿饼干Aloha",
+    "type": "vtuber",
+    "room_id": 25190596,
+    "face": "/bfs/face/123d44c917db5a2e0a2ee858bc295412441f42f6.jpg",
     "group_name": ""
   },
   "42407494": {

@@ -11016,6 +11016,15 @@
     "group_name": "VirtuaReal"
   },
   {
+    "uid": 1280923153,
+    "name": "千悦Chisa",
+    "type": "vtuber",
+    "room": 27218368,
+    "face": "/bfs/face/ef838815104a1b24e423b7806e2caec01a465a74.jpg",
+    "sign": "",
+    "group_name": ""
+  },
+  {
     "uid": 558070433,
     "name": "千春_Chiharu",
     "type": "vtuber",
@@ -13473,6 +13482,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493080636328319,
+    "name": "喵酱nya",
+    "type": "vtuber",
+    "room": 26406129,
+    "face": "/bfs/face/7fc2684f71c5e3727689144a7870a6fdb9e96e37.jpg",
+    "sign": "喵酱是从异世界来的兽人少女哦~\n喵屋小铺门牌号：706542907",
+    "group_name": ""
+  },
+  {
     "uid": 1085503057,
     "name": "眼线笔美工刀",
     "type": "vtuber",
@@ -15269,7 +15287,7 @@
     "type": "vtuber",
     "room": 25904954,
     "face": "/bfs/face/7967fc1511d7fa40bd6c12df6ee9db7e663bd530.jpg",
-    "sign": "上学中…Oc是羽蛇神非纯v，歌杂势会配音\n成分复杂：音乐人/声优/VUP\n某音/网易云 同名。",
+    "sign": "上学中…Oc是羽蛇神非纯v，歌杂势会配音\n成分及其复杂：音乐人/声优/VUP等\n某音/网易云 同名。\n搞考斯普雷的小号：岚九才不是你的菜",
     "group_name": ""
   },
   {
@@ -16107,6 +16125,15 @@
     "room": 22313088,
     "face": "/bfs/face/290ca09ae10ec104f07b003998e3cc05ac81c2ff.jpg",
     "sign": "❀₍ ᐢ. .ᐢ ₎现居关西的17岁美少女❀~",
+    "group_name": ""
+  },
+  {
+    "uid": 3493293390301322,
+    "name": "妍宝_doki为俏佳人冠名",
+    "type": "vtuber",
+    "room": 27803464,
+    "face": "/bfs/face/ec5dfbd5dd15e1a43da2c15bc7d2aef553807c18.jpg",
+    "sign": "最美的人鱼藏在深海，最深爱你的人值得等待",
     "group_name": ""
   },
   {
@@ -21101,7 +21128,7 @@
     "type": "vtuber",
     "room": 26336970,
     "face": "/bfs/face/233a61d090eb45de657f0d915e0e54ec7f780ca0.jpg",
-    "sign": "【光年神话·十二宫企划所属】对我的歌声说“yes”或者“汪”~",
+    "sign": "『光年重工』和二老板骑士争夺最强偶像的牛老二！",
     "group_name": "光年神话"
   },
   {
@@ -33021,6 +33048,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493277703604876,
+    "name": "璃烟正在长大ing",
+    "type": "vtuber",
+    "room": 27647294,
+    "face": "/bfs/face/f9d2671898607692b3274678d68620c2e9ab0040.jpg",
+    "sign": "杂谈&游戏势，歌曲随机掉落，直播请看动态表，禁言通知：231126185",
+    "group_name": ""
+  },
+  {
     "uid": 331249454,
     "name": "璃露露・璃露",
     "type": "vtuber",
@@ -33928,6 +33964,15 @@
     "face": "/bfs/face/aaebd54eb5e3533ed76029905f5e949910289e3c.jpg",
     "sign": "建模咨询：2586441646",
     "group_name": "P.K.S"
+  },
+  {
+    "uid": 3493269767981281,
+    "name": "白瓷梅子汤-plum",
+    "type": "vtuber",
+    "room": 27465156,
+    "face": "/bfs/face/4b5a9bf158a2161e49c63b06ea99980faa391661.jpg",
+    "sign": "尚未出道的-孱弱的-个人势 每晚十点半饮茶先 聚集地：764809202 模型来自：泥泥丸子_official ",
+    "group_name": ""
   },
   {
     "uid": 2081324,
@@ -37310,7 +37355,7 @@
     "type": "vtuber",
     "room": 1145005,
     "face": "/bfs/face/765e6951a60bf298d10dcd94ca2bfa2fcb36b049.jpg",
-    "sign": "哇呜/目前是社畜/加班加到麻/最近晚上不累的时候会不定时播播,短期播一周/月底就跑路去天津啦/看到这条简介就多喝水捏",
+    "sign": "哇呜/目前是社畜/最近有些忙,晚上不累的时候会不定时播播,短期播一周/月底就跑路去天津啦/看到这条简介就多喝水捏",
     "group_name": ""
   },
   {
@@ -37819,10 +37864,10 @@
   },
   {
     "uid": 41348614,
-    "name": "维安VA-6月16百天啦",
+    "name": "维安VA-长安冠名版",
     "type": "vtuber",
     "room": 27286086,
-    "face": "/bfs/face/77fe26ab54e670320373e591f1ab3e00ae2bfd42.jpg",
+    "face": "/bfs/face/184e81b8f23ac62a57a5d7177b1c9066a6d51dc7.jpg",
     "sign": "直播时间：白天随缘播，晚上9-累死\n（爱是相互的，陪伴也是）\n立绘画师：﻿@黑夜子QAQ﻿  \n模型师：﻿@蜜汁小朱﻿  \n委托人：﻿@龙西",
     "group_name": ""
   },
@@ -40833,6 +40878,15 @@
     "group_name": "VirtuaReal"
   },
   {
+    "uid": 3493290691267121,
+    "name": "莱斯_momo",
+    "type": "vtuber",
+    "room": 27741965,
+    "face": "/bfs/face/3ddf367ddae39de17851ca64056462aea93a0e66.jpg",
+    "sign": "【破晓社1期生】努力打工修炼的小小恶魔（meimo）",
+    "group_name": ""
+  },
+  {
     "uid": 62294084,
     "name": "奇米蛋厨",
     "type": "vtuber",
@@ -41630,7 +41684,7 @@
     "type": "vtuber",
     "room": 22992234,
     "face": "/bfs/face/feb0672e8d40daf4ee20d4e718674b6a1e30259f.jpg",
-    "sign": "『像橘猫的小狮子』未来一起前行！微博『蕾尔娜呀』商务私信\n",
+    "sign": "『光年重工』的二老板！未来一起前行！商务私信\n",
     "group_name": "光年神话"
   },
   {
@@ -43470,6 +43524,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493278013982909,
+    "name": "软白呼呼",
+    "type": "vtuber",
+    "room": 27873521,
+    "face": "/bfs/face/26f27b18d57be791cdd7cad09695e144178e0da6.jpg",
+    "sign": "喜欢你明目张胆的偏爱\n催眠治愈系小精灵/个人势/up主",
+    "group_name": ""
+  },
+  {
     "uid": 1422451239,
     "name": "布丁喵Official",
     "type": "vtuber",
@@ -45292,7 +45355,7 @@
     "name": "阿璃_Ali",
     "type": "vtuber",
     "room": 287083,
-    "face": "/bfs/face/691a9e6af1042baf22f767e42b0da5bec2748726.jpg",
+    "face": "/bfs/face/4d2afba88c1e1192fae6eb0fb5fe7bca465d129f.jpg",
     "sign": "一只憨憨璃，只会卖萌和撒娇，躺平任rua！",
     "group_name": ""
   },
@@ -48534,6 +48597,15 @@
     "room": 2900985,
     "face": "/bfs/face/c726188d5da14107bdf9d9877fa26197cd589276.jpg",
     "sign": "手工个人势，前葵花星社畜，工作邮箱：kano.aoi.arikara@gmail.com，半次元：鹿野葵aoi",
+    "group_name": ""
+  },
+  {
+    "uid": 23636880,
+    "name": "鹿饼干Aloha",
+    "type": "vtuber",
+    "room": 25190596,
+    "face": "/bfs/face/123d44c917db5a2e0a2ee858bc295412441f42f6.jpg",
+    "sign": "是天狗 午间不定时和晚21-24播播！",
     "group_name": ""
   },
   {
