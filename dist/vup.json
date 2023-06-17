@@ -18423,6 +18423,13 @@
     "face": "/bfs/face/a2b26a383578d78e0232bdb6ebd82e13afb39c11.jpg",
     "group_name": ""
   },
+  "3493137639017238": {
+    "name": "昼歌里Hiru_u",
+    "type": "vtuber",
+    "room": 27798865,
+    "face": "/bfs/face/5d7de4ddc37cbd9cb42ca8745be2a2f059037fa9.jpg",
+    "group_name": ""
+  },
   "484431273": {
     "name": "禁止接触命令",
     "type": "vtuber",
@@ -22677,6 +22684,13 @@
     "type": "vtuber",
     "room": 22692115,
     "face": "/bfs/face/3e9cd521963c5b9e66601a00798ffdb193d065ba.jpg",
+    "group_name": ""
+  },
+  "17898455": {
+    "name": "泡泡糖做酱",
+    "type": "vtuber",
+    "room": 24496501,
+    "face": "/bfs/face/9ebd2c224f53ac2a4f25f4fbcff908880381f919.jpg",
     "group_name": ""
   },
   "33780565": {
@@ -38161,6 +38175,13 @@
     "type": "vtuber",
     "room": 24928063,
     "face": "/bfs/face/992a01f9581d5a7fdef9307087c3e959b8f8b12d.jpg",
+    "group_name": ""
+  },
+  "403799575": {
+    "name": "黛妮的妮",
+    "type": "vtuber",
+    "room": 25872790,
+    "face": "/bfs/face/fb12d6082ddfedcb88612a31250488b13e0f7efb.jpg",
     "group_name": ""
   },
   "1043235231": {
