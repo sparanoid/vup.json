@@ -7650,6 +7650,13 @@
     "face": "/bfs/face/7f444dce8ffc125cd374874d4eaa42ea428436b3.jpg",
     "group_name": ""
   },
+  "3493122224950106": {
+    "name": "冬眠期小鸟",
+    "type": "vtuber",
+    "room_id": 26904541,
+    "face": "/bfs/face/b5274a2f6b7ce78f7a627c80992b131751b2f3f0.jpg",
+    "group_name": ""
+  },
   "12945093": {
     "name": "冬雪沫沫",
     "type": "vtuber",
@@ -22172,7 +22179,7 @@
     "name": "氷猫喵",
     "type": "vtuber",
     "room_id": 3024165,
-    "face": "/bfs/face/80eb7e6463e58464b61c0538268c1c2e12d8dcef.jpg",
+    "face": "/bfs/face/3481cce438e198ea58b3b46975f29f3e25fa4c53.jpg",
     "group_name": ""
   },
   "1844336971": {
