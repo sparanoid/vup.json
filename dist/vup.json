@@ -2331,10 +2331,10 @@
     "group_name": ""
   },
   "136844": {
-    "name": "ukkkkkki",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 1305231,
-    "face": "/bfs/face/644fa9079a4eb1cbc1eb9ba1fd571e8d503d7f19.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "106153312": {
@@ -9628,7 +9628,7 @@
     "name": "吃粽子的大粽子",
     "type": "vtuber",
     "room": 11338847,
-    "face": "/bfs/face/998397df5280f0796081a39cbe55d06b65583795.jpg",
+    "face": "/bfs/face/20efda28e3602e0a33b8e754f735981b8e9a3287.jpg",
     "group_name": "Vi-D"
   },
   "24957521": {
@@ -22225,7 +22225,7 @@
     "group_name": ""
   },
   "3493122510162531": {
-    "name": "吉祥才子之汐娘",
+    "name": "汐娘只贩烟火气",
     "type": "vtuber",
     "room": 27029536,
     "face": "/bfs/face/addd8f00d71fd72fbfb1077a0583a7f9954fa56c.jpg",
