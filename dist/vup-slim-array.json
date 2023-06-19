@@ -14263,7 +14263,7 @@
     "name": "尼芽Niya",
     "type": "vtuber",
     "room": 22243143,
-    "group_name": ""
+    "group_name": "虚数之海"
   },
   {
     "uid": 624252712,
@@ -19696,6 +19696,13 @@
     "type": "vtuber",
     "room": 681838,
     "group_name": ""
+  },
+  {
+    "uid": 3493256853719250,
+    "name": "杰特贝思_Official",
+    "type": "vtuber",
+    "room": 27853268,
+    "group_name": "虚数之海"
   },
   {
     "uid": 1437582453,
@@ -25975,6 +25982,13 @@
     "type": "vtuber",
     "room": 544623,
     "group_name": ""
+  },
+  {
+    "uid": 3461570965277362,
+    "name": "疾风Haya_Official",
+    "type": "vtuber",
+    "room": 26005781,
+    "group_name": "虚数之海"
   },
   {
     "uid": 1729590620,
@@ -32585,6 +32599,13 @@
     "group_name": ""
   },
   {
+    "uid": 3461568937331553,
+    "name": "虚数之海_project",
+    "type": "group",
+    "room": 25910913,
+    "group_name": ""
+  },
+  {
     "uid": 105512032,
     "name": "虚研学园Official",
     "type": "group",
@@ -35537,6 +35558,13 @@
     "type": "vtuber",
     "room": 21008542,
     "group_name": "云光计划"
+  },
+  {
+    "uid": 7937906,
+    "name": "雀雀Paissa",
+    "type": "vtuber",
+    "room": 981522,
+    "group_name": "虚数之海"
   },
   {
     "uid": 523133310,

@@ -14263,7 +14263,7 @@
     "type": "vtuber",
     "room": 22243143,
     "face": "/bfs/face/95671c4595a12d25b09c5d98dc82808512cc917d.jpg",
-    "group_name": ""
+    "group_name": "虚数之海"
   },
   "624252712": {
     "name": "尾丸波尔卡Official",
@@ -19697,6 +19697,13 @@
     "face": "/bfs/face/d709c32b60189a5edbdb159085881e0bbab933fc.jpg",
     "group_name": ""
   },
+  "3493256853719250": {
+    "name": "杰特贝思_Official",
+    "type": "vtuber",
+    "room": 27853268,
+    "face": "/bfs/face/3def55a613b4ade3839eb367564e91524275d8bc.jpg",
+    "group_name": "虚数之海"
+  },
   "1437582453": {
     "name": "東雪蓮Official",
     "type": "vtuber",
@@ -20303,7 +20310,7 @@
     "name": "树礼Suki",
     "type": "vtuber",
     "room": 27578385,
-    "face": "/bfs/face/0911a6015a610b20eefa3779a148e5690cc2e84c.jpg",
+    "face": "/bfs/face/5ee474a81721343315379dafaa97981f3370abb5.jpg",
     "group_name": ""
   },
   "303246676": {
@@ -25975,6 +25982,13 @@
     "room": 544623,
     "face": "/bfs/face/fe5cf411929059e6b4225ec329c2055eab0f252c.jpg",
     "group_name": ""
+  },
+  "3461570965277362": {
+    "name": "疾风Haya_Official",
+    "type": "vtuber",
+    "room": 26005781,
+    "face": "/bfs/face/352619af1df6d7b3258b8cd0f0df4ae1213bc0ec.jpg",
+    "group_name": "虚数之海"
   },
   "1729590620": {
     "name": "病井心爱_OvO",
@@ -32584,6 +32598,13 @@
     "face": "/bfs/face/0b5db9467df44ffbcda7bddc05cadf222330fc0b.jpg",
     "group_name": ""
   },
+  "3461568937331553": {
+    "name": "虚数之海_project",
+    "type": "group",
+    "room": 25910913,
+    "face": "/bfs/face/0448c6cb7e6cec57550d5d145a8f99d13ab25ccb.jpg",
+    "group_name": ""
+  },
   "105512032": {
     "name": "虚研学园Official",
     "type": "group",
@@ -33848,7 +33869,7 @@
     "name": "布丁喵Official",
     "type": "vtuber",
     "room": 22715167,
-    "face": "/bfs/face/e0ce4a7914f1cfe3672e1e6e6e3d906d2b62e06e.jpg",
+    "face": "/bfs/face/a519b78377bfa2fe8443ef972664e1da4c2497a5.jpg",
     "group_name": ""
   },
   "625978": {
@@ -35538,6 +35559,13 @@
     "face": "/bfs/face/4ac1bb25930c54664da298743b77e71d68d60ee7.jpg",
     "group_name": "云光计划"
   },
+  "7937906": {
+    "name": "雀雀Paissa",
+    "type": "vtuber",
+    "room": 981522,
+    "face": "/bfs/face/8c54eff3c4ae5e0e29dc220fe47e8543ba049b7f.jpg",
+    "group_name": "虚数之海"
+  },
   "523133310": {
     "name": "雅丽斯_Channel",
     "type": "vtuber",
@@ -35983,7 +36011,7 @@
     "name": "零-Hanhan",
     "type": "vtuber",
     "room": 23644722,
-    "face": "/bfs/face/b0114b2fe246e369cdfb371e27b5f187ab9f9799.jpg",
+    "face": "/bfs/face/53d33a0f5c91d4e6aca1ba8975122d8d0a0c0886.jpg",
     "group_name": ""
   },
   "3493086437050375": {
