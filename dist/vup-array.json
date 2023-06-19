@@ -23372,7 +23372,7 @@
     "name": "栞栞Shiori",
     "type": "vtuber",
     "room": 26966466,
-    "face": "/bfs/face/07ea7418de1f6b53ad05fd94330249e5658691e5.jpg",
+    "face": "/bfs/face/bf9c507a89033e53e909a0d073be7125caeb551e.jpg",
     "group_name": "VirtuaReal"
   },
   {
@@ -29620,7 +29620,7 @@
     "name": "天堂制造Toys",
     "type": "vtuber",
     "room": 26494647,
-    "face": "/bfs/face/24c176310ee84c4544116a427f125f9488b7af23.jpg",
+    "face": "/bfs/face/bea0d562c8a65d29536e2afab907a3c8de39e4e9.jpg",
     "group_name": ""
   },
   {
@@ -30388,7 +30388,7 @@
     "name": "白银莉莉Official",
     "type": "vtuber",
     "room": 21990617,
-    "face": "/bfs/face/9ff657f7a69d45b011acc5fa1d225cd2ebb4b05d.jpg",
+    "face": "/bfs/face/781c24e2693b93b8d30dc0fb3b520f5be0033d09.jpg",
     "group_name": ""
   },
   {
@@ -38704,6 +38704,14 @@
     "group_name": ""
   },
   {
+    "uid": 255168680,
+    "name": "软绵绵official",
+    "type": "vtuber",
+    "room": 22893213,
+    "face": "/bfs/face/1c4891b879fbe565d3a583130aca4f08a017c441.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1422451239,
     "name": "布丁喵Official",
     "type": "vtuber",
@@ -40172,7 +40180,7 @@
     "name": "阿尔狄娜-Aldina",
     "type": "vtuber",
     "room": 25986072,
-    "face": "/bfs/face/bf63c70f4f0f5868132da56bd025fe48de593c66.jpg",
+    "face": "/bfs/face/a594f423e7ee837ad059d462944d8a3216721805.jpg",
     "group_name": ""
   },
   {
