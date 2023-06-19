@@ -6684,6 +6684,13 @@
     "face": "/bfs/face/4eebf9f01e81ee5b22d5061b2b9f08f248cf85a5.jpg",
     "group_name": ""
   },
+  "1418540128": {
+    "name": "优花璃Yukari",
+    "type": "vtuber",
+    "room_id": 24459179,
+    "face": "/bfs/face/b4fb726826e592bf6ffd2ada312f93fbe3be8fc0.jpg",
+    "group_name": ""
+  },
   "693803974": {
     "name": "优莉酱Channel",
     "type": "vtuber",
@@ -8663,6 +8670,13 @@
     "type": "vtuber",
     "room_id": 26877217,
     "face": "/bfs/face/291068f65604ee0baa3b90f44705608e73f57114.jpg",
+    "group_name": ""
+  },
+  "279148275": {
+    "name": "千穗梨衣_lily",
+    "type": "vtuber",
+    "room_id": 27619512,
+    "face": "/bfs/face/48aefe0c46365a5d64d93a5a757e4dfcaabcb62f.jpg",
     "group_name": ""
   },
   "418293195": {
@@ -14083,6 +14097,13 @@
     "face": "/bfs/face/3ba59169fba6ca1ec3bd817a63ff266343d56052.jpg",
     "group_name": "P.K.S"
   },
+  "3493293191072549": {
+    "name": "小鱼好困zZ",
+    "type": "vtuber",
+    "room_id": 27947103,
+    "face": "/bfs/face/f34fac200e03486df0925f21c94e7533139f4444.jpg",
+    "group_name": ""
+  },
   "619487": {
     "name": "小鳥遊凪_Nagi",
     "type": "vtuber",
@@ -16761,7 +16782,7 @@
     "name": "新恒纪芸",
     "type": "vtuber",
     "room_id": 25929913,
-    "face": "/bfs/face/1bdab22056b032dade2e12a5b87f249490bfd3ff.jpg",
+    "face": "/bfs/face/e4a771cf261d7fc634def381f561ad5b3b3d6682.jpg",
     "group_name": ""
   },
   "1171565532": {
@@ -16790,6 +16811,13 @@
     "type": "group",
     "room_id": 25999918,
     "face": "/bfs/face/dd339754a0eccbb296c6e38dd2be5817dce6bb7e.jpg",
+    "group_name": ""
+  },
+  "3493297850943943": {
+    "name": "新治咲黎",
+    "type": "vtuber",
+    "room_id": 27850839,
+    "face": "/bfs/face/37c46064c888fd092221f14eb5c6bef8fc0ae238.jpg",
     "group_name": ""
   },
   "1523207400": {
@@ -28678,6 +28706,13 @@
     "face": "/bfs/face/496c950cb6b55c679fa316d1b43742e92d7165ed.jpg",
     "group_name": ""
   },
+  "57584675": {
+    "name": "糖酥小废物",
+    "type": "vtuber",
+    "room_id": 12097384,
+    "face": "/bfs/face/93936088cfa4766cf7ee3a923b2058b15f4547a3.jpg",
+    "group_name": ""
+  },
   "176836079": {
     "name": "糯依Noi",
     "type": "vtuber",
@@ -30019,7 +30054,7 @@
     "name": "脆角鲨鲨",
     "type": "vtuber",
     "room_id": 2646668,
-    "face": "/bfs/face/6ec3d1ef4b42cc92385b0b25e3d65be2233345cc.jpg",
+    "face": "/bfs/face/3c70ebb8ebe172a5947895b60ca9d619b77921db.jpg",
     "group_name": ""
   },
   "188888131": {
@@ -35342,6 +35377,13 @@
     "face": "/bfs/face/4ec3389e63c2360257dbbf4c8181ab8ceb32f3ba.jpg",
     "group_name": ""
   },
+  "3493123923642642": {
+    "name": "阿茶又困啦",
+    "type": "vtuber",
+    "room_id": 26929109,
+    "face": "/bfs/face/b9b5c9e523f62c95cf33c6b6f3ec5ecacda24579.jpg",
+    "group_name": ""
+  },
   "1683960760": {
     "name": "阿茶小神仙",
     "type": "vtuber",
@@ -37561,6 +37603,13 @@
     "face": "/bfs/face/03d980aa04f056f6b2b5a3292d0ab3f9762a3cf2.jpg",
     "group_name": ""
   },
+  "3494349673335041": {
+    "name": "鸭鸭不可以涩涩",
+    "type": "vtuber",
+    "room_id": 27877257,
+    "face": "/bfs/face/21255ff873e4a70eccd5dba856e613a75860736c.jpg",
+    "group_name": ""
+  },
   "30924292": {
     "name": "Awing鸮鸮",
     "type": "vtuber",
@@ -37833,6 +37882,13 @@
     "room_id": 2969554,
     "face": "/bfs/face/62165f4ccaba05b56a70ce02642fbada5dd35a95.jpg",
     "group_name": "极光社"
+  },
+  "481011963": {
+    "name": "鹿鹿熬不动",
+    "type": "vtuber",
+    "room_id": 27359427,
+    "face": "/bfs/face/0fd49cc7a1bda8b35d37134719ac9bd32bd24ce1.jpg",
+    "group_name": ""
   },
   "150388": {
     "name": "麓小鹿呀",
