@@ -7734,13 +7734,6 @@
     "face": "/bfs/face/cfe69a71cf765f955a668df1499816c491f6f2bc.jpg",
     "group_name": ""
   },
-  "163508913": {
-    "name": "冴梨Saeri",
-    "type": "vtuber",
-    "room": 22261698,
-    "face": "/bfs/face/beddd082eaf57f4c158c53801dc72e2f2283f097.jpg",
-    "group_name": ""
-  },
   "37170037": {
     "name": "冷幻C",
     "type": "vtuber",
@@ -10422,13 +10415,6 @@
     "face": "/bfs/face/05891e710f2a519275575ed686892b148e07e4ce.jpg",
     "group_name": ""
   },
-  "3493273723209860": {
-    "name": "喵喵睡不醒_",
-    "type": "vtuber",
-    "room": 27739820,
-    "face": "/bfs/face/feec36a71342182a84a4654256891a4bd8880b22.jpg",
-    "group_name": ""
-  },
   "517318139": {
     "name": "喵子Nya_Official",
     "type": "vtuber",
@@ -11051,13 +11037,6 @@
     "room": 27667518,
     "face": "/bfs/face/cdf26e5a98a8077e03f92d7a59b8cddd017e1b10.jpg",
     "group_name": "幻想社Fantas1A"
-  },
-  "487247653": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
   },
   "1940246442": {
     "name": "夏恋ひまわり搬运组",
@@ -34443,7 +34422,7 @@
     "name": "量子猫EH",
     "type": "vtuber",
     "room": 63758,
-    "face": "/bfs/face/45aa218a4562178db67c055d411cf5d338a95790.jpg",
+    "face": "/bfs/face/784cfe51a02008bd318fb35858dbb6b7ecb55aab.jpg",
     "group_name": ""
   },
   "18699270": {
