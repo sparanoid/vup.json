@@ -16792,13 +16792,6 @@
     "face": "/bfs/face/dd339754a0eccbb296c6e38dd2be5817dce6bb7e.jpg",
     "group_name": ""
   },
-  "3461566624172793": {
-    "name": "新治咲黎_",
-    "type": "vtuber",
-    "room": 25860295,
-    "face": "/bfs/face/b5facea5ab059d51af637458f92c06e3391c087a.jpg",
-    "group_name": ""
-  },
   "1523207400": {
     "name": "眠いフクロウ",
     "type": "vtuber",
@@ -27258,7 +27251,7 @@
     "group_name": "KonKoe"
   },
   "3493271848356790": {
-    "name": "眠0_Neruno",
+    "name": "眠铃Neruno",
     "type": "vtuber",
     "room": 27494872,
     "face": "/bfs/face/77d9a7e5682983d70137c4d379a23d308994ce20.jpg",
