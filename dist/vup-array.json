@@ -17112,6 +17112,14 @@
     "group_name": "MZ次元"
   },
   {
+    "uid": 1633779879,
+    "name": "帕莎Pasha",
+    "type": "vtuber",
+    "room": 23368278,
+    "face": "/bfs/face/bc3bc6edd384d7e50c62d0855de9836c773f77af.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 296683456,
     "name": "带袋浣熊Rakky",
     "type": "vtuber",
@@ -35461,6 +35469,14 @@
     "type": "vtuber",
     "room": 209729,
     "face": "/bfs/face/cf1e057924dbb0f781b2b924ffc6f96e416be0a4.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493287673465572,
+    "name": "芽子meiku",
+    "type": "vtuber",
+    "room": 27853680,
+    "face": "/bfs/face/80400073a602734a0f7beae64efc2226bbc23b0b.jpg",
     "group_name": ""
   },
   {
