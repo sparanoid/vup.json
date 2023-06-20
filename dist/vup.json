@@ -9887,7 +9887,7 @@
     "name": "呜绒",
     "type": "vtuber",
     "room": 27352619,
-    "face": "/bfs/face/7a9843b251581f45368e6c58ec0cb0651564895b.jpg",
+    "face": "/bfs/face/4948d02c8014d85564a08cc293a293d1ec5cfbfb.jpg",
     "group_name": ""
   },
   "918958": {
@@ -18780,6 +18780,13 @@
     "face": "/bfs/face/03e8c94eadf66a04ecce46134a0051b5e76a9d39.jpg",
     "group_name": ""
   },
+  "17779099": {
+    "name": "月下undermoon",
+    "type": "vtuber",
+    "room": 11103751,
+    "face": "/bfs/face/c0e8e20c367ad1100110440e612e96611eebd056.jpg",
+    "group_name": ""
+  },
   "1929855385": {
     "name": "月下烁也_Syakuya",
     "type": "vtuber",
@@ -21052,7 +21059,7 @@
     "name": "梦魇Tsuki",
     "type": "vtuber",
     "room": 851181,
-    "face": "/bfs/face/4dd1e705dd3abcc24895637959b5d822ea9fb1d9.jpg",
+    "face": "/bfs/face/member/noface.jpg",
     "group_name": ""
   },
   "1674242827": {
@@ -32528,6 +32535,13 @@
     "face": "/bfs/face/3e68f33f2f0740d483c67f4c09f69f231d6c8992.jpg",
     "group_name": ""
   },
+  "3493086627891923": {
+    "name": "薇菈Veela",
+    "type": "vtuber",
+    "room": 26518091,
+    "face": "/bfs/face/6a5befcd1314fae6f39873225df1d3f82bdba2ff.jpg",
+    "group_name": ""
+  },
   "11013822": {
     "name": "似掉了魔王",
     "type": "vtuber",
@@ -35102,6 +35116,13 @@
     "type": "vtuber",
     "room": 21387511,
     "face": "/bfs/face/fad7332d888c53242c8dfa6ee063b9d1b8f0f3a7.jpg",
+    "group_name": ""
+  },
+  "3493079956851091": {
+    "name": "阿力克斯ALEX",
+    "type": "vtuber",
+    "room": 26386397,
+    "face": "/bfs/face/b9529fc3e2c3e3fa1b49bb35a86fcd33266cb668.jpg",
     "group_name": ""
   },
   "1408868907": {
