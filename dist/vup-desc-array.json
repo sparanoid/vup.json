@@ -2997,15 +2997,6 @@
     "group_name": ""
   },
   {
-    "uid": 136844,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
-  {
     "uid": 106153312,
     "name": "RInaTA_6",
     "type": "vtuber",
@@ -4802,7 +4793,7 @@
     "type": "vtuber",
     "room": 23626809,
     "face": "/bfs/face/eb5e90b499cbf7abe60886ef563110ab60d1d535.jpg",
-    "sign": "谢谢",
+    "sign": "",
     "group_name": ""
   },
   {
@@ -6629,7 +6620,7 @@
     "type": "vtuber",
     "room": 22861661,
     "face": "/bfs/face/3ef721bc677d35157a71c0149c5b1ab024ed7ccf.jpg",
-    "sign": "追求自由的人！明日方舟主播/游戏制作人。商务合作请私信。",
+    "sign": "追求自由的人！明日方舟主播/游戏制作人/日本留学生。商务合作请私信。",
     "group_name": "MZ次元"
   },
   {
@@ -7366,7 +7357,7 @@
     "name": "乔菟菟QwQ",
     "type": "vtuber",
     "room": 27740232,
-    "face": "/bfs/face/fb1ab2bca5513230b3024526b126be3e5a4a5014.jpg",
+    "face": "/bfs/face/9fffe8afe479d6faeac69e7c498bcaa557494eff.jpg",
     "sign": "",
     "group_name": ""
   },
@@ -7591,7 +7582,7 @@
     "name": "于川流丹",
     "type": "vtuber",
     "room": 13993127,
-    "face": "/bfs/face/2b6a601b07ed2be34288a9ec11da637af897d900.jpg",
+    "face": "/bfs/face/8adcb86284012b1c9569eb058376b2c508119078.jpg",
     "sign": "AW$L厂牌 ✨虚拟偶像制作人✨虚拟UP✨音乐✨美术✨娱乐✨",
     "group_name": "winks"
   },
@@ -11327,7 +11318,7 @@
     "type": "vtuber",
     "room": 22995913,
     "face": "/bfs/face/7a74fd58ab5a7c1fec73a26b83645d7a460c03e7.jpg",
-    "sign": "Future Land所属||",
+    "sign": "Future Land所属||现充属性大爆发咯",
     "group_name": ""
   },
   {
@@ -13055,7 +13046,7 @@
     "type": "vtuber",
     "room": 12443363,
     "face": "/bfs/face/ea74687985eb7aea7750ab3f89d7eb8b2e71ecc7.jpg",
-    "sign": "一只快乐的社畜，主坑FF14/FGO/舟/白夜/农。",
+    "sign": "一只快乐的社畜，主坑FF14/FGO/舟/白夜。",
     "group_name": "风云社"
   },
   {
@@ -28652,7 +28643,7 @@
     "type": "vtuber",
     "room": 514275,
     "face": "/bfs/face/a62118814bfcc7e19be0568ad0fd4981a9cf2539.jpg",
-    "sign": "环泰平洋企划所属   敬热爱，敬自由，敬创作不死",
+    "sign": "环泰平洋企划所属\n各位、初次见面、又或者是好久不见",
     "group_name": ""
   },
   {
@@ -35141,7 +35132,7 @@
     "type": "vtuber",
     "room": 5667763,
     "face": "/bfs/face/6f33a192e9ab516832f7e8416e125de49bfa4c3a.jpg",
-    "sign": "【档期到六月】//米画师：矢泷YATAKI",
+    "sign": "【档期到8月】//米画师：矢泷YATAKI",
     "group_name": "V_G研究所"
   },
   {
@@ -35275,7 +35266,7 @@
     "name": "碎岁_cheers",
     "type": "vtuber",
     "room": 27107097,
-    "face": "/bfs/face/24081f2d72a4d9dd629609476e730cfc74eff1ef.jpg",
+    "face": "/bfs/face/8a40b253cb059d1491488e3e92585e1129bda724.jpg",
     "sign": "嘻嘻，人类～快坠入人鱼的陷阱吧～\n直播时间：每晚九点到十二点 白天随缘出现",
     "group_name": ""
   },
@@ -40216,7 +40207,7 @@
     "name": "䀳䀳䀳",
     "type": "vtuber",
     "room": 3916035,
-    "face": "/bfs/face/8f4f9cdc2287728b7d88b7dfefd0c469ed1a8249.jpg",
+    "face": "/bfs/face/6aa5ce81d08b2cfd3d9ea0e1e110d8fa85aa1ae0.jpg",
     "sign": "",
     "group_name": ""
   },
@@ -44167,7 +44158,7 @@
     "name": "RaiS_X",
     "type": "vtuber",
     "room": 12536829,
-    "face": "/bfs/face/ccb959b64501410c5de8a73da4c6466e1f88443d.jpg",
+    "face": "/bfs/face/e4605a5b73d20e1ce22b2ee27a7e14b42fbce91e.jpg",
     "sign": "//虚拟现实潜入者. 下定决心，不怕牺牲，排除万难，去取得胜利。",
     "group_name": "Vi-D"
   },
@@ -47912,7 +47903,7 @@
     "type": "vtuber",
     "room": 21195828,
     "face": "/bfs/face/74bcece16c77d8036da0fa3ab8955591b241ac17.jpg",
-    "sign": "Your Friend Hooxi Kun! 超级反派！不只是虚拟主播！也是炒作天才！",
+    "sign": "",
     "group_name": ""
   },
   {

@@ -2664,14 +2664,6 @@
     "group_name": ""
   },
   {
-    "uid": 136844,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  {
     "uid": 106153312,
     "name": "RInaTA_6",
     "type": "vtuber",
@@ -6548,7 +6540,7 @@
     "name": "乔菟菟QwQ",
     "type": "vtuber",
     "room": 27740232,
-    "face": "/bfs/face/fb1ab2bca5513230b3024526b126be3e5a4a5014.jpg",
+    "face": "/bfs/face/9fffe8afe479d6faeac69e7c498bcaa557494eff.jpg",
     "group_name": ""
   },
   {
@@ -6748,7 +6740,7 @@
     "name": "于川流丹",
     "type": "vtuber",
     "room": 13993127,
-    "face": "/bfs/face/2b6a601b07ed2be34288a9ec11da637af897d900.jpg",
+    "face": "/bfs/face/8adcb86284012b1c9569eb058376b2c508119078.jpg",
     "group_name": "winks"
   },
   {
@@ -31356,7 +31348,7 @@
     "name": "碎岁_cheers",
     "type": "vtuber",
     "room": 27107097,
-    "face": "/bfs/face/24081f2d72a4d9dd629609476e730cfc74eff1ef.jpg",
+    "face": "/bfs/face/8a40b253cb059d1491488e3e92585e1129bda724.jpg",
     "group_name": ""
   },
   {
@@ -35748,7 +35740,7 @@
     "name": "䀳䀳䀳",
     "type": "vtuber",
     "room": 3916035,
-    "face": "/bfs/face/8f4f9cdc2287728b7d88b7dfefd0c469ed1a8249.jpg",
+    "face": "/bfs/face/6aa5ce81d08b2cfd3d9ea0e1e110d8fa85aa1ae0.jpg",
     "group_name": ""
   },
   {
@@ -39260,7 +39252,7 @@
     "name": "RaiS_X",
     "type": "vtuber",
     "room": 12536829,
-    "face": "/bfs/face/ccb959b64501410c5de8a73da4c6466e1f88443d.jpg",
+    "face": "/bfs/face/e4605a5b73d20e1ce22b2ee27a7e14b42fbce91e.jpg",
     "group_name": "Vi-D"
   },
   {
