@@ -2696,14 +2696,6 @@
     "group_name": ""
   },
   {
-    "uid": 2304086,
-    "name": "shugen",
-    "type": "vtuber",
-    "room": 912226,
-    "face": "/bfs/face/c14360f12cf183287d8c0562ced414dddec39b87.png",
-    "group_name": ""
-  },
-  {
     "uid": 5430004,
     "name": "Rosalin-8-",
     "type": "vtuber",
@@ -17053,14 +17045,6 @@
     "type": "vtuber",
     "room": 767107,
     "face": "/bfs/face/f618be0daef50b778dbf1e81abd287fbba2b8ec0.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 1089985164,
-    "name": "rtetyrfg",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/bfs/face/ca194bf07dafc791531b578b24aeb7f1ce4ebf03.jpg",
     "group_name": ""
   },
   {
@@ -39516,7 +39500,7 @@
     "name": "超极巨里里桉",
     "type": "vtuber",
     "room": 1654233,
-    "face": "/bfs/face/e3d52f70aab5a13dd21f0bc77fc4b8cd1a2a97c1.jpg",
+    "face": "/bfs/face/fcd67187bed9bf8d9f05195c6ce50003fc5b40d6.jpg",
     "group_name": "虚研学园"
   },
   {
