@@ -6562,7 +6562,7 @@
     "name": "伊莉莎Elisa",
     "type": "vtuber",
     "room": 27701872,
-    "face": "/bfs/face/032e86d0ee90d50f471d73d4555a2001d10dc8a2.jpg",
+    "face": "/bfs/face/94e0341461b5671f39ff559bd38795666bfee004.jpg",
     "group_name": ""
   },
   "11137181": {
@@ -21202,6 +21202,13 @@
     "face": "/bfs/face/23bc95b565cf9ea60525ceb557cd940ed0b4ebc3.jpg",
     "group_name": ""
   },
+  "321203300": {
+    "name": "森妮Senni",
+    "type": "vtuber",
+    "room": 10889765,
+    "face": "/bfs/face/c8d075b92144afa3ca3aebd6e1805ab40b2b0e71.jpg",
+    "group_name": ""
+  },
   "1544653198": {
     "name": "森嶋桃子",
     "type": "vtuber",
@@ -26508,6 +26515,13 @@
     "face": "/bfs/face/6251b6ef8226f2e9abb8f5e4a851da24754340e7.jpg",
     "group_name": "P-SP"
   },
+  "3493269793146906": {
+    "name": "白禾遥",
+    "type": "vtuber",
+    "room": 27922380,
+    "face": "/bfs/face/5528b493a0ac88df3fff92bd996072b7ab43ab32.jpg",
+    "group_name": ""
+  },
   "686216575": {
     "name": "白给兽的小手帕",
     "type": "vtuber",
@@ -27632,7 +27646,7 @@
     "name": "神咲乃希NOKi",
     "type": "vtuber",
     "room": 915110,
-    "face": "/bfs/face/5ff5483205e6e5261c2f761cc1fcc738d7721cd0.jpg",
+    "face": "/bfs/face/a6119719ef6c9145a37da5580b28ca163142eecf.jpg",
     "group_name": ""
   },
   "157330863": {
@@ -29041,6 +29055,13 @@
     "room": 21302479,
     "face": "/bfs/face/cf23495d3c01b93dd0c15fa24c24872f9b54d5f8.jpg",
     "group_name": "NIJISANJI"
+  },
+  "1694725292": {
+    "name": "繁星梦寐",
+    "type": "vtuber",
+    "room": 26222507,
+    "face": "/bfs/face/d270524618fc6edf5b12aa1a179ddff7b02c5bb0.jpg",
+    "group_name": ""
   },
   "80387576": {
     "name": "织田信姬official",
@@ -32525,7 +32546,7 @@
     "name": "薇拉_Xaviera",
     "type": "vtuber",
     "room": 23364521,
-    "face": "/bfs/face/3e68f33f2f0740d483c67f4c09f69f231d6c8992.jpg",
+    "face": "/bfs/face/4e3d57dd8e8c6f5413a6dbce9764a164154f1486.jpg",
     "group_name": ""
   },
   "3493086627891923": {
@@ -33219,6 +33240,13 @@
     "type": "vtuber",
     "room": 23965951,
     "face": "/bfs/face/3fafd87c07e679b8b57ce89efa92306252549c50.jpg",
+    "group_name": ""
+  },
+  "3493285251255202": {
+    "name": "许愿羚Oops",
+    "type": "vtuber",
+    "room": 27701756,
+    "face": "/bfs/face/600abdc5f4379f23818ed70ba3270e22810a3a96.jpg",
     "group_name": ""
   },
   "10293305": {
