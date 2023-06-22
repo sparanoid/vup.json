@@ -7514,7 +7514,7 @@
     "name": "兔籽鲸",
     "type": "vtuber",
     "room": 26497866,
-    "face": "/bfs/face/e22f1058be24f0fbf5b1205e76a9219a088edae7.jpg",
+    "face": "/bfs/face/70e412cbb63275b92dd375b01bdf089fe2186d20.jpg",
     "group_name": ""
   },
   "23657606": {
@@ -13681,7 +13681,7 @@
     "name": "宋三岁sss",
     "type": "vtuber",
     "room": 515759,
-    "face": "/bfs/face/04aad6ff326d377c82f9dc6b99d5b0d35312e86e.jpg",
+    "face": "/bfs/face/c7791f865d4e0050d0571609e3090e99d6559930.jpg",
     "group_name": "LepusLive"
   },
   "809154": {
@@ -16810,7 +16810,7 @@
     "name": "想不长肉的喵小泽",
     "type": "vtuber",
     "room": 23296355,
-    "face": "/bfs/face/45fb00f9de5f38d9d62453491ba293cba899fb70.jpg",
+    "face": "/bfs/face/1400f2d4d1875719741feec14244316334e28846.jpg",
     "group_name": ""
   },
   "359080356": {
@@ -18413,7 +18413,7 @@
     "name": "星海聆音",
     "type": "vtuber",
     "room": 24008276,
-    "face": "/bfs/face/86c1bcdd6d7287bffb98de3b7c63d72885ef1212.jpg",
+    "face": "/bfs/face/3e86bb800f8d6eba3c22ab8b54b19e8c575b94f9.jpg",
     "group_name": ""
   },
   "3493075143886938": {
@@ -28826,10 +28826,10 @@
     "group_name": ""
   },
   "1483935022": {
-    "name": "神优优yuu",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 23787852,
-    "face": "/bfs/face/5e3dda57e659b1568897454c67bef24df2507183.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3432647": {
