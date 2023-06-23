@@ -6083,6 +6083,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493132100438694,
+    "name": "云喵Yummy",
+    "type": "vtuber",
+    "room": 27945928,
+    "group_name": ""
+  },
+  {
     "uid": 392162998,
     "name": "云团fuwa",
     "type": "vtuber",
@@ -6718,6 +6725,13 @@
     "type": "vtuber",
     "room": 9173851,
     "group_name": "英灵殿ValhallaClub"
+  },
+  {
+    "uid": 3493286914296565,
+    "name": "伊波inami",
+    "type": "vtuber",
+    "room": 27697110,
+    "group_name": ""
   },
   {
     "uid": 3493140216417245,
@@ -15376,6 +15390,13 @@
     "name": "嶌永爱娜Official",
     "type": "vtuber",
     "room": 22697777,
+    "group_name": ""
+  },
+  {
+    "uid": 3493128027769580,
+    "name": "川井晶Akira",
+    "type": "vtuber",
+    "room": 27049977,
     "group_name": ""
   },
   {
@@ -25445,6 +25466,13 @@
     "group_name": "NornsProject"
   },
   {
+    "uid": 514416148,
+    "name": "火锅Asahi",
+    "type": "vtuber",
+    "room": 26546051,
+    "group_name": ""
+  },
+  {
     "uid": 22081435,
     "name": "灯侨呀",
     "type": "vtuber",
@@ -29467,6 +29495,13 @@
     "name": "天国的莉莉",
     "type": "vtuber",
     "room": 4617224,
+    "group_name": ""
+  },
+  {
+    "uid": 3494353278339242,
+    "name": "神山饭团",
+    "type": "vtuber",
+    "room": 27926070,
     "group_name": ""
   },
   {

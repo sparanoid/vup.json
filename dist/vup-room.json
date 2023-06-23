@@ -6082,6 +6082,13 @@
     "face": "/bfs/face/b66c1c75d2b59cc756d2232278e2420275b71da7.jpg",
     "group_name": ""
   },
+  "3493132100438694": {
+    "name": "云喵Yummy",
+    "type": "vtuber",
+    "room_id": 27945928,
+    "face": "/bfs/face/2cf684ec8f23527bc39d5ab2d0cc69665cd7819b.jpg",
+    "group_name": ""
+  },
   "392162998": {
     "name": "云团fuwa",
     "type": "vtuber",
@@ -6718,6 +6725,13 @@
     "room_id": 9173851,
     "face": "/bfs/face/1019b361de153bc953c841af3a7f9616a6cf73e2.jpg",
     "group_name": "英灵殿ValhallaClub"
+  },
+  "3493286914296565": {
+    "name": "伊波inami",
+    "type": "vtuber",
+    "room_id": 27697110,
+    "face": "/bfs/face/bf2f0fcbe1aa2a6ac2ac45787a30ec505d8900fd.jpg",
+    "group_name": ""
   },
   "3493140216417245": {
     "name": "伊泽姆Izem",
@@ -14367,7 +14381,7 @@
     "name": "小尾巴七饭",
     "type": "vtuber",
     "room_id": 25175443,
-    "face": "/bfs/face/a79ef198e864fa6851182fb86f0aa3987a9c1350.jpg",
+    "face": "/bfs/face/1b6f3dcac47d5087abb1c9b6e4a6a539a8c3368b.jpg",
     "group_name": "MUGEN LIVE"
   },
   "302464013": {
@@ -15376,6 +15390,13 @@
     "type": "vtuber",
     "room_id": 22697777,
     "face": "/bfs/face/4da7e632697fa7913551699d7c1051021e723747.jpg",
+    "group_name": ""
+  },
+  "3493128027769580": {
+    "name": "川井晶Akira",
+    "type": "vtuber",
+    "room_id": 27049977,
+    "face": "/bfs/face/eb465ae103c1028e41426b5fb79e8347604058f7.jpg",
     "group_name": ""
   },
   "9528430": {
@@ -21955,7 +21976,7 @@
     "name": "桃沢白夜Mmswhakuya",
     "type": "vtuber",
     "room_id": 35064,
-    "face": "/bfs/face/82aaa3f1b2ca99a966b89da9a45cb45da2bec544.jpg",
+    "face": "/bfs/face/d9c8698135d49eebe9d3395e3039fb4553db7a89.jpg",
     "group_name": "Lounge_LUTUBO"
   },
   "321476170": {
@@ -25443,6 +25464,13 @@
     "room_id": 21978104,
     "face": "/bfs/face/3c5f96775ca8056f6f432ceb308405091115fb38.jpg",
     "group_name": "NornsProject"
+  },
+  "514416148": {
+    "name": "火锅Asahi",
+    "type": "vtuber",
+    "room_id": 26546051,
+    "face": "/bfs/face/25fed851c2e5f41e34b9ddd53fa67142d9adfbe2.jpg",
+    "group_name": ""
   },
   "22081435": {
     "name": "灯侨呀",
@@ -29467,6 +29495,13 @@
     "type": "vtuber",
     "room_id": 4617224,
     "face": "/bfs/face/47c6a691fbdc378410e9d6b5c01568c572590c5a.jpg",
+    "group_name": ""
+  },
+  "3494353278339242": {
+    "name": "神山饭团",
+    "type": "vtuber",
+    "room_id": 27926070,
+    "face": "/bfs/face/62d5285a0c80b932cc51e5923f9f9756d4f58d25.jpg",
     "group_name": ""
   },
   "1060939035": {
@@ -34324,7 +34359,7 @@
     "name": "蒂亚_Thyia",
     "type": "vtuber",
     "room_id": 27578871,
-    "face": "/bfs/face/b9b53b9544787881f53a29d41d3e75ba19aaddd5.jpg",
+    "face": "/bfs/face/9cf4658d229868d32565a4bc2a30bb2e1b047364.jpg",
     "group_name": ""
   },
   "503820721": {
