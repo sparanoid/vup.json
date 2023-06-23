@@ -1960,6 +1960,14 @@
     "group_name": ""
   },
   {
+    "uid": 1419041175,
+    "name": "Momus-channel",
+    "type": "vtuber",
+    "room": 25242627,
+    "face": "/bfs/face/233db87965e06789fe1cb2cdd30880bf40e52ade.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 473409,
     "name": "Monoise",
     "type": "vtuber",
