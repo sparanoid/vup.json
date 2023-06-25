@@ -19418,10 +19418,10 @@
     "group_name": ""
   },
   "446409293": {
-    "name": "时音Official",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 21517635,
-    "face": "/bfs/face/8a385c72186d59221498a919ab94ddc14245b8c2.jpg",
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "611116531": {
@@ -29694,7 +29694,7 @@
     "group_name": ""
   },
   "1851241717": {
-    "name": "白小糖包-绘宝冠名",
+    "name": "白小糖包",
     "type": "vtuber",
     "room": 27497456,
     "face": "/bfs/face/c824c4a26fd02fca4e3ae0bb4f711e19203d1336.jpg",
@@ -35745,7 +35745,7 @@
     "name": "草薙葱Negi",
     "type": "vtuber",
     "room": 27334,
-    "face": "/bfs/face/caaec7bd5ed87b0462c6d4e4cc4eaa568879db80.jpg",
+    "face": "/bfs/face/4b24e0f7da32ac62859e5badf1c339caf347f49b.jpg",
     "group_name": ""
   },
   "32946464": {
