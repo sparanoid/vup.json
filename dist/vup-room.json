@@ -3860,7 +3860,7 @@
     "name": "Kasa今天秃头没",
     "type": "vtuber",
     "room_id": 3353260,
-    "face": "/bfs/face/1ba292df8b4530085f26061e044982db1ad13762.webp",
+    "face": "/bfs/face/77421f8e00ad90fdcbe2043461f9cd364e936c25.jpg",
     "group_name": ""
   },
   "437786939": {
@@ -8501,7 +8501,7 @@
     "name": "八神想-Official",
     "type": "vtuber",
     "room_id": 813971,
-    "face": "/bfs/face/a26beb3b1a11b7ffae6410b14d9d6ae89121a3c5.jpg",
+    "face": "/bfs/face/d00d59e02ffe237e57b5cdcc9b1376371fd4d642.jpg",
     "group_name": ""
   },
   "400759756": {
@@ -29462,6 +29462,13 @@
     "face": "/bfs/face/0778d372dc1bf7cb6197bc86691b9251cbd9ffba.jpg",
     "group_name": ""
   },
+  "1022470358": {
+    "name": "犬生凉太",
+    "type": "vtuber",
+    "room_id": 24458508,
+    "face": "/bfs/face/6b026b2ca8c7515fe0f206ac4f3c783f6f05fd29.jpg",
+    "group_name": ""
+  },
   "1795978925": {
     "name": "犬神犬汰",
     "type": "vtuber",
@@ -31811,7 +31818,7 @@
     "name": "薄荷酱脆脆薯角",
     "type": "vtuber",
     "room_id": 1269086,
-    "face": "/bfs/face/3f360e7dbc5ea1c2a9501822961bcc069d60d7be.jpg",
+    "face": "/bfs/face/07986eeabaa1091b512dabc428658e41c8a3676a.jpg",
     "group_name": ""
   },
   "549256707": {
