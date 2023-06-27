@@ -12536,6 +12536,14 @@
     "group_name": "猫邮社"
   },
   {
+    "uid": 1913458182,
+    "name": "可依koyi",
+    "type": "vtuber",
+    "room": 26644232,
+    "face": "/bfs/face/62d2e4f4dd42748d4100584c45cd0a780972fae6.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 481169,
     "name": "可儿！",
     "type": "vtuber",
@@ -21096,6 +21104,14 @@
     "group_name": "Providence"
   },
   {
+    "uid": 3493146725976455,
+    "name": "弗明奈特INSANIS",
+    "type": "vtuber",
+    "room": 27356515,
+    "face": "/bfs/face/21088359055e05d071145e71ea0f3379f674b63c.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 4885926,
     "name": "弗雷米_Official",
     "type": "vtuber",
@@ -22846,6 +22862,14 @@
     "room": 26015,
     "face": "/bfs/face/f991f7861a26f322a79ceb941f8e72071434599e.jpg",
     "group_name": "妖灵project"
+  },
+  {
+    "uid": 3493143928375746,
+    "name": "提尔忒Thelta",
+    "type": "vtuber",
+    "room": 27318937,
+    "face": "/bfs/face/56859af1fd89de1abf4a381a10f597d79d4ef8a2.jpg",
+    "group_name": ""
   },
   {
     "uid": 694327823,
@@ -28296,6 +28320,14 @@
     "group_name": ""
   },
   {
+    "uid": 756650,
+    "name": "桃咕咚Official",
+    "type": "vtuber",
+    "room": 146497,
+    "face": "/bfs/face/d154ffab4ba1827e1e4fab7b8edc40f8f045b51a.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 313064642,
     "name": "桃唯Yui",
     "type": "vtuber",
@@ -29592,6 +29624,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493256839039159,
+    "name": "樱井白桃Momoka",
+    "type": "vtuber",
+    "room": 27337494,
+    "face": "/bfs/face/404551473196668b20bf8a0d53ef45af5421b624.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 375742421,
     "name": "桜井花咲Official",
     "type": "vtuber",
@@ -30717,6 +30757,14 @@
     "type": "vtuber",
     "room": 22887675,
     "face": "/bfs/face/0ef5a00187c66ff4c8aab5c68a84739678f45a15.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 6064698,
+    "name": "汐雲飛鳥Asuka",
+    "type": "vtuber",
+    "room": 3351255,
+    "face": "/bfs/face/9416249b6574e1c6c98db8737d5f9f73f2c3bd21.jpg",
     "group_name": ""
   },
   {
@@ -33860,7 +33908,7 @@
     "name": "凌叁woldf_Channel",
     "type": "vtuber",
     "room": 2785512,
-    "face": "/bfs/face/5a31b32123a2f6d6ef15f6f11463bb280fab037c.jpg",
+    "face": "/bfs/face/8d9acae4575498eed97e4aac9c158267ac8296d5.jpg",
     "group_name": ""
   },
   {
@@ -38125,6 +38173,14 @@
     "type": "vtuber",
     "room": 26067771,
     "face": "/bfs/face/91dc9adf35362a0f7445228104df3b7b5d3a419d.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3461582650608292,
+    "name": "神樂_Cassis",
+    "type": "vtuber",
+    "room": 26274639,
+    "face": "/bfs/face/7596b421aea100f62290fd02b80e364168dbba75.jpg",
     "group_name": ""
   },
   {
@@ -42408,6 +42464,14 @@
     "group_name": ""
   },
   {
+    "uid": 4328621,
+    "name": "花猫子Channel",
+    "type": "vtuber",
+    "room": 27096895,
+    "face": "/bfs/face/ab7ad8e35d24a7dfce230940a6461a1109f0df24.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 13684315,
     "name": "花田暁_Official",
     "type": "vtuber",
@@ -44200,6 +44264,14 @@
     "group_name": ""
   },
   {
+    "uid": 2112517,
+    "name": "萧温Sherwin",
+    "type": "vtuber",
+    "room": 19012,
+    "face": "/bfs/face/0fb87722756f4e929577647109926a682620bc03.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3493268895566182,
     "name": "萧珑宝",
     "type": "vtuber",
@@ -44457,7 +44529,7 @@
   },
   {
     "uid": 516410245,
-    "name": "蒙娜-6月25号生日版",
+    "name": "蒙娜-Mona",
     "type": "vtuber",
     "room": 27541063,
     "face": "/bfs/face/e35e14d1a4d77fdf6afe7490fe58a9d6f0eb5324.jpg",
@@ -50032,6 +50104,14 @@
     "group_name": ""
   },
   {
+    "uid": 8908944,
+    "name": "霖汐Lin",
+    "type": "vtuber",
+    "room": 3843462,
+    "face": "/bfs/face/9182de2f3595b18f675395d4b4230a1bc7107f19.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3493276877327200,
     "name": "霖霖院长",
     "type": "vtuber",
@@ -52598,6 +52678,14 @@
     "room": 78080,
     "face": "/bfs/face/2ee89927c3eba42bda7330f5ed46815604687f00.jpg",
     "group_name": "V_G研究所"
+  },
+  {
+    "uid": 84780271,
+    "name": "黑泽莉乃Official",
+    "type": "vtuber",
+    "room": 25781391,
+    "face": "/bfs/face/e9f468a470f6f8b1b78d86b01cc3bfdb50f14c5c.jpg",
+    "group_name": ""
   },
   {
     "uid": 922573,
