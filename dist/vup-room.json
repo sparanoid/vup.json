@@ -19907,6 +19907,13 @@
     "face": "/bfs/face/10fbad8f1a32b0321e3096313f8786e823383af2.jpg",
     "group_name": ""
   },
+  "1568416362": {
+    "name": "拉瑞克斯LaRics",
+    "type": "vtuber",
+    "room_id": 27142575,
+    "face": "/bfs/face/63b48cee123b053d3e5c09b07193d94f23671d4c.jpg",
+    "group_name": ""
+  },
   "86233678": {
     "name": "露尼亚Endias",
     "type": "vtuber",
@@ -20866,6 +20873,13 @@
     "face": "/bfs/face/6fcaba40c38c7b19df4549f52e909aa9e79ced96.jpg",
     "group_name": ""
   },
+  "11674098": {
+    "name": "星哲哲Astra",
+    "type": "vtuber",
+    "room_id": 1662116,
+    "face": "/bfs/face/79d2ab3d60ce0acc03584eb440a44541f3e10a16.jpg",
+    "group_name": ""
+  },
   "846128": {
     "name": "星园花音搬运",
     "type": "vtuber",
@@ -21347,6 +21361,13 @@
     "type": "vtuber",
     "room_id": 395334,
     "face": "/bfs/face/1c02b7915be2a66a5ab29f8e2cc753e01291f331.jpg",
+    "group_name": ""
+  },
+  "2023993367": {
+    "name": "星白hoshiro",
+    "type": "vtuber",
+    "room_id": 27318168,
+    "face": "/bfs/face/768a59aee92cb192c58833584306f022d452d592.jpg",
     "group_name": ""
   },
   "401315430": {
@@ -35335,6 +35356,13 @@
     "face": "/bfs/face/3c8b4d19b9d6e53f1143c7b7745b60854c1b5f26.jpg",
     "group_name": "童猫会"
   },
+  "86471108": {
+    "name": "绫月乃萝",
+    "type": "vtuber",
+    "room_id": 3790472,
+    "face": "/bfs/face/592cff4b7c3c875e5f3f31a8be5b086868e66cd4.jpg",
+    "group_name": ""
+  },
   "5986897": {
     "name": "绫月汐Shio",
     "type": "vtuber",
@@ -42958,6 +42986,13 @@
     "face": "/bfs/face/57d85d78560e74baa3c7399284bd893dccda84ac.jpg",
     "group_name": ""
   },
+  "479834349": {
+    "name": "陆玖sup",
+    "type": "vtuber",
+    "room_id": 25035982,
+    "face": "/bfs/face/097761accd124f9c22690b388787243aaa36d6af.jpg",
+    "group_name": ""
+  },
   "30962669": {
     "name": "陆琛小攻猫z",
     "type": "vtuber",
@@ -43755,6 +43790,13 @@
     "room_id": 23805029,
     "face": "/bfs/face/57f7d96aef1f8b649bb0b5704a2567df9a929eee.jpg",
     "group_name": "VirtuaReal"
+  },
+  "1083699315": {
+    "name": "雾笛蕾奈Channel",
+    "type": "vtuber",
+    "room_id": 23904464,
+    "face": "/bfs/face/d0adae3a04c9ba8611f23ae722467d08579370b9.jpg",
+    "group_name": ""
   },
   "700887835": {
     "name": "雾蛇苏幕遮",
