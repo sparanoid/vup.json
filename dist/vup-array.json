@@ -13040,6 +13040,14 @@
     "group_name": "极光社"
   },
   {
+    "uid": 85563631,
+    "name": "吵_吵",
+    "type": "vtuber",
+    "room": 4816366,
+    "face": "/bfs/face/6b6ddc4f0c71b0a585fec0c1f04eafef78546029.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 734133,
     "name": "吸溜君",
     "type": "vtuber",
@@ -24637,6 +24645,14 @@
     "type": "vtuber",
     "room": 40195,
     "face": "/bfs/face/2161d6f258ee910ff3b0cdb957c3a6e31a8180f3.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493275845528550,
+    "name": "星辉Rastar",
+    "type": "vtuber",
+    "room": 27667715,
+    "face": "/bfs/face/c8a756367fa877ae9b81054ea0363d659699cd18.jpg",
     "group_name": ""
   },
   {
@@ -40856,6 +40872,14 @@
     "group_name": "空想岛"
   },
   {
+    "uid": 1357705819,
+    "name": "羽田依",
+    "type": "vtuber",
+    "room": 23123206,
+    "face": "/bfs/face/6917b3b31d914888813fd56460eadc05dfcf90ab.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1202562007,
     "name": "76483443866556",
     "type": "vtuber",
@@ -52822,6 +52846,14 @@
     "room": 140953,
     "face": "/bfs/face/505b03475cf9f396917a095fdf424a71a341e2a8.jpg",
     "group_name": "Vi-D"
+  },
+  {
+    "uid": 665706,
+    "name": "龙斩樱月",
+    "type": "vtuber",
+    "room": 834181,
+    "face": "/bfs/face/8a62640b9e5e856e30ecdd2724488ea2f05a230a.jpg",
+    "group_name": ""
   },
   {
     "uid": 3493136347170901,
