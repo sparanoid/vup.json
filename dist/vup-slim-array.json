@@ -3661,6 +3661,13 @@
     "group_name": ""
   },
   {
+    "uid": 646527238,
+    "name": "aOAO汪嗷嗷",
+    "type": "vtuber",
+    "room": 25377876,
+    "group_name": ""
+  },
+  {
     "uid": 317000,
     "name": "adogsama",
     "type": "vtuber",
@@ -6367,6 +6374,13 @@
     "name": "乔麦皮_Jomaybe",
     "type": "vtuber",
     "room": 3506421,
+    "group_name": ""
+  },
+  {
+    "uid": 2085050660,
+    "name": "乖乖很乖吖",
+    "type": "vtuber",
+    "room": 25534238,
     "group_name": ""
   },
   {
@@ -10745,6 +10759,13 @@
     "group_name": ""
   },
   {
+    "uid": 2143542068,
+    "name": "原里奈奈Nana",
+    "type": "vtuber",
+    "room": 27318013,
+    "group_name": ""
+  },
+  {
     "uid": 1453221585,
     "name": "原野牟牟Mumu",
     "type": "vtuber",
@@ -12153,7 +12174,7 @@
   },
   {
     "uid": 3493122996702172,
-    "name": "啾尤尤OwO",
+    "name": "啾尤尤_OwO",
     "type": "vtuber",
     "room": 26916154,
     "group_name": ""
@@ -13683,6 +13704,13 @@
     "type": "vtuber",
     "room": 22543160,
     "group_name": "NIJISANJI"
+  },
+  {
+    "uid": 109564538,
+    "name": "夜雨_Official",
+    "type": "vtuber",
+    "room": 23631708,
+    "group_name": ""
   },
   {
     "uid": 177356192,
@@ -19850,6 +19878,13 @@
     "type": "vtuber",
     "room": 795746,
     "group_name": "Nature"
+  },
+  {
+    "uid": 3493266337040956,
+    "name": "拉弥亚Lamiya",
+    "type": "vtuber",
+    "room": 27423844,
+    "group_name": ""
   },
   {
     "uid": 2988345,
@@ -28820,7 +28855,7 @@
   },
   {
     "uid": 59547307,
-    "name": "9tYearS-爻休",
+    "name": "灵虎爻休Channel",
     "type": "vtuber",
     "room": 4416786,
     "group_name": ""
@@ -31063,6 +31098,13 @@
     "name": "生姜_channel",
     "type": "vtuber",
     "room": 22386675,
+    "group_name": ""
+  },
+  {
+    "uid": 287624656,
+    "name": "生巧莓子chocomayco",
+    "type": "vtuber",
+    "room": 13066605,
     "group_name": ""
   },
   {
@@ -34062,6 +34104,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493140910573644,
+    "name": "筱筱啊Shino",
+    "type": "vtuber",
+    "room": 27549409,
+    "group_name": ""
+  },
+  {
     "uid": 1901567364,
     "name": "筱诺_Titmy",
     "type": "vtuber",
@@ -35078,7 +35127,7 @@
   },
   {
     "uid": 1362120256,
-    "name": "织一Zey",
+    "name": "时与空数字科技",
     "type": "vtuber",
     "room": 27257120,
     "group_name": ""
@@ -35977,6 +36026,13 @@
     "name": "肉肉嘟着嘴",
     "type": "vtuber",
     "room": 27375012,
+    "group_name": ""
+  },
+  {
+    "uid": 3493138406574467,
+    "name": "肚肚kiri",
+    "type": "vtuber",
+    "room": 27219000,
     "group_name": ""
   },
   {
@@ -40433,7 +40489,7 @@
   },
   {
     "uid": 482425350,
-    "name": "贞布多Buduo",
+    "name": "贞布多_Official",
     "type": "vtuber",
     "room": 23983360,
     "group_name": ""
@@ -44353,7 +44409,7 @@
   },
   {
     "uid": 11408488,
-    "name": "风の香_",
+    "name": "星空凛_",
     "type": "vtuber",
     "room": 493097,
     "group_name": ""
