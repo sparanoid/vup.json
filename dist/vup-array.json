@@ -28136,6 +28136,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493136040986691,
+    "name": "栗司Lisu",
+    "type": "vtuber",
+    "room": 27128250,
+    "face": "/bfs/face/9e230ec5a98f0c77c882eebf1fb400ac4bdf470b.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 551360864,
     "name": "一只栗太太",
     "type": "vtuber",
@@ -42782,6 +42790,14 @@
     "room": 22111716,
     "face": "/bfs/face/b313fce8fd667b1320cd5483cfb9ddddc1830e58.jpg",
     "group_name": "星巡学园"
+  },
+  {
+    "uid": 354660827,
+    "name": "花霁Kaji",
+    "type": "vtuber",
+    "room": 26764829,
+    "face": "/bfs/face/1aca65a08f5781d01c4b72d380c870caad644f2c.jpg",
+    "group_name": ""
   },
   {
     "uid": 480918808,
