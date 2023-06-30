@@ -3713,7 +3713,7 @@
     "type": "vtuber",
     "room": 13238959,
     "face": "/bfs/face/e8857fe2417a6e1c995db5d01a05e50cbae7256b.jpg",
-    "sign": "██████帝国████院██总局████。██████，██████████。█████████，██████ ████████████。",
+    "sign": "隶属于███帝国中央枢密院缉事总局████。██████，██████████。█████████，██████ ████████████。",
     "group_name": ""
   },
   {
@@ -13671,6 +13671,15 @@
     "group_name": ""
   },
   {
+    "uid": 38635877,
+    "name": "南一NanE",
+    "type": "vtuber",
+    "room": 23185369,
+    "face": "/bfs/face/3cf1dae39b6e282a6c7565721c178c20fe5ac5bb.jpg",
+    "sign": "【已标记】███基金会在逃恐游NPC南一（NanE） \n肠粉好吃，好吃肠粉，吃肠粉好，好肠粉吃",
+    "group_name": ""
+  },
+  {
     "uid": 169305,
     "name": "南光雲戌_channel",
     "type": "vtuber",
@@ -16927,6 +16936,15 @@
     "face": "/bfs/face/144687eab1597f20f8e4182ee0d8489309069362.jpg",
     "sign": "我？是Tinsgoo-Project所属的✞✟贵族死神✞✟  商务联系：tinsgoo.project@gmail.com ",
     "group_name": "Tinsgoo-Project"
+  },
+  {
+    "uid": 1605847446,
+    "name": "塔莎Trisha",
+    "type": "vtuber",
+    "room": 26265850,
+    "face": "/bfs/face/58a93d50e8e0fa8c883292b26f861e9781064ee7.jpg",
+    "sign": "是屑屑火烈鸟精老板娘，来讲故事给我听~莎莎的酒馆储藏室：627973147",
+    "group_name": ""
   },
   {
     "uid": 493083336,
@@ -23616,6 +23634,15 @@
     "group_name": "幻想社Fantas1A"
   },
   {
+    "uid": 4613840,
+    "name": "希洛Shiro_",
+    "type": "vtuber",
+    "room": 62462,
+    "face": "/bfs/face/72f95842f42f296a4d5bef2f136431965e694434.jpg",
+    "sign": "<Virtual Dove>个猫势，是白毛猫猫~",
+    "group_name": "Vi-D"
+  },
+  {
     "uid": 1723206278,
     "name": "希洛伊Shiroi",
     "type": "vtuber",
@@ -25126,6 +25153,15 @@
     "face": "/bfs/face/13728817386d9c3cf9118f068b1b86e1e9c40a2d.jpg",
     "sign": "『UpAllNight社团所属vup』是一个屑 粉丝群774788895 ",
     "group_name": "UpAllLight"
+  },
+  {
+    "uid": 1992677061,
+    "name": "心左Shito",
+    "type": "vtuber",
+    "room": 25185620,
+    "face": "/bfs/face/37ef12bfa881bc1d61e1e3d0984fd70a315ad24f.jpg",
+    "sign": "因打破圣约而被放逐至人界的堕天使 | 不受束缚的个天势 | 群：459477187",
+    "group_name": ""
   },
   {
     "uid": 3493296328411848,
@@ -39407,7 +39443,7 @@
     "type": "vtuber",
     "room": 24458508,
     "face": "/bfs/face/6b026b2ca8c7515fe0f206ac4f3c783f6f05fd29.jpg",
-    "sign": "<Vector>所属二期生，一只来自异世界的可爱大耳狗！",
+    "sign": "<喵呜社>所属，想要变得kira的异世界的可爱大耳狗desu！【未出道】",
     "group_name": ""
   },
   {
@@ -39949,15 +39985,6 @@
     "face": "/bfs/face/79dbf36d0a26e168382882e648481d426204776c.jpg",
     "sign": "My reputation's never been worse so，You must like me for me。",
     "group_name": "Makuroka"
-  },
-  {
-    "uid": 4613840,
-    "name": "希洛Shiro_",
-    "type": "vtuber",
-    "room": 62462,
-    "face": "/bfs/face/72f95842f42f296a4d5bef2f136431965e694434.jpg",
-    "sign": "<Virtual Dove>个猫势，是白毛猫猫~",
-    "group_name": "Vi-D"
   },
   {
     "uid": 397146,
@@ -50670,6 +50697,15 @@
     "group_name": ""
   },
   {
+    "uid": 11901723,
+    "name": "荔子Lizz_",
+    "type": "vtuber",
+    "room": 13160312,
+    "face": "/bfs/face/5ed312a4b1335601efbba59e22e025fb18a24c19.jpg",
+    "sign": "拜托，别老问我充电口在哪！",
+    "group_name": ""
+  },
+  {
     "uid": 1211921847,
     "name": "荔枝Yuribiu",
     "type": "vtuber",
@@ -52017,6 +52053,15 @@
     "room": 27541063,
     "face": "/bfs/face/e35e14d1a4d77fdf6afe7490fe58a9d6f0eb5324.jpg",
     "sign": "慢慢来吧属于我的不会走的",
+    "group_name": ""
+  },
+  {
+    "uid": 625528120,
+    "name": "蒜蒜_Garlic",
+    "type": "vtuber",
+    "room": 26113958,
+    "face": "/bfs/face/c893a9a4811c150589ded3ed472fe1fec45db9a3.jpg",
+    "sign": "【个人势】这里是个励志当个霸总的幽默男，粉丝群702885655",
     "group_name": ""
   },
   {

@@ -12152,6 +12152,14 @@
     "group_name": ""
   },
   {
+    "uid": 38635877,
+    "name": "南一NanE",
+    "type": "vtuber",
+    "room": 23185369,
+    "face": "/bfs/face/3cf1dae39b6e282a6c7565721c178c20fe5ac5bb.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 169305,
     "name": "南光雲戌_channel",
     "type": "vtuber",
@@ -15046,6 +15054,14 @@
     "room": 23158420,
     "face": "/bfs/face/144687eab1597f20f8e4182ee0d8489309069362.jpg",
     "group_name": "Tinsgoo-Project"
+  },
+  {
+    "uid": 1605847446,
+    "name": "塔莎Trisha",
+    "type": "vtuber",
+    "room": 26265850,
+    "face": "/bfs/face/58a93d50e8e0fa8c883292b26f861e9781064ee7.jpg",
+    "group_name": ""
   },
   {
     "uid": 493083336,
@@ -20992,6 +21008,14 @@
     "group_name": "幻想社Fantas1A"
   },
   {
+    "uid": 4613840,
+    "name": "希洛Shiro_",
+    "type": "vtuber",
+    "room": 62462,
+    "face": "/bfs/face/72f95842f42f296a4d5bef2f136431965e694434.jpg",
+    "group_name": "Vi-D"
+  },
+  {
     "uid": 1723206278,
     "name": "希洛伊Shiroi",
     "type": "vtuber",
@@ -22334,6 +22358,14 @@
     "room": 22029004,
     "face": "/bfs/face/13728817386d9c3cf9118f068b1b86e1e9c40a2d.jpg",
     "group_name": "UpAllLight"
+  },
+  {
+    "uid": 1992677061,
+    "name": "心左Shito",
+    "type": "vtuber",
+    "room": 25185620,
+    "face": "/bfs/face/37ef12bfa881bc1d61e1e3d0984fd70a315ad24f.jpg",
+    "group_name": ""
   },
   {
     "uid": 3493296328411848,
@@ -35512,14 +35544,6 @@
     "group_name": "Makuroka"
   },
   {
-    "uid": 4613840,
-    "name": "希洛Shiro_",
-    "type": "vtuber",
-    "room": 62462,
-    "face": "/bfs/face/72f95842f42f296a4d5bef2f136431965e694434.jpg",
-    "group_name": "Vi-D"
-  },
-  {
     "uid": 397146,
     "name": "猫崎星衣藍_channel",
     "type": "vtuber",
@@ -45040,6 +45064,14 @@
     "group_name": ""
   },
   {
+    "uid": 11901723,
+    "name": "荔子Lizz_",
+    "type": "vtuber",
+    "room": 13160312,
+    "face": "/bfs/face/5ed312a4b1335601efbba59e22e025fb18a24c19.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1211921847,
     "name": "荔枝Yuribiu",
     "type": "vtuber",
@@ -46237,6 +46269,14 @@
     "type": "vtuber",
     "room": 27541063,
     "face": "/bfs/face/e35e14d1a4d77fdf6afe7490fe58a9d6f0eb5324.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 625528120,
+    "name": "蒜蒜_Garlic",
+    "type": "vtuber",
+    "room": 26113958,
+    "face": "/bfs/face/c893a9a4811c150589ded3ed472fe1fec45db9a3.jpg",
     "group_name": ""
   },
   {
