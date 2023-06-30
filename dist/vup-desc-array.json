@@ -2863,11 +2863,11 @@
   },
   {
     "uid": 2192736,
-    "name": "Nori典子",
+    "name": "Nori要搬家啦",
     "type": "vtuber",
     "room": 6901437,
-    "face": "/bfs/face/1d2524a59c8e6e6284893a2ae704c68f250dfac0.jpg",
-    "sign": "舒适杂谈小Nori！∠( ᐛ 」∠)_直播时间中午12：00晚上21：30",
+    "face": "/bfs/face/7b2defe2b9190e70b130c781fa5e631567a708eb.jpg",
+    "sign": "本账号更新为nori切片机，直播号@Nori酸布林，欢迎大家！",
     "group_name": ""
   },
   {
@@ -4911,6 +4911,15 @@
     "room": 0,
     "face": "/bfs/face/7e447fa979836c699eb9f7bbff67b0a0e634d6bb.jpg",
     "sign": "",
+    "group_name": ""
+  },
+  {
+    "uid": 529107543,
+    "name": "fa漠",
+    "type": "vtuber",
+    "room": 23099155,
+    "face": "/bfs/face/43e32d6ab15b06908ef22b2d887366ff924e4393.jpg",
+    "sign": "陪伴系fafa喵，依靠寄生吸取人类精华！将人类吃光光！呜哇！\n有点内向，对fafa温柔点呜呜害怕陌生人(๑•́ω\n粉丝群：527227197",
     "group_name": ""
   },
   {
@@ -10320,6 +10329,15 @@
     "room": 21614019,
     "face": "/bfs/face/f3411b633c97c1a3670fd6e2d0ce76d31d8e0116.jpg",
     "sign": "自由二次元画师-摸鱼一般发在同名lofter\n不会画画，努力学习中。\n约稿走米画师：阿依｜或ayipaidayinji@foxmai.com",
+    "group_name": ""
+  },
+  {
+    "uid": 1902949868,
+    "name": "依梦绮罗",
+    "type": "vtuber",
+    "room": 27702627,
+    "face": "/bfs/face/d11c35118207ee65402a79e263cc26feebfe78bf.jpg",
+    "sign": "\\声线慵懒\\身体虚弱\\邻家姐姐/\n晚上6:00-11:00定时放送，白天不定时。\n\n\n",
     "group_name": ""
   },
   {
@@ -17010,6 +17028,15 @@
     "group_name": ""
   },
   {
+    "uid": 1385310954,
+    "name": "夏夜Saya",
+    "type": "vtuber",
+    "room": 27249858,
+    "face": "/bfs/face/53a121b5ab73e5ad81655a331a62d202f6e36deb.jpg",
+    "sign": "人生是旷野。",
+    "group_name": ""
+  },
+  {
     "uid": 3070918,
     "name": "夏威夷的尾巴是青椒",
     "type": "vtuber",
@@ -18033,6 +18060,15 @@
     "room": 27490438,
     "face": "/bfs/face/3429bdb070ceab6e95cd39b26c1b646c45b1ab00.jpg",
     "sign": "嗯？你以为我是普通修女吗 不 我是米门修女！信仰是米！你说我眼里只有米！nonono 不是这样的 我只是喜欢得不能再喜欢米啦～离不开米～",
+    "group_name": ""
+  },
+  {
+    "uid": 3493276474673256,
+    "name": "大家爱的甜酱",
+    "type": "vtuber",
+    "room": 27561548,
+    "face": "/bfs/face/4f279aa592addc15c3e5dfc94bb02f1306edcb9a.jpg",
+    "sign": "",
     "group_name": ""
   },
   {
@@ -20066,7 +20102,7 @@
     "type": "vtuber",
     "room": 27508318,
     "face": "/bfs/face/2c6345f838187444bb92dca3177ec941f9ccd28b.jpg",
-    "sign": "一只寻找记忆的赤瞳青羽凰/喜欢唱歌不善言辞/粉丝群：704249061/直播时间8:00-11:00/20:00-22:00",
+    "sign": "一只寻找记忆的赤瞳青羽凰/喜欢唱歌不善言辞/粉丝群：704249061/直播时间8:00-11:00/20:00-22:00/网易云：宁一禾",
     "group_name": ""
   },
   {
@@ -22383,6 +22419,15 @@
     "group_name": ""
   },
   {
+    "uid": 8018712,
+    "name": "居居喵丶",
+    "type": "vtuber",
+    "room": 12619992,
+    "face": "/bfs/face/26de6459a60ca0877b025dc1306e7a5a7998a863.jpg",
+    "sign": "养成系全职布偶小猫，双形态随机切换！\n很喜欢交朋友！欢迎来找我玩！\n每晚7点左右固定杂谈，其余时间掉落游戏\n直播通知群：795380312",
+    "group_name": ""
+  },
+  {
     "uid": 86361868,
     "name": "屈彦沉Shizumu",
     "type": "vtuber",
@@ -22507,6 +22552,15 @@
     "face": "/bfs/face/0eafcd14eddfb52c9caee8060010ef020fdf0496.jpg",
     "sign": "大概是晚上8点木吉他弹唱直播——放心，是正统偶像系歌势，六角大蝾螈~【虚研社3期生】",
     "group_name": "虚研社"
+  },
+  {
+    "uid": 20575250,
+    "name": "山海-诵歌",
+    "type": "vtuber",
+    "room": 10820539,
+    "face": "/bfs/face/fbd0f4d63a9c6e2b687dad439bce248e353e1cba.jpg",
+    "sign": "孵蛋主播，早10点开鸣，误差半小时！养成系！会突击！会拔线！点关注私信粉丝群～期待一下本体吧",
+    "group_name": ""
   },
   {
     "uid": 175802050,
@@ -23136,6 +23190,15 @@
     "room": 27526800,
     "face": "/bfs/face/a663664f5e13d7aafae2f5a29fb3b60a194d2716.jpg",
     "sign": "一名来自塔曼斯海域的人鱼公主，个人势vup，喜欢唱歌！粉丝群：427800655。希望大家会喜欢希娅哟～",
+    "group_name": ""
+  },
+  {
+    "uid": 3493136949053562,
+    "name": "希娅辛丝Hyacinthu",
+    "type": "vtuber",
+    "room": 27218454,
+    "face": "/bfs/face/8a369888fc751039300586836a0e181a20b46772.jpg",
+    "sign": "✨「热爱可抵岁月漫长」❤️中日英三语歌势、配音、演奏VUP\n❤️神经系小恶魔女仆～❤️每周二、四、六20:00开播，周日随缘开播～",
     "group_name": ""
   },
   {
@@ -27423,6 +27486,15 @@
     "group_name": ""
   },
   {
+    "uid": 1599207461,
+    "name": "星宮ののかNonoka",
+    "type": "vtuber",
+    "room": 25042544,
+    "face": "/bfs/face/0a62257a4cedbe091ffee63ff2e8933a93875c06.jpg",
+    "sign": "✨星宮ののか（Hoshimiya Nonoka）✨",
+    "group_name": ""
+  },
+  {
     "uid": 4376323,
     "name": "Hitomiiiouo",
     "type": "vtuber",
@@ -28887,6 +28959,15 @@
     "room": 23121863,
     "face": "/bfs/face/d5ec390ed0820cf3209c0206c89fe6e83f9d68e3.jpg",
     "sign": "毕业版\n\n",
+    "group_name": ""
+  },
+  {
+    "uid": 1543881468,
+    "name": "是玛瑟琳不是马瑟琳",
+    "type": "vtuber",
+    "room": 26061163,
+    "face": "/bfs/face/a12e8870c7f37fa32743436d2e8df4c6ba52d161.jpg",
+    "sign": "Everthing stays",
     "group_name": ""
   },
   {
@@ -36657,6 +36738,15 @@
     "group_name": "极光社"
   },
   {
+    "uid": 1755400,
+    "name": "海盐奶糖白露",
+    "type": "vtuber",
+    "room": 899820,
+    "face": "/bfs/face/9e3dcfa39463c36331ec3701d0940ff8c646dbd1.jpg",
+    "sign": "凌霄剧团CV/啥也不势/大概是只垂耳兔子精/二群：904367661/联动请私信～（公会勿扰）\n\n",
+    "group_name": ""
+  },
+  {
     "uid": 4261167,
     "name": "海砂_Misa",
     "type": "vtuber",
@@ -39789,6 +39879,15 @@
     "group_name": ""
   },
   {
+    "uid": 488737433,
+    "name": "玛璐璐_Maruru",
+    "type": "vtuber",
+    "room": 27355719,
+    "face": "/bfs/face/828ef07e9e2d64353727dd6f8c00ee6b8b1be6d4.jpg",
+    "sign": "“杂鱼前辈快点关注！！！”//不愿干本职的屑//个人势全能主包//",
+    "group_name": ""
+  },
+  {
     "uid": 595313593,
     "name": "玛莎儿今天摸了吗",
     "type": "vtuber",
@@ -40326,6 +40425,15 @@
     "room": 25496452,
     "face": "/bfs/face/e994ac983f6c782cef9ec09df3b2390cebda5ea1.jpg",
     "sign": "",
+    "group_name": ""
+  },
+  {
+    "uid": 3493093267474601,
+    "name": "瑞丝卡Risskar",
+    "type": "vtuber",
+    "room": 26692024,
+    "face": "/bfs/face/15b08a911a86ffeabe6c25119fb2080094359920.jpg",
+    "sign": "是个人/主学习势/杂谈/游戏势的神明哒～有时会画画，游戏，聊天，唱歌哒～～～天堂群：728428948",
     "group_name": ""
   },
   {
@@ -46800,6 +46908,15 @@
     "group_name": ""
   },
   {
+    "uid": 1237534755,
+    "name": "羊驼会鹅叫ジ",
+    "type": "vtuber",
+    "room": 24532967,
+    "face": "/bfs/face/4b603076429d8399c3c8dd1dbb8abf475d898880.jpg",
+    "sign": "是一只呆呆且温柔的羊驼呦～\n鹅窝:704688020\n晚19点～24点播\n",
+    "group_name": ""
+  },
+  {
     "uid": 33785439,
     "name": "美与兔miyoko",
     "type": "vtuber",
@@ -48695,7 +48812,7 @@
     "type": "vtuber",
     "room": 27096895,
     "face": "/bfs/face/ab7ad8e35d24a7dfce230940a6461a1109f0df24.jpg",
-    "sign": "从异世界来的涩涩魔法猫娘喵！正在单人努力的开发独立游戏《凡塔西亚物语》，全职个人势VUP。 录播@凡塔西亚录播组。",
+    "sign": "从异世界来的涩涩魔法猫娘喵！正在努力的开发独立游戏《凡塔西亚物语》，全职VUP。 录播@凡塔西亚录播组。",
     "group_name": ""
   },
   {
@@ -48760,6 +48877,15 @@
     "face": "/bfs/face/e8b8cd767112b3a47fe7d7b7681876486c87f53a.jpg",
     "sign": "一只大眼美女~\n\n——宣社阿斯特拉",
     "group_name": "虚研社"
+  },
+  {
+    "uid": 1198305342,
+    "name": "花芙洛_Aphrodite",
+    "type": "vtuber",
+    "room": 26760738,
+    "face": "/bfs/face/b75e4e5e9813353b912504465dc7d25ad462afc9.jpg",
+    "sign": "个人势v⭐一朵闲散花花，双向奔赴才有意义~ 是努力唱好歌的半吊子歌势。 啵啵时间:晚22:00-1:00，裙裙：797153068",
+    "group_name": ""
   },
   {
     "uid": 269415357,
@@ -49597,6 +49723,15 @@
     "face": "/bfs/face/d1517d1b4ff6d010c4f09d7aedc7b08fe4f32265.jpg",
     "sign": "【个大尾巴猫势】是大yi巴猪茶茶！会作曲*绘画*打游戏*画师麻麻是呆呆兽哦⌯'ㅅ'⌯",
     "group_name": "V_G研究所"
+  },
+  {
+    "uid": 2065480445,
+    "name": "茶茶太困了Q",
+    "type": "vtuber",
+    "room": 22913192,
+    "face": "/bfs/face/ec8e791eb3a87f2fcbc9bb74ffd671e3fd38b237.jpg",
+    "sign": "那是带来希望和转机的风声啊~我所向往的神明，会为带来光明和避去所有苦难，正因如此正因如此，我才能确切解读，何为温柔二字。",
+    "group_name": ""
   },
   {
     "uid": 137779177,
@@ -51219,6 +51354,15 @@
     "group_name": ""
   },
   {
+    "uid": 1801612929,
+    "name": "蓝渊_Channel",
+    "type": "vtuber",
+    "room": 25065444,
+    "face": "/bfs/face/f3887e8ac50043901c58557455822f7b2d80c22d.jpg",
+    "sign": "隶属于人間社。来自深渊的一只小猫咪罢了，女仆装是店长的恶趣味！直播通知群：739025852",
+    "group_name": ""
+  },
+  {
     "uid": 24339322,
     "name": "蓝皓冰晨channel",
     "type": "vtuber",
@@ -52008,6 +52152,15 @@
     "room": 26609943,
     "face": "/bfs/face/df9c96fcab28b78bbb9f5285c0515b5b75ac0cbb.jpg",
     "sign": "个人势vup 是美西螈哦 未出道直播中～白天打工，晚上变回美西螈打游戏\n直播回放在@呜帕的录播\n粉丝群：423485799",
+    "group_name": ""
+  },
+  {
+    "uid": 3493077289274064,
+    "name": "融雪sesu",
+    "type": "vtuber",
+    "room": 27004950,
+    "face": "/bfs/face/89d01ce396e6b7cac589cab87fe0f7cb92f39399.jpg",
+    "sign": "虚拟企划True-Magick所属，于深渊裂缝中苏醒的魔女",
     "group_name": ""
   },
   {
@@ -53334,6 +53487,15 @@
     "group_name": ""
   },
   {
+    "uid": 24895390,
+    "name": "赤猫AkaNeko",
+    "type": "vtuber",
+    "room": 3803684,
+    "face": "/bfs/face/9ff3c256ee36ea678647af2f1592027252a3452b.jpg",
+    "sign": "一只叫猫猫的兔子小姐！个人势九点半开播~陪伴系倒霉姐姐喜欢您来！提瓦特男角色dd人偶尔摸点MMD~主播群322595666",
+    "group_name": ""
+  },
+  {
     "uid": 480820393,
     "name": "赤琥Akakora",
     "type": "vtuber",
@@ -54572,7 +54734,7 @@
     "type": "vtuber",
     "room": 740072,
     "face": "/bfs/face/a9fee7186660adffddfcf8e2b5f7fe10ed4dbe1a.jpg",
-    "sign": "虚研学园‖ 社畜PV人还在学习中 暂时不接",
+    "sign": "虚研学园‖ 社畜PV人还在学习中 休养中暂时不接",
     "group_name": ""
   },
   {
@@ -55789,6 +55951,15 @@
     "face": "/bfs/face/b0cc7ab394110f7e8afeb465da807ea0c6a9fdee.jpg",
     "sign": "-MaeSond一期生- 真是个有趣的新世界。",
     "group_name": "—MSD一"
+  },
+  {
+    "uid": 3493146342197496,
+    "name": "阿塞尔Azl",
+    "type": "vtuber",
+    "room": 27325056,
+    "face": "/bfs/face/0e0da05e3ae2c6a95ef9ee86452c8f7365371d6c.jpg",
+    "sign": "学院天才董事长是也\n鼠鼠的股东会：605137674",
+    "group_name": ""
   },
   {
     "uid": 1206793911,
@@ -57075,6 +57246,15 @@
     "room": 6302912,
     "face": "/bfs/face/f0fc4a83d1a29e0ad6153466319394179dca896c.jpg",
     "sign": "个人势vup，管人痴，vtb票友",
+    "group_name": ""
+  },
+  {
+    "uid": 3493134654770035,
+    "name": "雪野一梦yukino",
+    "type": "vtuber",
+    "room": 27093213,
+    "face": "/bfs/face/6a818f67cbae3e9f8981e7f4b75cc406db523351.jpg",
+    "sign": "不成熟歌势/中文日语/是个低音(ㅇㅅㅇ❀)粉丝裙：158786301 录播号：雪野梦境回忆馆",
     "group_name": ""
   },
   {
@@ -58689,6 +58869,15 @@
     "group_name": ""
   },
   {
+    "uid": 1562687466,
+    "name": "香奈Kana",
+    "type": "vtuber",
+    "room": 22753638,
+    "face": "/bfs/face/506ccac0b95093321190869e8392511a84de100b.jpg",
+    "sign": "来自云海的个豚势 ✨蓝毛呆呆豚✨\n【聊天群：734859852】直播时间大概率晚7-9！",
+    "group_name": ""
+  },
+  {
     "uid": 670241921,
     "name": "香桃紅Official",
     "type": "vtuber",
@@ -58731,6 +58920,15 @@
     "room": 62932,
     "face": "/bfs/face/934364f45b367fdf1f4ab19ef6e2330945d76b55.jpg",
     "sign": "",
+    "group_name": ""
+  },
+  {
+    "uid": 3493132758944202,
+    "name": "香菜疯疯",
+    "type": "vtuber",
+    "room": 27273109,
+    "face": "/bfs/face/9ac6a3d03066eba8c9096cd14ae8012da5b14674.jpg",
+    "sign": "一只爱吃棒棒糖的个人势香菜精灵 | 皮痒神经质系Vup | 爱唱歌的话痨 | 多声线，可甜可御可疯批 ｜ 粉丝群：企鹅761930513",
     "group_name": ""
   },
   {
@@ -60666,6 +60864,15 @@
     "room": 23146679,
     "face": "/bfs/face/ae4541d82c925ae26bf81400c4c8e3c9d589723a.jpg",
     "sign": "个人势女仆喵娘一枚！咕咕的群：638665440 录播请戳：咕咕的鸽子窝 | 切片运营策划美工都是我个人来",
+    "group_name": ""
+  },
+  {
+    "uid": 1108549926,
+    "name": "默尔_More",
+    "type": "vtuber",
+    "room": 25639215,
+    "face": "/bfs/face/da0a30d41751a8da1b5255099d59a70b6bcc310a.jpg",
+    "sign": "不忘初心",
     "group_name": ""
   },
   {
