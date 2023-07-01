@@ -3069,7 +3069,7 @@
     "name": "Sylvia潇童",
     "type": "vtuber",
     "room_id": 24328742,
-    "face": "/bfs/face/827124c366c4ac84eb93026634188d75d3d77c35.jpg",
+    "face": "/bfs/face/396506a084124f92dad8b0803f56c1d5e5ec4b80.jpg",
     "group_name": ""
   },
   "7004422": {
@@ -3958,7 +3958,7 @@
     "name": "Kasa今天秃头没",
     "type": "vtuber",
     "room_id": 3353260,
-    "face": "/bfs/face/77421f8e00ad90fdcbe2043461f9cd364e936c25.jpg",
+    "face": "/bfs/face/0e6f8a6e426b136033b5c3d2da6e62f24f2d1816.jpg",
     "group_name": ""
   },
   "437786939": {
@@ -8540,7 +8540,7 @@
     "group_name": "ChaosLiveSprout"
   },
   "3461570355005440": {
-    "name": "是兔子奶糖吖",
+    "name": "兔子奶糖_鱼与熊掌冠",
     "type": "vtuber",
     "room_id": 26083009,
     "face": "/bfs/face/7e95ed4c9a8691cdce2650901e88c89887a29fdc.jpg",
@@ -16869,13 +16869,6 @@
     "face": "/bfs/face/4be23b7c963ae7c1517095582e52a17d4de030cd.jpg",
     "group_name": ""
   },
-  "1095803401": {
-    "name": "小春_Koharu",
-    "type": "vtuber",
-    "room_id": 23710136,
-    "face": "/bfs/face/9ee7832f867d5c3e511de89c2f155e133d160ccc.jpg",
-    "group_name": ""
-  },
   "2127961288": {
     "name": "小春咲saki",
     "type": "vtuber",
@@ -17024,10 +17017,10 @@
     "group_name": ""
   },
   "1715177001": {
-    "name": "鱼卷_27",
+    "name": "咩咩叽_",
     "type": "vtuber",
     "room_id": 24772713,
-    "face": "/bfs/face/d72a178899fa1302aaa59fc50bc89fff2c9bdab1.jpg",
+    "face": "/bfs/face/030db30cea1801ef613169b619a17246766a8981.jpg",
     "group_name": ""
   },
   "3494361094424699": {
@@ -17043,13 +17036,6 @@
     "room_id": 74446,
     "face": "/bfs/face/2d885176d6c15a5e4d98ebd133f99fd4e37fd6e1.jpg",
     "group_name": "狄灵计划"
-  },
-  "3461579420994302": {
-    "name": "游吟诗人依芙",
-    "type": "vtuber",
-    "room_id": 26279304,
-    "face": "/bfs/face/083dc90380174208cd1d50ff13ca8bc2d5800372.jpg",
-    "group_name": ""
   },
   "298484": {
     "name": "小狼XF",
@@ -23236,7 +23222,7 @@
     "name": "暮雪初霁_",
     "type": "vtuber",
     "room_id": 25849181,
-    "face": "/bfs/face/8673fcf53355a25686ae15497841e2d408f966ad.jpg",
+    "face": "/bfs/face/e64a2f55a4b6bbf0b873ff57042313aef80a4cf8.jpg",
     "group_name": ""
   },
   "13954468": {
@@ -25840,7 +25826,7 @@
     "name": "户山小红",
     "type": "vtuber",
     "room_id": 21949636,
-    "face": "/bfs/face/31e352f53496165f2b167cdd3e24c8a3ce5e06c1.jpg",
+    "face": "/bfs/face/d8e985b182965f40983830ca254033ccca91840f.jpg",
     "group_name": ""
   },
   "4298023": {
@@ -28297,7 +28283,7 @@
     "name": "法雅falla",
     "type": "vtuber",
     "room_id": 7843128,
-    "face": "/bfs/face/97094b3518c4b423e9125c825e7fabe2930ee1b2.jpg",
+    "face": "/bfs/face/8f7b9ab5025c300be527ed85c45a7324fa58cded.jpg",
     "group_name": ""
   },
   "25691069": {
