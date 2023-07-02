@@ -6584,11 +6584,11 @@
     "group_name": ""
   },
   "397974802": {
-    "name": "万谕今天寄_Yuka",
+    "name": "万谕的小号",
     "type": "vtuber",
     "room": 23918239,
     "face": "/bfs/face/3063a1e0a90870fb84ad9e55a9b938e372a75040.jpg",
-    "sign": "我是万能势-万谕！可以叫Yuka！是来自温州的小妖怪！粉丝群492553877  感谢各位对万谕的支持！爱你们！",
+    "sign": "录播名称【直播录像+年份+日期+标题】",
     "group_name": ""
   },
   "511311496": {
@@ -52102,6 +52102,14 @@
     "face": "/bfs/face/57f7d96aef1f8b649bb0b5704a2567df9a929eee.jpg",
     "sign": "虚拟艺人团体VirtuaReal所属成员雾深Girimi，我正在看————着你！商务合作请联系bd@vrp.live",
     "group_name": "VirtuaReal"
+  },
+  "3494369191528599": {
+    "name": "雾空不是大师兄",
+    "type": "vtuber",
+    "room": 30173461,
+    "face": "/bfs/face/518b01b4d0d6835b9923b9b465deb56bc2737e1c.jpg",
+    "sign": "<问尘仙会>所属一问三不知的雾空，杂谈势vup，早六点准时直播～小窝: 822739704 暗号：雾空",
+    "group_name": ""
   },
   "1083699315": {
     "name": "雾笛蕾奈Channel",

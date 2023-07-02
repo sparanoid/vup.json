@@ -6585,7 +6585,7 @@
   },
   {
     "uid": 397974802,
-    "name": "万谕今天寄_Yuka",
+    "name": "万谕的小号",
     "type": "vtuber",
     "room": 23918239,
     "face": "/bfs/face/3063a1e0a90870fb84ad9e55a9b938e372a75040.jpg",
@@ -52102,6 +52102,14 @@
     "room": 23805029,
     "face": "/bfs/face/57f7d96aef1f8b649bb0b5704a2567df9a929eee.jpg",
     "group_name": "VirtuaReal"
+  },
+  {
+    "uid": 3494369191528599,
+    "name": "雾空不是大师兄",
+    "type": "vtuber",
+    "room": 30173461,
+    "face": "/bfs/face/518b01b4d0d6835b9923b9b465deb56bc2737e1c.jpg",
+    "group_name": ""
   },
   {
     "uid": 1083699315,
