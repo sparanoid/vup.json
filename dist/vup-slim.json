@@ -1,4 +1,10 @@
 {
+  "74381130": {
+    "name": "--晴朗蓝--",
+    "type": "vtuber",
+    "room": 24749569,
+    "group_name": ""
+  },
   "1041786022": {
     "name": "-狩猎西比尔-",
     "type": "vtuber",
@@ -33689,6 +33695,12 @@
     "room": 21864086,
     "group_name": "雨林社"
   },
+  "3493291479796496": {
+    "name": "茯苓_Cocos",
+    "type": "vtuber",
+    "room": 30189558,
+    "group_name": ""
+  },
   "3057049": {
     "name": "茵丝丝Inss",
     "type": "vtuber",
@@ -33735,6 +33747,12 @@
     "name": "茶眠",
     "type": "vtuber",
     "room": 23303604,
+    "group_name": ""
+  },
+  "3494350017268336": {
+    "name": "茶绒绒Kiyu",
+    "type": "vtuber",
+    "room": 27875921,
     "group_name": ""
   },
   "5628025": {

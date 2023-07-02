@@ -1,5 +1,12 @@
 [
   {
+    "uid": 74381130,
+    "name": "--晴朗蓝--",
+    "type": "vtuber",
+    "room": 24749569,
+    "group_name": ""
+  },
+  {
     "uid": 1041786022,
     "name": "-狩猎西比尔-",
     "type": "vtuber",
@@ -39305,6 +39312,13 @@
     "group_name": "雨林社"
   },
   {
+    "uid": 3493291479796496,
+    "name": "茯苓_Cocos",
+    "type": "vtuber",
+    "room": 30189558,
+    "group_name": ""
+  },
+  {
     "uid": 3057049,
     "name": "茵丝丝Inss",
     "type": "vtuber",
@@ -39358,6 +39372,13 @@
     "name": "茶眠",
     "type": "vtuber",
     "room": 23303604,
+    "group_name": ""
+  },
+  {
+    "uid": 3494350017268336,
+    "name": "茶绒绒Kiyu",
+    "type": "vtuber",
+    "room": 27875921,
     "group_name": ""
   },
   {

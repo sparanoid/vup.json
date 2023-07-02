@@ -1,5 +1,13 @@
 [
   {
+    "uid": 74381130,
+    "name": "--晴朗蓝--",
+    "type": "vtuber",
+    "room": 24749569,
+    "face": "/bfs/face/29b88271a18cfbb38735da68a0cd5efd1b7fc113.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1041786022,
     "name": "-狩猎西比尔-",
     "type": "vtuber",
@@ -44920,6 +44928,14 @@
     "group_name": "雨林社"
   },
   {
+    "uid": 3493291479796496,
+    "name": "茯苓_Cocos",
+    "type": "vtuber",
+    "room": 30189558,
+    "face": "/bfs/face/6e3fa9754b867d23adbad0ca2e94aa5d4cabf629.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3057049,
     "name": "茵丝丝Inss",
     "type": "vtuber",
@@ -44981,6 +44997,14 @@
     "type": "vtuber",
     "room": 23303604,
     "face": "/bfs/face/5e79f0ea70e5eddd0e7e54a0666d887374de32dc.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3494350017268336,
+    "name": "茶绒绒Kiyu",
+    "type": "vtuber",
+    "room": 27875921,
+    "face": "/bfs/face/34f023b26a19129beab7f69045f6cb5b954ca601.jpg",
     "group_name": ""
   },
   {
@@ -46556,7 +46580,7 @@
     "name": "蔓Aoede",
     "type": "vtuber",
     "room": 24715515,
-    "face": "/bfs/face/de8801c8edb9c08b74c88b224924fe8076e7af78.jpg",
+    "face": "/bfs/face/859a787f82ea182d3068af6a32834770e9049987.jpg",
     "group_name": ""
   },
   {
