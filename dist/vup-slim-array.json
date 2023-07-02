@@ -19894,6 +19894,13 @@
     "group_name": "四禧丸子"
   },
   {
+    "uid": 1625792077,
+    "name": "恬酒酒",
+    "type": "vtuber",
+    "room": 26966102,
+    "group_name": ""
+  },
+  {
     "uid": 399491783,
     "name": "恰恰恰蘑菇",
     "type": "vtuber",
@@ -21600,6 +21607,13 @@
     "type": "vtuber",
     "room": 22098119,
     "group_name": "英灵殿ValhallaClub"
+  },
+  {
+    "uid": 2758030,
+    "name": "星夜黑时S",
+    "type": "vtuber",
+    "room": 256203,
+    "group_name": ""
   },
   {
     "uid": 82717585,

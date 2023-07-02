@@ -19893,6 +19893,13 @@
     "face": "/bfs/face/6468ed2e3894d1150929e61fd0c4b122aa49c490.jpg",
     "group_name": "四禧丸子"
   },
+  "1625792077": {
+    "name": "恬酒酒",
+    "type": "vtuber",
+    "room": 26966102,
+    "face": "/bfs/face/6dd5da0c8b73c92600177cf9859b2cf310096ce4.jpg",
+    "group_name": ""
+  },
   "399491783": {
     "name": "恰恰恰蘑菇",
     "type": "vtuber",
@@ -21600,6 +21607,13 @@
     "room": 22098119,
     "face": "/bfs/face/c5bb7681af77a219114c7f88c7a4f69b7c7772e8.jpg",
     "group_name": "英灵殿ValhallaClub"
+  },
+  "2758030": {
+    "name": "星夜黑时S",
+    "type": "vtuber",
+    "room": 256203,
+    "face": "/bfs/face/78c7a808f07eb68bc090c7c35b34bfb657492263.jpg",
+    "group_name": ""
   },
   "82717585": {
     "name": "星奈奈奈Sena-nana",
