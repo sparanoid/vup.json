@@ -5827,7 +5827,7 @@
     "name": "七禾いえ",
     "type": "vtuber",
     "room_id": 23777594,
-    "face": "/bfs/face/255e8a3dd2c6c348de289f5e5a3179df180e1561.jpg",
+    "face": "/bfs/face/797da0927073da509de1a312f0ab441c236553b0.jpg",
     "group_name": ""
   },
   "497677999": {
@@ -6289,7 +6289,7 @@
     "name": "东堂琥珀的蜜罐",
     "type": "vtuber",
     "room_id": 13207721,
-    "face": "/bfs/face/e5b43adbc9570c6a1e2549936364399101eac8a3.jpg",
+    "face": "/bfs/face/638442c17cbdd30f9d01b0f159f16278e78901f4.jpg",
     "group_name": "NIJISANJI"
   },
   "3821157": {
@@ -15574,13 +15574,6 @@
     "face": "/bfs/face/a21f28a64a65b54b5851a9ba204d35e10f83547c.jpg",
     "group_name": ""
   },
-  "1028302812": {
-    "name": "Cheese_喵夏",
-    "type": "vtuber",
-    "room_id": 25666731,
-    "face": "/bfs/face/b787c7dc8d83a5b9a60ed70a673283d299d9a681.jpg",
-    "group_name": ""
-  },
   "1292503081": {
     "name": "奶味的芥末酱offical",
     "type": "vtuber",
@@ -19631,7 +19624,7 @@
     "name": "弥音mew",
     "type": "vtuber",
     "room_id": 27684219,
-    "face": "/bfs/face/c90b6e244679364b6afb053d95bec8bed139bad7.jpg",
+    "face": "/bfs/face/27d0b771aa1762ef84931a183082ebb144c073e8.jpg",
     "group_name": ""
   },
   "1571392281": {
@@ -19995,7 +19988,7 @@
     "name": "徽徽不吃瑜_av",
     "type": "vtuber",
     "room_id": 27815982,
-    "face": "/bfs/face/44d9c104ac38c1feec6f4dc3371237afed03129b.jpg",
+    "face": "/bfs/face/caecccd28b85858fa7bb04609a55f396a9301040.jpg",
     "group_name": ""
   },
   "486618656": {
@@ -20639,7 +20632,7 @@
     "name": "慕鸣泽",
     "type": "vtuber",
     "room_id": 24309198,
-    "face": "/bfs/face/1550b097fced00957b8e851ca9d40ca3f9fde9b1.jpg",
+    "face": "/bfs/face/1a958d75a724d9fd2c62d04058ea76d99f46ba08.jpg",
     "group_name": ""
   },
   "1733679937": {
@@ -29344,7 +29337,7 @@
     "group_name": ""
   },
   "3493117227436462": {
-    "name": "洛小霜是真美吖",
+    "name": "洛小霜吖",
     "type": "vtuber",
     "room_id": 27706981,
     "face": "/bfs/face/cc39cf9d41c3ac75d30b47c0c971e86431de50fb.jpg",
@@ -30545,13 +30538,6 @@
     "type": "fan",
     "room_id": 8751947,
     "face": "/bfs/face/0441db91fdc2781049421c6d83d5b64d971fb2f6.jpg",
-    "group_name": ""
-  },
-  "4947340": {
-    "name": "澪音奏Official",
-    "type": "vtuber",
-    "room_id": 2473018,
-    "face": "/bfs/face/2e9265cc5ab5905131e618f35db18026a0736efc.jpg",
     "group_name": ""
   },
   "193558681": {
@@ -34506,7 +34492,7 @@
     "name": "盖乃希亞Galaxy",
     "type": "vtuber",
     "room_id": 22864117,
-    "face": "/bfs/face/32db4dc342ec2a28c5b1e11d5b4dfc1d26a7fd4a.jpg",
+    "face": "/bfs/face/bfbfa7d3a9377f6a6184b1faa2a84e618717762c.jpg",
     "group_name": "Croven教团"
   },
   "11397510": {
@@ -37670,7 +37656,7 @@
     "name": "绯奈Hina_official",
     "type": "vtuber",
     "room_id": 27134874,
-    "face": "/bfs/face/15697aebb182c710bbb12e7fa692e3e1759d7703.jpg",
+    "face": "/bfs/face/053d6d06f34b4b4d6e0c94dc2e2eec54f809c8ac.jpg",
     "group_name": "chaoslive"
   },
   "1620003795": {
@@ -37723,7 +37709,7 @@
     "group_name": "浅海Project"
   },
   "41348614": {
-    "name": "维安VA-阿屿冠名版",
+    "name": "维安VA-阿屿冠",
     "type": "vtuber",
     "room_id": 27286086,
     "face": "/bfs/face/184e81b8f23ac62a57a5d7177b1c9066a6d51dc7.jpg",
@@ -38468,7 +38454,7 @@
     "name": "脆角鲨鲨",
     "type": "vtuber",
     "room_id": 2646668,
-    "face": "/bfs/face/5477ce7b90279969fcc503f59310b32255d5bae8.jpg",
+    "face": "/bfs/face/9fa7581c4756a1bd32b79a9911f605c959e75177.jpg",
     "group_name": ""
   },
   "188888131": {
@@ -48720,7 +48706,7 @@
     "group_name": ""
   },
   "3493144226171793": {
-    "name": "鹿宝xo7月3日百天",
+    "name": "鹿宝xo_木木冠",
     "type": "vtuber",
     "room_id": 27251725,
     "face": "/bfs/face/e50ff50f5ee995fe5337decb1ee2308514564b72.jpg",
