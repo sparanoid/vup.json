@@ -26331,7 +26331,7 @@
     "name": "柠宁Ramune",
     "type": "vtuber",
     "room": 236198,
-    "group_name": "P-SP"
+    "group_name": "纸片人计划"
   },
   {
     "uid": 8056674,
@@ -32380,6 +32380,13 @@
     "type": "vtuber",
     "room": 23805078,
     "group_name": "VirtuaReal"
+  },
+  {
+    "uid": 3493286566169496,
+    "name": "狩野色",
+    "type": "vtuber",
+    "room": 27820488,
+    "group_name": ""
   },
   {
     "uid": 474593913,
