@@ -8972,7 +8972,7 @@
     "name": "伊泽姆Izem",
     "type": "vtuber",
     "room": 27188179,
-    "face": "/bfs/face/a9f1637f7f0cae285d8aa7902bb0035aabd31c09.jpg",
+    "face": "/bfs/face/fa2142ca42e3bc2debe5c12a9f9db2eaf49628c9.jpg",
     "group_name": ""
   },
   {
@@ -21708,7 +21708,7 @@
     "name": "布仔O_o",
     "type": "vtuber",
     "room": 27915505,
-    "face": "/bfs/face/b1f4ce19efe49b61a746221c7a20252c3974780d.jpg",
+    "face": "/bfs/face/50e2a4cc0ab8e6d6e2a248a216b35c2e2fc8b333.jpg",
     "group_name": ""
   },
   {
@@ -29516,7 +29516,7 @@
     "name": "林一柔_",
     "type": "vtuber",
     "room": 27479057,
-    "face": "/bfs/face/836502bc57a0edf803f655ec8ddbeb356dcda495.jpg",
+    "face": "/bfs/face/d51326f138383a2dc8f1223b0083f23bceda8479.jpg",
     "group_name": ""
   },
   {
@@ -33945,7 +33945,7 @@
   },
   {
     "uid": 3493289460238782,
-    "name": "泠珑_lion",
+    "name": "泠珑珑_易炸毛版",
     "type": "vtuber",
     "room": 27728493,
     "face": "/bfs/face/32320dafa0f143a5274e7e396a92c20804a80847.jpg",
@@ -43230,6 +43230,14 @@
     "room": 23089693,
     "face": "/bfs/face/a6e94e045f95a2cc58b968d79ba8e5db5ba6ccea.jpg",
     "group_name": "WACTOR"
+  },
+  {
+    "uid": 382725366,
+    "name": "紫儿是七妹",
+    "type": "vtuber",
+    "room": 26338198,
+    "face": "/bfs/face/919f09dc6ec9efefd177e7a0acaf44ab2435e15b.jpg",
+    "group_name": ""
   },
   {
     "uid": 470473531,
