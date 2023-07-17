@@ -7433,6 +7433,13 @@
     "face": "/bfs/face/e5b53760d4d7251236967b8c9c5343069ea6e9b8.jpg",
     "group_name": ""
   },
+  "25811491": {
+    "name": "什么小甜",
+    "type": "vtuber",
+    "room": 25699579,
+    "face": "/bfs/face/7d668bcd20e5165d602e0a1c4ccbc09d3cd31bfd.jpg",
+    "group_name": ""
+  },
   "2053456684": {
     "name": "仄架夜未Official",
     "type": "vtuber",
@@ -8552,6 +8559,13 @@
     "room": 594511,
     "face": "/bfs/face/a4a167a43a389e4ca04097c2deb7966be7692f37.jpg",
     "group_name": "风云社"
+  },
+  "487015": {
+    "name": "修纳夏XnX",
+    "type": "vtuber",
+    "room": 21902045,
+    "face": "/bfs/face/f6e9478df00ff335e8d2250fed4ab194a7290721.jpg",
+    "group_name": ""
   },
   "3494361539021125": {
     "name": "倚水haru",
@@ -28895,6 +28909,13 @@
     "face": "/bfs/face/a05088a3a82ded3bd5099c10fbe0747073c98477.jpg",
     "group_name": ""
   },
+  "116418830": {
+    "name": "水水Mizu_",
+    "type": "vtuber",
+    "room": 4398699,
+    "face": "/bfs/face/8f45ad8ec5dd9c056528686af9818497fcd2e1b8.jpg",
+    "group_name": ""
+  },
   "24003005": {
     "name": "水水超水嗷呜",
     "type": "vtuber",
@@ -30915,7 +30936,7 @@
     "name": "昭雁Ziva",
     "type": "vtuber",
     "room": 30038609,
-    "face": "/bfs/face/8353b0addd1bb56f5e52b7847bf4ffa0dac4ba86.jpg",
+    "face": "/bfs/face/6b57e700fa999dfbebd119eab27316579fca5a99.jpg",
     "group_name": ""
   },
   "58485079": {
@@ -32491,6 +32512,13 @@
     "type": "vtuber",
     "room": 26206886,
     "face": "/bfs/face/a258e87861f5d0b3d7e5d8d752862a6fd1c29420.jpg",
+    "group_name": ""
+  },
+  "315306996": {
+    "name": "狼崎Rousaki",
+    "type": "vtuber",
+    "room": 30236689,
+    "face": "/bfs/face/2c6df5a415df7ed28a526b67d823180f2dfc94c6.jpg",
     "group_name": ""
   },
   "589185": {
