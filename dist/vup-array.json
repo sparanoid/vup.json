@@ -3204,7 +3204,7 @@
     "name": "RiKa梨歌",
     "type": "vtuber",
     "room": 30060372,
-    "face": "/bfs/face/dd2e01fefa355c10e52e6852a455e19a02e5acdc.jpg",
+    "face": "/bfs/face/ae3cc53dbb4dc46af18a4c1a95efe1a0b090cb69.jpg",
     "group_name": ""
   },
   {
@@ -15152,6 +15152,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493263327627838,
+    "name": "喵奈尾巴超肥捏",
+    "type": "vtuber",
+    "room": 27385480,
+    "face": "/bfs/face/ea1ff0a0cf564fe88481406a52a9db00eb3b1365.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 517318139,
     "name": "喵子Nya_Official",
     "type": "vtuber",
@@ -24176,6 +24184,14 @@
     "group_name": "MZ次元"
   },
   {
+    "uid": 2042014042,
+    "name": "慧柠lemonade",
+    "type": "vtuber",
+    "room": 27045380,
+    "face": "/bfs/face/851234dc6d4daa92ae8019d2b24024e4e4d4cdae.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3783584,
     "name": "饿饿ご飯",
     "type": "vtuber",
@@ -32321,7 +32337,7 @@
   },
   {
     "uid": 1279599946,
-    "name": "樱桃子_今天百天啦",
+    "name": "樱桃子_Nico",
     "type": "vtuber",
     "room": 27485715,
     "face": "/bfs/face/8ed4ff8e3ec746cdc9b9fa006fbf1ac199ae26b7.jpg",
@@ -37928,6 +37944,14 @@
     "group_name": ""
   },
   {
+    "uid": 695636331,
+    "name": "珀卡萝拉Percarola",
+    "type": "vtuber",
+    "room": 26932540,
+    "face": "/bfs/face/b005695f95985dbbcd43afa53e19674438b517e5.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 445581888,
     "name": "珀猆",
     "type": "vtuber",
@@ -42629,6 +42653,14 @@
     "type": "vtuber",
     "room": 27790559,
     "face": "/bfs/face/7236c6066dbc8a0079bd3e95462c10a2a0fc0a9e.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 142306772,
+    "name": "简柔Official",
+    "type": "vtuber",
+    "room": 25088912,
+    "face": "/bfs/face/57f18fe6713ff445bedcf093d6b3ceaa66fd047c.jpg",
     "group_name": ""
   },
   {
@@ -53416,6 +53448,14 @@
     "group_name": ""
   },
   {
+    "uid": 145613005,
+    "name": "阿德涅adeni",
+    "type": "vtuber",
+    "room": 26638047,
+    "face": "/bfs/face/19bb168d1f72e2749d272b380be43516b3f98048.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 2483446,
     "name": "阿德罗伊-埃菲尔德",
     "type": "vtuber",
@@ -56374,6 +56414,14 @@
     "room": 21768883,
     "face": "/bfs/face/a11e30793983dcc15ab0051365d9607701e6801e.jpg",
     "group_name": "魂喵Official"
+  },
+  {
+    "uid": 3493280463456533,
+    "name": "魅魅想要吃车厘子",
+    "type": "vtuber",
+    "room": 27941293,
+    "face": "/bfs/face/0905f9bbe829c52fb24deb0ae9784880bbdaa205.jpg",
+    "group_name": ""
   },
   {
     "uid": 3493124712172000,
