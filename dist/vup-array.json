@@ -9344,6 +9344,14 @@
     "group_name": ""
   },
   {
+    "uid": 353029069,
+    "name": "会嘤才会赢",
+    "type": "vtuber",
+    "room": 24485124,
+    "face": "/bfs/face/28d839a5bb83635097a94196ad28fe039ca772a6.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 487710,
     "name": "伞盾战士伊狸",
     "type": "vtuber",
@@ -12032,6 +12040,14 @@
     "group_name": ""
   },
   {
+    "uid": 442318785,
+    "name": "十四葉",
+    "type": "vtuber",
+    "room": 26817934,
+    "face": "/bfs/face/a308817a7f1e772786416aab92a1da9da8e0e614.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 35654603,
     "name": "十字Crossじゅうじ",
     "type": "vtuber",
@@ -12861,6 +12877,14 @@
     "type": "vtuber",
     "room": 22526231,
     "face": "/bfs/face/d5eda69f3ead19f33aac9f9daf403667d5ab15e9.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 701582685,
+    "name": "卜古Buqu",
+    "type": "vtuber",
+    "room": 26303412,
+    "face": "/bfs/face/6af4f07ec197f2e6112170937cdafac972f7f72e.jpg",
     "group_name": ""
   },
   {
@@ -22224,6 +22248,14 @@
     "group_name": "MZ次元"
   },
   {
+    "uid": 2132566155,
+    "name": "帕米尔Pamirs",
+    "type": "vtuber",
+    "room": 23138488,
+    "face": "/bfs/face/ec1f491c0d6f8f44602d003a2cf9ca31201df5b6.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 6634844,
     "name": "帕缇Patti",
     "type": "vtuber",
@@ -31117,6 +31149,14 @@
     "type": "vtuber",
     "room": 25127334,
     "face": "/bfs/face/e3284df620b1937db328051d66ca5e5c48ccae63.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 34128724,
+    "name": "桃酱从小就很可爱",
+    "type": "vtuber",
+    "room": 7291591,
+    "face": "/bfs/face/c773313cc3d597d9abfe2ef06bccb12544691741.jpg",
     "group_name": ""
   },
   {
@@ -43848,6 +43888,14 @@
     "group_name": "星云社_CosmicNebula"
   },
   {
+    "uid": 3792741,
+    "name": "纱罗Sarara",
+    "type": "vtuber",
+    "room": 7885055,
+    "face": "/bfs/face/3e16613d1c4cf29ac4a1b161cdd630691d99c707.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1251806725,
     "name": "纱雫sana",
     "type": "vtuber",
@@ -51508,7 +51556,7 @@
     "name": "辛梅尔Xinmer",
     "type": "vtuber",
     "room": 6608174,
-    "face": "/bfs/face/43355156341a66596cb45b587396a12b882c4b5f.jpg",
+    "face": "/bfs/face/c1bce4b3d4b9b709cbb8ae34d6be8c1900b3d7f4.jpg",
     "group_name": ""
   },
   {
@@ -57109,6 +57157,14 @@
     "type": "vtuber",
     "room": 27853110,
     "face": "/bfs/face/717bede8e3ff0dca1b989b50e517d152c59d05c8.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 291437268,
+    "name": "鹅er",
+    "type": "vtuber",
+    "room": 25152790,
+    "face": "/bfs/face/c56127798233a0fd707cf5de2ae02e5c1739d3fc.jpg",
     "group_name": ""
   },
   {
