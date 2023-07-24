@@ -8077,7 +8077,7 @@
     "name": "不稳定发电机",
     "type": "vtuber",
     "room": 6653352,
-    "face": "/bfs/face/813d6f347bbc2865652c2a1c546ffc2ac30b44c3.jpg",
+    "face": "/bfs/face/7ac643c32080013f78ec710fbc5e0981c1283fb9.jpg",
     "sign": "别惹！容易炸毛！不要过度刺激！不稳定发电机就算变质也绝对不会毕业！",
     "group_name": ""
   },
@@ -15013,11 +15013,11 @@
   },
   {
     "uid": 1620407186,
-    "name": "双叶樱奈",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 25264896,
-    "face": "/bfs/face/ba218c8d7050a8d9a330db9cea8bd44ea71e6f47.jpg",
-    "sign": "个人势杂谈vup，唱歌正在努力中，拥有神奇的治愈魔法！\n直播时间：随机掉落！（暂时）",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": "光年神话"
   },
   {

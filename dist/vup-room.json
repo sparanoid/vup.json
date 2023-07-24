@@ -6282,7 +6282,7 @@
     "name": "不稳定发电机",
     "type": "vtuber",
     "room_id": 6653352,
-    "face": "/bfs/face/813d6f347bbc2865652c2a1c546ffc2ac30b44c3.jpg",
+    "face": "/bfs/face/7ac643c32080013f78ec710fbc5e0981c1283fb9.jpg",
     "group_name": ""
   },
   "3409997": {
@@ -11676,10 +11676,10 @@
     "group_name": ""
   },
   "1620407186": {
-    "name": "双叶樱奈",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 25264896,
-    "face": "/bfs/face/ba218c8d7050a8d9a330db9cea8bd44ea71e6f47.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": "光年神话"
   },
   "594437": {
