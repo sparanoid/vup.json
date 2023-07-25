@@ -440,6 +440,13 @@
     "face": "/bfs/face/54055d699a9ef24168ba6a76d5cfce78cb152807.jpg",
     "group_name": ""
   },
+  "3493112464804397": {
+    "name": "Alvle猫狐直播",
+    "type": "vtuber",
+    "room_id": 26761942,
+    "face": "/bfs/face/90aa2f73d5d9686e4b2d402d7ea08d06180c0116.jpg",
+    "group_name": ""
+  },
   "2903285": {
     "name": "Amy精一杯",
     "type": "vtuber",
@@ -4801,6 +4808,13 @@
     "face": "/bfs/face/49579d24e5620c6d0e66e51c6c8eb80b66a3e446.jpg",
     "group_name": "NIJISANJI"
   },
+  "3493284850699037": {
+    "name": "でるたや_Official",
+    "type": "vtuber",
+    "room_id": 30075043,
+    "face": "/bfs/face/2af72fb376265013a1f64ecfbd3513cd05f3d798.jpg",
+    "group_name": ""
+  },
   "286179206": {
     "name": "时乃空Official",
     "type": "vtuber",
@@ -7454,6 +7468,13 @@
     "face": "/bfs/face/26d0e292abd01878e9538d059ec13dabca1ad3d0.jpg",
     "group_name": ""
   },
+  "3493116155791611": {
+    "name": "介个沫沫憨憨哒",
+    "type": "vtuber",
+    "room_id": 27082557,
+    "face": "/bfs/face/358145cdd6f43d6eaf9fd934ec3607c4c89956aa.jpg",
+    "group_name": ""
+  },
   "272705818": {
     "name": "仓仓爱吃牛肉干",
     "type": "vtuber",
@@ -9441,6 +9462,13 @@
     "room_id": 22825429,
     "face": "/bfs/face/7ba804e05a0184920872385d99805e4477468638.jpg",
     "group_name": "ChaosLiveSprout"
+  },
+  "1142597056": {
+    "name": "冬眠zZ",
+    "type": "vtuber",
+    "room_id": 25524210,
+    "face": "/bfs/face/9834d709b236eb0ec6054c9de222ec86f0e7d7a1.jpg",
+    "group_name": "Zephyr-风泠社"
   },
   "3493122224950106": {
     "name": "冬眠期小鸟",
@@ -11441,7 +11469,7 @@
     "name": "卡米尔doffy",
     "type": "vtuber",
     "room_id": 24629856,
-    "face": "/bfs/face/2cf1fb7a46a27704356a0084ae8e8af92552ced8.jpg",
+    "face": "/bfs/face/4156765bc5fb111c4af71d57fa0eb65f03229f75.jpg",
     "group_name": "MiosLive"
   },
   "1011797664": {
@@ -18031,6 +18059,13 @@
     "face": "/bfs/face/d5325f79515510217b0ff3818a9ca0dc62c50399.jpg",
     "group_name": ""
   },
+  "3494361943771236": {
+    "name": "小花居呀",
+    "type": "vtuber",
+    "room_id": 30073189,
+    "face": "/bfs/face/ab433354414009770ce7c7bad7ca293ae6ae0d42.jpg",
+    "group_name": ""
+  },
   "438020568": {
     "name": "小花衣しぃOfficial",
     "type": "vtuber",
@@ -21830,6 +21865,13 @@
     "type": "vtuber",
     "room_id": 5525174,
     "face": "/bfs/face/2d8dd31b09584c3351b8ce5ddc1b80f80601e690.jpg",
+    "group_name": ""
+  },
+  "26165227": {
+    "name": "敛云烟",
+    "type": "vtuber",
+    "room_id": 10476261,
+    "face": "/bfs/face/6427da3f6daf7f638775e1c071b7920c93bd0dcf.jpg",
     "group_name": ""
   },
   "1993395129": {
@@ -30386,6 +30428,13 @@
     "face": "/bfs/face/9b36437276f789d82b8f3546bd9f7c85f513f9af.jpg",
     "group_name": ""
   },
+  "1398230632": {
+    "name": "浅芋imo",
+    "type": "vtuber",
+    "room_id": 25929702,
+    "face": "/bfs/face/2657cc070d0e6253f43fb31a141508d45e55c29b.jpg",
+    "group_name": ""
+  },
   "12348934": {
     "name": "浅蓝-血余_Official",
     "type": "vtuber",
@@ -32856,6 +32905,13 @@
     "room_id": 595837,
     "face": "/bfs/face/b9875fc391ae81bf25e44c25f050e4554f4f790c.jpg",
     "group_name": "hitorino"
+  },
+  "1768912092": {
+    "name": "猫羽_Nekoha",
+    "type": "vtuber",
+    "room_id": 30288559,
+    "face": "/bfs/face/b6fbfb58e6228c502a3f3b352817662869e3fabe.jpg",
+    "group_name": ""
   },
   "3493078558050567": {
     "name": "猫羽柔爱",
@@ -36684,6 +36740,13 @@
     "type": "vtuber",
     "room_id": 22821806,
     "face": "/bfs/face/388376976bc8c0c45fd67eeda095ee3cf07e9256.jpg",
+    "group_name": ""
+  },
+  "2025823232": {
+    "name": "秋一Aki",
+    "type": "vtuber",
+    "room_id": 25379731,
+    "face": "/bfs/face/c83d61ee8a29c84d4f07afbb617665e4d1446701.jpg",
     "group_name": ""
   },
   "5788217": {
@@ -50600,6 +50663,13 @@
     "type": "vtuber",
     "room_id": 7993714,
     "face": "/bfs/face/9133f754a165d7611fa76dd8ec5744697dbce98d.jpg",
+    "group_name": ""
+  },
+  "9890905": {
+    "name": "黑川薰Kurokawa",
+    "type": "vtuber",
+    "room_id": 3266072,
+    "face": "/bfs/face/89a1d6fdd3b30e0f244f9343eacf563cf229ab8d.jpg",
     "group_name": ""
   },
   "261325": {
