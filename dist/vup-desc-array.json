@@ -396,6 +396,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493270965454971,
+    "name": "ARP_Vtuber",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/7f51f1517058fe1dfa13a65c8743e8dee504e440.jpg",
+    "sign": "Virtual Youtuber Group : Algorhythm Project (Thailand) ",
+    "group_name": ""
+  },
+  {
     "uid": 24684806,
     "name": "ATM西米酱",
     "type": "vtuber",
@@ -762,7 +771,7 @@
     "room": 27637891,
     "face": "/bfs/face/1dae46f9ff104da07c0c36c2811c0cc376efb0ae.jpg",
     "sign": "Middle Brother of ORION a celestial Boy Group from ARP",
-    "group_name": ""
+    "group_name": "ARP"
   },
   {
     "uid": 1513469779,
@@ -861,6 +870,15 @@
     "room": 0,
     "face": "/bfs/face/2fd59ca059b338d070416c71f3c5172bebb3d396.jpg",
     "sign": "双人虚拟偶像组合“CANAME TO HARUKY”。请多多关照！　",
+    "group_name": ""
+  },
+  {
+    "uid": 3493289365867263,
+    "name": "CC-7_25生日庆",
+    "type": "vtuber",
+    "room": 27725396,
+    "face": "/bfs/face/3563bdef9e573ece601b4bdc0ef82406bc81f829.jpg",
+    "sign": "说你能做的，做你说过的直播时间  21:00-00:00",
     "group_name": ""
   },
   {
@@ -1113,7 +1131,7 @@
     "room": 27751132,
     "face": "/bfs/face/4dc9b307af3b82aaeab9f305ec26772873cede6f.jpg",
     "sign": "Maknae of ORION a celestial Boy Group from ARP",
-    "group_name": ""
+    "group_name": "ARP"
   },
   {
     "uid": 793061,
@@ -1230,7 +1248,7 @@
     "room": 30014472,
     "face": "/bfs/face/82bb6a1380acd8d76962fe342b0f4ec66c20395e.jpg",
     "sign": "Algorhythm Project - 是实习月老哦",
-    "group_name": ""
+    "group_name": "ARP"
   },
   {
     "uid": 3494357447478239,
@@ -1239,7 +1257,7 @@
     "room": 30052480,
     "face": "/bfs/face/707ab1dc677bcf64eed81af52f6d313b973d2043.jpg",
     "sign": "《Algorhythm Project》爱林诺儿  (Thailand)",
-    "group_name": ""
+    "group_name": "ARP"
   },
   {
     "uid": 94896660,
@@ -1356,7 +1374,7 @@
     "room": 30008814,
     "face": "/bfs/face/91758570c61b53594121026acf7ac0c61dd5ec22.jpg",
     "sign": "《Algorhythm Project》 The Banshee VTuber #Evalostsoul (TH/EN)",
-    "group_name": ""
+    "group_name": "ARP"
   },
   {
     "uid": 394851149,
@@ -1635,6 +1653,15 @@
     "room": 21919321,
     "face": "/bfs/face/7eb7fed6e888e28cf47ae160f448fae1fd2b57f2.jpg",
     "sign": "901 IQ, 不是 425KG 的 debu, cat！在学中文【直播是晚上8点，在动态通知】",
+    "group_name": ""
+  },
+  {
+    "uid": 277854028,
+    "name": "Hikikomoriちゃん",
+    "type": "vtuber",
+    "room": 27495696,
+    "face": "/bfs/face/af0c870451782e0df115f310eb9cf1e62a8b2ade.jpg",
+    "sign": "✧ LionStar 所属个人势 ✧你好！我是Hikikomori醬！一个永远16岁的中二少女！",
     "group_name": ""
   },
   {
@@ -3105,6 +3132,15 @@
     "group_name": ""
   },
   {
+    "uid": 571556,
+    "name": "Odetta猫咖",
+    "type": "vtuber",
+    "room": 700713,
+    "face": "/bfs/face/a0eaed259172d443c211266604f5244f3a4ed35a.jpg",
+    "sign": "毛茸茸爱好者，二次元画师，建模学习中，中日英三语，嗓子倒了的声乐九级，兼职写手，搞医学的但是技能树全点歪啦，欢迎各种合作，有事请私信|ω・）",
+    "group_name": ""
+  },
+  {
     "uid": 3493137448176445,
     "name": "Ohana_official",
     "type": "vtuber",
@@ -3867,7 +3903,7 @@
     "room": 27638044,
     "face": "/bfs/face/2126d42e5e429839f072230d53d0a8c08901c69c.jpg",
     "sign": "Big Brother of ORION a celestial Boy Group from ARP",
-    "group_name": ""
+    "group_name": "ARP"
   },
   {
     "uid": 613293,
@@ -5352,6 +5388,15 @@
     "room": 21473201,
     "face": "/bfs/face/99d1adaf80da4fa47ba26a8878f751697dfec38e.jpg",
     "sign": "锯中提琴的个人势VUP萤儿！希望成为大家的小天使ଘ(੭ˊᵕˋ)੭*欢迎你来鸭ww网易云/爱发电：keii萤_viola",
+    "group_name": ""
+  },
+  {
+    "uid": 1836986,
+    "name": "kibufu桑",
+    "type": "vtuber",
+    "room": 4724563,
+    "face": "/bfs/face/48c49a9415c89910becc13a80453449ff0dc2293.jpg",
+    "sign": "",
     "group_name": ""
   },
   {
@@ -8059,7 +8104,7 @@
     "name": "不可食用面包君",
     "type": "vtuber",
     "room": 3160112,
-    "face": "/bfs/face/87ae99286fff8d38340346482ef4f3c806bf54a7.jpg",
+    "face": "/bfs/face/c3e84b98e6029d6b13b70590406097026fff21bc.jpg",
     "sign": "个人势vup面包柴柴！\n平常播一播fps游戏以及moba游戏（还会杂谈\nrua狗狗群：175635717\n个人QQ：1551462905",
     "group_name": ""
   },
@@ -8610,6 +8655,15 @@
     "room": 27611220,
     "face": "/bfs/face/e95cc9a0f1eb3eb515414867e44b6529ad802fc8.jpg",
     "sign": "不能见面的日子我都在路边当小猫悄悄的陪着你>ᴗ<✧\n【微光社所属】直播通知聊天群767190845",
+    "group_name": ""
+  },
+  {
+    "uid": 3493293971212302,
+    "name": "么么爱唱歌_26号生日版",
+    "type": "vtuber",
+    "room": 27795183,
+    "face": "/bfs/face/89eac3e6f6e7e4ac2367eb6121326569ea4048b6.jpg",
+    "sign": "这个主播很哇塞 遇见就是挖到宝\n\n唱歌有自己的调调 擅长流行 抒情 Jay\n\n每晚10点不见不散 午夜战神 会迟到从不缺席！",
     "group_name": ""
   },
   {
@@ -12780,6 +12834,15 @@
     "group_name": ""
   },
   {
+    "uid": 3494365269854282,
+    "name": "凛音筱筱",
+    "type": "vtuber",
+    "room": 30120498,
+    "face": "/bfs/face/f2ca277a5edc9885a6c36b355ea7794f1fd76469.jpg",
+    "sign": "个鹅势，偷米计划启动中",
+    "group_name": ""
+  },
+  {
     "uid": 1220317431,
     "name": "凜凜蝶凜",
     "type": "vtuber",
@@ -15498,6 +15561,15 @@
     "group_name": ""
   },
   {
+    "uid": 39189168,
+    "name": "可爱的桐子",
+    "type": "vtuber",
+    "room": 3833066,
+    "face": "/bfs/face/8218c1f3d40e5346c94f05286444c2544c9818e0.jpg",
+    "sign": " 你的关注！是我坚持下去最大的动力！个人游戏势 随机出没 群573065042 这个人成分非常复杂！",
+    "group_name": ""
+  },
+  {
     "uid": 24924516,
     "name": "可诺Kino",
     "type": "vtuber",
@@ -17172,6 +17244,15 @@
     "group_name": ""
   },
   {
+    "uid": 8224283,
+    "name": "喵九不是猫九",
+    "type": "vtuber",
+    "room": 1365483,
+    "face": "/bfs/face/debb45656d566b3eece3cde682c6b1c7454c1e6c.jpg",
+    "sign": "个人势，Q音/网易云：喵九，vb：@喵九900  欢迎各种勾搭！【喵九的小窝 企鹅群：590546541】",
+    "group_name": ""
+  },
+  {
     "uid": 568209135,
     "name": "米噗米噗w",
     "type": "vtuber",
@@ -17997,6 +18078,15 @@
     "room": 1715526,
     "face": "/bfs/face/d1494da50204915979e6a57a880a993a0e86d02a.jpg",
     "sign": "个人势vup，来自平行世界的杀手猫猫",
+    "group_name": ""
+  },
+  {
+    "uid": 3494357738981967,
+    "name": "塞利叶__Sariel",
+    "type": "vtuber",
+    "room": 30076916,
+    "face": "/bfs/face/466d9d67147e02414b2c123ddaaf39a6354604c9.jpg",
+    "sign": "堕天使怎么不算天使呢 那么。把你的一切交给我吧  粉丝群号：786719164",
     "group_name": ""
   },
   {
@@ -20736,6 +20826,15 @@
     "group_name": ""
   },
   {
+    "uid": 3494349734152273,
+    "name": "奶油Kuromi",
+    "type": "vtuber",
+    "room": 30016011,
+    "face": "/bfs/face/36ed5e196849cd302a1aa359facd028231105bd8.jpg",
+    "sign": "Be myself 自由且快乐",
+    "group_name": ""
+  },
+  {
     "uid": 169710597,
     "name": "奶油萋萋子",
     "type": "vtuber",
@@ -21372,6 +21471,15 @@
     "room": 25345953,
     "face": "/bfs/face/afbfae62388c4c6631ce600be1061a83a3c53d2d.jpg",
     "sign": "音乐人 Virtual artist",
+    "group_name": ""
+  },
+  {
+    "uid": 3493078788737253,
+    "name": "婳婳_Callista",
+    "type": "vtuber",
+    "room": 27045089,
+    "face": "/bfs/face/99765f88d72fba7ddb428c6558d76d7aafb9bbca.jpg",
+    "sign": "个狐势",
     "group_name": ""
   },
   {
@@ -25488,6 +25596,15 @@
     "group_name": "超次元学院"
   },
   {
+    "uid": 3494363080427585,
+    "name": "幻欣channel",
+    "type": "vtuber",
+    "room": 30121292,
+    "face": "/bfs/face/0acd89d0db5b34969c33a121514f7cb1fd2f23c1.jpg",
+    "sign": "OwO",
+    "group_name": ""
+  },
+  {
     "uid": 318981218,
     "name": "幻海铃兰",
     "type": "vtuber",
@@ -29188,7 +29305,7 @@
   },
   {
     "uid": 860774,
-    "name": "易芷音",
+    "name": "祁灵汐",
     "type": "vtuber",
     "room": 1363320,
     "face": "/bfs/face/83e45041a4d98687b271f8bb1dde174b4a6f4c67.jpg",
@@ -31230,13 +31347,13 @@
     "group_name": ""
   },
   {
-    "uid": 3493137639017238,
-    "name": "昼歌里真给力",
+    "uid": 3494380161730626,
+    "name": "昼歌里Hiru_u",
     "type": "vtuber",
-    "room": 27798865,
+    "room": 30372481,
     "face": "/bfs/face/5d7de4ddc37cbd9cb42ca8745be2a2f059037fa9.jpg",
-    "sign": "ヒカリへ!",
-    "group_name": ""
+    "sign": "虚研社五期生，宇宙超级无敌爱抖露登场！",
+    "group_name": "虚研社"
   },
   {
     "uid": 1601484616,
@@ -31281,6 +31398,15 @@
     "room": 980470,
     "face": "/bfs/face/19ae11b1c4ffaadfbd68d79ed490e85a9dc88042.jpg",
     "sign": "男的/会吹点口琴/兴趣使然的Vup/法律系摸鱼选手/各种视频都可能会更新/平时直播练琴，偶尔打打游戏/极少数掉落户外公园吹琴直播",
+    "group_name": ""
+  },
+  {
+    "uid": 3494360534485297,
+    "name": "時雨suiyi",
+    "type": "vtuber",
+    "room": 30056715,
+    "face": "/bfs/face/018ad23c2a6468e4f2ba5971549b14be7fcb75b4.jpg",
+    "sign": "我们的目标！是星辰大海！加入我们，乘风破浪！",
     "group_name": ""
   },
   {
@@ -33243,6 +33369,15 @@
     "room": 11594982,
     "face": "/bfs/face/92c4e38448c4f250a530b8a642d9394224e44954.jpg",
     "sign": "气象学，寻章摘句，发呆。github:LiHuaVUP",
+    "group_name": ""
+  },
+  {
+    "uid": 22631109,
+    "name": "李梦非",
+    "type": "vtuber",
+    "room": 24920542,
+    "face": "/bfs/face/e5e1989c87e32263844466c9ee1bdfb00c01b5df.jpg",
+    "sign": "回归了~以后就在这边直播咯~多多关照歌势新人爱你们~",
     "group_name": ""
   },
   {
@@ -35791,6 +35926,15 @@
     "face": "/bfs/face/303028005e159ccb9546c718431ed50d0b7aff89.jpg",
     "sign": "starrysky战姬学院✈️大小姐F娘娘驾到，统统闪开！\n飞行员们速来 群952228358",
     "group_name": "StarrySky战姬学院"
+  },
+  {
+    "uid": 3494360091986430,
+    "name": "梦想变米虫一06666冠名",
+    "type": "vtuber",
+    "room": 30078141,
+    "face": "/bfs/face/b12ef07b976cda0c11a85450750239a650aec016.jpg",
+    "sign": "来，我们的宗旨就是“人间清醒，搞钱要紧”，我们的理想是“天天开心，没头没脑”，我们的性格是“生死看淡，不服就干”欧耶！！！！",
+    "group_name": ""
   },
   {
     "uid": 7410885,
@@ -46993,7 +47137,7 @@
     "name": "礼拜六Liu",
     "type": "vtuber",
     "room": 26815357,
-    "face": "/bfs/face/8c5fe1cd828e5a325106bf7ff1f580a86500fbd2.jpg",
+    "face": "/bfs/face/753dc49370132d18f2be002fd0f036af2dfd25b1.jpg",
     "sign": "个人势幽灵猫 很屑 在做喜欢的事",
     "group_name": ""
   },
@@ -50602,7 +50746,7 @@
     "name": "维那Channel",
     "type": "vtuber",
     "room": 23835737,
-    "face": "/bfs/face/63e1b0b9a93baed8ce37b356cf1b90fdb666613a.jpg",
+    "face": "/bfs/face/49e39a0f1680c9c3c173646526abcce297e7791b.jpg",
     "sign": "维那_Vena的录播整活号丨直播通知群499347614",
     "group_name": ""
   },
@@ -52115,7 +52259,7 @@
     "type": "vtuber",
     "room": 25899166,
     "face": "/bfs/face/4dc11948de5552382f3a18ca76522d72c7b1a1a0.jpg",
-    "sign": "未出道个人势半神半魔v｜绿神石孕育出的神秘之女｜杂谈学歌势｜薇啵奴聚集窝857456126｜直播通知群679589927",
+    "sign": "未出道个人势半神半魔v｜绿神石孕育出的神秘之女｜杂谈学歌势｜薇啵奴聚集窝857456126",
     "group_name": ""
   },
   {
@@ -54234,6 +54378,15 @@
     "group_name": "草莓王子"
   },
   {
+    "uid": 3494354433869855,
+    "name": "草莓蛋糕子",
+    "type": "vtuber",
+    "room": 27937040,
+    "face": "/bfs/face/07cbc19d48d8d8ada33b80519c4fa23cfe5289e5.jpg",
+    "sign": "",
+    "group_name": ""
+  },
+  {
     "uid": 27894443,
     "name": "草青Official",
     "type": "vtuber",
@@ -55211,7 +55364,7 @@
     "type": "vtuber",
     "room": 26994563,
     "face": "/bfs/face/77334aedace96f202d5f9907213cd21f0a44171d.jpg",
-    "sign": "虚研学园の憨憨歌势，歌切号@兔兔推推人，爱唱歌和聊天～梦想是百舰嘿嘿嘿",
+    "sign": "虚研学园，憨憨歌势(10086线糊兔兔)，歌切号@兔兔推推人，爱唱歌和聊天～",
     "group_name": ""
   },
   {
@@ -57762,6 +57915,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493088139938456,
+    "name": "谷月病",
+    "type": "vtuber",
+    "room": 26666642,
+    "face": "/bfs/face/f0ed7d515d3c59fda43cfa394456b93143fd9e98.jpg",
+    "sign": "嗨嗨～这是奇迹信号所属的养成系男子大学生，你可以叫我谷老师，不准叫我笨蛋！",
+    "group_name": ""
+  },
+  {
     "uid": 176870130,
     "name": "谷清羽_Channel",
     "type": "vtuber",
@@ -59283,6 +59445,15 @@
     "group_name": ""
   },
   {
+    "uid": 3494380734253869,
+    "name": "郝球球不熬夜",
+    "type": "vtuber",
+    "room": 30365225,
+    "face": "/bfs/face/7e4d41cfcb7e60b3428d5b0a6e62d43ff03bdcc9.jpg",
+    "sign": "✦个人势✧  唱跳rap都半桶水的爱豆练习生，超废但超甜❤粉丝群：824818073",
+    "group_name": ""
+  },
+  {
     "uid": 458154139,
     "name": "郡道美玲Official",
     "type": "unknown",
@@ -59460,6 +59631,15 @@
     "room": 25761127,
     "face": "/bfs/face/c36a2442c3539422b787f6fc2bc90010898e45ac.jpg",
     "sign": "每天18-21",
+    "group_name": ""
+  },
+  {
+    "uid": 1584923787,
+    "name": "釉藥_yuuyaku",
+    "type": "vtuber",
+    "room": 22973463,
+    "face": "/bfs/face/38d4e1f92fbbabee6d5b25c895620e522d5555f7.jpg",
+    "sign": "我叫釉藥！是从天上来的个人势小狐咪\n直播时间:晚12-早5\n粉丝群:137087135\n感谢你的喜欢！！！！！",
     "group_name": ""
   },
   {
@@ -65542,7 +65722,7 @@
     "name": "鹿鹿子哇-",
     "type": "vtuber",
     "room": 26301771,
-    "face": "/bfs/face/5e71b801308d036752329500e5648f8cbdba88b0.jpg",
+    "face": "/bfs/face/0f1d716dbf2cd3be64fdd65562ec0dcfdb5f937c.jpg",
     "sign": "小小世界，开心至上。  全职主播。直播时间：7-13    Qq群234166630",
     "group_name": ""
   },
