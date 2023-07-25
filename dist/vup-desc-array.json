@@ -1549,11 +1549,11 @@
   },
   {
     "uid": 70606554,
-    "name": "Hachime朷初",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 10949670,
-    "face": "/bfs/face/d5c61b1b1e637b23fbde1cb1710cc88f7dea1efc.jpg",
-    "sign": "欢迎光临，这里是在尾巴田酒馆打工的[试作型AI] Hachime朷初，可以给予您完美的游戏<过载>体验【SWIFT所属】",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {
@@ -54635,7 +54635,7 @@
     "type": "vtuber",
     "room": 51191,
     "face": "/bfs/face/444dafaa440705be625a7c1488d62b1c1971d241.jpg",
-    "sign": "<Chips Project>来到互联网只是为了做自己喜欢的事",
+    "sign": "<Chips Project>希望大家可以喜欢不会说话的我",
     "group_name": "ChaosLiveSprout"
   },
   {
