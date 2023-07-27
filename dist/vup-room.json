@@ -3892,7 +3892,7 @@
     "group_name": ""
   },
   "1592759": {
-    "name": "Zimo菌今天开始养蚂蚁",
+    "name": "Zimo菌",
     "type": "vtuber",
     "room_id": 50353,
     "face": "/bfs/face/99e018b8395643fe7c04f6a79b73ea6038105b33.jpg",
@@ -28005,6 +28005,13 @@
     "room_id": 299642,
     "face": "/bfs/face/8b84243666bdba506bfbae75d6275759a1b083b6.jpg",
     "group_name": "极光社"
+  },
+  "24641923": {
+    "name": "桧塔HATA",
+    "type": "vtuber",
+    "room_id": 5583853,
+    "face": "/bfs/face/f92f774aec77f21410d62669b4d1863829a39855.jpg",
+    "group_name": ""
   },
   "690608707": {
     "name": "梅丽莎・金莲花Official",

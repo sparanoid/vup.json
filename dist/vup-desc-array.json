@@ -5005,7 +5005,7 @@
   },
   {
     "uid": 1592759,
-    "name": "Zimo菌今天开始养蚂蚁",
+    "name": "Zimo菌",
     "type": "vtuber",
     "room": 50353,
     "face": "/bfs/face/99e018b8395643fe7c04f6a79b73ea6038105b33.jpg",
@@ -36007,6 +36007,15 @@
     "face": "/bfs/face/8b84243666bdba506bfbae75d6275759a1b083b6.jpg",
     "sign": "温柔是最坚毅的力量，愿你能在我这里感受到温暖 什么都会一点！",
     "group_name": "极光社"
+  },
+  {
+    "uid": 24641923,
+    "name": "桧塔HATA",
+    "type": "vtuber",
+    "room": 5583853,
+    "face": "/bfs/face/f92f774aec77f21410d62669b4d1863829a39855.jpg",
+    "sign": "她真的很喜欢奶油蘑菇汤(´▽｀)录播@归晚春",
+    "group_name": ""
   },
   {
     "uid": 690608707,
