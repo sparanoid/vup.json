@@ -2135,6 +2135,13 @@
     "group_name": ""
   },
   {
+    "uid": 590178262,
+    "name": "Mo-o_Project",
+    "type": "group",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 449786865,
     "name": "MochiPro中国官方",
     "type": "group",
@@ -2350,13 +2357,6 @@
     "type": "group",
     "room": 0,
     "group_name": ""
-  },
-  {
-    "uid": 1795366254,
-    "name": "星律动channel",
-    "type": "group",
-    "room": 23225527,
-    "group_name": "Nebula-Beat​"
   },
   {
     "uid": 156562309,
@@ -7364,6 +7364,13 @@
     "group_name": ""
   },
   {
+    "uid": 2634922,
+    "name": "二米明子",
+    "type": "vtuber",
+    "room": 867764,
+    "group_name": ""
+  },
+  {
     "uid": 6418902,
     "name": "二雲信",
     "type": "vtuber",
@@ -7656,13 +7663,6 @@
     "type": "vtuber",
     "room": 25815214,
     "group_name": "PaPutok"
-  },
-  {
-    "uid": 109834414,
-    "name": "御天神Tacke",
-    "type": "vtuber",
-    "room": 24492364,
-    "group_name": ""
   },
   {
     "uid": 692611676,
@@ -8418,7 +8418,7 @@
     "name": "伊菲不是小火驴",
     "type": "vtuber",
     "room": 26427138,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 2037141,
@@ -12023,7 +12023,7 @@
     "name": "卡缇娅也不知道鸭",
     "type": "vtuber",
     "room": 24697117,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 2029411327,
@@ -12632,7 +12632,7 @@
     "name": "河黎有片小叶子",
     "type": "vtuber",
     "room": 26213288,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 3493144475731984,
@@ -12814,7 +12814,7 @@
     "name": "吉诺儿kino",
     "type": "vtuber",
     "room": 23221095,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 6716902,
@@ -13647,7 +13647,7 @@
     "name": "唐九夏还想再躺一下",
     "type": "vtuber",
     "room": 23303212,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 360293428,
@@ -15610,6 +15610,13 @@
     "group_name": ""
   },
   {
+    "uid": 353708919,
+    "name": "夢冬oTo",
+    "type": "vtuber",
+    "room": 12607506,
+    "group_name": ""
+  },
+  {
     "uid": 477780499,
     "name": "梦月萝娅Official",
     "type": "vtuber",
@@ -15699,6 +15706,13 @@
     "type": "vtuber",
     "room": 22329990,
     "group_name": "三垣四象project"
+  },
+  {
+    "uid": 41855819,
+    "name": "大理石狐自恧",
+    "type": "vtuber",
+    "room": 12494062,
+    "group_name": ""
   },
   {
     "uid": 386258676,
@@ -18008,7 +18022,7 @@
     "name": "宣小纸不怕火",
     "type": "vtuber",
     "room": 26276187,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 12485637,
@@ -20500,7 +20514,7 @@
     "name": "希诺_Sinon",
     "type": "vtuber",
     "room": 30112426,
-    "group_name": ""
+    "group_name": "Mo-o_Project"
   },
   {
     "uid": 430219038,
@@ -21319,7 +21333,7 @@
     "name": "弥饭MIF",
     "type": "vtuber",
     "room": 27912753,
-    "group_name": ""
+    "group_name": "Mo-o_Project"
   },
   {
     "uid": 1571392281,
@@ -21551,6 +21565,13 @@
     "type": "vtuber",
     "room": 7968065,
     "group_name": ""
+  },
+  {
+    "uid": 109834414,
+    "name": "御天神Tacke",
+    "type": "vtuber",
+    "room": 24492364,
+    "group_name": "新月社FCrescent"
   },
   {
     "uid": 1092417210,
@@ -22593,7 +22614,7 @@
     "name": "战斗吧歌姬官方账号",
     "type": "vtuber",
     "room": 14578426,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 7196493,
@@ -23664,6 +23685,13 @@
     "name": "雪野夜时音_official",
     "type": "vtuber",
     "room": 3184309,
+    "group_name": ""
+  },
+  {
+    "uid": 3493290938731128,
+    "name": "旺宝咪yaの豆腐帅A专宠",
+    "type": "vtuber",
+    "room": 30046644,
     "group_name": ""
   },
   {
@@ -28508,7 +28536,7 @@
     "name": "桃姆Q吃手手",
     "type": "vtuber",
     "room": 26174302,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 1970372013,
@@ -29075,6 +29103,13 @@
     "name": "梦奈Yumona",
     "type": "vtuber",
     "room": 27626232,
+    "group_name": ""
+  },
+  {
+    "uid": 588569696,
+    "name": "梦宝福星",
+    "type": "vtuber",
+    "room": 22238257,
     "group_name": ""
   },
   {
@@ -29957,6 +29992,13 @@
     "name": "樱桃子_Nico",
     "type": "vtuber",
     "room": 27485715,
+    "group_name": ""
+  },
+  {
+    "uid": 1480042951,
+    "name": "樱桃软喵cherry",
+    "type": "vtuber",
+    "room": 25225998,
     "group_name": ""
   },
   {
@@ -31049,6 +31091,13 @@
     "name": "江阿鲤",
     "type": "vtuber",
     "room": 27488474,
+    "group_name": ""
+  },
+  {
+    "uid": 3494365771074312,
+    "name": "池上暝_official",
+    "type": "vtuber",
+    "room": 30125671,
     "group_name": ""
   },
   {
@@ -35014,6 +35063,13 @@
     "group_name": ""
   },
   {
+    "uid": 647720295,
+    "name": "猴猴公主zz",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "Mo-o_Project"
+  },
+  {
     "uid": 5603756,
     "name": "猹子Meles",
     "type": "vtuber",
@@ -35179,6 +35235,13 @@
     "name": "王沐沐_mumu",
     "type": "vtuber",
     "room": 23421734,
+    "group_name": ""
+  },
+  {
+    "uid": 5696856,
+    "name": "王玩玩_30号满月版",
+    "type": "vtuber",
+    "room": 21450385,
     "group_name": ""
   },
   {
@@ -36257,6 +36320,13 @@
     "name": "由紀南",
     "type": "vtuber",
     "room": 25699229,
+    "group_name": ""
+  },
+  {
+    "uid": 3494379350133201,
+    "name": "由衣Yui_official",
+    "type": "vtuber",
+    "room": 30344831,
     "group_name": ""
   },
   {
@@ -40075,6 +40145,13 @@
     "group_name": ""
   },
   {
+    "uid": 267014706,
+    "name": "糕崽",
+    "type": "vtuber",
+    "room": 21037912,
+    "group_name": ""
+  },
+  {
     "uid": 7728653,
     "name": "糖啵啵Official",
     "type": "vtuber",
@@ -41486,7 +41563,7 @@
     "name": "罗兹Blazing",
     "type": "vtuber",
     "room": 24087754,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 1501145142,
@@ -42644,6 +42721,13 @@
     "group_name": ""
   },
   {
+    "uid": 3494353704061716,
+    "name": "艾黎哟-Adam冠",
+    "type": "vtuber",
+    "room": 27936948,
+    "group_name": ""
+  },
+  {
     "uid": 3493268763446099,
     "name": "艿梨Norio_0v",
     "type": "vtuber",
@@ -42915,6 +42999,13 @@
     "type": "vtuber",
     "room": 866709,
     "group_name": "StarrySky战姬学院"
+  },
+  {
+    "uid": 3494367908071991,
+    "name": "芥芽依Yaki",
+    "type": "vtuber",
+    "room": 30180840,
+    "group_name": ""
   },
   {
     "uid": 431493530,
@@ -44695,6 +44786,13 @@
     "group_name": ""
   },
   {
+    "uid": 22851327,
+    "name": "莯莯不伐木吖",
+    "type": "vtuber",
+    "room": 4862625,
+    "group_name": ""
+  },
+  {
     "uid": 3493293757303047,
     "name": "莱伊Online",
     "type": "vtuber",
@@ -45091,7 +45189,7 @@
     "name": "萝娜火辣辣",
     "type": "vtuber",
     "room": 26173394,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 392615946,
@@ -46023,6 +46121,13 @@
     "type": "vtuber",
     "room": 76735,
     "group_name": "Vidol工作室"
+  },
+  {
+    "uid": 3494367606082122,
+    "name": "虾虾mizu",
+    "type": "vtuber",
+    "room": 30147725,
+    "group_name": ""
   },
   {
     "uid": 1179831688,
@@ -49438,7 +49543,7 @@
     "name": "阙丘_Kylin",
     "type": "vtuber",
     "room": 30104411,
-    "group_name": ""
+    "group_name": "Mo-o_Project"
   },
   {
     "uid": 3493283133131419,
@@ -49522,7 +49627,7 @@
     "name": "阿买official",
     "type": "vtuber",
     "room": 25038149,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 3493262346160934,
@@ -49592,6 +49697,13 @@
     "name": "阿叽丫",
     "type": "vtuber",
     "room": 25208787,
+    "group_name": ""
+  },
+  {
+    "uid": 1563623925,
+    "name": "阿否dayo",
+    "type": "vtuber",
+    "room": 25208275,
     "group_name": ""
   },
   {
@@ -50453,7 +50565,7 @@
     "name": "雨鱼渔爱吃鱼",
     "type": "vtuber",
     "room": 26543891,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 5352545,
@@ -51188,7 +51300,7 @@
     "name": "枭魔女霍鹭鹭",
     "type": "vtuber",
     "room": 6542664,
-    "group_name": "Nebula-Beat​"
+    "group_name": ""
   },
   {
     "uid": 1612858588,
