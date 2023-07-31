@@ -8753,7 +8753,7 @@
     "name": "佑伶",
     "type": "vtuber",
     "room_id": 27534365,
-    "face": "/bfs/face/3355d55b5e011bed3e134e99c5275c6536235d16.jpg",
+    "face": "/bfs/face/221c04f4c70a39b93a1fea4b518b27b72cf8c093.jpg",
     "group_name": ""
   },
   "24967030": {
@@ -15680,7 +15680,7 @@
     "group_name": ""
   },
   "672525743": {
-    "name": "大头曦曦子30号满月",
+    "name": "曦曦子ii",
     "type": "vtuber",
     "room_id": 30031133,
     "face": "/bfs/face/2b55110bfc3cad9c10e3b4796c24a58c0f9f2ce8.jpg",
@@ -23453,7 +23453,7 @@
     "name": "HiyoriQuQ",
     "type": "vtuber",
     "room_id": 14409049,
-    "face": "/bfs/face/379eb33e87817ab7f2b9ec067b2a4abf90105c38.jpg",
+    "face": "/bfs/face/7adb38fb07e86b254e2a6858508fe9f61d7464d5.jpg",
     "group_name": "chaoslive"
   },
   "12706482": {
@@ -37996,10 +37996,10 @@
     "group_name": ""
   },
   "3494354819745994": {
-    "name": "真里奈Lena",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 27943313,
-    "face": "/bfs/face/c6c22297ca52eff8349dc59c9c318b65b67d5249.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493093481384191": {
