@@ -32423,6 +32423,13 @@
     "face": "/bfs/face/e0faccf7d35ba910d02097e7adde48c340a512c2.jpg",
     "group_name": ""
   },
+  "11085212": {
+    "name": "洛洛米_roromi",
+    "type": "vtuber",
+    "room": 520523,
+    "face": "/bfs/face/c0f044ecf8751428edf03c9001f55d8bae198ee6.jpg",
+    "group_name": ""
+  },
   "32713922": {
     "name": "洛洛缇娅",
     "type": "vtuber",
@@ -36509,6 +36516,13 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/eb6bf510030efd6f4a1cbeb28c320bec6a56b0ff.jpg",
+    "group_name": ""
+  },
+  "1150417011": {
+    "name": "瓜瓜偷猹-瓜皮护瓜",
+    "type": "vtuber",
+    "room": 27124298,
+    "face": "/bfs/face/d46c4f956241864a6fa4c7f524ad1305d2a8ac1a.jpg",
     "group_name": ""
   },
   "702966870": {
@@ -41443,7 +41457,7 @@
     "name": "绀野莉乃Rino",
     "type": "vtuber",
     "room": 27575994,
-    "face": "/bfs/face/a5d59ced208054851afdff493f0c03a3f1a6a414.jpg",
+    "face": "/bfs/face/de5b1ee7b7903ab7f6aa61e454b5e8327ac77932.jpg",
     "group_name": ""
   },
   "1362120256": {
@@ -53837,7 +53851,7 @@
     "group_name": ""
   },
   "3494356591839278": {
-    "name": "鸽几zZ31号满月",
+    "name": "鸽几zZ",
     "type": "vtuber",
     "room": 30036672,
     "face": "/bfs/face/630d0476126555c14f89c98735512f9b1ed5d363.jpg",
