@@ -8460,7 +8460,7 @@
     "name": "二三Icey",
     "type": "vtuber",
     "room": 27561342,
-    "face": "/bfs/face/f0e0916ab376605dc9311a578f00a769960d7713.jpg",
+    "face": "/bfs/face/ac10721a3c6321bcd8584f5eb8bc01fa33678d27.jpg",
     "group_name": ""
   },
   {
@@ -15185,7 +15185,7 @@
   },
   {
     "uid": 3493111135210145,
-    "name": "呱呱老六7月29百天快乐",
+    "name": "呱呱老六卍锦鲤店铺",
     "type": "vtuber",
     "room": 27639003,
     "face": "/bfs/face/78a3481e3aab69dcf42e6302e2d32ea0507d8fe6.jpg",
@@ -16596,7 +16596,7 @@
     "name": "困困奶酥",
     "type": "vtuber",
     "room": 27439062,
-    "face": "/bfs/face/60cdde2c0fb9795719e683ac60fa742b16f0dae8.jpg",
+    "face": "/bfs/face/71b04db2ed952641ba3bf61a0059d1511166f179.jpg",
     "group_name": ""
   },
   {
@@ -36476,7 +36476,7 @@
     "name": "法里达",
     "type": "vtuber",
     "room": 972474,
-    "face": "/bfs/face/5d1273cfc85b86d45bc45a49955f25e18310a6fa.jpg",
+    "face": "/bfs/face/0026c98512fb140869335685a34cfd037075656d.jpg",
     "group_name": ""
   },
   {
@@ -44033,10 +44033,10 @@
   },
   {
     "uid": 3493286096407074,
-    "name": "眠眠冰_Miyu",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 30035438,
-    "face": "/bfs/face/116b9a7fba04c866be1261ae32a0f1a1fc606c2c.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
