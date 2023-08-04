@@ -12414,7 +12414,7 @@
     "name": "卿雪团子_8月4号新衣回",
     "type": "vtuber",
     "room": 27478337,
-    "face": "/bfs/face/3d0b0dd693d42e77480b5d2805cf8e4c1dd7845e.jpg",
+    "face": "/bfs/face/f806be7701937d2fa1d8c70aa19dff5bd5b97fcc.jpg",
     "group_name": ""
   },
   "612160608": {
@@ -22036,7 +22036,7 @@
     "group_name": "Providence"
   },
   "1826997867": {
-    "name": "御sama-",
+    "name": "御sama-8月9新皮双满",
     "type": "vtuber",
     "room": 27963951,
     "face": "/bfs/face/744a75edd01bed168f49beab9aa83e18e38ee355.jpg",
@@ -25883,6 +25883,13 @@
     "type": "vtuber",
     "room": 25449316,
     "face": "/bfs/face/7f37866cde7cd811445728a20232ab4ace704417.jpg",
+    "group_name": ""
+  },
+  "509119523": {
+    "name": "是恰恰但不是瓜子",
+    "type": "vtuber",
+    "room": 30175248,
+    "face": "/bfs/face/92c292dba7d46f092ed495775b60eafa34dc0c8e.jpg",
     "group_name": ""
   },
   "96975902": {
@@ -34926,7 +34933,7 @@
     "name": "片桐秋_Official",
     "type": "vtuber",
     "room": 22628126,
-    "face": "/bfs/face/f54ee116c13ffde0cbc56819ca8b7493e34b9a7f.jpg",
+    "face": "/bfs/face/e862e6bbb22ab0a68f55621cde20f5be10a0726d.jpg",
     "group_name": ""
   },
   "2231439": {
@@ -50175,6 +50182,13 @@
     "face": "/bfs/face/0749378748c40776af0c1d6c60101a265778df51.jpg",
     "group_name": ""
   },
+  "249250975": {
+    "name": "钱香盈盈盈",
+    "type": "vtuber",
+    "room": 9350421,
+    "face": "/bfs/face/1e2dce679caa070520a3b207c87e49f72c4b8cb8.jpg",
+    "group_name": ""
+  },
   "352605981": {
     "name": "钴蓝苏打SODA",
     "type": "vtuber",
@@ -50986,6 +51000,13 @@
     "room": 1123743,
     "face": "/bfs/face/b05cc877bfab236e49f347d4bd6c83ff49a59e68.webp",
     "group_name": "LepusLive"
+  },
+  "5500001": {
+    "name": "阿尤沙德",
+    "type": "vtuber",
+    "room": 30370538,
+    "face": "/bfs/face/d5be8ba94febd743b34ea6de0d6b5813b9849bac.jpg",
+    "group_name": "尼比陆"
   },
   "31093572": {
     "name": "阿尤里Ayu",
