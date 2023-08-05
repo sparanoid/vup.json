@@ -11805,7 +11805,7 @@
     "name": "午哞哞",
     "type": "vtuber",
     "room": 22821718,
-    "face": "/bfs/face/3bf9d78db5d9c1ef8c2e9010f24feea3218f7835.jpg",
+    "face": "/bfs/face/7fc1ef89b0ec40c64b297b32686d2bc2a935e345.jpg",
     "group_name": ""
   },
   "2989080": {
@@ -25385,7 +25385,7 @@
     "name": "星谷樹_itsuki",
     "type": "vtuber",
     "room": 790566,
-    "face": "/bfs/face/13ce111c3d6fc6c87312e76bbb301bd31f8be35d.jpg",
+    "face": "/bfs/face/9bdbea4c1ecd4a5e1c84740b4c4f51e807775758.jpg",
     "group_name": ""
   },
   "1743015": {
@@ -26771,7 +26771,7 @@
     "name": "月见Lacy",
     "type": "vtuber",
     "room": 30173872,
-    "face": "/bfs/face/9d163f1896a90af71cb00ae4fd16d88d5a82d439.jpg",
+    "face": "/bfs/face/ecd08ddc0d58ba1fcf9fab5ee2f6f7ed17766875.jpg",
     "group_name": ""
   },
   "2151007": {
@@ -33796,10 +33796,10 @@
     "group_name": ""
   },
   "3493286608112245": {
-    "name": "温蒂_Best",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 27693712,
-    "face": "/bfs/face/a7b696cb1c2d9b5236f661ae074095b0c8ca02b4.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "515744269": {
@@ -47960,7 +47960,7 @@
     "name": "記纱_official",
     "type": "vtuber",
     "room": 27653193,
-    "face": "/bfs/face/d9bfbc30061b7bbd64104466ab0f3256894d7187.jpg",
+    "face": "/bfs/face/d0efdc7521c71b1b1135cc6d3a88bb0bfa4186c1.jpg",
     "group_name": ""
   },
   "574400": {
