@@ -29466,7 +29466,7 @@
     "name": "桃酥Momo",
     "type": "vtuber",
     "room": 24906576,
-    "face": "/bfs/face/d30141f6a5a33062f6e5a8fd26bd24ce1e41654d.jpg",
+    "face": "/bfs/face/03c186c2ca9a66498073c34039dfe19ad4fe3362.jpg",
     "group_name": ""
   },
   "8909403": {
@@ -33058,6 +33058,13 @@
     "type": "vtuber",
     "room": 30150008,
     "face": "/bfs/face/4adaa8ef004b4bb5d7845de41ac5591e13734529.jpg",
+    "group_name": ""
+  },
+  "15039297": {
+    "name": "浅酌半壶酒-沉淀版",
+    "type": "vtuber",
+    "room": 22210673,
+    "face": "/bfs/face/d8029304a562471165569e216bb77d02026b88ff.jpg",
     "group_name": ""
   },
   "478822": {
