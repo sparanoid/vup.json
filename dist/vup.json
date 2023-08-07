@@ -28622,6 +28622,13 @@
     "face": "/bfs/face/b7169143b5cb3fdd91b73deed476476fea5a248a.jpg",
     "group_name": ""
   },
+  "9923775": {
+    "name": "柯暮卿",
+    "type": "vtuber",
+    "room": 925758,
+    "face": "/bfs/face/9db290972b848c554ea4e7654d0af45f3a5e1b0f.jpg",
+    "group_name": ""
+  },
   "522045311": {
     "name": "柯柯Official",
     "type": "vtuber",
@@ -33016,6 +33023,13 @@
     "type": "vtuber",
     "room": 27753172,
     "face": "/bfs/face/cae3f31f95232ecf08509a3c310c0086ad8aa3f7.jpg",
+    "group_name": ""
+  },
+  "8455576": {
+    "name": "浅星喵",
+    "type": "vtuber",
+    "room": 224625,
+    "face": "/bfs/face/4c1bae4ee9f5e7a014badc4299403d96627e5e39.jpg",
     "group_name": ""
   },
   "1038894369": {
@@ -48396,6 +48410,13 @@
     "room": 5469741,
     "face": "/bfs/face/3802fba9cd5b90194edaa479c205cc5fc0f336ce.jpg",
     "group_name": "ChaosLiveSprout"
+  },
+  "20193220": {
+    "name": "豆奶Melor",
+    "type": "vtuber",
+    "room": 23128210,
+    "face": "/bfs/face/dd2dafab472e5b89e87311e5e49c8455c3eed5fd.jpg",
+    "group_name": ""
   },
   "4097824": {
     "name": "豆沙包包包_OvO",
