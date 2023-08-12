@@ -1768,6 +1768,14 @@
     "group_name": ""
   },
   {
+    "uid": 62411789,
+    "name": "KKKelly_Official",
+    "type": "vtuber",
+    "room": 3994724,
+    "face": "/bfs/face/dfd4250b581101edef2a56544b6ae8ec1481cb75.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 2149710,
     "name": "KMNHZ-China",
     "type": "vtuber",
@@ -15456,6 +15464,14 @@
     "group_name": ""
   },
   {
+    "uid": 1223484261,
+    "name": "咏枂Yuer",
+    "type": "vtuber",
+    "room": 25215389,
+    "face": "/bfs/face/3966e2863ab76294722046cd646233b145be7c8a.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3493274442533075,
     "name": "咔比大王Kingu",
     "type": "vtuber",
@@ -22496,6 +22512,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493084235041307,
+    "name": "小迷糊咩酱",
+    "type": "vtuber",
+    "room": 26456323,
+    "face": "/bfs/face/ac1bf8e17679bd8155c37af3561a811b0116408f.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 13341120,
     "name": "小醨Liz",
     "type": "vtuber",
@@ -29288,6 +29312,14 @@
     "group_name": ""
   },
   {
+    "uid": 630267780,
+    "name": "星阳_sy",
+    "type": "vtuber",
+    "room": 30369986,
+    "face": "/bfs/face/06460edd7d872af4b45e82fa90a2526f065a17b1.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 509372,
     "name": "星雨透",
     "type": "vtuber",
@@ -31158,6 +31190,14 @@
     "room": 22204961,
     "face": "/bfs/face/947f8cc3686dd5d3b03fc810c3630e532eedc041.jpg",
     "group_name": "Antinomy13"
+  },
+  {
+    "uid": 690230154,
+    "name": "木乃伊子_official",
+    "type": "vtuber",
+    "room": 26144906,
+    "face": "/bfs/face/dc206f5be5c1258e3df5b3340b36d60609c6cd93.jpg",
+    "group_name": ""
   },
   {
     "uid": 13437162,
@@ -48048,6 +48088,14 @@
     "group_name": "曦和project"
   },
   {
+    "uid": 1813858,
+    "name": "织绫kylin",
+    "type": "vtuber",
+    "room": 8055472,
+    "face": "/bfs/face/a7ed8dd0a3e974de2bc618635c9f671aba0547eb.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 287769888,
     "name": "绊月柒_kissne",
     "type": "vtuber",
@@ -48180,7 +48228,7 @@
     "name": "绪任克斯Syrinx",
     "type": "vtuber",
     "room": 27339042,
-    "face": "/bfs/face/a809693ff750be57cdc8819e2b2246ac2436f086.jpg",
+    "face": "/bfs/face/6a54c3bf5f37ec34d7532e6f3a943aaf5b684fc3.jpg",
     "group_name": ""
   },
   {
@@ -61213,6 +61261,14 @@
     "type": "vtuber",
     "room": 27841702,
     "face": "/bfs/face/7b3b97c1c0305dce2499f4801b77d7e97a0717c8.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1171074593,
+    "name": "食人花帕琪",
+    "type": "vtuber",
+    "room": 24131778,
+    "face": "/bfs/face/29f0844a94c8925f6d4e5f9a2b797edf855bb27d.jpg",
     "group_name": ""
   },
   {
