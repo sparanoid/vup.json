@@ -609,10 +609,10 @@
     "group_name": ""
   },
   "2122846030": {
-    "name": "十六夜Ayaya",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 22754453,
-    "face": "/bfs/face/fe1766373861a2a1c3bed30965a44c4ad857756f.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "416030145": {
@@ -2376,7 +2376,7 @@
     "name": "Nagi_小凪",
     "type": "vtuber",
     "room_id": 30097617,
-    "face": "/bfs/face/9f36c17c682f7b642aa1ddd65982aefc32a264ce.jpg",
+    "face": "/bfs/face/08d2ad309a38d80ce79200fb05d970517e6a164a.jpg",
     "group_name": ""
   },
   "3494354922506652": {
@@ -2548,7 +2548,7 @@
     "group_name": ""
   },
   "38219397": {
-    "name": "纳斯Nasu",
+    "name": "Nus丶です",
     "type": "vtuber",
     "room_id": 1883081,
     "face": "/bfs/face/5a5b7ad16be2f9af2e47d479a38e1ed6d5c40cde.jpg",
@@ -29424,7 +29424,7 @@
     "name": "户山小红",
     "type": "vtuber",
     "room_id": 21949636,
-    "face": "/bfs/face/ab36f12f9fe6f002768badfea076794acfb362bb.jpg",
+    "face": "/bfs/face/356024202195d1141f1693dcbe966cd54ea1bd0a.jpg",
     "group_name": ""
   },
   "4298023": {
@@ -29802,7 +29802,7 @@
     "name": "梅莉Meri",
     "type": "vtuber",
     "room_id": 26273258,
-    "face": "/bfs/face/5b4a490bd50c9b226d47649d386e9d8c3dd29329.jpg",
+    "face": "/bfs/face/3ba86a00637e73f24216e95404caee3d80e0a934.jpg",
     "group_name": ""
   },
   "32199222": {
@@ -30019,7 +30019,7 @@
     "name": "梦魇Tsuki",
     "type": "vtuber",
     "room_id": 851181,
-    "face": "/bfs/face/ff3c0a1567d2a8fc7a530e116f123490e14d2548.jpg",
+    "face": "/bfs/face/3eb3921a2b0cbefa3cf36110c814106f9837abda.jpg",
     "group_name": ""
   },
   "589679268": {

@@ -696,11 +696,11 @@
     "group_name": ""
   },
   "2122846030": {
-    "name": "十六夜Ayaya",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 22754453,
-    "face": "/bfs/face/fe1766373861a2a1c3bed30965a44c4ad857756f.jpg",
-    "sign": "さようなら",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "416030145": {
@@ -2715,7 +2715,7 @@
     "name": "Nagi_小凪",
     "type": "vtuber",
     "room": 30097617,
-    "face": "/bfs/face/9f36c17c682f7b642aa1ddd65982aefc32a264ce.jpg",
+    "face": "/bfs/face/08d2ad309a38d80ce79200fb05d970517e6a164a.jpg",
     "sign": "Aviation企划一期生  不用指望互相理解的，这就是弱肉强食的世界  ",
     "group_name": ""
   },
@@ -2912,7 +2912,7 @@
     "group_name": ""
   },
   "38219397": {
-    "name": "纳斯Nasu",
+    "name": "Nus丶です",
     "type": "vtuber",
     "room": 1883081,
     "face": "/bfs/face/5a5b7ad16be2f9af2e47d479a38e1ed6d5c40cde.jpg",
@@ -14852,7 +14852,7 @@
     "type": "vtuber",
     "room": 3096265,
     "face": "/bfs/face/f04151727e934b6cca1fe177d608498fc391aa65.jpg",
-    "sign": "你好我是叶西西！非传统系虚拟主播，是魔法少女猫猫哦！兼职主包精力有限，但私信会尽量回复~",
+    "sign": "你好我是叶西西！非传统系虚拟主播，是被猫猫守护的魔法少女！每天直播时间晚上十点半至次日凌晨十二点半——",
     "group_name": ""
   },
   "24970050": {
@@ -33627,7 +33627,7 @@
     "name": "户山小红",
     "type": "vtuber",
     "room": 21949636,
-    "face": "/bfs/face/ab36f12f9fe6f002768badfea076794acfb362bb.jpg",
+    "face": "/bfs/face/356024202195d1141f1693dcbe966cd54ea1bd0a.jpg",
     "sign": "歌が大好き！\n圈名是户山恋，jk在读，投稿随缘，私人号_有入网易云\nbjd私养图在小红书更新，平台同名",
     "group_name": ""
   },
@@ -34059,7 +34059,7 @@
     "name": "梅莉Meri",
     "type": "vtuber",
     "room": 26273258,
-    "face": "/bfs/face/5b4a490bd50c9b226d47649d386e9d8c3dd29329.jpg",
+    "face": "/bfs/face/3ba86a00637e73f24216e95404caee3d80e0a934.jpg",
     "sign": "そばにいて。",
     "group_name": ""
   },
@@ -34307,7 +34307,7 @@
     "name": "梦魇Tsuki",
     "type": "vtuber",
     "room": 851181,
-    "face": "/bfs/face/ff3c0a1567d2a8fc7a530e116f123490e14d2548.jpg",
+    "face": "/bfs/face/3eb3921a2b0cbefa3cf36110c814106f9837abda.jpg",
     "sign": "我是猫鸽子",
     "group_name": ""
   },
