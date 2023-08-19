@@ -2863,11 +2863,11 @@
   },
   {
     "uid": 1419041175,
-    "name": "默姆斯-channel",
+    "name": "默姆斯",
     "type": "vtuber",
     "room": 25242627,
     "face": "/bfs/face/233db87965e06789fe1cb2cdd30880bf40e52ade.jpg",
-    "sign": "\n极光社所属 | <极域光谱·白队>二期生\n默姆斯 是一只萨摩耶 算是吧 大概...\n\n",
+    "sign": "\n极光社所属\n\n",
     "group_name": ""
   },
   {
@@ -27832,7 +27832,7 @@
     "name": "应钟Clochette",
     "type": "vtuber",
     "room": 335790,
-    "face": "/bfs/face/fe53e6fcecd75f7b541805200125a74a25ad74ed.jpg",
+    "face": "/bfs/face/5452b889e2078f6d4a2530e39f099539e13a0c8e.jpg",
     "sign": "“须知少年凌云志，曾许人间第一流”\n国风个人势虚拟UP主应钟Clochette\n想做出更多好听的歌 认识更多好玩的人！\n录播@应钟模仿者",
     "group_name": ""
   },
@@ -31819,7 +31819,7 @@
     "name": "澄汐Neko_",
     "type": "vtuber",
     "room": 25258981,
-    "face": "/bfs/face/a2fe2bea04645a8125c67cd3041867ab686eaa29.jpg",
+    "face": "/bfs/face/c9dfefee5feb586b32a670006f1e6c1194c306d0.jpg",
     "sign": "✨新v猫神✨  \n普普通通的你，也值得被万般宠溺。",
     "group_name": ""
   },
@@ -32296,7 +32296,7 @@
     "name": "星熊不星",
     "type": "vtuber",
     "room": 26815912,
-    "face": "/bfs/baselabs/731ab285c572f85229170b9c23ed8532996af409.png",
+    "face": "/bfs/face/1e3877a1526c4bad351b9769ccadad8bb3f1ac17.jpg",
     "sign": "要是忘了我的话，那就记住我眼里的光吧",
     "group_name": ""
   },
@@ -55642,8 +55642,8 @@
     "name": "脆角鲨鲨",
     "type": "vtuber",
     "room": 2646668,
-    "face": "/bfs/face/566c87525e772fa50d03b203ebabdfc84af034f1.jpg",
-    "sign": "电子鲨鱼，粉丝群：813064515 ",
+    "face": "/bfs/face/611243ecaa817cb650d83a1a84b490cdf7968990.jpg",
+    "sign": "电子鲨鱼，直播在另一个号，看置顶！\n粉丝群：813064515 ",
     "group_name": ""
   },
   {
