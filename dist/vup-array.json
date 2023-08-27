@@ -19651,7 +19651,7 @@
     "uid": 456232604,
     "name": "奏手一弦Official",
     "type": "vtuber",
-    "room": 21749477,
+    "room": 0,
     "face": "/bfs/face/c5bd9eab73c86f5e99b7ee5d83c035e0a1e85582.jpg",
     "group_name": "holostars"
   },
@@ -22561,7 +22561,7 @@
   },
   {
     "uid": 661375857,
-    "name": "小莓朵朵",
+    "name": "小莓Nini",
     "type": "vtuber",
     "room": 30248308,
     "face": "/bfs/face/2dd7d52adb586d4f080afef14d186630263164cc.jpg",
@@ -57433,7 +57433,7 @@
   },
   {
     "uid": 1584923787,
-    "name": "釉藥yuuyaku录播组",
+    "name": "釉藥_全体釉稚园冠",
     "type": "vtuber",
     "room": 22973463,
     "face": "/bfs/face/38d4e1f92fbbabee6d5b25c895620e522d5555f7.jpg",
