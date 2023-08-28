@@ -10324,7 +10324,7 @@
     "name": "佑年yonee",
     "type": "vtuber",
     "room": 27807529,
-    "face": "/bfs/face/c107296721897e29a56f5f9fdcccfdb34c5a07e3.jpg",
+    "face": "/bfs/face/dea2135b5f29ad45604497c1fed915d564beb40f.jpg",
     "group_name": ""
   },
   {
@@ -34796,7 +34796,7 @@
     "name": "森川雪yuki",
     "type": "vtuber",
     "room": 23615209,
-    "face": "/bfs/face/e8d17410e4dbd82a485a0846c7d3765df929c020.jpg",
+    "face": "/bfs/face/f2e6233591706dfff6d979bf91813f431624fb26.jpg",
     "group_name": "Providence"
   },
   {
@@ -48654,6 +48654,14 @@
     "room": 23017346,
     "face": "/bfs/face/ce8e11f5657b866c17bb14d4de69d76b920030de.jpg",
     "group_name": "VirtuaReal"
+  },
+  {
+    "uid": 3494360209427336,
+    "name": "绮罗罗_Kirara",
+    "type": "vtuber",
+    "room": 30043842,
+    "face": "/bfs/face/addeb419cc5d2840fc644df2aac2ecea71509a70.jpg",
+    "group_name": ""
   },
   {
     "uid": 482911295,
@@ -63037,6 +63045,14 @@
     "type": "vtuber",
     "room": 21501391,
     "face": "/bfs/face/43eb197e0f5d74fa9e81b1f731925b44eeabe665.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1063100626,
+    "name": "鹿呦yoyo_Vtuber",
+    "type": "vtuber",
+    "room": 25501601,
+    "face": "/bfs/face/f53383ce9714925a700d885c6c5dd8e55cbd8b5a.jpg",
     "group_name": ""
   },
   {

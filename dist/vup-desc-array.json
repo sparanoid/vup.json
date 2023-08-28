@@ -1967,7 +1967,7 @@
     "type": "vtuber",
     "room": 3469627,
     "face": "/bfs/face/9958d8f997e232d9eca31b325a7d71a8af177c2a.jpg",
-    "sign": "个人势/目前并没有专攻的方向，也没什么特点，性格也很差的怪人。",
+    "sign": "个人势/性格很差的怪人，正在向所想的方向奔去。",
     "group_name": ""
   },
   {
@@ -11614,7 +11614,7 @@
     "name": "佑年yonee",
     "type": "vtuber",
     "room": 27807529,
-    "face": "/bfs/face/c107296721897e29a56f5f9fdcccfdb34c5a07e3.jpg",
+    "face": "/bfs/face/dea2135b5f29ad45604497c1fed915d564beb40f.jpg",
     "sign": "个犬势 想要被更多人喜欢的小狗 群号：679678808 公会勿进",
     "group_name": ""
   },
@@ -18653,7 +18653,7 @@
     "type": "vtuber",
     "room": 23614643,
     "face": "/bfs/face/2cffd6da0bb37e925a8b140656fa8f391e6e6f6f.jpg",
-    "sign": "我是一只灵魂为男猫身体是猫娘的个猫势Vup猫娘萝莉~（也可以叫我粉猫）粉猫会加油的！由于粉猫在实习没多少空余时间，直播更新频率会降低！",
+    "sign": "我是一只灵魂为男猫身体是猫娘的个猫势Vup猫娘萝莉~（也可以叫我粉猫）是医学猫。粉猫会加油的！由于粉猫在实习，直播更新频率会降低！",
     "group_name": ""
   },
   {
@@ -30785,7 +30785,7 @@
     "type": "vtuber",
     "room": 91041,
     "face": "/bfs/face/e33b873ec2e3cf757fa0e8c6fd73d56f436965b9.jpg",
-    "sign": "请喜欢我✨铁血个人势！公会勿扰~⭐L2D建模排单看工房商品，为了我的发量 不接太麻烦的模>.<！⭐私信‘?’有小彩蛋✨",
+    "sign": "请喜欢我✨二创大欢迎！✨铁血个人势！公会勿扰~⭐L2D建模排单看工房商品，为了我的发量 不接太麻烦的模>.<！⭐私信‘?’有小彩蛋✨",
     "group_name": "忘崽牛奶"
   },
   {
@@ -34844,7 +34844,7 @@
     "type": "vtuber",
     "room": 27493336,
     "face": "/bfs/face/cc04afe7c0989101463a46fdffa445b22b44bf2c.jpg",
-    "sign": "一个普通的点唱机罢了。直播时间15~17点，晚上随缘。周一、周四休息。",
+    "sign": "个人势点唱姬。直播时间15~17点，晚上随缘。周一、周四随缘。",
     "group_name": ""
   },
   {
@@ -39145,7 +39145,7 @@
     "name": "森川雪yuki",
     "type": "vtuber",
     "room": 23615209,
-    "face": "/bfs/face/e8d17410e4dbd82a485a0846c7d3765df929c020.jpg",
+    "face": "/bfs/face/f2e6233591706dfff6d979bf91813f431624fb26.jpg",
     "sign": "❄️Providence企划三期生，最最喜欢玩游戏，希望可以成为你们心里的小太阳❤努力修炼的狐仙sama！大家一起加油呀",
     "group_name": "Providence"
   },
@@ -54736,6 +54736,15 @@
     "face": "/bfs/face/ce8e11f5657b866c17bb14d4de69d76b920030de.jpg",
     "sign": "虚拟艺人团体VirtuaReal成员。云上泥里，浪漫自由。",
     "group_name": "VirtuaReal"
+  },
+  {
+    "uid": 3494360209427336,
+    "name": "绮罗罗_Kirara",
+    "type": "vtuber",
+    "room": 30043842,
+    "face": "/bfs/face/addeb419cc5d2840fc644df2aac2ecea71509a70.jpg",
+    "sign": "愿你我被世界温柔所待。一般晚8开播，普通人，男的，q群:695234686，不加工会",
+    "group_name": ""
   },
   {
     "uid": 482911295,
@@ -70917,6 +70926,15 @@
     "room": 21501391,
     "face": "/bfs/face/43eb197e0f5d74fa9e81b1f731925b44eeabe665.jpg",
     "sign": "努力向上的一年半底层V。养成系，学习中。",
+    "group_name": ""
+  },
+  {
+    "uid": 1063100626,
+    "name": "鹿呦yoyo_Vtuber",
+    "type": "vtuber",
+    "room": 25501601,
+    "face": "/bfs/face/f53383ce9714925a700d885c6c5dd8e55cbd8b5a.jpg",
+    "sign": "天空一声巨响，小鹿闪亮登场 \\(//∇//)\\ 是刚刚化形的小鹿，正在努力适应人类世界，直播时间每晚21点至23点，希望能和大家一起冒险～",
     "group_name": ""
   },
   {
