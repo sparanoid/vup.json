@@ -24503,7 +24503,7 @@
     "type": "vtuber",
     "room": 22538601,
     "face": "/bfs/face/57dbfe6c4b8c943285981a66bc8602fbded22c30.jpg",
-    "sign": "直播晚十点\n下午不定期直播\n群聊/电台置顶动态可见\n不接受指导厨",
+    "sign": "兴趣使然的主包",
     "group_name": ""
   },
   {
@@ -25147,7 +25147,7 @@
   },
   {
     "uid": 3494364980447561,
-    "name": "小汐-26号双满啦",
+    "name": "揉揉小汐",
     "type": "vtuber",
     "room": 30137453,
     "face": "/bfs/face/70466ac201be4db39f83081183cd6bb5f71a1d5f.jpg",
@@ -38458,11 +38458,11 @@
   },
   {
     "uid": 3493078132328661,
-    "name": "桃让Tori",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 26352293,
-    "face": "/bfs/face/93cdd1e4ee390641efaa44ace2f46912c45d19ed.jpg",
-    "sign": "要尽兴，不留遗憾。",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {

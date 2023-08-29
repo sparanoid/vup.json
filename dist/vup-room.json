@@ -19558,7 +19558,7 @@
     "group_name": ""
   },
   "3494364980447561": {
-    "name": "小汐-26号双满啦",
+    "name": "揉揉小汐",
     "type": "vtuber",
     "room_id": 30137453,
     "face": "/bfs/face/70466ac201be4db39f83081183cd6bb5f71a1d5f.jpg",
@@ -29911,10 +29911,10 @@
     "group_name": ""
   },
   "3493078132328661": {
-    "name": "桃让Tori",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 26352293,
-    "face": "/bfs/face/93cdd1e4ee390641efaa44ace2f46912c45d19ed.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1819548520": {
