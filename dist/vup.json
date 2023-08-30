@@ -18109,10 +18109,10 @@
     "group_name": ""
   },
   "35749736": {
-    "name": "子彧_official",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 510409,
-    "face": "/bfs/face/3c44a7c0f8da7270406d9d8cedb6cd8db8dabfe8.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "2834728": {
@@ -32483,7 +32483,7 @@
     "name": "沉默藕和Kururu",
     "type": "vtuber",
     "room": 22711677,
-    "face": "/bfs/face/2513443ac94c7d6c66b8ec83f8508edde177b2c4.jpg",
+    "face": "/bfs/face/8e9da521d104ec9e5b68e04baf8ec636680a7be4.jpg",
     "group_name": ""
   },
   "476755934": {
@@ -35896,7 +35896,7 @@
     "group_name": ""
   },
   "1953954412": {
-    "name": "狸姜乐_睡不醒小猫版",
+    "name": "狸姜乐",
     "type": "vtuber",
     "room": 27711963,
     "face": "/bfs/face/9ff249077aeae3738c7a68435ed51a4b6931e534.jpg",
@@ -39567,7 +39567,7 @@
     "name": "眠铃Neruno",
     "type": "vtuber",
     "room": 27494872,
-    "face": "/bfs/face/1842c027ca44524652b6f17bd171182445039beb.jpg",
+    "face": "/bfs/face/54974ccf9e47717ef9b08fee0513831d70e18517.jpg",
     "group_name": ""
   },
   "1339871332": {

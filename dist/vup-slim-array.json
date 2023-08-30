@@ -18110,9 +18110,9 @@
   },
   {
     "uid": 35749736,
-    "name": "子彧_official",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 510409,
+    "room": 0,
     "group_name": ""
   },
   {
@@ -35897,7 +35897,7 @@
   },
   {
     "uid": 1953954412,
-    "name": "狸姜乐_睡不醒小猫版",
+    "name": "狸姜乐",
     "type": "vtuber",
     "room": 27711963,
     "group_name": ""
