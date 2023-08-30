@@ -18237,8 +18237,15 @@
   {
     "uid": 1855623989,
     "name": "宅豆糕糕ki",
-    "type": "vtuber",
+    "type": "unknown",
     "room": 27209189,
+    "group_name": ""
+  },
+  {
+    "uid": 3493289999207129,
+    "name": "edd毁了法国原神",
+    "type": "vtuber",
+    "room": 27950541,
     "group_name": ""
   },
   {

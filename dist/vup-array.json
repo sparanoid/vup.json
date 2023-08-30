@@ -8580,7 +8580,7 @@
     "name": "书沐言",
     "type": "vtuber",
     "room": 12257239,
-    "face": "/bfs/face/7c4ab83fd7b886d96bcf9bf692464ac590f1e8e2.jpg",
+    "face": "/bfs/face/72f599ed0f0544d80dc1bc031804c830f98da38e.jpg",
     "group_name": ""
   },
   {
@@ -20842,9 +20842,17 @@
   {
     "uid": 1855623989,
     "name": "宅豆糕糕ki",
-    "type": "vtuber",
+    "type": "unknown",
     "room": 27209189,
     "face": "/bfs/face/2b404c60ed3d76f0fe95ba18a5fc433a36e86813.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493289999207129,
+    "name": "edd毁了法国原神",
+    "type": "vtuber",
+    "room": 27950541,
+    "face": "/bfs/face/9c3a7c2218551ed6faf61a42746dd23003e19735.jpg",
     "group_name": ""
   },
   {
