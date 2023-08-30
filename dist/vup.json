@@ -2205,10 +2205,10 @@
     "group_name": ""
   },
   "25415856": {
-    "name": "Mlle_Rebecca",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 24609919,
-    "face": "/bfs/face/32bdd091e955cea670d48aaac6f2ce8f9e3c6161.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "590178262": {
@@ -7969,7 +7969,7 @@
     "name": "亚斯塔Astra",
     "type": "vtuber",
     "room": 25171587,
-    "face": "/bfs/face/3fe3ebd8b75a448deaa7b18f2514192a0905b4e7.jpg",
+    "face": "/bfs/face/de8b9cb6d259fd5aa24a6839f9583ec28d47a6c9.jpg",
     "group_name": ""
   },
   "597223": {
@@ -17433,7 +17433,7 @@
     "name": "奶枣儿蒸虾头",
     "type": "vtuber",
     "room": 30179260,
-    "face": "/bfs/face/21b462122a501fb801a360d25668c39c825ce407.jpg",
+    "face": "/bfs/face/cb716b4536c6b576d406cc7d529b8ce5eb08583d.jpg",
     "group_name": ""
   },
   "3494349734152273": {
@@ -19194,7 +19194,7 @@
     "group_name": ""
   },
   "2004980155": {
-    "name": "小夜子Sayoko_",
+    "name": "-小夜子Sayoko-",
     "type": "vtuber",
     "room": 24344580,
     "face": "/bfs/face/d8d806cd735bef50c361d863622d58ceb31eef3f.jpg",
@@ -37663,7 +37663,7 @@
     "name": "生姜_channel",
     "type": "vtuber",
     "room": 22386675,
-    "face": "/bfs/face/1d49663570e3b2c9f11973301aa6cd30fa72c880.jpg",
+    "face": "/bfs/face/6e54dd1c6f7643c461732bd49fb2556bd7443eb3.jpg",
     "group_name": ""
   },
   "287624656": {
@@ -48051,7 +48051,7 @@
     "name": "蜜球兔",
     "type": "vtuber",
     "room": 8721033,
-    "face": "/bfs/face/5fa8bbc1fd530814647360d6ba7ae207d7372ae7.jpg",
+    "face": "/bfs/face/a6b933396ce53d0a8547c3df6cb244003e4dde74.jpg",
     "group_name": "VirtuaReal"
   },
   "1267348553": {
@@ -55121,7 +55121,7 @@
     "name": "鸣岐_今日见",
     "type": "vtuber",
     "room": 26271864,
-    "face": "/bfs/face/ff02ba2d73e9abcec180195fb17e8e6015ee2ec6.jpg",
+    "face": "/bfs/face/f726e4af6da880858041da1f744dd37fd665c180.jpg",
     "group_name": ""
   },
   "21687657": {
