@@ -1680,10 +1680,10 @@
     "group_name": ""
   },
   "1196149814": {
-    "name": "Ki酱_Channel",
+    "name": "Ki婶儿",
     "type": "vtuber",
     "room": 26719692,
-    "face": "/bfs/face/9d38b3a57ebdcc6463e1844b2e21739a20564704.jpg",
+    "face": "/bfs/face/49a949ab34afada6625c89ba3af19a5650db41a5.jpg",
     "group_name": ""
   },
   "315298331": {
@@ -45259,6 +45259,13 @@
     "type": "vtuber",
     "room": 30096290,
     "face": "/bfs/face/85e096529c2b79a72bd0fe4f6327bc8029549058.jpg",
+    "group_name": ""
+  },
+  "108820222": {
+    "name": "花黎Flowery",
+    "type": "vtuber",
+    "room": 4799641,
+    "face": "/bfs/face/e65f0fbdeaa0861c2a30edc2690141950629df76.jpg",
     "group_name": ""
   },
   "27176897": {
