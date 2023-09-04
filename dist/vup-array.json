@@ -15009,10 +15009,10 @@
   },
   {
     "uid": 687044251,
-    "name": "司安_sun",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 25788347,
-    "face": "/bfs/face/6817b66f119b473af002e2aefb5d02004264cca6.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -43257,7 +43257,7 @@
   },
   {
     "uid": 144214032,
-    "name": "画歌nan-Eleven最漂亮",
+    "name": "画歌nan",
     "type": "vtuber",
     "room": 30388434,
     "face": "/bfs/face/93227c00f1e87779840cf4e7ccdcfbd5f8069266.jpg",
@@ -57052,7 +57052,7 @@
     "name": "辣奶火锅",
     "type": "vtuber",
     "room": 25062472,
-    "face": "/bfs/face/be27aa46daf6830fcaa71ba3d32358494499421a.jpg",
+    "face": "/bfs/face/48f98d3eda4ece089014834e63ed844f94d81586.jpg",
     "group_name": ""
   },
   {
