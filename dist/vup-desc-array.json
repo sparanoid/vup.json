@@ -17798,7 +17798,7 @@
     "type": "vtuber",
     "room": 22815234,
     "face": "/bfs/face/ff71a79ee44256acfd9c248382822fd36a93a41b.jpg",
-    "sign": "热烈地回应每一份爱",
+    "sign": "✨热烈地回应每一份爱\n直播时间晚上九点",
     "group_name": "Palette"
   },
   {
@@ -18190,7 +18190,7 @@
   },
   {
     "uid": 560668404,
-    "name": "伊某逝了",
+    "name": "伊逝无成",
     "type": "vtuber",
     "room": 22342563,
     "face": "/bfs/face/9ba00de49c78008d49b02641a22e03d7c85f3f20.jpg",
@@ -59086,11 +59086,11 @@
   },
   {
     "uid": 3493275352696961,
-    "name": "無い_",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 27680680,
-    "face": "/bfs/face/be698dea076b69931fe7c665bbe3251d7d4af3e5.jpg",
-    "sign": "再见",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {
