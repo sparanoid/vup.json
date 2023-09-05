@@ -15540,7 +15540,7 @@
     "group_name": ""
   },
   "19671811": {
-    "name": "Analog5294",
+    "name": "SyneReflection_",
     "type": "vtuber",
     "room": 774226,
     "face": "/bfs/face/4b786a1abafcde07f2c06df94325dceb9471427a.jpg",
@@ -16068,7 +16068,7 @@
     "name": "-切理厭心-",
     "type": "vtuber",
     "room": 1026896,
-    "face": "/bfs/face/d34752c1bcae3e6d8ad774f5eec39fa5eedcee8a.jpg",
+    "face": "/bfs/face/4fe665ca8012dd6b7e3d51df76eb4911ce550748.jpg",
     "group_name": "雨林社"
   },
   "637885382": {
@@ -29760,7 +29760,7 @@
     "name": "桃汁汁ovo",
     "type": "vtuber",
     "room": 30031988,
-    "face": "/bfs/face/51b60cadc11424e0bb7bbbf7732f1c16cce96b9d.jpg",
+    "face": "/bfs/face/59bb6c7addadd998c5fa0e03709ab48bbed418a4.jpg",
     "group_name": ""
   },
   "3494349782387138": {
@@ -43851,7 +43851,7 @@
     "name": "舒三妈Susam",
     "type": "vtuber",
     "room": 3032130,
-    "face": "/bfs/face/e70053ae0e7bca0f8c5acd3b6027345ef7b25e97.jpg",
+    "face": "/bfs/face/f82dc33c480b6bb804fe217cf6d043251e960580.jpg",
     "group_name": "VirtuaReal"
   },
   "2909683": {
@@ -45990,10 +45990,10 @@
     "group_name": ""
   },
   "3914363": {
-    "name": "荆棘鸟-纳星Nothing",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 66858,
-    "face": "/bfs/face/022cc7073b181ae9f36fc7afde850411c9f594d6.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": "ChaosLiveSprout"
   },
   "52080353": {

@@ -15541,7 +15541,7 @@
   },
   {
     "uid": 19671811,
-    "name": "Analog5294",
+    "name": "SyneReflection_",
     "type": "vtuber",
     "room": 774226,
     "group_name": "Afutech"
@@ -45991,9 +45991,9 @@
   },
   {
     "uid": 3914363,
-    "name": "荆棘鸟-纳星Nothing",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 66858,
+    "room": 0,
     "group_name": "ChaosLiveSprout"
   },
   {
