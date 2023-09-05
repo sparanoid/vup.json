@@ -980,7 +980,7 @@
     "group_name": ""
   },
   "41806": {
-    "name": "クロロ__エリス",
+    "name": "库诺诺Elis",
     "type": "vtuber",
     "room": 14806,
     "face": "/bfs/face/2c57e586a55109b791146c07a36ba8432d597e5c.jpg",
@@ -21371,10 +21371,10 @@
     "group_name": ""
   },
   "3493110281669382": {
-    "name": "希迪莉娅Sitria",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 26855891,
-    "face": "/bfs/face/2eae2399ea1d98d78f75ee4372cfe488afac11ac.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "175017927": {
@@ -28990,7 +28990,7 @@
     "name": "柚诺Yono",
     "type": "vtuber",
     "room": 315636,
-    "face": "/bfs/face/5b124ebc4ef9d55cced6acda984ba10473a2718d.jpg",
+    "face": "/bfs/face/31c26a93235bb58dd5d6266a39caf98618059fe2.jpg",
     "group_name": ""
   },
   "3461572359883690": {
@@ -48111,7 +48111,7 @@
     "group_name": "超电VUP"
   },
   "3494359471229391": {
-    "name": "蝶妖妖呐",
+    "name": "蝶妖妖niki",
     "type": "vtuber",
     "room": 30307347,
     "face": "/bfs/face/395ef61f514789d8f4d5aa39e58f67c0822d577b.jpg",
