@@ -7056,6 +7056,14 @@
     "group_name": ""
   },
   {
+    "uid": 3537113714788980,
+    "name": "一颗死扣死米兮兮",
+    "type": "vtuber",
+    "room": 30506382,
+    "face": "/bfs/face/ddaf6f68a171fe75a708068f8dcf44d0f7854139.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3493286585043212,
     "name": "七七卟听话",
     "type": "vtuber",
@@ -7278,6 +7286,14 @@
     "room": 21779064,
     "face": "/bfs/face/a23470e3447e911dd6b6ae6d92de3d32386b2cdc.jpg",
     "group_name": "WACTOR"
+  },
+  {
+    "uid": 3537114020973336,
+    "name": "七鸽O_o",
+    "type": "vtuber",
+    "room": 30509719,
+    "face": "/bfs/face/2c3c05286d4c5cc21b400272d53e2bc10aa514e6.jpg",
+    "group_name": ""
   },
   {
     "uid": 22755,
@@ -8328,6 +8344,14 @@
     "group_name": ""
   },
   {
+    "uid": 290667251,
+    "name": "乔思思Shiny",
+    "type": "vtuber",
+    "room": 30535046,
+    "face": "/bfs/face/f7817fd79d6492b529b5506c88043ec1b2795e1c.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 660572554,
     "name": "乔慕Haribo",
     "type": "vtuber",
@@ -8749,6 +8773,14 @@
     "type": "vtuber",
     "room": 1481505,
     "face": "/bfs/face/0fac53cffca5f34ffd7263c88e5f4f9484a93f20.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493074573461871,
+    "name": "云崎早_haya",
+    "type": "vtuber",
+    "room": 27885573,
+    "face": "/bfs/face/b74c7cb95861be2ee98d4dc17434036be2eeb2a1.jpg",
     "group_name": ""
   },
   {
@@ -10933,6 +10965,14 @@
     "type": "vtuber",
     "room": 24128011,
     "face": "/bfs/face/dd0d79d66c1f9dacd58d76a9f478e448d55c783a.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493263466040079,
+    "name": "克罗罗Croro",
+    "type": "vtuber",
+    "room": 30507727,
+    "face": "/bfs/face/48bd602f428e119d86688fbe5cd27787a0e77028.jpg",
     "group_name": ""
   },
   {
@@ -15272,6 +15312,14 @@
     "group_name": ""
   },
   {
+    "uid": 3537112194353761,
+    "name": "含光_Artemis",
+    "type": "vtuber",
+    "room": 30546127,
+    "face": "/bfs/face/a784d27bdf17635469af41c674c628a3481725fd.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 179160896,
     "name": "听听会上瘾",
     "type": "vtuber",
@@ -18885,6 +18933,14 @@
     "type": "vtuber",
     "room": 21788930,
     "face": "/bfs/face/4fc080cef5d9c64e11980900e06740516695b5d2.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3537117403679540,
+    "name": "天占milo_Official",
+    "type": "vtuber",
+    "room": 30563995,
+    "face": "/bfs/face/3a1cf2c7f261352f1d6aab36d538f3ec8d062a12.jpg",
     "group_name": ""
   },
   {
@@ -30120,6 +30176,14 @@
     "group_name": "月光社"
   },
   {
+    "uid": 3494367320869151,
+    "name": "是空白冠名的aki秋秋吖",
+    "type": "vtuber",
+    "room": 30145359,
+    "face": "/bfs/face/03a6e05fc00fbfb247835814b1318c5fa6290298.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 353140642,
     "name": "是空集耶awa",
     "type": "vtuber",
@@ -39320,6 +39384,14 @@
     "group_name": "PSL官方"
   },
   {
+    "uid": 1108264972,
+    "name": "湫里Qwely",
+    "type": "vtuber",
+    "room": 30475585,
+    "face": "/bfs/face/167b14f2cc550913ec3e563d989b8b3ef7347b4b.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 309926057,
     "name": "天海芸梦奈official",
     "type": "vtuber",
@@ -43816,6 +43888,14 @@
     "group_name": ""
   },
   {
+    "uid": 345327849,
+    "name": "白月末不吃糖天穹冠名",
+    "type": "vtuber",
+    "room": 30472318,
+    "face": "/bfs/face/aed9d8068c5f5e8edfd90376a2cc9580d03e54d7.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3461570877197190,
     "name": "白果Shiroka",
     "type": "vtuber",
@@ -43893,6 +43973,14 @@
     "type": "vtuber",
     "room": 5775274,
     "face": "/bfs/face/775aadea944eb4006ebb8d5c4b4c9f7c0c632cda.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3537107536579227,
+    "name": "白水水shui-非酋版",
+    "type": "vtuber",
+    "room": 30423337,
+    "face": "/bfs/face/b9dd3cb810dcc9d74cd021800690a60835bf67a9.jpg",
     "group_name": ""
   },
   {
@@ -47088,6 +47176,14 @@
     "group_name": ""
   },
   {
+    "uid": 3494358472985117,
+    "name": "笨笨很困-",
+    "type": "vtuber",
+    "room": 30572430,
+    "face": "/bfs/face/1a4984e0c21d7692a62d9b697791c887991845ef.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1221932563,
     "name": "笨蛋梨花诗",
     "type": "vtuber",
@@ -49133,6 +49229,14 @@
     "type": "vtuber",
     "room": 26770234,
     "face": "/bfs/face/a201658f8a47dd7d7266b6c1b7a758f586eb0d00.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546377132968558,
+    "name": "绵宝想发财",
+    "type": "vtuber",
+    "room": 30726394,
+    "face": "/bfs/face/66c5246df120052b09ab67e9f39a34476c5af173.jpg",
     "group_name": ""
   },
   {
@@ -52728,6 +52832,14 @@
     "group_name": "ChaosLiveSprout"
   },
   {
+    "uid": 3537120379537441,
+    "name": "莉亚-LEIA",
+    "type": "vtuber",
+    "room": 30606430,
+    "face": "/bfs/face/bad5d9ef9b45ed8212711662b24069cb79c258b9.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1401964034,
     "name": "莉卡_Licca",
     "type": "vtuber",
@@ -55629,6 +55741,14 @@
     "type": "vtuber",
     "room": 27653193,
     "face": "/bfs/face/d0efdc7521c71b1b1135cc6d3a88bb0bfa4186c1.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3494378018441551,
+    "name": "詞晚晚呐",
+    "type": "vtuber",
+    "room": 30442699,
+    "face": "/bfs/face/ad42cc8c2924048dc54f6034382910a6eb155ee7.jpg",
     "group_name": ""
   },
   {
@@ -59461,6 +59581,14 @@
     "type": "vtuber",
     "room": 21743431,
     "face": "/bfs/face/8f4acb125b25968767737478d967e3380fd161da.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3537115180698210,
+    "name": "阿芙-拯救你",
+    "type": "vtuber",
+    "room": 30599883,
+    "face": "/bfs/face/06b845df6998530fb3bad71d8b7973202937e7aa.jpg",
     "group_name": ""
   },
   {
