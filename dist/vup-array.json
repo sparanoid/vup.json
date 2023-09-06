@@ -32611,7 +32611,7 @@
     "uid": 3493137198614836,
     "name": "bilibili",
     "type": "vtuber",
-    "room": 30182760,
+    "room": 0,
     "face": "/images/member/noface.gif",
     "group_name": ""
   },
@@ -42913,10 +42913,10 @@
   },
   {
     "uid": 473606874,
-    "name": "璐比Channel",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 21648286,
-    "face": "/bfs/face/19e92ea819ff5ec0dc7b1ba46840ac91585b6af6.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -44233,10 +44233,10 @@
   },
   {
     "uid": 4621148,
-    "name": "白羽八shiroha",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 1306556,
-    "face": "/bfs/face/2fc53f9958b70ace69d0661309d1210e2337da39.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {

@@ -28535,7 +28535,7 @@
     "uid": 3493137198614836,
     "name": "bilibili",
     "type": "vtuber",
-    "room": 30182760,
+    "room": 0,
     "group_name": ""
   },
   {
@@ -37549,9 +37549,9 @@
   },
   {
     "uid": 473606874,
-    "name": "璐比Channel",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 21648286,
+    "room": 0,
     "group_name": ""
   },
   {
@@ -38704,9 +38704,9 @@
   },
   {
     "uid": 4621148,
-    "name": "白羽八shiroha",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 1306556,
+    "room": 0,
     "group_name": ""
   },
   {

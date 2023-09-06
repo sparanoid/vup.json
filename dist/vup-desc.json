@@ -32610,7 +32610,7 @@
   "3493137198614836": {
     "name": "bilibili",
     "type": "vtuber",
-    "room": 30182760,
+    "room": 0,
     "face": "/images/member/noface.gif",
     "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
@@ -42912,11 +42912,11 @@
     "group_name": ""
   },
   "473606874": {
-    "name": "璐比Channel",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 21648286,
-    "face": "/bfs/face/19e92ea819ff5ec0dc7b1ba46840ac91585b6af6.jpg",
-    "sign": "Project Lupinus所属一般陨石，来自虚拟宇宙。 担当画师：依存 粉丝群：920309024",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "385803327": {
@@ -44232,11 +44232,11 @@
     "group_name": ""
   },
   "4621148": {
-    "name": "白羽八shiroha",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 1306556,
-    "face": "/bfs/face/2fc53f9958b70ace69d0661309d1210e2337da39.jpg",
-    "sign": "励志做个游戏up主，却走向了睡觉的道路，结果变成了VUP？",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "27744163": {
