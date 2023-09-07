@@ -54460,11 +54460,11 @@
   },
   {
     "uid": 3493081659738486,
-    "name": "红白艾丽莎_",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 27329989,
-    "face": "/bfs/face/f29b698bd27ff4f58fc0a182fe4d520452800aa4.jpg",
-    "sign": "是一只小耳朵龙猫！fps游戏爱好鼠▄︻┻┳═一虚拟偶像企划SIRIUSPROJECT所属",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {
@@ -60580,11 +60580,11 @@
   },
   {
     "uid": 567708,
-    "name": "萤失Hinano",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 948325,
-    "face": "/bfs/face/700d5c52712314135df5c66861971c9ea8e41ad3.jpg",
-    "sign": "-会有人因为你的存在而感到幸福-\n心理学|音乐创作|日常\n\n兴趣使然的普通兔子，很荣幸被喜欢⭐\n能力有限无法回复私信，交流方式请看置顶",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {
@@ -65101,7 +65101,7 @@
     "name": "里哀Ria",
     "type": "vtuber",
     "room": 740072,
-    "face": "/bfs/face/a9fee7186660adffddfcf8e2b5f7fe10ed4dbe1a.jpg",
+    "face": "/bfs/face/35fcffa2eb5f0e24f79693593ea9ae1eec4fc57e.jpg",
     "sign": "社畜PV人还在学习中 9月接接接",
     "group_name": ""
   },
