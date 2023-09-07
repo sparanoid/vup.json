@@ -1540,11 +1540,11 @@
   },
   {
     "uid": 49724206,
-    "name": "海霧うみぎり",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 22152978,
-    "face": "/bfs/face/e8bf0fc8bd53c99f50169b8dbfb4f331723b3474.jpg",
-    "sign": "一點都不幸福。  商務聯繫郵箱：umigiri_in_sea@163.com",
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": "NGWORKS"
   },
   {
@@ -38848,7 +38848,7 @@
     "name": "梅妻ume",
     "type": "vtuber",
     "room": 24742685,
-    "face": "/bfs/face/fd1db7795554d08250fe38e640f0484dd1737ece.jpg",
+    "face": "/bfs/face/154518619bdef8068eca587545c3884d0cad6847.jpg",
     "sign": "❀渴望着世界的毁灭❀\n梦想是余生能以脱口秀的方式自我认同笑饮砒霜以较为悲惨的形式魂飞魄散在大气层里憎恨生命啦\n个怪势\n录播:梅花录ume",
     "group_name": ""
   },
@@ -65764,10 +65764,10 @@
   },
   {
     "uid": 321819314,
-    "name": "我不是雾间",
+    "name": "ray的小刀",
     "type": "vtuber",
     "room": 22670159,
-    "face": "/bfs/face/2106065f3aa76092c72baac1d1b69d30e9cecb26.jpg",
+    "face": "/bfs/face/84cfd7b4aeedac3061b7b890de90e1b9cfb9f5fd.jpg",
     "sign": "我死了，就像是文学小说里那样",
     "group_name": ""
   },
