@@ -15785,10 +15785,10 @@
     "group_name": ""
   },
   "629113175": {
-    "name": "夕兽-xixixi",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 22796087,
-    "face": "/bfs/face/35696cf3e21b95fa59143a036006beea5eadbeda.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1239518334": {
