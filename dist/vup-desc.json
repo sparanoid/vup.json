@@ -11391,6 +11391,14 @@
     "sign": "你还记得吗？    直播轻中rp 丨  动态视频中重rp  周三定休",
     "group_name": ""
   },
+  "1297910179": {
+    "name": "入福步Ayumi",
+    "type": "vtuber",
+    "room": 30655179,
+    "face": "/bfs/face/523ae8c6a93643f899a21c4f188f23fcacf5e536.jpg",
+    "sign": "虚拟主播团体VirtuaReal成员。希望永远被大家需要的17岁女子高中生。商务合作请联系bd@vrp.live ",
+    "group_name": "VirtuaReal"
+  },
   "1531227247": {
     "name": "入間綠",
     "type": "vtuber",
@@ -25415,6 +25423,14 @@
     "sign": "雪域Provealms所属来自教会的见习修女/合作请联系provealms@foxmail.com",
     "group_name": "雪域Provealms"
   },
+  "1789460279": {
+    "name": "弥月Mizuki",
+    "type": "vtuber",
+    "room": 30655190,
+    "face": "/bfs/face/31c5288dc6b8e90de5a528902f711d781553494f.jpg",
+    "sign": "虚拟主播团体VirtuaReal成员。来自未来的家里蹲兔子博士！商务合作请联系bd@vrp.live",
+    "group_name": "VirtuaReal"
+  },
   "6433651": {
     "name": "弥栄クアム_YaSaKa",
     "type": "vtuber",
@@ -25781,6 +25797,14 @@
     "room": 535285,
     "face": "/bfs/face/5113c89f7e1e2be60a788df5e6ae273c4f2ff431.jpg",
     "sign": "这里是朝鲜医生系Vup御坂伊里奇。\n虫群一员，会写一点曲子，直播时间不固定\n때가 오면 지구절반 걸어온길 우리다시 걸으리라！",
+    "group_name": ""
+  },
+  "3537115891632675": {
+    "name": "御坂美酋",
+    "type": "vtuber",
+    "room": 30552941,
+    "face": "/bfs/face/c53a8d50ae1e62df5283f1cec30bf1737a050d22.jpg",
+    "sign": "",
     "group_name": ""
   },
   "51173587": {
@@ -30574,6 +30598,14 @@
     "face": "/bfs/face/5e02c62dc7877409281287d07a063af6b6ef104e.jpg",
     "sign": "我没有在哭 只是眼睛有些起雾",
     "group_name": ""
+  },
+  "1616183604": {
+    "name": "晴一Hajime",
+    "type": "vtuber",
+    "room": 30655203,
+    "face": "/bfs/face/d96053ca23ee9dd15dc4eacdc7cd10daf8a58604.jpg",
+    "sign": "虚拟主播团体VirtuaReal成员。晴是晴一的晴，一是一二三四的一。商务合作请联系bd@vrp.live",
+    "group_name": "VirtuaReal"
   },
   "3493258292365656": {
     "name": "晴云Haku",
@@ -39615,6 +39647,14 @@
     "sign": "普罗维登打工阿飘，爆破阿普小队（2/999）",
     "group_name": "Providence"
   },
+  "2057377595": {
+    "name": "漆羽Urushiha",
+    "type": "vtuber",
+    "room": 30655213,
+    "face": "/bfs/face/cbe4a5be457d85d6114f18470da72c27d086df36.jpg",
+    "sign": "虚拟主播团体VirtuaReal成员 漆匠小乌鸦漆羽Urushiha 给你点颜色！ 商务合作请联系bd@vrp.live",
+    "group_name": "VirtuaReal"
+  },
   "2325511": {
     "name": "祈茨求蹭饭",
     "type": "vtuber",
@@ -46479,6 +46519,14 @@
     "sign": "",
     "group_name": ""
   },
+  "2080519347": {
+    "name": "离枝Richi",
+    "type": "vtuber",
+    "room": 30655172,
+    "face": "/bfs/face/2dc44b5f2408badcbdcad26487012edfe6bacf85.jpg",
+    "sign": "虚拟主播团体VirtuaReal成员。眼光独特的收藏家只会找寻世间最美的宝物。商务合作请联系bd@vrp.live",
+    "group_name": "VirtuaReal"
+  },
   "8702159": {
     "name": "离火hotaru",
     "type": "vtuber",
@@ -52207,6 +52255,14 @@
     "sign": "原创歌手喔，每天19-21播播\n粉群：826349435",
     "group_name": ""
   },
+  "1414231802": {
+    "name": "苏亿万Ruby",
+    "type": "vtuber",
+    "room": 27878650,
+    "face": "/bfs/face/5b8a1d40ed793d155af2f84ddebf09ad60403a3c.jpg",
+    "sign": "“走自己的路 亮自己的光”",
+    "group_name": ""
+  },
   "1847005675": {
     "name": "苏奈Mio_Official",
     "type": "vtuber",
@@ -55222,6 +55278,14 @@
     "face": "/bfs/face/41be68f8f675f83c2de672ebf0e98c8c7c1762be.jpg",
     "sign": "休息一会儿啦！希望可以早日回来",
     "group_name": ""
+  },
+  "1609795310": {
+    "name": "蜜言Mikoto",
+    "type": "vtuber",
+    "room": 30655198,
+    "face": "/bfs/face/5c25ecf8c9963a790d8a85273b2446b13d8c2397.jpg",
+    "sign": "虚拟主播团体VirtuaReal成员 你好我是超优良优秀天才传统买一送一占卜师，蜜言。｜商务合作请联系bd@vrp.live ",
+    "group_name": "VirtuaReal"
   },
   "8531826": {
     "name": "蝉堇",

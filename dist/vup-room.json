@@ -9967,6 +9967,13 @@
     "face": "/bfs/face/502a04b334830debd40ba1f1e2c7be060e09fc9d.jpg",
     "group_name": ""
   },
+  "1297910179": {
+    "name": "入福步Ayumi",
+    "type": "vtuber",
+    "room_id": 30655179,
+    "face": "/bfs/face/523ae8c6a93643f899a21c4f188f23fcacf5e536.jpg",
+    "group_name": "VirtuaReal"
+  },
   "1531227247": {
     "name": "入間綠",
     "type": "vtuber",
@@ -22238,6 +22245,13 @@
     "face": "/bfs/face/65f0cd12aa1c220d16ee42b36d1aec827d9ccba4.jpg",
     "group_name": "雪域Provealms"
   },
+  "1789460279": {
+    "name": "弥月Mizuki",
+    "type": "vtuber",
+    "room_id": 30655190,
+    "face": "/bfs/face/31c5288dc6b8e90de5a528902f711d781553494f.jpg",
+    "group_name": "VirtuaReal"
+  },
   "6433651": {
     "name": "弥栄クアム_YaSaKa",
     "type": "vtuber",
@@ -22558,6 +22572,13 @@
     "type": "vtuber",
     "room_id": 535285,
     "face": "/bfs/face/5113c89f7e1e2be60a788df5e6ae273c4f2ff431.jpg",
+    "group_name": ""
+  },
+  "3537115891632675": {
+    "name": "御坂美酋",
+    "type": "vtuber",
+    "room_id": 30552941,
+    "face": "/bfs/face/c53a8d50ae1e62df5283f1cec30bf1737a050d22.jpg",
     "group_name": ""
   },
   "51173587": {
@@ -26752,6 +26773,13 @@
     "room_id": 1260970,
     "face": "/bfs/face/5e02c62dc7877409281287d07a063af6b6ef104e.jpg",
     "group_name": ""
+  },
+  "1616183604": {
+    "name": "晴一Hajime",
+    "type": "vtuber",
+    "room_id": 30655203,
+    "face": "/bfs/face/d96053ca23ee9dd15dc4eacdc7cd10daf8a58604.jpg",
+    "group_name": "VirtuaReal"
   },
   "3493258292365656": {
     "name": "晴云Haku",
@@ -34663,6 +34691,13 @@
     "face": "/bfs/face/f745fe77217725d09e91a701ddcc6ba594063388.jpg",
     "group_name": "Providence"
   },
+  "2057377595": {
+    "name": "漆羽Urushiha",
+    "type": "vtuber",
+    "room_id": 30655213,
+    "face": "/bfs/face/cbe4a5be457d85d6114f18470da72c27d086df36.jpg",
+    "group_name": "VirtuaReal"
+  },
   "2325511": {
     "name": "祈茨求蹭饭",
     "type": "vtuber",
@@ -40669,6 +40704,13 @@
     "face": "/bfs/face/f295a048a2e44c1d300725970d69bddfb878f2ec.jpg",
     "group_name": ""
   },
+  "2080519347": {
+    "name": "离枝Richi",
+    "type": "vtuber",
+    "room_id": 30655172,
+    "face": "/bfs/face/2dc44b5f2408badcbdcad26487012edfe6bacf85.jpg",
+    "group_name": "VirtuaReal"
+  },
   "8702159": {
     "name": "离火hotaru",
     "type": "vtuber",
@@ -45681,6 +45723,13 @@
     "face": "/bfs/face/7907f20f1cfc8aea891343bb83aef3d4c7a51649.jpg",
     "group_name": ""
   },
+  "1414231802": {
+    "name": "苏亿万Ruby",
+    "type": "vtuber",
+    "room_id": 27878650,
+    "face": "/bfs/face/5b8a1d40ed793d155af2f84ddebf09ad60403a3c.jpg",
+    "group_name": ""
+  },
   "1847005675": {
     "name": "苏奈Mio_Official",
     "type": "vtuber",
@@ -48319,6 +48368,13 @@
     "room_id": 24992266,
     "face": "/bfs/face/41be68f8f675f83c2de672ebf0e98c8c7c1762be.jpg",
     "group_name": ""
+  },
+  "1609795310": {
+    "name": "蜜言Mikoto",
+    "type": "vtuber",
+    "room_id": 30655198,
+    "face": "/bfs/face/5c25ecf8c9963a790d8a85273b2446b13d8c2397.jpg",
+    "group_name": "VirtuaReal"
   },
   "8531826": {
     "name": "蝉堇",

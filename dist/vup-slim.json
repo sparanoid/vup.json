@@ -8543,6 +8543,12 @@
     "room": 30244175,
     "group_name": ""
   },
+  "1297910179": {
+    "name": "入福步Ayumi",
+    "type": "vtuber",
+    "room": 30655179,
+    "group_name": "VirtuaReal"
+  },
   "1531227247": {
     "name": "入間綠",
     "type": "vtuber",
@@ -19061,6 +19067,12 @@
     "room": 27544657,
     "group_name": "雪域Provealms"
   },
+  "1789460279": {
+    "name": "弥月Mizuki",
+    "type": "vtuber",
+    "room": 30655190,
+    "group_name": "VirtuaReal"
+  },
   "6433651": {
     "name": "弥栄クアム_YaSaKa",
     "type": "vtuber",
@@ -19335,6 +19347,12 @@
     "name": "御坂伊里奇_Official",
     "type": "vtuber",
     "room": 535285,
+    "group_name": ""
+  },
+  "3537115891632675": {
+    "name": "御坂美酋",
+    "type": "vtuber",
+    "room": 30552941,
     "group_name": ""
   },
   "51173587": {
@@ -22930,6 +22948,12 @@
     "type": "vtuber",
     "room": 1260970,
     "group_name": ""
+  },
+  "1616183604": {
+    "name": "晴一Hajime",
+    "type": "vtuber",
+    "room": 30655203,
+    "group_name": "VirtuaReal"
   },
   "3493258292365656": {
     "name": "晴云Haku",
@@ -29711,6 +29735,12 @@
     "room": 21570295,
     "group_name": "Providence"
   },
+  "2057377595": {
+    "name": "漆羽Urushiha",
+    "type": "vtuber",
+    "room": 30655213,
+    "group_name": "VirtuaReal"
+  },
   "2325511": {
     "name": "祈茨求蹭饭",
     "type": "vtuber",
@@ -34859,6 +34889,12 @@
     "room": 25610254,
     "group_name": ""
   },
+  "2080519347": {
+    "name": "离枝Richi",
+    "type": "vtuber",
+    "room": 30655172,
+    "group_name": "VirtuaReal"
+  },
   "8702159": {
     "name": "离火hotaru",
     "type": "vtuber",
@@ -39155,6 +39191,12 @@
     "room": 3995542,
     "group_name": ""
   },
+  "1414231802": {
+    "name": "苏亿万Ruby",
+    "type": "vtuber",
+    "room": 27878650,
+    "group_name": ""
+  },
   "1847005675": {
     "name": "苏奈Mio_Official",
     "type": "vtuber",
@@ -41416,6 +41458,12 @@
     "type": "vtuber",
     "room": 24992266,
     "group_name": ""
+  },
+  "1609795310": {
+    "name": "蜜言Mikoto",
+    "type": "vtuber",
+    "room": 30655198,
+    "group_name": "VirtuaReal"
   },
   "8531826": {
     "name": "蝉堇",

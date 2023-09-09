@@ -9968,6 +9968,13 @@
     "group_name": ""
   },
   {
+    "uid": 1297910179,
+    "name": "入福步Ayumi",
+    "type": "vtuber",
+    "room": 30655179,
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 1531227247,
     "name": "入間綠",
     "type": "vtuber",
@@ -22239,6 +22246,13 @@
     "group_name": "雪域Provealms"
   },
   {
+    "uid": 1789460279,
+    "name": "弥月Mizuki",
+    "type": "vtuber",
+    "room": 30655190,
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 6433651,
     "name": "弥栄クアム_YaSaKa",
     "type": "vtuber",
@@ -22558,6 +22572,13 @@
     "name": "御坂伊里奇_Official",
     "type": "vtuber",
     "room": 535285,
+    "group_name": ""
+  },
+  {
+    "uid": 3537115891632675,
+    "name": "御坂美酋",
+    "type": "vtuber",
+    "room": 30552941,
     "group_name": ""
   },
   {
@@ -26752,6 +26773,13 @@
     "type": "vtuber",
     "room": 1260970,
     "group_name": ""
+  },
+  {
+    "uid": 1616183604,
+    "name": "晴一Hajime",
+    "type": "vtuber",
+    "room": 30655203,
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 3493258292365656,
@@ -34664,6 +34692,13 @@
     "group_name": "Providence"
   },
   {
+    "uid": 2057377595,
+    "name": "漆羽Urushiha",
+    "type": "vtuber",
+    "room": 30655213,
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 2325511,
     "name": "祈茨求蹭饭",
     "type": "vtuber",
@@ -40670,6 +40705,13 @@
     "group_name": ""
   },
   {
+    "uid": 2080519347,
+    "name": "离枝Richi",
+    "type": "vtuber",
+    "room": 30655172,
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 8702159,
     "name": "离火hotaru",
     "type": "vtuber",
@@ -45682,6 +45724,13 @@
     "group_name": ""
   },
   {
+    "uid": 1414231802,
+    "name": "苏亿万Ruby",
+    "type": "vtuber",
+    "room": 27878650,
+    "group_name": ""
+  },
+  {
     "uid": 1847005675,
     "name": "苏奈Mio_Official",
     "type": "vtuber",
@@ -48319,6 +48368,13 @@
     "type": "vtuber",
     "room": 24992266,
     "group_name": ""
+  },
+  {
+    "uid": 1609795310,
+    "name": "蜜言Mikoto",
+    "type": "vtuber",
+    "room": 30655198,
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 8531826,
