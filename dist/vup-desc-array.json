@@ -981,6 +981,15 @@
     "group_name": ""
   },
   {
+    "uid": 2066920860,
+    "name": "CIEL_VanillaSky",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/f142a8a791ac2f3f1b4657cb875b7a2c9e3898fa.jpg",
+    "sign": "穿梭于真实与虚拟之间的越境型女歌手「CIEL」，发色是天空之蓝。",
+    "group_name": "神椿工作室"
+  },
+  {
     "uid": 281791620,
     "name": "CV团咩咩",
     "type": "vtuber",
@@ -4245,6 +4254,15 @@
     "room": 27633961,
     "face": "/bfs/face/f782d16b3abf91b06cf7bf27be6c4baef9ddf145.jpg",
     "sign": "全职vup，目标：活的开心  企鹅群：632183248",
+    "group_name": ""
+  },
+  {
+    "uid": 3537111779117791,
+    "name": "Shirley雪梨-全能版",
+    "type": "vtuber",
+    "room": 30495448,
+    "face": "/bfs/face/0cafb52016084a6b2ee635ae783dfa22ce4c0832.jpg",
+    "sign": "粉丝群730334747\n如果再也见不到你祝你早安，午安，晚安\n心情好 身体好 运气就好",
     "group_name": ""
   },
   {
@@ -10283,7 +10301,7 @@
     "type": "vtuber",
     "room": 25939984,
     "face": "/bfs/face/9639d32e48c9f5db30263149646eb3dc98d597de.jpg",
-    "sign": "Para-dice所属丨清风拂山岗",
+    "sign": "非全职鸽势｜清风拂山岗",
     "group_name": "Para-dice"
   },
   {
@@ -12443,7 +12461,7 @@
     "type": "vtuber",
     "room": 27216357,
     "face": "/bfs/face/f1c3878eea9bd81fe145561d4d412d15b4abeb0d.jpg",
-    "sign": "一只兔子。",
+    "sign": "一只歌势兔子，代号29。每晚22点播播❀通知群:765190544",
     "group_name": ""
   },
   {
@@ -18271,7 +18289,7 @@
   },
   {
     "uid": 48525287,
-    "name": "月的手下败将哭哭",
+    "name": "哭哭不哭啦",
     "type": "vtuber",
     "room": 2256234,
     "face": "/bfs/face/6c194009fa8623f305ca593a1ef07292b4e2858d.jpg",
@@ -18519,6 +18537,15 @@
     "room": 26195137,
     "face": "/bfs/face/2cbabc904518e0a898c837dfdf285833be507416.jpg",
     "sign": "有缘再见！",
+    "group_name": ""
+  },
+  {
+    "uid": 3494369369786925,
+    "name": "啵熊困呼呼oO",
+    "type": "vtuber",
+    "room": 30213514,
+    "face": "/bfs/face/7d392dd681f5d70239793ce27a630f31266dc9c5.jpg",
+    "sign": "是个唱歌的熊宝宝 喜欢和人类作对嘻嘻",
     "group_name": ""
   },
   {
@@ -22513,7 +22540,7 @@
     "name": "奶布_nibu",
     "type": "vtuber",
     "room": 27919275,
-    "face": "/bfs/face/4c71b730745120b753246a329e5c9a649b481460.jpg",
+    "face": "/bfs/face/b889ec97ecdc0f6ce96002858dfca441a4442078.jpg",
     "sign": "想一直热闹的走下去",
     "group_name": ""
   },
@@ -24728,7 +24755,7 @@
     "type": "vtuber",
     "room": 6374209,
     "face": "/bfs/face/50bec7d47935d0660c7174e7c075d38f259e8d15.jpg",
-    "sign": "虚拟艺人团体VirtuaReal成员 商务合作：bd@vrp.live",
+    "sign": "虚拟艺人团体VirtuaReal成员  湖北卫视《必看时间》节目主持人 商务合作：bd@vrp.live",
     "group_name": "VirtuaReal"
   },
   {
@@ -28903,7 +28930,7 @@
     "name": "徒花院紅Beni",
     "type": "vtuber",
     "room": 23848559,
-    "face": "/bfs/face/0eb480efe132fbbd05f4864083a218231f7c0791.jpg",
+    "face": "/bfs/face/0f07d25ed310735cb0ad06d2814d5be17595f937.jpg",
     "sign": "✿ 想要与你一同踏上修行之路！✿ 凛然绽放的真红剑士！徒花院红，参上！✿ 群：948967389",
     "group_name": "Providence"
   },
@@ -30101,7 +30128,7 @@
     "type": "vtuber",
     "room": 24309198,
     "face": "/bfs/face/db51d32b3e74d205bea4eef1d02a0b457e9c6f89.jpg",
-    "sign": "治愈系少年，直播禁言通知群：895806294",
+    "sign": "治愈系温顺小狗，直播禁言通知群：895806294",
     "group_name": ""
   },
   {
@@ -34060,7 +34087,7 @@
     "name": "是轻冰哒",
     "type": "vtuber",
     "room": 72888,
-    "face": "/bfs/face/8ca191c7e149080ca0011d9af76a4769aa650d6f.jpg",
+    "face": "/bfs/face/ff75536b4a084e352ee3db4590fef30784087d1a.jpg",
     "sign": "【极光社】所属的一只天天都在咕视频的摸鱼鸮，鸟窝群559328004，商务合作VX：JGSAurora",
     "group_name": "极光社"
   },
@@ -37454,7 +37481,7 @@
     "type": "vtuber",
     "room": 315636,
     "face": "/bfs/face/6337f98b53455e5258014df0db734de2082e4dee.jpg",
-    "sign": "夏天，烟花，和_______。",
+    "sign": "每天都很困的猫咪咪",
     "group_name": ""
   },
   {
@@ -42143,7 +42170,7 @@
     "type": "vtuber",
     "room": 27202664,
     "face": "/bfs/face/b05a6ef1d9d45214a3fa6e054b1f77bd58da702b.jpg",
-    "sign": "✿套皮主播✿爱发潮流视频✿都当vup了让让我✿\n✿月直播时长高达五小时✿✿",
+    "sign": "✿套皮主播✿爱发潮流视频✿都当vup了让让我✿\n✿月直播时长高达五小时✿播得非常少 不营业✿",
     "group_name": ""
   },
   {
@@ -42205,7 +42232,7 @@
     "name": "沫熠Moi",
     "type": "vtuber",
     "room": 8613948,
-    "face": "/bfs/face/1681d3334f54e420c3d80fc0e9e054c1dae52df5.jpg",
+    "face": "/bfs/face/5458a51c71f1f9e39a31e252621e39d6203a5bcc.jpg",
     "sign": "啧",
     "group_name": ""
   },
@@ -46274,7 +46301,7 @@
     "type": "vtuber",
     "room": 27738107,
     "face": "/bfs/face/e8137d127d7a9b7167845c59e28562a0a614c5aa.jpg",
-    "sign": "直播时间晚上8:00-不定时。企鹅群：551374461",
+    "sign": "直播时间早上8:00-12:00。企鹅群：551374461",
     "group_name": ""
   },
   {
@@ -53762,7 +53789,7 @@
     "type": "vtuber",
     "room": 30207869,
     "face": "/bfs/face/9eff6c699f633b0222e1a3ae7718506596e1f281.jpg",
-    "sign": "开学了不知道播不播。",
+    "sign": "开学停播",
     "group_name": ""
   },
   {
@@ -54285,6 +54312,15 @@
     "room": 4896258,
     "face": "/bfs/face/f69356b8d3d22275c0efc13ba53d2f0858c099ba.jpg",
     "sign": "普普通通管人痴\n已经当私人号用了",
+    "group_name": ""
+  },
+  {
+    "uid": 3537113746246157,
+    "name": "紫雲熙",
+    "type": "vtuber",
+    "room": 30504833,
+    "face": "/bfs/face/519bb6690a1e5163b6f172f9dc97993a9cc4e947.jpg",
+    "sign": "一直有你，安全感满满",
     "group_name": ""
   },
   {
@@ -58711,8 +58747,8 @@
     "name": "四諦",
     "type": "vtuber",
     "room": 22704732,
-    "face": "/bfs/face/1d99523475880447ad9e2cc32a0dc03eea0f55cd.jpg",
-    "sign": "精神状态不稳定\n术力口|wrwrd|2434\n更多属性看追番列表\nペルソナ3好无敌",
+    "face": "/bfs/face/252e675bcd056d1075b99907ea701870670e6cfc.jpg",
+    "sign": "精神状态不稳定\n术力口|wrwrd|2434|自设厨\n更多属性看追番列表\nペルソナ3好无敌",
     "group_name": ""
   },
   {
@@ -60557,7 +60593,7 @@
     "type": "vtuber",
     "room": 26994563,
     "face": "/bfs/face/583860ebb1c27f1634bf43e12669308b7bb38e8f.jpg",
-    "sign": "虚研学园，爱唱歌和聊天的甜妹，谢谢你的喜欢",
+    "sign": "虚研学园，萌糸(si)莉雅，爱唱歌和聊天的甜妹，谢谢你的喜欢",
     "group_name": ""
   },
   {
@@ -62240,7 +62276,7 @@
     "type": "vtuber",
     "room": 3019362,
     "face": "/bfs/face/f5bf1172b60886de7e1a74cec9de5931df5e9334.jpg",
-    "sign": "调声小透明。约稿私信（自动回复有点问题我可能手动来贴。。。）",
+    "sign": "调声小透明。约稿私信（自动回复有点问题我可能手动来贴。。。）pv没有自动回复请等我自己来回",
     "group_name": ""
   },
   {
@@ -65417,7 +65453,7 @@
     "type": "vtuber",
     "room": 63758,
     "face": "/bfs/face/3d38f75ca43af3a1b3cce72e0cba088bf0a16c05.jpg",
-    "sign": "无性别量子猫，型号T85-EH。全职歌猫势。流浪在意大利，顺便学了点歌剧。6小时时差。",
+    "sign": "无性别量子猫，型号T85-EH。在意大利流浪，全职歌猫势，B站活动中。6小时时差。",
     "group_name": ""
   },
   {
@@ -68953,7 +68989,7 @@
     "name": "霧薰kIri_",
     "type": "vtuber",
     "room": 27939094,
-    "face": "/bfs/face/8b52eb18a25eea1ed9319521091c646a183a6e3d.jpg",
+    "face": "/bfs/face/5bfe3209d0766b3f733a7e9bc11f5a6c25f09df3.jpg",
     "sign": "温柔的人大好き！直播房间号：27939094 企鹅群：857547472",
     "group_name": ""
   },
@@ -69553,11 +69589,11 @@
   },
   {
     "uid": 34430749,
-    "name": "韶嘻嘻",
+    "name": "韶家",
     "type": "vtuber",
     "room": 3461506,
-    "face": "/bfs/face/49135b97c3e7d633252b7a1300989aba2dccba7d.jpg",
-    "sign": "一只平平无奇的OC兼VUP",
+    "face": "/bfs/face/6ba60928be79a454fa907448e82dc76eb988dcf1.jpg",
+    "sign": "一个平平无奇的OC人。",
     "group_name": ""
   },
   {
@@ -70881,6 +70917,15 @@
     "room": 22551845,
     "face": "/bfs/face/fb8aa2ea3c2c554dba2997e13faed61327fc8a5c.jpg",
     "sign": "臭打游戏的延毕生。通知群：154473746 ",
+    "group_name": ""
+  },
+  {
+    "uid": 1691266137,
+    "name": "鱼蓉ONFIRE",
+    "type": "vtuber",
+    "room": 27934913,
+    "face": "/bfs/face/9de7f6ba50f01551504a14b7a9653324513638d5.jpg",
+    "sign": "水族馆老板娘是条食人鱼。个人弹唱歌势",
     "group_name": ""
   },
   {

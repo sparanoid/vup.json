@@ -872,6 +872,14 @@
     "group_name": ""
   },
   {
+    "uid": 2066920860,
+    "name": "CIEL_VanillaSky",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/f142a8a791ac2f3f1b4657cb875b7a2c9e3898fa.jpg",
+    "group_name": "神椿工作室"
+  },
+  {
     "uid": 281791620,
     "name": "CV团咩咩",
     "type": "vtuber",
@@ -3773,6 +3781,14 @@
     "type": "vtuber",
     "room": 27633961,
     "face": "/bfs/face/f782d16b3abf91b06cf7bf27be6c4baef9ddf145.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3537111779117791,
+    "name": "Shirley雪梨-全能版",
+    "type": "vtuber",
+    "room": 30495448,
+    "face": "/bfs/face/0cafb52016084a6b2ee635ae783dfa22ce4c0832.jpg",
     "group_name": ""
   },
   {
@@ -16241,7 +16257,7 @@
   },
   {
     "uid": 48525287,
-    "name": "月的手下败将哭哭",
+    "name": "哭哭不哭啦",
     "type": "vtuber",
     "room": 2256234,
     "face": "/bfs/face/6c194009fa8623f305ca593a1ef07292b4e2858d.jpg",
@@ -16461,6 +16477,14 @@
     "type": "vtuber",
     "room": 26195137,
     "face": "/bfs/face/2cbabc904518e0a898c837dfdf285833be507416.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3494369369786925,
+    "name": "啵熊困呼呼oO",
+    "type": "vtuber",
+    "room": 30213514,
+    "face": "/bfs/face/7d392dd681f5d70239793ce27a630f31266dc9c5.jpg",
     "group_name": ""
   },
   {
@@ -20012,7 +20036,7 @@
     "name": "奶布_nibu",
     "type": "vtuber",
     "room": 27919275,
-    "face": "/bfs/face/4c71b730745120b753246a329e5c9a649b481460.jpg",
+    "face": "/bfs/face/b889ec97ecdc0f6ce96002858dfca441a4442078.jpg",
     "group_name": ""
   },
   {
@@ -25692,7 +25716,7 @@
     "name": "徒花院紅Beni",
     "type": "vtuber",
     "room": 23848559,
-    "face": "/bfs/face/0eb480efe132fbbd05f4864083a218231f7c0791.jpg",
+    "face": "/bfs/face/0f07d25ed310735cb0ad06d2814d5be17595f937.jpg",
     "group_name": "Providence"
   },
   {
@@ -30276,7 +30300,7 @@
     "name": "是轻冰哒",
     "type": "vtuber",
     "room": 72888,
-    "face": "/bfs/face/8ca191c7e149080ca0011d9af76a4769aa650d6f.jpg",
+    "face": "/bfs/face/ff75536b4a084e352ee3db4590fef30784087d1a.jpg",
     "group_name": "极光社"
   },
   {
@@ -37516,7 +37540,7 @@
     "name": "沫熠Moi",
     "type": "vtuber",
     "room": 8613948,
-    "face": "/bfs/face/1681d3334f54e420c3d80fc0e9e054c1dae52df5.jpg",
+    "face": "/bfs/face/5458a51c71f1f9e39a31e252621e39d6203a5bcc.jpg",
     "group_name": ""
   },
   {
@@ -48256,6 +48280,14 @@
     "group_name": ""
   },
   {
+    "uid": 3537113746246157,
+    "name": "紫雲熙",
+    "type": "vtuber",
+    "room": 30504833,
+    "face": "/bfs/face/519bb6690a1e5163b6f172f9dc97993a9cc4e947.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 17364887,
     "name": "紫音Official",
     "type": "vtuber",
@@ -52188,7 +52220,7 @@
     "name": "四諦",
     "type": "vtuber",
     "room": 22704732,
-    "face": "/bfs/face/1d99523475880447ad9e2cc32a0dc03eea0f55cd.jpg",
+    "face": "/bfs/face/252e675bcd056d1075b99907ea701870670e6cfc.jpg",
     "group_name": ""
   },
   {
@@ -61292,7 +61324,7 @@
     "name": "霧薰kIri_",
     "type": "vtuber",
     "room": 27939094,
-    "face": "/bfs/face/8b52eb18a25eea1ed9319521091c646a183a6e3d.jpg",
+    "face": "/bfs/face/5bfe3209d0766b3f733a7e9bc11f5a6c25f09df3.jpg",
     "group_name": ""
   },
   {
@@ -61825,10 +61857,10 @@
   },
   {
     "uid": 34430749,
-    "name": "韶嘻嘻",
+    "name": "韶家",
     "type": "vtuber",
     "room": 3461506,
-    "face": "/bfs/face/49135b97c3e7d633252b7a1300989aba2dccba7d.jpg",
+    "face": "/bfs/face/6ba60928be79a454fa907448e82dc76eb988dcf1.jpg",
     "group_name": ""
   },
   {
@@ -63005,6 +63037,14 @@
     "type": "vtuber",
     "room": 22551845,
     "face": "/bfs/face/fb8aa2ea3c2c554dba2997e13faed61327fc8a5c.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1691266137,
+    "name": "鱼蓉ONFIRE",
+    "type": "vtuber",
+    "room": 27934913,
+    "face": "/bfs/face/9de7f6ba50f01551504a14b7a9653324513638d5.jpg",
     "group_name": ""
   },
   {

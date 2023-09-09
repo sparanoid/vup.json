@@ -763,6 +763,13 @@
     "group_name": ""
   },
   {
+    "uid": 2066920860,
+    "name": "CIEL_VanillaSky",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "神椿工作室"
+  },
+  {
     "uid": 281791620,
     "name": "CV团咩咩",
     "type": "vtuber",
@@ -3301,6 +3308,13 @@
     "name": "Shine_沁",
     "type": "vtuber",
     "room": 27633961,
+    "group_name": ""
+  },
+  {
+    "uid": 3537111779117791,
+    "name": "Shirley雪梨-全能版",
+    "type": "vtuber",
+    "room": 30495448,
     "group_name": ""
   },
   {
@@ -14211,7 +14225,7 @@
   },
   {
     "uid": 48525287,
-    "name": "月的手下败将哭哭",
+    "name": "哭哭不哭啦",
     "type": "vtuber",
     "room": 2256234,
     "group_name": ""
@@ -14403,6 +14417,13 @@
     "name": "啵尼可_Official",
     "type": "vtuber",
     "room": 26195137,
+    "group_name": ""
+  },
+  {
+    "uid": 3494369369786925,
+    "name": "啵熊困呼呼oO",
+    "type": "vtuber",
+    "room": 30213514,
     "group_name": ""
   },
   {
@@ -42224,6 +42245,13 @@
     "group_name": ""
   },
   {
+    "uid": 3537113746246157,
+    "name": "紫雲熙",
+    "type": "vtuber",
+    "room": 30504833,
+    "group_name": ""
+  },
+  {
     "uid": 17364887,
     "name": "紫音Official",
     "type": "vtuber",
@@ -54097,7 +54125,7 @@
   },
   {
     "uid": 34430749,
-    "name": "韶嘻嘻",
+    "name": "韶家",
     "type": "vtuber",
     "room": 3461506,
     "group_name": ""
@@ -55129,6 +55157,13 @@
     "name": "鱼狸狸",
     "type": "vtuber",
     "room": 22551845,
+    "group_name": ""
+  },
+  {
+    "uid": 1691266137,
+    "name": "鱼蓉ONFIRE",
+    "type": "vtuber",
+    "room": 27934913,
     "group_name": ""
   },
   {
