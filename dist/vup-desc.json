@@ -22664,7 +22664,7 @@
     "group_name": "V_G研究所"
   },
   "25725435": {
-    "name": "小糖包包包",
+    "name": "小糖包醋包版",
     "type": "vtuber",
     "room": 1214443,
     "face": "/bfs/face/28f1f56ee86f99d8ce368ef07898be3fe59af4fe.jpg",
@@ -28760,11 +28760,11 @@
     "group_name": "Virtual放送部"
   },
   "416346435": {
-    "name": "澄汐NIco_",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 25258981,
-    "face": "/bfs/face/08ed71ddf6d3fe362c0a91cc0f3b9e65a3e03b90.jpg",
-    "sign": "✨新v猫神✨  \n普普通通的你，也值得被万般宠溺。",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "666726800": {
@@ -33760,7 +33760,7 @@
     "group_name": ""
   },
   "3494354205280936": {
-    "name": "栗旬QwQ",
+    "name": "栗什么旬",
     "type": "vtuber",
     "room": 27940294,
     "face": "/bfs/face/c105d13ce422ab078adf1d53fe5061135e6d2dee.jpg",
