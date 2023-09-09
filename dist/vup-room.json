@@ -17839,7 +17839,7 @@
     "name": "妮幼nyo",
     "type": "vtuber",
     "room_id": 26438284,
-    "face": "/bfs/face/a7d028c102a61098b8cfe619beee3dae359c5aa2.jpg",
+    "face": "/bfs/face/1094380c564665a3f13389b220d41817360b8e31.jpg",
     "group_name": ""
   },
   "3461566271850847": {
@@ -19124,10 +19124,10 @@
     "group_name": ""
   },
   "3493271638640917": {
-    "name": "小仔崽_Master",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 27793344,
-    "face": "/bfs/face/976f7d9f39ac54c2b0f790de4b19ad61356fe029.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493080351115928": {
@@ -42556,7 +42556,7 @@
     "name": "纪闲俞aJI",
     "type": "vtuber",
     "room_id": 26824624,
-    "face": "/bfs/face/9370e48ebafb57fd68bf21462ecbe5c0e7d23429.jpg",
+    "face": "/bfs/face/79930722bbf1eed9ff73a234ba939a90782ae7f9.jpg",
     "group_name": ""
   },
   "31790242": {
