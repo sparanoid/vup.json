@@ -2056,6 +2056,14 @@
     "group_name": "夜空Project"
   },
   {
+    "uid": 3494379647928986,
+    "name": "LeoCavendish",
+    "type": "vtuber",
+    "room": 30345525,
+    "face": "/bfs/face/1f42b83f785df6d0ce95cad084f3024c5a0799fe.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1909831457,
     "name": "LepusLive",
     "type": "group",
@@ -11880,6 +11888,14 @@
     "group_name": ""
   },
   {
+    "uid": 5323780,
+    "name": "冬藏W",
+    "type": "vtuber",
+    "room": 1113115,
+    "face": "/bfs/face/608af059770b50c9f201c2853fbcdf7d31a25ed0.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 12945093,
     "name": "冬雪沫沫",
     "type": "vtuber",
@@ -19425,10 +19441,10 @@
   },
   {
     "uid": 578913492,
-    "name": "天音莉莉娅_official",
+    "name": "Newo_official",
     "type": "vtuber",
     "room": 22867645,
-    "face": "/bfs/face/302d2e1c5e86a81f027917e98b27fe706858aa7c.jpg",
+    "face": "/bfs/face/399c88411b9526c5ee9e807b2faff40e3e340b49.jpg",
     "group_name": ""
   },
   {
@@ -23205,6 +23221,14 @@
     "type": "vtuber",
     "room": 22195813,
     "face": "/bfs/face/934cbe173285465161bd794115b325b1f144022f.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493263732378280,
+    "name": "少司存SyoSuTsun",
+    "type": "vtuber",
+    "room": 30216603,
+    "face": "/bfs/face/701441a0db829fe61df212ec33f119b832d22aae.jpg",
     "group_name": ""
   },
   {
@@ -37933,6 +37957,14 @@
     "type": "vtuber",
     "room": 24214312,
     "face": "/bfs/face/00f57f79815b1c8b6a420ec3a02184f423932224.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3494363652950348,
+    "name": "波間無居_Mui",
+    "type": "vtuber",
+    "room": 30796453,
+    "face": "/bfs/face/775d0b8e725ac89313e919f45b91aac012b771f8.jpg",
     "group_name": ""
   },
   {
@@ -55320,6 +55352,14 @@
     "group_name": ""
   },
   {
+    "uid": 510982800,
+    "name": "蝠灵念",
+    "type": "vtuber",
+    "room": 30200087,
+    "face": "/bfs/face/bc46a6f893ae91213cb63ae82ce42ee26b4f1edc.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 18891347,
     "name": "蝰漓Kurlia",
     "type": "vtuber",
@@ -55541,6 +55581,14 @@
     "type": "vtuber",
     "room": 43473,
     "face": "/bfs/face/56511c1d144fc0ee5ab391880b4e100eb0846184.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3494357499906111,
+    "name": "西九九Nicy",
+    "type": "vtuber",
+    "room": 30434099,
+    "face": "/bfs/face/a0f206e8b6add9ba7f9d0e3ea2d14b739ad097e3.jpg",
     "group_name": ""
   },
   {
@@ -60813,6 +60861,14 @@
     "type": "vtuber",
     "room": 6302912,
     "face": "/bfs/face/00e17a1810711393f459ece0abf6386095a772d4.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 2146103492,
+    "name": "雪豹Leo_official",
+    "type": "vtuber",
+    "room": 30722018,
+    "face": "/bfs/face/3981cb9cff645ab32e7b2a941c88fca489d00aa8.jpg",
     "group_name": ""
   },
   {
