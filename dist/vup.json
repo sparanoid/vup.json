@@ -8602,6 +8602,13 @@
     "face": "/bfs/face/cdfe16244a8a269c434d389be1ebd87a68d3743f.jpg",
     "group_name": ""
   },
+  "3494380811848430": {
+    "name": "伊樹菜NANA",
+    "type": "vtuber",
+    "room": 30365021,
+    "face": "/bfs/face/e6e7cbc00b03a09b85d9f11d26846344cfbc1282.jpg",
+    "group_name": ""
+  },
   "35806727": {
     "name": "伊橙Yzumi",
     "type": "vtuber",
@@ -13101,6 +13108,13 @@
     "type": "vtuber",
     "room": 27486302,
     "face": "/bfs/face/c93b7e8ed4d6355b6d3cf6664ca9fb731102cf74.jpg",
+    "group_name": ""
+  },
+  "3493294879280043": {
+    "name": "叶子ye_Leaf",
+    "type": "vtuber",
+    "room": 30291104,
+    "face": "/bfs/face/77ea181a4e245c9b97458234972ba349bcb90de3.jpg",
     "group_name": ""
   },
   "5015535": {
