@@ -4339,6 +4339,13 @@
     "face": "/bfs/face/7e447fa979836c699eb9f7bbff67b0a0e634d6bb.jpg",
     "group_name": ""
   },
+  "43181735": {
+    "name": "fairy苏软糖",
+    "type": "vtuber",
+    "room": 4578622,
+    "face": "/bfs/face/7eb104366177ef4e23138903316a4ab6e37405ca.jpg",
+    "group_name": ""
+  },
   "529107543": {
     "name": "fa漠",
     "type": "vtuber",
@@ -4449,6 +4456,13 @@
     "type": "vtuber",
     "room": 26541901,
     "face": "/bfs/face/283eea8fd70bf79c93bbde4d85d9a212408e3bdc.jpg",
+    "group_name": ""
+  },
+  "1998383382": {
+    "name": "kaka新星",
+    "type": "vtuber",
+    "room": 26182653,
+    "face": "/bfs/face/e6dddc90803fc15498897ef97317d08868c58111.jpg",
     "group_name": ""
   },
   "674228183": {
@@ -7706,6 +7720,13 @@
     "face": "/bfs/face/a1654794aff4bf2c5164372820461f3dc6430f27.jpg",
     "group_name": ""
   },
+  "3537120023022390": {
+    "name": "云声声_yun",
+    "type": "vtuber",
+    "room": 30596518,
+    "face": "/bfs/face/b2e2608916303c52133b05df0198f0ce0ce2de0e.jpg",
+    "group_name": ""
+  },
   "17987645": {
     "name": "云子kumoko",
     "type": "vtuber",
@@ -7970,6 +7991,13 @@
     "type": "vtuber",
     "room": 23170678,
     "face": "/bfs/face/5074673369524a68018595d1a05425d64865b96f.jpg",
+    "group_name": ""
+  },
+  "3493271510714658": {
+    "name": "五音不全的晚小辰",
+    "type": "vtuber",
+    "room": 27512234,
+    "face": "/bfs/face/717e1c3178054ba818badabca6dcd10a5254e4fd.jpg",
     "group_name": ""
   },
   "1618258054": {
@@ -9026,7 +9054,7 @@
     "name": "伽洛蕾西_",
     "type": "vtuber",
     "room": 30709909,
-    "face": "/bfs/face/0956cb22b76a92c8bedd1462d782cb0728dde7b9.jpg",
+    "face": "/bfs/face/163aa9ad517d2568ad0ec353816376954e928df0.jpg",
     "group_name": ""
   },
   "2899681": {
@@ -14406,7 +14434,7 @@
     "group_name": ""
   },
   "3537114452986389": {
-    "name": "啵啵-婉儿冠",
+    "name": "啵啵爱撒娇",
     "type": "vtuber",
     "room": 30519307,
     "face": "/bfs/face/7a2368fabc4116f9221dea4f85cb1c07d87fbe7d.jpg",
@@ -21594,6 +21622,13 @@
     "face": "/bfs/face/b01c0dd570b67adb4d1d2cbf52a957fdc90c1797.jpg",
     "group_name": ""
   },
+  "3494364126906916": {
+    "name": "帕儿PA",
+    "type": "vtuber",
+    "room": 30507358,
+    "face": "/bfs/face/1a04d05245dd28b8df05fcfac30280104833481d.jpg",
+    "group_name": ""
+  },
   "3493139490802156": {
     "name": "帕夏hypatia",
     "type": "vtuber",
@@ -27312,6 +27347,13 @@
     "room": 22505535,
     "face": "/bfs/face/d253e1e9c0f971ded96bb4293806f1628b047e4a.jpg",
     "group_name": "MofuMofu Fantasista"
+  },
+  "3493291037297185": {
+    "name": "月小兔niki",
+    "type": "vtuber",
+    "room": 27749655,
+    "face": "/bfs/face/f263b3de3628635dd3d35e7ab8ad50b54b9ca7a3.jpg",
+    "group_name": ""
   },
   "3692491": {
     "name": "咏月小夜的日记",
@@ -42538,6 +42580,13 @@
     "face": "/bfs/face/8f18d3c942ed5e88a1f03a979606af0460e51317.jpg",
     "group_name": ""
   },
+  "3537119901387660": {
+    "name": "红魔姬Mora",
+    "type": "vtuber",
+    "room": 30864145,
+    "face": "/bfs/face/801d9214d61394fed9229b37a02a05fc88e11811.jpg",
+    "group_name": ""
+  },
   "427487966": {
     "name": "红魔游戏手机",
     "type": "vtuber",
@@ -50419,6 +50468,13 @@
     "room": 4263083,
     "face": "/bfs/face/7c6b22fca4cca55a94202e4c31d469c8604423cf.jpg",
     "group_name": "Nature"
+  },
+  "52795517": {
+    "name": "迷糊の椰椰兔",
+    "type": "vtuber",
+    "room": 27225380,
+    "face": "/bfs/face/ab681707046ff4e3908645a447f1068e1ab68b05.jpg",
+    "group_name": ""
   },
   "113791": {
     "name": "迷路的牙刷",
