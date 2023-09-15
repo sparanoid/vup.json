@@ -4168,7 +4168,7 @@
     "name": "_杜英_",
     "type": "vtuber",
     "room_id": 9304625,
-    "face": "/bfs/face/cd11579b92a3c39d33e510e7613560ab30ef11bf.jpg",
+    "face": "/bfs/face/3b02c379b1da7ab61b5d65419cbba45dbb98c6a1.jpg",
     "group_name": ""
   },
   "649029391": {
@@ -17583,6 +17583,13 @@
     "face": "/bfs/face/cb716b4536c6b576d406cc7d529b8ce5eb08583d.jpg",
     "group_name": ""
   },
+  "523829132": {
+    "name": "奶栗咖",
+    "type": "vtuber",
+    "room_id": 30690347,
+    "face": "/bfs/face/56845123a60ec3ab10e5085f5aba9733c5211bc3.jpg",
+    "group_name": ""
+  },
   "3494349734152273": {
     "name": "奶油Kuromi-缺舰长版",
     "type": "vtuber",
@@ -18162,6 +18169,13 @@
     "type": "vtuber",
     "room_id": 27691842,
     "face": "/bfs/face/53f069a348cd115b1e9c8a1778416d82c73dee67.jpg",
+    "group_name": ""
+  },
+  "476186393": {
+    "name": "娜瑞丝niko",
+    "type": "vtuber",
+    "room_id": 30628953,
+    "face": "/bfs/face/19bcf908e85612f74b3cc8b7180941381e745e74.jpg",
     "group_name": ""
   },
   "1368021389": {
@@ -20474,6 +20488,13 @@
     "face": "/bfs/face/6866ff9f03b8e354c2c601bcf7bbe33bd2261790.jpg",
     "group_name": ""
   },
+  "3537121870613247": {
+    "name": "尤栗希娅Yuri",
+    "type": "vtuber",
+    "room_id": 30642320,
+    "face": "/bfs/face/c09385ba76645423e548fabbbbf3fc37b7191ef9.jpg",
+    "group_name": ""
+  },
   "3493270025931096": {
     "name": "尤栗黑泽_Yuri",
     "type": "vtuber",
@@ -21762,6 +21783,13 @@
     "face": "/bfs/face/ba52cf7aecd94bc33af45af6ce99f3c20db29926.jpg",
     "group_name": ""
   },
+  "3537111974152580": {
+    "name": "年三岁sama",
+    "type": "vtuber",
+    "room_id": 30551380,
+    "face": "/bfs/face/e78c1b1993f1ac2685e724a7d860873179c6e625.jpg",
+    "group_name": ""
+  },
   "31238140": {
     "name": "年糕夹心",
     "type": "vtuber",
@@ -22194,6 +22222,13 @@
     "type": "vtuber",
     "room_id": 958555,
     "face": "/bfs/face/a4c5de2990c5a0907f7c556374097181c3988ded.jpg",
+    "group_name": ""
+  },
+  "3494355658606842": {
+    "name": "庫吉菈Kura",
+    "type": "vtuber",
+    "room_id": 30776616,
+    "face": "/bfs/face/55ac6fc03433123d9fa55c039842a4cdd35ad01c.jpg",
     "group_name": ""
   },
   "395426377": {
@@ -23013,6 +23048,13 @@
     "type": "vtuber",
     "room_id": 30743299,
     "face": "/bfs/face/37384465c3f5cbe52be269e6123d7b11ce1edcf4.jpg",
+    "group_name": ""
+  },
+  "3537121006586034": {
+    "name": "怀夕Peri9月17日满月啦",
+    "type": "vtuber",
+    "room_id": 30616542,
+    "face": "/bfs/face/03e664904aaaef886c46e28492d73717b0cab866.jpg",
     "group_name": ""
   },
   "2090208": {
@@ -31888,7 +31930,7 @@
     "name": "残剑_Truekep",
     "type": "vtuber",
     "room_id": 27281881,
-    "face": "/bfs/face/927fddf1418e1c210ef7607c023682fe650ee31c.jpg",
+    "face": "/bfs/face/fc85124913666a781f500f236ee920dd20bcdce4.jpg",
     "group_name": ""
   },
   "22974315": {
@@ -37176,6 +37218,13 @@
     "face": "/bfs/face/06fac0e150a69c4bafa4a8e33c380f383b794a93.jpg",
     "group_name": "Vi-D"
   },
+  "3537113498782135": {
+    "name": "理理-不会唱歌",
+    "type": "vtuber",
+    "room_id": 30501585,
+    "face": "/bfs/face/79fe58e65f2b1b3a759fa8d1633e6a5220fd80d7.jpg",
+    "group_name": ""
+  },
   "1762978463": {
     "name": "理理Lyrics",
     "type": "vtuber",
@@ -37677,7 +37726,7 @@
     "name": "璃纱Lisa",
     "type": "vtuber",
     "room_id": 23481576,
-    "face": "/bfs/face/ad80dbf90d07e63d705e1df8fc37c12f6f80dbdb.jpg",
+    "face": "/bfs/face/114f85eefd9b95951d1ec0ae71b528250618314c.jpg",
     "group_name": ""
   },
   "1388414536": {
@@ -40725,6 +40774,13 @@
     "face": "/bfs/face/34d22f854f6d120cacaf2f15eebd86dd6f002c9f.jpg",
     "group_name": ""
   },
+  "3537112047553325": {
+    "name": "离月-Echo",
+    "type": "vtuber",
+    "room_id": 30496106,
+    "face": "/bfs/face/fbb49d483756dc319ce365192d11d9a141bf194a.jpg",
+    "group_name": ""
+  },
   "2080519347": {
     "name": "离枝Richi",
     "type": "vtuber",
@@ -41795,6 +41851,13 @@
     "room_id": 193484,
     "face": "/bfs/face/e4bafa7d9d76a23c7114ee348c9bf0912f217406.jpg",
     "group_name": "虚研学园"
+  },
+  "3537120390023307": {
+    "name": "米莉娅Miria",
+    "type": "vtuber",
+    "room_id": 30642356,
+    "face": "/bfs/face/25527108a8fc0d94c4c8086789613ba19793a649.jpg",
+    "group_name": ""
   },
   "11617542": {
     "name": "千狩かり_Channel",
@@ -51306,7 +51369,7 @@
     "name": "铃凛子",
     "type": "vtuber",
     "room_id": 30077082,
-    "face": "/bfs/face/bd393cc7351fabe7fdaf02b3b7c947f013f06782.jpg",
+    "face": "/bfs/face/07ea520df43bdfb0bf1eac347a5139c5d0b471bb.jpg",
     "group_name": ""
   },
   "428424219": {
@@ -55887,6 +55950,13 @@
     "face": "/bfs/face/1086323723c72e02806e1cd4be2a0d2580c670eb.jpg",
     "group_name": ""
   },
+  "3546380113021396": {
+    "name": "鹿甜甜Lorie",
+    "type": "vtuber",
+    "room_id": 30799553,
+    "face": "/bfs/face/46a203ca8e982b25cea7298044dbfeec58f9648d.jpg",
+    "group_name": ""
+  },
   "3493130707929675": {
     "name": "鹿笙睡不醒",
     "type": "vtuber",
@@ -56388,7 +56458,7 @@
     "name": "黑酱猫kuro",
     "type": "vtuber",
     "room_id": 22619596,
-    "face": "/bfs/face/1f99a8f50175ea728704fff7cec3ce46fe59a11f.jpg",
+    "face": "/bfs/face/8e7d171584220deda3cbf51f5ead2e68aceec4ad.jpg",
     "group_name": ""
   },
   "5701677": {
