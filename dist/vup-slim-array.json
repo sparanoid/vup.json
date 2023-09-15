@@ -12901,13 +12901,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493130785523836,
-    "name": "叫我刘铁柱或者琉璃璃",
-    "type": "vtuber",
-    "room": 27019356,
-    "group_name": ""
-  },
-  {
     "uid": 3493144437983793,
     "name": "大忽悠子-学唱歌版",
     "type": "vtuber",
@@ -13570,13 +13563,6 @@
     "name": "呆呆不吃喵",
     "type": "vtuber",
     "room": 27315114,
-    "group_name": ""
-  },
-  {
-    "uid": 1842916420,
-    "name": "呆呆不呆Ovo",
-    "type": "vtuber",
-    "room": 30660779,
     "group_name": ""
   },
   {
@@ -18191,6 +18177,13 @@
     "type": "vtuber",
     "room": 22605804,
     "group_name": "云光计划"
+  },
+  {
+    "uid": 3546381249677998,
+    "name": "娜莎_Nasa",
+    "type": "vtuber",
+    "room": 30778104,
+    "group_name": ""
   },
   {
     "uid": 3461567532239826,
@@ -23104,13 +23097,6 @@
     "name": "怜音Ren",
     "type": "vtuber",
     "room": 26943631,
-    "group_name": ""
-  },
-  {
-    "uid": 3546380308056400,
-    "name": "思乃新世界の神",
-    "type": "vtuber",
-    "room": 30767101,
     "group_name": ""
   },
   {
@@ -33677,6 +33663,13 @@
     "group_name": ""
   },
   {
+    "uid": 3537116009072888,
+    "name": "洮苏苏-纸见冠",
+    "type": "vtuber",
+    "room": 30617409,
+    "group_name": ""
+  },
+  {
     "uid": 1968806678,
     "name": "洲上光_hitorino",
     "type": "vtuber",
@@ -41493,13 +41486,6 @@
     "name": "鬼狼233",
     "type": "vtuber",
     "room": 11642195,
-    "group_name": ""
-  },
-  {
-    "uid": 1512304528,
-    "name": "笨小妖想成精",
-    "type": "vtuber",
-    "room": 26942901,
     "group_name": ""
   },
   {
@@ -55815,6 +55801,13 @@
     "name": "鹿北沫Cyrus",
     "type": "vtuber",
     "room": 27934596,
+    "group_name": ""
+  },
+  {
+    "uid": 3493299268618475,
+    "name": "鹿十七kami",
+    "type": "vtuber",
+    "room": 27863785,
     "group_name": ""
   },
   {

@@ -12900,13 +12900,6 @@
     "face": "/bfs/face/4991d793e6f56a086783709f8d34062ede69f328.jpg",
     "group_name": ""
   },
-  "3493130785523836": {
-    "name": "叫我刘铁柱或者琉璃璃",
-    "type": "vtuber",
-    "room": 27019356,
-    "face": "/bfs/face/c67055bacc659b983e9590d3612e5411e58ec8d6.jpg",
-    "group_name": ""
-  },
   "3493144437983793": {
     "name": "大忽悠子-学唱歌版",
     "type": "vtuber",
@@ -13570,13 +13563,6 @@
     "type": "vtuber",
     "room": 27315114,
     "face": "/bfs/face/918c49dc70da33098e4f34fb6c62b25dce016256.jpg",
-    "group_name": ""
-  },
-  "1842916420": {
-    "name": "呆呆不呆Ovo",
-    "type": "vtuber",
-    "room": 30660779,
-    "face": "/bfs/face/6474c9c17b6769f5a3d9f74098ed0d78fe70136c.jpg",
     "group_name": ""
   },
   "368097": {
@@ -18191,6 +18177,13 @@
     "room": 22605804,
     "face": "/bfs/face/c6aa0ec2b53f55fb49d8b4f815e579b48dfe0718.jpg",
     "group_name": "云光计划"
+  },
+  "3546381249677998": {
+    "name": "娜莎_Nasa",
+    "type": "vtuber",
+    "room": 30778104,
+    "face": "/bfs/face/b838f056923d39c3c2a8ed1b6f5b642da5af8c8d.jpg",
+    "group_name": ""
   },
   "3461567532239826": {
     "name": "娜诺_Nano",
@@ -23104,13 +23097,6 @@
     "type": "vtuber",
     "room": 26943631,
     "face": "/bfs/face/2efdaf3a51727a56fca136f5a574be7ccaf6bd0d.jpg",
-    "group_name": ""
-  },
-  "3546380308056400": {
-    "name": "思乃新世界の神",
-    "type": "vtuber",
-    "room": 30767101,
-    "face": "/bfs/face/4f7fffe973f7967e782b811f7b1375e933e00380.jpg",
     "group_name": ""
   },
   "261700038": {
@@ -33676,6 +33662,13 @@
     "face": "/bfs/face/be569b12ac0f55a9c039767290cd001fcfc43670.jpg",
     "group_name": ""
   },
+  "3537116009072888": {
+    "name": "洮苏苏-纸见冠",
+    "type": "vtuber",
+    "room": 30617409,
+    "face": "/bfs/face/08fff51689d464ca53fa130a267c1a9fd3ae527b.jpg",
+    "group_name": ""
+  },
   "1968806678": {
     "name": "洲上光_hitorino",
     "type": "vtuber",
@@ -41493,13 +41486,6 @@
     "type": "vtuber",
     "room": 11642195,
     "face": "/bfs/face/bb268709194bfdc89a96d9923ccc59c7656be09e.jpg",
-    "group_name": ""
-  },
-  "1512304528": {
-    "name": "笨小妖想成精",
-    "type": "vtuber",
-    "room": 26942901,
-    "face": "/bfs/face/f12b0499b406ffe854c8a2cd0747b4724a7c05f8.jpg",
     "group_name": ""
   },
   "8311201": {
@@ -55815,6 +55801,13 @@
     "type": "vtuber",
     "room": 27934596,
     "face": "/bfs/face/aa28d255e09721ea6b79edabe7845f54571b45f4.jpg",
+    "group_name": ""
+  },
+  "3493299268618475": {
+    "name": "鹿十七kami",
+    "type": "vtuber",
+    "room": 27863785,
+    "face": "/bfs/face/d31ec89331e2aff56f34e8bd02a08277c18424a6.jpg",
     "group_name": ""
   },
   "1550656130": {
