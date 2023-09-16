@@ -716,7 +716,7 @@
   "11587741": {
     "name": "BlagS_Channel",
     "type": "vtuber",
-    "room_id": 7809855,
+    "room_id": 0,
     "face": "/bfs/face/4701840d53d137f52a5fff6170d129b81ac08120.jpg",
     "group_name": "V_G研究所"
   },
@@ -14157,7 +14157,7 @@
     "name": "哒凛",
     "type": "vtuber",
     "room_id": 27167292,
-    "face": "/bfs/face/3922e73a0196c19b598a78fdcab65e5b16ae2598.jpg",
+    "face": "/bfs/face/af6b992f471f2da68fa439180c4cd1489cfee14f.jpg",
     "group_name": ""
   },
   "629814419": {
@@ -41926,7 +41926,7 @@
     "name": "粉茉er",
     "type": "vtuber",
     "room_id": 26926098,
-    "face": "/bfs/face/ad14816d074666bbfd47d886e648951fdb3ce28c.jpg",
+    "face": "/bfs/face/c6dc7b477e3b15370ee97d3e86c324b8f235b61d.jpg",
     "group_name": ""
   },
   "3493139666962519": {
@@ -49140,7 +49140,7 @@
     "group_name": ""
   },
   "620010594": {
-    "name": "诡猫猫_Neko-16号百天",
+    "name": "诡猫猫_Neko",
     "type": "vtuber",
     "room_id": 27794188,
     "face": "/bfs/face/ecb5906ddcd25f1617d1091db18db944a67c443f.jpg",
@@ -53238,7 +53238,7 @@
     "name": "雪铃-Channel",
     "type": "vtuber",
     "room_id": 23904713,
-    "face": "/bfs/face/660c656b39cfa26bc96757eea3bd2df047cd32fe.jpg",
+    "face": "/bfs/face/501c912f3409e1268f6f1b00b55a138fef4459ee.jpg",
     "group_name": ""
   },
   "2971374": {

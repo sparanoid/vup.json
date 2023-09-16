@@ -614,7 +614,7 @@
   "11587741": {
     "name": "BlagS_Channel",
     "type": "vtuber",
-    "room": 7809855,
+    "room": 0,
     "group_name": "V_G研究所"
   },
   "29104": {
@@ -42120,7 +42120,7 @@
     "group_name": ""
   },
   "620010594": {
-    "name": "诡猫猫_Neko-16号百天",
+    "name": "诡猫猫_Neko",
     "type": "vtuber",
     "room": 27794188,
     "group_name": ""
