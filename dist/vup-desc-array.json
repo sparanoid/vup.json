@@ -10777,7 +10777,7 @@
     "name": "伊丝特_凯伊",
     "type": "vtuber",
     "room": 1346011,
-    "face": "/bfs/face/ef6644c83088d35b77b5cf27758d22d196ba0175.jpg",
+    "face": "/bfs/face/eb42c41cd8648bfb49ed040e6fa689e66e72a75d.jpg",
     "sign": "光锥之内皆命运，光锥之外皆虚无",
     "group_name": ""
   },
@@ -15976,7 +15976,7 @@
   },
   {
     "uid": 234479207,
-    "name": "卡哇游9月15号一周年啦",
+    "name": "卡哇游yoyo",
     "type": "vtuber",
     "room": 25973392,
     "face": "/bfs/face/8e059216206a0a9a01d675fbd93d6a31634c203b.jpg",
@@ -19615,7 +19615,7 @@
     "name": "塞拉菲娜_Serafina",
     "type": "vtuber",
     "room": 23941099,
-    "face": "/bfs/face/74040b3981e3d7c90baddffbb5f65f67f0335c1f.jpg",
+    "face": "/bfs/face/3d4cb7f3a260d45085acffe0fb8e0e5ef424b2db.jpg",
     "sign": "「极光社所属」◇胡狼半神Vup◇四语歌势◇直播不规律的留学在读研究牲◇油管：Serafina Ch.",
     "group_name": "极光社"
   },
@@ -23108,7 +23108,7 @@
     "type": "vtuber",
     "room": 21752719,
     "face": "/bfs/face/8aa352675fe066f6c089b03b4bd030f9c930f3be.jpg",
-    "sign": "#快进到____#",
+    "sign": "",
     "group_name": "Hololive"
   },
   {
@@ -29655,6 +29655,15 @@
     "group_name": ""
   },
   {
+    "uid": 241649792,
+    "name": "思林9月17双满呦",
+    "type": "vtuber",
+    "room": 30333008,
+    "face": "/bfs/face/97d2940bf82ce3d072e2cc8270f288122312d325.jpg",
+    "sign": "顺势而为 顺其自然\n模型来源:咕隔壁",
+    "group_name": ""
+  },
+  {
     "uid": 1070733875,
     "name": "怠惰V_official",
     "type": "vtuber",
@@ -33395,7 +33404,7 @@
     "type": "vtuber",
     "room": 190577,
     "face": "/bfs/face/63585f1563aff2f22be97ddbd01105e31ff9ec8a.jpg",
-    "sign": "HOLOLIVE所属，虚拟偶像星街彗星！协力：星街彗星的观星人。商务合作与问题反馈请私信",
+    "sign": "HOLOLIVE所属，虚拟偶像星街彗星！",
     "group_name": "Hololive"
   },
   {
@@ -40225,7 +40234,7 @@
     "name": "樱叶卡农_Official",
     "type": "vtuber",
     "room": 25059985,
-    "face": "/bfs/face/4d3b5aa5bc24cff0d5fdb33f3918071c0ad30b08.jpg",
+    "face": "/bfs/face/854bf17237bc580c35a048e6561fcaa480de2326.jpg",
     "sign": "完美无瑕！魔女学生永远17岁的美少女。日和中文说的日V。目标和100万粉丝一起现场演唱会！",
     "group_name": ""
   },
@@ -43827,6 +43836,15 @@
     "room": 26995318,
     "face": "/bfs/face/3fe547013db6cd516db2283a00927cbb50ba2080.jpg",
     "sign": "我们都在梦里，做着醒来或睡去的梦。",
+    "group_name": ""
+  },
+  {
+    "uid": 497440479,
+    "name": "涅萨Nesa",
+    "type": "vtuber",
+    "room": 30463525,
+    "face": "/bfs/face/2425767dc9f31de48068e5a6c38a00d30a7425f4.jpg",
+    "sign": "EVL所属。地狱原住民扎卡里•涅萨。自由/歌/杂/声优/神秘学/游戏/睡眠爱好者。直播时间见每周一晚置顶周表～",
     "group_name": ""
   },
   {
@@ -48434,7 +48452,7 @@
     "type": "vtuber",
     "room": 23481576,
     "face": "/bfs/face/114f85eefd9b95951d1ec0ae71b528250618314c.jpg",
-    "sign": "是个唱歌的！阴暗地爬行",
+    "sign": "三次元繁忙，缓慢营业中",
     "group_name": ""
   },
   {
@@ -49073,7 +49091,7 @@
     "type": "vtuber",
     "room": 21107534,
     "face": "/bfs/face/62da20011aec4993e4c26341fdd46bd7cb5db12d.jpg",
-    "sign": "hololive二期生，来自魔界的虚拟保健医生癒月巧可。❖画师担当：桝石きのと様协力：时空字幕组",
+    "sign": "hololive二期生，来自魔界的虚拟保健医生癒月巧可。❖画师担当：桝石きのと様 ",
     "group_name": "Hololive"
   },
   {
@@ -50855,7 +50873,7 @@
     "type": "vtuber",
     "room": 30181709,
     "face": "/bfs/face/0b5e13414a995e3743e8844c806cb337836fd63c.jpg",
-    "sign": "娇气易破防小鸟，请注意轻拿轻放。主杂谈（偶尔掉落文史知识）唱歌缓慢修炼中，是个社畜，非全职，直播随机掉落",
+    "sign": "娇气易破防小鸟，请注意轻拿轻放。主杂谈（偶尔掉落文史知识）唱歌缓慢修炼中，是个社畜，非全职，直播晚9点掉落",
     "group_name": ""
   },
   {
@@ -54257,7 +54275,7 @@
     "type": "vtuber",
     "room": 21132965,
     "face": "/bfs/face/7a98da1550c333c3cd8e786ca48fa629b060dfd9.jpg",
-    "sign": "holoIive二期生，魔法使紫咲诗音！❖担当画师：Tam-U 协力： 名字天天在变official。问题反馈请私信留言。",
+    "sign": "holoIive二期生，魔法使紫咲诗音！❖担当画师：Tam-U ",
     "group_name": "Hololive"
   },
   {
@@ -54707,7 +54725,7 @@
     "type": "vtuber",
     "room": 30148707,
     "face": "/bfs/face/3483cae69cd00f6ba5069c169a7e1ff9149153ae.jpg",
-    "sign": "你只管努力，剩下的交给天意掉落时间⏰6-10",
+    "sign": "你只管努力，剩下的交给天意掉落时间⏰12-15   22-00",
     "group_name": ""
   },
   {
@@ -57249,6 +57267,15 @@
     "group_name": "Virtopia"
   },
   {
+    "uid": 3494374014978421,
+    "name": "艾维Avia",
+    "type": "vtuber",
+    "room": 30253809,
+    "face": "/bfs/face/9a62be55c335b229b4a8ff7706513350b0ad0dae.jpg",
+    "sign": "“受损的语言模块也能完整的说出我 爱 你”粉丝群：916377857 #八美肉注意",
+    "group_name": ""
+  },
+  {
     "uid": 3537120226445674,
     "name": "艾芙洛Afuro",
     "type": "vtuber",
@@ -59054,7 +59081,7 @@
     "type": "vtuber",
     "room": 22008967,
     "face": "/bfs/face/47dbf45729cc7d10b35c7883f12f84d8152ac277.jpg",
-    "sign": "广寒宫里的璃小兔～古风翻唱，直播时间 晚上7点-9 点30分，周日休息",
+    "sign": "广寒宫里的璃小兔～古风唱见~直播时间 中午12点-14点30分，周六晚播，周日休息~",
     "group_name": ""
   },
   {
@@ -67199,7 +67226,7 @@
     "type": "vtuber",
     "room": 6571442,
     "face": "/bfs/face/96d15642f2fd56478093271718b5fc382e4df22b.jpg",
-    "sign": "每周一7点视频更新，每周六晚7点直播～\n会画画的相声VUP，请多关照！群号：760758590",
+    "sign": "每周一7点半视频更新，每周六晚7点半直播～会画画的相声VUP，请多关照！群号：760758590",
     "group_name": ""
   },
   {
@@ -70978,7 +71005,7 @@
     "name": "鱼饼不好次",
     "type": "vtuber",
     "room": 25671839,
-    "face": "/bfs/face/6cc7793adf530b649ac6c02e8916d127084e5db3.jpg",
+    "face": "/bfs/face/66a59bd79be855d137d19429250f4fcef11d1960.jpg",
     "sign": "个人势vup||来自海底的居民，初上陆地，请多指教。群聊：109219526",
     "group_name": ""
   },
@@ -71411,7 +71438,7 @@
     "type": "vtuber",
     "room": 27919393,
     "face": "/bfs/face/2330b1f899b6f7b5f77034c4b5a3e8a4fc1d2e1f.jpg",
-    "sign": "花兮社Flowery所属 游戏和唱歌都是半吊子 晚上11-2出没  ",
+    "sign": "花兮社Flowery所属 全职播播 游戏和唱歌都是半吊子 晚上11-2出没  ",
     "group_name": ""
   },
   {
@@ -71911,7 +71938,7 @@
   },
   {
     "uid": 481011963,
-    "name": "鹿鹿-9月16日半周年版",
+    "name": "鹿鹿熬不动",
     "type": "vtuber",
     "room": 27359427,
     "face": "/bfs/face/adedb933288d952a88ed721fc45a10a73a69559a.jpg",
