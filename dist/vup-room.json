@@ -1651,13 +1651,6 @@
     "face": "/bfs/face/73305da3d244eb935414c96264e74ebe6f62a7bc.jpg",
     "group_name": ""
   },
-  "425478571": {
-    "name": "Kio呆糕-疯狂版",
-    "type": "vtuber",
-    "room_id": 26756841,
-    "face": "/bfs/face/694719b48af23c7fe742a9ad561319796c6ad1b8.jpg",
-    "group_name": ""
-  },
   "538601957": {
     "name": "KiraPikaChannel",
     "type": "vtuber",
@@ -11192,13 +11185,6 @@
     "face": "/bfs/face/165ac10b0add5597f0ab2d88238d54a84acc6124.jpg",
     "group_name": ""
   },
-  "3537110988491470": {
-    "name": "刮痧呱呱二酱冠名版",
-    "type": "vtuber",
-    "room_id": 30695118,
-    "face": "/bfs/face/4ee138b0f2e56d799b938b5ca7053df9a0322ade.jpg",
-    "group_name": ""
-  },
   "470410710": {
     "name": "刺猬SWCW",
     "type": "vtuber",
@@ -12087,13 +12073,6 @@
     "room_id": 26879035,
     "face": "/bfs/face/cd8e3327fd24c9e69f6aa51ab4ade6230d2fd9cf.jpg",
     "group_name": "TTUP"
-  },
-  "3537117512731393": {
-    "name": "半栀桃桃",
-    "type": "vtuber",
-    "room_id": 30571081,
-    "face": "/bfs/face/bb07eda94cdd8486da30ba8a11a5363fff111fb8.jpg",
-    "group_name": ""
   },
   "3493274941655491": {
     "name": "半眠kira",
@@ -14417,13 +14396,6 @@
     "type": "vtuber",
     "room_id": 24040860,
     "face": "/bfs/face/b0246646957cdb339197c8a41840e0267ab8261d.jpg",
-    "group_name": ""
-  },
-  "3537114452986389": {
-    "name": "啵啵爱撒娇",
-    "type": "vtuber",
-    "room_id": 30519307,
-    "face": "/bfs/face/7a2368fabc4116f9221dea4f85cb1c07d87fbe7d.jpg",
     "group_name": ""
   },
   "3461577015561176": {
@@ -23036,13 +23008,6 @@
     "face": "/bfs/face/236b43af5e54d15de8c95a470b62894049d21427.jpg",
     "group_name": ""
   },
-  "3537125744052659": {
-    "name": "忻娴fairy",
-    "type": "vtuber",
-    "room_id": 30743299,
-    "face": "/bfs/face/37384465c3f5cbe52be269e6123d7b11ce1edcf4.jpg",
-    "group_name": ""
-  },
   "3537121006586034": {
     "name": "怀夕Peri9月17日满月啦",
     "type": "vtuber",
@@ -29026,13 +28991,6 @@
     "type": "vtuber",
     "room_id": 22619955,
     "face": "/bfs/face/fd85df389221d727c52f5224a6450a608ee5687f.jpg",
-    "group_name": ""
-  },
-  "129927976": {
-    "name": "柒崽-挽秋冠名",
-    "type": "vtuber",
-    "room_id": 30249187,
-    "face": "/bfs/face/84042f2a264b13e896b9ef95fe81eae2b7d13a14.jpg",
     "group_name": ""
   },
   "2095825106": {
@@ -36147,13 +36105,6 @@
     "face": "/bfs/face/2f6d36bcdb9b702f68d3804615b38fbd74b8ecd2.jpg",
     "group_name": "Hololive"
   },
-  "358754910": {
-    "name": "狸不开花_小小鹅冠",
-    "type": "vtuber",
-    "room_id": 13380548,
-    "face": "/bfs/face/dc69a511ef703e2de0266d2df670329d62645c1b.jpg",
-    "group_name": ""
-  },
   "24461773": {
     "name": "王狸可",
     "type": "vtuber",
@@ -41556,13 +41507,6 @@
     "type": "vtuber",
     "room_id": 22339726,
     "face": "/bfs/face/745567402ffe12389bfc8c07bb5d9624a955b2c8.jpg",
-    "group_name": ""
-  },
-  "3537107402361230": {
-    "name": "筱小汐丶提督冠名",
-    "type": "vtuber",
-    "room_id": 30422429,
-    "face": "/bfs/face/7fb87f5410db8dd87656bf08bd325b447e63cd8a.jpg",
     "group_name": ""
   },
   "67921263": {
@@ -47879,13 +47823,6 @@
     "face": "/bfs/face/2ba746a4458e665f7e55ee791c3d172051442173.jpg",
     "group_name": "WACTOR"
   },
-  "3537123718203953": {
-    "name": "蕾娜Layla",
-    "type": "vtuber",
-    "room_id": 30786304,
-    "face": "/bfs/face/00fb15a0bb7d627c69bc1238e5f38d8cea0b9ec7.jpg",
-    "group_name": ""
-  },
   "473244363": {
     "name": "蕾尔娜Leona",
     "type": "vtuber",
@@ -48955,13 +48892,6 @@
     "type": "vtuber",
     "room_id": 17336,
     "face": "/bfs/face/1bd150fcbb29186270a31b877593826cf4799035.jpg",
-    "group_name": ""
-  },
-  "3493133962709046": {
-    "name": "言司_Aci",
-    "type": "vtuber",
-    "room_id": 27070709,
-    "face": "/bfs/face/4b46ca29e50ae5b206624ba22f42d66881c9dd96.jpg",
     "group_name": ""
   },
   "7468371": {
@@ -50847,13 +50777,6 @@
     "face": "/bfs/face/04de7f109b9569b7103402d3e32619156c39bb1a.jpg",
     "group_name": ""
   },
-  "3493293159614727": {
-    "name": "酸臭大饼干-3姐冠名",
-    "type": "vtuber",
-    "room_id": 27842075,
-    "face": "/bfs/face/b3c270fd48b8637ed7d692f78d155a9cf4591f2e.jpg",
-    "group_name": ""
-  },
   "64228120": {
     "name": "酸菜ダレ_channel",
     "type": "vtuber",
@@ -52175,13 +52098,6 @@
     "type": "vtuber",
     "room_id": 27756904,
     "face": "/bfs/face/8c4f6747d3873b8d24e7e9ffda4d4f148832eb41.jpg",
-    "group_name": ""
-  },
-  "3546379020405153": {
-    "name": "阿御麻麻",
-    "type": "vtuber",
-    "room_id": 30747969,
-    "face": "/bfs/face/1ed1429d3d1968702477d326250c95d45b77e7d2.jpg",
     "group_name": ""
   },
   "145613005": {
@@ -54668,13 +54584,6 @@
     "room_id": 22563900,
     "face": "/bfs/face/2b5c3282672253425413c4192f781629c77f3bc6.jpg",
     "group_name": "云光计划"
-  },
-  "3494350547847753": {
-    "name": "饭困困-",
-    "type": "vtuber",
-    "room_id": 27925786,
-    "face": "/bfs/face/87604b72c3ee789b86d0bd98981ba9c93d4e0303.jpg",
-    "group_name": ""
   },
   "3493294000572708": {
     "name": "没有长胖o",
