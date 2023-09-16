@@ -1,5 +1,13 @@
 [
   {
+    "uid": 701557713,
+    "name": "-------------_嗯",
+    "type": "vtuber",
+    "room": 26538333,
+    "face": "/bfs/face/75a473167d4c222bea36ae3059af8dc57c8e34e4.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 74381130,
     "name": "--晴朗蓝--",
     "type": "vtuber",
@@ -2285,14 +2293,6 @@
     "type": "group",
     "room": 0,
     "face": "/bfs/face/b4783dda5427d1c903f895eeadb9769a0a8a919f.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 3493134667353048,
-    "name": "小枫鼠Maple成精冠名版",
-    "type": "vtuber",
-    "room": 27090415,
-    "face": "/bfs/face/5203c9e9d04af583665dfde2518b68144163c188.jpg",
     "group_name": ""
   },
   {
@@ -9326,6 +9326,14 @@
     "room": 22700047,
     "face": "/bfs/face/19c8096784858699b5a3b1b3018fcc4ea6bd75e6.jpg",
     "group_name": "—MSD一"
+  },
+  {
+    "uid": 288254068,
+    "name": "人形小猫_猫逃",
+    "type": "vtuber",
+    "room": 30498542,
+    "face": "/bfs/face/a432d508ac747996e3d04b105769e9e98fe14643.jpg",
+    "group_name": ""
   },
   {
     "uid": 29002992,
@@ -18696,14 +18704,6 @@
     "group_name": ""
   },
   {
-    "uid": 672525743,
-    "name": "曦曦子ii",
-    "type": "vtuber",
-    "room": 30031133,
-    "face": "/bfs/face/2b55110bfc3cad9c10e3b4796c24a58c0f9f2ce8.jpg",
-    "group_name": ""
-  },
-  {
     "uid": 3493139461442040,
     "name": "大奈豆子Niki",
     "type": "vtuber",
@@ -19196,7 +19196,7 @@
     "name": "天然呆森酱",
     "type": "vtuber",
     "room": 27506151,
-    "face": "/bfs/face/222be6251f3373bbf61782a1bf73f8fe73cfea35.jpg",
+    "face": "/bfs/face/2c0c00369c2fd082c131dea68d9facfa4c9c2606.jpg",
     "group_name": ""
   },
   {
@@ -22464,6 +22464,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493134667353048,
+    "name": "小枫鼠Maple成精冠名版",
+    "type": "vtuber",
+    "room": 27090415,
+    "face": "/bfs/face/5203c9e9d04af583665dfde2518b68144163c188.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 43187957,
     "name": "小染染姑娘",
     "type": "vtuber",
@@ -22573,14 +22581,6 @@
     "type": "vtuber",
     "room": 1050301,
     "face": "/bfs/face/674fa1a3f4a0776e018c781301d9c10338940014.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 3494364980447561,
-    "name": "揉揉小汐",
-    "type": "vtuber",
-    "room": 30137453,
-    "face": "/bfs/face/70466ac201be4db39f83081183cd6bb5f71a1d5f.jpg",
     "group_name": ""
   },
   {
@@ -22701,14 +22701,6 @@
     "type": "vtuber",
     "room": 27015352,
     "face": "/bfs/face/6b2cf0bd51b4a2af01b01ba462d56a6ac4f3b425.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 288254068,
-    "name": "人形小猫_猫逃",
-    "type": "vtuber",
-    "room": 30498542,
-    "face": "/bfs/face/a432d508ac747996e3d04b105769e9e98fe14643.jpg",
     "group_name": ""
   },
   {
@@ -27600,6 +27592,14 @@
     "group_name": ""
   },
   {
+    "uid": 3494364980447561,
+    "name": "揉揉小汐",
+    "type": "vtuber",
+    "room": 30137453,
+    "face": "/bfs/face/70466ac201be4db39f83081183cd6bb5f71a1d5f.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 2061306,
     "name": "提亚Alchemy",
     "type": "vtuber",
@@ -30424,14 +30424,6 @@
     "group_name": ""
   },
   {
-    "uid": 701557713,
-    "name": "-------------_嗯",
-    "type": "vtuber",
-    "room": 26538333,
-    "face": "/bfs/face/75a473167d4c222bea36ae3059af8dc57c8e34e4.jpg",
-    "group_name": ""
-  },
-  {
     "uid": 23503039,
     "name": "是轻冰哒",
     "type": "vtuber",
@@ -30989,6 +30981,14 @@
     "type": "vtuber",
     "room": 25174502,
     "face": "/bfs/face/74612058530bd53763b6ce0daac324fae3bec9a3.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 672525743,
+    "name": "曦曦子ii",
+    "type": "vtuber",
+    "room": 30031133,
+    "face": "/bfs/face/2b55110bfc3cad9c10e3b4796c24a58c0f9f2ce8.jpg",
     "group_name": ""
   },
   {
@@ -33976,14 +33976,6 @@
     "group_name": "VirtuaReal"
   },
   {
-    "uid": 1723346846,
-    "name": "椰思-发财版",
-    "type": "vtuber",
-    "room": 27796521,
-    "face": "/bfs/face/e291c77374cbd66f0538f95670c04de805609614.jpg",
-    "group_name": ""
-  },
-  {
     "uid": 3494354616322048,
     "name": "冰甜雪狸suli15号百天啦",
     "type": "vtuber",
@@ -35461,6 +35453,14 @@
     "type": "vtuber",
     "room": 27905552,
     "face": "/bfs/face/33d9fcf151949a5a9c7a0bd9eeb4d5bdaac83163.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1723346846,
+    "name": "椰思-发财版",
+    "type": "vtuber",
+    "room": 27796521,
+    "face": "/bfs/face/e291c77374cbd66f0538f95670c04de805609614.jpg",
     "group_name": ""
   },
   {
@@ -40129,7 +40129,7 @@
   },
   {
     "uid": 3493132844927799,
-    "name": "炸了腌葱-",
+    "name": "炸了腌葱",
     "type": "vtuber",
     "room": 27796586,
     "face": "/bfs/face/b868c81a2d1a2efb968db705ff5158cc167b2ba8.jpg",
