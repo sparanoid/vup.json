@@ -3598,10 +3598,10 @@
     "group_name": "狄灵计划"
   },
   "514674253": {
-    "name": "うごUGO_换号版",
+    "name": "3ouiiou",
     "type": "vtuber",
     "room": 27268326,
-    "face": "/bfs/face/2642a02098c0743ee221e778dde1b20b830de03e.jpg",
+    "face": "/bfs/face/cc1dc9b3f01fb6ebace8debb9c781db9fcb568d6.jpg",
     "group_name": ""
   },
   "451377668": {
@@ -22378,6 +22378,13 @@
     "face": "/bfs/face/9f21e876e17bf57ac215ed21b02a9fd776e3fe4e.jpg",
     "group_name": ""
   },
+  "3546375232949134": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "578870459": {
     "name": "弥瞳娘official",
     "type": "unknown",
@@ -24727,7 +24734,7 @@
     "name": "早川钥不是早餐钥",
     "type": "vtuber",
     "room": 30093418,
-    "face": "/bfs/face/b7e7d1271fcaec2ab6715b881901f5489455ea40.jpg",
+    "face": "/bfs/face/73776e5b3e6759ef33e265faf73d2785e9007fd1.jpg",
     "group_name": ""
   },
   "13838369": {
