@@ -17681,10 +17681,10 @@
   },
   {
     "uid": 38286918,
-    "name": "夏可ShArk",
+    "name": "小夏想吃双层吉士",
     "type": "vtuber",
     "room": 11110150,
-    "face": "/bfs/face/ff9a472bd524b3ed2bf01d7b70abb38a913a5a5f.jpg",
+    "face": "/bfs/face/fa4c0b58bf0648e85c34b2d638ad6b04c3c24171.jpg",
     "group_name": ""
   },
   {
@@ -53369,10 +53369,10 @@
   },
   {
     "uid": 88193963,
-    "name": "莓有你我怎么活",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 26492236,
-    "face": "/bfs/face/b999d5c8951b4ab5275e2c23acf0a75e0de5a293.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
