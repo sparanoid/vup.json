@@ -11436,7 +11436,7 @@
     "name": "兔问Twin",
     "type": "vtuber",
     "room": 30503170,
-    "face": "/bfs/face/7e7f6a844609205bca5950d97b58f12475cd692c.jpg",
+    "face": "/bfs/face/2392e8ac407d1a2b031b23c939e9869bdcdcd4a9.jpg",
     "group_name": ""
   },
   {
@@ -17721,7 +17721,7 @@
   },
   {
     "uid": 1787270572,
-    "name": "夏夏今天生日咯",
+    "name": "夏夏每天睡不饱",
     "type": "vtuber",
     "room": 27197772,
     "face": "/bfs/face/2dd2afead8b8f15198edda0cd75e87bae1a3b569.jpg",
@@ -23905,7 +23905,7 @@
   },
   {
     "uid": 3494359271999934,
-    "name": "不会自己捡垃圾",
+    "name": "Lemon-Cen",
     "type": "vtuber",
     "room": 30034064,
     "face": "/bfs/face/cf6ee6431661d3dccbf515ac3e896378c31dadaa.jpg",
@@ -29068,7 +29068,7 @@
     "name": "星川铃Rin",
     "type": "vtuber",
     "room": 21816863,
-    "face": "/bfs/face/ff4169721857d43cf9cf72f0bd72df964a4443b2.jpg",
+    "face": "/bfs/face/56c6a8d1b6e0e96df22a060b50ceaef2edf8a994.jpg",
     "group_name": "chaoslive"
   },
   {
@@ -29924,7 +29924,7 @@
     "name": "星野桜Sakura",
     "type": "vtuber",
     "room": 30508753,
-    "face": "/bfs/face/dfa65dc18cc8da690eb620297e759a57a50d60f1.jpg",
+    "face": "/bfs/face/a0d4b22df22d6e2e9596684082f53e04d4a4f64d.jpg",
     "group_name": ""
   },
   {
@@ -32812,7 +32812,7 @@
     "name": "林一柔_",
     "type": "vtuber",
     "room": 27479057,
-    "face": "/bfs/face/52a85e2e1accdf364339aed569b5c31802991571.jpg",
+    "face": "/bfs/face/f5e0eb7c58993ae54d39d8a99eb0759e02512ec8.jpg",
     "group_name": ""
   },
   {
@@ -36220,7 +36220,7 @@
     "name": "橙花hana",
     "type": "vtuber",
     "room": 27788055,
-    "face": "/bfs/face/d031f7bc08e4c53f2b52d41757fa0c8f2b52175f.jpg",
+    "face": "/bfs/face/d2041dd8d896c86ce9f336025a2539aa77ee3aed.jpg",
     "group_name": ""
   },
   {
@@ -46796,7 +46796,7 @@
     "name": "秋迟_Qiuchi",
     "type": "vtuber",
     "room": 110001,
-    "face": "/bfs/face/7c309f654090e22239330856bfcf70c274ba3bd2.jpg",
+    "face": "/bfs/face/b4495e50c74b0796cd0336f637154271f9b403d1.jpg",
     "group_name": ""
   },
   {
@@ -49253,6 +49253,14 @@
     "type": "vtuber",
     "room": 4994465,
     "face": "/bfs/face/f2a181f4a1de0f105af2b83ba569e2cd528c325b.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493075315853836,
+    "name": "绮奈娅naya18号双满啦",
+    "type": "vtuber",
+    "room": 30075959,
+    "face": "/bfs/face/45cc520adbe610d369d4f9ee90f5e91b60bbadb0.jpg",
     "group_name": ""
   },
   {
@@ -52108,7 +52116,7 @@
     "name": "花音璃",
     "type": "vtuber",
     "room": 26196781,
-    "face": "/bfs/face/d16a392b5ca562f38514a3a8d5c0bc7505302bc1.webp",
+    "face": "/bfs/face/5b84d380279a69068810d8675f8dd39e4ab378fa.jpg",
     "group_name": "YOLO"
   },
   {

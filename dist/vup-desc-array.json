@@ -12865,8 +12865,8 @@
     "name": "兔问Twin",
     "type": "vtuber",
     "room": 30503170,
-    "face": "/bfs/face/7e7f6a844609205bca5950d97b58f12475cd692c.jpg",
-    "sign": "是个歌V 13:00一17:00  翻唱指路投稿 ^_^  概率掉落云顶之弈和深渊大乱斗下饭日常  模型作者：白崎银子V",
+    "face": "/bfs/face/2392e8ac407d1a2b031b23c939e9869bdcdcd4a9.jpg",
+    "sign": "是个歌V 13:00一17:00  翻唱指路投稿 ^_^  概率掉落云顶之弈和深渊大乱斗下饭日常  ",
     "group_name": ""
   },
   {
@@ -19936,7 +19936,7 @@
   },
   {
     "uid": 1787270572,
-    "name": "夏夏今天生日咯",
+    "name": "夏夏每天睡不饱",
     "type": "vtuber",
     "room": 27197772,
     "face": "/bfs/face/2dd2afead8b8f15198edda0cd75e87bae1a3b569.jpg",
@@ -26893,7 +26893,7 @@
   },
   {
     "uid": 3494359271999934,
-    "name": "不会自己捡垃圾",
+    "name": "Lemon-Cen",
     "type": "vtuber",
     "room": 30034064,
     "face": "/bfs/face/cf6ee6431661d3dccbf515ac3e896378c31dadaa.jpg",
@@ -32701,7 +32701,7 @@
     "name": "星川铃Rin",
     "type": "vtuber",
     "room": 21816863,
-    "face": "/bfs/face/ff4169721857d43cf9cf72f0bd72df964a4443b2.jpg",
+    "face": "/bfs/face/56c6a8d1b6e0e96df22a060b50ceaef2edf8a994.jpg",
     "sign": "<ChaosLive>多声线VUP！ʚ画师麻麻：KT。ɞ每晚19:00直播 合作请私信",
     "group_name": "chaoslive"
   },
@@ -33664,7 +33664,7 @@
     "name": "星野桜Sakura",
     "type": "vtuber",
     "room": 30508753,
-    "face": "/bfs/face/dfa65dc18cc8da690eb620297e759a57a50d60f1.jpg",
+    "face": "/bfs/face/a0d4b22df22d6e2e9596684082f53e04d4a4f64d.jpg",
     "sign": "直播时间下午两点到五点  晚上八点到十一点  十一点之后随缘播游戏 不要跑空哦～   粉丝群652597629",
     "group_name": ""
   },
@@ -35384,7 +35384,7 @@
     "type": "vtuber",
     "room": 26993768,
     "face": "/bfs/face/d4bb1c6a0cb621df1649df2f832b299ae69072d2.jpg",
-    "sign": "纯真系狐狸，每天吃不饱，但不吃饼。笨蛋一根筋，假话会难过，不爱别承诺伤害，保护珍惜狐，领养从你我做起。粉丝群285183536（有灯牌进）",
+    "sign": "没有毕业，只是去了一个只有心里还有狐狸的人才看得见的地方。",
     "group_name": ""
   },
   {
@@ -36913,7 +36913,7 @@
     "name": "林一柔_",
     "type": "vtuber",
     "room": 27479057,
-    "face": "/bfs/face/52a85e2e1accdf364339aed569b5c31802991571.jpg",
+    "face": "/bfs/face/f5e0eb7c58993ae54d39d8a99eb0759e02512ec8.jpg",
     "sign": "钢琴主包，全职，可放心DD",
     "group_name": ""
   },
@@ -40747,7 +40747,7 @@
     "name": "橙花hana",
     "type": "vtuber",
     "room": 27788055,
-    "face": "/bfs/face/d031f7bc08e4c53f2b52d41757fa0c8f2b52175f.jpg",
+    "face": "/bfs/face/d2041dd8d896c86ce9f336025a2539aa77ee3aed.jpg",
     "sign": "来自外星的绝情杀手兼见习魅-魔，直播通知群：924210937。“有野心的人才不会被忘记”",
     "group_name": ""
   },
@@ -41972,7 +41972,7 @@
     "type": "vtuber",
     "room": 22503378,
     "face": "/bfs/face/12b3f3cf04c3231f1cfd7c982133280efead992e.jpg",
-    "sign": "盲生华点的红茶事务所：https://space.bilibili.com/4962721",
+    "sign": "",
     "group_name": "Hololive EN"
   },
   {
@@ -52645,7 +52645,7 @@
     "name": "秋迟_Qiuchi",
     "type": "vtuber",
     "room": 110001,
-    "face": "/bfs/face/7c309f654090e22239330856bfcf70c274ba3bd2.jpg",
+    "face": "/bfs/face/b4495e50c74b0796cd0336f637154271f9b403d1.jpg",
     "sign": "狐仙列车，110001次，静候您的光临。",
     "group_name": ""
   },
@@ -55410,6 +55410,15 @@
     "room": 4994465,
     "face": "/bfs/face/f2a181f4a1de0f105af2b83ba569e2cd528c325b.jpg",
     "sign": "画师/cv/唱见/美工/模型师  代表作：《Magic Animal Idol Project》星谷星希/九重北凉",
+    "group_name": ""
+  },
+  {
+    "uid": 3493075315853836,
+    "name": "绮奈娅naya18号双满啦",
+    "type": "vtuber",
+    "room": 30075959,
+    "face": "/bfs/face/45cc520adbe610d369d4f9ee90f5e91b60bbadb0.jpg",
+    "sign": "歌杂系新v娅（哑）势  出没时间：20：30至02:30之间 不定时播 q群：835707870 皮套来源：@龙西Rinya",
     "group_name": ""
   },
   {
@@ -58621,7 +58630,7 @@
     "name": "花音璃",
     "type": "vtuber",
     "room": 26196781,
-    "face": "/bfs/face/d16a392b5ca562f38514a3a8d5c0bc7505302bc1.webp",
+    "face": "/bfs/face/5b84d380279a69068810d8675f8dd39e4ab378fa.jpg",
     "sign": "喜欢音乐的温柔少女 | 个人势偶像努力中~欢迎加群：537801512",
     "group_name": "YOLO"
   },
@@ -62771,7 +62780,7 @@
     "type": "vtuber",
     "room": 25638424,
     "face": "/bfs/face/6026cfed6fc1fd6ffea896373ca8df9b78b51b6e.jpg",
-    "sign": "自2023.9.1起开启?长达180天休眠期，期待与你再次相遇。（公会勿扰，谢谢）",
+    "sign": "无限期停播。（公会勿扰，谢谢）",
     "group_name": ""
   },
   {
@@ -71798,7 +71807,7 @@
     "type": "vtuber",
     "room": 27566442,
     "face": "/bfs/face/2dbb9675497bf277db0a3a246a146d8f1de15dbe.jpg",
-    "sign": "You have light in your eyes直播时间:晚9-12\n 粉丝群：659834355",
+    "sign": "简单平凡而自由 直播时间:晚9-12\n粉丝群：659834355",
     "group_name": ""
   },
   {
