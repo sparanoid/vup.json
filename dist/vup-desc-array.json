@@ -7767,6 +7767,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493287405030232,
+    "name": "一块小年糕Saki",
+    "type": "vtuber",
+    "room": 27740549,
+    "face": "/bfs/face/ab6bc40775e051c44693690f2b004b6f65d34021.jpg",
+    "sign": "糕盛集团荣誉董事长，最大愿望有米买罐罐~直播通知群：599871732",
+    "group_name": ""
+  },
+  {
     "uid": 471723540,
     "name": "一块电鹿板",
     "type": "vtuber",
@@ -30528,6 +30537,15 @@
     "group_name": ""
   },
   {
+    "uid": 23158337,
+    "name": "我是昔昔",
+    "type": "vtuber",
+    "room": 7618745,
+    "face": "/bfs/face/bff7df4e55cfecf626811d8e69f6289d68274ce5.jpg",
+    "sign": "温柔大姐姐 怀旧唱见",
+    "group_name": ""
+  },
+  {
     "uid": 1710581961,
     "name": "我是毛77",
     "type": "vtuber",
@@ -39436,6 +39454,15 @@
     "face": "/bfs/face/0347e4375c8f7f3897c2cf16bbca05b5cbd22cf1.jpg",
     "sign": "Epoch link所属，以游戏杂谈势活动的可爱猫猫梨子喵！性格声音大概是邻家妹妹型，但其实内心是细腻的大姐姐。粉丝群：904319567",
     "group_name": "Palette"
+  },
+  {
+    "uid": 1953879158,
+    "name": "梨子_子",
+    "type": "vtuber",
+    "room": 30471966,
+    "face": "/bfs/face/b7ddc570a0b6cf550b02c41f2a58af53fb953eca.jpg",
+    "sign": "发疯系龙女～谢谢你的关注～模型出自@代号M",
+    "group_name": ""
   },
   {
     "uid": 1900141897,
@@ -53089,6 +53116,15 @@
     "face": "/bfs/face/e7fb4ff1f721c4b2a831eab931268dc43155836f.jpg",
     "sign": "嘎卟嘎卟~！我是NIJISANJI的童田明治！喜欢动画、唱歌和玩游戏！好想和大家一起玩得开心呀~！ヾ('ω')ﾉ",
     "group_name": "NIJISANJI"
+  },
+  {
+    "uid": 32886516,
+    "name": "竭策凛",
+    "type": "vtuber",
+    "room": 1312450,
+    "face": "/bfs/face/a54690b3e71e53564cedb6496069c97014245a7b.jpg",
+    "sign": "〈问尘仙会〉所属 杂谈向 发疯 游戏 早六点开播 群100205427",
+    "group_name": ""
   },
   {
     "uid": 2069515097,
@@ -70215,6 +70251,15 @@
     "room": 24131778,
     "face": "/bfs/face/29f0844a94c8925f6d4e5f9a2b797edf855bb27d.jpg",
     "sign": "Lovely scary Paky~食人花饲料寻觅中！你也想被食人花咬一口吗？(º﹃º )",
+    "group_name": ""
+  },
+  {
+    "uid": 1637717071,
+    "name": "食月Tsuki",
+    "type": "vtuber",
+    "room": 30397913,
+    "face": "/bfs/face/22a5a87db0a576883137c9d822be6880b1e19fe1.jpg",
+    "sign": "抬头观星，低头观心。粉丝群：924572484",
     "group_name": ""
   },
   {
