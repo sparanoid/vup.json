@@ -5875,7 +5875,7 @@
   "627432065": {
     "name": "一口吃掉粥粥",
     "type": "vtuber",
-    "room": 24199791,
+    "room": 0,
     "face": "/bfs/face/4cf6a8b256bdea37227b6835519f3bf7ca6de66b.jpg",
     "group_name": ""
   },
@@ -7479,7 +7479,7 @@
     "name": "九卿-Eileen",
     "type": "vtuber",
     "room": 27777087,
-    "face": "/bfs/face/7fd26ade18ab32884f1301eac88c5a07ff58cbde.jpg",
+    "face": "/bfs/face/086380038d0bcd69ec78815a1498a6ae2afe7e2a.jpg",
     "group_name": ""
   },
   "11416708": {
@@ -15291,7 +15291,7 @@
     "name": "塞拉菲娜_Serafina",
     "type": "vtuber",
     "room": 23941099,
-    "face": "/bfs/face/3d4cb7f3a260d45085acffe0fb8e0e5ef424b2db.jpg",
+    "face": "/bfs/face/0e3b8c78bec11570bdddef6bbd437a6e54b94288.jpg",
     "group_name": "极光社"
   },
   "3494367287314494": {
@@ -16222,7 +16222,7 @@
     "name": "夜色Meow",
     "type": "vtuber",
     "room": 27827468,
-    "face": "/bfs/face/db40d55de20d9bd126a654f2592fd70fa1500e64.jpg",
+    "face": "/bfs/face/d7cd3bf9627251aa7e4d088ada4e9d811ff4830b.jpg",
     "group_name": ""
   },
   "1975072701": {
@@ -25020,7 +25020,7 @@
   "51260551": {
     "name": "明明真-养生版",
     "type": "vtuber",
-    "room": 26581663,
+    "room": 0,
     "face": "/bfs/face/29e65e1b61222fbb64bc36cc78a305a7e3323c95.jpg",
     "group_name": ""
   },
@@ -27037,7 +27037,7 @@
     "name": "暖暖的冰_",
     "type": "vtuber",
     "room": 30169448,
-    "face": "/bfs/face/bdf4b65b49fe0d2683e88a14cc5e1b8da56d518d.jpg",
+    "face": "/bfs/face/4d1a07bf7fdd2c9b65380994c6b4d7f0441839ae.jpg",
     "group_name": ""
   },
   "411547760": {
@@ -48097,7 +48097,7 @@
     "group_name": ""
   },
   "54731382": {
-    "name": "藤原兔海゜",
+    "name": "桂花酒酿奶兔゜",
     "type": "vtuber",
     "room": 1857384,
     "face": "/bfs/face/98b5e88c45f4cf0e7487c9983fe7b073c94c246b.jpg",
