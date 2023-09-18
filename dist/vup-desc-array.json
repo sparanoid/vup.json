@@ -18842,7 +18842,7 @@
     "type": "vtuber",
     "room": 3012597,
     "face": "/bfs/face/1a396c7d216fce280fc7dc4864c928d404dea108.jpg",
-    "sign": "梦想是成为大艺术家的小猫咪！妈妈是自己。约稿见工房有空会开~",
+    "sign": "梦想是成为大艺术家的小猫咪！妈妈是自己。百日绘挑战中！",
     "group_name": "Providence"
   },
   {
@@ -23890,7 +23890,7 @@
     "name": "安奇Ankie",
     "type": "vtuber",
     "room": 30770091,
-    "face": "/bfs/face/fb4e561486da4b9bdcd2cc83284ac79320870480.jpg",
+    "face": "/bfs/face/b5fc1d1861e31c4d13e1ef980edddafe1e73850e.jpg",
     "sign": "晚上好！这里是清楚怪笑系维吾尔族主包安奇！欢迎！",
     "group_name": ""
   },
@@ -64954,11 +64954,11 @@
   },
   {
     "uid": 1472998970,
-    "name": "迦蒂Skadi",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 27886966,
-    "face": "/bfs/face/2cc758483fc23f229560eb1fde7037b52a71203c.jpg",
-    "sign": "【试播中】异世界游历中的魔女，有一只小黑猫Melody！水群可+838460489",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {

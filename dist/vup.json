@@ -18581,7 +18581,7 @@
     "name": "安奇Ankie",
     "type": "vtuber",
     "room": 30770091,
-    "face": "/bfs/face/fb4e561486da4b9bdcd2cc83284ac79320870480.jpg",
+    "face": "/bfs/face/b5fc1d1861e31c4d13e1ef980edddafe1e73850e.jpg",
     "group_name": ""
   },
   "12918458": {
@@ -50519,10 +50519,10 @@
     "group_name": ""
   },
   "1472998970": {
-    "name": "迦蒂Skadi",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 27886966,
-    "face": "/bfs/face/2cc758483fc23f229560eb1fde7037b52a71203c.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1536225244": {
