@@ -9960,6 +9960,13 @@
     "face": "/bfs/face/264a6a05a707066f4b5013e0a4a052122172d33f.jpg",
     "group_name": ""
   },
+  "507379381": {
+    "name": "兔糖咪-本兔",
+    "type": "vtuber",
+    "room_id": 27021432,
+    "face": "/bfs/face/94a46a0877b7ab127c5d93b398c0de21c23c8c67.jpg",
+    "group_name": ""
+  },
   "23657606": {
     "name": "兔美三天吃一顿",
     "type": "vtuber",
@@ -10840,6 +10847,13 @@
     "type": "vtuber",
     "room_id": 27442662,
     "face": "/bfs/face/8363dc346170ebb1b174bcdc7edbb31f7de4d1cf.jpg",
+    "group_name": ""
+  },
+  "3537106083253012": {
+    "name": "凛樱_Lianne",
+    "type": "vtuber",
+    "room_id": 30441355,
+    "face": "/bfs/face/6f45c6fa67ee7b1f59dc51cf595c2938be8ee853.jpg",
     "group_name": ""
   },
   "1335054334": {
@@ -20164,6 +20178,13 @@
     "type": "vtuber",
     "room_id": 27043887,
     "face": "/bfs/face/2fc290376682991d79dadb1c5954a727da4ec875.jpg",
+    "group_name": ""
+  },
+  "3494380291754556": {
+    "name": "小迷糊_Collectlove",
+    "type": "vtuber",
+    "room_id": 30748018,
+    "face": "/bfs/face/e9ffe62cc1b457de45471c90333b52eeb3dc60be.jpg",
     "group_name": ""
   },
   "3493084235041307": {
@@ -30874,6 +30895,13 @@
     "type": "vtuber",
     "room_id": 10889765,
     "face": "/bfs/face/32e338cf46e54cf58ac309a7398e3ad2ec01f2c0.jpg",
+    "group_name": ""
+  },
+  "3546378584197428": {
+    "name": "森岛momo",
+    "type": "vtuber",
+    "room_id": 30769581,
+    "face": "/bfs/face/d23fb7c55e1fa6ccc01107eb8d2ada206f897a85.jpg",
     "group_name": ""
   },
   "1181247064": {
@@ -42146,6 +42174,13 @@
     "face": "/bfs/face/e4c55d8112dd6fcd7f9c431c4e08f6796932552e.jpg",
     "group_name": ""
   },
+  "3493275128302169": {
+    "name": "糯糯小呆呆-违规冠",
+    "type": "vtuber",
+    "room_id": 30562760,
+    "face": "/bfs/face/581b26ceba2ef204b89ae327979dd50fb86c97c1.jpg",
+    "group_name": ""
+  },
   "1847389227": {
     "name": "要井言慎行",
     "type": "vtuber",
@@ -48082,6 +48117,13 @@
     "face": "/bfs/face/944fbf31ffca58b0ad0ec81a6521fe685a9aa966.jpg",
     "group_name": ""
   },
+  "3494374721718526": {
+    "name": "藤礼_",
+    "type": "vtuber",
+    "room_id": 30542334,
+    "face": "/bfs/face/f052e9b97fca4068b89f28cc205549ae5c7e20b7.jpg",
+    "group_name": ""
+  },
   "21505": {
     "name": "蘭葵Ranao",
     "type": "vtuber",
@@ -51699,6 +51741,13 @@
     "type": "vtuber",
     "room_id": 23069606,
     "face": "/bfs/face/8edffbfcc8f796f8d8bfd8e98586a4369a93251e.jpg",
+    "group_name": ""
+  },
+  "1545158704": {
+    "name": "长泱_",
+    "type": "vtuber",
+    "room_id": 30515237,
+    "face": "/bfs/face/541a3816d86b26f908a21ba7be64bf97165b9234.jpg",
     "group_name": ""
   },
   "3493273970673718": {
