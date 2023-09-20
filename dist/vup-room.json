@@ -14489,6 +14489,13 @@
     "face": "/bfs/face/a2ae94c14c3f2e38d7ca5cdd1b2b1c533a825dcb.jpg",
     "group_name": ""
   },
+  "3493273278614470": {
+    "name": "啾米chuchu",
+    "type": "vtuber",
+    "room_id": 30539737,
+    "face": "/bfs/face/aa5a519595d2b83bb29198cfb08631e2681caa42.jpg",
+    "group_name": ""
+  },
   "1109759825": {
     "name": "啾铃Jolin",
     "type": "vtuber",
@@ -19023,6 +19030,13 @@
     "type": "vtuber",
     "room_id": 24464949,
     "face": "/bfs/face/2a2976302098cf3c3c5f9df2101430e2f6f6c9ea.jpg",
+    "group_name": ""
+  },
+  "3537122942257617": {
+    "name": "宿宿Yado",
+    "type": "vtuber",
+    "room_id": 30767776,
+    "face": "/bfs/face/503d1df7c0b67d4686fda15f313f36e6bfdf37ec.jpg",
     "group_name": ""
   },
   "1360561961": {
@@ -25714,7 +25728,7 @@
     "name": "星海聆音",
     "type": "vtuber",
     "room_id": 24008276,
-    "face": "/bfs/face/96497e029bf6a02529055cea01f27c6fce78d803.jpg",
+    "face": "/bfs/face/726af18046404b3acb23f84bbd79c9fa5022f538.jpg",
     "group_name": ""
   },
   "3494349614614534": {
@@ -47305,6 +47319,13 @@
     "face": "/bfs/face/0f72cf6ad299ddd23d1f7dc70d954d4ce90090fd.jpg",
     "group_name": ""
   },
+  "3546379840392082": {
+    "name": "萝丝_niko",
+    "type": "vtuber",
+    "room_id": 30770923,
+    "face": "/bfs/face/dd9687c9eb62e5859805e73e6532312b584d866b.jpg",
+    "group_name": ""
+  },
   "12588077": {
     "name": "萝九铃-萝半鸽",
     "type": "vtuber",
@@ -52602,6 +52623,13 @@
     "type": "vtuber",
     "room_id": 21368856,
     "face": "/bfs/face/0181aab3b4e42a743a76c8e409b760b5403dde11.webp",
+    "group_name": ""
+  },
+  "22828947": {
+    "name": "陆修修_Lucius",
+    "type": "vtuber",
+    "room_id": 5380768,
+    "face": "/bfs/face/62923408893d5f48c14692105d505b85916ba51d.jpg",
     "group_name": ""
   },
   "1728950": {
