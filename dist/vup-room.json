@@ -8809,7 +8809,7 @@
     "name": "伊莱莎_Elisa",
     "type": "vtuber",
     "room_id": 5843505,
-    "face": "/bfs/face/e605598ce4450ec03c0eec1149a2acc8ac784199.jpg",
+    "face": "/bfs/face/2c68483399a849a85df3a2118be9a2a38eb7f8df.jpg",
     "group_name": ""
   },
   "414116896": {
@@ -19862,7 +19862,7 @@
     "name": "小熊藏藏茶",
     "type": "vtuber",
     "room_id": 25007792,
-    "face": "/bfs/face/a6ebd9cb8ca2c4a3c7a88314626c48c1cba053e9.jpg",
+    "face": "/bfs/face/c1b08f392914272483c016f3232dd3c9f5763290.jpg",
     "group_name": ""
   },
   "3493267438045442": {
@@ -22687,7 +22687,7 @@
     "group_name": ""
   },
   "3537115891632675": {
-    "name": "美酋19号满月版",
+    "name": "御坂美酋_",
     "type": "vtuber",
     "room_id": 30552941,
     "face": "/bfs/face/c53a8d50ae1e62df5283f1cec30bf1737a050d22.jpg",
@@ -38377,7 +38377,7 @@
     "name": "白友shiratomo",
     "type": "vtuber",
     "room_id": 5260294,
-    "face": "/bfs/face/7502592a37d4ca89420b3acf254a7eccb911c9b1.jpg",
+    "face": "/bfs/face/527195c6783447bcecc92e643f0570265299f7da.jpg",
     "group_name": ""
   },
   "417273418": {
@@ -48094,6 +48094,13 @@
     "type": "vtuber",
     "room_id": 485501,
     "face": "/bfs/face/ee1b8bb249c2876f04c99c7f0f91a50d5e5801d6.jpg",
+    "group_name": ""
+  },
+  "3537106441865806": {
+    "name": "藤兔Fullmoon",
+    "type": "vtuber",
+    "room_id": 30579696,
+    "face": "/bfs/face/23eb26e688ed63ec0ab81cbad93b095725b56f84.jpg",
     "group_name": ""
   },
   "54731382": {

@@ -22688,7 +22688,7 @@
   },
   {
     "uid": 3537115891632675,
-    "name": "美酋19号满月版",
+    "name": "御坂美酋_",
     "type": "vtuber",
     "room": 30552941,
     "group_name": ""
@@ -48094,6 +48094,13 @@
     "name": "藤__夏樹",
     "type": "vtuber",
     "room": 485501,
+    "group_name": ""
+  },
+  {
+    "uid": 3537106441865806,
+    "name": "藤兔Fullmoon",
+    "type": "vtuber",
+    "room": 30579696,
     "group_name": ""
   },
   {
