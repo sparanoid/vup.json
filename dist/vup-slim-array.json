@@ -1240,7 +1240,7 @@
   },
   {
     "uid": 1281805827,
-    "name": "Fulgur-Official",
+    "name": "Fulgur_Official",
     "type": "vtuber",
     "room": 25734481,
     "group_name": "NIJISANJI EN"
@@ -48863,7 +48863,7 @@
     "uid": 21605809,
     "name": "酥酥巴士",
     "type": "vtuber",
-    "room": 1021591,
+    "room": 0,
     "group_name": "曦和project"
   },
   {

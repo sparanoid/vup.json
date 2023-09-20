@@ -1239,7 +1239,7 @@
     "group_name": ""
   },
   "1281805827": {
-    "name": "Fulgur-Official",
+    "name": "Fulgur_Official",
     "type": "vtuber",
     "room": 25734481,
     "face": "/bfs/face/b7696d5734d4405a4e1832aeba60c246b439a8ef.jpg",
@@ -13338,7 +13338,7 @@
     "name": "吃货白羊Official",
     "type": "vtuber",
     "room": 797089,
-    "face": "/bfs/face/72db375b6be2e5ff70b96bcb0c3f888ffa61635f.jpg",
+    "face": "/bfs/face/1084391763f5e1a36172681cbcb11e23248a4238.jpg",
     "group_name": ""
   },
   "32926827": {
@@ -48862,7 +48862,7 @@
   "21605809": {
     "name": "酥酥巴士",
     "type": "vtuber",
-    "room": 1021591,
+    "room": 0,
     "face": "/bfs/face/e4d3f4216bcfc32988a6b75fc1ad1aae8cd5eda1.jpg",
     "group_name": "曦和project"
   },
