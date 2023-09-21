@@ -4528,6 +4528,13 @@
     "face": "/bfs/face/2600657eecab666a6fa8c6910cea13d6c9ccc33e.jpg",
     "group_name": ""
   },
+  "38850658": {
+    "name": "kirakira大团子",
+    "type": "vtuber",
+    "room_id": 24516257,
+    "face": "/bfs/face/a7d2e6349ecccd0fae5a22426f72b656390bbe65.jpg",
+    "group_name": ""
+  },
   "5494366": {
     "name": "绝世猛1驹KMK",
     "type": "vtuber",
@@ -23810,7 +23817,7 @@
     "name": "我的兔兔不能那么可爱",
     "type": "vtuber",
     "room_id": 30677099,
-    "face": "/bfs/face/be529fa822da42a05bcc0307ca0457e91c793967.jpg",
+    "face": "/bfs/face/2bca2054249d89e0e56b8d8a7c0a4e8b7faddd41.jpg",
     "group_name": ""
   },
   "1375807125": {
@@ -43287,6 +43294,13 @@
     "face": "/bfs/face/76a14601ca2dbb970152643b119afaf6b60f5c90.jpg",
     "group_name": "狄灵计划"
   },
+  "3493275895860032": {
+    "name": "绯间樱斩",
+    "type": "vtuber",
+    "room_id": 30472608,
+    "face": "/bfs/face/b13dbb2df53eca78efe2f090eb14258286707e34.jpg",
+    "group_name": ""
+  },
   "3493284682926207": {
     "name": "维佩拉Vipera",
     "type": "vtuber",
@@ -48949,6 +48963,13 @@
     "room_id": 2901866,
     "face": "/bfs/face/cf063d197ca0ce35859d0365c6258941f54750fa.jpg",
     "group_name": "ChaosLiveSprout"
+  },
+  "3494370454014536": {
+    "name": "西野鸣",
+    "type": "vtuber",
+    "room_id": 30194450,
+    "face": "/bfs/face/42a128d56138842653a6405d6708b7f58347fe96.jpg",
+    "group_name": ""
   },
   "476725595": {
     "name": "西魔幽Yuu",

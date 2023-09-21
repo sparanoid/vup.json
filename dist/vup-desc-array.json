@@ -5823,6 +5823,15 @@
     "group_name": ""
   },
   {
+    "uid": 38850658,
+    "name": "kirakira大团子",
+    "type": "vtuber",
+    "room": 24516257,
+    "face": "/bfs/face/a7d2e6349ecccd0fae5a22426f72b656390bbe65.jpg",
+    "sign": "个人势，蠢萌贪吃的花栗鼠就是我了~\n唱歌嘛~马马虎虎\n游戏嘛~爱玩且菜\n努力做到花栗鼠中的标杆！",
+    "group_name": ""
+  },
+  {
     "uid": 5494366,
     "name": "绝世猛1驹KMK",
     "type": "vtuber",
@@ -30613,7 +30622,7 @@
     "name": "我的兔兔不能那么可爱",
     "type": "vtuber",
     "room": 30677099,
-    "face": "/bfs/face/be529fa822da42a05bcc0307ca0457e91c793967.jpg",
+    "face": "/bfs/face/2bca2054249d89e0e56b8d8a7c0a4e8b7faddd41.jpg",
     "sign": "单纯温柔啥也不势。",
     "group_name": ""
   },
@@ -55656,6 +55665,15 @@
     "group_name": "狄灵计划"
   },
   {
+    "uid": 3493275895860032,
+    "name": "绯间樱斩",
+    "type": "vtuber",
+    "room": 30472608,
+    "face": "/bfs/face/b13dbb2df53eca78efe2f090eb14258286707e34.jpg",
+    "sign": "雪域provealms所属，一名在浮空之城游荡的侦探/合作请联系provealms@foxmail.com",
+    "group_name": ""
+  },
+  {
     "uid": 3493284682926207,
     "name": "维佩拉Vipera",
     "type": "vtuber",
@@ -62935,6 +62953,15 @@
     "face": "/bfs/face/cf063d197ca0ce35859d0365c6258941f54750fa.jpg",
     "sign": "一介凡人",
     "group_name": "ChaosLiveSprout"
+  },
+  {
+    "uid": 3494370454014536,
+    "name": "西野鸣",
+    "type": "vtuber",
+    "room": 30194450,
+    "face": "/bfs/face/42a128d56138842653a6405d6708b7f58347fe96.jpg",
+    "sign": "问尘仙会｜因为我也是既幼稚，又怕输。",
+    "group_name": ""
   },
   {
     "uid": 476725595,
