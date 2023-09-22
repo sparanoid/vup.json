@@ -6321,6 +6321,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546381048350924,
+    "name": "七安安Tsuki",
+    "type": "vtuber",
+    "room": 30811113,
+    "group_name": ""
+  },
+  {
     "uid": 1750726607,
     "name": "七宫天空Aria",
     "type": "vtuber",
@@ -7774,6 +7781,13 @@
     "name": "晴步子清楚组",
     "type": "vtuber",
     "room": 30299651,
+    "group_name": ""
+  },
+  {
+    "uid": 489204004,
+    "name": "云晕晕ovo",
+    "type": "vtuber",
+    "room": 24032025,
     "group_name": ""
   },
   {
@@ -19440,7 +19454,7 @@
   },
   {
     "uid": 510580283,
-    "name": "小夜夜酱9月22号百天版",
+    "name": "小夜夜酱",
     "type": "vtuber",
     "room": 27797069,
     "group_name": ""
@@ -32389,6 +32403,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546382868678789,
+    "name": "汀夏yummy",
+    "type": "vtuber",
+    "room": 30868716,
+    "group_name": ""
+  },
+  {
     "uid": 3494364410022218,
     "name": "汉堡兔hanber",
     "type": "vtuber",
@@ -43183,6 +43204,13 @@
     "group_name": ""
   },
   {
+    "uid": 1457046577,
+    "name": "绮奈Carina",
+    "type": "vtuber",
+    "room": 30396856,
+    "group_name": ""
+  },
+  {
     "uid": 3493075315853836,
     "name": "绮奈娅naya",
     "type": "vtuber",
@@ -48742,7 +48770,7 @@
   },
   {
     "uid": 3494355033655364,
-    "name": "褚酱从不骂人",
+    "name": "褚酱酱从不骂人",
     "type": "vtuber",
     "room": 27956773,
     "group_name": ""

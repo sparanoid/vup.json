@@ -8127,6 +8127,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546381048350924,
+    "name": "七安安Tsuki",
+    "type": "vtuber",
+    "room": 30811113,
+    "face": "/bfs/face/eee64558a49faae9900e408ce464700890e21889.jpg",
+    "sign": "嗨～可以留下来陪陪我嘛",
+    "group_name": ""
+  },
+  {
     "uid": 1750726607,
     "name": "七宫天空Aria",
     "type": "vtuber",
@@ -9996,6 +10005,15 @@
     "room": 30299651,
     "face": "/bfs/face/2ee01571e485318a33e384f647a1bbcc6cefd5e3.jpg",
     "sign": "即バフコ/Bafuko字幕组，继承晴步子在B站的部分事务。全权搬运、切片及烤推，欢迎三连。",
+    "group_name": ""
+  },
+  {
+    "uid": 489204004,
+    "name": "云晕晕ovo",
+    "type": "vtuber",
+    "room": 24032025,
+    "face": "/bfs/face/d483cd4117a50b6cd1d5fb400302e0a8e1f4dd57.jpg",
+    "sign": "无需比较，我独我。",
     "group_name": ""
   },
   {
@@ -23288,7 +23306,7 @@
     "type": "vtuber",
     "room": 26192718,
     "face": "/bfs/face/ea32f8450de115d65d5375a8731b14c3886b3a34.jpg",
-    "sign": "没卖号。。是投点喜欢粗切片的视频小偷。",
+    "sign": "没卖号。。是个投点喜欢的粗切片的视频小偷。",
     "group_name": ""
   },
   {
@@ -24994,7 +25012,7 @@
   },
   {
     "uid": 510580283,
-    "name": "小夜夜酱9月22号百天版",
+    "name": "小夜夜酱",
     "type": "vtuber",
     "room": 27797069,
     "face": "/bfs/face/0a9a3ba5765a2e21830227d0261f03171fcbaf4a.jpg",
@@ -41643,6 +41661,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546382868678789,
+    "name": "汀夏yummy",
+    "type": "vtuber",
+    "room": 30868716,
+    "face": "/bfs/face/d1593b74683c5970f92e26e3b1bd22fbf518c99c.jpg",
+    "sign": "粉丝群：169183220",
+    "group_name": ""
+  },
+  {
     "uid": 3494364410022218,
     "name": "汉堡兔hanber",
     "type": "vtuber",
@@ -55521,6 +55548,15 @@
     "group_name": ""
   },
   {
+    "uid": 1457046577,
+    "name": "绮奈Carina",
+    "type": "vtuber",
+    "room": 30396856,
+    "face": "/bfs/face/ef5cfff172e3b145a4a4307dfc169f0f9d8f3cee.jpg",
+    "sign": "[天枢Project]所属 来自街头的朋克少女。",
+    "group_name": ""
+  },
+  {
     "uid": 3493075315853836,
     "name": "绮奈娅naya",
     "type": "vtuber",
@@ -62668,7 +62704,7 @@
   },
   {
     "uid": 3494355033655364,
-    "name": "褚酱从不骂人",
+    "name": "褚酱酱从不骂人",
     "type": "vtuber",
     "room": 27956773,
     "face": "/bfs/face/afc92a4f9fad9ef3f93705024c6042e1660e0edb.jpg",
@@ -71591,7 +71627,7 @@
     "type": "vtuber",
     "room": 27877257,
     "face": "/bfs/face/21255ff873e4a70eccd5dba856e613a75860736c.jpg",
-    "sign": "个人皮定制中 直播时间 早8:00-12:00  晚21:00-01:00",
+    "sign": "直播时间  晚21:00-01:00",
     "group_name": ""
   },
   {
