@@ -17179,8 +17179,8 @@
     "uid": 686241472,
     "name": "团小哈",
     "type": "vtuber",
-    "room": 22520319,
-    "face": "/bfs/face/218bb16795293273ed735a0299a78944e4a1abda.jpg",
+    "room": 0,
+    "face": "/bfs/face/218bb16795293073ed735a0299a78944e4a1abda.jpg",
     "group_name": "EroS"
   },
   {
@@ -32171,7 +32171,7 @@
     "uid": 54191665,
     "name": "木糖纯Official",
     "type": "vtuber",
-    "room": 8643223,
+    "room": 0,
     "face": "/bfs/face/1c1fd41666e83eacf95134047b24710dfbb2e400.jpg",
     "group_name": "超电VUP"
   },
