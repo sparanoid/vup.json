@@ -6864,6 +6864,14 @@
     "group_name": ""
   },
   {
+    "uid": 3494362004589312,
+    "name": "一只阿九啊_",
+    "type": "vtuber",
+    "room": 30479047,
+    "face": "/bfs/face/1106959b0854a59a8d63e8ee7285d0db5ff78e67.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 21685335,
     "name": "一只雏羽喵",
     "type": "vtuber",
@@ -9517,6 +9525,14 @@
     "type": "vtuber",
     "room": 26556885,
     "face": "/bfs/face/5bcef8d3272150bd11c798c00c1be427b62fa054.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3035038,
+    "name": "以里illi",
+    "type": "vtuber",
+    "room": 21188682,
+    "face": "/bfs/face/b8c878088b0cf1ba443399c1ea945053442fb3fb.jpg",
     "group_name": ""
   },
   {
@@ -22184,6 +22200,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493270950775388,
+    "name": "小壳不打嗝",
+    "type": "vtuber",
+    "room": 27482134,
+    "face": "/bfs/face/a68406ad08465a03258f6777c8d6284dfbb2f217.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 25852539,
     "name": "小夏夏儿",
     "type": "vtuber",
@@ -28037,14 +28061,6 @@
     "type": "vtuber",
     "room": 4315783,
     "face": "/bfs/face/6c162b47b53acf7df60d9370881238ae8b9a2ab8.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 3493270950775388,
-    "name": "小壳不打嗝",
-    "type": "vtuber",
-    "room": 27482134,
-    "face": "/bfs/face/a68406ad08465a03258f6777c8d6284dfbb2f217.jpg",
     "group_name": ""
   },
   {
@@ -53504,6 +53520,14 @@
     "group_name": "EOE组合"
   },
   {
+    "uid": 3546382900136934,
+    "name": "莫妮sama-米哥冠名",
+    "type": "vtuber",
+    "room": 30806486,
+    "face": "/bfs/face/5e64e92a2e007cae91bb400795d5ca7d6fcd255b.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 276610105,
     "name": "莫宇声含Channel",
     "type": "vtuber",
@@ -59350,14 +59374,6 @@
     "room": 27948670,
     "face": "/bfs/face/007d045f1ad77a80c94b84c18f1bf20f9669c39a.jpg",
     "group_name": "hOuOu_Project"
-  },
-  {
-    "uid": 3494362004589312,
-    "name": "一只阿九啊_",
-    "type": "vtuber",
-    "room": 30479047,
-    "face": "/bfs/face/1106959b0854a59a8d63e8ee7285d0db5ff78e67.jpg",
-    "group_name": ""
   },
   {
     "uid": 1428441528,
