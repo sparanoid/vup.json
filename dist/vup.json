@@ -5886,13 +5886,6 @@
     "face": "/bfs/face/3e8d410b5c39604c614f02910e6fcfe74ca298b8.jpg",
     "group_name": ""
   },
-  "3494357371980734": {
-    "name": "兔孜Tsuki",
-    "type": "vtuber",
-    "room": 30015166,
-    "face": "/bfs/face/6b0540a78966e730ea09dcb94b7068c474a64366.jpg",
-    "group_name": ""
-  },
   "669436838": {
     "name": "一只寒兮兮",
     "type": "vtuber",
@@ -7552,6 +7545,13 @@
     "face": "/bfs/face/c6ae8db7c6d570243586ecfece6371ccc98bfe5e.jpg",
     "group_name": ""
   },
+  "3493290261350560": {
+    "name": "九茉kuma",
+    "type": "vtuber",
+    "room": 30083178,
+    "face": "/bfs/face/49b9b1dce249390962135444fe780a536a4d212c.jpg",
+    "group_name": ""
+  },
   "225347042": {
     "name": "九重紫Official",
     "type": "vtuber",
@@ -8270,7 +8270,7 @@
     "name": "付暔暔",
     "type": "vtuber",
     "room": 27559004,
-    "face": "/bfs/face/ef04dcc100810005161b79d660aa201f93c69eb7.jpg",
+    "face": "/bfs/face/08d55ea0bc803f36aa920251abb37d589dd73aa1.jpg",
     "group_name": ""
   },
   "3493290850650290": {
@@ -9902,6 +9902,13 @@
     "type": "vtuber",
     "room": 7678442,
     "face": "/bfs/face/0fec967896fbd2249eaced01b3680ce18c9ec9ea.jpg",
+    "group_name": ""
+  },
+  "3494357371980734": {
+    "name": "兔孜Tsuki",
+    "type": "vtuber",
+    "room": 30015166,
+    "face": "/bfs/face/6b0540a78966e730ea09dcb94b7068c474a64366.jpg",
     "group_name": ""
   },
   "3461578110273655": {
@@ -20933,7 +20940,7 @@
     "name": "岁己SUI",
     "type": "vtuber",
     "room": 25788785,
-    "face": "/bfs/face/7c73bd42f95834fa03050275b049db6d60187c44.jpg",
+    "face": "/bfs/face/002a6189cea6652fcc5d3a2dcedd9ae971496d2b.jpg",
     "group_name": "VirtuaReal"
   },
   "646344560": {
@@ -28013,6 +28020,13 @@
     "face": "/bfs/face/0a516ad1f81deac4adb214ecb5441978fadba441.jpg",
     "group_name": ".Live"
   },
+  "1426012877": {
+    "name": "木木--19号生日百天啦",
+    "type": "vtuber",
+    "room": 30140992,
+    "face": "/bfs/face/aad65de982300e92e048be810c2378bcee17dd62.jpg",
+    "group_name": ""
+  },
   "114156522": {
     "name": "木木子Official",
     "type": "vtuber",
@@ -29872,7 +29886,7 @@
     "name": "桃咕咚Official",
     "type": "vtuber",
     "room": 146497,
-    "face": "/bfs/face/6506c3746187417dcecbfc6174f17fb420e18197.jpg",
+    "face": "/bfs/face/f5c7bc52218d513ce2afd7eba0aff441c1208852.jpg",
     "group_name": ""
   },
   "313064642": {
@@ -46343,7 +46357,7 @@
     "name": "原野青青w",
     "type": "vtuber",
     "room": 26257851,
-    "face": "/bfs/face/c0a54893d8ca4cbc1e11982236827f76193ce7a9.jpg",
+    "face": "/bfs/face/bb636ddeb53057cb3400fdbdbf5ad840ef6c0ec9.jpg",
     "group_name": ""
   },
   "3286364": {
@@ -49213,7 +49227,7 @@
     "name": "诡猫猫_Neko",
     "type": "vtuber",
     "room": 27794188,
-    "face": "/bfs/face/ecb5906ddcd25f1617d1091db18db944a67c443f.jpg",
+    "face": "/bfs/face/9313b8687d6c7f2aa24126c65bdec4e580b94ab0.jpg",
     "group_name": ""
   },
   "3493081628281391": {

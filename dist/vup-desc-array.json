@@ -7569,15 +7569,6 @@
     "group_name": ""
   },
   {
-    "uid": 3494357371980734,
-    "name": "兔孜Tsuki",
-    "type": "vtuber",
-    "room": 30015166,
-    "face": "/bfs/face/6b0540a78966e730ea09dcb94b7068c474a64366.jpg",
-    "sign": "直播时间:14-17 22-1\n擅长中英日韩流行抒情古风emo小甜歌",
-    "group_name": ""
-  },
-  {
     "uid": 669436838,
     "name": "一只寒兮兮",
     "type": "vtuber",
@@ -9711,6 +9702,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493290261350560,
+    "name": "九茉kuma",
+    "type": "vtuber",
+    "room": 30083178,
+    "face": "/bfs/face/49b9b1dce249390962135444fe780a536a4d212c.jpg",
+    "sign": "宇宙浣熊 热爱唱歌，ALL-IN所属虚拟社长。粉丝群：557393251（浣熊）",
+    "group_name": ""
+  },
+  {
     "uid": 225347042,
     "name": "九重紫Official",
     "type": "vtuber",
@@ -10633,7 +10633,7 @@
     "name": "付暔暔",
     "type": "vtuber",
     "room": 27559004,
-    "face": "/bfs/face/ef04dcc100810005161b79d660aa201f93c69eb7.jpg",
+    "face": "/bfs/face/08d55ea0bc803f36aa920251abb37d589dd73aa1.jpg",
     "sign": "（周一公休）希望你幸福开心\n会陪你很久很久 粉丝群：717694019\n录播@暔暔的录播",
     "group_name": ""
   },
@@ -12732,6 +12732,15 @@
     "room": 7678442,
     "face": "/bfs/face/0fec967896fbd2249eaced01b3680ce18c9ec9ea.jpg",
     "sign": "兔子灯是灯！",
+    "group_name": ""
+  },
+  {
+    "uid": 3494357371980734,
+    "name": "兔孜Tsuki",
+    "type": "vtuber",
+    "room": 30015166,
+    "face": "/bfs/face/6b0540a78966e730ea09dcb94b7068c474a64366.jpg",
+    "sign": "直播时间:14-17 22-1\n擅长中英日韩流行抒情古风emo小甜歌",
     "group_name": ""
   },
   {
@@ -26914,7 +26923,7 @@
     "name": "岁己SUI",
     "type": "vtuber",
     "room": 25788785,
-    "face": "/bfs/face/7c73bd42f95834fa03050275b049db6d60187c44.jpg",
+    "face": "/bfs/face/002a6189cea6652fcc5d3a2dcedd9ae971496d2b.jpg",
     "sign": "虚拟艺人团体VirtuaReal成员，喜欢唱歌的叽叽喳喳的小鸟！合作请联系bd@vrp.live",
     "group_name": "VirtuaReal"
   },
@@ -36018,6 +36027,15 @@
     "group_name": ".Live"
   },
   {
+    "uid": 1426012877,
+    "name": "木木--19号生日百天啦",
+    "type": "vtuber",
+    "room": 30140992,
+    "face": "/bfs/face/aad65de982300e92e048be810c2378bcee17dd62.jpg",
+    "sign": "【新V】可爱的萌妹谁会不喜欢嘞，这里是可爱木木，欢迎大家来d",
+    "group_name": ""
+  },
+  {
     "uid": 114156522,
     "name": "木木子Official",
     "type": "vtuber",
@@ -38407,7 +38425,7 @@
     "name": "桃咕咚Official",
     "type": "vtuber",
     "room": 146497,
-    "face": "/bfs/face/6506c3746187417dcecbfc6174f17fb420e18197.jpg",
+    "face": "/bfs/face/f5c7bc52218d513ce2afd7eba0aff441c1208852.jpg",
     "sign": "个人歌势 慵懒甜嗓 流行/甜歌 一起去吧 更远的地方",
     "group_name": ""
   },
@@ -59584,7 +59602,7 @@
     "name": "原野青青w",
     "type": "vtuber",
     "room": 26257851,
-    "face": "/bfs/face/c0a54893d8ca4cbc1e11982236827f76193ce7a9.jpg",
+    "face": "/bfs/face/bb636ddeb53057cb3400fdbdbf5ad840ef6c0ec9.jpg",
     "sign": "一只有深海恐惧症的小虎鲸   习惯孤独但也期待与你相遇\n录播号：虎鲸活动观察记录员",
     "group_name": ""
   },
@@ -63274,7 +63292,7 @@
     "name": "诡猫猫_Neko",
     "type": "vtuber",
     "room": 27794188,
-    "face": "/bfs/face/ecb5906ddcd25f1617d1091db18db944a67c443f.jpg",
+    "face": "/bfs/face/9313b8687d6c7f2aa24126c65bdec4e580b94ab0.jpg",
     "sign": "猫界白干文学课代表",
     "group_name": ""
   },

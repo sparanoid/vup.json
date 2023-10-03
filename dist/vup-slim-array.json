@@ -5887,13 +5887,6 @@
     "group_name": ""
   },
   {
-    "uid": 3494357371980734,
-    "name": "兔孜Tsuki",
-    "type": "vtuber",
-    "room": 30015166,
-    "group_name": ""
-  },
-  {
     "uid": 669436838,
     "name": "一只寒兮兮",
     "type": "vtuber",
@@ -7550,6 +7543,13 @@
     "name": "九狸Layla",
     "type": "vtuber",
     "room": 27948356,
+    "group_name": ""
+  },
+  {
+    "uid": 3493290261350560,
+    "name": "九茉kuma",
+    "type": "vtuber",
+    "room": 30083178,
     "group_name": ""
   },
   {
@@ -9902,6 +9902,13 @@
     "name": "兔子灯灯灯灯",
     "type": "vtuber",
     "room": 7678442,
+    "group_name": ""
+  },
+  {
+    "uid": 3494357371980734,
+    "name": "兔孜Tsuki",
+    "type": "vtuber",
+    "room": 30015166,
     "group_name": ""
   },
   {
@@ -28012,6 +28019,13 @@
     "type": "vtuber",
     "room": 21501662,
     "group_name": ".Live"
+  },
+  {
+    "uid": 1426012877,
+    "name": "木木--19号生日百天啦",
+    "type": "vtuber",
+    "room": 30140992,
+    "group_name": ""
   },
   {
     "uid": 114156522,
