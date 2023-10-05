@@ -811,6 +811,13 @@
     "face": "/bfs/face/6fa2f8bcac6f0d459c4d34436e7b828fc7230931.jpg",
     "group_name": ""
   },
+  "3493115748944811": {
+    "name": "Caramel_奶糖",
+    "type": "vtuber",
+    "room_id": 30547316,
+    "face": "/bfs/face/273802863b1a129e7e49aeb4253710c990cacd88.jpg",
+    "group_name": ""
+  },
   "3493296745744537": {
     "name": "凯凯_Carry",
     "type": "vtuber",
@@ -15081,7 +15088,7 @@
     "name": "团妈Nikudango",
     "type": "vtuber",
     "room_id": 25545083,
-    "face": "/bfs/face/995ef7390f785b57bebb570bda6e4bfa8678908d.jpg",
+    "face": "/bfs/face/68b1a6adabb29cb15cdc266c0022e877c96b44fd.jpg",
     "group_name": ""
   },
   "686241472": {
@@ -15620,7 +15627,7 @@
     "name": "夏夏每天睡不饱",
     "type": "vtuber",
     "room_id": 27197772,
-    "face": "/bfs/face/2dd2afead8b8f15198edda0cd75e87bae1a3b569.jpg",
+    "face": "/bfs/face/1fe92ac0eda5d57cb2fe89a5e09bf7b05cc0dc41.jpg",
     "group_name": ""
   },
   "1385310954": {
@@ -18084,7 +18091,7 @@
     "name": "姜宁Shouga",
     "type": "vtuber",
     "room_id": 27936900,
-    "face": "/bfs/face/3eefcb05761b7b6488d799d5cd73b1990a68930d.jpg",
+    "face": "/bfs/face/be7c7770e3d5511415bd848e23fe2091363b1b79.jpg",
     "group_name": ""
   },
   "3493267693898266": {
@@ -48828,7 +48835,7 @@
     "name": "血狼墨雯",
     "type": "vtuber",
     "room_id": 21577332,
-    "face": "/bfs/face/81199aa9915a0e9e04899294e7b018a7324cc764.jpg",
+    "face": "/bfs/face/3ade47c9ab6a7e1e57379e0c0af1db1410606929.jpg",
     "group_name": ""
   },
   "3387887": {
@@ -55954,7 +55961,7 @@
     "name": "鹤_z",
     "type": "vtuber",
     "room_id": 27854474,
-    "face": "/bfs/face/86cbbe4dc9c299c96b33ad7a31cc62c3827091c5.jpg",
+    "face": "/bfs/face/cff317b60c434881b64afcaf855628f143c65918.jpg",
     "group_name": ""
   },
   "1573437898": {
