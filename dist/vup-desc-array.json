@@ -26203,13 +26203,13 @@
     "name": "小雨酱紫ovo",
     "type": "vtuber",
     "room": 27510102,
-    "face": "/bfs/face/4aa32a50be7de7559dd125348e90be5a27551224.jpg",
+    "face": "/bfs/face/bd2f0ce99e3d1d4b19d6a082831e6e243a0ff435.jpg",
     "sign": "✧ LionStar 所属个人势 ✧这里是小雨酱紫 请多多关照呐  粉丝群：566309423\n",
     "group_name": ""
   },
   {
     "uid": 3493258785196734,
-    "name": "小青柠是萨摩耶",
+    "name": "小青柠_筱筱冠名",
     "type": "vtuber",
     "room": 27324665,
     "face": "/bfs/face/4a6c0629cd5128f66f33b0136c8174fda7ca279c.jpg",
@@ -28126,7 +28126,7 @@
   },
   {
     "uid": 1818940700,
-    "name": "常曦ya",
+    "name": "常曦-22号百天",
     "type": "vtuber",
     "room": 24710596,
     "face": "/bfs/face/783f10a391e556e7d9afd657242fa6df056bcd38.jpg",
@@ -35554,8 +35554,8 @@
     "name": "月见林林",
     "type": "vtuber",
     "room": 27337779,
-    "face": "/bfs/face/18ac04f206f7838d56086a71fadf2e4565071a67.jpg",
-    "sign": "<ChaosLive·S>个人势 杂歌势唱歌还行的那种 画势不断切换 晚10点直播 皮是自己画的 只为做好因热爱做的事",
+    "face": "/bfs/face/f8d94ee7a1a1f4ccf3f93e88d8b7a3f99c29d0ed.jpg",
+    "sign": "<ChaosLive·S>个人势 杂歌势唱歌还行的那种 画势不断切换 晚10点直播 1.0自己画的 只为做好因热爱做的事",
     "group_name": ""
   },
   {
@@ -37868,7 +37868,7 @@
     "type": "vtuber",
     "room": 10346218,
     "face": "/bfs/face/7141165d2826be743675f20c6b5db04c2fe7fec2.jpg",
-    "sign": "咻——",
+    "sign": "<虚研学园>所属摸鱼势vup 录播号@柠檬布丁工坊",
     "group_name": ""
   },
   {
@@ -68226,6 +68226,15 @@
     "room": 21784070,
     "face": "/bfs/face/1e366d4fb71cd069a1688c68c0d0ae815a61eb88.jpg",
     "sign": "一个路过的故事书写人",
+    "group_name": ""
+  },
+  {
+    "uid": 9404404,
+    "name": "雨中Neo",
+    "type": "vtuber",
+    "room": 30762538,
+    "face": "/bfs/face/5790cd7f0661b48657b6584ccf9b859f90f50aa2.jpg",
+    "sign": "向死而生的少女 - 隶属于ReLive_Project赋生计划\nNeo日常观测：555189323",
     "group_name": ""
   },
   {
