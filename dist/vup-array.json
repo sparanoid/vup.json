@@ -11852,7 +11852,7 @@
     "name": "关于莓芙可的一切",
     "type": "vtuber",
     "room": 4375197,
-    "face": "/bfs/face/17bb9343b9b6441c90ee3d3ddad3256b56a84984.jpg",
+    "face": "/bfs/face/416c1bf47a4c5cf87badce7611b19507a9f9bc22.jpg",
     "group_name": ""
   },
   {
@@ -12364,7 +12364,7 @@
     "name": "凌熙之辰",
     "type": "vtuber",
     "room": 27545850,
-    "face": "/bfs/face/0fa6963e8158fdc2d876c922dce95a8f4395b6fc.jpg",
+    "face": "/bfs/face/de7c5f4ec91b93fab06d0e33be020d224a568a76.jpg",
     "group_name": ""
   },
   {
@@ -26513,7 +26513,7 @@
   },
   {
     "uid": 10064811,
-    "name": "怂宝Tomoyo_0",
+    "name": "游戏地才怂怂",
     "type": "vtuber",
     "room": 1424188,
     "face": "/bfs/face/423bea7e3d627c3d3726f9968a590bbc35de0dff.jpg",
@@ -40009,10 +40009,10 @@
   },
   {
     "uid": 407712631,
-    "name": "潞竹_Liesel",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 21471403,
-    "face": "/bfs/face/82d13ba978cdeefc4b166c991b85168899f6c615.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -57009,10 +57009,10 @@
   },
   {
     "uid": 3493130085075469,
-    "name": "豹米official",
+    "name": "樂子人H",
     "type": "vtuber",
     "room": 30189915,
-    "face": "/bfs/face/2a1a58ef812492da9328893f70c9cf7b7fb01e86.jpg",
+    "face": "/bfs/face/b078f138ff50667b0bb1b70b0ce8a3dd72294557.jpg",
     "group_name": ""
   },
   {
