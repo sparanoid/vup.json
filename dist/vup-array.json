@@ -12680,6 +12680,14 @@
     "group_name": ""
   },
   {
+    "uid": 524160212,
+    "name": "刀匠Channel",
+    "type": "vtuber",
+    "room": 25534005,
+    "face": "/bfs/face/ebb0e0c889a7c93352d8e0b19e13ff13c3e1741a.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 12867370,
     "name": "塔莫凛channel",
     "type": "vtuber",
@@ -24296,6 +24304,14 @@
     "group_name": ""
   },
   {
+    "uid": 3494367232788699,
+    "name": "巨阙_Ares",
+    "type": "vtuber",
+    "room": 30299450,
+    "face": "/bfs/face/355c1fd28eaa2dca5227cab34f4afb4dd6bf4b68.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1678929972,
     "name": "巫小月_Official",
     "type": "vtuber",
@@ -24805,6 +24821,14 @@
     "type": "vtuber",
     "room": 30026903,
     "face": "/bfs/face/07db41f6b848500b37075461bd7fa3f32ce2712b.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3494361601936022,
+    "name": "希芮妮_Syreni",
+    "type": "vtuber",
+    "room": 30066665,
+    "face": "/bfs/face/7d9079e7869b72aeff5962ee7d94ad9fde4e3c0f.jpg",
     "group_name": ""
   },
   {
@@ -31160,6 +31184,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493120756943452,
+    "name": "曦悦_baby",
+    "type": "vtuber",
+    "room": 30091448,
+    "face": "/bfs/face/c9da46ae1a563b19ae94fc6e61b53182b7ccf16a.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 672525743,
     "name": "曦曦子ii",
     "type": "vtuber",
@@ -36768,6 +36800,14 @@
     "group_name": "V-dol事务所"
   },
   {
+    "uid": 3493285303683804,
+    "name": "毕方ym",
+    "type": "vtuber",
+    "room": 27674958,
+    "face": "/bfs/face/a4f7cc5e800f63029a48ebbca18146b7ae85a21f.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 576858552,
     "name": "毬亚Maria",
     "type": "vtuber",
@@ -37382,6 +37422,14 @@
     "room": 21397868,
     "face": "/bfs/face/041c2fac852b07e02eb31a8105de297c4c345540.jpg",
     "group_name": "MZ次元"
+  },
+  {
+    "uid": 3494367861934226,
+    "name": "江洋芋",
+    "type": "vtuber",
+    "room": 30232411,
+    "face": "/bfs/face/4abecf4412153599ac5cc11d17bc2dbbe250cccc.jpg",
+    "group_name": ""
   },
   {
     "uid": 299445377,
@@ -39309,6 +39357,14 @@
     "type": "vtuber",
     "room": 93567,
     "face": "/bfs/face/d480b4bf9cfaf50d73e89e06886a6c5737ec329f.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 23123329,
+    "name": "淅暮丶sorino",
+    "type": "vtuber",
+    "room": 30281177,
+    "face": "/bfs/face/0f51d807b48bc2cf859869c63709abcf637a5277.jpg",
     "group_name": ""
   },
   {
@@ -57560,6 +57616,14 @@
     "group_name": "Providence"
   },
   {
+    "uid": 3493257017297732,
+    "name": "路卡Miragu",
+    "type": "vtuber",
+    "room": 27474297,
+    "face": "/bfs/face/f653fe62c4c0b6c2b4876abc8d010a0ea48357dd.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 626628,
     "name": "路奇Luche",
     "type": "vtuber",
@@ -65101,6 +65165,14 @@
     "type": "vtuber",
     "room": 24526228,
     "face": "/bfs/face/9d9a0068f02257be4838be6585e39faa518f3a25.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3494369332038563,
+    "name": "黛尔菲娜_Delphine",
+    "type": "vtuber",
+    "room": 30176136,
+    "face": "/bfs/face/b9a98159d14fd5ee099d69e9d649d4781bdcff07.jpg",
     "group_name": ""
   },
   {
