@@ -24810,7 +24810,7 @@
   "6855974": {
     "name": "永生龙龙こうたく",
     "type": "vtuber",
-    "room": 12457621,
+    "room": 12457620,
     "face": "/bfs/face/e218a40aad0b5b8706147b45a33f9b90c995c2e0.jpg",
     "group_name": "Nature"
   },
@@ -28562,7 +28562,7 @@
   "51760697": {
     "name": "_吧啦吧啦__",
     "type": "vtuber",
-    "room": 3123571,
+    "room": 3123850,
     "face": "/bfs/face/4ca260322d132429d72651d0be38ab2b4dba5d53.jpg",
     "group_name": ""
   },
@@ -51142,7 +51142,7 @@
     "group_name": "ChaosLiveSprout"
   },
   "2112019": {
-    "name": "邻家老徐Linuxu",
+    "name": "徐徐Linuxu",
     "type": "vtuber",
     "room": 586258,
     "face": "/bfs/face/44cecca3e03edbb9dcb9023df5623540d355c347.jpg",
