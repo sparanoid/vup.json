@@ -14593,7 +14593,7 @@
   },
   {
     "uid": 3900277,
-    "name": "uid_10000",
+    "name": "嘎嘎盐烧",
     "type": "vtuber",
     "room": 23523251,
     "face": "/bfs/face/37b5c69169ae2662ef3866f89aac30db3175f71a.jpg",
@@ -28355,7 +28355,7 @@
     "uid": 6855974,
     "name": "永生龙龙こうたく",
     "type": "vtuber",
-    "room": 12457620,
+    "room": 12457621,
     "face": "/bfs/face/e218a40aad0b5b8706147b45a33f9b90c995c2e0.jpg",
     "group_name": "Nature"
   },
@@ -32643,7 +32643,7 @@
     "uid": 51760697,
     "name": "_吧啦吧啦__",
     "type": "vtuber",
-    "room": 3123850,
+    "room": 3123571,
     "face": "/bfs/face/4ca260322d132429d72651d0be38ab2b4dba5d53.jpg",
     "group_name": ""
   },
