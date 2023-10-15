@@ -21388,7 +21388,7 @@
     "name": "布仔O_o",
     "type": "vtuber",
     "room": 27915505,
-    "face": "/bfs/face/ad173a79ca526f74a93afcfd43b61dbfe2468e67.jpg",
+    "face": "/bfs/face/688a7df65734f5ea1dc89e90d66cf22052cb5633.jpg",
     "group_name": ""
   },
   "9883409": {
@@ -44845,7 +44845,7 @@
     "name": "艾梨尔Ariel",
     "type": "vtuber",
     "room": 25604832,
-    "face": "/bfs/face/04e1fd3794ef9e6345070e27b4c51b9e1df8fdd4.jpg",
+    "face": "/bfs/face/5a7458527f83a2a584dcce0bbaf55ed6e397c7d7.jpg",
     "group_name": ""
   },
   "1287760245": {
@@ -46669,7 +46669,7 @@
     "group_name": ""
   },
   "1692785975": {
-    "name": "茶茶籽超酷哒",
+    "name": "单推小茶籽酷酷哒",
     "type": "vtuber",
     "room": 26145333,
     "face": "/bfs/face/36d4d223b3dedc6a53181beadc948914b580933c.jpg",
@@ -50764,10 +50764,10 @@
     "group_name": ""
   },
   "395153968": {
-    "name": "辰砂_Shinsa",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 27187386,
-    "face": "/bfs/face/3fb854a8ce2e1aa5b2ee3b855093214834c22544.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "2118433970": {
