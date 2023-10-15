@@ -17620,7 +17620,7 @@
     "name": "塞蕾娜Serena",
     "type": "vtuber",
     "room": 24989361,
-    "face": "/bfs/face/70dac58f379dc0b6f405edb430c17465fadff82a.jpg",
+    "face": "/bfs/face/a9a88654580e481544eaefc2cfe72b0a123b742d.jpg",
     "group_name": ""
   },
   {
@@ -37289,10 +37289,10 @@
   },
   {
     "uid": 3493082144181013,
-    "name": "汐月月-锦鲤附体版",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 30292884,
-    "face": "/bfs/face/cc58b26696ab4eea57f86b0aafc735382d037fae.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -54740,7 +54740,7 @@
     "name": "卿落Yoke",
     "type": "vtuber",
     "room": 27742231,
-    "face": "/bfs/face/99640bd0c61f4a2228113c9785367ace9a14f2a2.jpg",
+    "face": "/bfs/face/f1e8788fdd9d756b6791b9917fafdfe11b48e3df.jpg",
     "group_name": ""
   },
   {
@@ -57452,7 +57452,7 @@
     "name": "赫卡特_Hecate",
     "type": "vtuber",
     "room": 27266811,
-    "face": "/bfs/face/f5b08841186f31d5863053413957e2669e475dce.jpg",
+    "face": "/bfs/face/0c5434c0da893fa0590cc6b85e35a944a25b745f.jpg",
     "group_name": "Para-dice"
   },
   {
