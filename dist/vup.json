@@ -17748,7 +17748,7 @@
     "name": "奶皮Miyo",
     "type": "vtuber",
     "room": 23678649,
-    "face": "/bfs/face/5027a51f992a8f305c85b7ff8b47817ccd3de2c4.jpg",
+    "face": "/bfs/face/8a261f43f0d12c3a8fc13b4ccb4a75955149e1dc.jpg",
     "group_name": ""
   },
   "3042127": {
@@ -40316,7 +40316,7 @@
     "name": "知许冬月",
     "type": "vtuber",
     "room": 22248899,
-    "face": "/bfs/face/81490a79af1967102c9143e8eb33bbe5cf1e4720.jpg",
+    "face": "/bfs/face/2f9ebe6ea226334fafa089be5a32055d59752ebf.jpg",
     "group_name": ""
   },
   "74917341": {
@@ -46172,10 +46172,10 @@
     "group_name": ""
   },
   "1088679624": {
-    "name": "苍青还在熬夜吗",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 24197078,
-    "face": "/bfs/face/190fd324cef8592a4d5d6ca303c619670d193006.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "5963844": {
