@@ -10418,7 +10418,7 @@
     "type": "vtuber",
     "room": 25939984,
     "face": "/bfs/face/9639d32e48c9f5db30263149646eb3dc98d597de.jpg",
-    "sign": "<虚拟企划Para-dice所属>非全职鸽势｜清风拂山岗",
+    "sign": "清风拂山岗",
     "group_name": "Para-dice"
   },
   {
@@ -22585,7 +22585,7 @@
     "name": "奥拉OraCleve",
     "type": "vtuber",
     "room": 26876742,
-    "face": "/bfs/face/52d452986a1213a934e443c8a038c2e6b73ddd0a.jpg",
+    "face": "/bfs/face/647cc260cac48b6e78a38d08b5d3c9c6c7cd17d9.jpg",
     "sign": "∞双生个画势∞画像人Ora和画像恶魔Aro∞录播&切片@奥拉OraCleve的录播组∞",
     "group_name": ""
   },
@@ -27514,11 +27514,11 @@
   },
   {
     "uid": 8033262,
-    "name": "布明因子_",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 6213252,
-    "face": "/bfs/face/c2181bb3afe294b4e99fa33ef4778e608584ec5b.jpg",
-    "sign": "画师，皮套人，接稿只走米画师",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {
@@ -37147,7 +37147,7 @@
     "name": "林一柔_",
     "type": "vtuber",
     "room": 27479057,
-    "face": "/bfs/face/8a4c6e7c74f4a6a90548a9978af5913824bdcc49.jpg",
+    "face": "/bfs/face/a070d2482982bb0bc243064db58ea47a12dcffb7.jpg",
     "sign": "钢琴主包，全职，可放心DD，工会勿扰！！！",
     "group_name": ""
   },
@@ -53614,7 +53614,7 @@
   },
   {
     "uid": 511015948,
-    "name": "竹子ToT",
+    "name": "竹子祝司老师毕业快乐",
     "type": "vtuber",
     "room": 27132356,
     "face": "/bfs/face/5d618b253ab253d996c031c116eadba0153fca42.jpg",
@@ -62668,7 +62668,7 @@
   },
   {
     "uid": 3493297169369713,
-    "name": "蛛咪_Channel",
+    "name": "蛛蛛大反派",
     "type": "vtuber",
     "room": 27837327,
     "face": "/bfs/face/1db81e45d5b9879a3ae16a78daa17beac270b927.jpg",
