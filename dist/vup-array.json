@@ -177,7 +177,7 @@
   },
   {
     "uid": 39964093,
-    "name": "-荔枝啾",
+    "name": "-荔枝酒",
     "type": "vtuber",
     "room": 21330414,
     "face": "/bfs/face/2b9a7e9bac764ea8e3929c569e709b25dc8c8363.jpg",
@@ -30353,10 +30353,10 @@
   },
   {
     "uid": 3493267966528346,
-    "name": "春盏儿Emerald",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 27491603,
-    "face": "/bfs/face/b89ff6a409ef10079d3de8a60d2530ee53038ee8.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -56844,7 +56844,7 @@
     "name": "诺拉Nora_Heitis",
     "type": "vtuber",
     "room": 22550560,
-    "face": "/bfs/face/31d84e695de6cd007ffb9ba62a0c97c537f7e89f.jpg",
+    "face": "/bfs/face/25aeb1f3f68d1bb8307bca6b9032b607b00d141c.jpg",
     "group_name": ""
   },
   {
