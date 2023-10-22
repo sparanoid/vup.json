@@ -8123,7 +8123,7 @@
     "name": "亚斯塔Astra",
     "type": "vtuber",
     "room": 25171587,
-    "face": "/bfs/face/790752bfcb7a7d891d671670a0712c738b5822b7.jpg",
+    "face": "/bfs/face/52630af9c661c03f17b1c74d47d79e6b62516e4a.jpg",
     "group_name": ""
   },
   "597223": {
@@ -14017,7 +14017,7 @@
     "name": "咩噗绒绒",
     "type": "vtuber",
     "room": 25158669,
-    "face": "/bfs/face/e0eca83d76e3ef4271324bcb94cda6faa7b9f9a3.jpg",
+    "face": "/bfs/face/9d8d122e93863b8e25e1f40d9a5436e3f69e0b1e.jpg",
     "group_name": "极光社"
   },
   "16955731": {
@@ -16747,7 +16747,7 @@
     "name": "天占milo_Official",
     "type": "vtuber",
     "room": 30563995,
-    "face": "/bfs/face/3a1cf2c7f261352f1d6aab36d538f3ec8d062a12.jpg",
+    "face": "/bfs/face/8014080a8af08f028faad518798a7028f4d4f52f.jpg",
     "group_name": ""
   },
   "29150180": {
@@ -52766,10 +52766,10 @@
     "group_name": ""
   },
   "184382": {
-    "name": "阿熊叫做藤原知",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 673352,
-    "face": "/bfs/face/49ede716f64ddcb5fa6735d9e44439922f66d7fb.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "569143": {
