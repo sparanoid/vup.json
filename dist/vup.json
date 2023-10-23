@@ -3517,7 +3517,7 @@
     "name": "Tangerine乌龙茶",
     "type": "vtuber",
     "room": 26332703,
-    "face": "/bfs/face/a2b04b91ea045023acbed7ec31686d5888404a25.jpg",
+    "face": "/bfs/face/1e9fdfb8f4173458eae727065547614332eb46b3.jpg",
     "group_name": ""
   },
   "11009752": {
@@ -10370,7 +10370,7 @@
     "name": "关于莓芙可的一切",
     "type": "vtuber",
     "room": 4375197,
-    "face": "/bfs/face/416c1bf47a4c5cf87badce7611b19507a9f9bc22.jpg",
+    "face": "/bfs/face/ce241d9f3ecd4a1394c25a5efa20240f9d65086a.jpg",
     "group_name": ""
   },
   "31496716": {
@@ -27531,7 +27531,7 @@
     "group_name": "MofuMofu Fantasista"
   },
   "3493291037297185": {
-    "name": "月小兔niki-22号新皮回",
+    "name": "月小兔niki今日新皮回",
     "type": "vtuber",
     "room": 27749655,
     "face": "/bfs/face/4a1280a43908e269585023ad5196967abc8e1693.jpg",
@@ -42920,7 +42920,7 @@
     "name": "红茶tee",
     "type": "vtuber",
     "room": 27549011,
-    "face": "/bfs/face/98ef0b86d5b6bda2df020be8e29d202acd5e7340.jpg",
+    "face": "/bfs/face/98fe7657f81c3893e3dd6c9ef5d54cc1ecf99560.jpg",
     "group_name": ""
   },
   "3494363220937684": {
@@ -52766,10 +52766,10 @@
     "group_name": ""
   },
   "184382": {
-    "name": "bilibili",
+    "name": "阿熊叫做藤原知",
     "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
+    "room": 673352,
+    "face": "/bfs/face/49ede716f64ddcb5fa6735d9e44439922f66d7fb.jpg",
     "group_name": ""
   },
   "569143": {
