@@ -11219,7 +11219,7 @@
     "name": "車車OvO",
     "type": "unknown",
     "room": 23239501,
-    "face": "/bfs/face/536825a4a6f33f33f8477e11f77c5aece546a829.jpg",
+    "face": "/bfs/face/b33e296d9583d6511de93616bbf882b6f4045cfa.jpg",
     "sign": "一只垂耳兔亡灵。　观察中——",
     "group_name": ""
   },
@@ -12212,7 +12212,7 @@
     "type": "vtuber",
     "room": 27081470,
     "face": "/bfs/face/fb2eb320e86a281be91abc634dbea0a18799fdb2.jpg",
-    "sign": "全职  弹唱  直播时间:早10晚8 每周三休息",
+    "sign": "全职  弹唱  周内直播时间:早10晚8 每周三休息 周六日下午15点或晚8点",
     "group_name": ""
   },
   "37170037": {
@@ -59736,7 +59736,7 @@
     "group_name": "玹云社"
   },
   "3494367226497198": {
-    "name": "阑宝不可e_贴贴不存版",
+    "name": "阑宝不可e_zZ",
     "type": "vtuber",
     "room": 30184683,
     "face": "/bfs/face/f7d62fa7497b36a027f95fa2bc99e170cfb913f3.jpg",
