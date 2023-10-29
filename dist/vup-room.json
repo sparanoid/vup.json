@@ -33883,7 +33883,7 @@
     "name": "洛蓠Rori",
     "type": "vtuber",
     "room_id": 30670236,
-    "face": "/bfs/face/5299726728685a7f62836a38d8b552b99308c30a.jpg",
+    "face": "/bfs/face/e49a1e55ffd40ea311e7f5273e5304d7230e4a87.jpg",
     "group_name": ""
   },
   "3493143689300093": {
@@ -39634,10 +39634,10 @@
     "group_name": ""
   },
   "486497869": {
-    "name": "百草姬",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 21718578,
-    "face": "/bfs/face/eda13581f5fb86a2fa64ed273f399ca823c44454.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493270397127160": {
@@ -50312,7 +50312,7 @@
     "name": "赫米特Hermit",
     "type": "vtuber",
     "room_id": 23616731,
-    "face": "/bfs/face/fc183e5d5c24aba5b30da84645441b8034053537.jpg",
+    "face": "/bfs/face/4212bc96c2da7d2b93cefcc4261caf74b015402d.jpg",
     "group_name": ""
   },
   "652571677": {
