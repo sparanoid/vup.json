@@ -3392,6 +3392,14 @@
     "group_name": ""
   },
   {
+    "uid": 652386779,
+    "name": "Rae_Severin",
+    "type": "vtuber",
+    "room": 25543700,
+    "face": "/bfs/face/e970d85b9a791b1b626566a7a5630b583e7ae659.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 411278071,
     "name": "RainbowO3-彩虹君",
     "type": "vtuber",
@@ -29496,6 +29504,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546388438715068,
+    "name": "星波海来Official",
+    "type": "vtuber",
+    "room": 31098644,
+    "face": "/bfs/face/1f0662a09ff4ed70cde2e7690a36ec7bec5bd09e.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3461567735663313,
     "name": "星泽百合Official",
     "type": "vtuber",
@@ -40072,12 +40088,12 @@
     "group_name": ""
   },
   {
-    "uid": 407712631,
-    "name": "bilibili",
+    "uid": 3546392779819713,
+    "name": "潞竹Liesel",
     "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
+    "room": 30973806,
+    "face": "/bfs/face/46d9bd41e3afa32ff21f02b1ca78db28c738b3c0.jpg",
+    "group_name": "北立交桥"
   },
   {
     "uid": 443300418,
@@ -41485,6 +41501,14 @@
     "type": "vtuber",
     "room": 2125843,
     "face": "/bfs/face/525576e2a7435308fa5f90c4bbb2bf38437c6ae5.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546558505159515,
+    "name": "狐栗LuLu",
+    "type": "vtuber",
+    "room": 31023640,
+    "face": "/bfs/face/98bab3ca09a6591bbf273db2e87f685c807a600b.jpg",
     "group_name": ""
   },
   {
@@ -62965,6 +62989,14 @@
     "type": "vtuber",
     "room": 30397913,
     "face": "/bfs/face/22a5a87db0a576883137c9d822be6880b1e19fe1.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546391341173032,
+    "name": "餅村尾丸omaru",
+    "type": "vtuber",
+    "room": 31084456,
+    "face": "/bfs/face/62aa3654a78d76936b09de985b22e2e00059a151.jpg",
     "group_name": ""
   },
   {

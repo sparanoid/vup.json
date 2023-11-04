@@ -3816,6 +3816,15 @@
     "group_name": ""
   },
   {
+    "uid": 652386779,
+    "name": "Rae_Severin",
+    "type": "vtuber",
+    "room": 25543700,
+    "face": "/bfs/face/e970d85b9a791b1b626566a7a5630b583e7ae659.jpg",
+    "sign": "你好哦",
+    "group_name": ""
+  },
+  {
     "uid": 411278071,
     "name": "RainbowO3-彩虹君",
     "type": "vtuber",
@@ -33183,6 +33192,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546388438715068,
+    "name": "星波海来Official",
+    "type": "vtuber",
+    "room": 31098644,
+    "face": "/bfs/face/1f0662a09ff4ed70cde2e7690a36ec7bec5bd09e.jpg",
+    "sign": "",
+    "group_name": ""
+  },
+  {
     "uid": 3461567735663313,
     "name": "星泽百合Official",
     "type": "vtuber",
@@ -45081,13 +45099,13 @@
     "group_name": ""
   },
   {
-    "uid": 407712631,
-    "name": "bilibili",
+    "uid": 3546392779819713,
+    "name": "潞竹Liesel",
     "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
+    "room": 30973806,
+    "face": "/bfs/face/46d9bd41e3afa32ff21f02b1ca78db28c738b3c0.jpg",
+    "sign": "【北立交桥所属】是白驯鹿！才不是傻狍子！",
+    "group_name": "北立交桥"
   },
   {
     "uid": 443300418,
@@ -46671,6 +46689,15 @@
     "room": 2125843,
     "face": "/bfs/face/525576e2a7435308fa5f90c4bbb2bf38437c6ae5.jpg",
     "sign": "个人势水晶龙！万势屋所属，种族明明超帅却总被说像哈士奇，喜欢唱歌、打游戏和收集亮晶晶的东西，笑点泪点都很低，群号143028150欢迎来玩～",
+    "group_name": ""
+  },
+  {
+    "uid": 3546558505159515,
+    "name": "狐栗LuLu",
+    "type": "vtuber",
+    "room": 31023640,
+    "face": "/bfs/face/98bab3ca09a6591bbf273db2e87f685c807a600b.jpg",
+    "sign": "神秘的个人势虚拟歌姬（有话咱是真的听）",
     "group_name": ""
   },
   {
@@ -70836,6 +70863,15 @@
     "room": 30397913,
     "face": "/bfs/face/22a5a87db0a576883137c9d822be6880b1e19fe1.jpg",
     "sign": "抬头观星，低头观心。粉丝群：924572484",
+    "group_name": ""
+  },
+  {
+    "uid": 3546391341173032,
+    "name": "餅村尾丸omaru",
+    "type": "vtuber",
+    "room": 31084456,
+    "face": "/bfs/face/62aa3654a78d76936b09de985b22e2e00059a151.jpg",
+    "sign": "",
     "group_name": ""
   },
   {

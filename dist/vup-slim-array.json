@@ -2968,6 +2968,13 @@
     "group_name": ""
   },
   {
+    "uid": 652386779,
+    "name": "Rae_Severin",
+    "type": "vtuber",
+    "room": 25543700,
+    "group_name": ""
+  },
+  {
     "uid": 411278071,
     "name": "RainbowO3-彩虹君",
     "type": "vtuber",
@@ -25809,6 +25816,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546388438715068,
+    "name": "星波海来Official",
+    "type": "vtuber",
+    "room": 31098644,
+    "group_name": ""
+  },
+  {
     "uid": 3461567735663313,
     "name": "星泽百合Official",
     "type": "vtuber",
@@ -35063,11 +35077,11 @@
     "group_name": ""
   },
   {
-    "uid": 407712631,
-    "name": "bilibili",
+    "uid": 3546392779819713,
+    "name": "潞竹Liesel",
     "type": "vtuber",
-    "room": 0,
-    "group_name": ""
+    "room": 30973806,
+    "group_name": "北立交桥"
   },
   {
     "uid": 443300418,
@@ -36299,6 +36313,13 @@
     "name": "艾米莉EmiIy",
     "type": "vtuber",
     "room": 2125843,
+    "group_name": ""
+  },
+  {
+    "uid": 3546558505159515,
+    "name": "狐栗LuLu",
+    "type": "vtuber",
+    "room": 31023640,
     "group_name": ""
   },
   {
@@ -55094,6 +55115,13 @@
     "name": "食月Tsuki",
     "type": "vtuber",
     "room": 30397913,
+    "group_name": ""
+  },
+  {
+    "uid": 3546391341173032,
+    "name": "餅村尾丸omaru",
+    "type": "vtuber",
+    "room": 31084456,
     "group_name": ""
   },
   {
