@@ -3293,7 +3293,7 @@
     "name": "Shalala蝦拉拉_",
     "type": "vtuber",
     "room_id": 0,
-    "face": "/bfs/face/3d02c6fc41772cf64b508a290ca99e810fb2234d.jpg",
+    "face": "/bfs/face/3d02c6fc41772cf64b508ae90ca99e810fb2234d.jpg",
     "group_name": ""
   },
   "2034172427": {
@@ -7948,7 +7948,7 @@
     "name": "五丸_Gomaru",
     "type": "vtuber",
     "room_id": 23502452,
-    "face": "/bfs/face/ef820c2c28fd527a7e4ae3836c0de3edf9006be9.jpg",
+    "face": "/bfs/face/b78ce239b392d7713a2e7132becad74f11ebe695.jpg",
     "group_name": ""
   },
   "6092677": {
@@ -8869,7 +8869,7 @@
     "group_name": "VirtuaReal"
   },
   "79374068": {
-    "name": "伊莱莎_Elisa",
+    "name": "伊莱莎_流浪小狗势",
     "type": "vtuber",
     "room_id": 5843505,
     "face": "/bfs/face/2eeb609f0265850887f3808e13aa44194fd9f5d5.jpg",
@@ -13631,7 +13631,7 @@
   "14189630": {
     "name": "启明星OwO",
     "type": "vtuber",
-    "room_id": 22200568,
+    "room_id": 0,
     "face": "/bfs/face/ab7b6774016351bc523f42152380730af4fd1710.jpg",
     "group_name": "月光社"
   },
@@ -15652,7 +15652,7 @@
     "group_name": ""
   },
   "1787270572": {
-    "name": "睡睡是笨蛋还是钢板",
+    "name": "夏夏每天睡不饱",
     "type": "vtuber",
     "room_id": 27197772,
     "face": "/bfs/face/e89568493b60f2e9b683fa2225917224ca724553.jpg",
@@ -17551,8 +17551,8 @@
   "3493279440046584": {
     "name": "奥兹塔Ozta",
     "type": "vtuber",
-    "room_id": 27597814,
-    "face": "/bfs/face/32ebf3d50db9c701d8a65f85447490a2a5c599ef.jpg",
+    "room_id": 0,
+    "face": "/bfs/face/32ebf3d50db9c701d8a65f85444490a2a5c599ef.jpg",
     "group_name": ""
   },
   "1219797330": {
@@ -17664,7 +17664,7 @@
     "name": "奶凶崽",
     "type": "vtuber",
     "room_id": 24141469,
-    "face": "/bfs/face/e9d482fc77aa47ac9096b6f58a1508ff9c65003f.jpg",
+    "face": "/bfs/face/bfef1ebd36ee8862accc6db14435be8722373828.jpg",
     "group_name": ""
   },
   "1292503081": {
@@ -41897,8 +41897,8 @@
   "594474157": {
     "name": "筱凛凛ShinoRin",
     "type": "vtuber",
-    "room_id": 22339726,
-    "face": "/bfs/face/745567402ffe12389bfc8c07bb5d9624a955b2c8.jpg",
+    "room_id": 0,
+    "face": "/bfs/face/745567402ffe1es89bfc8c07bb5d9624a955b2c8.jpg",
     "group_name": ""
   },
   "67921263": {
