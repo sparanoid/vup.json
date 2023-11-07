@@ -3293,7 +3293,7 @@
     "name": "Shalala蝦拉拉_",
     "type": "vtuber",
     "room": 0,
-    "face": "/bfs/face/3d02c6fc41772cf64b508ae90ca99e810fb2234d.jpg",
+    "face": "/bfs/face/3d02c6fc41772cf64b508a290ca99e810fb2234d.jpg",
     "group_name": ""
   },
   "2034172427": {
@@ -7444,7 +7444,7 @@
     "name": "乔麦皮_Jomaybe",
     "type": "vtuber",
     "room": 3506421,
-    "face": "/bfs/face/74d0e6a9746f5a1d57f99dec316ed94171fd66b3.jpg",
+    "face": "/bfs/face/f2520e04af39778bad50cc042dc8fc067acacbe3.jpg",
     "group_name": ""
   },
   "2085050660": {
@@ -17551,8 +17551,8 @@
   "3493279440046584": {
     "name": "奥兹塔Ozta",
     "type": "vtuber",
-    "room": 0,
-    "face": "/bfs/face/32ebf3d50db9c701d8a65f85444490a2a5c599ef.jpg",
+    "room": 27597814,
+    "face": "/bfs/face/32ebf3d50db9c701d8a65f85447490a2a5c599ef.jpg",
     "group_name": ""
   },
   "1219797330": {
@@ -41897,8 +41897,8 @@
   "594474157": {
     "name": "筱凛凛ShinoRin",
     "type": "vtuber",
-    "room": 0,
-    "face": "/bfs/face/745567402ffe1es89bfc8c07bb5d9624a955b2c8.jpg",
+    "room": 22339726,
+    "face": "/bfs/face/745567402ffe12389bfc8c07bb5d9624a955b2c8.jpg",
     "group_name": ""
   },
   "67921263": {
@@ -48520,7 +48520,7 @@
     "name": "藤礼_",
     "type": "vtuber",
     "room": 30542334,
-    "face": "/bfs/face/f052e9b97fca4068b89f28cc205549ae5c7e20b7.jpg",
+    "face": "/bfs/face/a548a467cab762d7c89d7bcbbf82f73fc34f3b0c.jpg",
     "group_name": ""
   },
   "21505": {
