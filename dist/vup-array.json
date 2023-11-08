@@ -20572,7 +20572,7 @@
     "name": "妩九Melantha",
     "type": "vtuber",
     "room": 7638830,
-    "face": "/bfs/face/09b2732ddf8fcee71df4710b1610b593ef8aa89e.jpg",
+    "face": "/bfs/face/c20ffd2819ce40a1cfa7603992e4ef2d98abf651.jpg",
     "group_name": ""
   },
   {
@@ -35300,7 +35300,7 @@
     "name": "梦魇Tsuki",
     "type": "vtuber",
     "room": 851181,
-    "face": "/bfs/face/3085bbc4af96b2da1a7835c8b76d1a9aac57d1df.jpg",
+    "face": "/bfs/face/d287b1eb353e57c6fb893d7e7446db048acd4681.jpg",
     "group_name": ""
   },
   {
@@ -52429,6 +52429,14 @@
     "type": "vtuber",
     "room": 21960637,
     "face": "/bfs/face/f26cf1b47486ba09f7ce47b2349ef0a4a4b0b41e.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546385601268337,
+    "name": "花見弥雅_Mia",
+    "type": "vtuber",
+    "room": 30839576,
+    "face": "/bfs/face/5f35ee6cc2f53bd12964ca367ee7a27c8e5bab4b.jpg",
     "group_name": ""
   },
   {
