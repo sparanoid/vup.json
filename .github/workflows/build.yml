@@ -39,7 +39,7 @@ jobs:
       id: git
       run: |
         echo "$(git --no-pager diff --name-only | grep -E '^(dist/vup.json)')"
-        echo "::set-output name=file_changes::$(git --no-pager diff --name-only | grep -E '^(dist/vup.json)')"
+        echo "file_changes=$(git --no-pager diff --name-only | grep -E '^(dist/vup.json)')" >> $GITHUB_OUTPUT
 
     - name: Import GPG key
       id: import_gpg
