@@ -54400,11 +54400,11 @@
     "group_name": "MiosLive"
   },
   "3493103990212963": {
-    "name": "菲诺希雅_Channel",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 26749549,
-    "face": "/bfs/face/f48cc578d6e2a86bc6f63bb28e7246e84e76ea5e.jpg",
-    "sign": "10月13日毕业",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "1391261247": {

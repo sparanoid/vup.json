@@ -47600,10 +47600,10 @@
     "group_name": "MiosLive"
   },
   "3493103990212963": {
-    "name": "菲诺希雅_Channel",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 26749549,
-    "face": "/bfs/face/f48cc578d6e2a86bc6f63bb28e7246e84e76ea5e.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1391261247": {
