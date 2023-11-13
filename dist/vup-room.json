@@ -26901,10 +26901,10 @@
     "group_name": ""
   },
   "499412595": {
-    "name": "晏燃_Trista",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 25614483,
-    "face": "/bfs/face/db741fd694d377918ee29a584acd7f679823e0b4.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "277937815": {
@@ -29529,7 +29529,7 @@
     "name": "柠汪汪",
     "type": "vtuber",
     "room_id": 22787556,
-    "face": "/bfs/face/f9798664096c0b89a3da1ef6bb05d624d2ef838b.jpg",
+    "face": "/bfs/face/a254a9a49bb8467d1b116061caebf1b66f392cea.jpg",
     "group_name": ""
   },
   "19462294": {
