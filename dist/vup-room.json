@@ -15589,10 +15589,10 @@
     "group_name": ""
   },
   "383444818": {
-    "name": "壹壹-yiyi吖",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 26563045,
-    "face": "/bfs/face/79398ba7934205275ccbae3968d803976b462d2f.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "21911535": {
@@ -46182,7 +46182,7 @@
     "name": "苍火Aoi",
     "type": "vtuber",
     "room_id": 5575423,
-    "face": "/bfs/face/142b4aa4b34ee2fd797469ff4b839e6d7fcb70c2.jpg",
+    "face": "/bfs/face/cacaf0eb2aa629ae8ef8fdda140b31531852407a.jpg",
     "group_name": "极光社"
   },
   "628535387": {
