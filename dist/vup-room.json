@@ -5607,10 +5607,10 @@
     "group_name": "エイレーン一家"
   },
   "12299398": {
-    "name": "精神异常巧克力",
+    "name": "一般通过巧克力",
     "type": "vtuber",
     "room_id": 9019846,
-    "face": "/bfs/face/ac41bc4850dbe5691b72fe1fcee063c8a552d188.jpg",
+    "face": "/bfs/face/f9e1bb0521c9af151abe607ebcf23ca8e793c2cd.jpg",
     "group_name": ""
   },
   "20381746": {
@@ -7444,7 +7444,7 @@
     "name": "乔麦皮_Jomaybe",
     "type": "vtuber",
     "room_id": 3506421,
-    "face": "/bfs/face/f2520e04af39778bad50cc042dc8fc067acacbe3.jpg",
+    "face": "/bfs/face/ee30a6df234146d246ee6c4fad9eb9401c29a0f1.jpg",
     "group_name": ""
   },
   "2085050660": {
@@ -9180,7 +9180,7 @@
     "name": "薄巧才不是牙膏味",
     "type": "vtuber",
     "room_id": 3881476,
-    "face": "/bfs/face/274c0495bf85b2f7bf928da13d79fef6d5dbe2bd.jpg",
+    "face": "/bfs/face/e8704b8fbec387ba6a428526dcc1c9766fd992db.jpg",
     "group_name": ""
   },
   "642588972": {
@@ -26414,7 +26414,7 @@
     "name": "星野绵奈",
     "type": "vtuber",
     "room_id": 4346806,
-    "face": "/bfs/face/11451397de27135ab429f3fb951608d3459f9324.jpg",
+    "face": "/bfs/face/6e6906b7177034d48d55c7ec61b91787c55ccc2a.jpg",
     "group_name": ""
   },
   "2930964": {
@@ -35150,7 +35150,7 @@
     "name": "澪月Zero",
     "type": "vtuber",
     "room_id": 26761425,
-    "face": "/bfs/face/e5e11557b0f889cb1e4f01257d19b07db75ca1bf.jpg",
+    "face": "/bfs/face/e33c6849a80fa05627ed4b4ef26f2a768f0fec91.jpg",
     "group_name": ""
   },
   "3358737": {
