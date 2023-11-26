@@ -41006,6 +41006,13 @@
     "group_name": "WACTOR"
   },
   {
+    "uid": 1589749511,
+    "name": "今日瞳",
+    "type": "vtuber",
+    "room": 31131916,
+    "group_name": ""
+  },
+  {
     "uid": 1589833236,
     "name": "芙瑞free",
     "type": "vtuber",
@@ -45511,6 +45518,13 @@
     "name": "克罗刻Kk",
     "type": "vtuber",
     "room": 24128011,
+    "group_name": ""
+  },
+  {
+    "uid": 2038213385,
+    "name": "桃源喵喵",
+    "type": "vtuber",
+    "room": 31174218,
     "group_name": ""
   },
   {

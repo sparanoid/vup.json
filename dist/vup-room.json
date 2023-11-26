@@ -213,7 +213,7 @@
     "name": "冥冥meichan",
     "type": "vtuber",
     "room_id": 22650610,
-    "face": "/bfs/face/5bae1232ddb84830d712b3553a8b0f515c69cc3b.webp",
+    "face": "/bfs/face/603a222091125aaff3c5c6693d937627ad5a82cd.jpg",
     "group_name": ""
   },
   "47441": {
@@ -41005,6 +41005,13 @@
     "face": "/bfs/face/2ba746a4458e665f7e55ee791c3d172051442173.jpg",
     "group_name": "WACTOR"
   },
+  "1589749511": {
+    "name": "今日瞳",
+    "type": "vtuber",
+    "room_id": 31131916,
+    "face": "/bfs/face/c2b2c5e9ed2fba3a182dc84b34b76f372aee9b86.jpg",
+    "group_name": ""
+  },
   "1589833236": {
     "name": "芙瑞free",
     "type": "vtuber",
@@ -45511,6 +45518,13 @@
     "type": "vtuber",
     "room_id": 24128011,
     "face": "/bfs/face/dd0d79d66c1f9dacd58d76a9f478e448d55c783a.jpg",
+    "group_name": ""
+  },
+  "2038213385": {
+    "name": "桃源喵喵",
+    "type": "vtuber",
+    "room_id": 31174218,
+    "face": "/bfs/face/e5130822c7470c290433428b39ed56e7ad79a642.jpg",
     "group_name": ""
   },
   "2041920071": {
