@@ -1,11 +1,19 @@
 import httpx
 import os
 import json
+import argparse
+
+# Set up command line argument parsing
+parser = argparse.ArgumentParser(description='Download avatars from VUP data')
+parser.add_argument('--dir', type=str, default='tmp', help='Output directory')
+parser.add_argument('--sort', type=str, default='followers', help='Sort by specific key')
+parser.add_argument('--limit', type=int, default=300, help='Number of avatars to download')
+args = parser.parse_args()
 
 data_file = 'dist/vup-full-array.json'
-sort_key = 'followers'
-output_dir = 'tmp'
-items_limit = 300
+output_dir = args.dir
+sort_key = args.sort
+items_limit = args.limit
 
 # Counters for the summary
 counter_total = 0
