@@ -17,9 +17,9 @@ sorted_resp_vtbs = sorted(resp_vtbs, key=lambda item: item['mid'])
 vdb_dict = {}
 vup = {}
 vup_desc = {}
-vup_room = {}
-vup_slim = {}
 vup_full = {}
+vup_slim = {}
+vup_room = {}
 
 vup_arr = []
 vup_desc_arr = []
@@ -162,6 +162,9 @@ with open('dist/vup-array.json', 'w') as file:
 
 with open('dist/vup-desc-array.json', 'w') as file:
     file.write(json.dumps(vup_desc_arr, indent=2, ensure_ascii=False))
+
+with open('dist/vup-full-array.json', 'w') as file:
+    file.write(json.dumps(vup_full_arr, indent=2, ensure_ascii=False))
 
 with open('dist/vup-slim-array.json', 'w') as file:
     file.write(json.dumps(vup_slim_arr, indent=2, ensure_ascii=False))
