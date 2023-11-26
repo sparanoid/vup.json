@@ -45,6 +45,7 @@ for user in vtbs:
     if 'mid' in user:
         uid = user['mid']
         face_hash = urlparse(user['face']).path
+        group_name = ''
 
         if str(uid) in vdb_dict.keys():
             type = vdb_dict[str(uid)]['type']
