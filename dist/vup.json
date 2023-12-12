@@ -33250,10 +33250,10 @@
     "group_name": ""
   },
   "633970423": {
-    "name": "渡小度吖",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 27487992,
-    "face": "/bfs/face/030012aa910f1398be85e33ad1ed4f53fb9a3dbd.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "634324400": {
@@ -46714,7 +46714,7 @@
     "name": "就是苏饼饼",
     "type": "vtuber",
     "room": 25728866,
-    "face": "/bfs/face/ae2d7b7b6c6ae92150da7136de59fd31603c3d58.jpg",
+    "face": "/bfs/face/e1de5f15877600a6a3f6b200e2231ce2099b4fc0.jpg",
     "group_name": ""
   },
   "3461565661579670": {
