@@ -10891,6 +10891,13 @@
     "face": "/bfs/face/a5e683a3c16b6a4954c6419b0f2ff6030b015d69.jpg",
     "group_name": ""
   },
+  "10899888": {
+    "name": "未眠猫宁w",
+    "type": "vtuber",
+    "room_id": 3345156,
+    "face": "/bfs/face/ad893bdb7cfcc5c527d305e67804fed70e76444a.jpg",
+    "group_name": ""
+  },
   "10917289": {
     "name": "夜猫研究所",
     "type": "group",
@@ -19044,6 +19051,13 @@
     "type": "vtuber",
     "room_id": 21906659,
     "face": "/bfs/face/e2b2064204c6695dd6e5a878154e7b7d0e7776e3.jpg",
+    "group_name": ""
+  },
+  "96463116": {
+    "name": "童童狐丷",
+    "type": "vtuber",
+    "room_id": 3901039,
+    "face": "/bfs/face/dbcb6dda78c07836f7372e393fbe9ae4c440f897.jpg",
     "group_name": ""
   },
   "96975902": {
@@ -32742,7 +32756,7 @@
     "name": "诡猫猫_Neko16号半周年",
     "type": "vtuber",
     "room_id": 27794188,
-    "face": "/bfs/face/a5bff6d15f82e0aa189224de9969cbd1faed846a.jpg",
+    "face": "/bfs/face/cb701ce60b8ac6e390b094ae98c6cfb4ba03f868.jpg",
     "group_name": ""
   },
   "620049604": {
@@ -42083,6 +42097,13 @@
     "face": "/bfs/face/36d4d223b3dedc6a53181beadc948914b580933c.jpg",
     "group_name": ""
   },
+  "1694351351": {
+    "name": "向阳Hihi",
+    "type": "vtuber",
+    "room_id": 31368680,
+    "face": "/bfs/face/3db7f5a8b71f9ad1f64a979ad844bf81bac41b6c.jpg",
+    "group_name": "VirtuaReal"
+  },
   "1694610556": {
     "name": "伊索尔Sol",
     "type": "vtuber",
@@ -44981,6 +45002,13 @@
     "face": "/bfs/face/625feb662b81f2a9653b687f5dd6ef0a2e573025.jpg",
     "group_name": ""
   },
+  "1978590132": {
+    "name": "帕可Pako",
+    "type": "vtuber",
+    "room_id": 31368686,
+    "face": "/bfs/face/429acf777edd9bf07c5298fb797a845e13f017bd.jpg",
+    "group_name": "VirtuaReal"
+  },
   "1978636705": {
     "name": "王宝煲",
     "type": "vtuber",
@@ -45526,6 +45554,13 @@
     "room_id": 31174218,
     "face": "/bfs/face/e909f2b3323f2efabe1cc872ed3456e9ff4bdae8.jpg",
     "group_name": ""
+  },
+  "2039332008": {
+    "name": "雪烛Yukisyo",
+    "type": "vtuber",
+    "room_id": 31368697,
+    "face": "/bfs/face/e6aaf6c75d2cc0ce8df4977d66c7459ab7c1e498.jpg",
+    "group_name": "VirtuaReal"
   },
   "2041920071": {
     "name": "眠眠羊asleep",
@@ -46380,6 +46415,13 @@
     "room_id": 27293592,
     "face": "/bfs/face/3f0b6469289d117e10d4d12dde5dcf34f2f1f360.jpg",
     "group_name": ""
+  },
+  "2124647716": {
+    "name": "米汀Nagisa",
+    "type": "vtuber",
+    "room_id": 31368705,
+    "face": "/bfs/face/d4eaa0acad1071b2100cbcf74a67e947c90c4944.jpg",
+    "group_name": "VirtuaReal"
   },
   "2126081242": {
     "name": "猫邮社Owlpost",
@@ -47366,6 +47408,13 @@
     "type": "vtuber",
     "room_id": 30075959,
     "face": "/bfs/face/45cc520adbe610d369d4f9ee90f5e91b60bbadb0.jpg",
+    "group_name": ""
+  },
+  "3493075334727999": {
+    "name": "黛拉来啦",
+    "type": "vtuber",
+    "room_id": 26366840,
+    "face": "/bfs/face/24e4557fde2a3fffcab98ce6cacc097dca94d3a6.jpg",
     "group_name": ""
   },
   "3493075747867553": {
@@ -56354,6 +56403,13 @@
     "type": "vtuber",
     "room_id": 30319517,
     "face": "/bfs/face/6bfa71089f015c4baa73e8450d39e9b64de14c9f.jpg",
+    "group_name": ""
+  },
+  "3494377297020962": {
+    "name": "马哆Tramadol",
+    "type": "vtuber",
+    "room_id": 30507560,
+    "face": "/bfs/face/b4f85198c5f75b4a585c57643b00e0a0d56b4420.jpg",
     "group_name": ""
   },
   "3494377320089669": {
