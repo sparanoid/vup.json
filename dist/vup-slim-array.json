@@ -35049,13 +35049,6 @@
     "group_name": "Nature"
   },
   {
-    "uid": 701557713,
-    "name": "-------------_嗯",
-    "type": "vtuber",
-    "room": 26538333,
-    "group_name": ""
-  },
-  {
     "uid": 701582685,
     "name": "卜古Buqu",
     "type": "vtuber",
@@ -48349,6 +48342,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493104116041739,
+    "name": "羽可小奈",
+    "type": "vtuber",
+    "room": 26990269,
+    "group_name": ""
+  },
+  {
     "uid": 3493104516598670,
     "name": "茉莉Chaton",
     "type": "vtuber",
@@ -57173,6 +57173,13 @@
     "name": "blbibi123456789",
     "type": "vtuber",
     "room": 30776271,
+    "group_name": ""
+  },
+  {
+    "uid": 3546375935494445,
+    "name": "奶团fufu是钢板",
+    "type": "vtuber",
+    "room": 30756904,
     "group_name": ""
   },
   {
