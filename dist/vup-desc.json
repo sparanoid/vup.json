@@ -2412,7 +2412,7 @@
     "type": "vtuber",
     "room": 706374,
     "face": "/bfs/face/2d6d2c04f3a48de7cfff27c96eafdc2e582e0c9c.jpg",
-    "sign": "",
+    "sign": "404 no found",
     "group_name": ""
   },
   "574477": {
@@ -11100,7 +11100,7 @@
     "type": "vtuber",
     "room": 777581,
     "face": "/bfs/face/12857c6acdf5246e90a29510143ed4531925f14e.jpg",
-    "sign": "慢慢补说要做的东西，稳定一点了再回来吧",
+    "sign": "活了，但没完全活\n",
     "group_name": ""
   },
   "8307918": {
@@ -22848,11 +22848,11 @@
     "group_name": ""
   },
   "165809775": {
-    "name": "コーロンサス学園",
+    "name": "bilibili",
     "type": "group",
     "room": 4835057,
-    "face": "/bfs/face/6425f3a1cc72f0dd0320e29de97baa329fe3e90b.jpg",
-    "sign": "VTuber（虚拟Youtuber）事务所 【コーロンサス学園】官方帐号 合作请联系：861585446",
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "166751785": {
@@ -28155,8 +28155,8 @@
     "name": "散里ちり",
     "type": "vtuber",
     "room": 26136997,
-    "face": "/bfs/face/fcd76c01b096f15ee62867c304ecd65cde422d08.jpg",
-    "sign": "感觉自己染上了鲨鱼癖的里雅Riya",
+    "face": "/bfs/face/53cb2d96173e5a8297aa85c1088465e398b7cabb.jpg",
+    "sign": "我承认我确实有鲨鱼癖",
     "group_name": ""
   },
   "394189091": {
@@ -48512,7 +48512,7 @@
     "group_name": ""
   },
   "1731746796": {
-    "name": "愿YMr",
+    "name": "愿Ymir",
     "type": "vtuber",
     "room": 23751133,
     "face": "/bfs/face/bdc1c43b08a5e5aa540b6e5be0f9aba8f45700f3.jpg",
@@ -60144,7 +60144,7 @@
     "group_name": ""
   },
   "3493275604355261": {
-    "name": "雪薇澜Viola-澜澜困不困",
+    "name": "雪薇澜Viola",
     "type": "vtuber",
     "room": 27601533,
     "face": "/bfs/face/f5edec5520fa809caf624af8fd58361532f66650.jpg",
@@ -62819,7 +62819,7 @@
     "name": "褚酱酱酱酱",
     "type": "vtuber",
     "room": 27956773,
-    "face": "/bfs/face/9ddaf586880b5714d940d8f356867b56e4f1027f.jpg",
+    "face": "/bfs/face/b59a479af6d554536ae7347904181223d23586e7.jpg",
     "sign": "心向暖阳，逐光而行",
     "group_name": ""
   },
