@@ -36246,6 +36246,13 @@
     "group_name": "Croven教团"
   },
   {
+    "uid": 1113185260,
+    "name": "Alban_Official",
+    "type": "vtuber",
+    "room": 30922066,
+    "group_name": ""
+  },
+  {
     "uid": 1113326069,
     "name": "泪零Namida",
     "type": "vtuber",
@@ -37875,6 +37882,13 @@
     "type": "vtuber",
     "room": 23786670,
     "group_name": "LepusLive"
+  },
+  {
+    "uid": 1278419509,
+    "name": "Sonny_Official",
+    "type": "vtuber",
+    "room": 30922087,
+    "group_name": ""
   },
   {
     "uid": 1278608297,
@@ -39732,6 +39746,13 @@
     "group_name": ""
   },
   {
+    "uid": 1459301369,
+    "name": "Selen_Official",
+    "type": "vtuber",
+    "room": 31522089,
+    "group_name": "NIJISANJI EN"
+  },
+  {
     "uid": 1459446062,
     "name": "桃乃Peach",
     "type": "vtuber",
@@ -40268,6 +40289,13 @@
     "name": "莓酱不吃草莓包",
     "type": "vtuber",
     "room": 22631364,
+    "group_name": ""
+  },
+  {
+    "uid": 1512759879,
+    "name": "Uki_Official",
+    "type": "vtuber",
+    "room": 30922082,
     "group_name": ""
   },
   {
@@ -44027,6 +44055,13 @@
     "name": "墨玉今日算卦了没",
     "type": "vtuber",
     "room": 26426183,
+    "group_name": ""
+  },
+  {
+    "uid": 1885060547,
+    "name": "xKiichan",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {
@@ -56329,6 +56364,13 @@
     "group_name": ""
   },
   {
+    "uid": 3494375428459474,
+    "name": "蘇梨子_lizi",
+    "type": "vtuber",
+    "room": 30333731,
+    "group_name": ""
+  },
+  {
     "uid": 3494375615105219,
     "name": "奈塔尤Natayu",
     "type": "vtuber",
@@ -57293,5 +57335,12 @@
     "type": "vtuber",
     "room": 31023640,
     "group_name": ""
+  },
+  {
+    "uid": 3546571715119846,
+    "name": "猫宫心爱",
+    "type": "vtuber",
+    "room": 31399498,
+    "group_name": "极光社"
   }
 ]

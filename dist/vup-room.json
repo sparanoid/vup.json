@@ -36245,6 +36245,13 @@
     "face": "/bfs/face/b70f6e62e4582d4fa5d48d86047e64eb57d7504e.jpg",
     "group_name": "Croven教团"
   },
+  "1113185260": {
+    "name": "Alban_Official",
+    "type": "vtuber",
+    "room_id": 30922066,
+    "face": "/bfs/face/29baa152b1d4622260e5dcbc14e550a206bf1db5.jpg",
+    "group_name": ""
+  },
   "1113326069": {
     "name": "泪零Namida",
     "type": "vtuber",
@@ -37875,6 +37882,13 @@
     "room_id": 23786670,
     "face": "/bfs/face/bde183a4ade49741246c2c5cf4c704d3c3bba146.jpg",
     "group_name": "LepusLive"
+  },
+  "1278419509": {
+    "name": "Sonny_Official",
+    "type": "vtuber",
+    "room_id": 30922087,
+    "face": "/bfs/face/e2b7b5076d37888efa2f55268a0bddbcd27e2fa1.jpg",
+    "group_name": ""
   },
   "1278608297": {
     "name": "朽木永羽_KuchikiTowa",
@@ -39731,6 +39745,13 @@
     "face": "/bfs/face/bfb23c34ed6a784a068300e145b02cd5121bb178.jpg",
     "group_name": ""
   },
+  "1459301369": {
+    "name": "Selen_Official",
+    "type": "vtuber",
+    "room_id": 31522089,
+    "face": "/bfs/face/9fa86eb65dd2192a13b79fa7f1552b571aec7a45.jpg",
+    "group_name": "NIJISANJI EN"
+  },
   "1459446062": {
     "name": "桃乃Peach",
     "type": "vtuber",
@@ -40268,6 +40289,13 @@
     "type": "vtuber",
     "room_id": 22631364,
     "face": "/bfs/face/c792110385c805be1484ac516c68f9fd51aeae59.jpg",
+    "group_name": ""
+  },
+  "1512759879": {
+    "name": "Uki_Official",
+    "type": "vtuber",
+    "room_id": 30922082,
+    "face": "/bfs/face/7672cfd636f4c4592f43f71611ff864915ff50f9.jpg",
     "group_name": ""
   },
   "1512788587": {
@@ -44027,6 +44055,13 @@
     "type": "vtuber",
     "room_id": 26426183,
     "face": "/bfs/face/5814aa849cb0091cdb3cc9704205355cd26433d0.jpg",
+    "group_name": ""
+  },
+  "1885060547": {
+    "name": "xKiichan",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/31bceceb5acd4ac6f662c27ab0089f3ce1bb2bd5.jpg",
     "group_name": ""
   },
   "1885522479": {
@@ -48709,7 +48744,7 @@
     "name": "未时Wells",
     "type": "vtuber",
     "room_id": 26766064,
-    "face": "/bfs/face/410845b7e67e58525ec95f9e9cf85b1cc9bf5686.jpg",
+    "face": "/bfs/face/c4d8277dc5ab971d521cf9fb8c3561f36f1f0168.jpg",
     "group_name": ""
   },
   "3493113660181236": {
@@ -53539,7 +53574,7 @@
     "name": "林钡钡_翻唱少女",
     "type": "vtuber",
     "room_id": 27715360,
-    "face": "/bfs/face/08a36f87e11615fb5dd1f8b84349a7cd674c4dbc.jpg",
+    "face": "/bfs/face/559992479ce5ce5d868e88232cd098ccd027dd73.jpg",
     "group_name": ""
   },
   "3493288470383401": {
@@ -56328,6 +56363,13 @@
     "face": "/bfs/face/a548a467cab762d7c89d7bcbbf82f73fc34f3b0c.jpg",
     "group_name": ""
   },
+  "3494375428459474": {
+    "name": "蘇梨子_lizi",
+    "type": "vtuber",
+    "room_id": 30333731,
+    "face": "/bfs/face/0e2f97a001ffe375e8a823287799ff093ad69637.jpg",
+    "group_name": ""
+  },
   "3494375615105219": {
     "name": "奈塔尤Natayu",
     "type": "vtuber",
@@ -57293,5 +57335,12 @@
     "room_id": 31023640,
     "face": "/bfs/face/98bab3ca09a6591bbf273db2e87f685c807a600b.jpg",
     "group_name": ""
+  },
+  "3546571715119846": {
+    "name": "猫宫心爱",
+    "type": "vtuber",
+    "room_id": 31399498,
+    "face": "/bfs/face/624b479d74a23a1900bfdee81effa6e9c3f29a42.jpg",
+    "group_name": "极光社"
   }
 }
