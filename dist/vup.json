@@ -7248,7 +7248,7 @@
     "name": "橘喵大馍王",
     "type": "vtuber",
     "room": 6514875,
-    "face": "/bfs/face/c18dd24f0318ab029962b11163d71083fc0b8677.jpg",
+    "face": "/bfs/face/e7c0d3dad1b09628efba6ab992584c87ce861b3f.jpg",
     "group_name": ""
   },
   "4464548": {
@@ -25039,10 +25039,10 @@
     "group_name": ""
   },
   "399582503": {
-    "name": "cesirelive",
+    "name": "bilibili",
     "type": "group",
-    "room": 22658282,
-    "face": "/bfs/face/c3f0a84ef7193f53142a06f3ffcb56c60e949c8d.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "399592717": {
