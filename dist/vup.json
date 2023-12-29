@@ -2691,7 +2691,7 @@
     "name": "神咲乃希NOKi",
     "type": "vtuber",
     "room": 915110,
-    "face": "/bfs/face/78590fc2c862881b1936ceb02a0b1449b9746fcd.jpg",
+    "face": "/bfs/face/a1361eee0b20c5d8515f73bba305bd3065d4d4a5.jpg",
     "group_name": ""
   },
   "752015": {
@@ -10406,7 +10406,7 @@
     "type": "vtuber",
     "room": 2288529,
     "face": "/bfs/face/2204fb0039315199d8c3c49d463adf10ca21501b.jpg",
-    "group_name": "Neo Hertz"
+    "group_name": "P-SP"
   },
   "9733334": {
     "name": "阿祁纳",
@@ -12337,7 +12337,7 @@
     "name": "瑾瑾Hibana",
     "type": "vtuber",
     "room": 21609224,
-    "face": "/bfs/face/52de73fc856f7758bc731a95c02cf3beced0049b.jpg",
+    "face": "/bfs/face/5b0cd2a78cfcd23bc917c5af8cf36d377b7846a7.jpg",
     "group_name": ""
   },
   "13905358": {
@@ -21483,10 +21483,10 @@
     "group_name": ""
   },
   "277937815": {
-    "name": "宴清Lin",
+    "name": "宴清Snake",
     "type": "vtuber",
     "room": 12762146,
-    "face": "/bfs/face/5acdc3c24f63f0164a4b16d6125f328b56a88e65.jpg",
+    "face": "/bfs/face/3727b05919f0d27e7ab97eaf80ebd96475e8d078.jpg",
     "group_name": ""
   },
   "278093107": {
@@ -38406,7 +38406,7 @@
     "type": "vtuber",
     "room": 24872476,
     "face": "/bfs/face/08675c904cb264487aaf9e7faf9328a9f43f3ebc.jpg",
-    "group_name": ""
+    "group_name": "P-SP"
   },
   "1329702678": {
     "name": "凡节Fanjie",
@@ -43390,7 +43390,7 @@
     "type": "vtuber",
     "room": 26174302,
     "face": "/bfs/face/042f0e0a319bb38b194c2269fc005ff484dee455.jpg",
-    "group_name": ""
+    "group_name": "P-SP"
   },
   "1824597784": {
     "name": "米露提亚Official",
@@ -45339,10 +45339,10 @@
     "group_name": "光年神话"
   },
   "2006574783": {
-    "name": "維洛妮卡Veronica",
+    "name": "wdwqda",
     "type": "vtuber",
     "room": 25127423,
-    "face": "/bfs/face/bdf35e8d21bbf6de96662172044f812b61d09d75.jpg",
+    "face": "/bfs/face/9ff664ee658575eeaab02392fdcd9b20a45a8cc4.jpg",
     "group_name": ""
   },
   "2006845096": {
@@ -49521,7 +49521,7 @@
     "name": "AAA怪盗哈露Q",
     "type": "vtuber",
     "room": 27075904,
-    "face": "/bfs/face/e2b4f75a7a887bc016d0ea32e329a0361a991017.jpg",
+    "face": "/bfs/face/fe44f8ce5d06195518aca5c04147843f4cfff4c8.jpg",
     "group_name": ""
   },
   "3493129541912959": {
@@ -52542,10 +52542,10 @@
     "group_name": ""
   },
   "3493274423658598": {
-    "name": "啃小兔的腿腿",
+    "name": "晴宝儿ぃ",
     "type": "vtuber",
     "room": 27526904,
-    "face": "/bfs/face/1768cfeb1381bd5efee701e80fe3315ac83a31f6.jpg",
+    "face": "/bfs/face/d0586fb07a7f8df4b6e0225ad942b5b6cdc0c3f4.jpg",
     "group_name": ""
   },
   "3493274442533075": {
@@ -57362,6 +57362,20 @@
     "type": "vtuber",
     "room": 31023640,
     "face": "/bfs/face/98bab3ca09a6591bbf273db2e87f685c807a600b.jpg",
+    "group_name": ""
+  },
+  "3546569940929333": {
+    "name": "时月Luna",
+    "type": "vtuber",
+    "room": 31384107,
+    "face": "/bfs/face/b7935e02503e77e6f740d48d452b5595d0fadecb.jpg",
+    "group_name": ""
+  },
+  "3546569940929461": {
+    "name": "青诺Cyan",
+    "type": "vtuber",
+    "room": 31194271,
+    "face": "/bfs/face/421feab86f5fe1d1ed782656068c782300994726.jpg",
     "group_name": ""
   },
   "3546571715119846": {
