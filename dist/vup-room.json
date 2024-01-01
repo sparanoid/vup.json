@@ -6783,10 +6783,10 @@
     "group_name": "P-SP"
   },
   "3831010": {
-    "name": "未明_Jenay",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 2699753,
-    "face": "/bfs/face/3a6f9136c8973f5c2467cc5b96a7fe0d4b4bd787.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3841931": {
@@ -15340,7 +15340,7 @@
     "name": "鹿子kanoco",
     "type": "vtuber",
     "room_id": 360169,
-    "face": "/bfs/face/7fe153ed8b7977a48d6921fe200325dd2c46b730.jpg",
+    "face": "/bfs/face/f6123aeafcd17c22f082b58294c5006df644af62.jpg",
     "group_name": ""
   },
   "26613467": {
@@ -29375,7 +29375,7 @@
     "name": "奈奈莉娅Channel",
     "type": "vtuber",
     "room_id": 22301377,
-    "face": "/bfs/baselabs/5acf1ad8ddebe9503f7dd39f19c32193ffca35f0.png",
+    "face": "/bfs/face/6ab3800f4137e0cb9d961fd63a497c61f5404bd3.jpg",
     "group_name": ""
   },
   "489204004": {
@@ -37642,7 +37642,7 @@
     "name": "莉莉雅小姐提不起劲",
     "type": "vtuber",
     "room_id": 25364137,
-    "face": "/bfs/face/32c5b21b5db816d361ee03614308a484445e3170.jpg",
+    "face": "/bfs/face/a54acfd2f30d9dcffc4bbf332be6d9f78cf1f831.jpg",
     "group_name": ""
   },
   "1253510454": {
@@ -53767,7 +53767,7 @@
     "group_name": ""
   },
   "3493290691267121": {
-    "name": "莱斯_momo移星冠",
+    "name": "莱斯_momo大家冠",
     "type": "vtuber",
     "room_id": 27741965,
     "face": "/bfs/face/15c357c14efec13095241d58d0a2f3ecd61f21a0.jpg",
