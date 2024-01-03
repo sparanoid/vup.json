@@ -10787,6 +10787,12 @@
     "room": 3555974,
     "group_name": ""
   },
+  "14415684": {
+    "name": "万花知",
+    "type": "vtuber",
+    "room": 31015070,
+    "group_name": "北立交桥"
+  },
   "14427356": {
     "name": "波子ラムネ",
     "type": "vtuber",
@@ -16224,7 +16230,7 @@
     "group_name": ""
   },
   "92385195": {
-    "name": "KingH__1月1一周年啦",
+    "name": "KingH___",
     "type": "vtuber",
     "room": 26299559,
     "group_name": ""
@@ -17913,6 +17919,12 @@
     "name": "思林同学na",
     "type": "vtuber",
     "room": 30333008,
+    "group_name": ""
+  },
+  "241789873": {
+    "name": "月见NoNo",
+    "type": "vtuber",
+    "room": 27065572,
     "group_name": ""
   },
   "242067082": {
@@ -23973,6 +23985,12 @@
     "name": "寿寿歌_suzuka",
     "type": "vtuber",
     "room": 21664698,
+    "group_name": ""
+  },
+  "471322521": {
+    "name": "铃乃Chan",
+    "type": "vtuber",
+    "room": 30580940,
     "group_name": ""
   },
   "471346034": {
@@ -42089,6 +42107,12 @@
     "room": 26924998,
     "group_name": ""
   },
+  "3493119058250013": {
+    "name": "卡希娅Kirara",
+    "type": "vtuber",
+    "room": 26864993,
+    "group_name": "北立交桥"
+  },
   "3493119064542016": {
     "name": "希芙莉Sifly",
     "type": "vtuber",
@@ -46572,7 +46596,7 @@
     "group_name": ""
   },
   "3493297842555381": {
-    "name": "是Yuliya呀",
+    "name": "音音Desu",
     "type": "vtuber",
     "room": 27858051,
     "group_name": ""
@@ -48198,7 +48222,7 @@
     "group_name": ""
   },
   "3494371741665656": {
-    "name": "兔OK",
+    "name": "wusuvsgyywjwn",
     "type": "vtuber",
     "room": 30503170,
     "group_name": ""
@@ -48364,6 +48388,12 @@
     "type": "vtuber",
     "room": 30293077,
     "group_name": ""
+  },
+  "3494376720304276": {
+    "name": "左素梨Sasori",
+    "type": "vtuber",
+    "room": 30297492,
+    "group_name": "北立交桥"
   },
   "3494377049557569": {
     "name": "曦柚Meow",
@@ -48591,7 +48621,7 @@
     "name": "李鲸狸Zing",
     "type": "vtuber",
     "room": 30365606,
-    "group_name": ""
+    "group_name": "北立交桥"
   },
   "3494380547606559": {
     "name": "柚弥弥Yomi",
@@ -48712,6 +48742,12 @@
     "type": "vtuber",
     "room": 30439899,
     "group_name": ""
+  },
+  "3537108906019651": {
+    "name": "夕雁Yukari",
+    "type": "vtuber",
+    "room": 30941627,
+    "group_name": "北立交桥"
   },
   "3537108914408145": {
     "name": "小羚当",
@@ -49115,6 +49151,12 @@
     "room": 30799553,
     "group_name": ""
   },
+  "3546380966562309": {
+    "name": "李锦鲤lili",
+    "type": "vtuber",
+    "room": 30847197,
+    "group_name": "北立交桥"
+  },
   "3546381048350924": {
     "name": "晴人honey_",
     "type": "vtuber",
@@ -49139,6 +49181,18 @@
     "room": 30806486,
     "group_name": ""
   },
+  "3546383673985966": {
+    "name": "七海雪音yukine",
+    "type": "vtuber",
+    "room": 30814171,
+    "group_name": ""
+  },
+  "3546384571566162": {
+    "name": "夕月Yuutuki",
+    "type": "vtuber",
+    "room": 30828747,
+    "group_name": ""
+  },
   "3546385601268337": {
     "name": "花見弥雅_Mia",
     "type": "vtuber",
@@ -49157,11 +49211,17 @@
     "room": 31084456,
     "group_name": ""
   },
+  "3546392410721100": {
+    "name": "赵狮虎",
+    "type": "vtuber",
+    "room": 30999783,
+    "group_name": "北立交桥"
+  },
   "3546392779819713": {
     "name": "潞竹Liesel",
     "type": "vtuber",
     "room": 30973806,
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "3546558505159515": {
     "name": "狐栗LuLu",
