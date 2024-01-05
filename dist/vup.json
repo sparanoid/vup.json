@@ -22364,6 +22364,13 @@
     "face": "/bfs/face/09b0593658beafccee613e451533d8d68d9ce670.jpg",
     "group_name": ""
   },
+  "319625783": {
+    "name": "水原镜",
+    "type": "vtuber",
+    "room": 25325742,
+    "face": "/bfs/face/ce87fbdc40cf05416fbe0f9717d1be59abb25eab.jpg",
+    "group_name": ""
+  },
   "319810877": {
     "name": "星也seiya",
     "type": "vtuber",
@@ -57110,6 +57117,13 @@
     "type": "vtuber",
     "room": 30572148,
     "face": "/bfs/face/0b069477e234a48c621d3a3672b2bcb0a670d7c8.jpg",
+    "group_name": ""
+  },
+  "3537117839886340": {
+    "name": "鼬鼬_Yoriko",
+    "type": "vtuber",
+    "room": 30566933,
+    "face": "/bfs/face/0a32b154a7df2d910479ca1f6a84ebad75c77816.jpg",
     "group_name": ""
   },
   "3537117865052301": {
