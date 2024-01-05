@@ -1985,7 +1985,7 @@
   },
   {
     "uid": 490700,
-    "name": "夜色毁灭",
+    "name": "夜色壊滅",
     "type": "vtuber",
     "room": 40171,
     "face": "/bfs/face/e7e9ab300963c0453e9d1ead16112f2a806b82c8.jpg",
@@ -22748,7 +22748,7 @@
     "name": "希纳蒂亚",
     "type": "vtuber",
     "room": 4758413,
-    "face": "/bfs/face/4f0820dd21eed40bc03936e8022986d3ac1f2eef.jpg",
+    "face": "/bfs/face/1e43b711bb77a509aa8613778715d9fbaa636a9d.jpg",
     "group_name": ""
   },
   {
@@ -22836,7 +22836,7 @@
     "name": "花火Fafo",
     "type": "vtuber",
     "room": 22605333,
-    "face": "/bfs/face/38743824ec9ac4b2e04c5caa961db710a75c088b.jpg",
+    "face": "/bfs/face/e0a6ddc39668e5059c43267f5d6771b4afe92d96.jpg",
     "group_name": ""
   },
   {
@@ -23553,7 +23553,7 @@
   },
   {
     "uid": 206138346,
-    "name": "凛月雪音_Yukine",
+    "name": "诺月小白",
     "type": "vtuber",
     "room": 27442662,
     "face": "/bfs/face/8363dc346170ebb1b174bcdc7edbb31f7de4d1cf.jpg",
@@ -50705,10 +50705,10 @@
   },
   {
     "uid": 1913538007,
-    "name": "狛月",
+    "name": "bili_19797887666",
     "type": "vtuber",
     "room": 26916530,
-    "face": "/bfs/face/3e51dcb57118dae89460558a9002f34184b90965.jpg",
+    "face": "/bfs/face/ead159f5c689388fedee691b14ea6bc05b73493e.jpg",
     "group_name": ""
   },
   {
@@ -53932,7 +53932,7 @@
     "name": "桃仙仙_MoMo",
     "type": "vtuber",
     "room": 26163729,
-    "face": "/bfs/face/ab2a9ad0d60ee26525c8f5af48bd3bba42d1cc27.jpg",
+    "face": "/bfs/face/3eaeb9cf0b2e50fadbfae5b6bcd75c0099ac8090.jpg",
     "group_name": ""
   },
   {
@@ -57377,10 +57377,10 @@
   },
   {
     "uid": 3493137926326590,
-    "name": "bilibili",
+    "name": "mikary",
     "type": "vtuber",
     "room": 27258397,
-    "face": "/images/member/noface.gif",
+    "face": "/bfs/face/35c535469f6288dfdf785a9acc9fe93304956467.jpg",
     "group_name": ""
   },
   {
