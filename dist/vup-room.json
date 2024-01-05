@@ -6839,7 +6839,7 @@
     "group_name": ""
   },
   "3920056": {
-    "name": "雪野夜时音",
+    "name": "雪野夜时音_channel",
     "type": "vtuber",
     "room_id": 3184309,
     "face": "/bfs/face/29f58f0f40b3b21e2da1a47effe9f2eca039d2e3.jpg",
@@ -53004,7 +53004,7 @@
     "group_name": "ARP"
   },
   "3493279521835404": {
-    "name": "宁南希の本尊",
+    "name": "宁南希",
     "type": "vtuber",
     "room_id": 27697620,
     "face": "/bfs/face/ce8de1cd3fe85b9df17f09e998237fb45659bf08.jpg",
