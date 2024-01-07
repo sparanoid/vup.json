@@ -64897,10 +64897,10 @@
   },
   {
     "uid": 3537104992734066,
-    "name": "blibli-1259480",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 30513809,
-    "face": "/bfs/face/10a29fd834c5254139f5f5d69e369eee3dc416a6.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
