@@ -6832,10 +6832,10 @@
     "group_name": ""
   },
   "3900277": {
-    "name": "嘎嘎盐烧",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 23523251,
-    "face": "/bfs/face/37b5c69169ae2662ef3866f89aac30db3175f71a.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3920056": {
@@ -22564,7 +22564,7 @@
     "name": "HiyoriQuQ",
     "type": "vtuber",
     "room_id": 14409049,
-    "face": "/bfs/face/43e8986d698d5b5ce7b9598ca6dc1fd365223540.jpg",
+    "face": "/bfs/face/8360b868d5cfd474cc27491ee040156dd8653c9f.jpg",
     "group_name": "chaoslive"
   },
   "327369531": {
@@ -38104,7 +38104,7 @@
     "name": "奶味的芥末酱offical",
     "type": "vtuber",
     "room_id": 24509089,
-    "face": "/bfs/face/f714a7c7a485c1387b04c3d711d5f6df6b268929.jpg",
+    "face": "/bfs/face/3674112d837e321fd2bd4e052ab47d547bde4def.jpg",
     "group_name": ""
   },
   "1293142895": {
@@ -51800,10 +51800,10 @@
     "group_name": ""
   },
   "3493266557242037": {
-    "name": "咕噜小八",
+    "name": "遗弃小狗-",
     "type": "vtuber",
     "room_id": 27435745,
-    "face": "/bfs/face/d8b32ae3475a1a846bbdde0d9070fd281b55145f.jpg",
+    "face": "/bfs/face/507148ff7bc1fb3e741c8a01e7d2b717ca2fc131.jpg",
     "group_name": ""
   },
   "3493266777442498": {
@@ -54929,10 +54929,10 @@
     "group_name": ""
   },
   "3494354205280936": {
-    "name": "林也思_单推风酱",
+    "name": "林也思_风酱喵",
     "type": "vtuber",
     "room_id": 27940294,
-    "face": "/bfs/face/e42d47904fbd8417b2e123993d1184152106dac5.jpg",
+    "face": "/bfs/face/1d1fe300e7eaa1849bf60da8a6f369868799aed0.jpg",
     "group_name": ""
   },
   "3494354217863618": {
