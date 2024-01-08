@@ -26222,10 +26222,10 @@
     "group_name": "MZ次元"
   },
   "423443185": {
-    "name": "1261502315",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 21526783,
-    "face": "/bfs/face/f74fac900f2a415b6ecbb7160a56e854c5d5034d.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": "玹云社"
   },
   "423728837": {
@@ -40232,7 +40232,7 @@
     "name": "千咲月月Tsuki",
     "type": "vtuber",
     "room": 27686057,
-    "face": "/bfs/face/1dec9e276c9f32c94c9492688e4ca7a61d235681.jpg",
+    "face": "/bfs/face/50e4827266ed42aa1f99db4925ad537cf3966ad3.jpg",
     "group_name": ""
   },
   "1503520038": {

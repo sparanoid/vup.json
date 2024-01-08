@@ -5236,7 +5236,7 @@
     "type": "vtuber",
     "room": 1469089,
     "face": "/bfs/face/e96bd187f1e70b46944318f991ee96851db6af7e.jpg",
-    "sign": "已毕业。期待与你在未来再次相遇。",
+    "sign": "已毕业。\n我不甘心，再来一次。",
     "group_name": ""
   },
   "2046120": {
@@ -29968,11 +29968,11 @@
     "group_name": "MZ次元"
   },
   "423443185": {
-    "name": "1261502315",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 21526783,
-    "face": "/bfs/face/f74fac900f2a415b6ecbb7160a56e854c5d5034d.jpg",
-    "sign": "So Long, and Thanks for All the Fruits",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": "玹云社"
   },
   "423728837": {
@@ -45979,8 +45979,8 @@
     "name": "千咲月月Tsuki",
     "type": "vtuber",
     "room": 27686057,
-    "face": "/bfs/face/1dec9e276c9f32c94c9492688e4ca7a61d235681.jpg",
-    "sign": "小恶魔会在每个夜晚21:30出没捕获新鲜的人类 早上是她最乖巧的时刻",
+    "face": "/bfs/face/50e4827266ed42aa1f99db4925ad537cf3966ad3.jpg",
+    "sign": "小恶魔会在每个夜晚21:30出没捕获新鲜的人类 早上是她最乖巧的时刻?",
     "group_name": ""
   },
   "1503520038": {
