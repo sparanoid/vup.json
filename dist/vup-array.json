@@ -4051,7 +4051,7 @@
     "uid": 1479945,
     "name": "海栖深水",
     "type": "vtuber",
-    "room": 0,
+    "room": 25596,
     "face": "/bfs/face/ace887e1712e51ddf8e1e9d23f930a826d93785d.jpg",
     "group_name": ""
   },
@@ -5187,7 +5187,7 @@
     "uid": 2015365,
     "name": "观月怜",
     "type": "vtuber",
-    "room": 0,
+    "room": 36458,
     "face": "/bfs/face/86ec7ffb9e0e52db840f26746b533a41acc30e9c.jpg",
     "group_name": ""
   },
@@ -13947,7 +13947,7 @@
     "uid": 13496620,
     "name": "白凛初雪Yuki_",
     "type": "vtuber",
-    "room": 0,
+    "room": 6866948,
     "face": "/bfs/face/cb3ebf8ec511402e74939497e65d6f5753386a13.jpg",
     "group_name": ""
   },
@@ -15867,7 +15867,7 @@
     "uid": 19793760,
     "name": "甜悠",
     "type": "vtuber",
-    "room": 0,
+    "room": 1247459,
     "face": "/bfs/face/ad19d143f08a954a4f89e3137d8a677e0d43bc7b.jpg",
     "group_name": ""
   },
@@ -16388,7 +16388,7 @@
     "name": "幽灵车尔尼桑",
     "type": "vtuber",
     "room": 370468,
-    "face": "/bfs/face/0e2287af293f2fc316ac1cc0a7a0b938409f8b5d.jpg",
+    "face": "/bfs/face/75dccd208a89ba2a975d51fad009987337d0a164.jpg",
     "group_name": ""
   },
   {
@@ -20851,7 +20851,7 @@
     "uid": 73261640,
     "name": "易寒winter",
     "type": "vtuber",
-    "room": 0,
+    "room": 5480653,
     "face": "/bfs/face/cb0f27609ca700e6762802faf60039c8b9cfdc29.jpg",
     "group_name": ""
   },
@@ -35451,7 +35451,7 @@
     "uid": 524076304,
     "name": "瑞珀_ripper",
     "type": "vtuber",
-    "room": 0,
+    "room": 23371670,
     "face": "/bfs/face/e39bb70783a7375b9489520a58342a63fd17aea7.jpg",
     "group_name": ""
   },
@@ -40771,7 +40771,7 @@
     "uid": 1051422690,
     "name": "凰清音_Kouseion",
     "type": "vtuber",
-    "room": 0,
+    "room": 23057582,
     "face": "/bfs/face/1db7e2666614ea67e928fb31e487558d3160c94f.jpg",
     "group_name": ""
   },
@@ -51491,7 +51491,7 @@
     "uid": 1978590132,
     "name": "帕可Pako",
     "type": "vtuber",
-    "room": 0,
+    "room": 31368686,
     "face": "/bfs/face/429acf777edd9bf07c5298fb797a845e13f017bd.jpg",
     "group_name": "VirtuaReal"
   },
@@ -55923,7 +55923,7 @@
     "uid": 3493116891892638,
     "name": "诺梨Nori",
     "type": "vtuber",
-    "room": 0,
+    "room": 26841283,
     "face": "/bfs/face/8b674b8aa1b13c90162600a4968be3755cdaf733.jpg",
     "group_name": ""
   },
@@ -56283,7 +56283,7 @@
     "uid": 3493121608386843,
     "name": "雨洛是狼崽子",
     "type": "vtuber",
-    "room": 0,
+    "room": 27537371,
     "face": "/bfs/face/fd0ec7210c360b4cc843607dc00265f0a8335c19.jpg",
     "group_name": ""
   },
@@ -59699,7 +59699,7 @@
     "uid": 3493270879472339,
     "name": "月见梨花_Official",
     "type": "vtuber",
-    "room": 0,
+    "room": 27493336,
     "face": "/bfs/face/4906a4f3b4530bda5365dffe850c2100495f93f4.jpg",
     "group_name": ""
   },
@@ -61169,7 +61169,7 @@
   },
   {
     "uid": 3493286910101664,
-    "name": "奶枣小魔女",
+    "name": "奶枣儿Tsuki",
     "type": "vtuber",
     "room": 30179260,
     "face": "/bfs/face/88ba520b7eba4df313a907e500910e8dc0c20543.jpg",
@@ -62603,7 +62603,7 @@
     "uid": 3494353194453111,
     "name": "露莎尼尔",
     "type": "vtuber",
-    "room": 0,
+    "room": 30133585,
     "face": "/bfs/face/03f1f3acb8fb55609e17925e1016e1a0a441b896.jpg",
     "group_name": ""
   },
@@ -65035,7 +65035,7 @@
     "uid": 3537109338032819,
     "name": "缪可Milk喵",
     "type": "vtuber",
-    "room": 0,
+    "room": 30482412,
     "face": "/bfs/face/93f99e202bd71ed88f2113b4ade9f193359ace42.jpg",
     "group_name": ""
   },
@@ -65321,9 +65321,9 @@
   },
   {
     "uid": 3537119888804037,
-    "name": "Mis众游",
+    "name": "Miss众游",
     "type": "vtuber",
-    "room": 0,
+    "room": 30654658,
     "face": "/bfs/face/9f86d0224f1e004af1ad06a13902c9dad85f2125.jpg",
     "group_name": ""
   },
