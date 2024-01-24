@@ -2,6 +2,7 @@ import httpx
 import os
 import json
 import argparse
+from PIL import Image
 
 # Set up command line argument parsing
 parser = argparse.ArgumentParser(description='Download avatars from VUP data')
@@ -20,6 +21,16 @@ counter_total = 0
 counter_downloaded = 0
 counter_skipped = 0
 
+# Function to convert WebP to JPEG
+def convert_webp_to_jpeg(image_path):
+    if image_path.lower().endswith('.webp'):
+        img = Image.open(image_path).convert("RGB")
+        jpeg_path = image_path.rsplit('.', 1)[0] + '.jpg'
+        img.save(jpeg_path, 'jpeg')
+        os.remove(image_path)
+        return jpeg_path
+    return image_path
+
 # Download and save the avatar
 def download_image(url: str, folder: str, filename: str, obj):
     global counter_total, counter_downloaded, counter_skipped
@@ -32,6 +43,11 @@ def download_image(url: str, folder: str, filename: str, obj):
             print(f"{items_limit}/{counter_total + 1} Downloaded {filename} in {folder} ({sort_key}: {obj[sort_key]})")
             counter_total += 1
             counter_downloaded += 1
+
+            # Convert WebP to JPEG if needed
+            converted_path = convert_webp_to_jpeg(file_path)
+            if converted_path != file_path:
+                print(f"Converted {filename} in {folder} to JPEG")
         else:
             print(f"Failed to download {url}")
     else:
