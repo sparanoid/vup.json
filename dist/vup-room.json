@@ -4227,6 +4227,13 @@
     "face": "/bfs/face/44f90f324d7884e79f3a1e4f4171d6d3575c4294.jpg",
     "group_name": ""
   },
+  "1772434": {
+    "name": "暮思橙月",
+    "type": "vtuber",
+    "room_id": 22237,
+    "face": "/bfs/face/392db6921fb24d301b2f0d1ddb79de7152195349.jpg",
+    "group_name": ""
+  },
   "1780645": {
     "name": "粉黛乱子Capillaris",
     "type": "vtuber",
@@ -5904,7 +5911,7 @@
     "name": "花崎奈子w",
     "type": "vtuber",
     "room_id": 1804887,
-    "face": "/bfs/face/b1acbffcb192895336d90bddcf2d2ad4334daf79.jpg",
+    "face": "/bfs/face/25dc51bc190be2000c317c63ddaa2e582380bb27.jpg",
     "group_name": ""
   },
   "3034238": {
@@ -6947,7 +6954,7 @@
     "name": "扶桑大红花丶",
     "type": "vtuber",
     "room_id": 947866,
-    "face": "/bfs/face/36580a0d7a3a9df4aa438c154cf23034ecb62ab4.jpg",
+    "face": "/bfs/face/e591a32ed3233bf378051bb52712d1bb965fe3c8.jpg",
     "group_name": ""
   },
   "4011478": {
@@ -20041,7 +20048,7 @@
     "group_name": ""
   },
   "158636881": {
-    "name": "糸雨恋ShiURen",
+    "name": "糸雨恋",
     "type": "vtuber",
     "room_id": 4984404,
     "face": "/bfs/face/718d82b0698e552f1cd0577baf1542c531129cf1.jpg",
@@ -30467,7 +30474,7 @@
     "name": "桃宝Momoko",
     "type": "vtuber",
     "room_id": 24143549,
-    "face": "/bfs/face/647d50752adf64e02f2d7a6e2d988bf9f155e8af.jpg",
+    "face": "/bfs/face/73bd1a93123e0eb9fb5a4e1afb8f1c90b94fe378.jpg",
     "group_name": ""
   },
   "505638272": {
@@ -37411,7 +37418,7 @@
     "name": "桃音诗おん",
     "type": "vtuber",
     "room_id": 27256003,
-    "face": "/bfs/face/1cb606faf3391e6eb981e6b816e8e8bd9f347210.jpg",
+    "face": "/bfs/face/54c8ece33c68d58b53d3af45c5e5c7ddaaa56ef6.jpg",
     "group_name": ""
   },
   "1206793911": {
@@ -40904,7 +40911,7 @@
     "name": "纱箬sariel",
     "type": "vtuber",
     "room_id": 24160882,
-    "face": "/bfs/face/0d112e1e2dcb50e56bf31c1f2131c635f62377cf.jpg",
+    "face": "/bfs/face/2c2cc0c828a2a7d07221f6fe48702ba2652bbf6c.jpg",
     "group_name": ""
   },
   "1543881468": {
@@ -52920,7 +52927,7 @@
     "group_name": ""
   },
   "3493274266372344": {
-    "name": "炸虾gaga",
+    "name": "炸虾gaga-大力版",
     "type": "vtuber",
     "room_id": 27524975,
     "face": "/bfs/face/5c1393cad24a173dea15b51dc23054e26f990eee.jpg",
@@ -56938,7 +56945,7 @@
     "group_name": ""
   },
   "3494377395587810": {
-    "name": "贝vivi_1月31号半周年",
+    "name": "贝vv31号21点半周年",
     "type": "vtuber",
     "room_id": 30308794,
     "face": "/bfs/face/7e608761df48cbc8bc350a6b4533182c579f545a.jpg",
@@ -57155,10 +57162,10 @@
     "group_name": ""
   },
   "3494380291754556": {
-    "name": "小迷糊-23号生日会",
+    "name": "小迷糊-努力版",
     "type": "vtuber",
     "room_id": 30748018,
-    "face": "/bfs/face/63fef08870eeed2480855238bb598685babfa4a8.jpg",
+    "face": "/bfs/face/bf104f3fe52693e82cd4bfa0c54967c787ee4bc4.jpg",
     "group_name": ""
   },
   "3494380539218906": {
