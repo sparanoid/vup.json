@@ -16702,13 +16702,6 @@
     "group_name": ""
   },
   {
-    "uid": 36238913,
-    "name": "苏二零v",
-    "type": "vtuber",
-    "room": 3995542,
-    "group_name": ""
-  },
-  {
     "uid": 36265198,
     "name": "沐晓空Channel",
     "type": "vtuber",
@@ -21844,6 +21837,13 @@
     "name": "湛蓝是个小啾啾",
     "type": "vtuber",
     "room": 27787271,
+    "group_name": ""
+  },
+  {
+    "uid": 286313184,
+    "name": "野原小零ovo",
+    "type": "vtuber",
+    "room": 31480668,
     "group_name": ""
   },
   {
@@ -54331,6 +54331,13 @@
     "name": "奇奇哟ovo",
     "type": "vtuber",
     "room": 27783159,
+    "group_name": ""
+  },
+  {
+    "uid": 3493292184439656,
+    "name": "雲川蕾依ReiX",
+    "type": "vtuber",
+    "room": 27772370,
     "group_name": ""
   },
   {

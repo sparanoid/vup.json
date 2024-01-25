@@ -14476,7 +14476,7 @@
     "name": "礼弥Hisashi",
     "type": "vtuber",
     "room": 3566358,
-    "face": "/bfs/face/b7dad6c8d03b14ab39a14d43dfc73436bc296957.jpg",
+    "face": "/bfs/face/556ece6927748822357c532f7f85872120312616.jpg",
     "group_name": ""
   },
   {
@@ -19085,14 +19085,6 @@
     "type": "vtuber",
     "room": 21387511,
     "face": "/bfs/face/fad7332d888c53242c8dfa6ee063b9d1b8f0f3a7.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 36238913,
-    "name": "苏二零v",
-    "type": "vtuber",
-    "room": 3995542,
-    "face": "/bfs/face/7907f20f1cfc8aea891343bb83aef3d4c7a51649.jpg",
     "group_name": ""
   },
   {
@@ -24965,6 +24957,14 @@
     "type": "vtuber",
     "room": 27787271,
     "face": "/bfs/face/3bcc94078651a8027689652c05d1a7f079972d19.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 286313184,
+    "name": "野原小零ovo",
+    "type": "vtuber",
+    "room": 31480668,
+    "face": "/bfs/face/1d7e373abc67047d587c5ea8547f2b4234a340a3.jpg",
     "group_name": ""
   },
   {
@@ -62096,6 +62096,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493292184439656,
+    "name": "雲川蕾依ReiX",
+    "type": "vtuber",
+    "room": 27772370,
+    "face": "/bfs/face/a3f50f0dbd35c4aa7acd99242ba23533a397b2cb.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3493292299782900,
     "name": "吾乃夕昭大王是也_",
     "type": "vtuber",
@@ -64068,7 +64076,7 @@
     "name": "依奈喵na",
     "type": "vtuber",
     "room": 30178582,
-    "face": "/bfs/face/43979ae5210e8e5988fd1cd4eb33e16a79223a72.jpg",
+    "face": "/bfs/face/abfa3f328955df8d0082540cf681ffb56e9ce39c.jpg",
     "group_name": ""
   },
   {
