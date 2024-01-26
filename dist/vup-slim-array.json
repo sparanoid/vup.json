@@ -1806,6 +1806,13 @@
     "group_name": ""
   },
   {
+    "uid": 497072,
+    "name": "空调虎",
+    "type": "vtuber",
+    "room": 83219,
+    "group_name": ""
+  },
+  {
     "uid": 501280,
     "name": "克拉拉KiraraV",
     "type": "vtuber",
@@ -21574,6 +21581,13 @@
     "group_name": ""
   },
   {
+    "uid": 273231262,
+    "name": "潼小爷驾到",
+    "type": "vtuber",
+    "room": 26838036,
+    "group_name": ""
+  },
+  {
     "uid": 274025706,
     "name": "しみず磷-shimizulinn",
     "type": "vtuber",
@@ -21711,6 +21725,13 @@
     "name": "楚天明c",
     "type": "vtuber",
     "room": 21379697,
+    "group_name": ""
+  },
+  {
+    "uid": 281045826,
+    "name": "骁云Levin",
+    "type": "vtuber",
+    "room": 30859399,
     "group_name": ""
   },
   {
@@ -24266,6 +24287,13 @@
     "name": "邪神酱Channel",
     "type": "vtuber",
     "room": 14847697,
+    "group_name": ""
+  },
+  {
+    "uid": 384249546,
+    "name": "礼珀_LibRe",
+    "type": "vtuber",
+    "room": 26623082,
     "group_name": ""
   },
   {
@@ -28824,6 +28852,13 @@
     "type": "vtuber",
     "room": 21657501,
     "group_name": "夕映结社"
+  },
+  {
+    "uid": 477975723,
+    "name": "山海记行",
+    "type": "vtuber",
+    "room": 21680590,
+    "group_name": ""
   },
   {
     "uid": 478148524,
@@ -48622,6 +48657,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493092866919146,
+    "name": "苏小泡泡ovo",
+    "type": "vtuber",
+    "room": 30981250,
+    "group_name": ""
+  },
+  {
     "uid": 3493092927736560,
     "name": "姆可berry",
     "type": "vtuber",
@@ -49588,6 +49630,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493120943589465,
+    "name": "蕾欧可Leioke",
+    "type": "vtuber",
+    "room": 27298165,
+    "group_name": ""
+  },
+  {
     "uid": 3493121176373725,
     "name": "兔知知qiqi",
     "type": "vtuber",
@@ -49851,6 +49900,13 @@
     "name": "艾薇塔_Official",
     "type": "vtuber",
     "room": 27110266,
+    "group_name": ""
+  },
+  {
+    "uid": 3493126803032322,
+    "name": "萱萱卡娅kaya",
+    "type": "vtuber",
+    "room": 27007780,
     "group_name": ""
   },
   {
@@ -52164,6 +52220,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493266590795962,
+    "name": "禹恒之鸠9",
+    "type": "vtuber",
+    "room": 27479411,
+    "group_name": ""
+  },
+  {
     "uid": 3493266777442498,
     "name": "一只玉逐",
     "type": "vtuber",
@@ -54061,6 +54124,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493288866744562,
+    "name": "梅塔Meta",
+    "type": "vtuber",
+    "room": 27728141,
+    "group_name": ""
+  },
+  {
     "uid": 3493288868841856,
     "name": "Nana奈宝",
     "type": "vtuber",
@@ -54639,6 +54709,13 @@
     "name": "狸玥Liyue",
     "type": "vtuber",
     "room": 30186626,
+    "group_name": ""
+  },
+  {
+    "uid": 3493296148056641,
+    "name": "时寒商是颗大白菜",
+    "type": "vtuber",
+    "room": 31327110,
     "group_name": ""
   },
   {
@@ -57722,6 +57799,13 @@
     "group_name": ""
   },
   {
+    "uid": 3537122520730473,
+    "name": "芙芙蕾Uni",
+    "type": "vtuber",
+    "room": 30630488,
+    "group_name": ""
+  },
+  {
     "uid": 3537122671725406,
     "name": "勇敢兔纸",
     "type": "vtuber",
@@ -57939,6 +58023,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546387859900582,
+    "name": "茜茜狐Cissie",
+    "type": "vtuber",
+    "room": 30874770,
+    "group_name": ""
+  },
+  {
     "uid": 3546388086393300,
     "name": "竜宮蛍official",
     "type": "vtuber",
@@ -58002,6 +58093,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546555835485150,
+    "name": "夜明魔寻_Offical",
+    "type": "vtuber",
+    "room": 31053253,
+    "group_name": ""
+  },
+  {
     "uid": 3546556143766348,
     "name": "花梨kariny",
     "type": "vtuber",
@@ -58016,11 +58114,25 @@
     "group_name": ""
   },
   {
+    "uid": 3546558857480259,
+    "name": "梅尔Mael",
+    "type": "vtuber",
+    "room": 31026464,
+    "group_name": ""
+  },
+  {
     "uid": 3546563678833475,
     "name": "海娅Haia",
     "type": "vtuber",
     "room": 31209914,
     "group_name": "幻想社Fantas1A"
+  },
+  {
+    "uid": 3546569670396161,
+    "name": "林子苏official",
+    "type": "vtuber",
+    "room": 31198317,
+    "group_name": ""
   },
   {
     "uid": 3546569940929333,
