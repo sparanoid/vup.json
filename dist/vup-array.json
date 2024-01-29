@@ -2225,7 +2225,7 @@
   },
   {
     "uid": 524816,
-    "name": "海塩麻糬",
+    "name": "海塩もち",
     "type": "vtuber",
     "room": 622976,
     "face": "/bfs/face/c5e0e2135f66c1c10b5153f35e84a9ad9f75aea5.jpg",
@@ -22480,14 +22480,6 @@
     "group_name": ""
   },
   {
-    "uid": 110701727,
-    "name": "小草录播组",
-    "type": "vtuber",
-    "room": 23156988,
-    "face": "/bfs/face/e4d88317a904dd2927221ecd91d083e6a10da249.jpg",
-    "group_name": ""
-  },
-  {
     "uid": 110725714,
     "name": "LUNA_月老板",
     "type": "vtuber",
@@ -23766,6 +23758,14 @@
     "room": 9447325,
     "face": "/bfs/face/1671bd6727d3b1b0937d7a0541e3722ad27232e7.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 190100014,
+    "name": "梨蒴KiTsu_Official",
+    "type": "vtuber",
+    "room": 23420995,
+    "face": "/bfs/face/1a50ffd20db21ddaf24f78f2df66dfb44d331bf7.jpg",
+    "group_name": "VOISLIVE"
   },
   {
     "uid": 190959309,
@@ -26846,6 +26846,14 @@
     "room": 13009645,
     "face": "/bfs/face/member/noface.jpg",
     "group_name": "holostars"
+  },
+  {
+    "uid": 350687354,
+    "name": "湫月_Shuzuki",
+    "type": "vtuber",
+    "room": 27315317,
+    "face": "/bfs/face/e7c8f49f73673a456818081e3b20102af47e58a7.jpg",
+    "group_name": "星果屋"
   },
   {
     "uid": 350754158,
@@ -31992,6 +32000,14 @@
     "group_name": ""
   },
   {
+    "uid": 445704340,
+    "name": "您好_这里是希铜",
+    "type": "vtuber",
+    "room": 31011508,
+    "face": "/bfs/face/8f3fb78be72d25a0f84db6b5b0af1d9cc5697cb9.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 446409293,
     "name": "时音Official",
     "type": "vtuber",
@@ -33209,10 +33225,10 @@
   },
   {
     "uid": 477588252,
-    "name": "bili_898613",
+    "name": "伊万娜_Yvanne",
     "type": "vtuber",
     "room": 21679800,
-    "face": "/bfs/face/194fdccb1cb0cfb41a51931838359e38e438016f.jpg",
+    "face": "/bfs/face/9cd2b1d472cd5cada8f12dbbe6f65f2ccff966e9.jpg",
     "group_name": ""
   },
   {
@@ -34646,6 +34662,14 @@
     "room": 21990617,
     "face": "/bfs/face/781c24e2693b93b8d30dc0fb3b520f5be0033d09.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 495061433,
+    "name": "安柏琳Anberlyn",
+    "type": "vtuber",
+    "room": 25273636,
+    "face": "/bfs/face/1797d6b0f849c8485aeba81e33320b1983467677.jpg",
+    "group_name": "VOISLIVE"
   },
   {
     "uid": 495142225,
@@ -38720,6 +38744,14 @@
     "group_name": "云光计划"
   },
   {
+    "uid": 629880159,
+    "name": "维音_VIN",
+    "type": "vtuber",
+    "room": 24459357,
+    "face": "/bfs/face/007530966e5ff52e45d341a59f42b78ae9ff926c.jpg",
+    "group_name": "VOISLIVE"
+  },
+  {
     "uid": 630000721,
     "name": "深水怠Darara",
     "type": "vtuber",
@@ -39685,6 +39717,14 @@
     "type": "vtuber",
     "room": 24141469,
     "face": "/bfs/face/bfef1ebd36ee8862accc6db14435be8722373828.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 673893474,
+    "name": "时梦_Yume",
+    "type": "vtuber",
+    "room": 27494626,
+    "face": "/bfs/face/1c4b7074e3da8bafce0c1254804f8fbe997b9c8f.jpg",
     "group_name": ""
   },
   {
@@ -41349,6 +41389,14 @@
     "type": "vtuber",
     "room": 22927644,
     "face": "/bfs/face/b27e0367942ccd13dd3ada4fa118a94fd6adb48f.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1031516182,
+    "name": "VOISLIVE小管家",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/4ae13bfd307d7b855f81ddd5c654bd2f92bf8260.jpg",
     "group_name": ""
   },
   {
@@ -55072,6 +55120,14 @@
     "group_name": ""
   },
   {
+    "uid": 3461579307748278,
+    "name": "星果屋_Official",
+    "type": "group",
+    "room": 30562141,
+    "face": "/bfs/face/5aefeea2947184f06c5c81910a16d6b8db43cd92.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3461579418896666,
     "name": "如黎Dawn",
     "type": "vtuber",
@@ -59832,6 +59888,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493261872204618,
+    "name": "花海紫秋",
+    "type": "vtuber",
+    "room": 27582058,
+    "face": "/bfs/face/f9464c1b7b01c8b39f8e5bb47346c46f004f2f94.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3493261905758601,
     "name": "想想没肉吃丶",
     "type": "vtuber",
@@ -64054,6 +64118,14 @@
     "room": 27934265,
     "face": "/bfs/face/becd2ff77256201bf2682aad4762083838cd3769.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3494354075257653,
+    "name": "赫蔓Hermay",
+    "type": "vtuber",
+    "room": 30483372,
+    "face": "/bfs/face/fc0a93b6dcc89bc0eb4cea768dae3b1d2b713cde.jpg",
+    "group_name": "幻想社Fantas1A"
   },
   {
     "uid": 3494354089936927,

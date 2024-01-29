@@ -2224,11 +2224,11 @@
     "group_name": ""
   },
   "524816": {
-    "name": "海塩麻糬",
+    "name": "海塩もち",
     "type": "vtuber",
     "room": 622976,
     "face": "/bfs/face/c5e0e2135f66c1c10b5153f35e84a9ad9f75aea5.jpg",
-    "sign": "各平台同id",
+    "sign": "想食小海豹",
     "group_name": ""
   },
   "529249": {
@@ -2556,7 +2556,7 @@
     "type": "vtuber",
     "room": 21855763,
     "face": "/bfs/face/7ce0719ec09b81603ab413b5d2026ed4fa1409ec.jpg",
-    "sign": "清稿中",
+    "sign": "工坊没有上架就是不卖",
     "group_name": ""
   },
   "597223": {
@@ -22479,14 +22479,6 @@
     "sign": "新人游戏歌势杂谈陪伴Vup，每天下午晚上开播，感谢你的关注~",
     "group_name": ""
   },
-  "110701727": {
-    "name": "小草录播组",
-    "type": "vtuber",
-    "room": 23156988,
-    "face": "/bfs/face/e4d88317a904dd2927221ecd91d083e6a10da249.jpg",
-    "sign": "小草的切片man",
-    "group_name": ""
-  },
   "110725714": {
     "name": "LUNA_月老板",
     "type": "vtuber",
@@ -23766,6 +23758,14 @@
     "face": "/bfs/face/1671bd6727d3b1b0937d7a0541e3722ad27232e7.jpg",
     "sign": "做音乐，搞二创，整抽象活，动态刷屏，摆大烂。这个号你能看到这些东西。而且成分复杂，所以在哪看到我都不要意外。\n粉丝群：966279237",
     "group_name": ""
+  },
+  "190100014": {
+    "name": "梨蒴KiTsu_Official",
+    "type": "vtuber",
+    "room": 23420995,
+    "face": "/bfs/face/1a50ffd20db21ddaf24f78f2df66dfb44d331bf7.jpg",
+    "sign": "VOISLIVE所属一期生，香港vup，受苦系半吊子游戏半吊子歌势，不是艺术生，自学一体机，轻喷乐谱通道：531689279",
+    "group_name": "VOISLIVE"
   },
   "190959309": {
     "name": "神大人_v",
@@ -26846,6 +26846,14 @@
     "face": "/bfs/face/member/noface.jpg",
     "sign": "律可（Rikka）的非官方搬运站！\n※本账号已关闭视频收益化。",
     "group_name": "holostars"
+  },
+  "350687354": {
+    "name": "湫月_Shuzuki",
+    "type": "vtuber",
+    "room": 27315317,
+    "face": "/bfs/face/e7c8f49f73673a456818081e3b20102af47e58a7.jpg",
+    "sign": "星果屋一期生所属成员。努力学习的预备役偶像，堂堂在逃小兔仙- ̗̀ꪔ̤̥ ̖́-商务：starcandy_official@qq.com",
+    "group_name": "星果屋"
   },
   "350754158": {
     "name": "胜意uncle",
@@ -31991,6 +31999,14 @@
     "sign": "某不知名虚假天使，直播时间：周一三五七晚上10点～12点，主杂谈～\n做好自己就很完美了～✨",
     "group_name": ""
   },
+  "445704340": {
+    "name": "您好_这里是希铜",
+    "type": "vtuber",
+    "room": 31011508,
+    "face": "/bfs/face/8f3fb78be72d25a0f84db6b5b0af1d9cc5697cb9.jpg",
+    "sign": "很安静，是以学识为食的神使，因为社恐所以决定变成猫猫",
+    "group_name": ""
+  },
   "446409293": {
     "name": "时音Official",
     "type": "vtuber",
@@ -33208,11 +33224,11 @@
     "group_name": ""
   },
   "477588252": {
-    "name": "bili_898613",
+    "name": "伊万娜_Yvanne",
     "type": "vtuber",
     "room": 21679800,
-    "face": "/bfs/face/194fdccb1cb0cfb41a51931838359e38e438016f.jpg",
-    "sign": "",
+    "face": "/bfs/face/9cd2b1d472cd5cada8f12dbbe6f65f2ccff966e9.jpg",
+    "sign": "个人势吸血鬼！主播各类单机游戏！感谢喜欢！不加工会！",
     "group_name": ""
   },
   "477597410": {
@@ -34646,6 +34662,14 @@
     "face": "/bfs/face/781c24e2693b93b8d30dc0fb3b520f5be0033d09.jpg",
     "sign": "梦想是天天开心喵",
     "group_name": ""
+  },
+  "495061433": {
+    "name": "安柏琳Anberlyn",
+    "type": "vtuber",
+    "room": 25273636,
+    "face": "/bfs/face/1797d6b0f849c8485aeba81e33320b1983467677.jpg",
+    "sign": "VOISLIVE一期生安柏琳，是个保安队队长兼女剑客～整活歌势在此（｀Δ´）！保安队地址：765184442",
+    "group_name": "VOISLIVE"
   },
   "495142225": {
     "name": "怡妹喝可乐",
@@ -38719,6 +38743,14 @@
     "sign": "希望你好运鸭",
     "group_name": "云光计划"
   },
+  "629880159": {
+    "name": "维音_VIN",
+    "type": "vtuber",
+    "room": 24459357,
+    "face": "/bfs/face/007530966e5ff52e45d341a59f42b78ae9ff926c.jpg",
+    "sign": "VOISLIVE所属一期生～可爱游戏势～欢迎各位地球人的到来！VINVIN很妙屋：652117480",
+    "group_name": "VOISLIVE"
+  },
   "630000721": {
     "name": "深水怠Darara",
     "type": "vtuber",
@@ -39685,6 +39717,14 @@
     "room": 24141469,
     "face": "/bfs/face/bfef1ebd36ee8862accc6db14435be8722373828.jpg",
     "sign": "希望每一个明天都可以见到你∶D",
+    "group_name": ""
+  },
+  "673893474": {
+    "name": "时梦_Yume",
+    "type": "vtuber",
+    "room": 27494626,
+    "face": "/bfs/face/1c4b7074e3da8bafce0c1254804f8fbe997b9c8f.jpg",
+    "sign": "全职图书管理员\n正在努力变得更好！（指努力学会PS…）\n每天都会直播的！（切片什么的仍在努力…）",
     "group_name": ""
   },
   "673953420": {
@@ -41349,6 +41389,14 @@
     "room": 22927644,
     "face": "/bfs/face/b27e0367942ccd13dd3ada4fa118a94fd6adb48f.jpg",
     "sign": "是小鹿德 不是狍子",
+    "group_name": ""
+  },
+  "1031516182": {
+    "name": "VOISLIVE小管家",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/4ae13bfd307d7b855f81ddd5c654bd2f92bf8260.jpg",
+    "sign": " VOISLIVE官方账号 | 商务联系：contact@voislive.com",
     "group_name": ""
   },
   "1033698887": {
@@ -50900,7 +50948,7 @@
     "type": "vtuber",
     "room": 24047902,
     "face": "/bfs/face/0c7d37d1634ca8c78ebd1999d04338d8f25e7dd5.jpg",
-    "sign": "喜欢唱歌打游戏✨唱见✨已停止活动",
+    "sign": "喜欢唱歌打游戏✨唱见✨珑睡着了嗷！目前已停止活动",
     "group_name": ""
   },
   "1849519124": {
@@ -55069,6 +55117,14 @@
     "room": 26257851,
     "face": "/bfs/face/ed93db85f8cc47139ec21bb57ddbfff02c5b71fa.jpg",
     "sign": "习惯孤独但也期待与你相遇\n录播号：虎鲸活动观察记录员",
+    "group_name": ""
+  },
+  "3461579307748278": {
+    "name": "星果屋_Official",
+    "type": "group",
+    "room": 30562141,
+    "face": "/bfs/face/5aefeea2947184f06c5c81910a16d6b8db43cd92.jpg",
+    "sign": "星果屋社团官方账号。梦想的味道一定是StarCandy！邮箱：starcandy_official@qq.com",
     "group_name": ""
   },
   "3461579418896666": {
@@ -59831,6 +59887,14 @@
     "sign": "",
     "group_name": ""
   },
+  "3493261872204618": {
+    "name": "花海紫秋",
+    "type": "vtuber",
+    "room": 27582058,
+    "face": "/bfs/face/f9464c1b7b01c8b39f8e5bb47346c46f004f2f94.jpg",
+    "sign": "为了支撑濒临倒闭的教堂，与恶魔签订了契约，来到了异世界，练习生修女啊！在赚到50w之前先努力在这危险的异世界活下来吧！",
+    "group_name": ""
+  },
   "3493261905758601": {
     "name": "想想没肉吃丶",
     "type": "vtuber",
@@ -64054,6 +64118,14 @@
     "face": "/bfs/face/becd2ff77256201bf2682aad4762083838cd3769.jpg",
     "sign": "韵光大陆的守护神，来自阿尔瓦娜山。用魔法和歌声守护你，直播时间：晚上19：00-22：00，早上7点-我累了(每周一休息)",
     "group_name": ""
+  },
+  "3494354075257653": {
+    "name": "赫蔓Hermay",
+    "type": "vtuber",
+    "room": 30483372,
+    "face": "/bfs/face/fc0a93b6dcc89bc0eb4cea768dae3b1d2b713cde.jpg",
+    "sign": "幻想社Fantas1A POP组成员❣️你可以叫我大小姐或者...姐姐？❣️现役声优/社畜修行中...\n“我想 灵魂是朵难养的花”",
+    "group_name": "幻想社Fantas1A"
   },
   "3494354089936927": {
     "name": "莉莉娅Lillia_",

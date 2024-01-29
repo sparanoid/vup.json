@@ -1668,7 +1668,7 @@
     "group_name": ""
   },
   "524816": {
-    "name": "海塩麻糬",
+    "name": "海塩もち",
     "type": "vtuber",
     "room": 622976,
     "group_name": ""
@@ -16859,12 +16859,6 @@
     "room": 30156569,
     "group_name": ""
   },
-  "110701727": {
-    "name": "小草录播组",
-    "type": "vtuber",
-    "room": 23156988,
-    "group_name": ""
-  },
   "110725714": {
     "name": "LUNA_月老板",
     "type": "vtuber",
@@ -17824,6 +17818,12 @@
     "type": "vtuber",
     "room": 9447325,
     "group_name": ""
+  },
+  "190100014": {
+    "name": "梨蒴KiTsu_Official",
+    "type": "vtuber",
+    "room": 23420995,
+    "group_name": "VOISLIVE"
   },
   "190959309": {
     "name": "神大人_v",
@@ -20134,6 +20134,12 @@
     "type": "vtuber",
     "room": 13009645,
     "group_name": "holostars"
+  },
+  "350687354": {
+    "name": "湫月_Shuzuki",
+    "type": "vtuber",
+    "room": 27315317,
+    "group_name": "星果屋"
   },
   "350754158": {
     "name": "胜意uncle",
@@ -23993,6 +23999,12 @@
     "room": 26050183,
     "group_name": ""
   },
+  "445704340": {
+    "name": "您好_这里是希铜",
+    "type": "vtuber",
+    "room": 31011508,
+    "group_name": ""
+  },
   "446409293": {
     "name": "时音Official",
     "type": "vtuber",
@@ -24906,7 +24918,7 @@
     "group_name": ""
   },
   "477588252": {
-    "name": "bili_898613",
+    "name": "伊万娜_Yvanne",
     "type": "vtuber",
     "room": 21679800,
     "group_name": ""
@@ -25984,6 +25996,12 @@
     "type": "vtuber",
     "room": 21990617,
     "group_name": ""
+  },
+  "495061433": {
+    "name": "安柏琳Anberlyn",
+    "type": "vtuber",
+    "room": 25273636,
+    "group_name": "VOISLIVE"
   },
   "495142225": {
     "name": "怡妹喝可乐",
@@ -29039,6 +29057,12 @@
     "room": 23998995,
     "group_name": "云光计划"
   },
+  "629880159": {
+    "name": "维音_VIN",
+    "type": "vtuber",
+    "room": 24459357,
+    "group_name": "VOISLIVE"
+  },
   "630000721": {
     "name": "深水怠Darara",
     "type": "vtuber",
@@ -29763,6 +29787,12 @@
     "name": "奶凶崽",
     "type": "vtuber",
     "room": 24141469,
+    "group_name": ""
+  },
+  "673893474": {
+    "name": "时梦_Yume",
+    "type": "vtuber",
+    "room": 27494626,
     "group_name": ""
   },
   "673953420": {
@@ -31011,6 +31041,12 @@
     "name": "瞳瞳要好好学炉石",
     "type": "vtuber",
     "room": 22927644,
+    "group_name": ""
+  },
+  "1031516182": {
+    "name": "VOISLIVE小管家",
+    "type": "group",
+    "room": 0,
     "group_name": ""
   },
   "1033698887": {
@@ -41303,6 +41339,12 @@
     "room": 26257851,
     "group_name": ""
   },
+  "3461579307748278": {
+    "name": "星果屋_Official",
+    "type": "group",
+    "room": 30562141,
+    "group_name": ""
+  },
   "3461579418896666": {
     "name": "如黎Dawn",
     "type": "vtuber",
@@ -44873,6 +44915,12 @@
     "room": 27660653,
     "group_name": ""
   },
+  "3493261872204618": {
+    "name": "花海紫秋",
+    "type": "vtuber",
+    "room": 27582058,
+    "group_name": ""
+  },
   "3493261905758601": {
     "name": "想想没肉吃丶",
     "type": "vtuber",
@@ -48040,6 +48088,12 @@
     "type": "vtuber",
     "room": 27934265,
     "group_name": ""
+  },
+  "3494354075257653": {
+    "name": "赫蔓Hermay",
+    "type": "vtuber",
+    "room": 30483372,
+    "group_name": "幻想社Fantas1A"
   },
   "3494354089936927": {
     "name": "莉莉娅Lillia_",
