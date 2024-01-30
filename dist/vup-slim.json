@@ -1277,6 +1277,12 @@
     "room": 292397,
     "group_name": ""
   },
+  "426455": {
+    "name": "kuu_玖",
+    "type": "vtuber",
+    "room": 1084180,
+    "group_name": ""
+  },
   "428523": {
     "name": "星至Channel",
     "type": "vtuber",
@@ -38062,6 +38068,12 @@
     "type": "vtuber",
     "room": 26174302,
     "group_name": "P-SP"
+  },
+  "1823708744": {
+    "name": "EdelEckerd",
+    "type": "vtuber",
+    "room": 26137489,
+    "group_name": ""
   },
   "1824597784": {
     "name": "米露提亚Official",

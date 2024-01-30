@@ -1490,6 +1490,13 @@
     "face": "/bfs/face/f4e680866900239bb49bacc813b8fa6b1b316404.jpg",
     "group_name": ""
   },
+  "426455": {
+    "name": "kuu_玖",
+    "type": "vtuber",
+    "room": 1084180,
+    "face": "/bfs/face/8e7fb24b8122fabc3ddf7ea14ed099e817fbb778.jpg",
+    "group_name": ""
+  },
   "428523": {
     "name": "星至Channel",
     "type": "vtuber",
@@ -44406,6 +44413,13 @@
     "room": 26174302,
     "face": "/bfs/face/042f0e0a319bb38b194c2269fc005ff484dee455.jpg",
     "group_name": "P-SP"
+  },
+  "1823708744": {
+    "name": "EdelEckerd",
+    "type": "vtuber",
+    "room": 26137489,
+    "face": "/bfs/face/84f021a198467138aa1b69ac68e4c7a7f06633ce.jpg",
+    "group_name": ""
   },
   "1824597784": {
     "name": "米露提亚Official",
