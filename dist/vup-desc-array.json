@@ -9612,6 +9612,15 @@
     "group_name": "Vi-D"
   },
   {
+    "uid": 4626079,
+    "name": "汤圆Azuki",
+    "type": "vtuber",
+    "room": 779605,
+    "face": "/bfs/face/cad820bb877af7f003b34360d2baf9859ed389bb.jpg",
+    "sign": "这里汤圆 是男孩子 未出道个人势 社恐阴角 很会尬聊 特别怕生真君【画师妈咪：桃九Yuk】【看板娘小豆休假中】",
+    "group_name": ""
+  },
+  {
     "uid": 4637750,
     "name": "星尘_StardustSAMA",
     "type": "vtuber",
@@ -26091,6 +26100,15 @@
     "group_name": ""
   },
   {
+    "uid": 161082853,
+    "name": "盖娜_Kaena",
+    "type": "vtuber",
+    "room": 4774552,
+    "face": "/bfs/face/41ca10828be615b9b816a90f95624b7e23628db3.jpg",
+    "sign": "松伏培训中心一期生   ",
+    "group_name": ""
+  },
+  {
     "uid": 161287332,
     "name": "笨天Betya",
     "type": "vtuber",
@@ -36198,6 +36216,15 @@
     "group_name": ""
   },
   {
+    "uid": 452267322,
+    "name": "酉星YoKi",
+    "type": "vtuber",
+    "room": 30991508,
+    "face": "/bfs/face/8db98cdec9a4f1c9741638e1e680b9c54866fc18.jpg",
+    "sign": "谢谢大家的喜欢和关注，么么哒～\n>>\n直播时间：周二～周六晚上19:00～21:00，周一固定休息，其他时间随机播",
+    "group_name": ""
+  },
+  {
     "uid": 452269468,
     "name": "猫又泊舞舞舞",
     "type": "vtuber",
@@ -36888,6 +36915,15 @@
     "room": 22553112,
     "face": "/bfs/face/b66a673d43e605b63375b1aea0d8ed2bfefb55b7.jpg",
     "sign": "个人势！是龙女公主！每天都在放飞自我！",
+    "group_name": ""
+  },
+  {
+    "uid": 472394978,
+    "name": "请叫我睡不醒小姐",
+    "type": "vtuber",
+    "room": 27596183,
+    "face": "/bfs/face/f5d3d8a5a6eabe7efdd3e906c4d1b34d55387c5e.jpg",
+    "sign": "个人势vup 直播不定时（随心而动）\n 会偷懒 下雨天有睡觉加成",
     "group_name": ""
   },
   {
@@ -44514,6 +44550,15 @@
     "group_name": "NEBULA"
   },
   {
+    "uid": 669045252,
+    "name": "竹已Take",
+    "type": "vtuber",
+    "room": 25855019,
+    "face": "/bfs/face/6620919ad6e107fc9dae9908f0ca110f893c0291.jpg",
+    "sign": "她很日常",
+    "group_name": ""
+  },
+  {
     "uid": 669216819,
     "name": "春璃_Official",
     "type": "vtuber",
@@ -50598,15 +50643,6 @@
     "group_name": ""
   },
   {
-    "uid": 1343252680,
-    "name": "竹已Take_",
-    "type": "vtuber",
-    "room": 23582081,
-    "face": "/bfs/face/a8a7c08c21a563eea25bddb1bcc6eba3bb7f3358.jpg",
-    "sign": "停用",
-    "group_name": ""
-  },
-  {
     "uid": 1344156657,
     "name": "喃喃多自语EIHEI",
     "type": "vtuber",
@@ -52035,6 +52071,15 @@
     "room": 23565787,
     "face": "/bfs/face/e9f6ab5edb11102810047b879bc3b61ef7c26038.jpg",
     "sign": "这里是社死系vup柒洛伊_chiroi 粉丝群：1015558016 一只喜欢胡萝卜的狮子！（不是仓鼠！）能关注我吗",
+    "group_name": ""
+  },
+  {
+    "uid": 1441907027,
+    "name": "小酷超酷的啊啊tt",
+    "type": "vtuber",
+    "room": 23000566,
+    "face": "/bfs/face/d397be05057ba55be98a1171981a7b4814ef1f12.jpg",
+    "sign": "底边小v（社恐话痨+行走的人间记录仪 \n不定期分享自己的卑鄙和坦荡\n直播时间 内容 时长都不固定\n如果你碰巧看到我 那就是上天注定啦",
     "group_name": ""
   },
   {
@@ -58329,6 +58374,15 @@
     "group_name": "ColorLink"
   },
   {
+    "uid": 1927123534,
+    "name": "大沼凛音Rinne",
+    "type": "vtuber",
+    "room": 22831246,
+    "face": "/bfs/face/f6f06507321f8fd772abf44d47b2f04ed794aa95.jpg",
+    "sign": "恶犬系中二少女，为了保护自己而伪装成不良，粉色头发是假发片，但不知为何会自己动。",
+    "group_name": ""
+  },
+  {
     "uid": 1927279531,
     "name": "浅川玉乃",
     "type": "vtuber",
@@ -63963,6 +64017,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493112208951438,
+    "name": "尤野uu",
+    "type": "vtuber",
+    "room": 26919590,
+    "face": "/bfs/face/c712c86be96bbadac8e51c2ac1c48ac9f48c79fb.jpg",
+    "sign": "不善言辞  没有才华  只能跟音乐凑合过一辈了",
+    "group_name": ""
+  },
+  {
     "uid": 3493112464804397,
     "name": "Alvle猫狐直播",
     "type": "vtuber",
@@ -64305,6 +64368,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493117525232492,
+    "name": "犬飼御理Gori",
+    "type": "vtuber",
+    "room": 26838261,
+    "face": "/bfs/face/2d5b93e1ab92e03ba21279be9c118d04d334a6a0.jpg",
+    "sign": "✟请不要离开我✟郁理团粉丝群657800197 ✟禁言通知群185187447 ✟",
+    "group_name": ""
+  },
+  {
     "uid": 3493117711878507,
     "name": "花吟浅兮_LuLu",
     "type": "vtuber",
@@ -64365,6 +64437,15 @@
     "room": 27061249,
     "face": "/bfs/face/e8a1dda18ab3243967bef228b1aa044309b6e2ec.jpg",
     "sign": "生与死，风与雨，你与我。聆听时间20：00-23：00。灵魂储藏间：346868891，欢迎入住。黄泉路上无驿站，不如在此休息片刻。",
+    "group_name": ""
+  },
+  {
+    "uid": 3493118311663693,
+    "name": "白白_dove",
+    "type": "vtuber",
+    "room": 27003519,
+    "face": "/bfs/face/69c166bb2c9f1263a203adf3df3c73ce9100b608.jpg",
+    "sign": "努力成为一只唱歌好听的百灵鸽",
     "group_name": ""
   },
   {
@@ -72027,6 +72108,15 @@
     "group_name": ""
   },
   {
+    "uid": 3494352324135482,
+    "name": "球椿椿Tsubaki",
+    "type": "vtuber",
+    "room": 30027312,
+    "face": "/bfs/face/38a6267b98916d7ba58d0acebc3a17932505ed3d.jpg",
+    "sign": "给自己一百次机会",
+    "group_name": ""
+  },
+  {
     "uid": 3494352632416648,
     "name": "奶布_nibu",
     "type": "vtuber",
@@ -75555,6 +75645,15 @@
     "group_name": ""
   },
   {
+    "uid": 3537116826962211,
+    "name": "维柯Vico",
+    "type": "vtuber",
+    "room": 30915350,
+    "face": "/bfs/face/43f9f8a4652cde001e2db101b7db14e6bc2d6d1f.jpg",
+    "sign": "是未来的大欺诈师呢",
+    "group_name": ""
+  },
+  {
     "uid": 3537116898265371,
     "name": "小绿要吃饭",
     "type": "vtuber",
@@ -76050,6 +76149,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546379253189348,
+    "name": "莉莉安Lily_Official",
+    "type": "vtuber",
+    "room": 30751080,
+    "face": "/bfs/face/482b5116fc8927f23e182f8da56164e63c114f52.jpg",
+    "sign": "固定22:00出没，单口相声&歌势·来自地狱的恶魔吉他手小牛，超级无敌努力家！\n<EDEN所属>录播@莉莉安格斯烹饪中心",
+    "group_name": ""
+  },
+  {
     "uid": 3546379309812228,
     "name": "空空酱koko",
     "type": "vtuber",
@@ -76329,6 +76437,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546389967538691,
+    "name": "酱酱桃姬_Official",
+    "type": "vtuber",
+    "room": 30905083,
+    "face": "/bfs/face/dd223bd6869374caa04754c69b11e8bfdfcbea16.jpg",
+    "sign": "ღ我们都会好好的ღ",
+    "group_name": ""
+  },
+  {
     "uid": 3546391341173032,
     "name": "餅村尾丸omaru",
     "type": "vtuber",
@@ -76434,6 +76551,24 @@
     "room": 31026464,
     "face": "/bfs/face/7521d415ae39b4af3a5f40da766be9739c37bbc5.jpg",
     "sign": "欢迎入梦，我是您的梦境调查员，梅尔Mael。直播通知群：941257899；录播号：梦境调查员记录所",
+    "group_name": ""
+  },
+  {
+    "uid": 3546560390499047,
+    "name": "夏米范",
+    "type": "vtuber",
+    "room": 31052594,
+    "face": "/bfs/face/a22846d74756b23bcfd2a15b41aeecadd73a2e70.jpg",
+    "sign": "个外星人势，极地宅女炼金术师，整点爵士放克R&B，潮流ping值落后于大版本约20载 ｜茶水间：865870196",
+    "group_name": ""
+  },
+  {
+    "uid": 3546563076950921,
+    "name": "星夜hikari",
+    "type": "vtuber",
+    "room": 31121301,
+    "face": "/bfs/face/96e304031e072d68fb9a9582d53f52d843864734.jpg",
+    "sign": "深夜杂谈小天使ʚ✞ɞ初次见面✧请多关照 直播时间00:30-2:30",
     "group_name": ""
   },
   {
