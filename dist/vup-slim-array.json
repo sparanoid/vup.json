@@ -1624,13 +1624,6 @@
     "group_name": ""
   },
   {
-    "uid": 454726,
-    "name": "呦松小贝",
-    "type": "vtuber",
-    "room": 836694,
-    "group_name": ""
-  },
-  {
     "uid": 455794,
     "name": "叉烧Chashu",
     "type": "vtuber",
@@ -3332,13 +3325,6 @@
     "group_name": ""
   },
   {
-    "uid": 1278545,
-    "name": "格蕾缇娅Gretia",
-    "type": "vtuber",
-    "room": 175965,
-    "group_name": "虚研社"
-  },
-  {
     "uid": 1283658,
     "name": "Ara手一滑_Channel",
     "type": "vtuber",
@@ -3651,13 +3637,6 @@
     "name": "白毛狐狐焕焕_",
     "type": "vtuber",
     "room": 3006360,
-    "group_name": ""
-  },
-  {
-    "uid": 1484320,
-    "name": "小咪miyo",
-    "type": "vtuber",
-    "room": 7825132,
     "group_name": ""
   },
   {
@@ -4722,7 +4701,7 @@
     "name": "提亚Alchemy",
     "type": "vtuber",
     "room": 26015,
-    "group_name": "妖灵project"
+    "group_name": ""
   },
   {
     "uid": 2075226,
@@ -4823,24 +4802,10 @@
     "group_name": ""
   },
   {
-    "uid": 2112517,
-    "name": "萧温Sherwin",
-    "type": "vtuber",
-    "room": 19012,
-    "group_name": ""
-  },
-  {
     "uid": 2115078,
     "name": "地雷属性大爆发",
     "type": "vtuber",
     "room": 2373631,
-    "group_name": ""
-  },
-  {
-    "uid": 2125599,
-    "name": "艾亚灰",
-    "type": "vtuber",
-    "room": 594980,
     "group_name": ""
   },
   {
@@ -5894,13 +5859,6 @@
     "group_name": ""
   },
   {
-    "uid": 2997958,
-    "name": "小豆砂",
-    "type": "vtuber",
-    "room": 775886,
-    "group_name": ""
-  },
-  {
     "uid": 3006717,
     "name": "末音むかさ",
     "type": "vtuber",
@@ -5968,13 +5926,6 @@
     "name": "天际熊",
     "type": "vtuber",
     "room": 5578116,
-    "group_name": ""
-  },
-  {
-    "uid": 3031211,
-    "name": "五後白夜official",
-    "type": "vtuber",
-    "room": 793082,
     "group_name": ""
   },
   {
@@ -6766,7 +6717,7 @@
     "name": "雪音-ゆきね",
     "type": "vtuber",
     "room": 1662599,
-    "group_name": "妖灵project"
+    "group_name": ""
   },
   {
     "uid": 3638515,
@@ -6928,13 +6879,6 @@
     "type": "vtuber",
     "room": 21692711,
     "group_name": "P-SP"
-  },
-  {
-    "uid": 3831010,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
   },
   {
     "uid": 3841931,
@@ -7294,13 +7238,6 @@
     "group_name": ""
   },
   {
-    "uid": 4365283,
-    "name": "夜荧Yerin",
-    "type": "vtuber",
-    "room": 4942796,
-    "group_name": ""
-  },
-  {
     "uid": 4365322,
     "name": "优纪光channel",
     "type": "vtuber",
@@ -7427,13 +7364,6 @@
     "group_name": ""
   },
   {
-    "uid": 4525128,
-    "name": "白夜Soleil",
-    "type": "vtuber",
-    "room": 743435,
-    "group_name": ""
-  },
-  {
     "uid": 4537059,
     "name": "相沢光_Hikari",
     "type": "vtuber",
@@ -7536,13 +7466,6 @@
     "name": "千雪汤儿_Yunokawa",
     "type": "vtuber",
     "room": 494466,
-    "group_name": ""
-  },
-  {
-    "uid": 4666455,
-    "name": "桥桥桥桥桥迫子w",
-    "type": "vtuber",
-    "room": 793311,
     "group_name": ""
   },
   {
@@ -8666,13 +8589,6 @@
     "group_name": ""
   },
   {
-    "uid": 6475865,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 6481343,
     "name": "GB_Official",
     "type": "vtuber",
@@ -8684,7 +8600,7 @@
     "name": "向空气挥拳",
     "type": "vtuber",
     "room": 7200259,
-    "group_name": "cesirelive"
+    "group_name": ""
   },
   {
     "uid": 6483727,
@@ -9331,13 +9247,6 @@
     "group_name": ""
   },
   {
-    "uid": 7512597,
-    "name": "수지의개",
-    "type": "vtuber",
-    "room": 10361318,
-    "group_name": ""
-  },
-  {
     "uid": 7514914,
     "name": "Suzka_",
     "type": "vtuber",
@@ -9625,13 +9534,6 @@
     "group_name": ""
   },
   {
-    "uid": 8033262,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 8034132,
     "name": "深谷鈴音",
     "type": "vtuber",
@@ -9650,7 +9552,7 @@
     "name": "艾冰Phoenix",
     "type": "vtuber",
     "room": 6747467,
-    "group_name": "妖灵project"
+    "group_name": ""
   },
   {
     "uid": 8041302,
@@ -10987,7 +10889,7 @@
     "name": "骨头BoNe_",
     "type": "vtuber",
     "room": 950576,
-    "group_name": "妖灵project"
+    "group_name": ""
   },
   {
     "uid": 10408102,
@@ -11494,13 +11396,6 @@
     "group_name": ""
   },
   {
-    "uid": 11537944,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": "Palette"
-  },
-  {
     "uid": 11567043,
     "name": "Quack殷羣呱",
     "type": "vtuber",
@@ -11582,7 +11477,7 @@
     "name": "琳德Channel",
     "type": "vtuber",
     "room": 215272,
-    "group_name": "妖灵project"
+    "group_name": ""
   },
   {
     "uid": 11707013,
@@ -11729,13 +11624,6 @@
     "name": "辛宁_Cyning",
     "type": "vtuber",
     "room": 13238959,
-    "group_name": ""
-  },
-  {
-    "uid": 12070947,
-    "name": "见风kaze",
-    "type": "vtuber",
-    "room": 944614,
     "group_name": ""
   },
   {
@@ -13300,13 +13188,6 @@
     "group_name": ""
   },
   {
-    "uid": 16217876,
-    "name": "白夜小鸠Hato",
-    "type": "vtuber",
-    "room": 7768761,
-    "group_name": ""
-  },
-  {
     "uid": 16223898,
     "name": "鸽本熊",
     "type": "vtuber",
@@ -13340,13 +13221,6 @@
     "type": "vtuber",
     "room": 3429937,
     "group_name": ""
-  },
-  {
-    "uid": 16478884,
-    "name": "鹿月_mojia",
-    "type": "vtuber",
-    "room": 307757,
-    "group_name": "妖灵project"
   },
   {
     "uid": 16485175,
@@ -15127,24 +15001,10 @@
     "group_name": ""
   },
   {
-    "uid": 23636880,
-    "name": "鹿饼干Aloha",
-    "type": "vtuber",
-    "room": 25190596,
-    "group_name": ""
-  },
-  {
     "uid": 23643455,
     "name": "琉璃花糖_月泷",
     "type": "vtuber",
     "room": 3370413,
-    "group_name": ""
-  },
-  {
-    "uid": 23657606,
-    "name": "兔美三天吃一顿",
-    "type": "vtuber",
-    "room": 26345216,
     "group_name": ""
   },
   {
@@ -15400,13 +15260,6 @@
     "group_name": ""
   },
   {
-    "uid": 24969786,
-    "name": "汤圆wang",
-    "type": "vtuber",
-    "room": 1475132,
-    "group_name": ""
-  },
-  {
     "uid": 24970050,
     "name": "叶青玳",
     "type": "vtuber",
@@ -15460,7 +15313,7 @@
     "name": "厄诡椪爱好者",
     "type": "vtuber",
     "room": 8030940,
-    "group_name": "cesirelive"
+    "group_name": ""
   },
   {
     "uid": 25308097,
@@ -17458,13 +17311,6 @@
     "group_name": ""
   },
   {
-    "uid": 41873863,
-    "name": "多莉Doori",
-    "type": "vtuber",
-    "room": 26880464,
-    "group_name": ""
-  },
-  {
     "uid": 41953957,
     "name": "露比Lubia",
     "type": "vtuber",
@@ -17651,13 +17497,6 @@
     "name": "安晴Ankii",
     "type": "vtuber",
     "room": 14197798,
-    "group_name": ""
-  },
-  {
-    "uid": 45132239,
-    "name": "帳號已_註銷",
-    "type": "vtuber",
-    "room": 27108405,
     "group_name": ""
   },
   {
@@ -18424,13 +18263,6 @@
     "group_name": ""
   },
   {
-    "uid": 65463088,
-    "name": "鹿伶儿",
-    "type": "vtuber",
-    "room": 23868048,
-    "group_name": "cesirelive"
-  },
-  {
     "uid": 65566781,
     "name": "河豚不是海豚音",
     "type": "vtuber",
@@ -19107,7 +18939,7 @@
     "name": "界小陨Dilima",
     "type": "vtuber",
     "room": 11704612,
-    "group_name": "妖灵project"
+    "group_name": ""
   },
   {
     "uid": 86280736,
@@ -19684,13 +19516,6 @@
     "group_name": ""
   },
   {
-    "uid": 108166007,
-    "name": "心流Shinryu",
-    "type": "vtuber",
-    "room": 27477361,
-    "group_name": ""
-  },
-  {
     "uid": 108507415,
     "name": "Nora在笑了",
     "type": "vtuber",
@@ -19901,13 +19726,6 @@
     "group_name": ""
   },
   {
-    "uid": 125341259,
-    "name": "紫崎キリカ",
-    "type": "vtuber",
-    "room": 4494956,
-    "group_name": ""
-  },
-  {
     "uid": 125694602,
     "name": "绘壹壹Hyeii",
     "type": "vtuber",
@@ -20073,13 +19891,6 @@
     "name": "简柔Official",
     "type": "vtuber",
     "room": 25088912,
-    "group_name": ""
-  },
-  {
-    "uid": 142527799,
-    "name": "鳥咕",
-    "type": "vtuber",
-    "room": 4595844,
     "group_name": ""
   },
   {
@@ -20517,13 +20328,6 @@
     "group_name": ""
   },
   {
-    "uid": 171271582,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": "ProjectViberglow"
-  },
-  {
     "uid": 171272634,
     "name": "BiBiDao的海景房",
     "type": "vtuber",
@@ -20692,31 +20496,10 @@
     "group_name": ""
   },
   {
-    "uid": 177646327,
-    "name": "摆柿可乐",
-    "type": "vtuber",
-    "room": 21525148,
-    "group_name": ""
-  },
-  {
-    "uid": 177792032,
-    "name": "诺希尔Nosier",
-    "type": "vtuber",
-    "room": 26556885,
-    "group_name": ""
-  },
-  {
     "uid": 178063430,
     "name": "是瓜子捏",
     "type": "vtuber",
     "room": 27946030,
-    "group_name": ""
-  },
-  {
-    "uid": 178140803,
-    "name": "甘比诺Ganbino",
-    "type": "vtuber",
-    "room": 5683973,
     "group_name": ""
   },
   {
@@ -20766,13 +20549,6 @@
     "name": "佩亚Peia",
     "type": "vtuber",
     "room": 25358638,
-    "group_name": ""
-  },
-  {
-    "uid": 179923966,
-    "name": "悠里unusual",
-    "type": "vtuber",
-    "room": 12945324,
     "group_name": ""
   },
   {
@@ -21945,13 +21721,6 @@
     "group_name": ""
   },
   {
-    "uid": 276246981,
-    "name": "小漆的三次元生活",
-    "type": "vtuber",
-    "room": 13698382,
-    "group_name": ""
-  },
-  {
     "uid": 276610105,
     "name": "莫宇声含Channel",
     "type": "vtuber",
@@ -22292,7 +22061,7 @@
     "name": "咕咕蓝某人",
     "type": "vtuber",
     "room": 10674313,
-    "group_name": "妖灵project"
+    "group_name": ""
   },
   {
     "uid": 289855575,
@@ -22502,13 +22271,6 @@
     "name": "林麦麦MM",
     "type": "vtuber",
     "room": 24466439,
-    "group_name": ""
-  },
-  {
-    "uid": 299445377,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -23216,13 +22978,6 @@
     "name": "桃弥丝Themis",
     "type": "vtuber",
     "room": 27636379,
-    "group_name": ""
-  },
-  {
-    "uid": 332169909,
-    "name": "知夏Natsu",
-    "type": "vtuber",
-    "room": 27745876,
     "group_name": ""
   },
   {
@@ -24168,13 +23923,6 @@
     "name": "该用户已匿铭",
     "type": "vtuber",
     "room": 22832146,
-    "group_name": ""
-  },
-  {
-    "uid": 364913484,
-    "name": "阿沅camelia",
-    "type": "vtuber",
-    "room": 27736404,
     "group_name": ""
   },
   {
@@ -25368,13 +25116,6 @@
     "group_name": ""
   },
   {
-    "uid": 395153968,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 395426377,
     "name": "今夭的平行世界",
     "type": "vtuber",
@@ -25687,13 +25428,6 @@
     "name": "姫森前世视频存放处",
     "type": "vtuber",
     "room": 21277852,
-    "group_name": ""
-  },
-  {
-    "uid": 399582503,
-    "name": "bilibili",
-    "type": "group",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -26859,13 +26593,6 @@
     "group_name": "MZ次元"
   },
   {
-    "uid": 423443185,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": "玹云社"
-  },
-  {
     "uid": 423728837,
     "name": "Omesis搬运组",
     "type": "vtuber",
@@ -27011,13 +26738,6 @@
     "type": "vtuber",
     "room": 21460916,
     "group_name": "幻home"
-  },
-  {
-    "uid": 430010003,
-    "name": "秋元澪_Projection",
-    "type": "vtuber",
-    "room": 22357423,
-    "group_name": ""
   },
   {
     "uid": 430091486,
@@ -27354,13 +27074,6 @@
     "type": "vtuber",
     "room": 25046803,
     "group_name": ""
-  },
-  {
-    "uid": 434044088,
-    "name": "bilibili",
-    "type": "group",
-    "room": 0,
-    "group_name": "妖灵project"
   },
   {
     "uid": 434103559,
@@ -28574,13 +28287,6 @@
     "group_name": "雨林社"
   },
   {
-    "uid": 470010461,
-    "name": "白兰九",
-    "type": "vtuber",
-    "room": 21576166,
-    "group_name": ""
-  },
-  {
     "uid": 470410710,
     "name": "刺猬SWCW",
     "type": "vtuber",
@@ -28691,13 +28397,6 @@
     "type": "vtuber",
     "room": 22565921,
     "group_name": "inkschool"
-  },
-  {
-    "uid": 471660994,
-    "name": "kasu-official-",
-    "type": "vtuber",
-    "room": 27154591,
-    "group_name": ""
   },
   {
     "uid": 471678922,
@@ -28894,13 +28593,6 @@
     "type": "vtuber",
     "room": 23091156,
     "group_name": "chaoslive"
-  },
-  {
-    "uid": 474051324,
-    "name": "雨喵ww",
-    "type": "vtuber",
-    "room": 27948067,
-    "group_name": ""
   },
   {
     "uid": 474103425,
@@ -29554,13 +29246,6 @@
     "group_name": ""
   },
   {
-    "uid": 481877183,
-    "name": "吃不饱的妙妙",
-    "type": "vtuber",
-    "room": 27552235,
-    "group_name": ""
-  },
-  {
     "uid": 481966745,
     "name": "莜米娜yomna",
     "type": "vtuber",
@@ -29824,13 +29509,6 @@
     "name": "天才女仆春日宴",
     "type": "vtuber",
     "room": 24058070,
-    "group_name": ""
-  },
-  {
-    "uid": 486497869,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -30216,7 +29894,7 @@
     "name": "铃木桃织Suzuki",
     "type": "vtuber",
     "room": 23451190,
-    "group_name": "cesirelive"
+    "group_name": ""
   },
   {
     "uid": 490981706,
@@ -30443,13 +30121,6 @@
     "group_name": "holostars"
   },
   {
-    "uid": 494669125,
-    "name": "未絵Mieko",
-    "type": "vtuber",
-    "room": 23112942,
-    "group_name": ""
-  },
-  {
     "uid": 494760262,
     "name": "神魔交易所一号机",
     "type": "vtuber",
@@ -30555,13 +30226,6 @@
     "group_name": ""
   },
   {
-    "uid": 498173298,
-    "name": "奈欲_NaiYu",
-    "type": "vtuber",
-    "room": 27398634,
-    "group_name": ""
-  },
-  {
     "uid": 498188835,
     "name": "汐尔Sier",
     "type": "vtuber",
@@ -30653,24 +30317,10 @@
     "group_name": ""
   },
   {
-    "uid": 499275132,
-    "name": "小奥の逛街小号",
-    "type": "vtuber",
-    "room": 24449565,
-    "group_name": ""
-  },
-  {
     "uid": 499350426,
     "name": "卡卡Kaslia",
     "type": "vtuber",
     "room": 30992850,
-    "group_name": ""
-  },
-  {
-    "uid": 499412595,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -31108,13 +30758,6 @@
     "group_name": ""
   },
   {
-    "uid": 508690240,
-    "name": "巾巾又被抓走啦OvO",
-    "type": "vtuber",
-    "room": 24530361,
-    "group_name": ""
-  },
-  {
     "uid": 508735454,
     "name": "浅见夏子Natsuko",
     "type": "vtuber",
@@ -31147,13 +30790,6 @@
     "name": "雷柏磷ボリン",
     "type": "vtuber",
     "room": 21879412,
-    "group_name": ""
-  },
-  {
-    "uid": 509119523,
-    "name": "是恰恰但不是瓜子",
-    "type": "vtuber",
-    "room": 30175248,
     "group_name": ""
   },
   {
@@ -32295,13 +31931,6 @@
     "name": "时来梦爱",
     "type": "vtuber",
     "room": 23743004,
-    "group_name": ""
-  },
-  {
-    "uid": 546192461,
-    "name": "Rinko琳可",
-    "type": "vtuber",
-    "room": 25235084,
     "group_name": ""
   },
   {
@@ -34279,13 +33908,6 @@
     "group_name": ""
   },
   {
-    "uid": 646366863,
-    "name": "Angelia安洁莉娅",
-    "type": "vtuber",
-    "room": 22427257,
-    "group_name": ""
-  },
-  {
     "uid": 646432928,
     "name": "路理Kuri",
     "type": "vtuber",
@@ -34500,13 +34122,6 @@
     "name": "桃井栗KuRi",
     "type": "vtuber",
     "room": 24825173,
-    "group_name": ""
-  },
-  {
-    "uid": 661375857,
-    "name": "小莓朵朵",
-    "type": "vtuber",
-    "room": 30248308,
     "group_name": ""
   },
   {
@@ -35011,13 +34626,6 @@
     "name": "琥珀と纯白_official",
     "type": "vtuber",
     "room": 25949936,
-    "group_name": ""
-  },
-  {
-    "uid": 676494492,
-    "name": "浅川芙fuuu_",
-    "type": "vtuber",
-    "room": 27753172,
     "group_name": ""
   },
   {
@@ -36918,13 +36526,6 @@
     "group_name": ""
   },
   {
-    "uid": 1088679624,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 1089059487,
     "name": "星奈铃-官方WACTOR",
     "type": "vtuber",
@@ -37118,13 +36719,6 @@
     "name": "好文静阿崽",
     "type": "vtuber",
     "room": 30049196,
-    "group_name": ""
-  },
-  {
-    "uid": 1108264972,
-    "name": "qwely123",
-    "type": "vtuber",
-    "room": 30475585,
     "group_name": ""
   },
   {
@@ -37709,13 +37303,6 @@
     "group_name": ""
   },
   {
-    "uid": 1173465465,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 1175808195,
     "name": "雨宿玲音_official",
     "type": "vtuber",
@@ -38038,13 +37625,6 @@
     "group_name": ""
   },
   {
-    "uid": 1207949854,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 1210816252,
     "name": "草莓猫Taffy",
     "type": "vtuber",
@@ -38091,13 +37671,6 @@
     "name": "星野琉歌",
     "type": "vtuber",
     "room": 25389336,
-    "group_name": ""
-  },
-  {
-    "uid": 1215655557,
-    "name": "艾余_ay",
-    "type": "vtuber",
-    "room": 22808159,
     "group_name": ""
   },
   {
@@ -38381,13 +37954,6 @@
     "group_name": ""
   },
   {
-    "uid": 1237534755,
-    "name": "_借晚风叙旧_",
-    "type": "vtuber",
-    "room": 24532967,
-    "group_name": ""
-  },
-  {
     "uid": 1237941945,
     "name": "星棋之庭Project",
     "type": "vtuber",
@@ -38651,13 +38217,6 @@
     "name": "铃伊_Rei",
     "type": "vtuber",
     "room": 22993378,
-    "group_name": ""
-  },
-  {
-    "uid": 1263584531,
-    "name": "梅莉Meri",
-    "type": "vtuber",
-    "room": 26273258,
     "group_name": ""
   },
   {
@@ -39373,13 +38932,6 @@
     "type": "vtuber",
     "room": 24137142,
     "group_name": ""
-  },
-  {
-    "uid": 1333101968,
-    "name": "白雪瑞莎",
-    "type": "vtuber",
-    "room": 23865717,
-    "group_name": "ChaosLiveSprout"
   },
   {
     "uid": 1334497126,
@@ -41314,13 +40866,6 @@
     "group_name": ""
   },
   {
-    "uid": 1518296186,
-    "name": "莉奥拉Liala",
-    "type": "vtuber",
-    "room": 23501664,
-    "group_name": ""
-  },
-  {
     "uid": 1518468126,
     "name": "黎酩_Lunette",
     "type": "vtuber",
@@ -41396,20 +40941,6 @@
     "type": "vtuber",
     "room": 24812685,
     "group_name": "NHOTBOT"
-  },
-  {
-    "uid": 1524155842,
-    "name": "啊得呀呀",
-    "type": "vtuber",
-    "room": 25870804,
-    "group_name": ""
-  },
-  {
-    "uid": 1525443389,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
   },
   {
     "uid": 1528165105,
@@ -42161,13 +41692,6 @@
     "group_name": ""
   },
   {
-    "uid": 1605847446,
-    "name": "塔莎Trisha",
-    "type": "vtuber",
-    "room": 26265850,
-    "group_name": ""
-  },
-  {
     "uid": 1605958838,
     "name": "暮雪初霁_",
     "type": "vtuber",
@@ -42266,13 +41790,6 @@
     "group_name": ""
   },
   {
-    "uid": 1616654727,
-    "name": "星月瞳starry的录播姬",
-    "type": "vtuber",
-    "room": 26993058,
-    "group_name": ""
-  },
-  {
     "uid": 1617739681,
     "name": "立花遥はるか",
     "type": "vtuber",
@@ -42285,13 +41802,6 @@
     "type": "vtuber",
     "room": 23010688,
     "group_name": "虚研社"
-  },
-  {
-    "uid": 1618258054,
-    "name": "井上开岛",
-    "type": "vtuber",
-    "room": 30357659,
-    "group_name": ""
   },
   {
     "uid": 1618589648,
@@ -42403,13 +41913,6 @@
     "name": "阮梨ovo",
     "type": "vtuber",
     "room": 25367257,
-    "group_name": ""
-  },
-  {
-    "uid": 1626535268,
-    "name": "8966685444",
-    "type": "vtuber",
-    "room": 23297222,
     "group_name": ""
   },
   {
@@ -43001,13 +42504,6 @@
     "group_name": ""
   },
   {
-    "uid": 1683159082,
-    "name": "五月七日病",
-    "type": "vtuber",
-    "room": 24105617,
-    "group_name": ""
-  },
-  {
     "uid": 1683960760,
     "name": "阿茶小神仙",
     "type": "vtuber",
@@ -43139,13 +42635,6 @@
     "type": "vtuber",
     "room": 23490978,
     "group_name": "虚研社"
-  },
-  {
-    "uid": 1699152346,
-    "name": "奈芙Nieve",
-    "type": "vtuber",
-    "room": 22852412,
-    "group_name": "雪风军团"
   },
   {
     "uid": 1699339194,
@@ -44079,13 +43568,6 @@
     "group_name": "VirtuaReal"
   },
   {
-    "uid": 1790657636,
-    "name": "抓住一只柴柴",
-    "type": "vtuber",
-    "room": 26635832,
-    "group_name": "YOLO"
-  },
-  {
     "uid": 1791987762,
     "name": "初雪阿樱",
     "type": "vtuber",
@@ -44401,13 +43883,6 @@
     "group_name": ""
   },
   {
-    "uid": 1822964640,
-    "name": "哔哩会员兑换分享",
-    "type": "vtuber",
-    "room": 23816557,
-    "group_name": ""
-  },
-  {
     "uid": 1823500310,
     "name": "桃姆Q吃手手",
     "type": "vtuber",
@@ -44527,13 +44002,6 @@
     "group_name": ""
   },
   {
-    "uid": 1830884615,
-    "name": "嘟嘟嘟哒哒哒哒嘟嘟",
-    "type": "vtuber",
-    "room": 24318941,
-    "group_name": ""
-  },
-  {
     "uid": 1830906165,
     "name": "kingdomknight社团",
     "type": "unknown",
@@ -44588,13 +44056,6 @@
     "type": "vtuber",
     "room": 22858279,
     "group_name": ""
-  },
-  {
-    "uid": 1835314626,
-    "name": "米夏Maika",
-    "type": "vtuber",
-    "room": 25136784,
-    "group_name": "Facemoe官方"
   },
   {
     "uid": 1835487786,
@@ -45619,13 +45080,6 @@
     "group_name": ""
   },
   {
-    "uid": 1934743922,
-    "name": "伊宝_official",
-    "type": "vtuber",
-    "room": 27429839,
-    "group_name": ""
-  },
-  {
     "uid": 1936086341,
     "name": "奶糖さの_sano",
     "type": "vtuber",
@@ -45728,13 +45182,6 @@
     "name": "御先蔵馬official",
     "type": "vtuber",
     "room": 23416268,
-    "group_name": ""
-  },
-  {
-    "uid": 1945458656,
-    "name": "再扶我起来_我还能刷",
-    "type": "vtuber",
-    "room": 26312843,
     "group_name": ""
   },
   {
@@ -45918,13 +45365,6 @@
     "type": "vtuber",
     "room": 25773817,
     "group_name": "虚研社"
-  },
-  {
-    "uid": 1961014543,
-    "name": "幽柚YOYO",
-    "type": "vtuber",
-    "room": 25194064,
-    "group_name": ""
   },
   {
     "uid": 1962110378,
@@ -46536,13 +45976,6 @@
     "group_name": "MZ次元"
   },
   {
-    "uid": 2023993367,
-    "name": "星白hoshiro",
-    "type": "vtuber",
-    "room": 27318168,
-    "group_name": ""
-  },
-  {
     "uid": 2025823232,
     "name": "秋一Aki",
     "type": "vtuber",
@@ -46792,13 +46225,6 @@
     "name": "一只雾桃",
     "type": "vtuber",
     "room": 24847382,
-    "group_name": ""
-  },
-  {
-    "uid": 2060062253,
-    "name": "阿曼Amannnn",
-    "type": "vtuber",
-    "room": 26274289,
     "group_name": ""
   },
   {
@@ -48153,13 +47579,6 @@
     "group_name": ""
   },
   {
-    "uid": 3461572359883690,
-    "name": "柚铃汐Lo",
-    "type": "vtuber",
-    "room": 26085810,
-    "group_name": ""
-  },
-  {
     "uid": 3461572475226803,
     "name": "艾蒂娜的录播",
     "type": "vtuber",
@@ -48213,13 +47632,6 @@
     "name": "阿清_kiyo",
     "type": "vtuber",
     "room": 26099797,
-    "group_name": ""
-  },
-  {
-    "uid": 3461573576231728,
-    "name": "步凌Kenai",
-    "type": "vtuber",
-    "room": 26768450,
     "group_name": ""
   },
   {
@@ -48396,13 +47808,6 @@
     "type": "vtuber",
     "room": 26196781,
     "group_name": "YOLO"
-  },
-  {
-    "uid": 3461578110273655,
-    "name": "兔宝文文吖-",
-    "type": "vtuber",
-    "room": 27483243,
-    "group_name": ""
   },
   {
     "uid": 3461578385000500,
@@ -48962,13 +48367,6 @@
     "name": "安佐_Anzo",
     "type": "vtuber",
     "room": 27277791,
-    "group_name": ""
-  },
-  {
-    "uid": 3493082144181013,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -49560,13 +48958,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493103990212963,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 3493104006989892,
     "name": "桃莓眠眠",
     "type": "vtuber",
@@ -49620,13 +49011,6 @@
     "name": "魔菈morua_Channel",
     "type": "vtuber",
     "room": 26664589,
-    "group_name": ""
-  },
-  {
-    "uid": 3493104931834444,
-    "name": "兮媛_",
-    "type": "vtuber",
-    "room": 26651840,
     "group_name": ""
   },
   {
@@ -49833,13 +49217,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493111091170235,
-    "name": "佑希yumi01",
-    "type": "vtuber",
-    "room": 30140875,
-    "group_name": ""
-  },
-  {
     "uid": 3493111135210145,
     "name": "呱呱老六不是瓜二加四",
     "type": "vtuber",
@@ -49886,13 +49263,6 @@
     "name": "目16",
     "type": "vtuber",
     "room": 26744233,
-    "group_name": ""
-  },
-  {
-    "uid": 3493111875504488,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -50575,13 +49945,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493123630041369,
-    "name": "靳芷唱歌",
-    "type": "vtuber",
-    "room": 27310030,
-    "group_name": ""
-  },
-  {
     "uid": 3493123923642642,
     "name": "阿茶又困啦",
     "type": "vtuber",
@@ -50806,13 +50169,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493129854388949,
-    "name": "塔娜莉亚Tanalia",
-    "type": "vtuber",
-    "room": 27233039,
-    "group_name": ""
-  },
-  {
     "uid": 3493129904720207,
     "name": "乔乔ぐ",
     "type": "vtuber",
@@ -50929,13 +50285,6 @@
     "name": "百濑杏那official",
     "type": "vtuber",
     "room": 27095761,
-    "group_name": ""
-  },
-  {
-    "uid": 3493130970073724,
-    "name": "洛晓羽office-录播组",
-    "type": "vtuber",
-    "room": 27021908,
     "group_name": ""
   },
   {
@@ -51212,13 +50561,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493135663499558,
-    "name": "小羊咩咩咩oO",
-    "type": "vtuber",
-    "room": 30124979,
-    "group_name": ""
-  },
-  {
     "uid": 3493135728511960,
     "name": "吃吃饱饱",
     "type": "vtuber",
@@ -51258,13 +50600,6 @@
     "name": "栗司Lisu",
     "type": "vtuber",
     "room": 27128250,
-    "group_name": ""
-  },
-  {
-    "uid": 3493136129067397,
-    "name": "灵儿Eire",
-    "type": "vtuber",
-    "room": 27141710,
     "group_name": ""
   },
   {
@@ -51338,13 +50673,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493137070688536,
-    "name": "星辰呐na",
-    "type": "vtuber",
-    "room": 27136647,
-    "group_name": ""
-  },
-  {
     "uid": 3493137081174568,
     "name": "桃耶纱",
     "type": "vtuber",
@@ -51387,13 +50715,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493137357998500,
-    "name": "July_伊贝儿",
-    "type": "vtuber",
-    "room": 27865517,
-    "group_name": ""
-  },
-  {
     "uid": 3493137448176445,
     "name": "Ohana_official",
     "type": "vtuber",
@@ -51433,13 +50754,6 @@
     "name": "小吉急急",
     "type": "vtuber",
     "room": 27149054,
-    "group_name": ""
-  },
-  {
-    "uid": 3493137813080530,
-    "name": "哒哒哒我溜啦",
-    "type": "vtuber",
-    "room": 30202414,
     "group_name": ""
   },
   {
@@ -51496,13 +50810,6 @@
     "name": "摆摆太可爱了吧",
     "type": "vtuber",
     "room": 27187891,
-    "group_name": ""
-  },
-  {
-    "uid": 3493138341563327,
-    "name": "诺然Beverly",
-    "type": "vtuber",
-    "room": 27181162,
     "group_name": ""
   },
   {
@@ -51639,13 +50946,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493140216417245,
-    "name": "伊泽姆Izem",
-    "type": "vtuber",
-    "room": 27188179,
-    "group_name": ""
-  },
-  {
     "uid": 3493140218514110,
     "name": "劳伦斯lawrance",
     "type": "vtuber",
@@ -51751,13 +51051,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493141736852053,
-    "name": "蜜柠茶饮料铺",
-    "type": "vtuber",
-    "room": 27413059,
-    "group_name": ""
-  },
-  {
     "uid": 3493141801863394,
     "name": "伊稚ichi",
     "type": "vtuber",
@@ -51821,13 +51114,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493142160477119,
-    "name": "花六六_h66",
-    "type": "vtuber",
-    "room": 27493703,
-    "group_name": ""
-  },
-  {
     "uid": 3493142175156658,
     "name": "拉米尔Ramiel",
     "type": "vtuber",
@@ -51875,13 +51161,6 @@
     "type": "vtuber",
     "room": 27235894,
     "group_name": ""
-  },
-  {
-    "uid": 3493143091612045,
-    "name": "库洛西娅-停用纪念版",
-    "type": "vtuber",
-    "room": 27251912,
-    "group_name": "Para-dice"
   },
   {
     "uid": 3493143181789324,
@@ -52056,13 +51335,6 @@
     "name": "相星澪_Channel",
     "type": "vtuber",
     "room": 27302374,
-    "group_name": ""
-  },
-  {
-    "uid": 3493144653989969,
-    "name": "豹球球OxO",
-    "type": "vtuber",
-    "room": 27509187,
     "group_name": ""
   },
   {
@@ -52353,13 +51625,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493258399320295,
-    "name": "nobodynobodynono",
-    "type": "vtuber",
-    "room": 27701848,
-    "group_name": ""
-  },
-  {
     "uid": 3493258420291722,
     "name": "茉漁Yukina",
     "type": "vtuber",
@@ -52458,20 +51723,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493259380787300,
-    "name": "机械狐狸Fox",
-    "type": "vtuber",
-    "room": 27451173,
-    "group_name": ""
-  },
-  {
-    "uid": 3493259515005623,
-    "name": "白神成太Official",
-    "type": "vtuber",
-    "room": 27511322,
-    "group_name": ""
-  },
-  {
     "uid": 3493259521296634,
     "name": "纳曲星星Naqueen",
     "type": "vtuber",
@@ -52490,13 +51741,6 @@
     "name": "梦奈Yumona",
     "type": "vtuber",
     "room": 27626232,
-    "group_name": ""
-  },
-  {
-    "uid": 3493259785537942,
-    "name": "诺奶",
-    "type": "vtuber",
-    "room": 27348026,
     "group_name": ""
   },
   {
@@ -52556,24 +51800,10 @@
     "group_name": ""
   },
   {
-    "uid": 3493261180143994,
-    "name": "cv青丘苏苏_随心所欲版",
-    "type": "vtuber",
-    "room": 27481775,
-    "group_name": ""
-  },
-  {
     "uid": 3493261226281432,
     "name": "宴丹卿Yanmimi",
     "type": "vtuber",
     "room": 27403921,
-    "group_name": ""
-  },
-  {
-    "uid": 3493261228378998,
-    "name": "承影_Aerian",
-    "type": "vtuber",
-    "room": 27470828,
     "group_name": ""
   },
   {
@@ -52759,13 +51989,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493263010957440,
-    "name": "酒丸_MaRu",
-    "type": "vtuber",
-    "room": 27379965,
-    "group_name": ""
-  },
-  {
     "uid": 3493263010957481,
     "name": "虾串串丶",
     "type": "vtuber",
@@ -52784,13 +52007,6 @@
     "name": "困困奶酥",
     "type": "vtuber",
     "room": 27439062,
-    "group_name": ""
-  },
-  {
-    "uid": 3493263258422022,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -53109,13 +52325,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493266777442760,
-    "name": "月宫奏Kanade",
-    "type": "vtuber",
-    "room": 27533651,
-    "group_name": "雪域Provealms"
-  },
-  {
     "uid": 3493267211553500,
     "name": "猫宫城弥羽Official",
     "type": "vtuber",
@@ -53162,13 +52371,6 @@
     "name": "小熊饼干_coke",
     "type": "vtuber",
     "room": 27889729,
-    "group_name": ""
-  },
-  {
-    "uid": 3493267507251618,
-    "name": "烈日的饼干酱",
-    "type": "vtuber",
-    "room": 27584512,
     "group_name": ""
   },
   {
@@ -53225,27 +52427,6 @@
     "name": "天魔SkyD",
     "type": "vtuber",
     "room": 27515605,
-    "group_name": ""
-  },
-  {
-    "uid": 3493267966528346,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
-    "uid": 3493268042025190,
-    "name": "所所呢Sno",
-    "type": "vtuber",
-    "room": 27585709,
-    "group_name": ""
-  },
-  {
-    "uid": 3493268188826440,
-    "name": "サカナネコ",
-    "type": "vtuber",
-    "room": 27446316,
     "group_name": ""
   },
   {
@@ -53592,13 +52773,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493271015787144,
-    "name": "五木明琼_神秘的木木",
-    "type": "vtuber",
-    "room": 27485091,
-    "group_name": ""
-  },
-  {
     "uid": 3493271015787293,
     "name": "意涵cute",
     "type": "vtuber",
@@ -53617,13 +52791,6 @@
     "name": "桃知夭妖",
     "type": "vtuber",
     "room": 27532755,
-    "group_name": ""
-  },
-  {
-    "uid": 3493271158393805,
-    "name": "奶曦Tsuki",
-    "type": "vtuber",
-    "room": 27515917,
     "group_name": ""
   },
   {
@@ -53722,13 +52889,6 @@
     "name": "归溯_允",
     "type": "vtuber",
     "room": 27507047,
-    "group_name": ""
-  },
-  {
-    "uid": 3493272586553445,
-    "name": "小雨酱紫ovo",
-    "type": "vtuber",
-    "room": 27510102,
     "group_name": ""
   },
   {
@@ -53865,13 +53025,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493273656101672,
-    "name": "A内内飕",
-    "type": "vtuber",
-    "room": 27578909,
-    "group_name": ""
-  },
-  {
     "uid": 3493273840650770,
     "name": "一枝淼淼",
     "type": "vtuber",
@@ -53946,13 +53099,6 @@
     "name": "半眠kira",
     "type": "vtuber",
     "room": 27696306,
-    "group_name": ""
-  },
-  {
-    "uid": 3493274968918070,
-    "name": "棠葵Sugar",
-    "type": "vtuber",
-    "room": 30008494,
     "group_name": ""
   },
   {
@@ -54250,13 +53396,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493278515202873,
-    "name": "奈雪音超可爱哒",
-    "type": "vtuber",
-    "room": 27599190,
-    "group_name": ""
-  },
-  {
     "uid": 3493278926244041,
     "name": "-_凝_-",
     "type": "vtuber",
@@ -54275,13 +53414,6 @@
     "name": "宋卷卷romo",
     "type": "vtuber",
     "room": 27621578,
-    "group_name": ""
-  },
-  {
-    "uid": 3493279169513630,
-    "name": "绵绵千雪_loli",
-    "type": "vtuber",
-    "room": 27705044,
     "group_name": ""
   },
   {
@@ -54352,13 +53484,6 @@
     "name": "柏雪阳official",
     "type": "vtuber",
     "room": 27606337,
-    "group_name": ""
-  },
-  {
-    "uid": 3493280463456533,
-    "name": "魅魅想要吃车厘子",
-    "type": "vtuber",
-    "room": 27941293,
     "group_name": ""
   },
   {
@@ -54513,13 +53638,6 @@
     "name": "芙菈吧噗Channel",
     "type": "vtuber",
     "room": 27719982,
-    "group_name": ""
-  },
-  {
-    "uid": 3493282766129818,
-    "name": "莉姆_sama",
-    "type": "vtuber",
-    "room": 27706987,
     "group_name": ""
   },
   {
@@ -54695,20 +53813,6 @@
     "name": "鬼川九九official",
     "type": "vtuber",
     "room": 27789454,
-    "group_name": ""
-  },
-  {
-    "uid": 3493285024762099,
-    "name": "梦渎_Tisarph",
-    "type": "vtuber",
-    "room": 27668278,
-    "group_name": ""
-  },
-  {
-    "uid": 3493285207214942,
-    "name": "黎棠Ari",
-    "type": "vtuber",
-    "room": 30217229,
     "group_name": ""
   },
   {
@@ -54978,13 +54082,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493287868500103,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 3493287916734567,
     "name": "暴走团妹",
     "type": "vtuber",
@@ -55010,13 +54107,6 @@
     "name": "林钡钡_翻唱少女",
     "type": "vtuber",
     "room": 27715360,
-    "group_name": ""
-  },
-  {
-    "uid": 3493288470383401,
-    "name": "雪樱奈奈子Official",
-    "type": "vtuber",
-    "room": 27837578,
     "group_name": ""
   },
   {
@@ -55157,20 +54247,6 @@
     "name": "九茉kuma",
     "type": "vtuber",
     "room": 30083178,
-    "group_name": ""
-  },
-  {
-    "uid": 3493290403956942,
-    "name": "是紫柒",
-    "type": "vtuber",
-    "room": 27751808,
-    "group_name": ""
-  },
-  {
-    "uid": 3493290481551466,
-    "name": "妮可不吃小饼干",
-    "type": "vtuber",
-    "room": 27738107,
     "group_name": ""
   },
   {
@@ -55437,13 +54513,6 @@
     "name": "茯菟奶嘟嘟_",
     "type": "vtuber",
     "room": 27779591,
-    "group_name": ""
-  },
-  {
-    "uid": 3493293071534759,
-    "name": "小棉葫芦",
-    "type": "vtuber",
-    "room": 27779567,
     "group_name": ""
   },
   {
@@ -55825,13 +54894,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493297754475220,
-    "name": "菲洛梅娜philomena",
-    "type": "vtuber",
-    "room": 27846130,
-    "group_name": ""
-  },
-  {
     "uid": 3493297842555381,
     "name": "音音Desu",
     "type": "vtuber",
@@ -55864,13 +54926,6 @@
     "name": "月见里雪yuki",
     "type": "vtuber",
     "room": 27921354,
-    "group_name": ""
-  },
-  {
-    "uid": 3493298291345978,
-    "name": "白梦梦梦梦",
-    "type": "vtuber",
-    "room": 27853504,
     "group_name": ""
   },
   {
@@ -56084,24 +55139,10 @@
     "group_name": ""
   },
   {
-    "uid": 3494350403143792,
-    "name": "有苏染染",
-    "type": "vtuber",
-    "room": 27965420,
-    "group_name": ""
-  },
-  {
     "uid": 3494350489127020,
     "name": "七七叭ghost",
     "type": "vtuber",
     "room": 27882971,
-    "group_name": ""
-  },
-  {
-    "uid": 3494350531069985,
-    "name": "烛野nono",
-    "type": "vtuber",
-    "room": 30034509,
     "group_name": ""
   },
   {
@@ -56308,13 +55349,6 @@
     "group_name": ""
   },
   {
-    "uid": 3494353410460201,
-    "name": "星绘子Hoshi",
-    "type": "vtuber",
-    "room": 27946391,
-    "group_name": ""
-  },
-  {
     "uid": 3494353477569316,
     "name": "阿霧kIri_",
     "type": "vtuber",
@@ -56333,13 +55367,6 @@
     "name": "锦钰是菜狗",
     "type": "vtuber",
     "room": 27943110,
-    "group_name": ""
-  },
-  {
-    "uid": 3494353672604207,
-    "name": "米米困呀",
-    "type": "vtuber",
-    "room": 30105679,
     "group_name": ""
   },
   {
@@ -56396,13 +55423,6 @@
     "name": "咕东AiJie",
     "type": "vtuber",
     "room": 27930265,
-    "group_name": ""
-  },
-  {
-    "uid": 3494354064771863,
-    "name": "迷音Ai-my",
-    "type": "vtuber",
-    "room": 27934265,
     "group_name": ""
   },
   {
@@ -57148,13 +56168,6 @@
     "group_name": ""
   },
   {
-    "uid": 3494362753272308,
-    "name": "湘の_",
-    "type": "vtuber",
-    "room": 30084545,
-    "group_name": ""
-  },
-  {
     "uid": 3494363078330910,
     "name": "水子想嗯嗯",
     "type": "vtuber",
@@ -57323,13 +56336,6 @@
     "group_name": ""
   },
   {
-    "uid": 3494364980447561,
-    "name": "揉揉小汐",
-    "type": "vtuber",
-    "room": 30137453,
-    "group_name": ""
-  },
-  {
     "uid": 3494364993030732,
     "name": "古德猫宁猫猫",
     "type": "vtuber",
@@ -57477,13 +56483,6 @@
     "group_name": ""
   },
   {
-    "uid": 3494367278926764,
-    "name": "苏禾suhei",
-    "type": "vtuber",
-    "room": 30143792,
-    "group_name": ""
-  },
-  {
     "uid": 3494367287314494,
     "name": "塞洛斯Cyrus",
     "type": "vtuber",
@@ -57582,13 +56581,6 @@
     "group_name": ""
   },
   {
-    "uid": 3494368463817252,
-    "name": "单推莉奈_Official",
-    "type": "vtuber",
-    "room": 30301888,
-    "group_name": ""
-  },
-  {
     "uid": 3494368602228824,
     "name": "瞧瞧乔乔喵",
     "type": "vtuber",
@@ -57673,24 +56665,10 @@
     "group_name": ""
   },
   {
-    "uid": 3494369369786925,
-    "name": "困呼呼oO-",
-    "type": "vtuber",
-    "room": 30213514,
-    "group_name": ""
-  },
-  {
     "uid": 3494369378175905,
     "name": "梅理猫Hana",
     "type": "vtuber",
     "room": 30176760,
-    "group_name": ""
-  },
-  {
-    "uid": 3494369428506883,
-    "name": "天才小k神",
-    "type": "vtuber",
-    "room": 30178090,
     "group_name": ""
   },
   {
@@ -57834,13 +56812,6 @@
     "group_name": ""
   },
   {
-    "uid": 3494370932165301,
-    "name": "西洲小姐",
-    "type": "vtuber",
-    "room": 30201671,
-    "group_name": ""
-  },
-  {
     "uid": 3494371114617608,
     "name": "月见里kori",
     "type": "vtuber",
@@ -57866,13 +56837,6 @@
     "name": "十三姨被冻成冰雕啦",
     "type": "vtuber",
     "room": 30216456,
-    "group_name": ""
-  },
-  {
-    "uid": 3494371542436664,
-    "name": "古の猫铃_",
-    "type": "vtuber",
-    "room": 30211416,
     "group_name": ""
   },
   {
@@ -58156,24 +57120,10 @@
     "group_name": ""
   },
   {
-    "uid": 3494377238301300,
-    "name": "弦空_Skys",
-    "type": "vtuber",
-    "room": 30304607,
-    "group_name": ""
-  },
-  {
     "uid": 3494377261369501,
     "name": "槐荟",
     "type": "vtuber",
     "room": 30304835,
-    "group_name": ""
-  },
-  {
-    "uid": 3494377284438201,
-    "name": "绵绵Nino",
-    "type": "vtuber",
-    "room": 30319517,
     "group_name": ""
   },
   {
@@ -58478,13 +57428,6 @@
     "group_name": ""
   },
   {
-    "uid": 3494381015271907,
-    "name": "苏苏しずか",
-    "type": "vtuber",
-    "room": 30369002,
-    "group_name": ""
-  },
-  {
     "uid": 3537104808184479,
     "name": "奈良Nara_Official",
     "type": "vtuber",
@@ -58658,13 +57601,6 @@
     "type": "vtuber",
     "room": 30941627,
     "group_name": "北立交桥"
-  },
-  {
-    "uid": 3537108914408145,
-    "name": "小羚当",
-    "type": "vtuber",
-    "room": 30441445,
-    "group_name": ""
   },
   {
     "uid": 3537109067500098,
@@ -58919,13 +57855,6 @@
     "group_name": ""
   },
   {
-    "uid": 3537114788530597,
-    "name": "鹿游器YoYo-",
-    "type": "vtuber",
-    "room": 30521904,
-    "group_name": ""
-  },
-  {
     "uid": 3537114887097069,
     "name": "温柔小茄",
     "type": "vtuber",
@@ -58951,20 +57880,6 @@
     "name": "皮皮BiTi",
     "type": "vtuber",
     "room": 30534136,
-    "group_name": ""
-  },
-  {
-    "uid": 3537115673528967,
-    "name": "未知数XXL",
-    "type": "vtuber",
-    "room": 30541082,
-    "group_name": ""
-  },
-  {
-    "uid": 3537115891632675,
-    "name": "御坂美酋_",
-    "type": "vtuber",
-    "room": 30552941,
     "group_name": ""
   },
   {
@@ -59150,13 +58065,6 @@
     "group_name": ""
   },
   {
-    "uid": 3537120379537441,
-    "name": "莉亚-LEIA",
-    "type": "vtuber",
-    "room": 30606430,
-    "group_name": ""
-  },
-  {
     "uid": 3537120390023307,
     "name": "米莉娅Miria",
     "type": "vtuber",
@@ -59276,20 +58184,6 @@
     "group_name": ""
   },
   {
-    "uid": 3537125238638694,
-    "name": "软桃sama",
-    "type": "vtuber",
-    "room": 30666548,
-    "group_name": ""
-  },
-  {
-    "uid": 3537125578378199,
-    "name": "琭琭-逢考必过版",
-    "type": "vtuber",
-    "room": 30760902,
-    "group_name": ""
-  },
-  {
     "uid": 3546374440225548,
     "name": "安奇Ankie",
     "type": "vtuber",
@@ -59343,13 +58237,6 @@
     "name": "奶团fufu",
     "type": "vtuber",
     "room": 30756904,
-    "group_name": ""
-  },
-  {
-    "uid": 3546377132968558,
-    "name": "绵宝想发财",
-    "type": "vtuber",
-    "room": 30726394,
     "group_name": ""
   },
   {
