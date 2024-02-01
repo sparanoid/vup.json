@@ -49797,6 +49797,13 @@
     "face": "/bfs/face/ddafe4752274dd7d55db6ac0f7a3082b49273681.jpg",
     "group_name": ""
   },
+  "3493115780402148": {
+    "name": "AbaddonVT",
+    "type": "vtuber",
+    "room": 30507001,
+    "face": "/bfs/face/8efa777df255e580df6ec946e726e17bf589ecd8.jpg",
+    "group_name": ""
+  },
   "3493115843315726": {
     "name": "绮葵kiko",
     "type": "vtuber",
@@ -57138,6 +57145,13 @@
     "type": "vtuber",
     "room": 30188797,
     "face": "/bfs/face/421e250954af6e789e6748e6da8a159f2513528b.jpg",
+    "group_name": ""
+  },
+  "3494370160412735": {
+    "name": "Monaka_Official",
+    "type": "vtuber",
+    "room": 30252025,
+    "face": "/bfs/face/00bc8f0edb68c1d074216a94518acb8d2a5f31ee.jpg",
     "group_name": ""
   },
   "3494370263173444": {
