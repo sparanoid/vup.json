@@ -4703,6 +4703,13 @@
     "face": "/bfs/face/7a7fb12ced80651e9886c921c89db4778485538a.jpg",
     "group_name": "Re.Eden伊甸园"
   },
+  "2038511": {
+    "name": "见澈tooru",
+    "type": "vtuber",
+    "room": 23203080,
+    "face": "/bfs/face/5d010838deaebcb878022bf194f0a3d74b411271.jpg",
+    "group_name": ""
+  },
   "2041352": {
     "name": "安泽尔Anzel",
     "type": "vtuber",
@@ -14944,6 +14951,13 @@
     "face": "/bfs/face/066c8d7283e898997b9b827495d4aff84f37d88e.jpg",
     "group_name": ""
   },
+  "23013012": {
+    "name": "虚拟护士不会做梦",
+    "type": "vtuber",
+    "room": 2252994,
+    "face": "/bfs/face/41203122aba190e4806c6c0cc6a4190ddd5f8836.jpg",
+    "group_name": ""
+  },
   "23105244": {
     "name": "无有白の猫咪男仆",
     "type": "vtuber",
@@ -22343,6 +22357,13 @@
     "face": "/bfs/face/4af30a83424a6ea814fe2ccf7400dbf0c88dd6ec.jpg",
     "group_name": ""
   },
+  "294780482": {
+    "name": "bobby__啵啵酱",
+    "type": "vtuber",
+    "room": 26798707,
+    "face": "/bfs/face/70c12e4bf048f477eed71297bf55632d2edf8efe.jpg",
+    "group_name": ""
+  },
   "295047677": {
     "name": "海葵Noah",
     "type": "vtuber",
@@ -25093,6 +25114,13 @@
     "room": 21307497,
     "face": "/bfs/face/3f5b231e6c15a087a70c28071f991442cd9b4bbc.jpg",
     "group_name": ".Live"
+  },
+  "391888668": {
+    "name": "新原修治",
+    "type": "vtuber",
+    "room": 21214386,
+    "face": "/bfs/face/fde9bed496629c00e09558f7d0fb6314cdb08b6a.jpg",
+    "group_name": ""
   },
   "392023656": {
     "name": "春原朔良Vtuber",
@@ -33100,6 +33128,13 @@
     "type": "vtuber",
     "room": 24545151,
     "face": "/bfs/face/46379a8f49a3b795d5f8a3ad8464a814c6dbc890.jpg",
+    "group_name": ""
+  },
+  "604484939": {
+    "name": "阿狸超酷",
+    "type": "vtuber",
+    "room": 23345906,
+    "face": "/bfs/face/f9821806ae11b94442b6f7d17bb1f06c3ea3da86.jpg",
     "group_name": ""
   },
   "604738184": {
@@ -46360,6 +46395,13 @@
     "face": "/bfs/face/024cac75e131cb3e715bd1facfe112a29354e96e.jpg",
     "group_name": ""
   },
+  "2035712820": {
+    "name": "枫茵kaala",
+    "type": "vtuber",
+    "room": 26025069,
+    "face": "/bfs/face/37aca4698d824e79ecfc419bc7de3a02432cb358.jpg",
+    "group_name": ""
+  },
   "2036015357": {
     "name": "利泽特Lizette",
     "type": "vtuber",
@@ -47268,6 +47310,13 @@
     "type": "vtuber",
     "room": 22671775,
     "face": "/bfs/face/92b0212119a4ba8026e0b5aeb44ddf5f01df1a22.jpg",
+    "group_name": ""
+  },
+  "2122066590": {
+    "name": "与月绮_",
+    "type": "vtuber",
+    "room": 26233274,
+    "face": "/bfs/face/0244fe9324ab55f4921e9a0c279381107a0ecf34.jpg",
     "group_name": ""
   },
   "2123631024": {
