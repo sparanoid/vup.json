@@ -10304,6 +10304,14 @@
     "group_name": "Vi-D"
   },
   {
+    "uid": 7071426,
+    "name": "2丫_ニーヤ",
+    "type": "vtuber",
+    "room": 2432712,
+    "face": "/bfs/face/64ece1358163cd87744ec5a73946f4ab9c9c642e.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 7071478,
     "name": "鸽王小哒子",
     "type": "vtuber",
@@ -20765,6 +20773,14 @@
     "type": "vtuber",
     "room": 8167415,
     "face": "/bfs/face/3160065919b5b4ded4b97679f1f1dae589c7c7df.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 54459223,
+    "name": "亨特利森",
+    "type": "vtuber",
+    "room": 22879718,
+    "face": "/bfs/face/ee386e1462ef415ccd2530e6d61a2e9c2f189b1c.jpg",
     "group_name": ""
   },
   {
