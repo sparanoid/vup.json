@@ -6509,6 +6509,13 @@
     "face": "/bfs/face/36504fe436165e4bb71fbb81fba963bbc9f40a40.jpg",
     "group_name": "极光社"
   },
+  "3339943": {
+    "name": "筠子多多胡",
+    "type": "vtuber",
+    "room_id": 31544574,
+    "face": "/bfs/face/fb3e7efd98bda706199a7e742f33d6b5306423a0.jpg",
+    "group_name": ""
+  },
   "3340395": {
     "name": "右左枪枪",
     "type": "vtuber",
@@ -25906,6 +25913,13 @@
     "face": "/bfs/face/1b97ce7a354113d62f4095c4dd06ccd7c1a86d62.jpg",
     "group_name": "Virtual放送部"
   },
+  "402541107": {
+    "name": "钟乐Asking",
+    "type": "vtuber",
+    "room_id": 31462980,
+    "face": "/bfs/face/3bf16a96f6b9f7a76378294d21bb67bfdc415d84.jpg",
+    "group_name": ""
+  },
   "402642078": {
     "name": "小小的小凌",
     "type": "vtuber",
@@ -30524,6 +30538,13 @@
     "type": "vtuber",
     "room_id": 0,
     "face": "/bfs/face/54ac935f5a9afa086cfc85afd7f74d6e37a1340c.jpg",
+    "group_name": ""
+  },
+  "498983091": {
+    "name": "白小糖-Sugar",
+    "type": "vtuber",
+    "room_id": 25161898,
+    "face": "/bfs/face/5cf4df440ae70bfedddbbe2938c3dfa4ff02a5c9.jpg",
     "group_name": ""
   },
   "499135372": {
@@ -35857,7 +35878,7 @@
     "name": "黑川礼音Reion",
     "type": "vtuber",
     "room_id": 22595837,
-    "face": "/bfs/face/2a4e334308a9cd75bfa85a3b6d0487c233c88901.jpg",
+    "face": "/bfs/face/f79917de7a514c5a68292d26ca956491da3e99b3.jpg",
     "group_name": "幻想社Fantas1A"
   },
   "702773222": {
@@ -49454,6 +49475,13 @@
     "face": "/bfs/face/8c71f5cae60818432856ad36f4cee1aaf62d6115.jpg",
     "group_name": "吾音坊"
   },
+  "3493105709877368": {
+    "name": "诗织Shiori_",
+    "type": "vtuber",
+    "room_id": 27866628,
+    "face": "/bfs/face/6067b9404323ca7413e2f87d9c9d4fb75991c0d8.jpg",
+    "group_name": ""
+  },
   "3493105714072019": {
     "name": "卡戎Charon-H",
     "type": "vtuber",
@@ -49886,6 +49914,13 @@
     "type": "vtuber",
     "room_id": 30010120,
     "face": "/bfs/face/233e24780d303e176d72b8f86fb2f094d553bcbd.jpg",
+    "group_name": ""
+  },
+  "3493116860435294": {
+    "name": "穆遥Meow",
+    "type": "vtuber",
+    "room_id": 26828160,
+    "face": "/bfs/face/34062c1cf47817bcdfe0eae545d277fb96150e77.jpg",
     "group_name": ""
   },
   "3493116891892638": {
@@ -50685,6 +50720,13 @@
     "room_id": 27095761,
     "face": "/bfs/face/5a2173c372fa96efa4f3c22a91518b092afc630f.jpg",
     "group_name": ""
+  },
+  "3493131081222651": {
+    "name": "皆月游兔Mizar",
+    "type": "vtuber",
+    "room_id": 30532591,
+    "face": "/bfs/face/ed9e73ed203c4abb5aced824c075de4046929799.jpg",
+    "group_name": "幻想社Fantas1A"
   },
   "3493131144137197": {
     "name": "春日桃絵Momoe_",
@@ -54564,6 +54606,13 @@
     "face": "/bfs/face/385464ea943fd32d2dc7e3518978e35c683436f6.jpg",
     "group_name": ""
   },
+  "3493288938048011": {
+    "name": "城隅Yuniya",
+    "type": "vtuber",
+    "room_id": 27790121,
+    "face": "/bfs/face/5a96fc28f136d07225cb6be462e72b043a4feebc.jpg",
+    "group_name": ""
+  },
   "3493289252620662": {
     "name": "十六夜Yuki_",
     "type": "vtuber",
@@ -55759,6 +55808,13 @@
     "type": "vtuber",
     "room_id": 29003782,
     "face": "/bfs/face/20453dcdb3d2183690e82877872e4e2c9653421b.jpg",
+    "group_name": ""
+  },
+  "3494353624370039": {
+    "name": "祢夜十音",
+    "type": "vtuber",
+    "room_id": 27935833,
+    "face": "/bfs/face/152554625e871422ef7af39dc144d17ec3c60d71.jpg",
     "group_name": ""
   },
   "3494353649535053": {
@@ -59037,6 +59093,13 @@
     "face": "/bfs/face/81dc373eae4d90e9fb57d700be406e8fe7ea7c1e.jpg",
     "group_name": ""
   },
+  "3546568697317654": {
+    "name": "爱莎库娅sakana",
+    "type": "vtuber",
+    "room_id": 31427515,
+    "face": "/bfs/face/5785bbcf188b1dabf05e1b088dce38f87febd3b8.jpg",
+    "group_name": ""
+  },
   "3546569670396161": {
     "name": "林子苏official",
     "type": "vtuber",
@@ -59056,6 +59119,13 @@
     "type": "vtuber",
     "room_id": 31194271,
     "face": "/bfs/face/421feab86f5fe1d1ed782656068c782300994726.jpg",
+    "group_name": ""
+  },
+  "3546570897230224": {
+    "name": "兔豆尼Doki",
+    "type": "vtuber",
+    "room_id": 31231390,
+    "face": "/bfs/face/0ab992d2a19469bb1a75aca6e9d29ee8a071aa46.jpg",
     "group_name": ""
   },
   "3546571715119846": {
