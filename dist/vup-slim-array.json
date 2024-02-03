@@ -15225,6 +15225,13 @@
     "group_name": ""
   },
   {
+    "uid": 23984480,
+    "name": "爱理喵Ariel",
+    "type": "vtuber",
+    "room": 1342469,
+    "group_name": ""
+  },
+  {
     "uid": 24003005,
     "name": "水水超水嗷呜",
     "type": "vtuber",
@@ -50533,6 +50540,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493127404915541,
+    "name": "未眠眠nemu",
+    "type": "vtuber",
+    "room": 31016450,
+    "group_name": ""
+  },
+  {
     "uid": 3493127539132644,
     "name": "伊芙雷塔",
     "type": "vtuber",
@@ -50985,6 +50999,13 @@
     "name": "NaN3517",
     "type": "vtuber",
     "room": 27329234,
+    "group_name": ""
+  },
+  {
+    "uid": 3493135101463395,
+    "name": "柠柠乐er",
+    "type": "vtuber",
+    "room": 31250286,
     "group_name": ""
   },
   {
@@ -53639,6 +53660,13 @@
     "type": "vtuber",
     "room": 30709507,
     "group_name": "新月社FCrescent"
+  },
+  {
+    "uid": 3493275610646926,
+    "name": "温九_S御",
+    "type": "vtuber",
+    "room": 31415069,
+    "group_name": ""
   },
   {
     "uid": 3493275677756014,
@@ -58107,6 +58135,13 @@
     "group_name": ""
   },
   {
+    "uid": 3537109860223833,
+    "name": "公主来也",
+    "type": "vtuber",
+    "room": 30979959,
+    "group_name": ""
+  },
+  {
     "uid": 3537109910554935,
     "name": "蛋牧Chat",
     "type": "vtuber",
@@ -58133,6 +58168,13 @@
     "type": "vtuber",
     "room": 31116092,
     "group_name": "极光社"
+  },
+  {
+    "uid": 3537110539700263,
+    "name": "夜茶nightingale",
+    "type": "vtuber",
+    "room": 30559271,
+    "group_name": ""
   },
   {
     "uid": 3537110602615272,
@@ -58405,6 +58447,13 @@
     "name": "小绿要吃饭",
     "type": "vtuber",
     "room": 30570579,
+    "group_name": ""
+  },
+  {
+    "uid": 3537116971666310,
+    "name": "浅笑-期待",
+    "type": "vtuber",
+    "room": 30568146,
     "group_name": ""
   },
   {
@@ -58954,6 +59003,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546386807130885,
+    "name": "霜月_SYue",
+    "type": "vtuber",
+    "room": 30893565,
+    "group_name": ""
+  },
+  {
     "uid": 3546386914085524,
     "name": "雪祈Yuki",
     "type": "vtuber",
@@ -58993,6 +59049,13 @@
     "name": "酱酱桃姬_Official",
     "type": "vtuber",
     "room": 30905083,
+    "group_name": ""
+  },
+  {
+    "uid": 3546390875605140,
+    "name": "缇芽娜Tiana",
+    "type": "vtuber",
+    "room": 31105615,
     "group_name": ""
   },
   {
@@ -59077,6 +59140,13 @@
     "name": "梅尔Mael",
     "type": "vtuber",
     "room": 31026464,
+    "group_name": ""
+  },
+  {
+    "uid": 3546560294029394,
+    "name": "川云の樱",
+    "type": "vtuber",
+    "room": 31049814,
     "group_name": ""
   },
   {
@@ -59178,6 +59248,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546576001698476,
+    "name": "祂榙游吉kiTa",
+    "type": "vtuber",
+    "room": 31421943,
+    "group_name": ""
+  },
+  {
     "uid": 3546576484043539,
     "name": "盐月Yuu",
     "type": "vtuber",
@@ -59189,6 +59266,13 @@
     "name": "-愛理Airi-",
     "type": "vtuber",
     "room": 31309485,
+    "group_name": ""
+  },
+  {
+    "uid": 3546579726239816,
+    "name": "软糖吃不饱",
+    "type": "vtuber",
+    "room": 31389381,
     "group_name": ""
   },
   {
@@ -59206,10 +59290,24 @@
     "group_name": ""
   },
   {
+    "uid": 3546585608751224,
+    "name": "只只_呆",
+    "type": "vtuber",
+    "room": 31429185,
+    "group_name": ""
+  },
+  {
     "uid": 3546586497944007,
     "name": "柠柯柚柚子_Official",
     "type": "vtuber",
     "room": 31440551,
+    "group_name": ""
+  },
+  {
+    "uid": 3546592531450087,
+    "name": "薯枝i银_",
+    "type": "vtuber",
+    "room": 31525698,
     "group_name": ""
   },
   {
@@ -59225,5 +59323,12 @@
     "type": "vtuber",
     "room": 31597166,
     "group_name": ""
+  },
+  {
+    "uid": 3546611875579929,
+    "name": "北久Kyuu",
+    "type": "vtuber",
+    "room": 31845869,
+    "group_name": "幻想社Fantas1A"
   }
 ]
