@@ -16856,6 +16856,14 @@
     "group_name": ""
   },
   {
+    "uid": 21974189,
+    "name": "Twilight-Dream",
+    "type": "vtuber",
+    "room": 1210760,
+    "face": "/bfs/face/41e8479d809b1cf94ae544d023069a1a018023b7.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 21995982,
     "name": "莎布Shub",
     "type": "vtuber",
@@ -25597,6 +25605,14 @@
     "type": "vtuber",
     "room": 23752910,
     "face": "/bfs/face/439dd1e5955f07005f6a65d85acb824966895cdc.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 295720746,
+    "name": "呱呱太吖",
+    "type": "vtuber",
+    "room": 14707441,
+    "face": "/bfs/face/6850eca137272d1f75dbbe33729448a34499a588.jpg",
     "group_name": ""
   },
   {

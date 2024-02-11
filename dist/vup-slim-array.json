@@ -14749,6 +14749,13 @@
     "group_name": ""
   },
   {
+    "uid": 21974189,
+    "name": "Twilight-Dream",
+    "type": "vtuber",
+    "room": 1210760,
+    "group_name": ""
+  },
+  {
     "uid": 21995982,
     "name": "莎布Shub",
     "type": "vtuber",
@@ -22397,6 +22404,13 @@
     "name": "海葵Noah",
     "type": "vtuber",
     "room": 23752910,
+    "group_name": ""
+  },
+  {
+    "uid": 295720746,
+    "name": "呱呱太吖",
+    "type": "vtuber",
+    "room": 14707441,
     "group_name": ""
   },
   {
