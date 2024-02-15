@@ -18400,6 +18400,14 @@
     "group_name": "纸片人计划"
   },
   {
+    "uid": 29462834,
+    "name": "凛绪四乃-official",
+    "type": "vtuber",
+    "room": 5765361,
+    "face": "/bfs/face/9cdc2955bfee9b838cf36ada4a54479260b81785.webp",
+    "group_name": ""
+  },
+  {
     "uid": 29473017,
     "name": "Jugg3rNaut",
     "type": "vtuber",
@@ -23029,6 +23037,14 @@
     "type": "vtuber",
     "room": 12420293,
     "face": "/bfs/face/be54a8a9960eab2d4537151c762ee4e4aed19dea.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 145093661,
+    "name": "夏夏listo",
+    "type": "vtuber",
+    "room": 5558305,
+    "face": "/bfs/face/354b6f17e6f586826c867157b6aa19c26e8b690a.jpg",
     "group_name": ""
   },
   {
