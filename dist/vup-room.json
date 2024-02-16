@@ -18164,6 +18164,13 @@
     "face": "/bfs/face/a26ef8a7bff35e3ab7d1674098a8fc21141603bc.jpg",
     "group_name": ""
   },
+  "52103491": {
+    "name": "冬岁Channel",
+    "type": "vtuber",
+    "room_id": 8746974,
+    "face": "/bfs/face/e62e77e213610cb15e3b9a2dad37f2ee5652f53f.jpg",
+    "group_name": ""
+  },
   "52122313": {
     "name": "柚木千雪",
     "type": "vtuber",
@@ -29665,6 +29672,13 @@
     "face": "/bfs/face/77ac7ad7d98b8cfa7a50aa21acb8ccc2d18e9811.jpg",
     "group_name": ""
   },
+  "481786861": {
+    "name": "兮瑶Hestia",
+    "type": "vtuber",
+    "room_id": 31230903,
+    "face": "/bfs/face/44e5b0eb2ce8cfb031b50d33f8dab9c8035b1903.jpg",
+    "group_name": ""
+  },
   "481966745": {
     "name": "莜米娜yomna",
     "type": "vtuber",
@@ -30272,6 +30286,13 @@
     "type": "vtuber",
     "room_id": 21772091,
     "face": "/bfs/face/de4f2482e724725262e2e1e4e72bae070310b134.jpg",
+    "group_name": ""
+  },
+  "490096466": {
+    "name": "池茶茶-不打烊",
+    "type": "vtuber",
+    "room_id": 30444444,
+    "face": "/bfs/face/3a786ddff93214701ea5beb770240f052f17b40e.jpg",
     "group_name": ""
   },
   "490240236": {
@@ -35734,6 +35755,13 @@
     "face": "/bfs/face/20d41ce2fa4ac1bc11ea8ed361690c9c19dd2a48.jpg",
     "group_name": ""
   },
+  "694269763": {
+    "name": "芙奈Funa",
+    "type": "vtuber",
+    "room_id": 30860721,
+    "face": "/bfs/face/e33d61bcf52b3af6f3371d1aa9db294710fd4a79.jpg",
+    "group_name": ""
+  },
   "694327823": {
     "name": "提耶凛Channel",
     "type": "vtuber",
@@ -38735,6 +38763,13 @@
     "type": "vtuber",
     "room_id": 27010938,
     "face": "/bfs/face/18dbb4a654a1f037300047dc02db633209fd2036.jpg",
+    "group_name": ""
+  },
+  "1261808199": {
+    "name": "酥妲莱维Starlight",
+    "type": "vtuber",
+    "room_id": 30872212,
+    "face": "/bfs/face/1af31e800f68d32ad779a4967518e04a0c80b962.jpg",
     "group_name": ""
   },
   "1261835179": {
@@ -54401,6 +54436,13 @@
     "type": "vtuber",
     "room_id": 27619578,
     "face": "/bfs/face/7ffea5956279e1c255dfbf136b3be3b4e6ee8a2f.jpg",
+    "group_name": ""
+  },
+  "3493282111818202": {
+    "name": "陈玺颜",
+    "type": "vtuber",
+    "room_id": 27803956,
+    "face": "/bfs/face/ca0e409746ae835b472c14a83ca91118fcf9342a.jpg",
     "group_name": ""
   },
   "3493282128595468": {
