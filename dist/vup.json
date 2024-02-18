@@ -4087,6 +4087,13 @@
     "face": "/bfs/face/262d9a80c314eeea5f7c02d2e4247e583b9eaaa8.jpg",
     "group_name": ""
   },
+  "1643718": {
+    "name": "山下智博",
+    "type": "vtuber",
+    "room": 5193,
+    "face": "/bfs/face/2f5096d8a30523e545377c0e7b0138c2d1432799.jpg",
+    "group_name": ""
+  },
   "1657621": {
     "name": "蕾伊娜Reyna",
     "type": "vtuber",
@@ -52101,7 +52108,7 @@
     "group_name": ""
   },
   "3493144242948099": {
-    "name": "奶瓶_新年暴富版",
+    "name": "奶瓶与人头皆失",
     "type": "vtuber",
     "room": 27255071,
     "face": "/bfs/face/b3e643d6850294614840a60393cb0df9cf7ff5ea.jpg",
