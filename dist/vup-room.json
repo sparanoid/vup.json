@@ -6124,6 +6124,13 @@
     "face": "/bfs/face/adce165f218f151104d708401a428909af968087.jpg",
     "group_name": ""
   },
+  "3066617": {
+    "name": "火锅味小汐",
+    "type": "vtuber",
+    "room_id": 808425,
+    "face": "/bfs/face/552c74916b234775c96df74a729da213d88055be.jpg",
+    "group_name": ""
+  },
   "3068376": {
     "name": "爱遁地的萝卜卜",
     "type": "vtuber",
@@ -17777,6 +17784,13 @@
     "type": "vtuber",
     "room_id": 14197798,
     "face": "/bfs/face/4f3d610839ddd127c1163c1095ed0aebbd7dff0e.webp",
+    "group_name": ""
+  },
+  "45280964": {
+    "name": "晚晚Ailsa",
+    "type": "vtuber",
+    "room_id": 1420300,
+    "face": "/bfs/face/42db26d7bd196e33d645028937821f29a1d3f141.jpg",
     "group_name": ""
   },
   "45336140": {
@@ -49090,6 +49104,13 @@
     "face": "/bfs/face/359b30d0e1e61772621b1d191d9bcad38b5f2c45.jpg",
     "group_name": ""
   },
+  "3493081982700180": {
+    "name": "绘星墨墨",
+    "type": "vtuber",
+    "room_id": 26683568,
+    "face": "/bfs/face/6e56316f96dab0b16c88252ccdd6fc893ebd8e52.jpg",
+    "group_name": ""
+  },
   "3493082121111840": {
     "name": "LLABB来比",
     "type": "vtuber",
@@ -54596,7 +54617,7 @@
     "name": "Lin汵汵づ",
     "type": "vtuber",
     "room_id": 27678370,
-    "face": "/bfs/face/9546c4b32f8540b9ab26f6a111a8afba82e12eaa.jpg",
+    "face": "/bfs/face/0573fc458b88f2d0347fe99c4aab4fb24557c0d2.jpg",
     "group_name": ""
   },
   "3493283825191719": {
