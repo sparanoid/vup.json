@@ -14128,7 +14128,7 @@
   "19431897": {
     "name": "雪域Provealms",
     "type": "group",
-    "room": 0,
+    "room": 32041212,
     "face": "/bfs/face/dd64c35fba33f9aa3dd26d667c15a9479a5c7584.jpg",
     "group_name": "雪域Provealms"
   },
@@ -14332,7 +14332,7 @@
     "name": "与枝老师",
     "type": "vtuber",
     "room": 24343457,
-    "face": "/bfs/face/7eb5e9f4e52c0c9661991a219f61f3689b8f8f5d.jpg",
+    "face": "/bfs/face/979dc4dea21b7062723baae50a7bff62163f90b1.jpg",
     "group_name": "新月社FCrescent"
   },
   "20036042": {
@@ -20387,7 +20387,7 @@
     "name": "罗素ラッセル_official",
     "type": "vtuber",
     "room": 9777983,
-    "face": "/bfs/face/083e680f16ee55c782e161b780c07d9b6e6812a7.jpg",
+    "face": "/bfs/face/448343c0140d17b252f9826f8961318b9f0c13ee.jpg",
     "group_name": ""
   },
   "152257800": {
