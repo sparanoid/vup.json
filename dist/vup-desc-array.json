@@ -2322,6 +2322,15 @@
     "group_name": ""
   },
   {
+    "uid": 489532,
+    "name": "翼翼子Tsubasa",
+    "type": "vtuber",
+    "room": 1628427,
+    "face": "/bfs/face/7d628a7646b9fd8976ef1e51f8f6507617ce7b63.jpg",
+    "sign": "一条画画模型一体机的鱼 // 鱼缸：543300890",
+    "group_name": ""
+  },
+  {
     "uid": 490700,
     "name": "夜色壊滅",
     "type": "vtuber",
@@ -19071,6 +19080,15 @@
     "group_name": ""
   },
   {
+    "uid": 21964952,
+    "name": "潘多拉的手记",
+    "type": "vtuber",
+    "room": 3156100,
+    "face": "/bfs/face/abaf2ba2f4b903fefae2f3fa90e6ccdbfe62b1de.jpg",
+    "sign": "三月要忙考试，可能会似一阵",
+    "group_name": ""
+  },
+  {
     "uid": 21974189,
     "name": "Twilight-Dream",
     "type": "vtuber",
@@ -29776,7 +29794,7 @@
     "name": "凤小七seven",
     "type": "vtuber",
     "room": 24833274,
-    "face": "/bfs/face/43a3b7225acc7232b00db007881d06d00128d3a5.jpg",
+    "face": "/bfs/face/12fecbce532a4b6699836d867f1254386642a07c.jpg",
     "sign": "做一个像阳光般温暖的凤凰！个人势凤族小七～不是走地鸡！！小七不加工会，谢谢各位老师赏识～爱您！啾咪～",
     "group_name": ""
   },
@@ -31732,6 +31750,15 @@
     "face": "/bfs/face/82dd42538e888c47cc1995d26b31b7ca01bb027a.jpg",
     "sign": "大家好 我是道明寺可可亚 有时会唱一些我喜欢的歌 请大家多多关照",
     "group_name": "Unlimited"
+  },
+  {
+    "uid": 382188993,
+    "name": "椰果SAM",
+    "type": "vtuber",
+    "room": 14489231,
+    "face": "/bfs/face/13bf72903facd0702211cdd9d363e3a2fbd0e215.jpg",
+    "sign": "如没及时回复➕企鹅2897313380(带图问价)",
+    "group_name": ""
   },
   {
     "uid": 382201416,
@@ -73675,7 +73702,7 @@
   },
   {
     "uid": 3494365156608185,
-    "name": "温以泠",
+    "name": "温以泠25号生日啦",
     "type": "vtuber",
     "room": 30118851,
     "face": "/bfs/face/5250a578913f6e8ee4bbba39fef7201e4f88f353.jpg",
@@ -76140,6 +76167,15 @@
     "group_name": ""
   },
   {
+    "uid": 3537124399778686,
+    "name": "NeroRi-",
+    "type": "vtuber",
+    "room": 31454125,
+    "face": "/bfs/face/ac3279e4351616d981b0c262c8177b5ee56e90e3.jpg",
+    "sign": "欢迎来到我的花园。",
+    "group_name": ""
+  },
+  {
     "uid": 3546374440225548,
     "name": "安奇Ankie",
     "type": "vtuber",
@@ -76581,12 +76617,30 @@
     "group_name": ""
   },
   {
+    "uid": 3546388954614313,
+    "name": "阿酸zZ",
+    "type": "vtuber",
+    "room": 31252654,
+    "face": "/bfs/face/e8b8cb391ce678806dd9d612baf33665b40fb88d.jpg",
+    "sign": "想被大家听到的个人势小柠檬",
+    "group_name": ""
+  },
+  {
     "uid": 3546389967538691,
     "name": "芋小桃oo",
     "type": "vtuber",
     "room": 30905083,
     "face": "/bfs/face/09a4be28a2a8dc5139c800c74ab4f21770c616bf.jpg",
     "sign": "…",
+    "group_name": ""
+  },
+  {
+    "uid": 3546390657501325,
+    "name": "我叫森莫",
+    "type": "vtuber",
+    "room": 31078686,
+    "face": "/bfs/face/2869a28d01dedc8c45ae5f9bd09a70c77ea576ea.jpg",
+    "sign": "喜欢画画的僵尸少女，双重人格，话多是被呆毛夺舍了",
     "group_name": ""
   },
   {
@@ -76633,6 +76687,15 @@
     "face": "/bfs/face/e606ef4e164a36ce69fb5c7179e74e2f99c32d0a.jpg",
     "sign": "「北立交桥•妖精管理局」所属 爱唱歌爱打游戏的小狮虎兽",
     "group_name": "北立交桥"
+  },
+  {
+    "uid": 3546392437984168,
+    "name": "粥千千Money_",
+    "type": "vtuber",
+    "room": 31080151,
+    "face": "/bfs/face/18fc15402a90f8a493ad67d433b388789ae1e5ea.jpg",
+    "sign": "可可爱爱、情绪稳定、永不发疯的扇贝公主~扇贝精的小窝号:644534772",
+    "group_name": ""
   },
   {
     "uid": 3546392779819713,
@@ -76713,6 +76776,15 @@
     "room": 31026464,
     "face": "/bfs/face/991e2b40fd4553ba12d3cfcfd99bb3c1daa95182.jpg",
     "sign": "欢迎入梦，我是您的梦境调查员，梅尔Mael。直播通知群：941257899；录播号：梦境调查员记录所",
+    "group_name": ""
+  },
+  {
+    "uid": 3546559320951456,
+    "name": "容涯-Akuma",
+    "type": "vtuber",
+    "room": 31036998,
+    "face": "/bfs/face/bf21741616d809a3343a5ad15607cafbf72d2fa2.jpg",
+    "sign": " 个人势 笨蛋美人少御音 十年狂热老二次元 每晚十点见 --开啵通知群：【484961384】",
     "group_name": ""
   },
   {

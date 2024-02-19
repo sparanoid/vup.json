@@ -1805,6 +1805,13 @@
     "face": "/bfs/face/d36bd551ef485747a61324d268ed98781743babf.jpg",
     "group_name": ""
   },
+  "489532": {
+    "name": "翼翼子Tsubasa",
+    "type": "vtuber",
+    "room_id": 1628427,
+    "face": "/bfs/face/7d628a7646b9fd8976ef1e51f8f6507617ce7b63.jpg",
+    "group_name": ""
+  },
   "490700": {
     "name": "夜色壊滅",
     "type": "vtuber",
@@ -14832,6 +14839,13 @@
     "face": "/bfs/face/733a3d634ce992050ed5355ee7fd5cecbce696b3.jpg",
     "group_name": ""
   },
+  "21964952": {
+    "name": "潘多拉的手记",
+    "type": "vtuber",
+    "room_id": 3156100,
+    "face": "/bfs/face/abaf2ba2f4b903fefae2f3fa90e6ccdbfe62b1de.jpg",
+    "group_name": ""
+  },
   "21974189": {
     "name": "Twilight-Dream",
     "type": "vtuber",
@@ -23159,7 +23173,7 @@
     "name": "凤小七seven",
     "type": "vtuber",
     "room_id": 24833274,
-    "face": "/bfs/face/43a3b7225acc7232b00db007881d06d00128d3a5.jpg",
+    "face": "/bfs/face/12fecbce532a4b6699836d867f1254386642a07c.jpg",
     "group_name": ""
   },
   "321819314": {
@@ -24680,6 +24694,13 @@
     "room_id": 0,
     "face": "/bfs/face/82dd42538e888c47cc1995d26b31b7ca01bb027a.jpg",
     "group_name": "Unlimited"
+  },
+  "382188993": {
+    "name": "椰果SAM",
+    "type": "vtuber",
+    "room_id": 14489231,
+    "face": "/bfs/face/13bf72903facd0702211cdd9d363e3a2fbd0e215.jpg",
+    "group_name": ""
   },
   "382201416": {
     "name": "猫の神様",
@@ -57302,7 +57323,7 @@
     "group_name": ""
   },
   "3494365156608185": {
-    "name": "温以泠",
+    "name": "温以泠25号生日啦",
     "type": "vtuber",
     "room_id": 30118851,
     "face": "/bfs/face/5250a578913f6e8ee4bbba39fef7201e4f88f353.jpg",
@@ -59219,6 +59240,13 @@
     "face": "/bfs/face/7b245d5a56ff6ae3c53b0fde538076fc3fbbfa4b.jpg",
     "group_name": ""
   },
+  "3537124399778686": {
+    "name": "NeroRi-",
+    "type": "vtuber",
+    "room_id": 31454125,
+    "face": "/bfs/face/ac3279e4351616d981b0c262c8177b5ee56e90e3.jpg",
+    "group_name": ""
+  },
   "3546374440225548": {
     "name": "安奇Ankie",
     "type": "vtuber",
@@ -59562,11 +59590,25 @@
     "face": "/bfs/face/1f0662a09ff4ed70cde2e7690a36ec7bec5bd09e.jpg",
     "group_name": ""
   },
+  "3546388954614313": {
+    "name": "阿酸zZ",
+    "type": "vtuber",
+    "room_id": 31252654,
+    "face": "/bfs/face/e8b8cb391ce678806dd9d612baf33665b40fb88d.jpg",
+    "group_name": ""
+  },
   "3546389967538691": {
     "name": "芋小桃oo",
     "type": "vtuber",
     "room_id": 30905083,
     "face": "/bfs/face/09a4be28a2a8dc5139c800c74ab4f21770c616bf.jpg",
+    "group_name": ""
+  },
+  "3546390657501325": {
+    "name": "我叫森莫",
+    "type": "vtuber",
+    "room_id": 31078686,
+    "face": "/bfs/face/2869a28d01dedc8c45ae5f9bd09a70c77ea576ea.jpg",
     "group_name": ""
   },
   "3546390875605140": {
@@ -59603,6 +59645,13 @@
     "room_id": 30999783,
     "face": "/bfs/face/e606ef4e164a36ce69fb5c7179e74e2f99c32d0a.jpg",
     "group_name": "北立交桥"
+  },
+  "3546392437984168": {
+    "name": "粥千千Money_",
+    "type": "vtuber",
+    "room_id": 31080151,
+    "face": "/bfs/face/18fc15402a90f8a493ad67d433b388789ae1e5ea.jpg",
+    "group_name": ""
   },
   "3546392779819713": {
     "name": "潞竹Liesel",
@@ -59665,6 +59714,13 @@
     "type": "vtuber",
     "room_id": 31026464,
     "face": "/bfs/face/991e2b40fd4553ba12d3cfcfd99bb3c1daa95182.jpg",
+    "group_name": ""
+  },
+  "3546559320951456": {
+    "name": "容涯-Akuma",
+    "type": "vtuber",
+    "room_id": 31036998,
+    "face": "/bfs/face/bf21741616d809a3343a5ad15607cafbf72d2fa2.jpg",
     "group_name": ""
   },
   "3546560294029394": {

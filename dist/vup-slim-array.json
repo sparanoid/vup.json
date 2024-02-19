@@ -1806,6 +1806,13 @@
     "group_name": ""
   },
   {
+    "uid": 489532,
+    "name": "翼翼子Tsubasa",
+    "type": "vtuber",
+    "room": 1628427,
+    "group_name": ""
+  },
+  {
     "uid": 490700,
     "name": "夜色壊滅",
     "type": "vtuber",
@@ -14833,6 +14840,13 @@
     "group_name": ""
   },
   {
+    "uid": 21964952,
+    "name": "潘多拉的手记",
+    "type": "vtuber",
+    "room": 3156100,
+    "group_name": ""
+  },
+  {
     "uid": 21974189,
     "name": "Twilight-Dream",
     "type": "vtuber",
@@ -24680,6 +24694,13 @@
     "type": "vtuber",
     "room": 0,
     "group_name": "Unlimited"
+  },
+  {
+    "uid": 382188993,
+    "name": "椰果SAM",
+    "type": "vtuber",
+    "room": 14489231,
+    "group_name": ""
   },
   {
     "uid": 382201416,
@@ -57303,7 +57324,7 @@
   },
   {
     "uid": 3494365156608185,
-    "name": "温以泠",
+    "name": "温以泠25号生日啦",
     "type": "vtuber",
     "room": 30118851,
     "group_name": ""
@@ -59220,6 +59241,13 @@
     "group_name": ""
   },
   {
+    "uid": 3537124399778686,
+    "name": "NeroRi-",
+    "type": "vtuber",
+    "room": 31454125,
+    "group_name": ""
+  },
+  {
     "uid": 3546374440225548,
     "name": "安奇Ankie",
     "type": "vtuber",
@@ -59563,10 +59591,24 @@
     "group_name": ""
   },
   {
+    "uid": 3546388954614313,
+    "name": "阿酸zZ",
+    "type": "vtuber",
+    "room": 31252654,
+    "group_name": ""
+  },
+  {
     "uid": 3546389967538691,
     "name": "芋小桃oo",
     "type": "vtuber",
     "room": 30905083,
+    "group_name": ""
+  },
+  {
+    "uid": 3546390657501325,
+    "name": "我叫森莫",
+    "type": "vtuber",
+    "room": 31078686,
     "group_name": ""
   },
   {
@@ -59603,6 +59645,13 @@
     "type": "vtuber",
     "room": 30999783,
     "group_name": "北立交桥"
+  },
+  {
+    "uid": 3546392437984168,
+    "name": "粥千千Money_",
+    "type": "vtuber",
+    "room": 31080151,
+    "group_name": ""
   },
   {
     "uid": 3546392779819713,
@@ -59665,6 +59714,13 @@
     "name": "梅尔Mael",
     "type": "vtuber",
     "room": 31026464,
+    "group_name": ""
+  },
+  {
+    "uid": 3546559320951456,
+    "name": "容涯-Akuma",
+    "type": "vtuber",
+    "room": 31036998,
     "group_name": ""
   },
   {
