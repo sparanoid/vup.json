@@ -8816,6 +8816,14 @@
     "group_name": ""
   },
   {
+    "uid": 4861197,
+    "name": "雾雨威Channel",
+    "type": "vtuber",
+    "room": 311280,
+    "face": "/bfs/face/6555a65522ebec977f9c7c2aafbb545130bfab26.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 4865406,
     "name": "二小姐_Ash",
     "type": "vtuber",
@@ -15181,6 +15189,14 @@
     "type": "vtuber",
     "room": 351326,
     "face": "/bfs/face/f69b99d393f384c5d0606fbd070f778de0ec9b8a.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 15498290,
+    "name": "冷暖自知_QvQ",
+    "type": "vtuber",
+    "room": 22933451,
+    "face": "/bfs/face/6c21e862d7907fee92322c5a8eba4f46a2721d97.jpg",
     "group_name": ""
   },
   {
@@ -47704,6 +47720,14 @@
     "group_name": "NIJISANJI EN"
   },
   {
+    "uid": 1544974963,
+    "name": "啵奇Pochi",
+    "type": "vtuber",
+    "room": 31515209,
+    "face": "/bfs/face/16286eb7353dd0a4fb296863543cb115ad84a0df.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1545158704,
     "name": "长泱_",
     "type": "vtuber",
@@ -57764,7 +57788,7 @@
     "name": "第五灌灌",
     "type": "vtuber",
     "room": 26924998,
-    "face": "/bfs/face/ace7d6d42a7d03ae327264d52d4265471b72829d.jpg",
+    "face": "/bfs/face/92a2c8c4cb96d6157561e5a32c0d99da53ede756.jpg",
     "group_name": ""
   },
   {
@@ -58437,6 +58461,14 @@
     "type": "vtuber",
     "room": 27141056,
     "face": "/bfs/face/a3f549ab62d824d721baf2b1627df303389a4447.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493130863119036,
+    "name": "鱼米Yumia",
+    "type": "vtuber",
+    "room": 27020604,
+    "face": "/bfs/face/62ccc12dd6ccdafd77333b2b8253454e141be0cc.jpg",
     "group_name": ""
   },
   {
@@ -68069,6 +68101,14 @@
     "type": "vtuber",
     "room": 30939117,
     "face": "/bfs/face/f76030a3f0e8b0882795cfbc09c363fbfccb4554.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546392339417619,
+    "name": "梦乃莉莎",
+    "type": "vtuber",
+    "room": 31217916,
+    "face": "/bfs/face/3088650e3f9329774190e9f7e381c3ff39d2764e.jpg",
     "group_name": ""
   },
   {
