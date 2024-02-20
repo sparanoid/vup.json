@@ -7152,11 +7152,11 @@
     "group_name": ""
   },
   "3149619": {
-    "name": "有栖Mana_Official",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 3822389,
-    "face": "/bfs/face/7c945458615d8e2d2944d5aac1a998c9d9f5550f.jpg",
-    "sign": " 来自韩国的小狐狸～ ",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": "P家"
   },
   "3151738": {
@@ -16964,7 +16964,7 @@
     "type": "vtuber",
     "room": 3156100,
     "face": "/bfs/face/abaf2ba2f4b903fefae2f3fa90e6ccdbfe62b1de.jpg",
-    "sign": "三月要忙考试，可能会似一阵",
+    "sign": "希望我们都能自由快乐且体面的活着。",
     "group_name": ""
   },
   "21974189": {
@@ -23812,7 +23812,7 @@
     "type": "vtuber",
     "room": 23086860,
     "face": "/bfs/face/bcef14b779ad9336c669887c0340c7cf6a134f1f.jpg",
-    "sign": "甜美软萌 | 全职VUP | 爱好：唱歌、写歌、游戏 | ❤有一颗纯真的心 | ❤谢谢三和弦 | Q群425526208",
+    "sign": "甜美软萌 | 全职VUP | 爱好：唱歌、写歌、游戏 | ❤有一颗纯真的心 | ❤三和弦的猫 | Q群425526208",
     "group_name": ""
   },
   "176548947": {
@@ -35340,7 +35340,7 @@
     "type": "vtuber",
     "room": 21826972,
     "face": "/bfs/face/81392dd28eac0ced85831eb42ded7de2dbd28a28.jpg",
-    "sign": "重新回归全职的养老V，希望能重新获得大家的支持。无社团无公会铁血个人势。",
+    "sign": "重新回归全职的养老V，希望能重新获得大家的支持。纯血个人势，公会勿扰。",
     "group_name": ""
   },
   "500828424": {
@@ -68219,7 +68219,7 @@
     "name": "粥千千Money_",
     "type": "vtuber",
     "room": 31080151,
-    "face": "/bfs/face/18fc15402a90f8a493ad67d433b388789ae1e5ea.jpg",
+    "face": "/bfs/face/10ed10044f03e49b21080bfa33fc298994168097.jpg",
     "sign": "可可爱爱、情绪稳定、永不发疯的扇贝公主~扇贝精的小窝号:644534772",
     "group_name": ""
   },

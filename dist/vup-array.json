@@ -7153,10 +7153,10 @@
   },
   {
     "uid": 3149619,
-    "name": "有栖Mana_Official",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 3822389,
-    "face": "/bfs/face/7c945458615d8e2d2944d5aac1a998c9d9f5550f.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": "P家"
   },
   {
@@ -68220,7 +68220,7 @@
     "name": "粥千千Money_",
     "type": "vtuber",
     "room": 31080151,
-    "face": "/bfs/face/18fc15402a90f8a493ad67d433b388789ae1e5ea.jpg",
+    "face": "/bfs/face/10ed10044f03e49b21080bfa33fc298994168097.jpg",
     "group_name": ""
   },
   {
