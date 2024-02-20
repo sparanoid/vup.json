@@ -122,7 +122,7 @@
     "name": "蘭葵Ranao",
     "type": "vtuber",
     "room_id": 657572,
-    "face": "/bfs/face/994fc52410d4fa2ffcc0ddc19e316b7cd337cede.jpg",
+    "face": "/bfs/face/da68489b42d50bb5522a89dd78e0229d37aa1fd5.jpg",
     "group_name": "纸片人计划"
   },
   "22755": {
@@ -18165,7 +18165,7 @@
     "group_name": ""
   },
   "51260551": {
-    "name": "明明猪-Mz-",
+    "name": "明明猪-坚强版",
     "type": "vtuber",
     "room_id": 26581663,
     "face": "/bfs/face/29e65e1b61222fbb64bc36cc78a305a7e3323c95.jpg",
@@ -29501,7 +29501,7 @@
     "name": "琉夜Ryu",
     "type": "vtuber",
     "room_id": 30471632,
-    "face": "/bfs/face/94d12465a87dec7e6d7aa98696b6e9678bfb91f7.jpg",
+    "face": "/bfs/face/f6f05d4e92332a249ef486f747391e96355038e8.jpg",
     "group_name": ""
   },
   "478735811": {
@@ -29561,10 +29561,10 @@
     "group_name": ""
   },
   "479689815": {
-    "name": "InkSchool",
+    "name": "bilibili",
     "type": "group",
-    "room_id": 21684058,
-    "face": "/bfs/face/ddf5dfa3c610a72e031c8062abd29f8683fe8dcc.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": "inkschool"
   },
   "479729029": {
@@ -32046,10 +32046,10 @@
     "group_name": ""
   },
   "524805480": {
-    "name": "瑞茵",
+    "name": "瑞茵-少萝版",
     "type": "vtuber",
     "room_id": 30190355,
-    "face": "/bfs/face/89bac27bec4c629444ae77d1248308f899be0b9d.jpg",
+    "face": "/bfs/face/4e2a2beaa8f7d6666628476b0a14b4a81423c12c.jpg",
     "group_name": ""
   },
   "524962212": {
@@ -36760,7 +36760,7 @@
     "name": "宫心绘梨奈",
     "type": "vtuber",
     "room_id": 26730839,
-    "face": "/bfs/face/90e89f5974379eef26cc067d985522e26b2296a1.jpg",
+    "face": "/bfs/face/eb9f3955d8884c9825ede9429a267d66297c7a36.jpg",
     "group_name": ""
   },
   "1051422690": {
@@ -38398,7 +38398,7 @@
     "name": "凜凜蝶凜",
     "type": "vtuber",
     "room_id": 25290861,
-    "face": "/bfs/face/b64ab98812d26748b96489c93a79c7143d39e14f.jpg",
+    "face": "/bfs/face/431ae29429766d87e7b9ce73669493b12aa90a78.jpg",
     "group_name": ""
   },
   "1220362929": {
@@ -49665,7 +49665,7 @@
     "group_name": ""
   },
   "3493092866919146": {
-    "name": "苏小泡泡ovo",
+    "name": "苏大泡泡ovo",
     "type": "vtuber",
     "room_id": 30981250,
     "face": "/bfs/face/78b9f33bbc0ab58b1a34924de0034340729b141d.jpg",
@@ -59622,7 +59622,7 @@
     "name": "塞西莉雅Ceilia",
     "type": "vtuber",
     "room_id": 30932116,
-    "face": "/bfs/face/d7052887a340d27c8b3e5dabbbe105d81392eeb7.jpg",
+    "face": "/bfs/face/12413808ccc0ce314d75f599165037460efd80ae.jpg",
     "group_name": ""
   },
   "3546388438715068": {
