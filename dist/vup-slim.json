@@ -2171,6 +2171,12 @@
     "room": 3725076,
     "group_name": ""
   },
+  "654852": {
+    "name": "浅月Asaitsuki-自律人偶",
+    "type": "vtuber",
+    "room": 825202,
+    "group_name": ""
+  },
   "656721": {
     "name": "彩笔IroEnpitsu",
     "type": "vtuber",
@@ -4715,12 +4721,6 @@
     "room": 384649,
     "group_name": ""
   },
-  "2592429": {
-    "name": "特种兵-培根树精1",
-    "type": "vtuber",
-    "room": 833688,
-    "group_name": ""
-  },
   "2599310": {
     "name": "秋月枫Kaede",
     "type": "vtuber",
@@ -6262,12 +6262,6 @@
     "type": "vtuber",
     "room": 454154,
     "group_name": "Vi-D"
-  },
-  "4296831": {
-    "name": "A_MESHi_ohanashi",
-    "type": "vtuber",
-    "room": 659629,
-    "group_name": ""
   },
   "4298023": {
     "name": "桃泽美羽Miyu",
@@ -10037,12 +10031,6 @@
     "room": 1720083,
     "group_name": ""
   },
-  "11836388": {
-    "name": "bili_275227238",
-    "type": "vtuber",
-    "room": 1386102,
-    "group_name": ""
-  },
   "11864934": {
     "name": "苺実とまる",
     "type": "vtuber",
@@ -11944,12 +11932,6 @@
     "type": "vtuber",
     "room": 12267464,
     "group_name": "云光计划"
-  },
-  "18265201": {
-    "name": "是幻羽A酱哒",
-    "type": "vtuber",
-    "room": 2781167,
-    "group_name": ""
   },
   "18275424": {
     "name": "吃粽子的大粽子",
@@ -15665,12 +15647,6 @@
     "room": 4457411,
     "group_name": "inkschool"
   },
-  "53159212": {
-    "name": "涅阿",
-    "type": "vtuber",
-    "room": 21645790,
-    "group_name": ""
-  },
   "53270454": {
     "name": "明凌Akariryou",
     "type": "vtuber",
@@ -17603,12 +17579,6 @@
     "room": 5293697,
     "group_name": ""
   },
-  "160526160": {
-    "name": "-蛙蛙Official-",
-    "type": "vtuber",
-    "room": 7183715,
-    "group_name": ""
-  },
   "161082853": {
     "name": "盖娜_Kaena",
     "type": "vtuber",
@@ -18539,12 +18509,6 @@
     "room": 27920960,
     "group_name": ""
   },
-  "245830447": {
-    "name": "bili_41215781023",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
   "247586004": {
     "name": "茉茉Official",
     "type": "vtuber",
@@ -19131,12 +19095,6 @@
     "name": "敖霜_Channel",
     "type": "vtuber",
     "room": 23301624,
-    "group_name": ""
-  },
-  "285043115": {
-    "name": "我叫サアヤ",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   "285653729": {
@@ -20669,12 +20627,6 @@
     "room": 23946255,
     "group_name": ""
   },
-  "356333940": {
-    "name": "小麦的元宇宙直播间",
-    "type": "vtuber",
-    "room": 21646179,
-    "group_name": ""
-  },
   "356395260": {
     "name": "木子汐suki",
     "type": "vtuber",
@@ -21747,12 +21699,6 @@
     "name": "春原朔良Vtuber",
     "type": "vtuber",
     "room": 0,
-    "group_name": ""
-  },
-  "392101937": {
-    "name": "-水梨若official-",
-    "type": "vtuber",
-    "room": 21745906,
     "group_name": ""
   },
   "392162998": {
@@ -24209,12 +24155,6 @@
     "room": 21515803,
     "group_name": ""
   },
-  "443300418": {
-    "name": "bili_61204868663",
-    "type": "vtuber",
-    "room": 21545232,
-    "group_name": "Hololive"
-  },
   "443305053": {
     "name": "兔田佩克拉Official",
     "type": "vtuber",
@@ -25299,6 +25239,12 @@
     "name": "呆卡普里奥",
     "type": "vtuber",
     "room": 21664291,
+    "group_name": ""
+  },
+  "479193165": {
+    "name": "卡露比karu8y",
+    "type": "vtuber",
+    "room": 23683349,
     "group_name": ""
   },
   "479326657": {
@@ -29477,12 +29423,6 @@
     "room": 0,
     "group_name": ""
   },
-  "638467578": {
-    "name": "bli_638467578",
-    "type": "vtuber",
-    "room": 24488515,
-    "group_name": ""
-  },
   "638827899": {
     "name": "伊斯特尔_official",
     "type": "vtuber",
@@ -31401,6 +31341,12 @@
     "name": "惗惗neko",
     "type": "vtuber",
     "room": 26924168,
+    "group_name": ""
+  },
+  "1039093936": {
+    "name": "夏璐璐Ruby_Channel",
+    "type": "vtuber",
+    "room": 25710941,
     "group_name": ""
   },
   "1039584302": {
@@ -44303,6 +44249,12 @@
     "room": 30188526,
     "group_name": ""
   },
+  "3493137741777620": {
+    "name": "云青墨宇Official",
+    "type": "vtuber",
+    "room": 27148713,
+    "group_name": ""
+  },
   "3493137800497830": {
     "name": "小吉急急急",
     "type": "vtuber",
@@ -48741,12 +48693,6 @@
     "name": "朝夕池Oasis",
     "type": "vtuber",
     "room": 30063873,
-    "group_name": ""
-  },
-  "3494358399584771": {
-    "name": "小丸Sco",
-    "type": "vtuber",
-    "room": 30560322,
     "group_name": ""
   },
   "3494358428944516": {

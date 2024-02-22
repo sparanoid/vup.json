@@ -2895,6 +2895,14 @@
     "sign": "依旧是兴趣使然的教廷魔女。",
     "group_name": ""
   },
+  "654852": {
+    "name": "浅月Asaitsuki-自律人偶",
+    "type": "vtuber",
+    "room": 825202,
+    "face": "/bfs/face/134c923ab2f837f2967613c3046ae3d32a899fcb.jpg",
+    "sign": "滴...检测机能——正常...  滴...检测意识——稳定... 滴...检测心理状态中——性别认知障碍...",
+    "group_name": ""
+  },
   "656721": {
     "name": "彩笔IroEnpitsu",
     "type": "vtuber",
@@ -6287,14 +6295,6 @@
     "sign": "今天的吸血鬼也在绝赞死亡中",
     "group_name": ""
   },
-  "2592429": {
-    "name": "特种兵-培根树精1",
-    "type": "vtuber",
-    "room": 833688,
-    "face": "/bfs/face/364752deac30f5dfd5e45b7dc0acbbcfd3813b7e.jpg",
-    "sign": "",
-    "group_name": ""
-  },
   "2599310": {
     "name": "秋月枫Kaede",
     "type": "vtuber",
@@ -8350,14 +8350,6 @@
     "face": "/bfs/face/72355bcd570086e7e17957b9470b409731375a10.jpg",
     "sign": "✈️虚拟飞行员七海幽娴,湛蓝苍穹的守护天使,颂赞无限希望的未来! <画师: Eir;希卡Shika.><ViD鸽舍社员>",
     "group_name": "Vi-D"
-  },
-  "4296831": {
-    "name": "A_MESHi_ohanashi",
-    "type": "vtuber",
-    "room": 659629,
-    "face": "/bfs/face/cfbca94fa5b76f9c59e0ffebd35eba1a8038c252.jpg",
-    "sign": "twi: @4me4zZ // 网易云  雨氏 // 我永远喜欢你们",
-    "group_name": ""
   },
   "4298023": {
     "name": "桃泽美羽Miyu",
@@ -12203,7 +12195,7 @@
     "name": "吃不饱的yzuii",
     "type": "vtuber",
     "room": 2474966,
-    "face": "/bfs/face/2605739e2f6a8b685a897a91fc63374238d10332.jpg",
+    "face": "/bfs/face/018424954705d3d1871d02f2dc9590368dbcb40a.jpg",
     "sign": "予醉 想和大家走得更远。",
     "group_name": ""
   },
@@ -13381,14 +13373,6 @@
     "room": 1720083,
     "face": "/bfs/face/9644a41bd0caf82875f9eece3b846b74f78bb08d.jpg",
     "sign": "趁死亡还遥不可及",
-    "group_name": ""
-  },
-  "11836388": {
-    "name": "bili_275227238",
-    "type": "vtuber",
-    "room": 1386102,
-    "face": "/bfs/face/d5ddd60ed0ca9fece8930eb2222249af934ac8e3.jpg",
-    "sign": "来世不见。",
     "group_name": ""
   },
   "11864934": {
@@ -15926,14 +15910,6 @@
     "face": "/bfs/face/982d0526c061cbea16e094b5b778cdbf85d9f990.jpg",
     "sign": "个人势，来自异世界的犬系勇者，游吟于此，交流一下彼此的故事不？粉丝群：833637505",
     "group_name": "云光计划"
-  },
-  "18265201": {
-    "name": "是幻羽A酱哒",
-    "type": "vtuber",
-    "room": 2781167,
-    "face": "/bfs/face/b35342b176f18ca064cc7c7ba624ff0f22f6cdd1.jpg",
-    "sign": "我？一只普普通通的鸽子而已，更视频不存在的，动态区up没错了一个超快乐的群：137832325",
-    "group_name": ""
   },
   "18275424": {
     "name": "吃粽子的大粽子",
@@ -19604,7 +19580,7 @@
     "type": "vtuber",
     "room": 26781354,
     "face": "/bfs/face/3548979b1a661b80df52d87aa4900ba14bc223bb.jpg",
-    "sign": "未出道个人势  努力打工的慵懒白恶魔，安定黑听晚9点  爱发电同名",
+    "sign": "未出道个人势  努力打工的慵懒白恶魔663，安定黑听晚9点  爱发电同名",
     "group_name": ""
   },
   "36970333": {
@@ -20886,14 +20862,6 @@
     "face": "/bfs/face/9352371bada38b2d311c75e4ea1adedc3aaa51fb.jpg",
     "sign": "到底还要经历多少，我才可以成为最棒的主角?我会的。",
     "group_name": "inkschool"
-  },
-  "53159212": {
-    "name": "涅阿",
-    "type": "vtuber",
-    "room": 21645790,
-    "face": "/bfs/face/e732550e18127033d03208f9591fe59f496b0fb3.jpg",
-    "sign": "",
-    "group_name": ""
   },
   "53270454": {
     "name": "明凌Akariryou",
@@ -23471,14 +23439,6 @@
     "sign": "冲30w粉！ 商务+vfengling5785（备注品牌来意）天选私信我！",
     "group_name": ""
   },
-  "160526160": {
-    "name": "-蛙蛙Official-",
-    "type": "vtuber",
-    "room": 7183715,
-    "face": "/bfs/face/c19ae8d8cd51867f39da78854acd94032a6bc420.jpg",
-    "sign": "此号无人在线zzZ",
-    "group_name": ""
-  },
   "161082853": {
     "name": "盖娜_Kaena",
     "type": "vtuber",
@@ -24719,14 +24679,6 @@
     "sign": "混沌系钢板天使，瑶瑶喜欢人类，你可以喜欢我吗？",
     "group_name": ""
   },
-  "245830447": {
-    "name": "bili_41215781023",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/bfs/face/e8704b8fbec387ba6a428526dcc1c9766fd992db.jpg",
-    "sign": "",
-    "group_name": ""
-  },
   "247586004": {
     "name": "茉茉Official",
     "type": "vtuber",
@@ -25509,14 +25461,6 @@
     "room": 23301624,
     "face": "/bfs/face/9a9aed98011be45f7b3198953c37398054404999.jpg",
     "sign": "谢谢各位小海鲜们的支持～！喜欢霜宝的话可以点一个关注呀～粉丝群：615665052",
-    "group_name": ""
-  },
-  "285043115": {
-    "name": "我叫サアヤ",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/bfs/face/94204e116f9ce474738195db027f8cb1c2e870b9.jpg",
-    "sign": "おはよよよ----う　",
     "group_name": ""
   },
   "285653729": {
@@ -27559,14 +27503,6 @@
     "sign": "",
     "group_name": ""
   },
-  "356333940": {
-    "name": "小麦的元宇宙直播间",
-    "type": "vtuber",
-    "room": 21646179,
-    "face": "/bfs/face/5a6651ed7b71ee85947f952a03091b3ed625d9f2.jpg",
-    "sign": "我是天气姬小麦，告别大家一段时间以后我又回来了，快来我的全新有趣的元宇宙直播间，我们一起玩儿……\n微信：mofaxiaomai",
-    "group_name": ""
-  },
   "356395260": {
     "name": "木子汐suki",
     "type": "vtuber",
@@ -28997,14 +28933,6 @@
     "room": 0,
     "face": "/bfs/face/ec42180ba8362e52b20ead99e656aade175aa2a7.jpg",
     "sign": "日本のVtuberです。Twitter→https://twitter.com/sunohara_sakura",
-    "group_name": ""
-  },
-  "392101937": {
-    "name": "-水梨若official-",
-    "type": "vtuber",
-    "room": 21745906,
-    "face": "/bfs/face/82229817b0be8d13a4b3d3937b027f2c2d6b2db5.jpg",
-    "sign": "准备好了\n\n西南交大米若可动漫社看板娘水梨若\n\nhttps://peing.net/zh-CN/shuiliruo1?event=0",
     "group_name": ""
   },
   "392162998": {
@@ -32279,14 +32207,6 @@
     "sign": "画师麻麻：@布明因子_ enfp的快乐兔兔！！什么都播，世界那么大总得去尝试一些有趣新奇的~播播群：907135399",
     "group_name": ""
   },
-  "443300418": {
-    "name": "bili_61204868663",
-    "type": "vtuber",
-    "room": 21545232,
-    "face": "/bfs/face/80ca6e078204b339e507209ee7b56955f51f25bf.jpg",
-    "sign": "",
-    "group_name": "Hololive"
-  },
   "443305053": {
     "name": "兔田佩克拉Official",
     "type": "vtuber",
@@ -33733,6 +33653,14 @@
     "room": 21664291,
     "face": "/bfs/face/421e222552b345e7ef6e8af37c0b50ed7377b004.jpg",
     "sign": "海上齐天大圣，大招天雷加地火",
+    "group_name": ""
+  },
+  "479193165": {
+    "name": "卡露比karu8y",
+    "type": "vtuber",
+    "room": 23683349,
+    "face": "/bfs/face/778d884b7d8ed75770e82338760d0b0aa79f7e19.jpg",
+    "sign": "什么都想玩的杂食系虚拟Gamer",
     "group_name": ""
   },
   "479326657": {
@@ -39303,14 +39231,6 @@
     "sign": "新人アイドルVtuber✩.*Sparkles 魔界からかけめぐって来たサキュバス 夜空めぐるなのだ",
     "group_name": ""
   },
-  "638467578": {
-    "name": "bli_638467578",
-    "type": "vtuber",
-    "room": 24488515,
-    "face": "/bfs/face/74b4950d984629f62887feb3edffa7f9450582af.jpg",
-    "sign": "",
-    "group_name": ""
-  },
   "638827899": {
     "name": "伊斯特尔_official",
     "type": "vtuber",
@@ -41869,6 +41789,14 @@
     "room": 26924168,
     "face": "/bfs/face/e823a5d23f861f7c024ba0766acae51c9b26d9fd.jpg",
     "sign": "你好，Master∠( ᐛ 」∠)_，这里是正在学习进化的AI喵✧*｡٩(ˊᗜˋ*)و✧*｡",
+    "group_name": ""
+  },
+  "1039093936": {
+    "name": "夏璐璐Ruby_Channel",
+    "type": "vtuber",
+    "room": 25710941,
+    "face": "/bfs/face/f9501caba489d698fcc9617cd38e60116f309b42.jpg",
+    "sign": "直播录播：夏璐璐家的录播小使魔 全职努力势屑猫耳魔女，谢谢你来看我！！我的心里小璐乱撞！『幻想社Fugue组』所属懒猫！",
     "group_name": ""
   },
   "1039584302": {
@@ -59071,6 +58999,14 @@
     "sign": "暂时是随机乱播(?",
     "group_name": ""
   },
+  "3493137741777620": {
+    "name": "云青墨宇Official",
+    "type": "vtuber",
+    "room": 27148713,
+    "face": "/bfs/face/66111a4690dab319b1778f71dba14a142e099214.jpg",
+    "sign": "桥头静望千帆过，不见孤舟渡水来/粉丝群:682923164",
+    "group_name": ""
+  },
   "3493137800497830": {
     "name": "小吉急急急",
     "type": "vtuber",
@@ -62795,7 +62731,7 @@
     "name": "七七卟听话",
     "type": "vtuber",
     "room": 27691996,
-    "face": "/bfs/face/c0c09e436e46504aab445e9f66cf7ad5aad8632f.jpg",
+    "face": "/bfs/face/6cf01f33bdce830d7604b5175f52422a7121c623.jpg",
     "sign": "红尘中的玄学老板娘~三观超正，温柔可人，绝不可以错过呦~粉丝群直戳QQ713663513",
     "group_name": ""
   },
@@ -64989,14 +64925,6 @@
     "room": 30063873,
     "face": "/bfs/face/820b40c32b48f200460da3053a7e94703d68ca50.jpg",
     "sign": "个鲸势全职VUP 午12:00～累了就下线，晚8:00～累了就下线。 如果可以的话能不能应援我呢？！ 超屑的小偶像一枚呀",
-    "group_name": ""
-  },
-  "3494358399584771": {
-    "name": "小丸Sco",
-    "type": "vtuber",
-    "room": 30560322,
-    "face": "/bfs/face/0fdfdfa47cb5250a362564159b4a94b410bff282.jpg",
-    "sign": "温柔强大 孤芳自赏",
     "group_name": ""
   },
   "3494358428944516": {
