@@ -2587,7 +2587,7 @@
     "name": "鬼狐狸OniKitsune",
     "type": "vtuber",
     "room": 22757307,
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   {
     "uid": 664321,
@@ -2973,13 +2973,6 @@
     "type": "vtuber",
     "room": 695276,
     "group_name": ""
-  },
-  {
-    "uid": 808682,
-    "name": "海猫umi",
-    "type": "vtuber",
-    "room": 506849,
-    "group_name": "KonKoe"
   },
   {
     "uid": 809154,
@@ -6594,6 +6587,13 @@
     "group_name": ""
   },
   {
+    "uid": 3352523,
+    "name": "雾川Kirikawa",
+    "type": "vtuber",
+    "room": 4778127,
+    "group_name": ""
+  },
+  {
     "uid": 3358737,
     "name": "芙格Fugo",
     "type": "vtuber",
@@ -8572,7 +8572,7 @@
     "name": "阿尔瓦Alvar",
     "type": "vtuber",
     "room": 1123743,
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   {
     "uid": 6121204,
@@ -16993,14 +16993,14 @@
     "name": "伊橙Yzumi",
     "type": "vtuber",
     "room": 1463398,
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   {
     "uid": 35819875,
     "name": "宋三岁sss",
     "type": "vtuber",
     "room": 515759,
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   {
     "uid": 35835223,
@@ -17294,7 +17294,7 @@
     "name": "禾树ki_Channel",
     "type": "vtuber",
     "room": 5789579,
-    "group_name": "KonKoe"
+    "group_name": ""
   },
   {
     "uid": 38733602,
@@ -22915,7 +22915,7 @@
     "name": "眠叶绀Channel",
     "type": "vtuber",
     "room": 21240069,
-    "group_name": "KonKoe"
+    "group_name": ""
   },
   {
     "uid": 316381099,
@@ -28215,13 +28215,6 @@
     "type": "vtuber",
     "room": 22461625,
     "group_name": ""
-  },
-  {
-    "uid": 444015421,
-    "name": "哀嗣",
-    "type": "vtuber",
-    "room": 21509764,
-    "group_name": "KonKoe"
   },
   {
     "uid": 444234804,
@@ -34346,7 +34339,7 @@
     "name": "驿双Ethan_Channel",
     "type": "vtuber",
     "room": 22508827,
-    "group_name": "KonKoe"
+    "group_name": ""
   },
   {
     "uid": 641700024,
@@ -34662,13 +34655,6 @@
     "type": "vtuber",
     "room": 26815357,
     "group_name": ""
-  },
-  {
-    "uid": 662164326,
-    "name": "久遠遥",
-    "type": "vtuber",
-    "room": 22716283,
-    "group_name": "KonKoe"
   },
   {
     "uid": 662219040,
@@ -35750,7 +35736,7 @@
   },
   {
     "uid": 694269763,
-    "name": "芙奈Funa",
+    "name": "芙奈Funa_坐牢版",
     "type": "vtuber",
     "room": 30860721,
     "group_name": ""
@@ -35928,13 +35914,6 @@
     "name": "一口甜_甜甜",
     "type": "vtuber",
     "room": 23824822,
-    "group_name": ""
-  },
-  {
-    "uid": 698266064,
-    "name": "KonKoeProject",
-    "type": "group",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -38609,7 +38588,7 @@
     "name": "林莉奈RinaHayashi",
     "type": "vtuber",
     "room": 22742508,
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   {
     "uid": 1244296084,
@@ -38959,7 +38938,7 @@
     "name": "椰乃不是椰奶",
     "type": "vtuber",
     "room": 23786670,
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   {
     "uid": 1278419509,
@@ -40164,6 +40143,13 @@
     "type": "vtuber",
     "room": 24477947,
     "group_name": "极光社"
+  },
+  {
+    "uid": 1390615961,
+    "name": "蝶礼_Delia",
+    "type": "vtuber",
+    "room": 24693792,
+    "group_name": ""
   },
   {
     "uid": 1390853233,
@@ -45455,7 +45441,7 @@
     "name": "鸠羽lin",
     "type": "vtuber",
     "room": 24750843,
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   {
     "uid": 1905040380,
@@ -45490,13 +45476,6 @@
     "name": "百合园悠梨Channel",
     "type": "vtuber",
     "room": 25725671,
-    "group_name": ""
-  },
-  {
-    "uid": 1909831457,
-    "name": "LepusLive",
-    "type": "group",
-    "room": 23053137,
     "group_name": ""
   },
   {
@@ -45743,6 +45722,13 @@
     "type": "vtuber",
     "room": 27628019,
     "group_name": "VirtuaReal"
+  },
+  {
+    "uid": 1933479317,
+    "name": "小麻Mamira",
+    "type": "vtuber",
+    "room": 31501295,
+    "group_name": ""
   },
   {
     "uid": 1933891152,
@@ -50726,6 +50712,13 @@
     "name": "壹妍_official",
     "type": "vtuber",
     "room": 26911981,
+    "group_name": ""
+  },
+  {
+    "uid": 3493122801666728,
+    "name": "林灵尹Wine",
+    "type": "vtuber",
+    "room": 27383783,
     "group_name": ""
   },
   {

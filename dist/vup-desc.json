@@ -2957,7 +2957,7 @@
     "room": 22757307,
     "face": "/bfs/face/cf17e59429fb97db5c92ea99202c7185d5dcfd32.jpg",
     "sign": "@LepusLive所属 炸厨房之王 咖喱料理の神 猪扒和红烧肉之主",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "664321": {
     "name": "Yutsuki123",
@@ -3398,14 +3398,6 @@
     "face": "/bfs/face/1015bb30ccc73f6f85d5a0b6440a28808e9203d1.jpg",
     "sign": "V区牛马水无月\n天桥躺平是林檎",
     "group_name": ""
-  },
-  "808682": {
-    "name": "海猫umi",
-    "type": "vtuber",
-    "room": 506849,
-    "face": "/bfs/face/d0ce2fb00843c0eb686bfe5f900315880bc8e53a.jpg",
-    "sign": "私は誰？",
-    "group_name": "KonKoe"
   },
   "809154": {
     "name": "宗谷いちか創作團",
@@ -7535,6 +7527,14 @@
     "sign": "你们都能有个美好的未来",
     "group_name": ""
   },
+  "3352523": {
+    "name": "雾川Kirikawa",
+    "type": "vtuber",
+    "room": 4778127,
+    "face": "/bfs/face/a0b5d20ccb1abcea1765c69f624a4bc0c68fcfa4.jpg",
+    "sign": "别想那么多了！上勾拳！",
+    "group_name": ""
+  },
   "3358737": {
     "name": "芙格Fugo",
     "type": "vtuber",
@@ -9797,7 +9797,7 @@
     "room": 1123743,
     "face": "/bfs/face/b05cc877bfab236e49f347d4bd6c83ff49a59e68.webp",
     "sign": "一个不当虚拟乞丐的退隐主播，好好学习ing",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "6121204": {
     "name": "克洛伊斯く",
@@ -15188,7 +15188,7 @@
     "type": "vtuber",
     "room": 22933451,
     "face": "/bfs/face/6c21e862d7907fee92322c5a8eba4f46a2721d97.jpg",
-    "sign": "雀魂玩家，大牌爱好者，神仙之间731948768\n人在上学，更新随缘，神仙对局出现集更新。\n一起愉快的役满吧～",
+    "sign": "雀魂玩家，大牌爱好者，神仙之间318217033\n人在上学，更新随缘，神仙对局出现集更新。\n一起愉快的役满吧～",
     "group_name": ""
   },
   "15513977": {
@@ -19421,7 +19421,7 @@
     "room": 1463398,
     "face": "/bfs/face/ebe78198d6ada34e1a775ef5e8d1e14dca6ffee1.jpg",
     "sign": "不是v，偶尔做做mmd和翻唱❤️",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "35819875": {
     "name": "宋三岁sss",
@@ -19429,7 +19429,7 @@
     "room": 515759,
     "face": "/bfs/face/8fe3597ab6dac898a737f9a23a08f9cb31fc47c4.jpg",
     "sign": "蟹蟹你的喜欢~约定好陪伴大家变成老头老太(ง •_•)ง假牙掉啦会帮你们塞回去的！030放心啦，不会毕业的！",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "35835223": {
     "name": "阿梨超甜",
@@ -19765,7 +19765,7 @@
     "room": 5789579,
     "face": "/bfs/face/7570df90d5fe51c4daa5359320209bc360c012e3.jpg",
     "sign": "KonKoe Project 所属VUP‖今天的情报屋也在学做人x‖情报站：263553107",
-    "group_name": "KonKoe"
+    "group_name": ""
   },
   "38733602": {
     "name": "甜音er",
@@ -24571,7 +24571,7 @@
     "name": "月见NoNo",
     "type": "vtuber",
     "room": 27065572,
-    "face": "/bfs/face/9afe1553351e0bfbd5c7c29e9de61fd77929ac34.jpg",
+    "face": "/bfs/face/4b22e77fc38d17960848efcdb1d0227087401d51.jpg",
     "sign": "月见诺诺：KiraLive 所属 \n异世界魔药师猫猫.正在努力提升自己魔药制作水平.\n立绘@高达小威 老师\n建模@大眼珠子 老师",
     "group_name": ""
   },
@@ -26189,7 +26189,7 @@
     "room": 21240069,
     "face": "/bfs/face/8de90a60060ac246b3fdc8cdc1321f1fa82bb68e.jpg",
     "sign": "家道中落的社畜大小姐就是本小姐啦！粉丝群：732477414；无关浮名，只求同好",
-    "group_name": "KonKoe"
+    "group_name": ""
   },
   "316381099": {
     "name": "鹿乃ちゃん",
@@ -32246,14 +32246,6 @@
     "face": "/bfs/face/54100a53d06305f0825cc163b720f30019c1d641.jpg",
     "sign": "软软可爱而且会讲数学的个人势全能V！（直播播游戏）@天使猫猫酱的录播姬",
     "group_name": ""
-  },
-  "444015421": {
-    "name": "哀嗣",
-    "type": "vtuber",
-    "room": 21509764,
-    "face": "/bfs/face/16983c9e8d1f694160a01ec6456467481a83436d.jpg",
-    "sign": "嘿！！ 我是KonKoeProject的哀嗣, 不是企鹅是人类desu",
-    "group_name": "KonKoe"
   },
   "444234804": {
     "name": "神子杏-Official",
@@ -39253,7 +39245,7 @@
     "room": 22508827,
     "face": "/bfs/face/886568380fbcf26683fc1b5a73fe05507d46916b.jpg",
     "sign": "<KonKoe Project所属>热爱生活，做自己喜欢的事情。感谢关注，出道准备中，欢迎与我互动|･ω･｀)\n爱发电：不想做作业",
-    "group_name": "KonKoe"
+    "group_name": ""
   },
   "641700024": {
     "name": "妲小喵",
@@ -39614,14 +39606,6 @@
     "face": "/bfs/face/e9cc8d1bead3c20770b35b9dce19f903783d034c.jpg",
     "sign": "珍惜每一次可以歌唱的机会 感谢喜欢",
     "group_name": ""
-  },
-  "662164326": {
-    "name": "久遠遥",
-    "type": "vtuber",
-    "room": 22716283,
-    "face": "/bfs/face/5d40d3cdc5ff3f848820b7cdc88cb8ff1c9c33dc.jpg",
-    "sign": "我在等一场微风 等黎明停在星辰✨ \n是你的Haruka | ダメ人間 | 做自己喜欢的事\n",
-    "group_name": "KonKoe"
   },
   "662219040": {
     "name": "八狸桥",
@@ -40856,7 +40840,7 @@
     "group_name": ""
   },
   "694269763": {
-    "name": "芙奈Funa",
+    "name": "芙奈Funa_坐牢版",
     "type": "vtuber",
     "room": 30860721,
     "face": "/bfs/face/e33d61bcf52b3af6f3371d1aa9db294710fd4a79.jpg",
@@ -41061,14 +41045,6 @@
     "room": 23824822,
     "face": "/bfs/face/8e69db3fbf671efd378c6a082d228cc8cc87dfa6.jpg",
     "sign": "甜妹拯救世界❤新人吸血鬼小萝莉～",
-    "group_name": ""
-  },
-  "698266064": {
-    "name": "KonKoeProject",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/52aecb75a5cfcf418247ac66378e884e59b7533e.jpg",
-    "sign": "为了梦想而成立的小小社团",
     "group_name": ""
   },
   "698438232": {
@@ -44125,7 +44101,7 @@
     "room": 22742508,
     "face": "/bfs/face/3f077cb5afe5ae82d04876b6da033bd25c109360.jpg",
     "sign": "@LepusLive. Trilingual Vsinger & 有点脱线 illust@藤真拓哉 L2D@chakun",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "1244296084": {
     "name": "菲莉丝_Phyllis",
@@ -44525,7 +44501,7 @@
     "room": 23786670,
     "face": "/bfs/face/bde183a4ade49741246c2c5cf4c704d3c3bba146.jpg",
     "sign": "已停播 ./",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "1278419509": {
     "name": "Sonny_Official",
@@ -45902,6 +45878,14 @@
     "face": "/bfs/face/c78badd8004b381eb3e0c41f2d09e4fdced250a7.jpg",
     "sign": "⭐极光社所属   \\兔子骑士萝北北!/   请多关照~ 群：316563873",
     "group_name": "极光社"
+  },
+  "1390615961": {
+    "name": "蝶礼_Delia",
+    "type": "vtuber",
+    "room": 24693792,
+    "face": "/bfs/face/6fbfb9b7ebac2826a4bb2b99f44b3057aea26511.jpg",
+    "sign": "是一个道行还不够的小小福蝶～粤语歌势，杂食蝶，后台唱歌机，腹语能力者～周播捏，欢迎关注支持！",
+    "group_name": ""
   },
   "1390853233": {
     "name": "玖兰森蝶",
@@ -51949,7 +51933,7 @@
     "room": 24750843,
     "face": "/bfs/face/7a35927a6cbb9cb126d1df853f11712104de4604.jpg",
     "sign": "@LepusLive所属 二期生 每天8点半直播~请大家一定要来看哦！  直播通知群 ：744459392 ",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "1905040380": {
     "name": "龙王本王梓璃璃",
@@ -51989,14 +51973,6 @@
     "room": 25725671,
     "face": "/bfs/face/237b90123f9ad403743e8a0f38ff0e4829f41ecc.jpg",
     "sign": "遁世之人百合园居士是也 (✿❛◡❛✿)向往成为一个高尚美好的人✿「X」@yurizonoyuuri",
-    "group_name": ""
-  },
-  "1909831457": {
-    "name": "LepusLive",
-    "type": "group",
-    "room": 23053137,
-    "face": "/bfs/face/e165adfb87a181e2c8d1c954d7fa6c6ad21c2b33.jpg",
-    "sign": "",
     "group_name": ""
   },
   "1911626217": {
@@ -52278,6 +52254,14 @@
     "face": "/bfs/face/0daae887dd6734340ff7e6c5cbc9134594bf7412.jpg",
     "sign": "虚拟艺人团体VirtuaReal成员，雨中的蝴蝶。陪我一起看雨吧？ 商务合作请联系bd@vrp.live",
     "group_name": "VirtuaReal"
+  },
+  "1933479317": {
+    "name": "小麻Mamira",
+    "type": "vtuber",
+    "room": 31501295,
+    "face": "/bfs/face/581ac2c359298f2029eb8fa2abdc26b791f8d08f.jpg",
+    "sign": "和大家见面的时间是20:00-2:00答应我会幸福",
+    "group_name": ""
   },
   "1933891152": {
     "name": "妮蔻_Nicole",
@@ -57975,6 +57959,14 @@
     "sign": "电力不稳(๑°⌓︎°๑)…\n但目标是每天元气满满૮*,,˃ ᵕ ˂ა \n微博：@壹妍_official",
     "group_name": ""
   },
+  "3493122801666728": {
+    "name": "林灵尹Wine",
+    "type": "vtuber",
+    "room": 27383783,
+    "face": "/bfs/face/00fa9fc990857fa79162f6a4a893ddca5d92390c.jpg",
+    "sign": "只要多蹦蹦把脑子里的水晃匀了就不会不开心啦~\n录播二创组指路@001の小酒铺\n交流群：279489972",
+    "group_name": ""
+  },
   "3493122864581360": {
     "name": "猫沢狸乃_Rino",
     "type": "vtuber",
@@ -62268,7 +62260,7 @@
     "type": "vtuber",
     "room": 27803956,
     "face": "/bfs/face/ca0e409746ae835b472c14a83ca91118fcf9342a.jpg",
-    "sign": "有被杀的觉悟, 才有资格开枪\n❤️粉丝群：一群已经满了，二群476722501",
+    "sign": "有被杀的觉悟, 才有资格开枪（21-2点，白天随缘）\n❤️粉丝群：一群已经满了，二群476722501",
     "group_name": ""
   },
   "3493282128595468": {

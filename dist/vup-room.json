@@ -2587,7 +2587,7 @@
     "type": "vtuber",
     "room_id": 22757307,
     "face": "/bfs/face/cf17e59429fb97db5c92ea99202c7185d5dcfd32.jpg",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "664321": {
     "name": "Yutsuki123",
@@ -2973,13 +2973,6 @@
     "room_id": 695276,
     "face": "/bfs/face/1015bb30ccc73f6f85d5a0b6440a28808e9203d1.jpg",
     "group_name": ""
-  },
-  "808682": {
-    "name": "海猫umi",
-    "type": "vtuber",
-    "room_id": 506849,
-    "face": "/bfs/face/d0ce2fb00843c0eb686bfe5f900315880bc8e53a.jpg",
-    "group_name": "KonKoe"
   },
   "809154": {
     "name": "宗谷いちか創作團",
@@ -6593,6 +6586,13 @@
     "face": "/bfs/face/a6bb5cf653fbb246c9bcc38d261236b7a7dca280.jpg",
     "group_name": ""
   },
+  "3352523": {
+    "name": "雾川Kirikawa",
+    "type": "vtuber",
+    "room_id": 4778127,
+    "face": "/bfs/face/a0b5d20ccb1abcea1765c69f624a4bc0c68fcfa4.jpg",
+    "group_name": ""
+  },
   "3358737": {
     "name": "芙格Fugo",
     "type": "vtuber",
@@ -8572,7 +8572,7 @@
     "type": "vtuber",
     "room_id": 1123743,
     "face": "/bfs/face/b05cc877bfab236e49f347d4bd6c83ff49a59e68.webp",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "6121204": {
     "name": "克洛伊斯く",
@@ -16993,14 +16993,14 @@
     "type": "vtuber",
     "room_id": 1463398,
     "face": "/bfs/face/ebe78198d6ada34e1a775ef5e8d1e14dca6ffee1.jpg",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "35819875": {
     "name": "宋三岁sss",
     "type": "vtuber",
     "room_id": 515759,
     "face": "/bfs/face/8fe3597ab6dac898a737f9a23a08f9cb31fc47c4.jpg",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "35835223": {
     "name": "阿梨超甜",
@@ -17294,7 +17294,7 @@
     "type": "vtuber",
     "room_id": 5789579,
     "face": "/bfs/face/7570df90d5fe51c4daa5359320209bc360c012e3.jpg",
-    "group_name": "KonKoe"
+    "group_name": ""
   },
   "38733602": {
     "name": "甜音er",
@@ -21500,7 +21500,7 @@
     "name": "月见NoNo",
     "type": "vtuber",
     "room_id": 27065572,
-    "face": "/bfs/face/9afe1553351e0bfbd5c7c29e9de61fd77929ac34.jpg",
+    "face": "/bfs/face/4b22e77fc38d17960848efcdb1d0227087401d51.jpg",
     "group_name": ""
   },
   "242067082": {
@@ -22915,7 +22915,7 @@
     "type": "vtuber",
     "room_id": 21240069,
     "face": "/bfs/face/8de90a60060ac246b3fdc8cdc1321f1fa82bb68e.jpg",
-    "group_name": "KonKoe"
+    "group_name": ""
   },
   "316381099": {
     "name": "鹿乃ちゃん",
@@ -28215,13 +28215,6 @@
     "room_id": 22461625,
     "face": "/bfs/face/54100a53d06305f0825cc163b720f30019c1d641.jpg",
     "group_name": ""
-  },
-  "444015421": {
-    "name": "哀嗣",
-    "type": "vtuber",
-    "room_id": 21509764,
-    "face": "/bfs/face/16983c9e8d1f694160a01ec6456467481a83436d.jpg",
-    "group_name": "KonKoe"
   },
   "444234804": {
     "name": "神子杏-Official",
@@ -34346,7 +34339,7 @@
     "type": "vtuber",
     "room_id": 22508827,
     "face": "/bfs/face/886568380fbcf26683fc1b5a73fe05507d46916b.jpg",
-    "group_name": "KonKoe"
+    "group_name": ""
   },
   "641700024": {
     "name": "妲小喵",
@@ -34662,13 +34655,6 @@
     "room_id": 26815357,
     "face": "/bfs/face/e9cc8d1bead3c20770b35b9dce19f903783d034c.jpg",
     "group_name": ""
-  },
-  "662164326": {
-    "name": "久遠遥",
-    "type": "vtuber",
-    "room_id": 22716283,
-    "face": "/bfs/face/5d40d3cdc5ff3f848820b7cdc88cb8ff1c9c33dc.jpg",
-    "group_name": "KonKoe"
   },
   "662219040": {
     "name": "八狸桥",
@@ -35749,7 +35735,7 @@
     "group_name": ""
   },
   "694269763": {
-    "name": "芙奈Funa",
+    "name": "芙奈Funa_坐牢版",
     "type": "vtuber",
     "room_id": 30860721,
     "face": "/bfs/face/e33d61bcf52b3af6f3371d1aa9db294710fd4a79.jpg",
@@ -35928,13 +35914,6 @@
     "type": "vtuber",
     "room_id": 23824822,
     "face": "/bfs/face/8e69db3fbf671efd378c6a082d228cc8cc87dfa6.jpg",
-    "group_name": ""
-  },
-  "698266064": {
-    "name": "KonKoeProject",
-    "type": "group",
-    "room_id": 0,
-    "face": "/bfs/face/52aecb75a5cfcf418247ac66378e884e59b7533e.jpg",
     "group_name": ""
   },
   "698438232": {
@@ -38609,7 +38588,7 @@
     "type": "vtuber",
     "room_id": 22742508,
     "face": "/bfs/face/3f077cb5afe5ae82d04876b6da033bd25c109360.jpg",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "1244296084": {
     "name": "菲莉丝_Phyllis",
@@ -38959,7 +38938,7 @@
     "type": "vtuber",
     "room_id": 23786670,
     "face": "/bfs/face/bde183a4ade49741246c2c5cf4c704d3c3bba146.jpg",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "1278419509": {
     "name": "Sonny_Official",
@@ -40164,6 +40143,13 @@
     "room_id": 24477947,
     "face": "/bfs/face/c78badd8004b381eb3e0c41f2d09e4fdced250a7.jpg",
     "group_name": "极光社"
+  },
+  "1390615961": {
+    "name": "蝶礼_Delia",
+    "type": "vtuber",
+    "room_id": 24693792,
+    "face": "/bfs/face/6fbfb9b7ebac2826a4bb2b99f44b3057aea26511.jpg",
+    "group_name": ""
   },
   "1390853233": {
     "name": "玖兰森蝶",
@@ -45455,7 +45441,7 @@
     "type": "vtuber",
     "room_id": 24750843,
     "face": "/bfs/face/7a35927a6cbb9cb126d1df853f11712104de4604.jpg",
-    "group_name": "LepusLive"
+    "group_name": ""
   },
   "1905040380": {
     "name": "龙王本王梓璃璃",
@@ -45490,13 +45476,6 @@
     "type": "vtuber",
     "room_id": 25725671,
     "face": "/bfs/face/237b90123f9ad403743e8a0f38ff0e4829f41ecc.jpg",
-    "group_name": ""
-  },
-  "1909831457": {
-    "name": "LepusLive",
-    "type": "group",
-    "room_id": 23053137,
-    "face": "/bfs/face/e165adfb87a181e2c8d1c954d7fa6c6ad21c2b33.jpg",
     "group_name": ""
   },
   "1911626217": {
@@ -45743,6 +45722,13 @@
     "room_id": 27628019,
     "face": "/bfs/face/0daae887dd6734340ff7e6c5cbc9134594bf7412.jpg",
     "group_name": "VirtuaReal"
+  },
+  "1933479317": {
+    "name": "小麻Mamira",
+    "type": "vtuber",
+    "room_id": 31501295,
+    "face": "/bfs/face/581ac2c359298f2029eb8fa2abdc26b791f8d08f.jpg",
+    "group_name": ""
   },
   "1933891152": {
     "name": "妮蔻_Nicole",
@@ -50726,6 +50712,13 @@
     "type": "vtuber",
     "room_id": 26911981,
     "face": "/bfs/face/e15c2f2933fa952f839be4b58f28931d4737f0ae.jpg",
+    "group_name": ""
+  },
+  "3493122801666728": {
+    "name": "林灵尹Wine",
+    "type": "vtuber",
+    "room_id": 27383783,
+    "face": "/bfs/face/00fa9fc990857fa79162f6a4a893ddca5d92390c.jpg",
     "group_name": ""
   },
   "3493122864581360": {
