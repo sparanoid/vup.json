@@ -3727,7 +3727,7 @@
   },
   {
     "uid": 781019,
-    "name": "神時Toki",
+    "name": "神時KamiToki",
     "type": "vtuber",
     "room": 37819,
     "face": "/bfs/face/5f63b2eac7233eebbb96b5219ceacdfb932e346c.jpg",
@@ -12655,11 +12655,11 @@
   },
   {
     "uid": 8183733,
-    "name": "宇宙第一杏玛尔殿下",
+    "name": "废德_Feld",
     "type": "vtuber",
     "room": 8757487,
-    "face": "/bfs/baselabs/622d7ffa52d6cab20a486966a97de427d191d56f.png",
-    "sign": "目标之回到学校",
+    "face": "/bfs/face/2f49f1025edec1ae390d7d8811c05a6ffaf04378.jpg",
+    "sign": "None.",
     "group_name": ""
   },
   {
@@ -15283,11 +15283,11 @@
   },
   {
     "uid": 12299398,
-    "name": "小懒懒の巧克力",
+    "name": "一般通过巧克力",
     "type": "vtuber",
     "room": 9019846,
-    "face": "/bfs/face/1ee245b4885c5faa25b47914f5cff054ae6aa414.jpg",
-    "sign": "不当DD啦",
+    "face": "/bfs/face/3a121db19123a7ef028a73e169777d98536795eb.jpg",
+    "sign": "平平无奇路人甲",
     "group_name": ""
   },
   {
@@ -17158,7 +17158,7 @@
     "name": "薄巧才不是牙膏味",
     "type": "vtuber",
     "room": 3881476,
-    "face": "/bfs/face/fa41e5b60cb55f67f8684025002453eb66dbc0bd.jpg",
+    "face": "/bfs/face/4cc7440fabbc85247a965762882ef22d31833eb1.jpg",
     "sign": "多看帅哥，长命百岁",
     "group_name": ""
   },
@@ -44348,7 +44348,7 @@
     "type": "vtuber",
     "room": 25686812,
     "face": "/bfs/face/a8b056d4e4c58dcef5c049cca21bd48b7886d51c.jpg",
-    "sign": "有粉丝牌的可以找给憨宝私信要粉丝群聊天。没有的也可以找憨宝要直播间通知群看直播卡牌牌~憨宝是山海经里的一个小蠪侄喜欢跟人类交朋友嘿嘿爱你们~",
+    "sign": "憨宝是山海经里的一个小蠪侄喜欢跟人类交朋友嘿嘿爱你们~qq粉丝群（703171917）",
     "group_name": ""
   },
   {
@@ -55282,8 +55282,8 @@
     "name": "四茶Sama",
     "type": "vtuber",
     "room": 31235282,
-    "face": "/bfs/face/0f4c6724c4ce4a76463f9169714a37d4d2f013dc.jpg",
-    "sign": "<问尘仙会>，笨蛋清楚少御天使。\n高冷搞笑女是追随了我一辈子的头衔\n每晚22:00-2:00除了周一。",
+    "face": "/bfs/face/a93ef9a761f0c22545c74af9f1a1046d7fb490d1.jpg",
+    "sign": "<问尘仙会>，被生活调教的天使sama。\n高冷的搞笑大姐姐。软柿子，但不许捏。\n每晚22:00-2:00除了周一。",
     "group_name": ""
   },
   {
