@@ -4414,7 +4414,7 @@
     "name": "简单路过的宇宙人",
     "type": "vtuber",
     "room": 1865305,
-    "group_name": "Makuroka"
+    "group_name": ""
   },
   {
     "uid": 1802392,
@@ -12023,7 +12023,7 @@
     "name": "Patoriya",
     "type": "vtuber",
     "room": 30205,
-    "group_name": "Makuroka"
+    "group_name": ""
   },
   {
     "uid": 12548532,
@@ -17721,7 +17721,7 @@
     "name": "玉目绊Official",
     "type": "vtuber",
     "room": 3515373,
-    "group_name": "Makuroka"
+    "group_name": ""
   },
   {
     "uid": 43708119,
@@ -18622,9 +18622,9 @@
   {
     "uid": 65686347,
     "name": "猫屋枕Official",
-    "type": "vtuber",
+    "type": "unknown",
     "room": 21733924,
-    "group_name": "Makuroka"
+    "group_name": ""
   },
   {
     "uid": 65714241,
@@ -25440,7 +25440,7 @@
   {
     "uid": 393323623,
     "name": "MCP-沐云计划",
-    "type": "group",
+    "type": "unknown",
     "room": 0,
     "group_name": ""
   },
@@ -30137,7 +30137,7 @@
   {
     "uid": 488726535,
     "name": "Makuroka_Project",
-    "type": "group",
+    "type": "unknown",
     "room": 0,
     "group_name": ""
   },
@@ -31728,7 +31728,7 @@
     "name": "由比未崋子_Channel",
     "type": "vtuber",
     "room": 22477709,
-    "group_name": "Makuroka"
+    "group_name": ""
   },
   {
     "uid": 519874142,
@@ -32516,7 +32516,7 @@
   },
   {
     "uid": 550388023,
-    "name": "狐奈_fffox新衣发放中",
+    "name": "狐奈_fffox",
     "type": "vtuber",
     "room": 30938000,
     "group_name": ""
@@ -35799,7 +35799,7 @@
   },
   {
     "uid": 694269763,
-    "name": "芙奈Funa_坐牢版",
+    "name": "芙奈Funa",
     "type": "vtuber",
     "room": 30860721,
     "group_name": ""

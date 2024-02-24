@@ -5045,7 +5045,7 @@
     "room": 1865305,
     "face": "/bfs/face/7d44d138cc23d0445194ff92f895ca988ac9cb5d.jpg",
     "sign": "无限期摸鱼中",
-    "group_name": "Makuroka"
+    "group_name": ""
   },
   "1802392": {
     "name": "榛葉nami",
@@ -13741,7 +13741,7 @@
     "room": 30205,
     "face": "/bfs/face/ba5c4234d40ebb615ccfc8012e33a7ea272aa0c8.jpg",
     "sign": "live2d模型师，有事请私信",
-    "group_name": "Makuroka"
+    "group_name": ""
   },
   "12548532": {
     "name": "予妮Yunii",
@@ -20203,7 +20203,7 @@
     "name": "fairy苏软糖",
     "type": "vtuber",
     "room": 4578622,
-    "face": "/bfs/face/cd787ec7b7595a0ab3b35fe98970eee7caf0ce0c.jpg",
+    "face": "/bfs/face/a90c4f53aef6330f3ebc1edd2431c4cffdb930f2.jpg",
     "sign": "(一只老猫)全能vup 百种声线配音➕唱歌➕电台➕开车～\n什么这么优秀的主播你还没关注？！你在犹豫什么呢！\n（长期招会切片的宝贝）固定周六休",
     "group_name": ""
   },
@@ -20253,7 +20253,7 @@
     "room": 3515373,
     "face": "/bfs/face/ee421f906396a7113846fc3b6209f20c704a1fce.jpg",
     "sign": "暂时没办法再跟大家见面了；；",
-    "group_name": "Makuroka"
+    "group_name": ""
   },
   "43708119": {
     "name": "憨憨o_0",
@@ -21281,11 +21281,11 @@
   },
   "65686347": {
     "name": "猫屋枕Official",
-    "type": "vtuber",
+    "type": "unknown",
     "room": 21733924,
     "face": "/bfs/face/79dbf36d0a26e168382882e648481d426204776c.jpg",
     "sign": "My reputation's never been worse so，You must like me for me。",
-    "group_name": "Makuroka"
+    "group_name": ""
   },
   "65714241": {
     "name": "月见狺",
@@ -27099,7 +27099,7 @@
     "name": "花烬_",
     "type": "vtuber",
     "room": 12151156,
-    "face": "/bfs/face/e4f079474603abb2a4a02badc151cbf23527b425.jpg",
+    "face": "/bfs/face/b043ea3e7bb22467badd94e060d900b73f91af15.jpg",
     "sign": "v圈第一甜的月兔公主！是个人势养成系歌杂势～陪伴你每个夜晚❤️",
     "group_name": ""
   },
@@ -29073,7 +29073,7 @@
   },
   "393323623": {
     "name": "MCP-沐云计划",
-    "type": "group",
+    "type": "unknown",
     "room": 0,
     "face": "/bfs/face/f7fbc636627a0aae159efa1a61812e18d0f58d95.jpg",
     "sign": "全称MuCloud-Project  简称MC-P 中文名沐云计划 为1319舰长群所属vup企划",
@@ -34441,7 +34441,7 @@
   },
   "488726535": {
     "name": "Makuroka_Project",
-    "type": "group",
+    "type": "unknown",
     "room": 0,
     "face": "/bfs/face/b4783dda5427d1c903f895eeadb9769a0a8a919f.jpg",
     "sign": "无限期停止活动中",
@@ -36261,7 +36261,7 @@
     "room": 22477709,
     "face": "/bfs/face/1e84018061e2f4d9b0a04ef99f582b0959bf0b03.jpg",
     "sign": "×“冬天软绵绵的猫咪”×    Virtual Genesis所属家政型女仆人偶",
-    "group_name": "Makuroka"
+    "group_name": ""
   },
   "519874142": {
     "name": "瑟薇尔",
@@ -37160,7 +37160,7 @@
     "group_name": ""
   },
   "550388023": {
-    "name": "狐奈_fffox新衣发放中",
+    "name": "狐奈_fffox",
     "type": "vtuber",
     "room": 30938000,
     "face": "/bfs/face/8ce6febaf87f64b29269710c0b1b80a748e76ba3.jpg",
@@ -40912,7 +40912,7 @@
     "group_name": ""
   },
   "694269763": {
-    "name": "芙奈Funa_坐牢版",
+    "name": "芙奈Funa",
     "type": "vtuber",
     "room": 30860721,
     "face": "/bfs/face/e33d61bcf52b3af6f3371d1aa9db294710fd4a79.jpg",
