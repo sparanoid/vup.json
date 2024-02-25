@@ -4044,7 +4044,7 @@
     "name": "米团团Miho",
     "type": "vtuber",
     "room": 1487005,
-    "face": "/bfs/face/b3bd43834cc88079d2eb9eb0704e88b570902030.jpg",
+    "face": "/bfs/face/c0c706931c14df67e2c42efea4a4807733f49f0e.jpg",
     "group_name": ""
   },
   {
@@ -23344,6 +23344,14 @@
     "group_name": ""
   },
   {
+    "uid": 152300383,
+    "name": "花涟清衣",
+    "type": "vtuber",
+    "room": 31864717,
+    "face": "/bfs/face/7ff54e6e77f5f36382951a2c0858b32f6e267621.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 153016102,
     "name": "Alowkeyuser",
     "type": "vtuber",
@@ -41936,6 +41944,14 @@
     "group_name": ""
   },
   {
+    "uid": 1043320599,
+    "name": "你要不要吃一口",
+    "type": "vtuber",
+    "room": 23758844,
+    "face": "/bfs/face/191ce9534bf828240978ba0abe06d61e3332ff42.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1044308417,
     "name": "克拉尔Clare",
     "type": "vtuber",
@@ -56996,7 +57012,7 @@
     "name": "桃莓眠眠",
     "type": "vtuber",
     "room": 29000314,
-    "face": "/bfs/face/84e71958bfc2417a0faf3df546f7c240d82c5dd2.jpg",
+    "face": "/bfs/face/cc7244f6f171b5940dbcb2104cd81566f299bbe1.jpg",
     "group_name": ""
   },
   {
@@ -63560,6 +63576,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493293239306390,
+    "name": "叶灵_official",
+    "type": "vtuber",
+    "room": 27782689,
+    "face": "/bfs/face/c823c42e92151f72797d7b4f7aa2c66efab74659.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3493293266570035,
     "name": "流浪小满",
     "type": "vtuber",
@@ -65789,6 +65813,14 @@
     "type": "vtuber",
     "room": 30262740,
     "face": "/bfs/face/64e39a55a7ee8543f0b4d01b8b2aad17c1bdb759.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3494367016781881,
+    "name": "米芙Meave",
+    "type": "vtuber",
+    "room": 31865551,
+    "face": "/bfs/face/676318536f70f1a551eb7bda042190026b3c6d09.jpg",
     "group_name": ""
   },
   {
