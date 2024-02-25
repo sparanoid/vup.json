@@ -4057,7 +4057,7 @@
     "name": "我打鼾声音超大OvO",
     "type": "vtuber",
     "room": 31634,
-    "group_name": "Nameless Project"
+    "group_name": ""
   },
   {
     "uid": 1636809,
@@ -4127,13 +4127,6 @@
     "name": "呆毛ruki",
     "type": "vtuber",
     "room": 182609,
-    "group_name": ""
-  },
-  {
-    "uid": 1681621,
-    "name": "NEBULA工作室",
-    "type": "group",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -18050,7 +18043,7 @@
     "name": "海霧うみぎり",
     "type": "vtuber",
     "room": 22152978,
-    "group_name": "NGWORKS"
+    "group_name": ""
   },
   {
     "uid": 49869871,
@@ -18389,13 +18382,6 @@
     "group_name": ""
   },
   {
-    "uid": 56261234,
-    "name": "千時静_Channel",
-    "type": "vtuber",
-    "room": 22076596,
-    "group_name": "Nameless Project"
-  },
-  {
     "uid": 56287758,
     "name": "小超人先生",
     "type": "vtuber",
@@ -18463,13 +18449,6 @@
     "name": "栀小朵",
     "type": "vtuber",
     "room": 23246736,
-    "group_name": ""
-  },
-  {
-    "uid": 57988971,
-    "name": "NamelessProject",
-    "type": "group",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -20454,13 +20433,6 @@
     "group_name": "北立交桥"
   },
   {
-    "uid": 153373112,
-    "name": "NGWORKS",
-    "type": "group",
-    "room": 4709278,
-    "group_name": ""
-  },
-  {
     "uid": 155957707,
     "name": "纸-箱-宅",
     "type": "vtuber",
@@ -22229,7 +22201,7 @@
     "name": "矢泽大凤Channel",
     "type": "vtuber",
     "room": 21208533,
-    "group_name": "Nameless Project"
+    "group_name": ""
   },
   {
     "uid": 281460017,
@@ -30370,7 +30342,7 @@
     "name": "夏姬八彻Official",
     "type": "vtuber",
     "room": 21873512,
-    "group_name": "NGWORKS"
+    "group_name": ""
   },
   {
     "uid": 490592728,
@@ -31504,7 +31476,7 @@
     "name": "喵年nyanon_Channel",
     "type": "vtuber",
     "room": 21950185,
-    "group_name": "Nameless Project"
+    "group_name": ""
   },
   {
     "uid": 515053790,
@@ -34920,7 +34892,7 @@
     "name": "希赛莉Official",
     "type": "vtuber",
     "room": 22633705,
-    "group_name": "NEBULA"
+    "group_name": ""
   },
   {
     "uid": 669045252,
@@ -35935,7 +35907,7 @@
     "name": "楓明Official",
     "type": "vtuber",
     "room": 22611454,
-    "group_name": "NEBULA"
+    "group_name": ""
   },
   {
     "uid": 697456406,
@@ -40503,7 +40475,7 @@
   },
   {
     "uid": 1413880763,
-    "name": "EOISvt",
+    "name": "EOIS_伊奥丝",
     "type": "vtuber",
     "room": 30095933,
     "group_name": "极光社"

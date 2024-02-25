@@ -3477,7 +3477,7 @@
     "name": "我打鼾声音超大OvO",
     "type": "vtuber",
     "room": 31634,
-    "group_name": "Nameless Project"
+    "group_name": ""
   },
   "1636809": {
     "name": "星鲨伊玖咕咕咕",
@@ -3537,12 +3537,6 @@
     "name": "呆毛ruki",
     "type": "vtuber",
     "room": 182609,
-    "group_name": ""
-  },
-  "1681621": {
-    "name": "NEBULA工作室",
-    "type": "group",
-    "room": 0,
     "group_name": ""
   },
   "1682261": {
@@ -15471,7 +15465,7 @@
     "name": "海霧うみぎり",
     "type": "vtuber",
     "room": 22152978,
-    "group_name": "NGWORKS"
+    "group_name": ""
   },
   "49869871": {
     "name": "飞鸟闲",
@@ -15761,12 +15755,6 @@
     "room": 9364795,
     "group_name": ""
   },
-  "56261234": {
-    "name": "千時静_Channel",
-    "type": "vtuber",
-    "room": 22076596,
-    "group_name": "Nameless Project"
-  },
   "56287758": {
     "name": "小超人先生",
     "type": "vtuber",
@@ -15825,12 +15813,6 @@
     "name": "栀小朵",
     "type": "vtuber",
     "room": 23246736,
-    "group_name": ""
-  },
-  "57988971": {
-    "name": "NamelessProject",
-    "type": "group",
-    "room": 0,
     "group_name": ""
   },
   "58226190": {
@@ -17531,12 +17513,6 @@
     "room": 7252274,
     "group_name": "北立交桥"
   },
-  "153373112": {
-    "name": "NGWORKS",
-    "type": "group",
-    "room": 4709278,
-    "group_name": ""
-  },
   "155957707": {
     "name": "纸-箱-宅",
     "type": "vtuber",
@@ -19053,7 +19029,7 @@
     "name": "矢泽大凤Channel",
     "type": "vtuber",
     "room": 21208533,
-    "group_name": "Nameless Project"
+    "group_name": ""
   },
   "281460017": {
     "name": "鹿崽swag",
@@ -26031,7 +26007,7 @@
     "name": "夏姬八彻Official",
     "type": "vtuber",
     "room": 21873512,
-    "group_name": "NGWORKS"
+    "group_name": ""
   },
   "490592728": {
     "name": "Shoto的汪汪队",
@@ -27003,7 +26979,7 @@
     "name": "喵年nyanon_Channel",
     "type": "vtuber",
     "room": 21950185,
-    "group_name": "Nameless Project"
+    "group_name": ""
   },
   "515053790": {
     "name": "椋笙栗Kuri",
@@ -29931,7 +29907,7 @@
     "name": "希赛莉Official",
     "type": "vtuber",
     "room": 22633705,
-    "group_name": "NEBULA"
+    "group_name": ""
   },
   "669045252": {
     "name": "竹已Take",
@@ -30801,7 +30777,7 @@
     "name": "楓明Official",
     "type": "vtuber",
     "room": 22611454,
-    "group_name": "NEBULA"
+    "group_name": ""
   },
   "697456406": {
     "name": "金切遊楽Channel",
@@ -34716,7 +34692,7 @@
     "group_name": ""
   },
   "1413880763": {
-    "name": "EOISvt",
+    "name": "EOIS_伊奥丝",
     "type": "vtuber",
     "room": 30095933,
     "group_name": "极光社"

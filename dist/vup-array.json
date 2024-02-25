@@ -4637,7 +4637,7 @@
     "type": "vtuber",
     "room": 31634,
     "face": "/bfs/face/433eea200a2491d0dfc5bee95d41816ed2b0e0f4.jpg",
-    "group_name": "Nameless Project"
+    "group_name": ""
   },
   {
     "uid": 1636809,
@@ -4717,14 +4717,6 @@
     "type": "vtuber",
     "room": 182609,
     "face": "/bfs/face/7b34971cbd45ff330ed8646137571b0ae06cf9dc.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 1681621,
-    "name": "NEBULA工作室",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/11f809c9708a559b677650670c6572bbb5b5fc58.jpg",
     "group_name": ""
   },
   {
@@ -20629,7 +20621,7 @@
     "type": "vtuber",
     "room": 22152978,
     "face": "/bfs/face/e8bf0fc8bd53c99f50169b8dbfb4f331723b3474.jpg",
-    "group_name": "NGWORKS"
+    "group_name": ""
   },
   {
     "uid": 49869871,
@@ -21016,14 +21008,6 @@
     "group_name": ""
   },
   {
-    "uid": 56261234,
-    "name": "千時静_Channel",
-    "type": "vtuber",
-    "room": 22076596,
-    "face": "/bfs/face/3399640528d9046b6ea3a5362e7c408c28437f96.jpg",
-    "group_name": "Nameless Project"
-  },
-  {
     "uid": 56287758,
     "name": "小超人先生",
     "type": "vtuber",
@@ -21101,14 +21085,6 @@
     "type": "vtuber",
     "room": 23246736,
     "face": "/bfs/face/d4e475f76e6791050e4fe9fc38e2ff993abf415e.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 57988971,
-    "name": "NamelessProject",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/d5e16cdcddf5cf1a1a2bb98e832e8bdb806e8b85.jpg",
     "group_name": ""
   },
   {
@@ -23376,14 +23352,6 @@
     "group_name": "北立交桥"
   },
   {
-    "uid": 153373112,
-    "name": "NGWORKS",
-    "type": "group",
-    "room": 4709278,
-    "face": "/bfs/face/ef9747eb488f1167801c1a4e30bdfd1811b979df.jpg",
-    "group_name": ""
-  },
-  {
     "uid": 155957707,
     "name": "纸-箱-宅",
     "type": "vtuber",
@@ -25405,7 +25373,7 @@
     "type": "vtuber",
     "room": 21208533,
     "face": "/bfs/face/7d04322a75a6e5e2d8639cc695838ed2d71a5427.jpg",
-    "group_name": "Nameless Project"
+    "group_name": ""
   },
   {
     "uid": 281460017,
@@ -34709,7 +34677,7 @@
     "type": "vtuber",
     "room": 21873512,
     "face": "/bfs/face/2800a57ba9b115f8e3993dcc39c5402da5a176d1.jpg",
-    "group_name": "NGWORKS"
+    "group_name": ""
   },
   {
     "uid": 490592728,
@@ -36005,7 +35973,7 @@
     "type": "vtuber",
     "room": 21950185,
     "face": "/bfs/face/f440f4db56cb94dbd5dc86135d47a0593cc6d29b.jpg",
-    "group_name": "Nameless Project"
+    "group_name": ""
   },
   {
     "uid": 515053790,
@@ -39909,7 +39877,7 @@
     "type": "vtuber",
     "room": 22633705,
     "face": "/bfs/face/44e271fd3583254a5d0037d2d164e0fd1e616582.jpg",
-    "group_name": "NEBULA"
+    "group_name": ""
   },
   {
     "uid": 669045252,
@@ -41069,7 +41037,7 @@
     "type": "vtuber",
     "room": 22611454,
     "face": "/bfs/face/d7cc10b368a81020c199afeac7145e28e0142865.jpg",
-    "group_name": "NEBULA"
+    "group_name": ""
   },
   {
     "uid": 697456406,
@@ -46289,10 +46257,10 @@
   },
   {
     "uid": 1413880763,
-    "name": "EOISvt",
+    "name": "EOIS_伊奥丝",
     "type": "vtuber",
     "room": 30095933,
-    "face": "/bfs/face/d86ec0bec3d6e6f198ed395bb6602c8d8f7ad5ec.jpg",
+    "face": "/bfs/face/1256f6b2074a3f40c3ba747458bb628538ef7d03.jpg",
     "group_name": "极光社"
   },
   {
@@ -51388,7 +51356,7 @@
     "name": "盖乃希亞Galaxy",
     "type": "vtuber",
     "room": 22864117,
-    "face": "/bfs/face/849d0504d8f31227a08a64b0f68087a74e1613c0.jpg",
+    "face": "/bfs/face/eb1d97599504b3008fcc075c3eb52752b382aad7.jpg",
     "group_name": "Croven教团"
   },
   {
@@ -52156,7 +52124,7 @@
     "name": "咕咕咩Gumen",
     "type": "vtuber",
     "room": 23183294,
-    "face": "/bfs/face/6a7de9972ccb2b613a3c013c6ef7d0faf2b9a7fe.jpg",
+    "face": "/bfs/face/c245e2c7dfb858291b54e28208f55dd584c5dbf2.jpg",
     "group_name": ""
   },
   {
@@ -57004,7 +56972,7 @@
     "name": "漩涡土豆",
     "type": "vtuber",
     "room": 26618868,
-    "face": "/bfs/face/885d6a3f42ee947ca50070351762de1516e7cc15.jpg",
+    "face": "/bfs/face/9a6379a04918c8d3759bde772c8d8e2ba6e9dea8.jpg",
     "group_name": ""
   },
   {
@@ -61436,7 +61404,7 @@
     "name": "由依です",
     "type": "vtuber",
     "room": 27677403,
-    "face": "/bfs/face/8d4a9fdfbda0ab484c20276bffbc15a53d0eefb1.jpg",
+    "face": "/bfs/face/3ea29765a7db607b9fa35d6261a84c50ff2ff359.jpg",
     "group_name": ""
   },
   {
