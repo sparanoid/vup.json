@@ -452,7 +452,7 @@
     "name": "森ノ目律",
     "type": "vtuber",
     "room": 1299321,
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 126401,
@@ -3287,7 +3287,7 @@
     "name": "桃沢白夜",
     "type": "vtuber",
     "room": 35064,
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 907303,
@@ -3427,7 +3427,7 @@
     "name": "紅_Kurenai",
     "type": "vtuber",
     "room": 91073,
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 1309306,
@@ -4071,7 +4071,7 @@
     "name": "姬野うつせみ",
     "type": "vtuber",
     "room": 6528212,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 1638437,
@@ -7200,7 +7200,7 @@
     "name": "凌凌凌凌玖",
     "type": "vtuber",
     "room": 224163,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 4131251,
@@ -8943,7 +8943,7 @@
     "name": "永生龙龙こうたく",
     "type": "vtuber",
     "room": 12457621,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 6856415,
@@ -9776,7 +9776,7 @@
     "name": "秋分迟",
     "type": "vtuber",
     "room": 542993,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 8119834,
@@ -10995,13 +10995,6 @@
     "type": "vtuber",
     "room": 519508,
     "group_name": ""
-  },
-  {
-    "uid": 10296177,
-    "name": "OscarAnd奥斯卡",
-    "type": "vtuber",
-    "room": 795746,
-    "group_name": "Nature"
   },
   {
     "uid": 10321614,
@@ -13136,7 +13129,7 @@
     "name": "迷桑_NAZO",
     "type": "vtuber",
     "room": 4263083,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 15098125,
@@ -14921,7 +14914,7 @@
     "name": "桥A_channel",
     "type": "vtuber",
     "room": 271754,
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 22420295,
@@ -15950,7 +15943,7 @@
     "name": "魔女夏洛特_channel",
     "type": "vtuber",
     "room": 21785538,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 27697073,
@@ -20461,6 +20454,13 @@
     "group_name": ""
   },
   {
+    "uid": 156868538,
+    "name": "诺伊梓noises",
+    "type": "vtuber",
+    "room": 27031987,
+    "group_name": ""
+  },
+  {
     "uid": 156986660,
     "name": "乔沐MuOfficial",
     "type": "vtuber",
@@ -21152,13 +21152,6 @@
     "type": "vtuber",
     "room": 24580764,
     "group_name": ""
-  },
-  {
-    "uid": 203173567,
-    "name": "他的影子全跳舞",
-    "type": "vtuber",
-    "room": 5496362,
-    "group_name": "Nature"
   },
   {
     "uid": 203365648,
@@ -22747,7 +22740,7 @@
     "name": "ヌコ-Nuko",
     "type": "vtuber",
     "room": 0,
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 303246676,
@@ -24318,13 +24311,6 @@
     "group_name": ""
   },
   {
-    "uid": 363862310,
-    "name": "Nature_Project",
-    "type": "group",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 364225566,
     "name": "战斗吧歌姬官方账号",
     "type": "vtuber",
@@ -25393,6 +25379,13 @@
     "name": "萝曼曼Roman",
     "type": "vtuber",
     "room": 24699267,
+    "group_name": ""
+  },
+  {
+    "uid": 392623740,
+    "name": "丨鹿灬允音",
+    "type": "vtuber",
+    "room": 22499096,
     "group_name": ""
   },
   {
@@ -29691,7 +29684,7 @@
     "name": "和玖_Official",
     "type": "vtuber",
     "room": 21822103,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 481694509,
@@ -29887,7 +29880,7 @@
     "name": "七咔拉CHikalar",
     "type": "vtuber",
     "room": 21706862,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 484706916,
@@ -30265,7 +30258,7 @@
     "name": "南穆楽斯",
     "type": "vtuber",
     "room": 0,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 489306359,
@@ -30944,7 +30937,7 @@
     "name": "天川舞MaiMai",
     "type": "vtuber",
     "room": 22560628,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 502445912,
@@ -31140,7 +31133,7 @@
     "name": "工藤くまこ",
     "type": "vtuber",
     "room": 22478857,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 506074310,
@@ -33712,13 +33705,6 @@
     "group_name": "三垣四象project"
   },
   {
-    "uid": 616762266,
-    "name": "Lounge_LUTUBO",
-    "type": "group",
-    "room": 0,
-    "group_name": "Lounge_LUTUBO"
-  },
-  {
     "uid": 617459493,
     "name": "呜米",
     "type": "vtuber",
@@ -36131,7 +36117,7 @@
     "name": "白一鸢_Channel",
     "type": "vtuber",
     "room": 22599047,
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 701582685,
@@ -47856,7 +47842,7 @@
     "name": "辻蓝佳音瑠_channel",
     "type": "vtuber",
     "room": 22865391,
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 2123801125,
@@ -60333,6 +60319,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546596495067491,
+    "name": "黎珂Liiko",
+    "type": "vtuber",
+    "room": 31583959,
+    "group_name": ""
+  },
+  {
     "uid": 3546596637674136,
     "name": "交交Nicole",
     "type": "vtuber",
@@ -60352,6 +60345,13 @@
     "type": "vtuber",
     "room": 31702340,
     "group_name": ""
+  },
+  {
+    "uid": 3546599869385547,
+    "name": "仰阿音",
+    "type": "vtuber",
+    "room": 31842301,
+    "group_name": "极光社"
   },
   {
     "uid": 3546600957807502,

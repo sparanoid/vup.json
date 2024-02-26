@@ -517,7 +517,7 @@
     "type": "vtuber",
     "room": 1299321,
     "face": "/bfs/face/edc98d1eadecf1b158a0828030c87d4905e727b6.jpg",
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 126401,
@@ -3757,7 +3757,7 @@
     "type": "vtuber",
     "room": 35064,
     "face": "/bfs/face/97434adee1c6b5b16303b39cec16e77285399940.jpg",
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 907303,
@@ -3917,7 +3917,7 @@
     "type": "vtuber",
     "room": 91073,
     "face": "/bfs/face/b676b3a3ec8f66e07f29aa60c74e6ad0200f7a1a.jpg",
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 1309306,
@@ -4653,7 +4653,7 @@
     "type": "vtuber",
     "room": 6528212,
     "face": "/bfs/face/91c6ac45ca733eed81ac770dc5bd13addc9a0a26.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 1638437,
@@ -8229,7 +8229,7 @@
     "type": "vtuber",
     "room": 224163,
     "face": "/bfs/face/8e73bc1364e7c6a31732db307fdde691340ad2e3.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 4131251,
@@ -10221,7 +10221,7 @@
     "type": "vtuber",
     "room": 12457621,
     "face": "/bfs/face/e218a40aad0b5b8706147b45a33f9b90c995c2e0.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 6856415,
@@ -11173,7 +11173,7 @@
     "type": "vtuber",
     "room": 542993,
     "face": "/bfs/face/467ab93c241c8fd28fe050d0f3b6a80a02ece4c9.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 8119834,
@@ -12566,14 +12566,6 @@
     "room": 519508,
     "face": "/bfs/face/37908ebaacc2eedb8659022e4ce7609324f957c6.jpg",
     "group_name": ""
-  },
-  {
-    "uid": 10296177,
-    "name": "OscarAnd奥斯卡",
-    "type": "vtuber",
-    "room": 795746,
-    "face": "/bfs/face/bd75be6be0d6839e503fb23c60083475f0c14f5e.jpg",
-    "group_name": "Nature"
   },
   {
     "uid": 10321614,
@@ -15013,7 +15005,7 @@
     "type": "vtuber",
     "room": 4263083,
     "face": "/bfs/face/7c6b22fca4cca55a94202e4c31d469c8604423cf.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 15098125,
@@ -17053,7 +17045,7 @@
     "type": "vtuber",
     "room": 271754,
     "face": "/bfs/face/2615a7237cd33bca729eb46e18bc822d70c352a1.jpg",
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 22420295,
@@ -18229,7 +18221,7 @@
     "type": "vtuber",
     "room": 21785538,
     "face": "/bfs/face/5b0187838212df5ed4d5ced18f26a52c3ef51b93.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 27697073,
@@ -23384,6 +23376,14 @@
     "group_name": ""
   },
   {
+    "uid": 156868538,
+    "name": "诺伊梓noises",
+    "type": "vtuber",
+    "room": 27031987,
+    "face": "/bfs/face/f85b4bda864200b14260930427b2f4ada0df7683.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 156986660,
     "name": "乔沐MuOfficial",
     "type": "vtuber",
@@ -24174,14 +24174,6 @@
     "room": 24580764,
     "face": "/bfs/face/30b35a5af1db5da4ebcc12f2d65f5512e659bed1.jpg",
     "group_name": ""
-  },
-  {
-    "uid": 203173567,
-    "name": "他的影子全跳舞",
-    "type": "vtuber",
-    "room": 5496362,
-    "face": "/bfs/face/4d4caf1ba8b6a2daacc16f409f473e5eacdd77d3.jpg",
-    "group_name": "Nature"
   },
   {
     "uid": 203365648,
@@ -25997,7 +25989,7 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/1a0131a1e92c18131b23870af9941b9c2fea089a.jpg",
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 303246676,
@@ -27792,14 +27784,6 @@
     "group_name": ""
   },
   {
-    "uid": 363862310,
-    "name": "Nature_Project",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/eb78db10900d6509ad928d9a53f0601152a0f34f.jpg",
-    "group_name": ""
-  },
-  {
     "uid": 364225566,
     "name": "战斗吧歌姬官方账号",
     "type": "vtuber",
@@ -29021,6 +29005,14 @@
     "type": "vtuber",
     "room": 24699267,
     "face": "/bfs/face/d141e39769bd67ea78826d5676442b3a3c89699d.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 392623740,
+    "name": "丨鹿灬允音",
+    "type": "vtuber",
+    "room": 22499096,
+    "face": "/bfs/face/ab54c14659d74a7885a78e6ebdb472e6b473a4bb.jpg",
     "group_name": ""
   },
   {
@@ -33933,7 +33925,7 @@
     "type": "vtuber",
     "room": 21822103,
     "face": "/bfs/face/3871c0eb9c00b0dabd5dc68d444e851bf30682bd.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 481694509,
@@ -34157,7 +34149,7 @@
     "type": "vtuber",
     "room": 21706862,
     "face": "/bfs/face/e016ecebeb430d1d790ba0f82af49fc896d82108.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 484706916,
@@ -34589,7 +34581,7 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/773b28a21c525f4677630d0fded181f260611f14.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 489306359,
@@ -35365,7 +35357,7 @@
     "type": "vtuber",
     "room": 22560628,
     "face": "/bfs/face/a2375448e7eafccd80ac075a7e0b54d2d113e739.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 502445912,
@@ -35589,7 +35581,7 @@
     "type": "vtuber",
     "room": 22478857,
     "face": "/bfs/face/baddc45696ff5c2612ff1d7290649b9b7d4678f7.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 506074310,
@@ -38528,14 +38520,6 @@
     "group_name": "三垣四象project"
   },
   {
-    "uid": 616762266,
-    "name": "Lounge_LUTUBO",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/cf2217d2162a326bf782b92b868c3e8b825ee157.jpg",
-    "group_name": "Lounge_LUTUBO"
-  },
-  {
     "uid": 617459493,
     "name": "呜米",
     "type": "vtuber",
@@ -41293,7 +41277,7 @@
     "type": "vtuber",
     "room": 22599047,
     "face": "/bfs/face/762ea3d3b508d333d358a1f3de3ed7b9f737a70e.jpg",
-    "group_name": "Nature"
+    "group_name": ""
   },
   {
     "uid": 701582685,
@@ -54693,7 +54677,7 @@
     "type": "vtuber",
     "room": 22865391,
     "face": "/bfs/face/05bf924463d8dffeb7efb1c60f9f10227bd13edd.webp",
-    "group_name": "Lounge_LUTUBO"
+    "group_name": ""
   },
   {
     "uid": 2123801125,
@@ -68952,6 +68936,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546596495067491,
+    "name": "黎珂Liiko",
+    "type": "vtuber",
+    "room": 31583959,
+    "face": "/bfs/face/cce1aea4284349871d361da2a57643f939a33b4c.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546596637674136,
     "name": "交交Nicole",
     "type": "vtuber",
@@ -68974,6 +68966,14 @@
     "room": 31702340,
     "face": "/bfs/face/f9b2cb19f56716f8ceb1e76ba6b83dc5d061fb4a.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546599869385547,
+    "name": "仰阿音",
+    "type": "vtuber",
+    "room": 31842301,
+    "face": "/bfs/face/f5a240519ead7ca1d6c1bf69c70b225a060788ec.jpg",
+    "group_name": "极光社"
   },
   {
     "uid": 3546600957807502,
