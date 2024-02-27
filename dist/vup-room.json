@@ -21829,7 +21829,7 @@
     "name": "桃乐丝Dollris",
     "type": "vtuber",
     "room_id": 26291014,
-    "face": "/bfs/face/18c9d6a148aefaca4d30654a49ebed32033148f6.jpg",
+    "face": "/bfs/face/fd2371bfce38f2de8077caff0fa624b8b39e14da.jpg",
     "group_name": ""
   },
   "263179215": {
@@ -35867,6 +35867,13 @@
     "face": "/bfs/face/5cf0b8f6acb15c6051e57e31503fb3d3ad945f96.jpg",
     "group_name": ""
   },
+  "697138005": {
+    "name": "张敢敢-深夜冠名版",
+    "type": "vtuber",
+    "room_id": 31708537,
+    "face": "/bfs/face/0e0ec87896985097c3d087c62c81beb81950c52b.jpg",
+    "group_name": ""
+  },
   "697318869": {
     "name": "楓明Official",
     "type": "vtuber",
@@ -40513,6 +40520,13 @@
     "type": "vtuber",
     "room_id": 25242627,
     "face": "/bfs/face/82fecec794cc1ae5597b474f5a2ccc386e18010c.jpg",
+    "group_name": ""
+  },
+  "1419773922": {
+    "name": "幸运小甜饼o",
+    "type": "vtuber",
+    "room_id": 31064918,
+    "face": "/bfs/face/0e0ed97324fd95494c89cb805f8e4e17bc02e808.jpg",
     "group_name": ""
   },
   "1420352989": {
@@ -47457,6 +47471,13 @@
     "type": "vtuber",
     "room_id": 25570038,
     "face": "/bfs/face/18ec290cca4be6d271e74166ae99ef4564ee58b0.jpg",
+    "group_name": ""
+  },
+  "2095656081": {
+    "name": "南乔_official",
+    "type": "vtuber",
+    "room_id": 30765013,
+    "face": "/bfs/face/e0581c73866f4fa49cf55209241a12d8aac951b1.jpg",
     "group_name": ""
   },
   "2095825106": {
@@ -59513,6 +59534,13 @@
     "face": "/bfs/face/17dd9d0f876ceeb5e83191a8a10ca5a5a3770354.jpg",
     "group_name": ""
   },
+  "3537124349446832": {
+    "name": "咬一口菜菜Nn-幸运版",
+    "type": "vtuber",
+    "room_id": 30661808,
+    "face": "/bfs/face/06b702c2f4193ec4eeed836bbbd027e5ea5b5314.jpg",
+    "group_name": ""
+  },
   "3537124399778686": {
     "name": "NeroRi-",
     "type": "vtuber",
@@ -59898,6 +59926,13 @@
     "face": "/bfs/face/1f0662a09ff4ed70cde2e7690a36ec7bec5bd09e.jpg",
     "group_name": ""
   },
+  "3546388688275737": {
+    "name": "一只蜜柚-may",
+    "type": "vtuber",
+    "room_id": 30889049,
+    "face": "/bfs/face/8460a23962cd643580cf4b79ddcb50fa65c0f86b.jpg",
+    "group_name": ""
+  },
   "3546388954614313": {
     "name": "阿酸zZ",
     "type": "vtuber",
@@ -60031,6 +60066,13 @@
     "face": "/bfs/face/45eca3ee1f1ccf6713adf6ddbb462939d7da2900.jpg",
     "group_name": ""
   },
+  "3546555780959007": {
+    "name": "神枝Rabbit",
+    "type": "vtuber",
+    "room_id": 31023922,
+    "face": "/bfs/face/6661b2f80e3e97e4c1d843e1dd307ddabc8cecbf.jpg",
+    "group_name": ""
+  },
   "3546555835485150": {
     "name": "夜明魔寻_Offcial",
     "type": "vtuber",
@@ -60057,6 +60099,13 @@
     "type": "vtuber",
     "room_id": 31018380,
     "face": "/bfs/face/f2849c2ffd3332f00cbb119d741e1a079ae40f37.jpg",
+    "group_name": ""
+  },
+  "3546557840361556": {
+    "name": "小芙殿下_",
+    "type": "vtuber",
+    "room_id": 31020788,
+    "face": "/bfs/face/3f86702208ae749dde33c7cb9ee539844aa32457.jpg",
     "group_name": ""
   },
   "3546558505159515": {
@@ -60220,6 +60269,13 @@
     "face": "/bfs/face/53a7157829997a0fe06b73793818a1aa06ece230.jpg",
     "group_name": ""
   },
+  "3546574258964484": {
+    "name": "白穗岁",
+    "type": "vtuber",
+    "room_id": 31252094,
+    "face": "/bfs/face/3cad3552f65800fba3a4d075f4aee7c9cd4db41b.jpg",
+    "group_name": ""
+  },
   "3546574611286267": {
     "name": "芙芙鸦keynes",
     "type": "vtuber",
@@ -60358,6 +60414,13 @@
     "type": "vtuber",
     "room_id": 31473995,
     "face": "/bfs/face/a4b0e6f4147b2433f1a5207b0c616703b0171042.jpg",
+    "group_name": ""
+  },
+  "3546592088951437": {
+    "name": "格拉纳特Gat",
+    "type": "vtuber",
+    "room_id": 31525063,
+    "face": "/bfs/face/e286cff9f9022c9dc2d5b2e54419b721d5391f65.jpg",
     "group_name": ""
   },
   "3546592531450087": {
