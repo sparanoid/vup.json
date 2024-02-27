@@ -3924,7 +3924,7 @@
     "name": "宫本夏凌",
     "type": "vtuber",
     "room": 77224,
-    "face": "/bfs/face/0c36d217575beae3c8a14656d87ac02f097c9ff6.jpg",
+    "face": "/bfs/face/a1c5371da39f433485224c5b32e7e144b3c9c986.jpg",
     "group_name": "Virtopia"
   },
   {
@@ -35068,7 +35068,7 @@
     "name": "艾克豪Alcohol",
     "type": "vtuber",
     "room": 27794379,
-    "face": "/bfs/face/3f6d35a32228bf8c1f8f037bd4adb0556d16a550.jpg",
+    "face": "/bfs/face/d7b071cc6c72a5e55b1ebdc332e54b965b316394.jpg",
     "group_name": ""
   },
   {
@@ -40036,7 +40036,7 @@
     "name": "甜心小柚柚-幽灵版",
     "type": "vtuber",
     "room": 30192924,
-    "face": "/bfs/face/89ada107173db5d7b2b8d5634563aba3d0f4e924.jpg",
+    "face": "/bfs/face/8307c498620b2fd35835c3a5133cf3f9f31405f7.jpg",
     "group_name": ""
   },
   {
@@ -66836,7 +66836,7 @@
     "name": "雾花怜怜",
     "type": "vtuber",
     "room": 30530924,
-    "face": "/bfs/face/668393fad5a44f36b81e372a75d31116ca01cde7.jpg",
+    "face": "/bfs/face/caddd7d4532639708bc49d2bf1d009925e16a363.jpg",
     "group_name": ""
   },
   {
@@ -67601,10 +67601,10 @@
   },
   {
     "uid": 3537115180698210,
-    "name": "阿芙-病娇版",
+    "name": "就给美女刷点吧",
     "type": "vtuber",
     "room": 30599883,
-    "face": "/bfs/face/010a6a813991fb431ae9028bf1a613b816babe49.jpg",
+    "face": "/bfs/face/7251544c75fa50a18055893119aa405ce38dede2.jpg",
     "group_name": ""
   },
   {
@@ -68712,6 +68712,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546558941366987,
+    "name": "纤灵儿er",
+    "type": "vtuber",
+    "room": 31028356,
+    "face": "/bfs/face/72009bf2d8f71ea0044d32673595bcdc2c78f3cc.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546559320951456,
     "name": "容涯-Akuma",
     "type": "vtuber",
@@ -69005,6 +69013,14 @@
     "type": "vtuber",
     "room": 31421289,
     "face": "/bfs/face/5d9bbfa85eadd2d4a1d60e01f581ac13cff9991a.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546585422104703,
+    "name": "招摇夭夭",
+    "type": "vtuber",
+    "room": 31583828,
+    "face": "/bfs/face/6f60a2a180f4d5bbf23ea9cec182f8d5a874f601.jpg",
     "group_name": ""
   },
   {
