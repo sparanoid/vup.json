@@ -12366,7 +12366,7 @@
     "type": "vtuber",
     "room_id": 22632002,
     "face": "/bfs/face/a68923dc34ad5beec06df10de4e5839f90f6f781.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "13324696": {
     "name": "来瓶美芝",
@@ -12884,7 +12884,7 @@
     "type": "vtuber",
     "room_id": 31015070,
     "face": "/bfs/face/42c70ccd9ddc25db69504dc417c850bf4b2cb82c.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "14427356": {
     "name": "波子ラムネ",
@@ -15110,7 +15110,7 @@
     "type": "vtuber",
     "room_id": 1387582,
     "face": "/bfs/face/972de00e606e66aaa1b7a71f5a145a182cb7f240.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "23200613": {
     "name": "要加几个i才能叫koi",
@@ -19849,7 +19849,7 @@
     "type": "vtuber",
     "room_id": 6008526,
     "face": "/bfs/face/aadacf1b91d93a3af2bae50a252da90002668c8f.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "109564538": {
     "name": "夜雨_Official",
@@ -20395,7 +20395,7 @@
     "type": "vtuber",
     "room_id": 7252274,
     "face": "/bfs/face/addf47effe8c42c31769017370fa5608c241f82a.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "155957707": {
     "name": "纸-箱-宅",
@@ -21493,7 +21493,7 @@
     "name": "月见NoNo",
     "type": "vtuber",
     "room_id": 27065572,
-    "face": "/bfs/face/4b22e77fc38d17960848efcdb1d0227087401d51.jpg",
+    "face": "/bfs/face/5943b2bbfc324bf16bf6e87132fa547864ffb5f3.jpg",
     "group_name": ""
   },
   "242067082": {
@@ -21843,7 +21843,7 @@
     "name": "桃乐丝Dollris",
     "type": "vtuber",
     "room_id": 26291014,
-    "face": "/bfs/face/fd2371bfce38f2de8077caff0fa624b8b39e14da.jpg",
+    "face": "/bfs/face/03a50ca0b309bd653c734ebe51a65a686b2565eb.jpg",
     "group_name": ""
   },
   "263179215": {
@@ -32890,7 +32890,7 @@
     "type": "vtuber",
     "room_id": 26906753,
     "face": "/bfs/face/d5b1e8b44a996e18a72210e9a9404475a4a4c35d.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "583235899": {
     "name": "理想_ideal",
@@ -33100,7 +33100,7 @@
     "type": "vtuber",
     "room_id": 22889484,
     "face": "/bfs/baselabs/af3881a47f8e8b143d2bb1fdd0524d22fb74537a.png",
-    "group_name": ""
+    "group_name": "Hanabi_live"
   },
   "592150173": {
     "name": "牧牧白miiu",
@@ -36943,7 +36943,7 @@
     "type": "vtuber",
     "room_id": 27400550,
     "face": "/bfs/face/b901350e123e24f89815f916dcba4cdd98f93be1.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "1069108539": {
     "name": "小鸟游杏子Official",
@@ -38637,13 +38637,6 @@
     "type": "vtuber",
     "room_id": 23608809,
     "face": "/bfs/face/0c08b48c5e75b3dc6cbb5e48cb1da500d2b6b8ec.jpg",
-    "group_name": ""
-  },
-  "1240518940": {
-    "name": "北立交桥",
-    "type": "group",
-    "room_id": 24375470,
-    "face": "/bfs/face/4a4c58875b4d7d3fc3a965135d5ce8171b977ff7.jpg",
     "group_name": ""
   },
   "1240845292": {
@@ -44390,7 +44383,7 @@
     "name": "柚恩不加糖",
     "type": "vtuber",
     "room_id": 25512501,
-    "face": "/bfs/face/155be7b2d4fe10859b7bf754fdcf38510e44ae28.jpg",
+    "face": "/bfs/face/a405bd8d2b69a8153d6d9a9f50d87388e96bfea2.jpg",
     "group_name": "EOE组合"
   },
   "1795172933": {
@@ -46379,7 +46372,7 @@
     "type": "vtuber",
     "room_id": 26872684,
     "face": "/bfs/face/51648920809d29d7d9197c1c6123dd292dcab282.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "1979294609": {
     "name": "八桦蜂吻Channel",
@@ -49081,7 +49074,7 @@
     "type": "vtuber",
     "room_id": 26836672,
     "face": "/bfs/face/323914d614d006d17f75435d5c0253d6e6ac1181.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "3493078558050567": {
     "name": "保梦羽酱_pomuuchan",
@@ -49518,7 +49511,7 @@
     "group_name": ""
   },
   "3493087642913107": {
-    "name": "小_温_",
+    "name": "温以凝",
     "type": "vtuber",
     "room_id": 26507836,
     "face": "/bfs/face/605f9ac82fb7d681de26a92de75d80e38319a2d1.jpg",
@@ -50754,7 +50747,7 @@
     "type": "vtuber",
     "room_id": 26864993,
     "face": "/bfs/face/487df538fabcef9eb1eee45a7f81fb8326de191e.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "3493119064542016": {
     "name": "希芙莉Sifly",
@@ -51062,7 +51055,7 @@
     "type": "vtuber",
     "room_id": 26941523,
     "face": "/bfs/face/5bfc9811ec43b0989e8f66588da2a0198b6be8c1.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "3493124718463031": {
     "name": "墨渊恒_official",
@@ -52192,7 +52185,7 @@
     "group_name": ""
   },
   "3493141818640880": {
-    "name": "盛明月smy",
+    "name": "苏月suyue",
     "type": "vtuber",
     "room_id": 27251993,
     "face": "/bfs/face/fb07236a55777c032e0ce68c7d2423b091c6636b.jpg",
@@ -57082,7 +57075,7 @@
     "type": "vtuber",
     "room_id": 30017344,
     "face": "/bfs/face/d5eb815665d3212142e7c0e95df06adb867f66ec.jpg",
-    "group_name": "北立交桥"
+    "group_name": "Hanabi_live"
   },
   "3494358271658807": {
     "name": "包包酱阿",
@@ -57281,7 +57274,7 @@
     "group_name": ""
   },
   "3494361601936022": {
-    "name": "希芮妮_相思豆豆版",
+    "name": "希芮妮_一发出巴士版",
     "type": "vtuber",
     "room_id": 30066665,
     "face": "/bfs/face/7d9079e7869b72aeff5962ee7d94ad9fde4e3c0f.jpg",
@@ -58370,7 +58363,7 @@
     "type": "vtuber",
     "room_id": 30297492,
     "face": "/bfs/face/f71756486ddac89697f98280310fafada6a05dd4.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "3494376722402179": {
     "name": "夏悠Uli",
@@ -58422,7 +58415,7 @@
     "group_name": ""
   },
   "3494377395587810": {
-    "name": "贝vivi_修罗哥冠",
+    "name": "贝vivi_唱歌的",
     "type": "vtuber",
     "room_id": 30308794,
     "face": "/bfs/face/621e96be4732ae319a81bd8fc03aca3308f565fb.jpg",
@@ -58678,7 +58671,7 @@
     "type": "vtuber",
     "room_id": 30365606,
     "face": "/bfs/face/ed03ea0620c767d23b932377b53d66c20a461ffc.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "3494380547606559": {
     "name": "柚弥弥Yomi",
@@ -58895,7 +58888,7 @@
     "type": "vtuber",
     "room_id": 30941627,
     "face": "/bfs/face/85d9d86496a96b2dd3605d87555a84b8b16de847.jpg",
-    "group_name": "北立交桥"
+    "group_name": "Hanabi_live"
   },
   "3537109067500098": {
     "name": "川岛雾纱_kiri",
@@ -59238,7 +59231,7 @@
     "type": "vtuber",
     "room_id": 30613114,
     "face": "/bfs/face/d2f9dabd56a72ca66578f52fcce675e75fb3f537.jpg",
-    "group_name": ""
+    "group_name": "Hanabi_live"
   },
   "3537115914701247": {
     "name": "纪辽Silas",
@@ -59805,7 +59798,7 @@
     "type": "vtuber",
     "room_id": 30847197,
     "face": "/bfs/face/699cbc2e92e6684cdb1a7dc15755d3219890abc7.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "3546381048350924": {
     "name": "晴人honey_",
@@ -59989,6 +59982,13 @@
     "face": "/bfs/face/8460a23962cd643580cf4b79ddcb50fa65c0f86b.jpg",
     "group_name": ""
   },
+  "3546388841368060": {
+    "name": "敖雾AOU",
+    "type": "vtuber",
+    "room_id": 30892007,
+    "face": "/bfs/face/27e0208db22923c7441cf82a9aea605ce9d80986.jpg",
+    "group_name": "Hanabi_live"
+  },
   "3546388954614313": {
     "name": "阿酸zZ",
     "type": "vtuber",
@@ -60064,7 +60064,7 @@
     "type": "vtuber",
     "room_id": 30999783,
     "face": "/bfs/face/e606ef4e164a36ce69fb5c7179e74e2f99c32d0a.jpg",
-    "group_name": "北立交桥"
+    "group_name": ""
   },
   "3546392437984168": {
     "name": "粥千千Money_",
@@ -60268,6 +60268,13 @@
     "room_id": 31515000,
     "face": "/bfs/face/2ab1aa7187ed58d9f800bbbae2d27b5a9078d23e.jpg",
     "group_name": ""
+  },
+  "3546568147864207": {
+    "name": "冥纪Meiki",
+    "type": "vtuber",
+    "room_id": 31682919,
+    "face": "/bfs/face/091256d9391f3865e22ad34336c95604e18d31ee.jpg",
+    "group_name": "Hanabi_live"
   },
   "3546568189807591": {
     "name": "兔原阳菜Hina",
@@ -60589,6 +60596,13 @@
     "type": "vtuber",
     "room_id": 31671448,
     "face": "/bfs/face/239e57e91eb61be0a634bc1217d382ea389e357e.jpg",
+    "group_name": ""
+  },
+  "3546602868312291": {
+    "name": "Hanabi_live",
+    "type": "group",
+    "room_id": 0,
+    "face": "/bfs/face/ef662709008a48001a39d56f31e79cddb40417bb.jpg",
     "group_name": ""
   },
   "3546604204198677": {
