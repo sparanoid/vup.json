@@ -14539,6 +14539,13 @@
     "group_name": "Hololive"
   },
   {
+    "uid": 20837909,
+    "name": "离乾-nazoka",
+    "type": "vtuber",
+    "room": 12655356,
+    "group_name": ""
+  },
+  {
     "uid": 20873473,
     "name": "风野慵Yurui",
     "type": "vtuber",
@@ -24102,7 +24109,7 @@
   },
   {
     "uid": 357672624,
-    "name": "明月藏鹭_lu",
+    "name": "迟祭_",
     "type": "vtuber",
     "room": 22933069,
     "group_name": ""
@@ -25799,6 +25806,13 @@
     "name": "芝士鱼yuu",
     "type": "vtuber",
     "room": 21283805,
+    "group_name": ""
+  },
+  {
+    "uid": 399309061,
+    "name": "境月禾Yuzuki",
+    "type": "vtuber",
+    "room": 27427247,
     "group_name": ""
   },
   {
@@ -52493,6 +52507,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493145444617024,
+    "name": "绾柔学姐",
+    "type": "vtuber",
+    "room": 27420253,
+    "group_name": ""
+  },
+  {
     "uid": 3493145455102294,
     "name": "白星baxing",
     "type": "vtuber",
@@ -54488,6 +54509,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493277756033314,
+    "name": "涅喵Neko",
+    "type": "vtuber",
+    "room": 27567205,
+    "group_name": ""
+  },
+  {
     "uid": 3493277883959743,
     "name": "法希Mimosa三月周年庆版",
     "type": "vtuber",
@@ -55364,7 +55392,7 @@
   },
   {
     "uid": 3493289365867263,
-    "name": "搜CC-最爱哆啦C梦",
+    "name": "西西能有什么坏心思",
     "type": "vtuber",
     "room": 27725396,
     "group_name": ""

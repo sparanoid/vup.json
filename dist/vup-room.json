@@ -3104,7 +3104,7 @@
     "name": "祁灵汐",
     "type": "vtuber",
     "room_id": 1363320,
-    "face": "/bfs/face/83e45041a4d98687b271f8bb1dde174b4a6f4c67.jpg",
+    "face": "/bfs/face/c012d88de6cddc426cfbeb7d1b6291ffdd23c1d9.jpg",
     "group_name": ""
   },
   "863287": {
@@ -14538,6 +14538,13 @@
     "face": "/bfs/face/787c5c50965fd4295fe435c1f78f1877274842cc.jpg",
     "group_name": "Hololive"
   },
+  "20837909": {
+    "name": "离乾-nazoka",
+    "type": "vtuber",
+    "room_id": 12655356,
+    "face": "/bfs/face/b0ec2cf412e4339c13eedaff62356c06239a7821.jpg",
+    "group_name": ""
+  },
   "20873473": {
     "name": "风野慵Yurui",
     "type": "vtuber",
@@ -24101,7 +24108,7 @@
     "group_name": ""
   },
   "357672624": {
-    "name": "明月藏鹭_lu",
+    "name": "迟祭_",
     "type": "vtuber",
     "room_id": 22933069,
     "face": "/bfs/face/3519370338cb75e0b7a492aed2eafbd2a79a1a52.jpg",
@@ -25799,6 +25806,13 @@
     "type": "vtuber",
     "room_id": 21283805,
     "face": "/bfs/face/3b078cd2c22ddb6e2528ff9f2f936d2067f2707b.jpg",
+    "group_name": ""
+  },
+  "399309061": {
+    "name": "境月禾Yuzuki",
+    "type": "vtuber",
+    "room_id": 27427247,
+    "face": "/bfs/face/3264b284acabd4b23461dfc40e53e152f4b3e7e0.jpg",
     "group_name": ""
   },
   "399491783": {
@@ -43767,7 +43781,7 @@
     "name": "泡泡Niko",
     "type": "vtuber",
     "room_id": 26005755,
-    "face": "/bfs/face/bb1fdd18149367d663867b4a06dc231dfd2b8efd.jpg",
+    "face": "/bfs/face/75050f31107c2345365cd88930af908be7b176d0.jpg",
     "group_name": ""
   },
   "1734617309": {
@@ -52492,6 +52506,13 @@
     "face": "/bfs/face/2da90fa967be00c051c97eddf53986f1d78c7a23.jpg",
     "group_name": ""
   },
+  "3493145444617024": {
+    "name": "绾柔学姐",
+    "type": "vtuber",
+    "room_id": 27420253,
+    "face": "/bfs/face/5637f8b545d592d36953350d998e9368bd5ab8e1.jpg",
+    "group_name": ""
+  },
   "3493145455102294": {
     "name": "白星baxing",
     "type": "vtuber",
@@ -54487,6 +54508,13 @@
     "face": "/bfs/face/f9d2671898607692b3274678d68620c2e9ab0040.jpg",
     "group_name": ""
   },
+  "3493277756033314": {
+    "name": "涅喵Neko",
+    "type": "vtuber",
+    "room_id": 27567205,
+    "face": "/bfs/face/e65f061c9b1ec462935ef0b761f6dd6074d02983.jpg",
+    "group_name": ""
+  },
   "3493277883959743": {
     "name": "法希Mimosa三月周年庆版",
     "type": "vtuber",
@@ -55363,10 +55391,10 @@
     "group_name": ""
   },
   "3493289365867263": {
-    "name": "搜CC-最爱哆啦C梦",
+    "name": "西西能有什么坏心思",
     "type": "vtuber",
     "room_id": 27725396,
-    "face": "/bfs/face/3563bdef9e573ece601b4bdc0ef82406bc81f829.jpg",
+    "face": "/bfs/face/7d049ca67da1a6125195840295d285209a13ffea.jpg",
     "group_name": ""
   },
   "3493289460238782": {
@@ -55702,7 +55730,7 @@
     "name": "乎乎_Fufu",
     "type": "vtuber",
     "room_id": 30219797,
-    "face": "/bfs/face/5ce57608e9bc8f2aa46d710a9b596e2bfc29dd8c.jpg",
+    "face": "/bfs/face/212a9b0c10f2f387a1f76c6ad2e94e6d954fc9de.jpg",
     "group_name": "StarDust星云社"
   },
   "3493293191072549": {
@@ -56661,7 +56689,7 @@
     "name": "林也思_风酱",
     "type": "vtuber",
     "room_id": 27940294,
-    "face": "/bfs/face/1d1fe300e7eaa1849bf60da8a6f369868799aed0.jpg",
+    "face": "/bfs/face/2277c7321894c0656d51cc0bf55994f72ea82767.jpg",
     "group_name": ""
   },
   "3494354217863618": {
