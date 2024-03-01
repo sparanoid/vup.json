@@ -16772,7 +16772,7 @@
     "name": "叁鸠San",
     "type": "vtuber",
     "room": 26984544,
-    "face": "/bfs/face/f329f18dd52db0d0d40d69c3954122c8e74ef719.jpg",
+    "face": "/bfs/face/c9133c2f7b043a1389ac3224b7909b96aae307f5.jpg",
     "group_name": "问尘仙会"
   },
   {
@@ -19237,6 +19237,14 @@
     "type": "vtuber",
     "room": 22442189,
     "face": "/bfs/face/909cb22c0cce0dd5333c815e4b3ced05e548548f.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 34552854,
+    "name": "可燃冰块Moe",
+    "type": "vtuber",
+    "room": 409184,
+    "face": "/bfs/face/e6f00409477431f25849119c31d8fb1be4305b8a.jpg",
     "group_name": ""
   },
   {
@@ -33884,7 +33892,7 @@
     "name": "卿卿子鹿",
     "type": "vtuber",
     "room": 27359427,
-    "face": "/bfs/face/cf8ad138c8657dca63040acbc9796bf98124fd62.jpg",
+    "face": "/bfs/face/72d1548d6db2ff05acb580b72badafc52e748a1f.jpg",
     "group_name": ""
   },
   {
@@ -44996,7 +45004,7 @@
     "name": "釉藥_yuuyaku",
     "type": "vtuber",
     "room": 30521233,
-    "face": "/bfs/face/6551529692a78f66231b7026940c930a9085df16.jpg",
+    "face": "/bfs/face/63e9194fd7de825bd9636e0fedd122686bbf1faa.jpg",
     "group_name": ""
   },
   {
@@ -59284,7 +59292,7 @@
     "name": "爱喝奶冻的大脸妹",
     "type": "vtuber",
     "room": 27167915,
-    "face": "/bfs/face/d83f65472911b2c4be3d7e404d386af0e6fe8a41.jpg",
+    "face": "/bfs/face/7022072b0560ba40a3de1e9a032656c1a3c7b480.jpg",
     "group_name": ""
   },
   {
@@ -62128,6 +62136,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493276315290467,
+    "name": "ShizuVtuber",
+    "type": "vtuber",
+    "room": 27548916,
+    "face": "/bfs/face/64668ea66687603f47aac6bc50c0fb9fc83f960a.png",
+    "group_name": ""
+  },
+  {
     "uid": 3493276474673256,
     "name": "大家爱的甜酱",
     "type": "vtuber",
@@ -64745,7 +64761,7 @@
   },
   {
     "uid": 3494354217863618,
-    "name": "獭獭_打不过特特版",
+    "name": "獭獭米_yomi",
     "type": "vtuber",
     "room": 27934060,
     "face": "/bfs/face/e62d058ef706a6bc961bf81e0f5a9532c7ea59df.jpg",
@@ -65640,6 +65656,14 @@
     "group_name": ""
   },
   {
+    "uid": 3494363927676998,
+    "name": "如月凛奈",
+    "type": "vtuber",
+    "room": 30214877,
+    "face": "/bfs/face/9225eb5bdbb3886d9e6c8e105d360fe7aa28bda9.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3494363975912241,
     "name": "重碧Aoi",
     "type": "vtuber",
@@ -66365,6 +66389,14 @@
     "type": "vtuber",
     "room": 30216456,
     "face": "/bfs/face/19ecd152a2bba7bfd8bc1e5540962ebd5248029a.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3494371542436252,
+    "name": "桑凝Sunny",
+    "type": "vtuber",
+    "room": 30221050,
+    "face": "/bfs/face/401de755ab15454725b6e4e8760113daec705080.jpg",
     "group_name": ""
   },
   {
