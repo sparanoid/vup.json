@@ -39176,14 +39176,6 @@
     "group_name": ""
   },
   {
-    "uid": 633970423,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  {
     "uid": 634324400,
     "name": "Yugo的动感DJ舞厅",
     "type": "vtuber",
@@ -52496,14 +52488,6 @@
     "group_name": ""
   },
   {
-    "uid": 1939253395,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  {
     "uid": 1939339404,
     "name": "可可爱爱小露桉",
     "type": "vtuber",
@@ -53644,7 +53628,7 @@
     "name": "枫茵kaala",
     "type": "vtuber",
     "room": 26025069,
-    "face": "/bfs/face/37aca4698d824e79ecfc419bc7de3a02432cb358.jpg",
+    "face": "/bfs/face/22730aba9f1b48c48a20e7f035d2d780ac9c61a0.jpg",
     "group_name": ""
   },
   {
@@ -62344,14 +62328,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493278926244041,
-    "name": "-_凝_-",
-    "type": "vtuber",
-    "room": 27611621,
-    "face": "/bfs/face/96bcfb1198a2a5568e78fbaad1aa8a4eda2d470d.jpg",
-    "group_name": ""
-  },
-  {
     "uid": 3493279037393020,
     "name": "Shine_沁",
     "type": "vtuber",
@@ -64069,14 +64045,6 @@
     "type": "vtuber",
     "room": 27929497,
     "face": "/bfs/face/db31cd8f653e69a0d5d683f7de537201732722f2.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 3493297555245371,
-    "name": "梵拉-Valar",
-    "type": "vtuber",
-    "room": 27842395,
-    "face": "/bfs/face/7282369463f5f6c8388bc5b0af4e192e92ca9c6d.jpg",
     "group_name": ""
   },
   {
@@ -65820,7 +65788,7 @@
     "name": "温以泠",
     "type": "vtuber",
     "room": 30118851,
-    "face": "/bfs/face/b6c1f05590354888ce3888fb00b972ecfe45feed.jpg",
+    "face": "/bfs/face/d1f30ad8cbc1bca47b9fff5b1892af603c00913d.jpg",
     "group_name": ""
   },
   {
@@ -68441,7 +68409,7 @@
   },
   {
     "uid": 3546383929838293,
-    "name": "白桃bato-2月28号生日啦",
+    "name": "白桃bato",
     "type": "vtuber",
     "room": 30817484,
     "face": "/bfs/face/bfbf5406d368e827ccf583ca3cca18204ade580c.jpg",

@@ -34278,13 +34278,6 @@
     "face": "/bfs/face/16c80cffd0917cf44a7acff3e7d38ed8bb6cb392.jpg",
     "group_name": ""
   },
-  "633970423": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "634324400": {
     "name": "Yugo的动感DJ舞厅",
     "type": "vtuber",
@@ -45933,13 +45926,6 @@
     "face": "/bfs/face/0458134521347d5ba8bb2225b77c31efc9e4ae86.jpg",
     "group_name": ""
   },
-  "1939253395": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "1939339404": {
     "name": "可可爱爱小露桉",
     "type": "vtuber",
@@ -46938,7 +46924,7 @@
     "name": "枫茵kaala",
     "type": "vtuber",
     "room_id": 26025069,
-    "face": "/bfs/face/37aca4698d824e79ecfc419bc7de3a02432cb358.jpg",
+    "face": "/bfs/face/22730aba9f1b48c48a20e7f035d2d780ac9c61a0.jpg",
     "group_name": ""
   },
   "2036015357": {
@@ -54550,13 +54536,6 @@
     "face": "/bfs/face/e5b55b2597f75c1bebe76a08142dd4d6f895522d.jpg",
     "group_name": ""
   },
-  "3493278926244041": {
-    "name": "-_凝_-",
-    "type": "vtuber",
-    "room_id": 27611621,
-    "face": "/bfs/face/96bcfb1198a2a5568e78fbaad1aa8a4eda2d470d.jpg",
-    "group_name": ""
-  },
   "3493279037393020": {
     "name": "Shine_沁",
     "type": "vtuber",
@@ -56060,13 +56039,6 @@
     "type": "vtuber",
     "room_id": 27929497,
     "face": "/bfs/face/db31cd8f653e69a0d5d683f7de537201732722f2.jpg",
-    "group_name": ""
-  },
-  "3493297555245371": {
-    "name": "梵拉-Valar",
-    "type": "vtuber",
-    "room_id": 27842395,
-    "face": "/bfs/face/7282369463f5f6c8388bc5b0af4e192e92ca9c6d.jpg",
     "group_name": ""
   },
   "3493297609771375": {
@@ -57592,7 +57564,7 @@
     "name": "温以泠",
     "type": "vtuber",
     "room_id": 30118851,
-    "face": "/bfs/face/b6c1f05590354888ce3888fb00b972ecfe45feed.jpg",
+    "face": "/bfs/face/d1f30ad8cbc1bca47b9fff5b1892af603c00913d.jpg",
     "group_name": ""
   },
   "3494365169190991": {
@@ -59885,7 +59857,7 @@
     "group_name": ""
   },
   "3546383929838293": {
-    "name": "白桃bato-2月28号生日啦",
+    "name": "白桃bato",
     "type": "vtuber",
     "room_id": 30817484,
     "face": "/bfs/face/bfbf5406d368e827ccf583ca3cca18204ade580c.jpg",
