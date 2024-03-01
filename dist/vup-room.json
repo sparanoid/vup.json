@@ -6919,7 +6919,7 @@
     "name": "饿饿ご飯",
     "type": "vtuber",
     "room_id": 6880271,
-    "face": "/bfs/face/71c5910c131e560057bad8a37aaa8d84b5d0464d.jpg",
+    "face": "/bfs/face/9448b197a6540b6e689e593615a0ff2d46e8daca.jpg",
     "group_name": "Vidol工作室"
   },
   "3787828": {
@@ -8635,6 +8635,13 @@
     "type": "vtuber",
     "room_id": 8113290,
     "face": "/bfs/face/a61f67160293e8f6aa3ebaea96874dd18667a00e.jpg",
+    "group_name": ""
+  },
+  "6285309": {
+    "name": "皎交_tsuki",
+    "type": "vtuber",
+    "room_id": 8622899,
+    "face": "/bfs/face/58727ac47f2c5879a9c91647e117262049e09507.jpg",
     "group_name": ""
   },
   "6292535": {
