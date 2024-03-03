@@ -60730,5 +60730,12 @@
     "room_id": 31967248,
     "face": "/bfs/face/8be32941a83ea644443d7ab99453a0e94da608b6.jpg",
     "group_name": ""
+  },
+  "3546614652209776": {
+    "name": "芙姆米-Channel",
+    "type": "vtuber",
+    "room_id": 31880968,
+    "face": "/bfs/face/e4d1e758c08b7fb910dd8db1b710c29f24170aff.jpg",
+    "group_name": ""
   }
 }
