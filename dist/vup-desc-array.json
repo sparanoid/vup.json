@@ -6089,7 +6089,7 @@
     "type": "vtuber",
     "room": 1469089,
     "face": "/bfs/face/e96bd187f1e70b46944318f991ee96851db6af7e.jpg",
-    "sign": "已毕业。\n在制作最后一批舰长礼物哦",
+    "sign": "已毕业。请勿关注。\n在制作最后一批舰长礼物哦！",
     "group_name": ""
   },
   {
@@ -45567,6 +45567,15 @@
     "group_name": ""
   },
   {
+    "uid": 689402166,
+    "name": "纱娜Hanaki",
+    "type": "vtuber",
+    "room": 31045528,
+    "face": "/bfs/face/a10d76f51c2fd82a9d7f7ad9b5f1e5de47f08ebe.jpg",
+    "sign": "[天枢project]所属 漆骨生花，永生的寄生者。商务合作联系：m19357328112@163.com",
+    "group_name": "天枢project"
+  },
+  {
     "uid": 689735066,
     "name": "泠瑶Riyal",
     "type": "vtuber",
@@ -52665,7 +52674,7 @@
     "room": 30396856,
     "face": "/bfs/face/0cde9960e49b60d118ee3ffaba5f711338018c90.jpg",
     "sign": "[天枢Project]所属 来自街头的朋克少女。",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 1458008883,
@@ -62676,6 +62685,15 @@
     "group_name": "YOLO"
   },
   {
+    "uid": 3461577879587766,
+    "name": "天枢Project",
+    "type": "group",
+    "room": 26381632,
+    "face": "/bfs/face/fc7d89d19af81a983cb43a7f7478810c3329344d.jpg",
+    "sign": "欢迎关注虚拟主播团体天枢Project！ 目前正在募集liver，欢迎报名！官方录播账号：@天枢Project录播号",
+    "group_name": ""
+  },
+  {
     "uid": 3461578385000500,
     "name": "嬴苗苗",
     "type": "vtuber",
@@ -65265,7 +65283,7 @@
     "room": 26924998,
     "face": "/bfs/face/92a2c8c4cb96d6157561e5a32c0d99da53ede756.jpg",
     "sign": "[天枢Project]所属 《山海经》里很会唱歌的流啤大妖怪！  商务合作联系：m19357328112@163.com",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 3493119058250013,
@@ -70120,7 +70138,7 @@
   },
   {
     "uid": 3493278013982909,
-    "name": "软白呼呼Hufuu",
+    "name": "_Hufuu_",
     "type": "vtuber",
     "room": 27873521,
     "face": "/bfs/face/aed53cfc5d5783c03e33e89137fb4111e494313c.jpg",
@@ -75600,6 +75618,15 @@
     "group_name": ""
   },
   {
+    "uid": 3537105571547289,
+    "name": "云心云心玦",
+    "type": "vtuber",
+    "room": 30958428,
+    "face": "/bfs/face/85a1614fb0a92d828bdebcdd94550fd9d13a05a4.jpg",
+    "sign": "【天枢project】行为镜，德做尺，修身立命，重在德行，勤修不辍。",
+    "group_name": "天枢project"
+  },
+  {
     "uid": 3537105619782227,
     "name": "神山果吱",
     "type": "vtuber",
@@ -76425,7 +76452,7 @@
     "room": 30641480,
     "face": "/bfs/face/fb43529168a6b1175ee88ab69103ebdd7daf47f0.jpg",
     "sign": "【天枢project】所属 主打一个可爱的天使猫猫ฅ^•ω•^ฅ喵雾～\n商务合作联系：m19357328112@163.com",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 3537119888804037,
@@ -77865,7 +77892,7 @@
     "room": 31473995,
     "face": "/bfs/face/a4b0e6f4147b2433f1a5207b0c616703b0171042.jpg",
     "sign": "『天枢Project』所属 努力唱歌的鸟鸟，希望能被喜欢(˃ ⌑ ˂ഃ )有个群284152606",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 3546592088951437,
@@ -77938,6 +77965,15 @@
     "face": "/bfs/face/41f2b4e85f6bfd121060c3cf087621f024c217d8.jpg",
     "sign": "❀在花季天寒的春天，想和你一起走向樱花盛开的未来…❀❀录播指路→花冷樱的樱花树❀",
     "group_name": ""
+  },
+  {
+    "uid": 3546598556567650,
+    "name": "伊枝居0_o",
+    "type": "vtuber",
+    "room": 31617543,
+    "face": "/bfs/face/65faeaa8bf6cb41c0b37498aa26856a33045aa8c.jpg",
+    "sign": "[天枢project]天上掉下来的天蓬小妹，赚回老家的路费。商务合作联系：m19357328112@163.com",
+    "group_name": "天枢project"
   },
   {
     "uid": 3546599177324843,

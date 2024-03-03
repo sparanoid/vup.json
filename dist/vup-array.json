@@ -40504,6 +40504,14 @@
     "group_name": ""
   },
   {
+    "uid": 689402166,
+    "name": "纱娜Hanaki",
+    "type": "vtuber",
+    "room": 31045528,
+    "face": "/bfs/face/a10d76f51c2fd82a9d7f7ad9b5f1e5de47f08ebe.jpg",
+    "group_name": "天枢project"
+  },
+  {
     "uid": 689735066,
     "name": "泠瑶Riyal",
     "type": "vtuber",
@@ -46813,7 +46821,7 @@
     "type": "vtuber",
     "room": 30396856,
     "face": "/bfs/face/0cde9960e49b60d118ee3ffaba5f711338018c90.jpg",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 1458008883,
@@ -55712,6 +55720,14 @@
     "group_name": "YOLO"
   },
   {
+    "uid": 3461577879587766,
+    "name": "天枢Project",
+    "type": "group",
+    "room": 26381632,
+    "face": "/bfs/face/fc7d89d19af81a983cb43a7f7478810c3329344d.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3461578385000500,
     "name": "嬴苗苗",
     "type": "vtuber",
@@ -58013,7 +58029,7 @@
     "type": "vtuber",
     "room": 26924998,
     "face": "/bfs/face/92a2c8c4cb96d6157561e5a32c0d99da53ede756.jpg",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 3493119058250013,
@@ -62329,7 +62345,7 @@
   },
   {
     "uid": 3493278013982909,
-    "name": "软白呼呼Hufuu",
+    "name": "_Hufuu_",
     "type": "vtuber",
     "room": 27873521,
     "face": "/bfs/face/aed53cfc5d5783c03e33e89137fb4111e494313c.jpg",
@@ -67200,6 +67216,14 @@
     "group_name": ""
   },
   {
+    "uid": 3537105571547289,
+    "name": "云心云心玦",
+    "type": "vtuber",
+    "room": 30958428,
+    "face": "/bfs/face/85a1614fb0a92d828bdebcdd94550fd9d13a05a4.jpg",
+    "group_name": "天枢project"
+  },
+  {
     "uid": 3537105619782227,
     "name": "神山果吱",
     "type": "vtuber",
@@ -67933,7 +67957,7 @@
     "type": "vtuber",
     "room": 30641480,
     "face": "/bfs/face/fb43529168a6b1175ee88ab69103ebdd7daf47f0.jpg",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 3537119888804037,
@@ -69213,7 +69237,7 @@
     "type": "vtuber",
     "room": 31473995,
     "face": "/bfs/face/a4b0e6f4147b2433f1a5207b0c616703b0171042.jpg",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 3546592088951437,
@@ -69278,6 +69302,14 @@
     "room": 31597166,
     "face": "/bfs/face/41f2b4e85f6bfd121060c3cf087621f024c217d8.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546598556567650,
+    "name": "伊枝居0_o",
+    "type": "vtuber",
+    "room": 31617543,
+    "face": "/bfs/face/65faeaa8bf6cb41c0b37498aa26856a33045aa8c.jpg",
+    "group_name": "天枢project"
   },
   {
     "uid": 3546599177324843,

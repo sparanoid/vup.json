@@ -35441,6 +35441,13 @@
     "group_name": ""
   },
   {
+    "uid": 689402166,
+    "name": "纱娜Hanaki",
+    "type": "vtuber",
+    "room": 31045528,
+    "group_name": "天枢project"
+  },
+  {
     "uid": 689735066,
     "name": "泠瑶Riyal",
     "type": "vtuber",
@@ -40961,7 +40968,7 @@
     "name": "绮奈Carina",
     "type": "vtuber",
     "room": 30396856,
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 1458008883,
@@ -48748,6 +48755,13 @@
     "group_name": "YOLO"
   },
   {
+    "uid": 3461577879587766,
+    "name": "天枢Project",
+    "type": "group",
+    "room": 26381632,
+    "group_name": ""
+  },
+  {
     "uid": 3461578385000500,
     "name": "嬴苗苗",
     "type": "vtuber",
@@ -50761,7 +50775,7 @@
     "name": "第五灌灌",
     "type": "vtuber",
     "room": 26924998,
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 3493119058250013,
@@ -54538,7 +54552,7 @@
   },
   {
     "uid": 3493278013982909,
-    "name": "软白呼呼Hufuu",
+    "name": "_Hufuu_",
     "type": "vtuber",
     "room": 27873521,
     "group_name": ""
@@ -58800,6 +58814,13 @@
     "group_name": ""
   },
   {
+    "uid": 3537105571547289,
+    "name": "云心云心玦",
+    "type": "vtuber",
+    "room": 30958428,
+    "group_name": "天枢project"
+  },
+  {
     "uid": 3537105619782227,
     "name": "神山果吱",
     "type": "vtuber",
@@ -59441,7 +59462,7 @@
     "name": "花雾nyako",
     "type": "vtuber",
     "room": 30641480,
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 3537119888804037,
@@ -60561,7 +60582,7 @@
     "name": "赤盏蛮蛮",
     "type": "vtuber",
     "room": 31473995,
-    "group_name": ""
+    "group_name": "天枢project"
   },
   {
     "uid": 3546592088951437,
@@ -60618,6 +60639,13 @@
     "type": "vtuber",
     "room": 31597166,
     "group_name": ""
+  },
+  {
+    "uid": 3546598556567650,
+    "name": "伊枝居0_o",
+    "type": "vtuber",
+    "room": 31617543,
+    "group_name": "天枢project"
   },
   {
     "uid": 3546599177324843,

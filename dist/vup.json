@@ -35440,6 +35440,13 @@
     "face": "/bfs/face/b2bc93c926dfb8a49e002dd9ccca652da18ce879.jpg",
     "group_name": ""
   },
+  "689402166": {
+    "name": "纱娜Hanaki",
+    "type": "vtuber",
+    "room": 31045528,
+    "face": "/bfs/face/a10d76f51c2fd82a9d7f7ad9b5f1e5de47f08ebe.jpg",
+    "group_name": "天枢project"
+  },
   "689735066": {
     "name": "泠瑶Riyal",
     "type": "vtuber",
@@ -40961,7 +40968,7 @@
     "type": "vtuber",
     "room": 30396856,
     "face": "/bfs/face/0cde9960e49b60d118ee3ffaba5f711338018c90.jpg",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   "1458008883": {
     "name": "BaoVTuber",
@@ -48747,6 +48754,13 @@
     "face": "/bfs/face/31155aec21b12769cd21650a7549e3b8cc1a390c.jpg",
     "group_name": "YOLO"
   },
+  "3461577879587766": {
+    "name": "天枢Project",
+    "type": "group",
+    "room": 26381632,
+    "face": "/bfs/face/fc7d89d19af81a983cb43a7f7478810c3329344d.jpg",
+    "group_name": ""
+  },
   "3461578385000500": {
     "name": "嬴苗苗",
     "type": "vtuber",
@@ -50761,7 +50775,7 @@
     "type": "vtuber",
     "room": 26924998,
     "face": "/bfs/face/92a2c8c4cb96d6157561e5a32c0d99da53ede756.jpg",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   "3493119058250013": {
     "name": "卡希娅Kirara",
@@ -54537,7 +54551,7 @@
     "group_name": ""
   },
   "3493278013982909": {
-    "name": "软白呼呼Hufuu",
+    "name": "_Hufuu_",
     "type": "vtuber",
     "room": 27873521,
     "face": "/bfs/face/aed53cfc5d5783c03e33e89137fb4111e494313c.jpg",
@@ -58799,6 +58813,13 @@
     "face": "/bfs/face/5f71e530018d039b9f9fdfbe171125fb84cafc3a.jpg",
     "group_name": ""
   },
+  "3537105571547289": {
+    "name": "云心云心玦",
+    "type": "vtuber",
+    "room": 30958428,
+    "face": "/bfs/face/85a1614fb0a92d828bdebcdd94550fd9d13a05a4.jpg",
+    "group_name": "天枢project"
+  },
   "3537105619782227": {
     "name": "神山果吱",
     "type": "vtuber",
@@ -59441,7 +59462,7 @@
     "type": "vtuber",
     "room": 30641480,
     "face": "/bfs/face/fb43529168a6b1175ee88ab69103ebdd7daf47f0.jpg",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   "3537119888804037": {
     "name": "Miss众游",
@@ -60561,7 +60582,7 @@
     "type": "vtuber",
     "room": 31473995,
     "face": "/bfs/face/a4b0e6f4147b2433f1a5207b0c616703b0171042.jpg",
-    "group_name": ""
+    "group_name": "天枢project"
   },
   "3546592088951437": {
     "name": "格拉纳特Gat",
@@ -60618,6 +60639,13 @@
     "room": 31597166,
     "face": "/bfs/face/41f2b4e85f6bfd121060c3cf087621f024c217d8.jpg",
     "group_name": ""
+  },
+  "3546598556567650": {
+    "name": "伊枝居0_o",
+    "type": "vtuber",
+    "room": 31617543,
+    "face": "/bfs/face/65faeaa8bf6cb41c0b37498aa26856a33045aa8c.jpg",
+    "group_name": "天枢project"
   },
   "3546599177324843": {
     "name": "咪茉Mimo_",
