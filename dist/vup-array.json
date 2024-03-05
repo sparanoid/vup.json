@@ -1616,6 +1616,14 @@
     "group_name": "幻想社Fantas1A"
   },
   {
+    "uid": 392546,
+    "name": "黎奈Nan",
+    "type": "vtuber",
+    "room": 5210542,
+    "face": "/bfs/face/aefce36f78752e260bbdc78660aa445bfae709f3.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 394195,
     "name": "一千万只拉姆达",
     "type": "vtuber",
@@ -4836,7 +4844,7 @@
     "name": "星越Koshi",
     "type": "vtuber",
     "room": 40195,
-    "face": "/bfs/face/1e306831f67620b9d2f584713a0ee8744d06aa5d.jpg",
+    "face": "/bfs/face/eb82a8cf8fdc55646f74354bfb26550b0a88c4d1.jpg",
     "group_name": ""
   },
   {
@@ -21064,6 +21072,14 @@
     "group_name": ""
   },
   {
+    "uid": 58018357,
+    "name": "赤坂红音channel",
+    "type": "vtuber",
+    "room": 24719274,
+    "face": "/bfs/face/4ac43ea521dde9162e7dc9c581ee88a2959f47e6.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 58226190,
     "name": "Hakuyaaaaa",
     "type": "vtuber",
@@ -36014,6 +36030,14 @@
     "room": 22110436,
     "face": "/bfs/face/5b4c3a53eb8793231d5f7126ca62ec94af1c52a6.jpg",
     "group_name": "ChaosLiveSprout"
+  },
+  {
+    "uid": 515092658,
+    "name": "莫小燃ENFP-A",
+    "type": "vtuber",
+    "room": 21945395,
+    "face": "/bfs/face/399536a1e85b983f9d0c1c16fe6dfaa8ded7a43c.jpg",
+    "group_name": ""
   },
   {
     "uid": 515200194,
@@ -69357,6 +69381,22 @@
     "type": "vtuber",
     "room": 31801513,
     "face": "/bfs/face/cd728dfdef0f13cf2503c8e3a88f20111edef763.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546605294717122,
+    "name": "阿律ALv",
+    "type": "vtuber",
+    "room": 31713327,
+    "face": "/bfs/face/d538357c847a8a5f7093ad66790a77dbd56e462d.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546607427521505,
+    "name": "小野小町-",
+    "type": "vtuber",
+    "room": 31754752,
+    "face": "/bfs/face/50b5f8f99e62d0a766ec2f7d921740ec73d04cc3.jpg",
     "group_name": ""
   },
   {
