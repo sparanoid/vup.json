@@ -16218,6 +16218,13 @@
     "face": "/bfs/face/18520a90528a34447dd962bc61da5b43c1a5c567.jpg",
     "group_name": ""
   },
+  "29652077": {
+    "name": "金子息",
+    "type": "vtuber",
+    "room": 9479984,
+    "face": "/bfs/face/eb3c7bc83d863c5f81995711cd83fce4ee5f8d34.jpg",
+    "group_name": ""
+  },
   "29659011": {
     "name": "結城藍-larimar",
     "type": "vtuber",
@@ -45728,6 +45735,13 @@
     "type": "vtuber",
     "room": 25725671,
     "face": "/bfs/face/237b90123f9ad403743e8a0f38ff0e4829f41ecc.jpg",
+    "group_name": ""
+  },
+  "1910268505": {
+    "name": "鹅糕菌_Edible",
+    "type": "vtuber",
+    "room": 31845001,
+    "face": "/bfs/face/7bf8c4c1c88540d88c0e31988bfe083552e7c2c3.jpg",
     "group_name": ""
   },
   "1911626217": {
