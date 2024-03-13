@@ -3933,7 +3933,7 @@
     "type": "vtuber",
     "room": 77224,
     "face": "/bfs/face/c0dd21fea57e7228644f6499af9a7fff61bd7b38.jpg",
-    "group_name": "Virtopia"
+    "group_name": ""
   },
   {
     "uid": 1329262,
@@ -4021,7 +4021,7 @@
     "type": "vtuber",
     "room": 664481,
     "face": "/bfs/face/5e08cb759e9c08f72cb6b7a53dc20b7811c2ce0f.jpg",
-    "group_name": "Virtopia"
+    "group_name": ""
   },
   {
     "uid": 1363457,
@@ -4405,7 +4405,7 @@
     "type": "vtuber",
     "room": 3668335,
     "face": "/bfs/face/a98f1bf304b0af701c9f8062b098c0df12d5182c.jpg",
-    "group_name": "Virtopia"
+    "group_name": ""
   },
   {
     "uid": 1524009,
@@ -5013,7 +5013,7 @@
     "type": "vtuber",
     "room": 307972,
     "face": "/bfs/face/06411937806ff9347d4a03eb1a8d672b3bede7da.jpg",
-    "group_name": "Virtopia"
+    "group_name": ""
   },
   {
     "uid": 1802067,
@@ -5893,7 +5893,7 @@
     "type": "vtuber",
     "room": 3570974,
     "face": "/bfs/face/6dcb5cac8cf2843d49dd2a4e6506a5362af17c50.jpg",
-    "group_name": "Virtopia"
+    "group_name": ""
   },
   {
     "uid": 2309276,
@@ -7381,7 +7381,7 @@
     "type": "vtuber",
     "room": 138346,
     "face": "/bfs/face/b27d9069c1fb74355efddb1dc0509b32b1dbd31f.jpg",
-    "group_name": "Virtopia"
+    "group_name": ""
   },
   {
     "uid": 3287291,
@@ -13349,7 +13349,7 @@
     "type": "vtuber",
     "room": 1024392,
     "face": "/bfs/face/b3dcdaeb603f9961d35dc3f5cee351bd7674e5bd.jpg",
-    "group_name": "Virtopia"
+    "group_name": ""
   },
   {
     "uid": 11794236,
@@ -17197,7 +17197,7 @@
     "type": "vtuber",
     "room": 1629906,
     "face": "/bfs/face/1dec605bee794933e12cc8d27abd7af4dc6adedc.jpg",
-    "group_name": "Virtopia"
+    "group_name": ""
   },
   {
     "uid": 22943325,
@@ -23133,7 +23133,7 @@
     "type": "vtuber",
     "room": 22005206,
     "face": "/bfs/face/2855484c0425b194d6db19d3a0713861aaa97890.jpg",
-    "group_name": "Virtopia"
+    "group_name": ""
   },
   {
     "uid": 136322951,
@@ -24134,14 +24134,6 @@
     "room": 11666036,
     "face": "/bfs/face/220324fb75fc566967e76b930cf5f21f8886b8ed.jpg",
     "group_name": "无限殿_Infinite"
-  },
-  {
-    "uid": 195719792,
-    "name": "可愛病",
-    "type": "group",
-    "room": 0,
-    "face": "/bfs/face/50deab9c1b15f4a2bb1b71bd078dcd9ac716dde6.jpg",
-    "group_name": "Virtopia"
   },
   {
     "uid": 195742895,
@@ -30445,7 +30437,7 @@
     "type": "vtuber",
     "room": 21338446,
     "face": "/bfs/face/ebecb95c465f4e00c27b310a19e87073ccef7673.jpg",
-    "group_name": "Virtopia"
+    "group_name": ""
   },
   {
     "uid": 410542957,
@@ -39045,7 +39037,7 @@
     "type": "vtuber",
     "room": 22377405,
     "face": "/bfs/face/d42f1041d265713e830b65d74d8c403f73e938b4.jpg",
-    "group_name": "Virtopia"
+    "group_name": ""
   },
   {
     "uid": 628061724,
@@ -67809,7 +67801,7 @@
   },
   {
     "uid": 3537114767559066,
-    "name": "坏坏天天掉大舰",
+    "name": "坏坏真可爱",
     "type": "vtuber",
     "room": 31669003,
     "face": "/bfs/face/b8e41c4a1d1f5dd056db51824f39f4f6ac55ca48.jpg",
