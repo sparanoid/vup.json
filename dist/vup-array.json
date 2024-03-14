@@ -2676,7 +2676,7 @@
     "name": "朝仓鱼块AsakuraYukai",
     "type": "vtuber",
     "room": 22768466,
-    "face": "/bfs/face/edcf82a28de176b40a1a04613ace3a09e5b58d31.jpg",
+    "face": "/bfs/face/fd6a4d63de1752467d1166917344810587208ea1.jpg",
     "group_name": ""
   },
   {
@@ -4036,7 +4036,7 @@
     "name": "易遥Hayes",
     "type": "vtuber",
     "room": 3881557,
-    "face": "/bfs/face/052b7ad1c83b188e681866c3624af7c4bee23b00.jpg",
+    "face": "/bfs/face/9f4d16ee812449ac3b34a390b2c0bda9eb8e75a7.webp",
     "group_name": ""
   },
   {
@@ -12020,7 +12020,7 @@
     "name": "苏酥MILI",
     "type": "vtuber",
     "room": 310606,
-    "face": "/bfs/face/7e2bcd177338b378ec7176c05148d11ff4606d69.jpg",
+    "face": "/bfs/face/d2512c5a3c909bd58db97c0904bb4942eef3e782.jpg",
     "group_name": ""
   },
   {
@@ -17340,7 +17340,7 @@
     "name": "妩九Melantha",
     "type": "vtuber",
     "room": 7638830,
-    "face": "/bfs/face/9c3d8f2b6f940708ad140cc515bb352436cd059c.jpg",
+    "face": "/bfs/face/94eb6fa50545338b80eb21de258c94677dd62678.webp",
     "group_name": ""
   },
   {
@@ -50368,6 +50368,14 @@
     "group_name": ""
   },
   {
+    "uid": 1751407065,
+    "name": "笙笙-16号双满了",
+    "type": "vtuber",
+    "room": 31781885,
+    "face": "/bfs/face/fc27cb00e899be07f9cf6e8e4f280007210adbcc.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1751918882,
     "name": "泥小滋zzz",
     "type": "vtuber",
@@ -56005,6 +56013,14 @@
     "type": "vtuber",
     "room": 27885573,
     "face": "/bfs/face/738a995805e68c3879672bd3df7586780b8f0585.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493074929977892,
+    "name": "意欢yummy",
+    "type": "vtuber",
+    "room": 31456606,
+    "face": "/bfs/face/b7f4ac158b934f85a52fdd29464241ef237ec58d.jpg",
     "group_name": ""
   },
   {
@@ -68432,6 +68448,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546378533865483,
+    "name": "姑苏阿苑",
+    "type": "vtuber",
+    "room": 30744203,
+    "face": "/bfs/face/d9a1616b9c1586113a8005d00399188ba83049be.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546378584197428,
     "name": "白悠yuki",
     "type": "vtuber",
@@ -69384,6 +69408,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546593517111619,
+    "name": "壮壮-Lin",
+    "type": "vtuber",
+    "room": 31543385,
+    "face": "/bfs/face/a9c646eb8f8338a46179cfd92c6b3cea93a5e7a5.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546593917667611,
     "name": "捡捡JJiumi",
     "type": "vtuber",
@@ -69573,6 +69605,14 @@
     "type": "vtuber",
     "room": 31880968,
     "face": "/bfs/face/c457f052703e00b7b2a7cfa2fbe5fca707c1e62c.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546620499069896,
+    "name": "酷炫羊崽",
+    "type": "vtuber",
+    "room": 31934397,
+    "face": "/bfs/face/c9502fa6d561f528d19f30808a655421eec9a27c.jpg",
     "group_name": ""
   }
 ]
