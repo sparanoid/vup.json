@@ -10376,6 +10376,14 @@
     "group_name": ""
   },
   {
+    "uid": 7128701,
+    "name": "希玖Sigil",
+    "type": "vtuber",
+    "room": 280188,
+    "face": "/bfs/face/2f40dc8f5e19fb16f4e1679958f3db51f240e7c9.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 7158877,
     "name": "顾稚笙丶",
     "type": "vtuber",
@@ -27286,6 +27294,14 @@
     "room": 22126880,
     "face": "/bfs/face/900b81f61c0ad8ef067d9757ad4e95a40331fe3c.jpg",
     "group_name": "エイレーン一家"
+  },
+  {
+    "uid": 355316181,
+    "name": "袖子杨杨",
+    "type": "vtuber",
+    "room": 12858967,
+    "face": "/bfs/face/ebb7ec3cc3af613a5d3ec7c7624cae616f45f6f9.jpg",
+    "group_name": ""
   },
   {
     "uid": 355810003,
@@ -53304,6 +53320,14 @@
     "group_name": ""
   },
   {
+    "uid": 2059039611,
+    "name": "梨茉在数羊_momo",
+    "type": "vtuber",
+    "room": 23375836,
+    "face": "/bfs/face/8da0eb22cf84087854dfe8b20de40c8d361a40b3.jpg",
+    "group_name": "新月社FCrescent"
+  },
+  {
     "uid": 2059201075,
     "name": "Kiko_Official",
     "type": "vtuber",
@@ -55542,6 +55566,14 @@
     "room": 26658611,
     "face": "/bfs/face/91ed8bc4e3af3562a76ad6154ad855653e890afb.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3493078312683628,
+    "name": "卡米莉娅睡不醒ovo",
+    "type": "vtuber",
+    "room": 31347839,
+    "face": "/bfs/face/2447594b7b1afcf4ff35b918fa373069b2ec11a4.jpg",
+    "group_name": "幻想社Fantas1A"
   },
   {
     "uid": 3493078333656008,
@@ -65968,6 +66000,14 @@
     "group_name": ""
   },
   {
+    "uid": 3537104371977155,
+    "name": "是白雁哦_",
+    "type": "vtuber",
+    "room": 30510093,
+    "face": "/bfs/face/3485cb03168aeb97b980fcfcab4408e5419a9654.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3537104808184479,
     "name": "奈良Nara_Official",
     "type": "vtuber",
@@ -67312,6 +67352,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546386058447647,
+    "name": "北柠_Lucky",
+    "type": "vtuber",
+    "room": 31270768,
+    "face": "/bfs/face/f491d6f56306f89c3efbc98da52a10350b0c0d94.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546386112973684,
     "name": "琦琳Kili",
     "type": "vtuber",
@@ -67744,6 +67792,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546568678443497,
+    "name": "江晚烟-",
+    "type": "vtuber",
+    "room": 31380362,
+    "face": "/bfs/face/dcf642b86d934ee862a872cffd9b9c7bffe5da23.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546568684734939,
     "name": "蘭霉",
     "type": "vtuber",
@@ -67757,6 +67813,14 @@
     "type": "vtuber",
     "room": 31427515,
     "face": "/bfs/face/2e96be10ec12e39d7813747d3245b11ab454d5b2.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546569288714792,
+    "name": "果宝Official",
+    "type": "vtuber",
+    "room": 31180317,
+    "face": "/bfs/face/97c9cdf4a8ca1b1c476a51e852605bd7116c96ce.jpg",
     "group_name": ""
   },
   {
@@ -68144,6 +68208,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546603340172186,
+    "name": "伊莎Bela",
+    "type": "vtuber",
+    "room": 31681639,
+    "face": "/bfs/face/8acf6555cad36077de5b5d636b9877d898c2ecae.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546604204198677,
     "name": "StageOne计划",
     "type": "vtuber",
@@ -68208,11 +68280,27 @@
     "group_name": ""
   },
   {
+    "uid": 3546612229998884,
+    "name": "萝尔露Real",
+    "type": "vtuber",
+    "room": 31835822,
+    "face": "/bfs/face/3ab389b98cb9acdfab262b30ff776ce5cab179ee.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546613265992101,
     "name": "凉凉懒大王",
     "type": "vtuber",
     "room": 31841014,
     "face": "/bfs/face/7d8fefeaf7a4a705937a25dc09ca1bd017c03442.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546614301985688,
+    "name": "艾兮_icey",
+    "type": "vtuber",
+    "room": 31857981,
+    "face": "/bfs/face/a8e5b4b4817c69dd19ee70b40ade678e7b9959f0.jpg",
     "group_name": ""
   },
   {
