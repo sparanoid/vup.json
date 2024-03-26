@@ -19214,6 +19214,13 @@
     "face": "/bfs/face/c3c0bfbf9b83c2513ad5d3b20f45260206652697.webp",
     "group_name": ""
   },
+  "87851086": {
+    "name": "濑濑_Rayi",
+    "type": "vtuber",
+    "room_id": 7800727,
+    "face": "/bfs/face/61d7f762bdc9c272af64a468866b8e6f0692342d.jpg",
+    "group_name": ""
+  },
   "88035929": {
     "name": "三重野chiame",
     "type": "vtuber",
@@ -24225,6 +24232,13 @@
     "room_id": 0,
     "face": "/bfs/face/cb0b91f4b991c0b913dab2db27aacb860e93489b.jpg",
     "group_name": ".Live"
+  },
+  "370216798": {
+    "name": "奶兮喵Miao",
+    "type": "vtuber",
+    "room_id": 30781126,
+    "face": "/bfs/face/58e4ce29b7bf8b6ff761972927acc73a9e89cb7c.jpg",
+    "group_name": ""
   },
   "370687372": {
     "name": "紫纪Shiki",
@@ -40781,6 +40795,13 @@
     "face": "/bfs/face/4bc94ba126a334aa325015848c0c12c4ea307459.jpg",
     "group_name": ""
   },
+  "1475073253": {
+    "name": "狐丽君ing",
+    "type": "vtuber",
+    "room_id": 31427542,
+    "face": "/bfs/face/9415f29705b030aa3ef043298fed9574b79f04ff.jpg",
+    "group_name": ""
+  },
   "1475213406": {
     "name": "dhdixjhdh",
     "type": "vtuber",
@@ -46617,6 +46638,13 @@
     "type": "vtuber",
     "room_id": 23835443,
     "face": "/bfs/face/0c3839616cf2d6bf5be0dec4d755e8ea2da6a4e0.jpg",
+    "group_name": ""
+  },
+  "2055858628": {
+    "name": "潜衿",
+    "type": "vtuber",
+    "room_id": 30770006,
+    "face": "/bfs/face/2d61bde786b2b7012c353d1a8a2fa3cc2010db7b.jpg",
     "group_name": ""
   },
   "2056036175": {
@@ -54851,6 +54879,13 @@
     "face": "/bfs/face/061fea49ab59c90acde4f8b3ebc4364a01809c7c.jpg",
     "group_name": ""
   },
+  "3493292685658552": {
+    "name": "天然Tiran_Official",
+    "type": "vtuber",
+    "room_id": 30898734,
+    "face": "/bfs/face/aaa9f83259ec445fc36625fba489c03d0b4ba0e7.jpg",
+    "group_name": ""
+  },
   "3493292710824436": {
     "name": "简叶Kanai",
     "type": "vtuber",
@@ -58673,6 +58708,13 @@
     "face": "/bfs/face/77d5612001746ae2961058ffc284ee19169fd48a.jpg",
     "group_name": ""
   },
+  "3546376495434249": {
+    "name": "清弦String",
+    "type": "vtuber",
+    "room_id": 30768386,
+    "face": "/bfs/face/cd87bb8919e36876e85e12ad39c330fd080c0584.jpg",
+    "group_name": ""
+  },
   "3546377265089278": {
     "name": "小呦啾啾Yo",
     "type": "vtuber",
@@ -59541,6 +59583,13 @@
     "face": "/bfs/face/5b84b8693e6ab58677ee5f7a5ca8096145274b9f.jpg",
     "group_name": ""
   },
+  "3546585107532522": {
+    "name": "幼花yola",
+    "type": "vtuber",
+    "room_id": 31413668,
+    "face": "/bfs/face/0a18a3670bd47c8df938837fa9269935d9cfba95.jpg",
+    "group_name": ""
+  },
   "3546585239652561": {
     "name": "o羚翎酱o",
     "type": "vtuber",
@@ -59623,6 +59672,13 @@
     "type": "vtuber",
     "room_id": 31555469,
     "face": "/bfs/face/c226c86549d66e6bad8a4295d243483180eaffb4.jpg",
+    "group_name": ""
+  },
+  "3546594760723055": {
+    "name": "浅音初奈",
+    "type": "vtuber",
+    "room_id": 31567150,
+    "face": "/bfs/face/babc6fa3cd341b01924409d35b6cdd0347c617bf.jpg",
     "group_name": ""
   },
   "3546594915912449": {
@@ -59805,6 +59861,13 @@
     "type": "vtuber",
     "room_id": 31880968,
     "face": "/bfs/face/c457f052703e00b7b2a7cfa2fbe5fca707c1e62c.jpg",
+    "group_name": ""
+  },
+  "3546617311398099": {
+    "name": "疯人愿辛子",
+    "type": "vtuber",
+    "room_id": 32036936,
+    "face": "/bfs/face/2e8b3ef6ef867da35fe230e2fb102cfd58bc74b1.jpg",
     "group_name": ""
   },
   "3546620499069896": {
