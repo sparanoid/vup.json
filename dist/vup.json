@@ -4073,6 +4073,13 @@
     "face": "/bfs/face/262d9a80c314eeea5f7c02d2e4247e583b9eaaa8.jpg",
     "group_name": ""
   },
+  "1651400": {
+    "name": "空色两仪",
+    "type": "vtuber",
+    "room": 21537,
+    "face": "/bfs/face/56b21ba1d392e137286a5cfd5f19394eae2460c2.jpg",
+    "group_name": ""
+  },
   "1657621": {
     "name": "蕾伊娜Reyna",
     "type": "vtuber",
@@ -11533,6 +11540,13 @@
     "type": "vtuber",
     "room": 24714381,
     "face": "/bfs/face/2b645c1d3cf57137cccb93d19a9dad20c1c3abe6.jpg",
+    "group_name": ""
+  },
+  "11655582": {
+    "name": "鵊鸣",
+    "type": "vtuber",
+    "room": 924325,
+    "face": "/bfs/face/c556032fb97cfac4d1e9e700f794205c43fdeb28.jpg",
     "group_name": ""
   },
   "11656258": {
@@ -20604,7 +20618,7 @@
     "name": "泠梦-YiYo",
     "type": "vtuber",
     "room": 5869668,
-    "face": "/bfs/face/494e25540ef81e140580682be403579218217b3e.jpg",
+    "face": "/bfs/face/7c444abb99c5cca0b1d34fe83701c0324b2eda60.jpg",
     "group_name": ""
   },
   "173435110": {
@@ -33089,7 +33103,7 @@
     "group_name": "四季神社"
   },
   "601771227": {
-    "name": "妮妮26日百天喵",
+    "name": "妮妮Choco",
     "type": "vtuber",
     "room": 31477152,
     "face": "/bfs/face/dd2c0096482a3b95c1edf3deebe1ddff221e692a.jpg",

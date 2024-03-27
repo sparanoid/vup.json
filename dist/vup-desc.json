@@ -2804,7 +2804,7 @@
     "type": "vtuber",
     "room": 35364,
     "face": "/bfs/face/800fc69e9e52df4f92b1f618f31571b56d2026af.jpg",
-    "sign": "也许某一天就会消失的虚拟主播一名",
+    "sign": "不哭的孩子没糖吃。",
     "group_name": ""
   },
   "632960": {
@@ -4653,6 +4653,14 @@
     "room": 102439,
     "face": "/bfs/face/262d9a80c314eeea5f7c02d2e4247e583b9eaaa8.jpg",
     "sign": "❃ 不定时直播 游戏为主 感谢喜欢 ❃ ",
+    "group_name": ""
+  },
+  "1651400": {
+    "name": "空色两仪",
+    "type": "vtuber",
+    "room": 21537,
+    "face": "/bfs/face/56b21ba1d392e137286a5cfd5f19394eae2460c2.jpg",
+    "sign": "欢迎来到「Code：Paradise」，今天想要喝点什么呢？",
     "group_name": ""
   },
   "1657621": {
@@ -13181,6 +13189,14 @@
     "room": 24714381,
     "face": "/bfs/face/2b645c1d3cf57137cccb93d19a9dad20c1c3abe6.jpg",
     "sign": "来自魔界的社畜狼，个狼势出道预备中…",
+    "group_name": ""
+  },
+  "11655582": {
+    "name": "鵊鸣",
+    "type": "vtuber",
+    "room": 924325,
+    "face": "/bfs/face/c556032fb97cfac4d1e9e700f794205c43fdeb28.jpg",
+    "sign": "来去都是自由风，相逢的人未必再相逢。\n希望你喜欢我的声音，不网恋。",
     "group_name": ""
   },
   "11656258": {
@@ -23547,7 +23563,7 @@
     "name": "泠梦-YiYo",
     "type": "vtuber",
     "room": 5869668,
-    "face": "/bfs/face/494e25540ef81e140580682be403579218217b3e.jpg",
+    "face": "/bfs/face/7c444abb99c5cca0b1d34fe83701c0324b2eda60.jpg",
     "sign": "非完全虚拟主播，拥有虚拟形象是因为喜欢。杂谈雀魂抽象势，希望通过直播实现经济独立！",
     "group_name": ""
   },
@@ -37816,7 +37832,7 @@
     "group_name": "四季神社"
   },
   "601771227": {
-    "name": "妮妮26日百天喵",
+    "name": "妮妮Choco",
     "type": "vtuber",
     "room": 31477152,
     "face": "/bfs/face/dd2c0096482a3b95c1edf3deebe1ddff221e692a.jpg",

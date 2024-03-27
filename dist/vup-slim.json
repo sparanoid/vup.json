@@ -3491,6 +3491,12 @@
     "room": 102439,
     "group_name": ""
   },
+  "1651400": {
+    "name": "空色两仪",
+    "type": "vtuber",
+    "room": 21537,
+    "group_name": ""
+  },
   "1657621": {
     "name": "蕾伊娜Reyna",
     "type": "vtuber",
@@ -9885,6 +9891,12 @@
     "name": "哈尔玛斯_Harmas",
     "type": "vtuber",
     "room": 24714381,
+    "group_name": ""
+  },
+  "11655582": {
+    "name": "鵊鸣",
+    "type": "vtuber",
+    "room": 924325,
     "group_name": ""
   },
   "11656258": {
@@ -28362,7 +28374,7 @@
     "group_name": "四季神社"
   },
   "601771227": {
-    "name": "妮妮26日百天喵",
+    "name": "妮妮Choco",
     "type": "vtuber",
     "room": 31477152,
     "group_name": ""
