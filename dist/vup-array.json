@@ -3064,6 +3064,14 @@
     "group_name": ""
   },
   {
+    "uid": 703405,
+    "name": "天选姬_Official",
+    "type": "vtuber",
+    "room": 2058234,
+    "face": "/bfs/face/4e64922e511b124a2cbd5491b448eddef248fdf2.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 712663,
     "name": "柳屋奈奈Yanagi",
     "type": "vtuber",
@@ -47632,6 +47640,14 @@
     "group_name": ""
   },
   {
+    "uid": 1568468378,
+    "name": "星悦希Esther",
+    "type": "vtuber",
+    "room": 31275203,
+    "face": "/bfs/face/fbd956d2887cc5cb7fedbe0a02d20b3a8970d403.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1568890789,
     "name": "红床red",
     "type": "vtuber",
@@ -49765,6 +49781,14 @@
     "type": "vtuber",
     "room": 26679245,
     "face": "/bfs/face/dea714d5b9092f67283d00582885e16684366c25.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1747926309,
+    "name": "绯织乌露_Official",
+    "type": "vtuber",
+    "room": 31906107,
+    "face": "/bfs/face/affeca57a68408b8ee388ecbedd57400ea1a2d29.jpg",
     "group_name": ""
   },
   {
@@ -52877,6 +52901,14 @@
     "type": "vtuber",
     "room": 23359755,
     "face": "/bfs/face/52522ef1a2d78733c11bdbad4cb32ec56eed4449.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 2006075759,
+    "name": "洒洒猫",
+    "type": "vtuber",
+    "room": 31733032,
+    "face": "/bfs/face/d9f374ee0d12f4b079085f9641299ff374efd99d.jpg",
     "group_name": ""
   },
   {
@@ -65592,6 +65624,14 @@
     "group_name": ""
   },
   {
+    "uid": 3494373840914777,
+    "name": "艾姬薇宝_Official",
+    "type": "vtuber",
+    "room": 30250700,
+    "face": "/bfs/face/7f9040327655266fea38b32e286e094c78ec3476.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3494373893344009,
     "name": "哈哈哈哈哈-嘿",
     "type": "vtuber",
@@ -67960,12 +68000,28 @@
     "group_name": "极光社"
   },
   {
+    "uid": 3546572413470996,
+    "name": "忒希Tethys",
+    "type": "vtuber",
+    "room": 31812551,
+    "face": "/bfs/face/618164f5ea7a849a26fbc6aa9ac99b95aba46cd7.jpg",
+    "group_name": "幻想社Fantas1A"
+  },
+  {
     "uid": 3546572872747271,
     "name": "飒琳Celine",
     "type": "vtuber",
     "room": 31386651,
     "face": "/bfs/face/47675a4f9fcf81c4cc25b69dd4d45e6b727fd4de.jpg",
     "group_name": "幻想社Fantas1A"
+  },
+  {
+    "uid": 3546573233457523,
+    "name": "倾妤笙",
+    "type": "vtuber",
+    "room": 31305846,
+    "face": "/bfs/face/a3e7f9dfb0dcbf04e90421af3e1900726a78f3d7.jpg",
+    "group_name": ""
   },
   {
     "uid": 3546573822757071,
@@ -68453,6 +68509,22 @@
     "type": "vtuber",
     "room": 31934397,
     "face": "/bfs/face/c9502fa6d561f528d19f30808a655421eec9a27c.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546626599684797,
+    "name": "莜娜Yuna",
+    "type": "vtuber",
+    "room": 31999413,
+    "face": "/bfs/face/88800123ee092565fbf63d8452eed7f993ec01c5.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546632725465110,
+    "name": "柔伊尔Rouyier",
+    "type": "vtuber",
+    "room": 32101198,
+    "face": "/bfs/face/640fc2733420bbc153fa9a056868681823f9ca12.jpg",
     "group_name": ""
   },
   {

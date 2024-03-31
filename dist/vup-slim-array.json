@@ -2681,6 +2681,13 @@
     "group_name": ""
   },
   {
+    "uid": 703405,
+    "name": "天选姬_Official",
+    "type": "vtuber",
+    "room": 2058234,
+    "group_name": ""
+  },
+  {
     "uid": 712663,
     "name": "柳屋奈奈Yanagi",
     "type": "vtuber",
@@ -41678,6 +41685,13 @@
     "group_name": ""
   },
   {
+    "uid": 1568468378,
+    "name": "星悦希Esther",
+    "type": "vtuber",
+    "room": 31275203,
+    "group_name": ""
+  },
+  {
     "uid": 1568890789,
     "name": "红床red",
     "type": "vtuber",
@@ -43544,6 +43558,13 @@
     "name": "有纪茶茶_Yuki",
     "type": "vtuber",
     "room": 26679245,
+    "group_name": ""
+  },
+  {
+    "uid": 1747926309,
+    "name": "绯织乌露_Official",
+    "type": "vtuber",
+    "room": 31906107,
     "group_name": ""
   },
   {
@@ -46267,6 +46288,13 @@
     "name": "天草ミライ",
     "type": "vtuber",
     "room": 23359755,
+    "group_name": ""
+  },
+  {
+    "uid": 2006075759,
+    "name": "洒洒猫",
+    "type": "vtuber",
+    "room": 31733032,
     "group_name": ""
   },
   {
@@ -57393,6 +57421,13 @@
     "group_name": ""
   },
   {
+    "uid": 3494373840914777,
+    "name": "艾姬薇宝_Official",
+    "type": "vtuber",
+    "room": 30250700,
+    "group_name": ""
+  },
+  {
     "uid": 3494373893344009,
     "name": "哈哈哈哈哈-嘿",
     "type": "vtuber",
@@ -59465,11 +59500,25 @@
     "group_name": "极光社"
   },
   {
+    "uid": 3546572413470996,
+    "name": "忒希Tethys",
+    "type": "vtuber",
+    "room": 31812551,
+    "group_name": "幻想社Fantas1A"
+  },
+  {
     "uid": 3546572872747271,
     "name": "飒琳Celine",
     "type": "vtuber",
     "room": 31386651,
     "group_name": "幻想社Fantas1A"
+  },
+  {
+    "uid": 3546573233457523,
+    "name": "倾妤笙",
+    "type": "vtuber",
+    "room": 31305846,
+    "group_name": ""
   },
   {
     "uid": 3546573822757071,
@@ -59896,6 +59945,20 @@
     "name": "酷炫羊崽",
     "type": "vtuber",
     "room": 31934397,
+    "group_name": ""
+  },
+  {
+    "uid": 3546626599684797,
+    "name": "莜娜Yuna",
+    "type": "vtuber",
+    "room": 31999413,
+    "group_name": ""
+  },
+  {
+    "uid": 3546632725465110,
+    "name": "柔伊尔Rouyier",
+    "type": "vtuber",
+    "room": 32101198,
     "group_name": ""
   },
   {

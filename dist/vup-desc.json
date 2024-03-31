@@ -3063,6 +3063,14 @@
     "sign": "此人已死",
     "group_name": ""
   },
+  "703405": {
+    "name": "天选姬_Official",
+    "type": "vtuber",
+    "room": 2058234,
+    "face": "/bfs/face/4e64922e511b124a2cbd5491b448eddef248fdf2.jpg",
+    "sign": "这里是天选姬的秘密花园~~",
+    "group_name": ""
+  },
   "712663": {
     "name": "柳屋奈奈Yanagi",
     "type": "vtuber",
@@ -47631,6 +47639,14 @@
     "sign": "i人歌势小猫咪。多音乐，多喝水",
     "group_name": ""
   },
+  "1568468378": {
+    "name": "星悦希Esther",
+    "type": "vtuber",
+    "room": 31275203,
+    "face": "/bfs/face/fbd956d2887cc5cb7fedbe0a02d20b3a8970d403.jpg",
+    "sign": "是一个活泼！开朗！热情！可爱！元气的魔法美少女！",
+    "group_name": ""
+  },
   "1568890789": {
     "name": "红床red",
     "type": "vtuber",
@@ -49765,6 +49781,14 @@
     "room": 26679245,
     "face": "/bfs/face/dea714d5b9092f67283d00582885e16684366c25.jpg",
     "sign": "ruaruarua大尾巴~欢迎来rua大尾巴",
+    "group_name": ""
+  },
+  "1747926309": {
+    "name": "绯织乌露_Official",
+    "type": "vtuber",
+    "room": 31906107,
+    "face": "/bfs/face/affeca57a68408b8ee388ecbedd57400ea1a2d29.jpg",
+    "sign": "我是超喜欢美女和美丽正太的阿宅吸血鬼！(「･ω･)｢  来粉丝群玩：942561112",
     "group_name": ""
   },
   "1748926984": {
@@ -52877,6 +52901,14 @@
     "room": 23359755,
     "face": "/bfs/face/52522ef1a2d78733c11bdbad4cb32ec56eed4449.jpg",
     "sign": "星研社所属、日本で声優として活動しています。粉丝群128374553",
+    "group_name": ""
+  },
+  "2006075759": {
+    "name": "洒洒猫",
+    "type": "vtuber",
+    "room": 31733032,
+    "face": "/bfs/face/d9f374ee0d12f4b079085f9641299ff374efd99d.jpg",
+    "sign": "直播时间上午8点-12点，下午2点到4点，请温柔的揉揉猫猫的脑袋呐",
     "group_name": ""
   },
   "2006314323": {
@@ -65591,6 +65623,14 @@
     "sign": "陪伴是最长情的告白",
     "group_name": ""
   },
+  "3494373840914777": {
+    "name": "艾姬薇宝_Official",
+    "type": "vtuber",
+    "room": 30250700,
+    "face": "/bfs/face/7f9040327655266fea38b32e286e094c78ec3476.jpg",
+    "sign": "✜ 个人势VUP ✜ 一只话唠猫猫堕神 咪门CAFE营业中:3\n抽象陪伴系 ◈ 杂谈&游戏 ◈ 录播：@艾薇的切片小猫",
+    "group_name": ""
+  },
   "3494373893344009": {
     "name": "哈哈哈哈哈-嘿",
     "type": "vtuber",
@@ -67959,6 +67999,14 @@
     "sign": "「极光社所属」喜欢扮作猫猫的宅家偶像！努力学习中文ing ✨商务合作：JGSAurora ✨画师妈妈：草莓奶兔",
     "group_name": "极光社"
   },
+  "3546572413470996": {
+    "name": "忒希Tethys",
+    "type": "vtuber",
+    "room": 31812551,
+    "face": "/bfs/face/618164f5ea7a849a26fbc6aa9ac99b95aba46cd7.jpg",
+    "sign": "幻想社Fantas1A所属十期生 暴力鳐鱼申请出战！直播15-19 10-12",
+    "group_name": "幻想社Fantas1A"
+  },
   "3546572872747271": {
     "name": "飒琳Celine",
     "type": "vtuber",
@@ -67966,6 +68014,14 @@
     "face": "/bfs/face/47675a4f9fcf81c4cc25b69dd4d45e6b727fd4de.jpg",
     "sign": "幻想社Fantas1A九期生 时间管理局局长 中英韩粤四语局长势",
     "group_name": "幻想社Fantas1A"
+  },
+  "3546573233457523": {
+    "name": "倾妤笙",
+    "type": "vtuber",
+    "room": 31305846,
+    "face": "/bfs/face/a3e7f9dfb0dcbf04e90421af3e1900726a78f3d7.jpg",
+    "sign": "真的很爱唱歌的屑猫咪~不毕业~国风歌势，周二固休喵~直播时间看公告~企鹅群：469771732，感谢喜欢喵~",
+    "group_name": ""
   },
   "3546573822757071": {
     "name": "鹿溪Lucy_",
@@ -68252,7 +68308,7 @@
     "type": "vtuber",
     "room": 31577064,
     "face": "/bfs/face/bc69d0b56840f05a5dc9d03e2ec8bec64cd09450.jpg",
-    "sign": "羽毛是究竟人妻还是人欺，晚7-12点，念念不忘必有回响\n",
+    "sign": "乖是装的，吃定你的手段罢了，晚7-12点，念念不忘必有回响\n",
     "group_name": ""
   },
   "3546596495067491": {
@@ -68453,6 +68509,22 @@
     "room": 31934397,
     "face": "/bfs/face/c9502fa6d561f528d19f30808a655421eec9a27c.jpg",
     "sign": "早6-12 晚间不定期出没：21-23随机出没中 企鹅群：647781145  养成系男v 可奶可狼快乐咩咩 万粉目标",
+    "group_name": ""
+  },
+  "3546626599684797": {
+    "name": "莜娜Yuna",
+    "type": "vtuber",
+    "room": 31999413,
+    "face": "/bfs/face/88800123ee092565fbf63d8452eed7f993ec01c5.jpg",
+    "sign": "只想唱歌而已 直播通知群333156953",
+    "group_name": ""
+  },
+  "3546632725465110": {
+    "name": "柔伊尔Rouyier",
+    "type": "vtuber",
+    "room": 32101198,
+    "face": "/bfs/face/640fc2733420bbc153fa9a056868681823f9ca12.jpg",
+    "sign": "一小只需要人陪且说话笨笨的小天使",
     "group_name": ""
   },
   "3546644974930059": {
