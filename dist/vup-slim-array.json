@@ -3354,7 +3354,7 @@
   },
   {
     "uid": 934940,
-    "name": "草履虫para",
+    "name": "天王草履虫para",
     "type": "vtuber",
     "room": 6873375,
     "group_name": ""
@@ -37143,7 +37143,7 @@
   },
   {
     "uid": 1115318272,
-    "name": "艾美拉鲁德_Emerald",
+    "name": "艾美拉鲁德_Homoald",
     "type": "vtuber",
     "room": 26040112,
     "group_name": ""
@@ -56130,6 +56130,13 @@
     "name": "花雨络络",
     "type": "vtuber",
     "room": 30000574,
+    "group_name": ""
+  },
+  {
+    "uid": 3494356927384280,
+    "name": "未来战姬-sion冠名播出",
+    "type": "vtuber",
+    "room": 30175417,
     "group_name": ""
   },
   {

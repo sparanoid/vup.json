@@ -3353,10 +3353,10 @@
     "group_name": ""
   },
   "934940": {
-    "name": "草履虫para",
+    "name": "天王草履虫para",
     "type": "vtuber",
     "room": 6873375,
-    "face": "/bfs/face/94c729cdde6ccbe7d51547a3b65d34b40c6e721d.jpg",
+    "face": "/bfs/face/832a453f0a4b19c7d6259fc4e375bc6307f479bf.jpg",
     "group_name": ""
   },
   "946324": {
@@ -24258,7 +24258,7 @@
     "name": "奶兮喵Miao",
     "type": "vtuber",
     "room": 30781126,
-    "face": "/bfs/face/41dbe8e3d182129c876560123d694950f50c30ee.jpg",
+    "face": "/bfs/face/8905b968acb4777eafcd13287fc3b2fce2c87f81.jpg",
     "group_name": ""
   },
   "370687372": {
@@ -37142,7 +37142,7 @@
     "group_name": ""
   },
   "1115318272": {
-    "name": "艾美拉鲁德_Emerald",
+    "name": "艾美拉鲁德_Homoald",
     "type": "vtuber",
     "room": 26040112,
     "face": "/bfs/face/49fd40e8a5457dbf9f5d9d3c95a7f70f47035cac.jpg",
@@ -38580,7 +38580,7 @@
     "name": "渡恩Dawn",
     "type": "vtuber",
     "room": 25575859,
-    "face": "/bfs/face/91fb89622e93198304f277168f473fe753ce0293.jpg",
+    "face": "/bfs/face/df28d55ad3142cb09d66a173fa12780957fae701.jpg",
     "group_name": "虚研社"
   },
   "1262608078": {
@@ -56130,6 +56130,13 @@
     "type": "vtuber",
     "room": 30000574,
     "face": "/bfs/face/18566e1a559c1a89747a8102c480747f5e9b1fa1.jpg",
+    "group_name": ""
+  },
+  "3494356927384280": {
+    "name": "未来战姬-sion冠名播出",
+    "type": "vtuber",
+    "room": 30175417,
+    "face": "/bfs/face/8b0d6046b630fb729658eae6d4dc26264622477a.jpg",
     "group_name": ""
   },
   "3494356950452796": {
