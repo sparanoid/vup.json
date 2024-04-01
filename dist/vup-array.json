@@ -1260,7 +1260,7 @@
     "name": "白上恵理香Official",
     "type": "vtuber",
     "room": 844458,
-    "face": "/bfs/face/55768b4b72086863c89e50fa9e7182726fccd817.jpg",
+    "face": "/bfs/face/6eb54fcc9109f238827cfec0b2b569182968d407.jpg",
     "group_name": ""
   },
   {
@@ -2852,7 +2852,7 @@
     "name": "陶瓷_洛瓷维苏",
     "type": "vtuber",
     "room": 3247804,
-    "face": "/bfs/face/c416043149becd47b87145a876cb40fe3d7f7a40.jpg",
+    "face": "/bfs/face/c3a10a95ec24d9807cfb5ac23df330578d33eaae.jpg",
     "group_name": ""
   },
   {
@@ -3293,6 +3293,14 @@
     "type": "vtuber",
     "room": 57776,
     "face": "/bfs/face/a01790856550be29638a75dc1d3ea0bfb6a46cd0.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 776844,
+    "name": "雲中狸",
+    "type": "vtuber",
+    "room": 667907,
+    "face": "/bfs/face/34d8b9d05c8aa5469b88b80c149827131dd6917e.jpg",
     "group_name": ""
   },
   {
@@ -29657,10 +29665,10 @@
   },
   {
     "uid": 402664546,
-    "name": "呜诶诶Channel",
+    "name": "蜜瓜茶屋",
     "type": "vtuber",
     "room": 21279924,
-    "face": "/bfs/face/064b149ab0a31c54a14e04c70451780e2edcaa2f.jpg",
+    "face": "/bfs/face/993db778129463acd6adfe61883edfaf7008f2bb.jpg",
     "group_name": ""
   },
   {
@@ -39320,6 +39328,14 @@
     "group_name": ""
   },
   {
+    "uid": 660640195,
+    "name": "卷铃喵miao",
+    "type": "vtuber",
+    "room": 31929301,
+    "face": "/bfs/face/f375efcbfa6da0af192fa1af33bfb141854c6405.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 660912261,
     "name": "Chofie斐雅",
     "type": "vtuber",
@@ -43773,6 +43789,14 @@
     "type": "vtuber",
     "room": 23013945,
     "face": "/bfs/face/8818a10715e5f62033d6c06f2fa1e7ca10e17984.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1230691714,
+    "name": "晚安栖夜",
+    "type": "vtuber",
+    "room": 31916993,
+    "face": "/bfs/face/46c6242257297b0e19717a9244e0ece0b4dab8d0.jpg",
     "group_name": ""
   },
   {
@@ -50940,7 +50964,7 @@
     "name": "薄云Kumo",
     "type": "vtuber",
     "room": 30551155,
-    "face": "/bfs/face/2e1a3e41d3abbe473dd90d455294a21440b073db.jpg",
+    "face": "/bfs/face/fc32b0c65fc32d6823c12ccefdc53762dd501fb2.jpg",
     "group_name": ""
   },
   {
@@ -55492,7 +55516,7 @@
     "name": "黛拉来啦",
     "type": "vtuber",
     "room": 26366840,
-    "face": "/bfs/face/060b764fe826152dbfdb68faee35b531aa42834c.jpg",
+    "face": "/bfs/face/3ea13ba908b6db338aff48a23d664702e3da5d76.jpg",
     "group_name": ""
   },
   {
@@ -55897,7 +55921,7 @@
   },
   {
     "uid": 3493082429393021,
-    "name": "希莲娜Syrena",
+    "name": "希蓬娜Sypona",
     "type": "vtuber",
     "room": 26428992,
     "face": "/bfs/face/c4ddfd9440cf469cdf5aab71ff0e8da9cbf8411e.jpg",
@@ -65636,7 +65660,7 @@
     "name": "艾姬薇宝_Official",
     "type": "vtuber",
     "room": 30250700,
-    "face": "/bfs/face/7f9040327655266fea38b32e286e094c78ec3476.jpg",
+    "face": "/bfs/face/0600a9f27428b6b9bbb09f967450dda872bcc643.jpg",
     "group_name": ""
   },
   {
@@ -67988,7 +68012,7 @@
     "name": "青诺Cyan",
     "type": "vtuber",
     "room": 31194271,
-    "face": "/bfs/face/421feab86f5fe1d1ed782656068c782300994726.jpg",
+    "face": "/bfs/face/5dfc108be101b8c0e711577475fb52a91e641408.jpg",
     "group_name": ""
   },
   {
@@ -68376,6 +68400,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546600542571231,
+    "name": "账号已注销276067",
+    "type": "vtuber",
+    "room": 31651477,
+    "face": "/bfs/face/39e54ebae008ee9326f5905b955826c761000d5c.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546600957807502,
     "name": "花汐月Ty",
     "type": "vtuber",
@@ -68397,6 +68429,14 @@
     "type": "vtuber",
     "room": 31681639,
     "face": "/bfs/face/8acf6555cad36077de5b5d636b9877d898c2ecae.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546603795253744,
+    "name": "椰蓉糕糕_狗狗版",
+    "type": "vtuber",
+    "room": 31697391,
+    "face": "/bfs/face/c5646d2f154d36e17c010d19ad1e07aab8146be7.jpg",
     "group_name": ""
   },
   {
@@ -68509,6 +68549,14 @@
     "type": "vtuber",
     "room": 32036936,
     "face": "/bfs/face/2e8b3ef6ef867da35fe230e2fb102cfd58bc74b1.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546618005555261,
+    "name": "沫安娜Anna",
+    "type": "vtuber",
+    "room": 31916150,
+    "face": "/bfs/face/ec2f42b8006e71a69b7814317bbb9952b4a037b9.jpg",
     "group_name": ""
   },
   {
