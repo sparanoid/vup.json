@@ -18620,6 +18620,13 @@
     "group_name": ""
   },
   {
+    "uid": 67473235,
+    "name": "是挽风阿_歌势",
+    "type": "vtuber",
+    "room": 14565011,
+    "group_name": ""
+  },
+  {
     "uid": 67524738,
     "name": "盐咪yami",
     "type": "vtuber",
@@ -23489,6 +23496,13 @@
     "name": "猫猫CATQAQ",
     "type": "vtuber",
     "room": 11926741,
+    "group_name": ""
+  },
+  {
+    "uid": 346112326,
+    "name": "喵小埋ouo",
+    "type": "vtuber",
+    "room": 31416682,
     "group_name": ""
   },
   {
@@ -31897,6 +31911,13 @@
     "type": "group",
     "room": 25878452,
     "group_name": "Palette"
+  },
+  {
+    "uid": 526466097,
+    "name": "白羊姐姐咩",
+    "type": "vtuber",
+    "room": 27888551,
+    "group_name": ""
   },
   {
     "uid": 526729810,
@@ -51044,6 +51065,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493133446810321,
+    "name": "绵软软rara",
+    "type": "vtuber",
+    "room": 27820698,
+    "group_name": "追光社"
+  },
+  {
     "uid": 3493133713148047,
     "name": "蠢萌淇淇",
     "type": "vtuber",
@@ -52213,6 +52241,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493258139273477,
+    "name": "小困包学妹",
+    "type": "vtuber",
+    "room": 31747486,
+    "group_name": ""
+  },
+  {
     "uid": 3493258189605288,
     "name": "呆呆不吃喵",
     "type": "vtuber",
@@ -52469,6 +52504,13 @@
     "name": "白苏Asaru",
     "type": "vtuber",
     "room": 27369991,
+    "group_name": ""
+  },
+  {
+    "uid": 3493261788318164,
+    "name": "糖钰小玖_official",
+    "type": "vtuber",
+    "room": 31540046,
     "group_name": ""
   },
   {
@@ -54135,13 +54177,6 @@
     "name": "扣子kone",
     "type": "vtuber",
     "room": 27625593,
-    "group_name": ""
-  },
-  {
-    "uid": 3493282543831357,
-    "name": "讯鸟",
-    "type": "vtuber",
-    "room": 27665642,
     "group_name": ""
   },
   {
@@ -58072,6 +58107,13 @@
     "group_name": ""
   },
   {
+    "uid": 3537109073791588,
+    "name": "小桃狐Tsuki",
+    "type": "vtuber",
+    "room": 30881504,
+    "group_name": ""
+  },
+  {
     "uid": 3537109224786151,
     "name": "桃灵Yami",
     "type": "vtuber",
@@ -58828,6 +58870,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546378336733285,
+    "name": "沙希SaKi",
+    "type": "vtuber",
+    "room": 30985359,
+    "group_name": ""
+  },
+  {
     "uid": 3546378355608442,
     "name": "天灵灵Ring_",
     "type": "vtuber",
@@ -59154,6 +59203,13 @@
     "name": "阿酸zZ",
     "type": "vtuber",
     "room": 31252654,
+    "group_name": ""
+  },
+  {
+    "uid": 3546389290159027,
+    "name": "洇希Inki",
+    "type": "vtuber",
+    "room": 30892909,
     "group_name": ""
   },
   {
@@ -59857,6 +59913,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546600674691202,
+    "name": "乔奈Aria",
+    "type": "vtuber",
+    "room": 31646214,
+    "group_name": "追光社"
+  },
+  {
     "uid": 3546600957807502,
     "name": "花汐月Ty",
     "type": "vtuber",
@@ -59917,6 +59980,13 @@
     "name": "Spotlight-观音",
     "type": "vtuber",
     "room": 31795994,
+    "group_name": ""
+  },
+  {
+    "uid": 3546610457905602,
+    "name": "追光社-LiGht企划",
+    "type": "group",
+    "room": 32170410,
     "group_name": ""
   },
   {
@@ -60009,6 +60079,13 @@
     "type": "vtuber",
     "room": 32101198,
     "group_name": ""
+  },
+  {
+    "uid": 3546636005411410,
+    "name": "酒心mi桃",
+    "type": "vtuber",
+    "room": 32096543,
+    "group_name": "追光社"
   },
   {
     "uid": 3546644974930059,
