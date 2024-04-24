@@ -10305,6 +10305,15 @@
     "group_name": ""
   },
   {
+    "uid": 5333581,
+    "name": "咪菈Mira-8-",
+    "type": "vtuber",
+    "room": 31471187,
+    "face": "/bfs/face/b7342dbdff02fe2692a5fae999331dc5013216c2.jpg",
+    "sign": "Boo!  尼比陆Friends  所属商务: friends@nibiru.work",
+    "group_name": "尼比陆"
+  },
+  {
     "uid": 5336160,
     "name": "霜羽Channel",
     "type": "vtuber",
@@ -14994,6 +15003,15 @@
     "group_name": ""
   },
   {
+    "uid": 11815830,
+    "name": "三枝桃",
+    "type": "vtuber",
+    "room": 3126538,
+    "face": "/bfs/face/b0b9f60194cfb9fdc36ab53e3ffe40874be36182.jpg",
+    "sign": "古风/流行歌势Vup 直播时间：19:30 粉丝/开黑/直播通知群：699400762",
+    "group_name": ""
+  },
+  {
     "uid": 11819358,
     "name": "成弥naruya",
     "type": "vtuber",
@@ -17700,6 +17718,15 @@
     "room": 22289943,
     "face": "/bfs/face/a7bf35116ffd9e55edc7121fc42c22bf2e475305.jpg",
     "sign": "喜欢的话就点个关注吧～目前活跃的账号是【鹿鹿鹿泽不是鹿】",
+    "group_name": ""
+  },
+  {
+    "uid": 17832530,
+    "name": "SmokeSakuya",
+    "type": "vtuber",
+    "room": 1541199,
+    "face": "/bfs/face/4f72ccdbfb803d1524ef22c5e654b907bb9ceddf.jpg",
+    "sign": "一位个人势的八美肉",
     "group_name": ""
   },
   {
@@ -22509,6 +22536,15 @@
     "group_name": ""
   },
   {
+    "uid": 41163818,
+    "name": "小夏夏吖丶",
+    "type": "vtuber",
+    "room": 31240248,
+    "face": "/bfs/face/a9ae895ee9d5fd7b3ee259865b64a7dc839b902a.jpg",
+    "sign": "乾坤未马，你我皆是黑腚（每天11点～16点开播~关注一辈子免费点歌~）",
+    "group_name": ""
+  },
+  {
     "uid": 41348614,
     "name": "维安VA",
     "type": "vtuber",
@@ -27249,6 +27285,15 @@
     "room": 24939060,
     "face": "/bfs/face/198ff6c1582499c136929f69ca96ae4c1d8cff52.jpg",
     "sign": "",
+    "group_name": ""
+  },
+  {
+    "uid": 220688902,
+    "name": "浅一_offcial",
+    "type": "vtuber",
+    "room": 26822372,
+    "face": "/bfs/face/4dae4ecf288b3effdcf19c085ad28e7afafe83a0.jpg",
+    "sign": "个人势煮面の柴犬ฅ•̀∀•́ฅ\n投稿系！喜欢您的关注！",
     "group_name": ""
   },
   {
@@ -37413,6 +37458,15 @@
     "group_name": ""
   },
   {
+    "uid": 477045775,
+    "name": "筱玖歌YY",
+    "type": "vtuber",
+    "room": 31529766,
+    "face": "/bfs/face/f346af240bd95babfea43e97f78d197b4d48434e.jpg",
+    "sign": "可是我永远相信纯爱耶⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄",
+    "group_name": ""
+  },
+  {
     "uid": 477306079,
     "name": "真绯瑠mahiru",
     "type": "vtuber",
@@ -43965,6 +44019,15 @@
     "group_name": ""
   },
   {
+    "uid": 645966405,
+    "name": "就叫一只猫qwq",
+    "type": "vtuber",
+    "room": 27459329,
+    "face": "/bfs/face/cf78a9f92cfd5fcc9b9a28e14b710a9af2b07c0a.jpg",
+    "sign": "合作+微：xiaojixiangsha\nQQ群猫舍：820027599\n没有任何小号以及外网账号！请注意",
+    "group_name": ""
+  },
+  {
     "uid": 646278631,
     "name": "月坂Reko",
     "type": "vtuber",
@@ -47589,7 +47652,7 @@
     "room": 24978909,
     "face": "/bfs/face/6514f22569655fe290b483cbbfb80e15f53319c2.jpg",
     "sign": "请叫我世界第一、超绝可爱可可酱❤每周一四定休，直播安排请搜动态“本周日程”  直播通知群：335150193 ",
-    "group_name": ""
+    "group_name": "幻想社Fantas1A"
   },
   {
     "uid": 1096223397,
@@ -50668,6 +50731,15 @@
     "face": "/bfs/face/58e21b964f1cf4096e43febcfb6df45f31285c64.jpg",
     "sign": "来自日本的虚拟主播、ProProProduction二期生的໒꒱· ﾟ花云凛（HANAKUMO RIN）",
     "group_name": "propro production"
+  },
+  {
+    "uid": 1341260511,
+    "name": "柒饱饱-失宠版",
+    "type": "vtuber",
+    "room": 31985564,
+    "face": "/bfs/face/09e0fe1a9f3b25ee9571f30f37e306a4a1fdd25b.jpg",
+    "sign": "路是大家一起走的  我不想独行 我想你们一直在我身边\n直播时间：白天随缘掉落ovo 24:00-3:00\n",
+    "group_name": ""
   },
   {
     "uid": 1342050054,
@@ -55098,6 +55170,15 @@
     "group_name": ""
   },
   {
+    "uid": 1674281293,
+    "name": "岚织Vega",
+    "type": "vtuber",
+    "room": 30133464,
+    "face": "/bfs/face/0752b3e1b186364fb07129a9087311a4dacbf01d.jpg",
+    "sign": "喜爱手作，说话有趣，真的不关注一下嘛？粉丝群号550270152",
+    "group_name": ""
+  },
+  {
     "uid": 1675532781,
     "name": "张姐iruka",
     "type": "vtuber",
@@ -57453,6 +57534,15 @@
     "room": 26430486,
     "face": "/bfs/face/5a8a13707440f9cc9b3a826f35a558281400e6a3.jpg",
     "sign": "嘴硬✌个人势/一只爱冒险的柯尔鸭（成年小鸭子，但是不可食用）",
+    "group_name": ""
+  },
+  {
+    "uid": 1847549601,
+    "name": "阿塔塔Gioro",
+    "type": "vtuber",
+    "room": 31759364,
+    "face": "/bfs/face/02cef5641d350cc95d7d61f43920786060889ac8.jpg",
+    "sign": "程序员的兼职作业，每晚9点-凌晨1点直播~   粉丝群：385278101",
     "group_name": ""
   },
   {
@@ -66087,6 +66177,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493137347513185,
+    "name": "西子在干嘛_",
+    "type": "vtuber",
+    "room": 27185351,
+    "face": "/bfs/face/50c91a698cd9952a9e97e6ff1f6952b0db11f61f.jpg",
+    "sign": "努力攒新皮的西子/来自东百的西子/养成系西子/歌姬西子/大鹅西子/嗷嗷待哺的西子/爱你们的西子",
+    "group_name": ""
+  },
+  {
     "uid": 3493137448176445,
     "name": "Ohana_official",
     "type": "vtuber",
@@ -66210,6 +66309,15 @@
     "room": 27157735,
     "face": "/bfs/face/b65e06a639f611d9bbe66ff8871f85bc231a0a15.jpg",
     "sign": "摆烂一年的敬业vup，吃饼专业户\n直播时间早8点晚8点～",
+    "group_name": ""
+  },
+  {
+    "uid": 3493138169596854,
+    "name": "汁汁超会唱",
+    "type": "vtuber",
+    "room": 32109091,
+    "face": "/bfs/face/08e049e7419aea404739e0feb06d795cacf575e0.jpg",
+    "sign": "被坚定的选择是什么感觉呢\n我想我永远不会知道\n直播时间中午11-15 没播就是坏女人迟到啦～",
     "group_name": ""
   },
   {
@@ -70596,15 +70704,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493291626596775,
-    "name": "Kara的生鱼片馆子",
-    "type": "vtuber",
-    "room": 30247892,
-    "face": "/bfs/face/c2124f6cc5bb5404389f1e228e333fc6f96c9f5f.jpg",
-    "sign": "欢迎加入咔菈的小鱼窝945693263",
-    "group_name": ""
-  },
-  {
     "uid": 3493291817437468,
     "name": "泠泠岁一",
     "type": "vtuber",
@@ -72699,6 +72798,15 @@
     "room": 30066665,
     "face": "/bfs/face/7d9079e7869b72aeff5962ee7d94ad9fde4e3c0f.jpg",
     "sign": "个鱼势全职主包 \n“Atlantis的海底很蓝很深邃，阳光照射下来的时候，丁达尔效应很明显。”\n",
+    "group_name": ""
+  },
+  {
+    "uid": 3494361675336617,
+    "name": "库宝official",
+    "type": "vtuber",
+    "room": 30832429,
+    "face": "/bfs/face/94a79332db39921828acf5584acb6649d334bac2.jpg",
+    "sign": "快乐的普通章鱼/每天下午四点和晚上十一点半左右开播/杂谈的/鱼缸指路384395440",
     "group_name": ""
   },
   {
@@ -75456,6 +75564,15 @@
     "group_name": ""
   },
   {
+    "uid": 3537122445232361,
+    "name": "路克lOok_",
+    "type": "vtuber",
+    "room": 30694262,
+    "face": "/bfs/face/1521d58a9009004931da8103a73f5aeb6b8f4a72.jpg",
+    "sign": "双重人格的歌势vup 致力做全能的vup \n录播在@路克lOok的录像机上传\n无舰长群",
+    "group_name": ""
+  },
+  {
     "uid": 3537122520730473,
     "name": "芙芙蕾Uni",
     "type": "vtuber",
@@ -75660,6 +75777,15 @@
     "room": 30768386,
     "face": "/bfs/face/79d73ef64185adff68a313a82a35a8038dfd7de2.jpg",
     "sign": "非全职个人势～每晚20:00-22:00啵啵 周日休息～粉丝群:917377175 录播组@弦鱼大队",
+    "group_name": ""
+  },
+  {
+    "uid": 3546377195883336,
+    "name": "慕岚御mlayr",
+    "type": "vtuber",
+    "room": 31472292,
+    "face": "/bfs/face/abe813dba760b6187d076db17a44ebc94b7e63fc.jpg",
+    "sign": "我是一只贪玩的小狐妖，希望一起快乐的玩耍 ฅ˙Ⱉ˙ฅ     基地代码：742429340",
     "group_name": ""
   },
   {
@@ -76104,6 +76230,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546388510017912,
+    "name": "宁一nnya",
+    "type": "vtuber",
+    "room": 30898670,
+    "face": "/bfs/face/2feb0016edfad9811fdc1791e78fb854f52ea220.jpg",
+    "sign": "轻语搓搓心理进行时~二群952250303（备注一下id）",
+    "group_name": ""
+  },
+  {
     "uid": 3546388688275737,
     "name": "一只蜜柚-may",
     "type": "vtuber",
@@ -76518,6 +76653,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546567569050157,
+    "name": "灶台门豆子",
+    "type": "vtuber",
+    "room": 31166411,
+    "face": "/bfs/face/99fdd8f38ee5b97e5811a6ffa44d119212d3ffcf.jpg",
+    "sign": "直播时间：11～2",
+    "group_name": ""
+  },
+  {
     "uid": 3546568147864207,
     "name": "冥纪Meiki",
     "type": "vtuber",
@@ -76569,6 +76713,15 @@
     "room": 31180317,
     "face": "/bfs/face/97c9cdf4a8ca1b1c476a51e852605bd7116c96ce.jpg",
     "sign": "个人势！果园火热经营中！没事儿喜欢唱点小歌r～\n一天两场！早11晚9！\n（yt账号非本人，且无本人授权）",
+    "group_name": ""
+  },
+  {
+    "uid": 3546569649425106,
+    "name": "小小酥jewel",
+    "type": "vtuber",
+    "room": 31235411,
+    "face": "/bfs/face/bcf02d3a781d982dfc08e173fca958739b36a672.jpg",
+    "sign": "偷偷做v的事，可千万别被同学发现啊(＞人＜;)\n「粉丝交流群」334506896\n「禁言通知群」139140791",
     "group_name": ""
   },
   {
@@ -76941,6 +77094,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546594771208452,
+    "name": "洛希YARL",
+    "type": "vtuber",
+    "room": 31753056,
+    "face": "/bfs/face/796b9ea99fe3ed333ce9a26de8c4ca08a07d94eb.jpg",
+    "sign": "幻想社Fantas1A所属十期生, 一般路过四语歌势, 后面忘了",
+    "group_name": "幻想社Fantas1A"
+  },
+  {
     "uid": 3546594915912449,
     "name": "安娜夏_Anastasia",
     "type": "vtuber",
@@ -77020,6 +77182,15 @@
     "face": "/bfs/face/29e07abe767c84291bba124026a55e6235ddb69e.jpg",
     "sign": "「极光社所属」歌势/藤精势/二十四节气-雨水守护者/由古藤孕育幻化人形的苗疆圣女\n6A级景区：874088078 ｜有福同享 有难退群｜",
     "group_name": "极光社"
+  },
+  {
+    "uid": 3546600066517691,
+    "name": "点盏Arc",
+    "type": "vtuber",
+    "room": 31701446,
+    "face": "/bfs/face/950194d7a3cb823c47181d757597e2ad4503a6df.jpg",
+    "sign": "个人势丨直播时间22:00~丨触手不是天生的丨推理解谜脑，欢迎推荐有趣的作品丨通知群752902827",
+    "group_name": ""
   },
   {
     "uid": 3546600276232382,
@@ -77127,6 +77298,15 @@
     "room": 31795994,
     "face": "/bfs/face/c3dc4839bed9ec29a4ae65a761e4b1b52c35ebc2.jpg",
     "sign": "来自未来的战士，身体经受过90%以上的改造，不要在我面前说坏话呦~时间：上午9-10点到下午3-4点！！！",
+    "group_name": ""
+  },
+  {
+    "uid": 3546610243996070,
+    "name": "咔菈KaraSirena",
+    "type": "vtuber",
+    "room": 32461978,
+    "face": "/bfs/face/66b9cf5f765702c1f727340703a9780aa78c48f7.jpg",
+    "sign": "个人势Vtuber EN/CN/JP 在B站/油管/Twitch上活动┋美人鱼┋不吃人┋喜欢学习语言INFP慢热小棉袄！945693263",
     "group_name": ""
   },
   {
@@ -77247,6 +77427,24 @@
     "group_name": ""
   },
   {
+    "uid": 3546628944300607,
+    "name": "暗黑猫娘-葬爱家族",
+    "type": "vtuber",
+    "room": 32015154,
+    "face": "/bfs/face/6681920159c212086a99ba20482d2da884f34001.jpg",
+    "sign": "抛去结果 我只需要努力 再努力 再再再努力就好 ",
+    "group_name": ""
+  },
+  {
+    "uid": 3546629688789047,
+    "name": "就叫郭保佑-负债版",
+    "type": "vtuber",
+    "room": 32021229,
+    "face": "/bfs/face/802a8ed8ce948daa49270c5c0bc88324b66cc3cf.jpg",
+    "sign": "菩萨保佑菩萨保佑，菩萨保佑我郭保佑！！",
+    "group_name": ""
+  },
+  {
     "uid": 3546632725465110,
     "name": "柔伊尔Rouyier",
     "type": "vtuber",
@@ -77265,12 +77463,30 @@
     "group_name": "追光社"
   },
   {
+    "uid": 3546636565351393,
+    "name": "野心4月28日s双满啦",
+    "type": "vtuber",
+    "room": 32111097,
+    "face": "/bfs/face/559ab7628c8ea4eca06159d2244bf4b8494cd266.jpg",
+    "sign": "",
+    "group_name": ""
+  },
+  {
     "uid": 3546644974930059,
     "name": "咪萪猫_Mikeneko",
     "type": "vtuber",
     "room": 32331141,
     "face": "/bfs/face/30fc01d286521f11d46389ace862fb9aeb4f32b2.jpg",
     "sign": "愛してるから、たくさん愛してください❤️‍\nX：twitter.com/95rn16",
+    "group_name": ""
+  },
+  {
+    "uid": 3546646881241985,
+    "name": "络宝",
+    "type": "vtuber",
+    "room": 32269170,
+    "face": "/bfs/face/2922e8cbebf2c03de66500106854ccdf78253e9d.jpg",
+    "sign": "天选R&B人 陶喆方大同丁世光单依纯 中午12～3 周1周4休假",
     "group_name": ""
   }
 ]
