@@ -30544,6 +30544,14 @@
     "group_name": ""
   },
   {
+    "uid": 415839306,
+    "name": "恶月满满-鱿鱼百天版",
+    "type": "vtuber",
+    "room": 31511086,
+    "face": "/bfs/face/eeeab2ae5daae3cb725ffc629ef0a74d91375c39.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 416030145,
     "name": "Azii_i",
     "type": "vtuber",
@@ -41832,6 +41840,14 @@
     "group_name": "—MSD一"
   },
   {
+    "uid": 1049232979,
+    "name": "一洛Ero",
+    "type": "vtuber",
+    "room": 23129149,
+    "face": "/bfs/face/8d269aa5740fcb6452e638e7856652f89c0c7d87.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1050518108,
     "name": "宫心绘梨奈",
     "type": "vtuber",
@@ -42741,6 +42757,14 @@
     "type": "vtuber",
     "room": 25056924,
     "face": "/bfs/face/84be093567f266e28d81dfe98f047f1b6456f7b0.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1132321309,
+    "name": "傅玉Jade",
+    "type": "vtuber",
+    "room": 22879246,
+    "face": "/bfs/face/03e8e71678a4a1d71fe1a6cc5f0cd76165038e12.jpg",
     "group_name": ""
   },
   {
@@ -48980,7 +49004,7 @@
     "name": "四茶睡大觉",
     "type": "vtuber",
     "room": 31235282,
-    "face": "/bfs/face/e5f080caf9f68d1297c7e5959fdbe57865bd2afb.jpg",
+    "face": "/bfs/face/8faaf0133828211ff716bffc37b525b05d7a885c.jpg",
     "group_name": "问尘仙会"
   },
   {
@@ -58688,6 +58712,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493135948712823,
+    "name": "星光Kirarin",
+    "type": "vtuber",
+    "room": 27518032,
+    "face": "/bfs/face/c58a5dc415184e21c5d2c146798b3e17a6bb29b1.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3493135961295379,
     "name": "那v宝",
     "type": "vtuber",
@@ -67576,6 +67608,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546381516015974,
+    "name": "六神花禄",
+    "type": "vtuber",
+    "room": 31264625,
+    "face": "/bfs/face/209e74b145c20147de5613c2bde5aafb37157eef.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546382059178068,
     "name": "租租Zuru",
     "type": "vtuber",
@@ -68745,7 +68785,7 @@
   },
   {
     "uid": 3546610969610825,
-    "name": "时月Tsuki-豆豆俘虏版",
+    "name": "时月Tsuki-",
     "type": "vtuber",
     "room": 31804748,
     "face": "/bfs/face/89d7054eeb5fc206fbfc8b06e31fef4091c89f18.jpg",
