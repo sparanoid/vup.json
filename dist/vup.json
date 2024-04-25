@@ -20880,6 +20880,13 @@
     "face": "/bfs/face/7b75fe09a5d97cb02d4cd76d8914aa1228e40d54.jpg",
     "group_name": ""
   },
+  "180815329": {
+    "name": "頁开心",
+    "type": "vtuber",
+    "room": 31798790,
+    "face": "/bfs/face/ee032f097f0278d14d02dfadf1f0bbefd50399f4.jpg",
+    "group_name": "问尘仙会"
+  },
   "181559741": {
     "name": "Tacitly_麟犀",
     "type": "vtuber",
@@ -59940,6 +59947,13 @@
     "face": "/bfs/face/2df35092985040763470a57ef55d27ac7c9071ee.jpg",
     "group_name": ""
   },
+  "3546593798129891": {
+    "name": "灰羽零",
+    "type": "vtuber",
+    "room": 31914326,
+    "face": "/bfs/face/195272003cb7f29fb1ed82a77626d1eed31480c8.jpg",
+    "group_name": ""
+  },
   "3546593917667611": {
     "name": "捡捡JJiumi",
     "type": "vtuber",
@@ -60143,6 +60157,13 @@
     "face": "/bfs/face/89d7054eeb5fc206fbfc8b06e31fef4091c89f18.jpg",
     "group_name": ""
   },
+  "3546611269503460": {
+    "name": "芷羽_sola",
+    "type": "vtuber",
+    "room": 31861422,
+    "face": "/bfs/face/99dd415b5116899b5abc56692c1ad17a15688f70.jpg",
+    "group_name": ""
+  },
   "3546611875579929": {
     "name": "北久Kyuu",
     "type": "vtuber",
@@ -60170,6 +60191,13 @@
     "room": 31841014,
     "face": "/bfs/face/7d8fefeaf7a4a705937a25dc09ca1bd017c03442.jpg",
     "group_name": ""
+  },
+  "3546613580564908": {
+    "name": "小咪吃肉",
+    "type": "vtuber",
+    "room": 31845733,
+    "face": "/bfs/face/19e81ae3ba5a2716ac676a47d016879e09ea7489.jpg",
+    "group_name": "幻想社Fantas1A"
   },
   "3546614301985688": {
     "name": "艾兮_icey",
