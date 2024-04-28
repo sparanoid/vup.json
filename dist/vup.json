@@ -45954,6 +45954,13 @@
     "face": "/bfs/face/e8c6c3918313436b7a5dde635dfc068da0e7106b.jpg",
     "group_name": ""
   },
+  "1958912868": {
+    "name": "Elira_Official",
+    "type": "vtuber",
+    "room": 31860894,
+    "face": "/bfs/face/ee66426e2e321369898cec757ead7962d5484c5d.jpg",
+    "group_name": "NIJISANJI EN"
+  },
   "1960682407": {
     "name": "白小蛮不讲理",
     "type": "vtuber",
@@ -57134,7 +57141,7 @@
     "group_name": ""
   },
   "3494367606082122": {
-    "name": "虾虾mizu_养病中",
+    "name": "虾虾mizu_回来了",
     "type": "vtuber",
     "room": 30147725,
     "face": "/bfs/face/082c92f628ce9c5c96fd272f5067c09eaccaf780.jpg",
