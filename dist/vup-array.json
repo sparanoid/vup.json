@@ -2676,7 +2676,7 @@
     "name": "朝仓鱼块AsakuraYukai",
     "type": "vtuber",
     "room": 22768466,
-    "face": "/bfs/face/fd6a4d63de1752467d1166917344810587208ea1.jpg",
+    "face": "/bfs/face/192fa6b625d05ea1cd0eb16d4e97e579b2534693.jpg",
     "group_name": ""
   },
   {
@@ -4244,7 +4244,7 @@
     "name": "千鹤凪_Nagi",
     "type": "vtuber",
     "room": 50181,
-    "face": "/bfs/face/04b46a80fdfbd6d4a0943a3ce5d0348c978922f8.jpg",
+    "face": "/bfs/face/a48ded6a9c05b9edfe915c4cd521e8faa393c83d.jpg",
     "group_name": ""
   },
   {
@@ -17971,7 +17971,7 @@
     "uid": 26155426,
     "name": "二宫梦璃",
     "type": "vtuber",
-    "room": 760559,
+    "room": 0,
     "face": "/bfs/face/e604f16feeb88e1c4af6827598ec4a38193d471c.jpg",
     "group_name": ""
   },
