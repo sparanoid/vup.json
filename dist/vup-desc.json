@@ -7943,6 +7943,14 @@
     "sign": "臭画画的TVT",
     "group_name": ""
   },
+  "3814460": {
+    "name": "AI琉璃_",
+    "type": "vtuber",
+    "room": 10055155,
+    "face": "/bfs/face/99b3a241ae6ae5bca8e69eed80721e606001f2cb.jpg",
+    "sign": "这里是琉璃AI主播，平时直播时间为晚上20:00到凌晨1:00。粉丝群：487016362",
+    "group_name": ""
+  },
   "3816747": {
     "name": "白崎妖梦Channel",
     "type": "vtuber",
@@ -16915,7 +16923,7 @@
     "name": "潘多拉的手记",
     "type": "vtuber",
     "room": 3156100,
-    "face": "/bfs/face/b18e55bb3f936ddbd40ca8f630c500727e206027.jpg",
+    "face": "/bfs/face/aa3ec99723726541bb55d362f5ce44272ef83a51.jpg",
     "sign": "祝我们都能自由快乐且体面的活着。",
     "group_name": ""
   },
@@ -58488,7 +58496,7 @@
     "group_name": ""
   },
   "3493133446810321": {
-    "name": "绵软软rara-鸮冠名版",
+    "name": "绵软软rara-号鸟冠名版",
     "type": "vtuber",
     "room": 27820698,
     "face": "/bfs/face/75de097803d53bffdbbfff6597ee00377cafcb3d.jpg",
