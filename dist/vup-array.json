@@ -5240,6 +5240,14 @@
     "group_name": ""
   },
   {
+    "uid": 1946727,
+    "name": "完一",
+    "type": "vtuber",
+    "room": 21027,
+    "face": "/bfs/face/6b7ea11e8de55fda55eaf144e77dd736e31fb7bc.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1947434,
     "name": "内兹米_Official",
     "type": "vtuber",
@@ -43836,7 +43844,7 @@
     "name": "芽衣子OwO",
     "type": "vtuber",
     "room": 24568787,
-    "face": "/bfs/face/74c51912e23e527d8e23cf290ab10c33c0338a6e.jpg",
+    "face": "/bfs/face/405cdbc5882de31644922da9d2c0f208ebe2c32f.jpg",
     "group_name": ""
   },
   {
@@ -67769,10 +67777,10 @@
   },
   {
     "uid": 3546383673985966,
-    "name": "七海雪音yukine",
+    "name": "今天也很想睡觉觉-",
     "type": "vtuber",
     "room": 30814171,
-    "face": "/bfs/face/b0fc85d1fae574d70c51d15d66b5d6be3d998b4e.jpg",
+    "face": "/bfs/face/eff5756af362e303cc9c441bca3a9b7427449639.jpg",
     "group_name": ""
   },
   {
