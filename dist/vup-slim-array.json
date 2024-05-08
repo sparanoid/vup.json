@@ -35231,6 +35231,13 @@
     "group_name": ""
   },
   {
+    "uid": 687247249,
+    "name": "布朗什初花_Blanche",
+    "type": "vtuber",
+    "room": 31826443,
+    "group_name": "NOA Talent"
+  },
+  {
     "uid": 687730248,
     "name": "白川Yuriko",
     "type": "vtuber",
@@ -43040,7 +43047,7 @@
     "name": "诺洛Noro",
     "type": "vtuber",
     "room": 25511329,
-    "group_name": ""
+    "group_name": "NOA Talent"
   },
   {
     "uid": 1680597886,
@@ -57113,6 +57120,13 @@
     "group_name": ""
   },
   {
+    "uid": 3494366972742385,
+    "name": "乐艾_Nine",
+    "type": "vtuber",
+    "room": 30757766,
+    "group_name": ""
+  },
+  {
     "uid": 3494367016781881,
     "name": "米芙Meave",
     "type": "vtuber",
@@ -60200,6 +60214,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546603258382382,
+    "name": "NOATalent",
+    "type": "group",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 3546603340172186,
     "name": "伊莎Bela",
     "type": "vtuber",
@@ -60240,6 +60261,13 @@
     "type": "vtuber",
     "room": 31754752,
     "group_name": ""
+  },
+  {
+    "uid": 3546607964392305,
+    "name": "大大的可比Kerby",
+    "type": "vtuber",
+    "room": 31805312,
+    "group_name": "NOA Talent"
   },
   {
     "uid": 3546608394307820,
@@ -60422,6 +60450,20 @@
     "type": "vtuber",
     "room": 32121072,
     "group_name": ""
+  },
+  {
+    "uid": 3546636984781262,
+    "name": "Nolie乃莉",
+    "type": "vtuber",
+    "room": 32117573,
+    "group_name": "NOA Talent"
+  },
+  {
+    "uid": 3546637985122315,
+    "name": "Rei澪",
+    "type": "vtuber",
+    "room": 32130102,
+    "group_name": "NOA Talent"
   },
   {
     "uid": 3546644974930059,

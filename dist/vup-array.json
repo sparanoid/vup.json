@@ -40264,6 +40264,14 @@
     "group_name": ""
   },
   {
+    "uid": 687247249,
+    "name": "布朗什初花_Blanche",
+    "type": "vtuber",
+    "room": 31826443,
+    "face": "/bfs/face/d307362f65cf240f5e1c2767eebf26e51aa5f783.jpg",
+    "group_name": "NOA Talent"
+  },
+  {
     "uid": 687730248,
     "name": "白川Yuriko",
     "type": "vtuber",
@@ -49189,7 +49197,7 @@
     "type": "vtuber",
     "room": 25511329,
     "face": "/bfs/face/f9d09d0b0d2e6bc7f801267a296eb471dfcb9d2f.jpg",
-    "group_name": ""
+    "group_name": "NOA Talent"
   },
   {
     "uid": 1680597886,
@@ -50060,7 +50068,7 @@
     "name": "犬川面面Miami",
     "type": "vtuber",
     "room": 23293581,
-    "face": "/bfs/face/d094557e9e6fe26c077847bcd89fc09ad2ce32f7.webp",
+    "face": "/bfs/face/7c6cf5b1a88510bb18543b0aeb9799cef1d4420e.jpg",
     "group_name": ""
   },
   {
@@ -65272,6 +65280,14 @@
     "group_name": ""
   },
   {
+    "uid": 3494366972742385,
+    "name": "乐艾_Nine",
+    "type": "vtuber",
+    "room": 30757766,
+    "face": "/bfs/face/9947be695c5f76d0725cc4e1655b588daae0617d.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3494367016781881,
     "name": "米芙Meave",
     "type": "vtuber",
@@ -66212,7 +66228,7 @@
     "name": "怜乃",
     "type": "vtuber",
     "room": 30530924,
-    "face": "/bfs/face/021638d2a2c2dbccfc4e02720b91b98fe71e26fe.jpg",
+    "face": "/bfs/face/92d9648f8b17ad14fd34e7d15f3d6350818fccd5.jpg",
     "group_name": ""
   },
   {
@@ -68800,6 +68816,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546603258382382,
+    "name": "NOATalent",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/2e652e8987254c03d5c2a7c33820794caf55593e.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546603340172186,
     "name": "伊莎Bela",
     "type": "vtuber",
@@ -68846,6 +68870,14 @@
     "room": 31754752,
     "face": "/bfs/face/70961f6b604622e6033e3ba28b49c73b1f5e91c3.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546607964392305,
+    "name": "大大的可比Kerby",
+    "type": "vtuber",
+    "room": 31805312,
+    "face": "/bfs/face/7848abdfd4fc8f94ecf326db11ede696d24f10ee.jpg",
+    "group_name": "NOA Talent"
   },
   {
     "uid": 3546608394307820,
@@ -69054,6 +69086,22 @@
     "room": 32121072,
     "face": "/bfs/face/af2fc74f99b213e788cbe52b99e7de849f9cfa29.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546636984781262,
+    "name": "Nolie乃莉",
+    "type": "vtuber",
+    "room": 32117573,
+    "face": "/bfs/face/9fbb574621d04e95095e7e8b2cb3ec69183f5641.jpg",
+    "group_name": "NOA Talent"
+  },
+  {
+    "uid": 3546637985122315,
+    "name": "Rei澪",
+    "type": "vtuber",
+    "room": 32130102,
+    "face": "/bfs/face/77faf2ef3f4ba01ee87ef7ae0990eb08535d13d0.jpg",
+    "group_name": "NOA Talent"
   },
   {
     "uid": 3546644974930059,
