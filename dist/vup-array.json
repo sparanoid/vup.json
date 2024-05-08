@@ -11000,6 +11000,14 @@
     "group_name": ""
   },
   {
+    "uid": 7998005,
+    "name": "蒂娜Tina-",
+    "type": "vtuber",
+    "room": 5539501,
+    "face": "/bfs/face/565c92c42f68c377aba26508c0e6d8c5c47d8933.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 8001272,
     "name": "遥夜haru-Official",
     "type": "vtuber",
@@ -17921,7 +17929,7 @@
   },
   {
     "uid": 25898678,
-    "name": "法信Faxina",
+    "name": "橙宝的汪汪汪",
     "type": "vtuber",
     "room": 8471266,
     "face": "/bfs/face/c0540486b66e31f0fc80190f1917ba199e51df7e.jpg",
@@ -68141,6 +68149,14 @@
     "type": "vtuber",
     "room": 31028356,
     "face": "/bfs/face/72009bf2d8f71ea0044d32673595bcdc2c78f3cc.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546559138499347,
+    "name": "小羽HaneDa",
+    "type": "vtuber",
+    "room": 31117286,
+    "face": "/bfs/face/11b5473cc38f34a36cf1edfb97671ba40676852c.jpg",
     "group_name": ""
   },
   {
