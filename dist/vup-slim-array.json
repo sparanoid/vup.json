@@ -10214,7 +10214,7 @@
   },
   {
     "uid": 8720743,
-    "name": "譜ゆ",
+    "name": "HiroR1",
     "type": "vtuber",
     "room": 25592034,
     "group_name": ""
@@ -22660,7 +22660,7 @@
   },
   {
     "uid": 302570366,
-    "name": "干燥小狗呀",
+    "name": "月亮也在想你_Ya",
     "type": "vtuber",
     "room": 10351814,
     "group_name": ""
@@ -50590,7 +50590,7 @@
   },
   {
     "uid": 3493120748554589,
-    "name": "萌丝莉雅",
+    "name": "丝丝莉雅",
     "type": "vtuber",
     "room": 26994563,
     "group_name": ""
@@ -53145,7 +53145,7 @@
   },
   {
     "uid": 3493267270273682,
-    "name": "凉栀Tiphareth",
+    "name": "橘すずし",
     "type": "vtuber",
     "room": 27744364,
     "group_name": ""
@@ -59227,6 +59227,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546381077711760,
+    "name": "桃井梨梨",
+    "type": "vtuber",
+    "room": 30775735,
+    "group_name": ""
+  },
+  {
     "uid": 3546381234998027,
     "name": "鹿弈Nui",
     "type": "vtuber",
@@ -59721,6 +59728,13 @@
     "name": "星夜hikari",
     "type": "vtuber",
     "room": 31121301,
+    "group_name": ""
+  },
+  {
+    "uid": 3546563123088035,
+    "name": "伊织澪喵neko",
+    "type": "vtuber",
+    "room": 31090904,
     "group_name": ""
   },
   {
