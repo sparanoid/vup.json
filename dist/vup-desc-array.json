@@ -59782,7 +59782,7 @@
     "name": "洒洒猫",
     "type": "vtuber",
     "room": 31733032,
-    "face": "/bfs/face/373cfb322b7defaa363f23b592e9009cb367bc0b.jpg",
+    "face": "/bfs/face/b2f2649a867c4e362f6907de4b030a9b408c9c18.jpg",
     "sign": "直播时间上午8点-12点，下午2点到4点，请温柔的揉揉猫猫的脑袋呐",
     "group_name": ""
   },
@@ -65814,6 +65814,15 @@
     "room": 27945928,
     "face": "/bfs/face/b1cd0436226d7b63e494b0eb3b7a93c4db382f0f.jpg",
     "sign": "喵设为61岁的刚化人型的可爱小猫，情绪激动时可是会唤醒第二形态的哦！声音贼啦好听，颜值是智商换的喵～",
+    "group_name": ""
+  },
+  {
+    "uid": 3493132249336126,
+    "name": "元晚成",
+    "type": "vtuber",
+    "room": 27046642,
+    "face": "/bfs/face/520963d2627bcc6315a692da5b139b3251d38147.jpg",
+    "sign": "巫医乐师百工之人，写实本科生，小号元思渊\n模型来自天影绘",
     "group_name": ""
   },
   {

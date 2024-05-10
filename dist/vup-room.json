@@ -46497,7 +46497,7 @@
     "name": "洒洒猫",
     "type": "vtuber",
     "room_id": 31733032,
-    "face": "/bfs/face/373cfb322b7defaa363f23b592e9009cb367bc0b.jpg",
+    "face": "/bfs/face/b2f2649a867c4e362f6907de4b030a9b408c9c18.jpg",
     "group_name": ""
   },
   "2006314323": {
@@ -51188,6 +51188,13 @@
     "type": "vtuber",
     "room_id": 27945928,
     "face": "/bfs/face/b1cd0436226d7b63e494b0eb3b7a93c4db382f0f.jpg",
+    "group_name": ""
+  },
+  "3493132249336126": {
+    "name": "元晚成",
+    "type": "vtuber",
+    "room_id": 27046642,
+    "face": "/bfs/face/520963d2627bcc6315a692da5b139b3251d38147.jpg",
     "group_name": ""
   },
   "3493132473731856": {
