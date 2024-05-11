@@ -2744,7 +2744,7 @@
     "group_name": "空白社"
   },
   "737107": {
-    "name": "你的馆长玉玉_Ryuryuu",
+    "name": "喵的玉玉_Ryuryuu",
     "type": "vtuber",
     "room_id": 31992,
     "face": "/bfs/face/29f848925a88c1ccfba4822acf68f8a8fb4ca7c9.jpg",
@@ -12344,7 +12344,7 @@
     "name": "兔栗",
     "type": "vtuber",
     "room_id": 2655920,
-    "face": "/bfs/face/589e093027678f8111a3db956f11a887c88cba33.jpg",
+    "face": "/bfs/face/42ba2672ce1d4230b228776044a9ef3d3fc0ecb6.jpg",
     "group_name": ""
   },
   "13272796": {
@@ -12883,7 +12883,7 @@
     "name": "礼弥Hisashi",
     "type": "vtuber",
     "room_id": 3566358,
-    "face": "/bfs/face/9d0deb3f8bb030a28d255ec8fed03a317291a91b.jpg",
+    "face": "/bfs/face/8315075e7250d19e7082190e7cc1a67be65d90b9.jpg",
     "group_name": ""
   },
   "14405936": {
@@ -20450,7 +20450,7 @@
     "name": "暝枝",
     "type": "vtuber",
     "room_id": 4758413,
-    "face": "/bfs/face/b99b016d7c8eb230bc874d60a3a85d986e9455f8.jpg",
+    "face": "/bfs/face/7c15a79cca399583daf236ff5b2a41bb78982cf2.jpg",
     "group_name": ""
   },
   "159577008": {
@@ -25756,7 +25756,7 @@
     "name": "空梦star_Yo",
     "type": "vtuber",
     "room_id": 22945349,
-    "face": "/bfs/face/88fc66b6795ff3f9a90e3ac0c95da76c6833adee.jpg",
+    "face": "/bfs/face/66a68d3b16ce0223333ba98fd8345c6d0d57f8aa.jpg",
     "group_name": ""
   },
   "399554022": {
@@ -27759,6 +27759,13 @@
     "type": "vtuber",
     "room_id": 21496282,
     "face": "/bfs/face/d20399ee30e09d11e94ffee4c361fbda1067634b.jpg",
+    "group_name": ""
+  },
+  "438645431": {
+    "name": "元思渊",
+    "type": "vtuber",
+    "room_id": 25738018,
+    "face": "/bfs/face/cc3b3e91438b75d88e89fe1855c27376e2852440.jpg",
     "group_name": ""
   },
   "438756539": {
@@ -37275,7 +37282,7 @@
     "group_name": ""
   },
   "1113326069": {
-    "name": "泪零的小薄荷乐园",
+    "name": "泪零的歌房",
     "type": "vtuber",
     "room_id": 25117846,
     "face": "/bfs/face/458f390a24a188b762020ac764a8609aa14732e5.jpg",
@@ -38930,7 +38937,7 @@
     "name": "邬楼Mellow",
     "type": "vtuber",
     "room_id": 27198245,
-    "face": "/bfs/face/253fe1d721203c30a18fa50292186b1c5319255f.jpg",
+    "face": "/bfs/face/48cd9af791ec4276744e320bf83ad323681c079e.jpg",
     "group_name": ""
   },
   "1279470566": {
@@ -48051,7 +48058,7 @@
     "name": "小葵__aoi",
     "type": "vtuber",
     "room_id": 25814163,
-    "face": "/bfs/face/a5099e2299e5a5875af8c15ab86ae67dcddb0465.jpg",
+    "face": "/bfs/face/cc2606fd4110701adbeb2e0dbbefd85828ea61db.jpg",
     "group_name": ""
   },
   "3461564527020424": {
@@ -51716,7 +51723,7 @@
     "group_name": ""
   },
   "3493138580638300": {
-    "name": "软软酱_金币土豆冠",
+    "name": "软软酱_20号万粉感谢回",
     "type": "vtuber",
     "room_id": 27253788,
     "face": "/bfs/face/28e8decc015c2dd3aa25d51572ff97db05d37794.jpg",
@@ -59062,7 +59069,7 @@
     "name": "清弦String",
     "type": "vtuber",
     "room_id": 30768386,
-    "face": "/bfs/face/79d73ef64185adff68a313a82a35a8038dfd7de2.jpg",
+    "face": "/bfs/face/775c841d52ea9583f121d2ad81bf8b8b460c47bc.jpg",
     "group_name": ""
   },
   "3546377195883336": {
@@ -60291,7 +60298,7 @@
     "group_name": ""
   },
   "3546607964392305": {
-    "name": "大大的可比Kerby",
+    "name": "你的乖乖狗老公Kerby",
     "type": "vtuber",
     "room_id": 31805312,
     "face": "/bfs/face/7848abdfd4fc8f94ecf326db11ede696d24f10ee.jpg",
