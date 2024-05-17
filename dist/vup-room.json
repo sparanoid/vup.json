@@ -3432,7 +3432,7 @@
   "1316846": {
     "name": "海豹酒姬",
     "type": "vtuber",
-    "room_id": 0,
+    "room_id": 392699,
     "face": "/bfs/face/19362405cde0fd208b67533fb47d7eb7f4e04089.jpg",
     "group_name": ""
   },
@@ -9268,7 +9268,7 @@
     "group_name": ""
   },
   "7378749": {
-    "name": "阿芙兰娜Afrana",
+    "name": "Afrana_Official",
     "type": "vtuber",
     "room_id": 82359,
     "face": "/bfs/face/fcec87b3a0078177ce17620ea7bfd5f4c5d90dda.jpg",
@@ -16509,7 +16509,7 @@
     "name": "光之信信子",
     "type": "vtuber",
     "room_id": 3953291,
-    "face": "/bfs/face/e69dbeeb9f9a4a24dc8314d9921b1b59431b7834.jpg",
+    "face": "/bfs/face/fadf1975637366462c1f5b3655d2eaa04e0fd730.jpg",
     "group_name": ""
   },
   "32598760": {
