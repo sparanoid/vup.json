@@ -51239,6 +51239,12 @@
     "room": 31515000,
     "group_name": ""
   },
+  "3546566478531324": {
+    "name": "可琳lynn",
+    "type": "vtuber",
+    "room": 32379266,
+    "group_name": ""
+  },
   "3546567569050157": {
     "name": "灶台门豆子",
     "type": "vtuber",
@@ -51569,6 +51575,12 @@
     "room": 31760412,
     "group_name": ""
   },
+  "3546596075637434": {
+    "name": "桃七眠nemu",
+    "type": "vtuber",
+    "room": 32603297,
+    "group_name": ""
+  },
   "3546596495067491": {
     "name": "谁能教教我怎么起名字",
     "type": "vtuber",
@@ -51827,6 +51839,12 @@
     "room": 32122154,
     "group_name": ""
   },
+  "3546635799890710": {
+    "name": "陌雪儿Yuki",
+    "type": "vtuber",
+    "room": 32165719,
+    "group_name": ""
+  },
   "3546636005411410": {
     "name": "酒心mi桃_HyakkiCr冠",
     "type": "vtuber",
@@ -51873,6 +51891,18 @@
     "name": "狐思思lris",
     "type": "vtuber",
     "room": 32279394,
+    "group_name": ""
+  },
+  "3546657123731964": {
+    "name": "音炽-Lynx",
+    "type": "vtuber",
+    "room": 32501175,
+    "group_name": ""
+  },
+  "3546664549747467": {
+    "name": "云母沫雪",
+    "type": "vtuber",
+    "room": 32639875,
     "group_name": ""
   }
 }

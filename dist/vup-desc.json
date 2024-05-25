@@ -42083,7 +42083,7 @@
     "name": "鹿呦yoyo_Official",
     "type": "vtuber",
     "room": 25501601,
-    "face": "/bfs/face/552202e94792290eb4f0f747b68172e319fe5a28.jpg",
+    "face": "/bfs/face/847c16870c91b686a7a1ff3d9c2c6e0bf753e2b1.jpg",
     "sign": "天空一声巨响，小鹿闪亮登场 \\(//∇//)\\ 是刚刚化形的小鹿，正在努力适应人类世界，希望能和大家一起冒险～",
     "group_name": ""
   },
@@ -68319,6 +68319,14 @@
     "sign": "请一边努力，一边快乐！",
     "group_name": ""
   },
+  "3546566478531324": {
+    "name": "可琳lynn",
+    "type": "vtuber",
+    "room": 32379266,
+    "face": "/bfs/face/906b8a49edc2c085c6fad4a5c244ce10553f0069.jpg",
+    "sign": "我们来日方长",
+    "group_name": ""
+  },
   "3546567569050157": {
     "name": "灶台门豆子",
     "type": "vtuber",
@@ -68759,6 +68767,14 @@
     "sign": "个狐势，是一个容易害羞的狐狸，出没时间晚上9~12点！剩下时间每天随机掉落。小窝群号：953451793",
     "group_name": ""
   },
+  "3546596075637434": {
+    "name": "桃七眠nemu",
+    "type": "vtuber",
+    "room": 32603297,
+    "face": "/bfs/face/28290a8c29ee09d722a89bccb0388742934c49d2.jpg",
+    "sign": "是猫猫！不是狐狸！！！直播通知群：197353844",
+    "group_name": ""
+  },
   "3546596495067491": {
     "name": "谁能教教我怎么起名字",
     "type": "vtuber",
@@ -69103,6 +69119,14 @@
     "sign": "星星化作的小狼✨一只热血的笨蛋/@我的二创都会转发",
     "group_name": ""
   },
+  "3546635799890710": {
+    "name": "陌雪儿Yuki",
+    "type": "vtuber",
+    "room": 32165719,
+    "face": "/bfs/face/b0266bf553161f0fe7473a479105aff5090b0fb6.jpg",
+    "sign": "出没在深夜的美少女喵10-4",
+    "group_name": ""
+  },
   "3546636005411410": {
     "name": "酒心mi桃_HyakkiCr冠",
     "type": "vtuber",
@@ -69165,6 +69189,22 @@
     "room": 32279394,
     "face": "/bfs/face/e81513fd7bc8332fe8023eb91064731e5ce11cc6.jpg",
     "sign": "直播时间晚22-困 粉丝群：953293065\n没有大哥放心刷",
+    "group_name": ""
+  },
+  "3546657123731964": {
+    "name": "音炽-Lynx",
+    "type": "vtuber",
+    "room": 32501175,
+    "face": "/bfs/face/c6954a5ac69a9d434acf17a8597fd56d8c334a23.jpg",
+    "sign": "「在炽热的音乐中 追逐梦想」个人势\n粉丝群：958927168",
+    "group_name": ""
+  },
+  "3546664549747467": {
+    "name": "云母沫雪",
+    "type": "vtuber",
+    "room": 32639875,
+    "face": "/bfs/face/b3b1091fa1fcb1ed00c4ecf96db0f64bf3df436b.jpg",
+    "sign": "这里是一只从深海来的未成年鲛人~呐~人类你看到我的鲛珠了吗？双语歌势 希望被喜欢 小梦想是希望有一天能百舰~（录播号：云母沫雪的狗）",
     "group_name": ""
   }
 }

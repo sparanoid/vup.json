@@ -36823,7 +36823,7 @@
     "name": "鹿呦yoyo_Official",
     "type": "vtuber",
     "room_id": 25501601,
-    "face": "/bfs/face/552202e94792290eb4f0f747b68172e319fe5a28.jpg",
+    "face": "/bfs/face/847c16870c91b686a7a1ff3d9c2c6e0bf753e2b1.jpg",
     "group_name": ""
   },
   "1063487269": {
@@ -59779,6 +59779,13 @@
     "face": "/bfs/face/ea07949d31e887d481312764d6c83201bea0388d.jpg",
     "group_name": ""
   },
+  "3546566478531324": {
+    "name": "可琳lynn",
+    "type": "vtuber",
+    "room_id": 32379266,
+    "face": "/bfs/face/906b8a49edc2c085c6fad4a5c244ce10553f0069.jpg",
+    "group_name": ""
+  },
   "3546567569050157": {
     "name": "灶台门豆子",
     "type": "vtuber",
@@ -60164,6 +60171,13 @@
     "face": "/bfs/face/6496f01e9c60e06fc808812fa515f0b8618c3e6a.jpg",
     "group_name": ""
   },
+  "3546596075637434": {
+    "name": "桃七眠nemu",
+    "type": "vtuber",
+    "room_id": 32603297,
+    "face": "/bfs/face/28290a8c29ee09d722a89bccb0388742934c49d2.jpg",
+    "group_name": ""
+  },
   "3546596495067491": {
     "name": "谁能教教我怎么起名字",
     "type": "vtuber",
@@ -60465,6 +60479,13 @@
     "face": "/bfs/face/606707c7d2f2e25fc4b4318c64ea83708bc2aa4d.jpg",
     "group_name": ""
   },
+  "3546635799890710": {
+    "name": "陌雪儿Yuki",
+    "type": "vtuber",
+    "room_id": 32165719,
+    "face": "/bfs/face/b0266bf553161f0fe7473a479105aff5090b0fb6.jpg",
+    "group_name": ""
+  },
   "3546636005411410": {
     "name": "酒心mi桃_HyakkiCr冠",
     "type": "vtuber",
@@ -60519,6 +60540,20 @@
     "type": "vtuber",
     "room_id": 32279394,
     "face": "/bfs/face/e81513fd7bc8332fe8023eb91064731e5ce11cc6.jpg",
+    "group_name": ""
+  },
+  "3546657123731964": {
+    "name": "音炽-Lynx",
+    "type": "vtuber",
+    "room_id": 32501175,
+    "face": "/bfs/face/c6954a5ac69a9d434acf17a8597fd56d8c334a23.jpg",
+    "group_name": ""
+  },
+  "3546664549747467": {
+    "name": "云母沫雪",
+    "type": "vtuber",
+    "room_id": 32639875,
+    "face": "/bfs/face/b3b1091fa1fcb1ed00c4ecf96db0f64bf3df436b.jpg",
     "group_name": ""
   }
 }
