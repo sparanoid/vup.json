@@ -2912,7 +2912,7 @@
     "type": "vtuber",
     "room": 52813,
     "face": "/bfs/face/30f6f74e276151494b321c557ed512ab75c5fa80.jpg",
-    "sign": "追寻创作自由 / Pixiv@3532013 / 微博@-CHILDWOLF-",
+    "sign": "Pixiv@3532013 / 微博@-CHILDWOLF- / 追寻创作自由",
     "group_name": ""
   },
   {
@@ -5441,7 +5441,7 @@
     "type": "vtuber",
     "room": 40195,
     "face": "/bfs/face/eb82a8cf8fdc55646f74354bfb26550b0a88c4d1.jpg",
-    "sign": "LE丨别后悔丨直播通知群：907537693",
+    "sign": "IN THE END｜你值得被对得起",
     "group_name": ""
   },
   {
@@ -7952,7 +7952,7 @@
     "type": "vtuber",
     "room": 208401,
     "face": "/bfs/face/892ebf4bc8e36392cd7c98eaaac9cd4f6c420f78.jpg",
-    "sign": "喜欢音乐的都不会是坏人/真实系NEET/神椿推し/属于自己，成为自己的一般路过普通人类LDD模型师/喜欢美少女/留档的回放是@猫箱囚人 的",
+    "sign": "喜欢音乐的都不会是坏人/真实系NEET/踏向寻找的路上的一般路过LDD模型师/喜欢美少女/留档的回放是@猫箱囚人 的",
     "group_name": "忘崽牛奶"
   },
   {
@@ -13384,11 +13384,11 @@
   },
   {
     "uid": 9103339,
-    "name": "落子莯是酸哒",
+    "name": "落子莯",
     "type": "vtuber",
     "room": 21611084,
     "face": "/bfs/face/8d65947495758f48ab34bb0744d7ebfdebca4a37.jpg",
-    "sign": "兴趣使然的陪伴向杂谈个人势莯草⭐录播姬@溆莯场の观测站",
+    "sign": "大概是接陪玩的套皮草吧⭐录播姬@溆莯场の观测站",
     "group_name": ""
   },
   {
@@ -23081,7 +23081,7 @@
     "type": "vtuber",
     "room": 6747850,
     "face": "/bfs/face/1df5573d6412d6e96e0588267476dbeb243e96cf.jpg",
-    "sign": "三垣四象社团角色全在我这，最近缺少新灵感，之前的灵感被星穹铁道的丹枫、阮梅，少女前线追放的黛烟之类的各方面超过了。\n观天社太过烧钱暂停了。\n",
+    "sign": "舒服！",
     "group_name": ""
   },
   {
@@ -47686,7 +47686,7 @@
     "name": "霜露ShuangLu",
     "type": "vtuber",
     "room": 26094607,
-    "face": "/bfs/face/d14da20b4105aff09e21c1deee789f4c9f43e54a.jpg",
+    "face": "/bfs/face/163b15e82efb2b9951ab96f59b27d861df25ddda.jpg",
     "sign": "白天社畜晚上V  助眠与杂谈为主的乖巧女仆\n『光年重工』最可爱的存在~要和咱缔结契约嘛?主银!",
     "group_name": ""
   },
@@ -55642,8 +55642,8 @@
     "name": "天葵Aoi",
     "type": "vtuber",
     "room": 24647381,
-    "face": "/bfs/face/51fc96dc70b12dae1958bcaceeb705ef79214d78.jpg",
-    "sign": "人生得意须尽欢！",
+    "face": "/bfs/face/3137a934a7e48ef53938458d799f2951fd0cf817.jpg",
+    "sign": "唱歌/直播/记录生活，你好！",
     "group_name": ""
   },
   {
@@ -70786,7 +70786,7 @@
   },
   {
     "uid": 3493291037297185,
-    "name": "月小兔-niki",
+    "name": "月小兔niki-非酋版",
     "type": "vtuber",
     "room": 27749655,
     "face": "/bfs/face/71e263e3a7a19a00aac2790e6976d3f9212718fc.jpg",
@@ -77724,6 +77724,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546627771992337,
+    "name": "一口锅煲柚",
+    "type": "vtuber",
+    "room": 32025114,
+    "face": "/bfs/face/3a744aa73d8e090737c626f7a3ec45b7198ffcdf.jpg",
+    "sign": "【椋山Project所属】“云上泥里，浪漫自由。”\n录播/周表：@椋山Project",
+    "group_name": ""
+  },
+  {
     "uid": 3546628944300607,
     "name": "暗黑猫娘-葬爱家族",
     "type": "vtuber",
@@ -77856,6 +77865,15 @@
     "room": 32639875,
     "face": "/bfs/face/b3b1091fa1fcb1ed00c4ecf96db0f64bf3df436b.jpg",
     "sign": "这里是一只从深海来的未成年鲛人~呐~人类你看到我的鲛珠了吗？双语歌势 希望被喜欢 小梦想是希望有一天能百舰~（录播号：云母沫雪的狗）",
+    "group_name": ""
+  },
+  {
+    "uid": 3546679064136633,
+    "name": "白银莉莉Nyaa",
+    "type": "vtuber",
+    "room": 1919122045,
+    "face": "/bfs/face/1e751e3f008864cbc82c590d76e0653413623c70.jpg",
+    "sign": "",
     "group_name": ""
   }
 ]

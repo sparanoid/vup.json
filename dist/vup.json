@@ -10409,7 +10409,7 @@
     "group_name": ""
   },
   "9103339": {
-    "name": "落子莯是酸哒",
+    "name": "落子莯",
     "type": "vtuber",
     "room": 21611084,
     "face": "/bfs/face/8d65947495758f48ab34bb0744d7ebfdebca4a37.jpg",
@@ -37089,7 +37089,7 @@
     "name": "霜露ShuangLu",
     "type": "vtuber",
     "room": 26094607,
-    "face": "/bfs/face/d14da20b4105aff09e21c1deee789f4c9f43e54a.jpg",
+    "face": "/bfs/face/163b15e82efb2b9951ab96f59b27d861df25ddda.jpg",
     "group_name": ""
   },
   "1093614539": {
@@ -43277,7 +43277,7 @@
     "name": "天葵Aoi",
     "type": "vtuber",
     "room": 24647381,
-    "face": "/bfs/face/51fc96dc70b12dae1958bcaceeb705ef79214d78.jpg",
+    "face": "/bfs/face/3137a934a7e48ef53938458d799f2951fd0cf817.jpg",
     "group_name": ""
   },
   "1704351924": {
@@ -55055,7 +55055,7 @@
     "group_name": ""
   },
   "3493291037297185": {
-    "name": "月小兔-niki",
+    "name": "月小兔niki-非酋版",
     "type": "vtuber",
     "room": 27749655,
     "face": "/bfs/face/71e263e3a7a19a00aac2790e6976d3f9212718fc.jpg",
@@ -60451,6 +60451,13 @@
     "face": "/bfs/face/b930c40b8eb3c1eaca2182f4f34289e4fe0b2b3a.jpg",
     "group_name": ""
   },
+  "3546627771992337": {
+    "name": "一口锅煲柚",
+    "type": "vtuber",
+    "room": 32025114,
+    "face": "/bfs/face/3a744aa73d8e090737c626f7a3ec45b7198ffcdf.jpg",
+    "group_name": ""
+  },
   "3546628944300607": {
     "name": "暗黑猫娘-葬爱家族",
     "type": "vtuber",
@@ -60554,6 +60561,13 @@
     "type": "vtuber",
     "room": 32639875,
     "face": "/bfs/face/b3b1091fa1fcb1ed00c4ecf96db0f64bf3df436b.jpg",
+    "group_name": ""
+  },
+  "3546679064136633": {
+    "name": "白银莉莉Nyaa",
+    "type": "vtuber",
+    "room": 1919122045,
+    "face": "/bfs/face/1e751e3f008864cbc82c590d76e0653413623c70.jpg",
     "group_name": ""
   }
 }

@@ -8922,7 +8922,7 @@
     "group_name": ""
   },
   "9103339": {
-    "name": "落子莯是酸哒",
+    "name": "落子莯",
     "type": "vtuber",
     "room": 21611084,
     "group_name": ""
@@ -47190,7 +47190,7 @@
     "group_name": ""
   },
   "3493291037297185": {
-    "name": "月小兔-niki",
+    "name": "月小兔niki-非酋版",
     "type": "vtuber",
     "room": 27749655,
     "group_name": ""
@@ -51815,6 +51815,12 @@
     "room": 31999413,
     "group_name": ""
   },
+  "3546627771992337": {
+    "name": "一口锅煲柚",
+    "type": "vtuber",
+    "room": 32025114,
+    "group_name": ""
+  },
   "3546628944300607": {
     "name": "暗黑猫娘-葬爱家族",
     "type": "vtuber",
@@ -51903,6 +51909,12 @@
     "name": "云母沫雪",
     "type": "vtuber",
     "room": 32639875,
+    "group_name": ""
+  },
+  "3546679064136633": {
+    "name": "白银莉莉Nyaa",
+    "type": "vtuber",
+    "room": 1919122045,
     "group_name": ""
   }
 }
