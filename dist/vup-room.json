@@ -60087,6 +60087,20 @@
     "face": "/bfs/face/a4b0e6f4147b2433f1a5207b0c616703b0171042.jpg",
     "group_name": "天枢project"
   },
+  "3546589354265101": {
+    "name": "狐狸の小时候",
+    "type": "vtuber",
+    "room_id": 31492123,
+    "face": "/bfs/face/1825298796e2d37122c3cb6ed0b2713320d546d9.jpg",
+    "group_name": ""
+  },
+  "3546589840804264": {
+    "name": "可可の小时候",
+    "type": "vtuber",
+    "room_id": 31494007,
+    "face": "/bfs/face/e3c7696aa261ee749a5c6bf07a8b8a70aa91fb72.jpg",
+    "group_name": ""
+  },
   "3546592088951437": {
     "name": "格拉纳特Gat",
     "type": "vtuber",
