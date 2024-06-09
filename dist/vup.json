@@ -18416,6 +18416,13 @@
     "face": "/bfs/face/ea74687985eb7aea7750ab3f89d7eb8b2e71ecc7.jpg",
     "group_name": "风云社"
   },
+  "58269873": {
+    "name": "幽妮_yunny",
+    "type": "vtuber",
+    "room": 3544554,
+    "face": "/bfs/face/705c44b4e4e8fe639ee32d9c538773e69ab6ccbd.jpg",
+    "group_name": ""
+  },
   "58353598": {
     "name": "夏帆Kaho_Channel",
     "type": "vtuber",
@@ -40346,6 +40353,13 @@
     "room": 24483963,
     "face": "/bfs/face/5c89b2e7259b062920065c85be02c411335b5a93.jpg",
     "group_name": ""
+  },
+  "1413377543": {
+    "name": "蕾柯雅Reccoa",
+    "type": "vtuber",
+    "room": 23477130,
+    "face": "/bfs/face/9a2130b307e0956fb2d5faaa82f9a25ada025ed2.jpg",
+    "group_name": "chaoslive"
   },
   "1413880763": {
     "name": "EOISvt",

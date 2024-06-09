@@ -18417,6 +18417,13 @@
     "group_name": "风云社"
   },
   {
+    "uid": 58269873,
+    "name": "幽妮_yunny",
+    "type": "vtuber",
+    "room": 3544554,
+    "group_name": ""
+  },
+  {
     "uid": 58353598,
     "name": "夏帆Kaho_Channel",
     "type": "vtuber",
@@ -40346,6 +40353,13 @@
     "type": "vtuber",
     "room": 24483963,
     "group_name": ""
+  },
+  {
+    "uid": 1413377543,
+    "name": "蕾柯雅Reccoa",
+    "type": "vtuber",
+    "room": 23477130,
+    "group_name": "chaoslive"
   },
   {
     "uid": 1413880763,

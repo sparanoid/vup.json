@@ -23679,6 +23679,15 @@
     "group_name": "风云社"
   },
   {
+    "uid": 58269873,
+    "name": "幽妮_yunny",
+    "type": "vtuber",
+    "room": 3544554,
+    "face": "/bfs/face/705c44b4e4e8fe639ee32d9c538773e69ab6ccbd.jpg",
+    "sign": "杂谈弹唱塔罗牌势地雷女\n开播时间：7.-11.  16.-18.",
+    "group_name": ""
+  },
+  {
     "uid": 58353598,
     "name": "夏帆Kaho_Channel",
     "type": "vtuber",
@@ -51874,6 +51883,15 @@
     "face": "/bfs/face/5c89b2e7259b062920065c85be02c411335b5a93.jpg",
     "sign": "NIJISANJI EN所属五期生Alban Knox的非公式搬运组  \n审核255299676 粉丝873843639/467110040",
     "group_name": ""
+  },
+  {
+    "uid": 1413377543,
+    "name": "蕾柯雅Reccoa",
+    "type": "vtuber",
+    "room": 23477130,
+    "face": "/bfs/face/9a2130b307e0956fb2d5faaa82f9a25ada025ed2.jpg",
+    "sign": "<ChaosLive>靠声音追寻猎物的战斗修女……\n你会是我的下一个猎物吗？",
+    "group_name": "chaoslive"
   },
   {
     "uid": 1413880763,
