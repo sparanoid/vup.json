@@ -29304,6 +29304,15 @@
     "group_name": ""
   },
   {
+    "uid": 313524680,
+    "name": "小僵虱虱子_奏者冠",
+    "type": "vtuber",
+    "room": 31731313,
+    "face": "/bfs/face/859eb2bbb2d1170e5b5d1dd4dc901596b250d8eb.jpg",
+    "sign": "考虑养个电子僵虱吗～桀桀桀～\n养成系声优，全声线可点\n直播时间：21：00-1：00",
+    "group_name": ""
+  },
+  {
     "uid": 313683284,
     "name": "德洛莉丝Delores",
     "type": "vtuber",
@@ -59112,6 +59121,15 @@
     "group_name": "VirtuaReal"
   },
   {
+    "uid": 1954549770,
+    "name": "Ver_Official",
+    "type": "vtuber",
+    "room": 31860972,
+    "face": "/bfs/face/318d2d9178fe30578cc720aa4ae9a4075f037f56.jpg",
+    "sign": "Hello, I'm Ver, your Kaichou!",
+    "group_name": "NIJISANJI EN"
+  },
+  {
     "uid": 1955360604,
     "name": "reichitose",
     "type": "vtuber",
@@ -77920,5 +77938,14 @@
     "face": "/bfs/face/1e751e3f008864cbc82c590d76e0653413623c70.jpg",
     "sign": "",
     "group_name": ""
+  },
+  {
+    "uid": 3546694188796294,
+    "name": "可波・卡娜埃露Official",
+    "type": "vtuber",
+    "room": 1939029467,
+    "face": "/bfs/face/6ab9222f56b17a2f5025078e482fc9c406b798eb.jpg",
+    "sign": "Bokobokobo-Kobo Kanaeru 为您服务！让我成为照亮你一天的阳光，嘿嘿~",
+    "group_name": "Hololive"
   }
 ]

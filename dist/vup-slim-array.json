@@ -22792,6 +22792,13 @@
     "group_name": ""
   },
   {
+    "uid": 313524680,
+    "name": "小僵虱虱子_奏者冠",
+    "type": "vtuber",
+    "room": 31731313,
+    "group_name": ""
+  },
+  {
     "uid": 313683284,
     "name": "德洛莉丝Delores",
     "type": "vtuber",
@@ -45976,6 +45983,13 @@
     "group_name": "VirtuaReal"
   },
   {
+    "uid": 1954549770,
+    "name": "Ver_Official",
+    "type": "vtuber",
+    "room": 31860972,
+    "group_name": "NIJISANJI EN"
+  },
+  {
     "uid": 1955360604,
     "name": "reichitose",
     "type": "vtuber",
@@ -60604,5 +60618,12 @@
     "type": "vtuber",
     "room": 1919122045,
     "group_name": ""
+  },
+  {
+    "uid": 3546694188796294,
+    "name": "可波・卡娜埃露Official",
+    "type": "vtuber",
+    "room": 1939029467,
+    "group_name": "Hololive"
   }
 ]
