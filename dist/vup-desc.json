@@ -69286,5 +69286,13 @@
     "face": "/bfs/face/6ab9222f56b17a2f5025078e482fc9c406b798eb.jpg",
     "sign": "Bokobokobo-Kobo Kanaeru 为您服务！让我成为照亮你一天的阳光，嘿嘿~",
     "group_name": "Hololive"
+  },
+  "3546699035315021": {
+    "name": "filian_菲莲",
+    "type": "vtuber",
+    "room": 1787892388,
+    "face": "/bfs/face/e01605902dad22e776d7c72480308e1cd55b389e.jpg",
+    "sign": "你好，我是filian！我经常玩VRChat！非常频繁哦n_n",
+    "group_name": ""
   }
 }

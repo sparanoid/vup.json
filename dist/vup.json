@@ -60625,5 +60625,12 @@
     "room": 1939029467,
     "face": "/bfs/face/6ab9222f56b17a2f5025078e482fc9c406b798eb.jpg",
     "group_name": "Hololive"
+  },
+  "3546699035315021": {
+    "name": "filian_菲莲",
+    "type": "vtuber",
+    "room": 1787892388,
+    "face": "/bfs/face/e01605902dad22e776d7c72480308e1cd55b389e.jpg",
+    "group_name": ""
   }
 }
