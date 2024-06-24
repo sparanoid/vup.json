@@ -60639,5 +60639,19 @@
     "room_id": 1787892388,
     "face": "/bfs/face/e01605902dad22e776d7c72480308e1cd55b389e.jpg",
     "group_name": ""
+  },
+  "3546699041605816": {
+    "name": "ShylilyVT",
+    "type": "vtuber",
+    "room_id": 1766901985,
+    "face": "/bfs/face/8931e880f817cbc674c35c6cb9481871f400f358.jpg",
+    "group_name": ""
+  },
+  "3546700501224312": {
+    "name": "Nyanners_喵娜丝",
+    "type": "vtuber",
+    "room_id": 1820702557,
+    "face": "/bfs/face/4ba263de8f050558d3a5f7b8e28c66e7bb3df9ef.jpg",
+    "group_name": ""
   }
 }

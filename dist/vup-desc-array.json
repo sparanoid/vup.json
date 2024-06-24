@@ -77965,5 +77965,23 @@
     "face": "/bfs/face/e01605902dad22e776d7c72480308e1cd55b389e.jpg",
     "sign": "你好，我是filian！我经常玩VRChat！非常频繁哦n_n",
     "group_name": ""
+  },
+  {
+    "uid": 3546699041605816,
+    "name": "ShylilyVT",
+    "type": "vtuber",
+    "room": 1766901985,
+    "face": "/bfs/face/8931e880f817cbc674c35c6cb9481871f400f358.jpg",
+    "sign": "Vtuber Shylily Bilibili 官方频道。",
+    "group_name": ""
+  },
+  {
+    "uid": 3546700501224312,
+    "name": "Nyanners_喵娜丝",
+    "type": "vtuber",
+    "room": 1820702557,
+    "face": "/bfs/face/4ba263de8f050558d3a5f7b8e28c66e7bb3df9ef.jpg",
+    "sign": "大家好！我是Nyatasha Nyanners，一个本来被召唤来征服地球的可怕生物，但最后我却沉迷于打电动和睡觉！",
+    "group_name": ""
   }
 ]
