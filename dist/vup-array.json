@@ -69318,5 +69318,21 @@
     "room": 1820702557,
     "face": "/bfs/face/4ba263de8f050558d3a5f7b8e28c66e7bb3df9ef.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546711085550450,
+    "name": "克蕾西・奥莉Official",
+    "type": "vtuber",
+    "room": 1749144349,
+    "face": "/bfs/face/f77d19673e9a8ee9dde9717ea1a3efaa5edc285c.jpg",
+    "group_name": "Hololive"
+  },
+  {
+    "uid": 3546711096035969,
+    "name": "艾拉妮・伊欧菲芙婷",
+    "type": "vtuber",
+    "room": 1749144929,
+    "face": "/bfs/face/8f81a34e42a1102811678a38342fba9c5ede9329.jpg",
+    "group_name": "Hololive"
   }
 ]

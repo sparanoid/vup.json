@@ -8978,7 +8978,7 @@
     "type": "vtuber",
     "room": 30729394,
     "face": "/bfs/face/f39655b0f8b66e976d97c1a89077b9e48cede66c.jpg",
-    "sign": "Oracle Tarot所属阴暗扭曲爬行的一般路过隐士，会唱一点歌的杂谈势，梦想是有朝一日能开一家属于自己的小酒馆\n小群：879766560",
+    "sign": "似！",
     "group_name": ""
   },
   {
@@ -77983,5 +77983,23 @@
     "face": "/bfs/face/4ba263de8f050558d3a5f7b8e28c66e7bb3df9ef.jpg",
     "sign": "大家好！我是Nyatasha Nyanners，一个本来被召唤来征服地球的可怕生物，但最后我却沉迷于打电动和睡觉！",
     "group_name": ""
+  },
+  {
+    "uid": 3546711085550450,
+    "name": "克蕾西・奥莉Official",
+    "type": "vtuber",
+    "room": 1749144349,
+    "face": "/bfs/face/f77d19673e9a8ee9dde9717ea1a3efaa5edc285c.jpg",
+    "sign": "",
+    "group_name": "Hololive"
+  },
+  {
+    "uid": 3546711096035969,
+    "name": "艾拉妮・伊欧菲芙婷",
+    "type": "vtuber",
+    "room": 1749144929,
+    "face": "/bfs/face/8f81a34e42a1102811678a38342fba9c5ede9329.jpg",
+    "sign": "",
+    "group_name": "Hololive"
   }
 ]
