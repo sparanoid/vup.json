@@ -21955,7 +21955,7 @@
     "name": "仓仓爱吃牛肉干",
     "type": "vtuber",
     "room": 24399819,
-    "face": "/bfs/face/3d14a052b8929591d226d5be7713a8c1b195edc9.webp",
+    "face": "/bfs/face/9219555b697f1cfe0766a466223d3185d36cd502.webp",
     "group_name": ""
   },
   "272855736": {
@@ -30819,6 +30819,13 @@
     "room": 21879886,
     "face": "/bfs/face/0d828ece7412fcecce695f6977db2b50b6d81850.jpg",
     "group_name": "ChaosLiveSprout"
+  },
+  "501525081": {
+    "name": "六月老师-环绕冠",
+    "type": "vtuber",
+    "room": 26247986,
+    "face": "/bfs/face/ff2513685536471d08d1fb55e08d915dbf16aec6.jpg",
+    "group_name": ""
   },
   "501601746": {
     "name": "星空monoka",
@@ -49299,6 +49306,13 @@
     "room": 26883130,
     "face": "/bfs/face/dfbd3ffc69978d9e23ee8bbe67eac7744a1f4f47.jpg",
     "group_name": "TTUP"
+  },
+  "3493086575462825": {
+    "name": "永夜花火Official",
+    "type": "vtuber",
+    "room": 31281519,
+    "face": "/bfs/face/b22be8b6d8058f624e145bd8d6374b861ce8b87c.jpg",
+    "group_name": ""
   },
   "3493086627891923": {
     "name": "薇菈Veela",
