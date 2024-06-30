@@ -31398,7 +31398,7 @@
     "name": "莫小燃Ran",
     "type": "vtuber",
     "room_id": 21945395,
-    "face": "/bfs/face/0855e439585b0b13142394bd5c34e49788c1fe44.jpg",
+    "face": "/bfs/face/6c24d707c463c6296cb4181e817cb15b6e72f00f.jpg",
     "group_name": ""
   },
   "515200194": {
@@ -37314,6 +37314,13 @@
     "type": "vtuber",
     "room_id": 22901614,
     "face": "/bfs/face/ce31e2e2335e35cb0a3b213323e694c827940391.jpg",
+    "group_name": ""
+  },
+  "1115046085": {
+    "name": "小糸_Official",
+    "type": "vtuber",
+    "room_id": 30798846,
+    "face": "/bfs/face/97e1aecb3f498442d9ad106e740f4ed4b1789cb6.jpg",
     "group_name": ""
   },
   "1115318272": {
@@ -59426,7 +59433,7 @@
     "name": "北柠_Lucky",
     "type": "vtuber",
     "room_id": 31270768,
-    "face": "/bfs/face/386a665e318cbaa466e0a598015cbb09d55f75f2.jpg",
+    "face": "/bfs/face/cd0d4194aeab46d203364f04ac38b097f137eb67.jpg",
     "group_name": ""
   },
   "3546386112973684": {
