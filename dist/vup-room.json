@@ -6002,7 +6002,7 @@
     "name": "血狼墨雯",
     "type": "vtuber",
     "room_id": 21577332,
-    "face": "/bfs/face/77d15aedf83c25bb4e8729c0756c1af74ba02994.jpg",
+    "face": "/bfs/face/83b343be05927a04165486e8bfc1679fc461ebb5.jpg",
     "group_name": ""
   },
   "3035038": {
@@ -10587,7 +10587,7 @@
     "name": "雨中Neo",
     "type": "vtuber",
     "room_id": 30762538,
-    "face": "/bfs/face/203ad802766495b769628470c94b918a7a95ad52.jpg",
+    "face": "/bfs/face/8925127e4f57cd2a67977547cf00f1a6b330449c.jpg",
     "group_name": ""
   },
   "9411611": {
@@ -15453,6 +15453,13 @@
     "type": "vtuber",
     "room_id": 5583853,
     "face": "/bfs/face/dd41e115c342f63ee334f9b260c3f3cefb6297e0.jpg",
+    "group_name": ""
+  },
+  "24653361": {
+    "name": "维娅_Via",
+    "type": "vtuber",
+    "room_id": 30822330,
+    "face": "/bfs/face/4be49d450d8ae4d8e7307bc1159d587e3fbe2549.jpg",
     "group_name": ""
   },
   "24684806": {
@@ -25154,7 +25161,7 @@
     "name": "咪崽捏",
     "type": "vtuber",
     "room_id": 23847430,
-    "face": "/bfs/face/2a25ea3adb9d596df3709bf4b5d568f484481ac2.jpg",
+    "face": "/bfs/face/12a73f21fc6c1dd83a73d8ef3830b08a82449bb9.jpg",
     "group_name": ""
   },
   "390021323": {
@@ -26568,7 +26575,7 @@
     "name": "星歿夢昇",
     "type": "vtuber",
     "room_id": 22352391,
-    "face": "/bfs/face/ecbfacbce48752cb17ac094435963ee7e03242bb.jpg",
+    "face": "/bfs/face/e0f37d4e3d238d47e901ee20646025b87b8c1550.jpg",
     "group_name": ""
   },
   "411278071": {
@@ -44649,7 +44656,7 @@
     "name": "月岛芽芽",
     "type": "vtuber",
     "room_id": 26019510,
-    "face": "/bfs/face/10fce262ff46d4d55c29dfc9e9a2ae340cb94df9.jpg",
+    "face": "/bfs/face/014a7afb2eed41c88f5ff8d027ff1fd3dbe2e13f.jpg",
     "group_name": ""
   },
   "1829633422": {
@@ -50368,7 +50375,7 @@
     "name": "白无义",
     "type": "vtuber",
     "room_id": 27036893,
-    "face": "/bfs/face/69e9968ad97faa9115b6a6b8678fb798ff7acca8.jpg",
+    "face": "/bfs/face/d57335c8a9df7a374ae79ef868d53340c228c6bf.jpg",
     "group_name": "问尘仙会"
   },
   "3493117227436462": {
@@ -59464,6 +59471,13 @@
     "face": "/bfs/face/7b91d390c82fda5d8071f8f0664fba3bb81e90a4.jpg",
     "group_name": ""
   },
+  "3546387220269353": {
+    "name": "莉露拉Lily",
+    "type": "vtuber",
+    "room_id": 31052960,
+    "face": "/bfs/face/5fa6fb2413af5927e5610901951299c7c9bc7773.jpg",
+    "group_name": ""
+  },
   "3546387859900582": {
     "name": "退休的茜茜狐Cissie",
     "type": "vtuber",
@@ -60434,7 +60448,7 @@
     "name": "北久Kyuu",
     "type": "vtuber",
     "room_id": 31845869,
-    "face": "/bfs/face/e9d743d4ca19369874c8c8c00674fa37309a252e.jpg",
+    "face": "/bfs/face/4ee4385b3cadc8e968b26ee6dd5ce0130ce14ead.jpg",
     "group_name": "幻想社Fantas1A"
   },
   "3546612137724690": {
