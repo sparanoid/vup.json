@@ -28685,6 +28685,13 @@
     "face": "/bfs/face/147347ec7f14c59b526d73d5718a49556fd4213d.jpg",
     "group_name": ""
   },
+  "470909551": {
+    "name": "KiraLive",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/ad18ae0ebec10e5a9ee65406e442f55211c667f8.jpg",
+    "group_name": ""
+  },
   "470959094": {
     "name": "null_fication",
     "type": "vtuber",
