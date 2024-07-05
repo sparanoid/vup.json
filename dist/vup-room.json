@@ -11703,6 +11703,13 @@
     "face": "/bfs/face/9644a41bd0caf82875f9eece3b846b74f78bb08d.jpg",
     "group_name": ""
   },
+  "11842502": {
+    "name": "兔泥nono",
+    "type": "vtuber",
+    "room_id": 23078276,
+    "face": "/bfs/face/7848c9379b185d0c33e4caebfe58169a47f5e280.jpg",
+    "group_name": "甜瓜社MelonLive"
+  },
   "11864934": {
     "name": "苺実とまる",
     "type": "vtuber",
@@ -41460,6 +41467,13 @@
     "face": "/bfs/face/18ad0374510475706c9ca45930f8f910fb71442b.jpg",
     "group_name": ""
   },
+  "1517789984": {
+    "name": "索拉菲尼official",
+    "type": "vtuber",
+    "room_id": 31485452,
+    "face": "/bfs/face/08e0e8e4dc0b6d1c71fa49549950cbc66acd2237.jpg",
+    "group_name": "甜瓜社MelonLive"
+  },
   "1518090904": {
     "name": "铁口直断韦一尘",
     "type": "vtuber",
@@ -56433,6 +56447,13 @@
     "face": "/bfs/face/517bc25e6fa9b16f223b24b6f6ce2988ddc9c7e1.jpg",
     "group_name": ""
   },
+  "3494356671531764": {
+    "name": "甜瓜社MelonLive",
+    "type": "group",
+    "room_id": 1768080982,
+    "face": "/bfs/face/f553f854fee44d2a4c8350aa88b16e3936aa1d86.jpg",
+    "group_name": ""
+  },
   "3494356690406251": {
     "name": "祢鹿Mint",
     "type": "vtuber",
@@ -60507,6 +60528,13 @@
     "face": "/bfs/face/4e6bd83e7686a3b83c5637a10a288900dbe23a12.jpg",
     "group_name": ""
   },
+  "3546614866118685": {
+    "name": "帕路haru",
+    "type": "vtuber",
+    "room_id": 31901787,
+    "face": "/bfs/face/b80aee955f53f31c75bd7835b417708fc8423f07.jpg",
+    "group_name": "甜瓜社MelonLive"
+  },
   "3546614899673364": {
     "name": "阿德里安Adrian_",
     "type": "vtuber",
@@ -60527,6 +60555,13 @@
     "room_id": 31916150,
     "face": "/bfs/face/99a9c6d9012f6a24c0f5966fb9db781dd258d152.jpg",
     "group_name": ""
+  },
+  "3546618999606221": {
+    "name": "希思_heath",
+    "type": "vtuber",
+    "room_id": 31916745,
+    "face": "/bfs/face/4e9750cc58c29c9d1359909020990219e58e215d.jpg",
+    "group_name": "甜瓜社MelonLive"
   },
   "3546620499069896": {
     "name": "酷炫羊崽",
