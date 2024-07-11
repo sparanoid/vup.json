@@ -1033,7 +1033,7 @@
   },
   {
     "uid": 223580,
-    "name": "暂停搬运中",
+    "name": "搬运暂停中",
     "type": "vtuber",
     "room": 18008,
     "face": "/bfs/face/51a3d9d40d3bda71bc4d1519f3e3a724e3a65e27.jpg",
@@ -31780,7 +31780,7 @@
     "name": "盲盲Memo",
     "type": "vtuber",
     "room": 21545805,
-    "face": "/bfs/face/9edc756c0db514695eff20920de644f7a9c981dc.jpg",
+    "face": "/bfs/face/b29ab500f0415948bce5dcd522d0c51f42def5a3.jpg",
     "group_name": "P-SP"
   },
   {
