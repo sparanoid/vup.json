@@ -11416,7 +11416,7 @@
     "name": "绫濑光Official",
     "type": "vtuber",
     "room": 3428783,
-    "face": "/bfs/face/9939576fdacfc07f044bbe19170ab27d0aca0e1d.jpg",
+    "face": "/bfs/face/132f64c2a0124b77d66f1471eca05d7b26ab89b9.jpg",
     "sign": "是神，亦是神的挚友。录播@水晶储蓄罐",
     "group_name": ""
   },
@@ -13612,7 +13612,7 @@
     "name": "雨中Neo",
     "type": "vtuber",
     "room": 30762538,
-    "face": "/bfs/face/c0820f4ca377122b4800a26328cdeecfe9dca210.jpg",
+    "face": "/bfs/face/eae254485aac0af72af6452b473c7b2825d10386.jpg",
     "sign": "向死而生的少女 - 隶属于ReLive_Project赋生计划\n\n禁言通知群：555189323",
     "group_name": ""
   },
@@ -20191,7 +20191,7 @@
     "name": "小夏夏儿",
     "type": "vtuber",
     "room": 516281,
-    "face": "/bfs/face/c0a7ad0aa98ef0f5e12611782cffc8378fadf093.jpg",
+    "face": "/bfs/face/c92ddfa28db163fb625ba1e01b09fceb08ee709f.jpg",
     "sign": "容易掉眼泪也是你的可爱之处",
     "group_name": ""
   },
@@ -21381,6 +21381,15 @@
     "room": 14411083,
     "face": "/bfs/face/5044cf574172e5f8326811344520e6d102097c2c.jpg",
     "sign": "个人势天使担当 现已暂停活动 出现全靠随缘",
+    "group_name": ""
+  },
+  {
+    "uid": 33192653,
+    "name": "柚木燕巢",
+    "type": "vtuber",
+    "room": 7783578,
+    "face": "/bfs/face/bec9fdd21cd31f685f713f6d7597c7872d52a226.jpg",
+    "sign": "",
     "group_name": ""
   },
   {
@@ -33007,7 +33016,7 @@
     "name": "懒懒没睡醒呢",
     "type": "vtuber",
     "room": 25560279,
-    "face": "/bfs/face/d97bed5911e1adb972d08dd45851a6bd9cda6709.jpg",
+    "face": "/bfs/face/08c74387a430579427d23af2836af1dc4caa70a5.jpg",
     "sign": "挂靠公会个人势 晚上21:00出没 白天随机掉落 QQ群号： 765749265  杂谈清楚V温柔治愈 甜美可爱 爱画画手工摄影美食的皮套人",
     "group_name": ""
   },
@@ -40190,7 +40199,7 @@
     "type": "vtuber",
     "room": 26554468,
     "face": "/bfs/face/503c7cc242ba4262d26deeee69b4d0cb91cd672d.jpg",
-    "sign": "万象阁招生办负责人",
+    "sign": "万象阁少阁主",
     "group_name": ""
   },
   {
@@ -63360,6 +63369,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493084824340954,
+    "name": "Senz_Official",
+    "type": "vtuber",
+    "room": 27395393,
+    "face": "/bfs/face/ec52587d8ebed6251eec4f0cb530f092579cc197.jpg",
+    "sign": "Yo! 我是Senz, 是恶魔Vtuber也是你的温柔男孩。一起开始我们的冒险吧！",
+    "group_name": ""
+  },
+  {
     "uid": 3493085336046382,
     "name": "枝江娱乐官方",
     "type": "group",
@@ -65822,7 +65840,7 @@
     "type": "vtuber",
     "room": 27020604,
     "face": "/bfs/face/207d38893ad6899947a584add6cdb30997c633c6.jpg",
-    "sign": "每晚七点开播~粉丝群：294752015都点进主页了就给个关注吧(´ . .̫ . `)",
+    "sign": "每晚七点开播~粉丝群：294752015\n纯个人势 公会不加勿扰\n都点进主页了就给个关注吧(´ . .̫ . `)",
     "group_name": ""
   },
   {
@@ -72162,6 +72180,15 @@
     "group_name": ""
   },
   {
+    "uid": 3494353257367739,
+    "name": "Haruru_Official",
+    "type": "vtuber",
+    "room": 1749145205,
+    "face": "/bfs/face/55c3a33fd9327eb60f66a7fab7db641a3dd0c3bc.jpg",
+    "sign": "",
+    "group_name": ""
+  },
+  {
     "uid": 3494353278339242,
     "name": "神山饭团",
     "type": "vtuber",
@@ -78039,12 +78066,39 @@
     "group_name": ""
   },
   {
+    "uid": 3546669673089060,
+    "name": "夕雾Yae_YugiriYae",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/e76e27f1aed41ef5b5b74e3431808f841ba7268f.jpg",
+    "sign": "说英语的音之忍者Yae参上！要不要和我一起复活忍者文化？B站的大家好啊！合作联动请私信哦！",
+    "group_name": ""
+  },
+  {
     "uid": 3546679064136633,
     "name": "白银莉莉Nyaa",
     "type": "vtuber",
     "room": 1919122045,
     "face": "/bfs/face/8c6cc184131b66428ab2f381bfdbdd87ae375875.jpg",
     "sign": "没有永远，我只要现在",
+    "group_name": ""
+  },
+  {
+    "uid": 3546684588034989,
+    "name": "真面目喵露_Official",
+    "type": "vtuber",
+    "room": 32811624,
+    "face": "/bfs/face/4266c1226784a04802610537d1038fb7d3cdb80e.jpg",
+    "sign": "",
+    "group_name": ""
+  },
+  {
+    "uid": 3546692961962357,
+    "name": "利香Rica_Official",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/e5cd4a80fc2b931c18716ca53b0bf4adac0586d3.jpg",
+    "sign": "我是主要直播歌唱和ASMR的利香！希望能和B站的大家一起玩！请多关照✨️商务请DM",
     "group_name": ""
   },
   {
@@ -78055,6 +78109,15 @@
     "face": "/bfs/face/6ab9222f56b17a2f5025078e482fc9c406b798eb.jpg",
     "sign": "Bokobokobo-Kobo Kanaeru 为您服务！让我成为照亮你一天的阳光，嘿嘿~",
     "group_name": "Hololive"
+  },
+  {
+    "uid": 3546697909143720,
+    "name": "Sayu_纱羽",
+    "type": "vtuber",
+    "room": 1856171961,
+    "face": "/bfs/face/eec450c523fc7c745a6be13224d026d5db438c12.jpg",
+    "sign": "EN/JP Vtuber on TWITCH | NOA RAEVEN Project: ASCENT",
+    "group_name": ""
   },
   {
     "uid": 3546699035315021,
@@ -78084,6 +78147,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546706689919353,
+    "name": "三森愛乃official",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/d73ad02d42b3f2b10b1918ba9a1a8522b4f3bb4f.jpg",
+    "sign": "我是日本的声优三森爱乃(みもりあいの)。以奥术魔刃为主要活动内容。插画也是自己画的哦。",
+    "group_name": ""
+  },
+  {
     "uid": 3546711085550450,
     "name": "克蕾西・奥莉Official",
     "type": "vtuber",
@@ -78100,5 +78172,23 @@
     "face": "/bfs/face/8f81a34e42a1102811678a38342fba9c5ede9329.jpg",
     "sign": "IOFORIA~! OBISA! 大家好，你们亲爱的外星人，伊欧菲来咯！",
     "group_name": "Hololive"
+  },
+  {
+    "uid": 3546715057556155,
+    "name": "CyYu_塞尤",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/7a678c666370dc9c4b635cda4350d59079d2623f.jpg",
+    "sign": "Vtuber ✥ 赛博改造人声优 ✥ 代表角色：景元、赛诺等。",
+    "group_name": ""
+  },
+  {
+    "uid": 3546719818091441,
+    "name": "Silvervale_樱花狼灵",
+    "type": "vtuber",
+    "room": 1931557282,
+    "face": "/bfs/face/b46496889193a71d86fa5880c9274278939d88fe.jpg",
+    "sign": "我是Silver，你们亲切又瑟瑟的樱花狼VTuber！我是个热衷游戏的玩家，虽然方向感很差，但我热爱一切温馨的事物。",
+    "group_name": ""
   }
 ]

@@ -16632,6 +16632,13 @@
     "group_name": ""
   },
   {
+    "uid": 33192653,
+    "name": "柚木燕巢",
+    "type": "vtuber",
+    "room": 7783578,
+    "group_name": ""
+  },
+  {
     "uid": 33223504,
     "name": "白垩不饿",
     "type": "vtuber",
@@ -49280,6 +49287,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493084824340954,
+    "name": "Senz_Official",
+    "type": "vtuber",
+    "room": 27395393,
+    "group_name": ""
+  },
+  {
     "uid": 3493085336046382,
     "name": "枝江娱乐官方",
     "type": "group",
@@ -56126,6 +56140,13 @@
     "group_name": ""
   },
   {
+    "uid": 3494353257367739,
+    "name": "Haruru_Official",
+    "type": "vtuber",
+    "room": 1749145205,
+    "group_name": ""
+  },
+  {
     "uid": 3494353278339242,
     "name": "神山饭团",
     "type": "vtuber",
@@ -60697,10 +60718,31 @@
     "group_name": ""
   },
   {
+    "uid": 3546669673089060,
+    "name": "夕雾Yae_YugiriYae",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 3546679064136633,
     "name": "白银莉莉Nyaa",
     "type": "vtuber",
     "room": 1919122045,
+    "group_name": ""
+  },
+  {
+    "uid": 3546684588034989,
+    "name": "真面目喵露_Official",
+    "type": "vtuber",
+    "room": 32811624,
+    "group_name": ""
+  },
+  {
+    "uid": 3546692961962357,
+    "name": "利香Rica_Official",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {
@@ -60709,6 +60751,13 @@
     "type": "vtuber",
     "room": 1939029467,
     "group_name": "Hololive"
+  },
+  {
+    "uid": 3546697909143720,
+    "name": "Sayu_纱羽",
+    "type": "vtuber",
+    "room": 1856171961,
+    "group_name": ""
   },
   {
     "uid": 3546699035315021,
@@ -60732,6 +60781,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546706689919353,
+    "name": "三森愛乃official",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 3546711085550450,
     "name": "克蕾西・奥莉Official",
     "type": "vtuber",
@@ -60744,5 +60800,19 @@
     "type": "vtuber",
     "room": 1749144929,
     "group_name": "Hololive"
+  },
+  {
+    "uid": 3546715057556155,
+    "name": "CyYu_塞尤",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
+    "uid": 3546719818091441,
+    "name": "Silvervale_樱花狼灵",
+    "type": "vtuber",
+    "room": 1931557282,
+    "group_name": ""
   }
 ]
