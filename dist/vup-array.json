@@ -23388,7 +23388,7 @@
     "name": "芙狸fuli_",
     "type": "vtuber",
     "room": 22438022,
-    "face": "/bfs/face/78de9302ecb330ce455a33a10ee4975a4262c467.jpg",
+    "face": "/bfs/face/0aa4305b9a5aafa7d52909fd775cb28f70e3f277.jpg",
     "group_name": ""
   },
   {
@@ -26741,6 +26741,14 @@
     "type": "vtuber",
     "room": 13967565,
     "face": "/bfs/face/95129c023d527ef62f6417dea16fcd782fb733aa.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 335916773,
+    "name": "困困鸭-",
+    "type": "vtuber",
+    "room": 11491825,
+    "face": "/bfs/face/45a45dc66897709defc5b774f7a25cfb5df69898.jpg",
     "group_name": ""
   },
   {
