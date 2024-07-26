@@ -16943,7 +16943,7 @@
     "name": "泫桃Momo",
     "type": "vtuber",
     "room": 8768448,
-    "face": "/bfs/face/b035be578c55169a4a56fd9bbcbf7944b32f517c.jpg",
+    "face": "/bfs/face/0a47c55d315cbb4a5f99b55bc209918d8053f5e0.jpg",
     "group_name": ""
   },
   "35231887": {
@@ -22095,7 +22095,7 @@
     "name": "Hiki_Official",
     "type": "vtuber",
     "room": 27495696,
-    "face": "/bfs/face/eb06ccda48d4bc08891fceead25d16ff63b71991.jpg",
+    "face": "/bfs/face/2912de64f88d9706ceecbeca4c9541e1fbcff6db.jpg",
     "group_name": ""
   },
   "277937815": {
@@ -60815,6 +60815,13 @@
     "face": "/bfs/face/c6954a5ac69a9d434acf17a8597fd56d8c334a23.jpg",
     "group_name": ""
   },
+  "3546657912260888": {
+    "name": "koroma_Official",
+    "type": "vtuber",
+    "room": 32434709,
+    "face": "/bfs/face/59fecb1f9fd6b4ab8343aa1e7960f26d0ceac0a6.jpg",
+    "group_name": ""
+  },
   "3546664549747467": {
     "name": "云母沫雪",
     "type": "vtuber",
@@ -60960,6 +60967,13 @@
     "type": "vtuber",
     "room": 1931557282,
     "face": "/bfs/face/b46496889193a71d86fa5880c9274278939d88fe.jpg",
+    "group_name": ""
+  },
+  "3546729368520811": {
+    "name": "Vedal和Neuro-sama",
+    "type": "vtuber",
+    "room": 1852504554,
+    "face": "/bfs/face/f8d99297dd73a68548547d7b2eb0d32614baef36.jpg",
     "group_name": ""
   }
 }

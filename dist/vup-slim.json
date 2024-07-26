@@ -52127,6 +52127,12 @@
     "room": 32501175,
     "group_name": ""
   },
+  "3546657912260888": {
+    "name": "koroma_Official",
+    "type": "vtuber",
+    "room": 32434709,
+    "group_name": ""
+  },
   "3546664549747467": {
     "name": "云母沫雪",
     "type": "vtuber",
@@ -52251,6 +52257,12 @@
     "name": "Silvervale_樱花狼灵",
     "type": "vtuber",
     "room": 1931557282,
+    "group_name": ""
+  },
+  "3546729368520811": {
+    "name": "Vedal和Neuro-sama",
+    "type": "vtuber",
+    "room": 1852504554,
     "group_name": ""
   }
 }
