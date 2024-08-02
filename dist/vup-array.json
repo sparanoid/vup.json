@@ -1304,6 +1304,14 @@
     "group_name": "Vi-D"
   },
   {
+    "uid": 296803,
+    "name": "御坂黑琴",
+    "type": "vtuber",
+    "room": 537624,
+    "face": "/bfs/face/2511ef1eb696d916ae5fb24bb7996d499245b512.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 297340,
     "name": "昙露Channel",
     "type": "vtuber",
@@ -21160,6 +21168,14 @@
     "group_name": ""
   },
   {
+    "uid": 59863756,
+    "name": "果子吞金兽",
+    "type": "vtuber",
+    "room": 2266839,
+    "face": "/bfs/face/9633a5f45cb43d59442f970b878d51f0e8702468.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 60093306,
     "name": "江迢迢迢家的猫",
     "type": "vtuber",
@@ -23589,6 +23605,14 @@
     "type": "vtuber",
     "room": 21694115,
     "face": "/bfs/face/1da1ccc82d5d7050538a28116adfeae88254e36e.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 168729865,
+    "name": "甜妹又_biu",
+    "type": "vtuber",
+    "room": 30395250,
+    "face": "/bfs/face/9ba945c3439e5a43c230d7ea23bdff0b757b5e70.jpg",
     "group_name": ""
   },
   {
@@ -68584,6 +68608,14 @@
     "group_name": "Hanabi_live"
   },
   {
+    "uid": 3546568189806605,
+    "name": "白兰九Channel",
+    "type": "vtuber",
+    "room": 31164585,
+    "face": "/bfs/face/890d00e5a4484906bffe805b32f19f39a7c91f1e.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546568189807591,
     "name": "兔原阳菜Hina",
     "type": "vtuber",
@@ -69581,6 +69613,14 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/e76e27f1aed41ef5b5b74e3431808f841ba7268f.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546673575889391,
+    "name": "啵比Bobby-公主冠",
+    "type": "vtuber",
+    "room": 1883627615,
+    "face": "/bfs/face/26a452a2453e8c6c038072bacb8215f26a9d4f11.jpg",
     "group_name": ""
   },
   {
