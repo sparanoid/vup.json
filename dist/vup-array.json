@@ -17113,10 +17113,10 @@
   },
   {
     "uid": 22596117,
-    "name": "玖尘cccc",
+    "name": "恶心的我想似",
     "type": "vtuber",
     "room": 5289099,
-    "face": "/bfs/face/1ee676e19e17ae55b5c723685dd9078085cc49a0.jpg",
+    "face": "/bfs/face/95c92cf77f98147b7d8f9c2af2e23b5e453f4eef.jpg",
     "group_name": ""
   },
   {
@@ -69725,6 +69725,14 @@
     "type": "vtuber",
     "room": 1931557282,
     "face": "/bfs/face/b46496889193a71d86fa5880c9274278939d88fe.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546721873300222,
+    "name": "梨曳白",
+    "type": "vtuber",
+    "room": 1841613545,
+    "face": "/bfs/face/79530e8e1110db9cf500bb125fcd3bc3ef34a16c.jpg",
     "group_name": ""
   },
   {
