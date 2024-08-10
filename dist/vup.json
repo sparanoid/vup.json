@@ -6838,6 +6838,13 @@
     "face": "/bfs/face/1b426727c81ce62cf3a096949d91817469599779.jpg",
     "group_name": ""
   },
+  "3669403": {
+    "name": "月路Yuel",
+    "type": "vtuber",
+    "room": 10354999,
+    "face": "/bfs/face/b393d1d69aa26c981cda86aac695a5368dc011dc.jpg",
+    "group_name": ""
+  },
   "3672017": {
     "name": "孤独Kodoku",
     "type": "vtuber",
@@ -60820,6 +60827,13 @@
     "type": "vtuber",
     "room": 32121072,
     "face": "/bfs/face/af2fc74f99b213e788cbe52b99e7de849f9cfa29.jpg",
+    "group_name": ""
+  },
+  "3546636747803022": {
+    "name": "柳时一",
+    "type": "vtuber",
+    "room": 32308451,
+    "face": "/bfs/face/545a1569598c5c69d3532a0f3ee8fe06600bc42a.jpg",
     "group_name": ""
   },
   "3546636867340410": {
