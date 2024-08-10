@@ -5932,7 +5932,7 @@
     "name": "绿球三球绿",
     "type": "vtuber",
     "room_id": 4063246,
-    "face": "/bfs/face/59c4c2561de07c25faf5eb92a2ab2c4ff6f045a8.jpg",
+    "face": "/bfs/face/a4583986c844fb4a6520b01d3a6198291781d242.jpg",
     "group_name": ""
   },
   "3009298": {
@@ -16009,7 +16009,7 @@
     "group_name": "夕映结社"
   },
   "28072199": {
-    "name": "砂糖nyaa",
+    "name": "期末c",
     "type": "vtuber",
     "room_id": 24611211,
     "face": "/bfs/face/252689e3325939d11f888e2508fdcdefbeda1a56.jpg",
@@ -16569,10 +16569,10 @@
     "group_name": ""
   },
   "32713922": {
-    "name": "爱画画的线条小猫",
+    "name": "未完诗又半截",
     "type": "vtuber",
     "room_id": 2596258,
-    "face": "/bfs/face/82d98f80192066042e8313668e1f54402eac6f9a.jpg",
+    "face": "/bfs/face/7d757b506d91401cfc7e246b49b294b1a0de2e5a.jpg",
     "group_name": ""
   },
   "32724937": {
@@ -23092,6 +23092,13 @@
     "face": "/bfs/face/b71337d7ade8fc048ffcd36115ed7a61ec986289.jpg",
     "group_name": ""
   },
+  "320070259": {
+    "name": "虚环",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/03a934aefe4d871e8b4bb50c45dabd7101e12cc9.jpg",
+    "group_name": ""
+  },
   "320133639": {
     "name": "李柴伶_Challin",
     "type": "vtuber",
@@ -23740,7 +23747,7 @@
     "name": "软软别吃了",
     "type": "vtuber",
     "room_id": 12393484,
-    "face": "/bfs/face/5fdb1380cdb4dc2c11d6b7f6a431a05ce731eae3.jpg",
+    "face": "/bfs/face/75ae330fefb3a8852b531178fce352eaca4e474f.jpg",
     "group_name": ""
   },
   "349674525": {
@@ -32280,7 +32287,7 @@
     "name": "xyuuZz",
     "type": "vtuber",
     "room_id": 30053260,
-    "face": "/bfs/face/58e8e51a8fddea057bd2b0cd746f8476e2fb8070.jpg",
+    "face": "/bfs/face/05b610e0393a0b960efaaf21d63b467c25236096.jpg",
     "group_name": ""
   },
   "541696090": {
@@ -60953,6 +60960,13 @@
     "type": "vtuber",
     "room_id": 1919122045,
     "face": "/bfs/face/3be30ba716474fea880997354989f9c11a892c55.jpg",
+    "group_name": ""
+  },
+  "3546684332181720": {
+    "name": "沧瀛Aish",
+    "type": "vtuber",
+    "room_id": 1820900504,
+    "face": "/bfs/face/8b0ec506661e58b688926d11170762bf6bfbbb9a.jpg",
     "group_name": ""
   },
   "3546684588034989": {
