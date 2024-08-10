@@ -29917,6 +29917,13 @@
     "face": "/bfs/face/adf06a2eab2680f234f30d5301aba0b59fe7bd50.jpg",
     "group_name": "Vi-D"
   },
+  "485173040": {
+    "name": "小望字幕组",
+    "type": "vtuber",
+    "room": 30460313,
+    "face": "/bfs/face/c2b94eb8912ef5e0335f98869efdf7ac809e7575.jpg",
+    "group_name": ""
+  },
   "485231759": {
     "name": "初鹿野乐Raku",
     "type": "vtuber",
@@ -35175,7 +35182,7 @@
     "group_name": "极光社"
   },
   "675163827": {
-    "name": "布里奥斯_白日梦版",
+    "name": "布里奥斯_捡垃圾版",
     "type": "vtuber",
     "room": 31679753,
     "face": "/bfs/face/8b7825fbf10d6ebb4ea9c43f5f2ec51338030322.jpg",
@@ -43319,7 +43326,7 @@
     "name": "星间泉channel",
     "type": "vtuber",
     "room": 25481267,
-    "face": "/bfs/face/d17a7ce26b3cadb5a915b2b337b3c9c492c784b0.jpg",
+    "face": "/bfs/face/cc8b03fe505da0e59af1ff2ef226e9a4cddd0696.jpg",
     "group_name": ""
   },
   "1689340733": {
@@ -43627,7 +43634,7 @@
     "name": "滢荧_inin",
     "type": "vtuber",
     "room": 30462622,
-    "face": "/bfs/face/f0677b2ac510ff79a1d39761d9cb4b533fb788f1.jpg",
+    "face": "/bfs/face/9beabc577c365a2a7df15a93af7cf2345c61e4e1.jpg",
     "group_name": ""
   },
   "1723206278": {
@@ -52594,7 +52601,7 @@
     "name": "卷fafa",
     "type": "vtuber",
     "room": 27338577,
-    "face": "/bfs/face/815564a72062a7904d49239c326d0c70b03e8674.jpg",
+    "face": "/bfs/face/3c18adaf40c942498efc0c44bb0c9e2644c73fd4.jpg",
     "group_name": ""
   },
   "3493257797438096": {
@@ -60795,7 +60802,7 @@
     "group_name": ""
   },
   "3546633484634208": {
-    "name": "超皮小布丁10日半周年",
+    "name": "超皮小布丁",
     "type": "vtuber",
     "room": 32066819,
     "face": "/bfs/face/1f1de08505d3e830f356817b3410944bc1b5b99f.jpg",
@@ -60924,7 +60931,7 @@
     "name": "春祈ovo",
     "type": "vtuber",
     "room": 32553022,
-    "face": "/bfs/face/766d546b77ef373a132115f5c682df4495a380a6.jpg",
+    "face": "/bfs/face/88680c42ecf1307aeecac6014597be4d8b734c36.jpg",
     "group_name": ""
   },
   "3546664927234075": {
