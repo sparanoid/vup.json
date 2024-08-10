@@ -55699,10 +55699,10 @@
     "group_name": ""
   },
   "3493296397617199": {
-    "name": "九狸Layla",
+    "name": "麥当当薯饼",
     "type": "vtuber",
     "room_id": 27948356,
-    "face": "/bfs/face/359135d0b15bd41832f52987dce32c2aa35d764d.jpg",
+    "face": "/bfs/face/6dceedca9d00d00401f9cc39d0241768a484754e.jpg",
     "group_name": ""
   },
   "3493296745744537": {
@@ -61044,6 +61044,13 @@
     "type": "vtuber",
     "room_id": 1854704205,
     "face": "/bfs/face/2242772952debe1aa45ab9624ba175c2ec93fd9d.jpg",
+    "group_name": ""
+  },
+  "3546718792583172": {
+    "name": "莳聿Syu",
+    "type": "vtuber",
+    "room_id": 1714527527,
+    "face": "/bfs/face/7052f86ccc31045c8ddd2a56d065703edcff4c6d.jpg",
     "group_name": ""
   },
   "3546719818091441": {
