@@ -22749,6 +22749,13 @@
     "face": "/bfs/face/15ad88ee3afd0bd907d47b44cfe32b06b4923950.jpg",
     "group_name": ""
   },
+  "303501761": {
+    "name": "云蒸霞蔚desu",
+    "type": "vtuber",
+    "room_id": 1896549841,
+    "face": "/bfs/face/66147a1439fe95114234517e2355d86cd6c1f5a6.jpg",
+    "group_name": ""
+  },
   "304002706": {
     "name": "八燿星-official",
     "type": "vtuber",
@@ -41572,6 +41579,13 @@
     "face": "/bfs/face/8fa079d4741b5ee0228cfc71804c363b20b590c4.jpg",
     "group_name": ""
   },
+  "1517060220": {
+    "name": "局长きょくちょ",
+    "type": "vtuber",
+    "room_id": 1883626655,
+    "face": "/bfs/face/bfb066b3bea69293e08171c660b1e5dbc9ceef4e.jpg",
+    "group_name": ""
+  },
   "1517067289": {
     "name": "大舌头Annica",
     "type": "vtuber",
@@ -53311,6 +53325,13 @@
     "face": "/bfs/face/b6338b3bf52ac43f161345281b428b06a7e2dd59.jpg",
     "group_name": ""
   },
+  "3493266456578574": {
+    "name": "寿司_Official",
+    "type": "vtuber",
+    "room_id": 27471502,
+    "face": "/bfs/face/39f1670009bc327b688ac4bf3a82c95216020b15.jpg",
+    "group_name": "新月社FCrescent"
+  },
   "3493266481743925": {
     "name": "恶魔优拉Ula",
     "type": "vtuber",
@@ -57259,6 +57280,13 @@
     "face": "/bfs/face/1122610b2f665817d4306ea9f0a9727da3b5d98a.jpg",
     "group_name": ""
   },
+  "3494365106277311": {
+    "name": "卟啵电竞",
+    "type": "group",
+    "room_id": 0,
+    "face": "/bfs/face/d6e87a453c341c010d346fd33de157fa1792e77a.jpg",
+    "group_name": ""
+  },
   "3494365152414319": {
     "name": "梨雅Lya",
     "type": "vtuber",
@@ -60899,6 +60927,13 @@
     "face": "/bfs/face/6c9c159d662c0f70dac939bc702b10ce8833a46f.jpg",
     "group_name": ""
   },
+  "3546652373682235": {
+    "name": "奶玉兔兔",
+    "type": "vtuber",
+    "room_id": 32537570,
+    "face": "/bfs/face/1fc91d3f7c99e21785fdc1b00e5b9ca80944f10f.jpg",
+    "group_name": ""
+  },
   "3546656337299626": {
     "name": "樱柠柠sakura",
     "type": "vtuber",
@@ -61003,6 +61038,34 @@
     "room_id": 1850920731,
     "face": "/bfs/face/d2f9d7692dce39f7258584366aeaaddf8b37e6d5.jpg",
     "group_name": ""
+  },
+  "3546695864421312": {
+    "name": "白咲露理",
+    "type": "vtuber",
+    "room_id": 1842209652,
+    "face": "/bfs/face/667c03a833f99fb31d512cebe52a2dea92ce017c.jpg",
+    "group_name": "卟啵电竞"
+  },
+  "3546695946209651": {
+    "name": "帕妃Pafi",
+    "type": "vtuber",
+    "room_id": 1742801253,
+    "face": "/bfs/face/f6476cfc2e3c0134c4596b19d5441a329d834967.jpg",
+    "group_name": "卟啵电竞"
+  },
+  "3546695948306751": {
+    "name": "小针彩",
+    "type": "vtuber",
+    "room_id": 1972360561,
+    "face": "/bfs/face/5a366d873e15f20cd145bcd339835a544fb5ae97.jpg",
+    "group_name": "卟啵电竞"
+  },
+  "3546695956695430": {
+    "name": "千郁郁sen",
+    "type": "vtuber",
+    "room_id": 1996441034,
+    "face": "/bfs/face/d85f2286a74a3c725c613a20920336c97dfe4d77.jpg",
+    "group_name": "卟啵电竞"
   },
   "3546696910899214": {
     "name": "_黑羽翎_",
