@@ -17436,6 +17436,13 @@
     "face": "/bfs/face/0cfd033a38dab3f7dee753e540ce5c7022ae11db.jpg",
     "group_name": ""
   },
+  "39403524": {
+    "name": "由乃爱莉",
+    "type": "vtuber",
+    "room_id": 1172151,
+    "face": "/bfs/face/7cd6ea2bdc4b531716fe905a1512640331c2a8ed.jpg",
+    "group_name": ""
+  },
   "39468108": {
     "name": "乔麦皮_Jomaybe",
     "type": "vtuber",
@@ -29992,6 +29999,13 @@
     "type": "vtuber",
     "room_id": 24058070,
     "face": "/bfs/face/36cca36f3e6db11ee4567d78e7a5dad776e57657.jpg",
+    "group_name": ""
+  },
+  "486482491": {
+    "name": "S宅宅羊Nina",
+    "type": "vtuber",
+    "room_id": 30001435,
+    "face": "/bfs/face/4cfee4ce454326e6d4cede4d2168978816967084.jpg",
     "group_name": ""
   },
   "486572877": {
@@ -59709,6 +59723,13 @@
     "face": "/bfs/face/a82a2f54e74e49b85c54c72ffde6140146dc6c29.jpg",
     "group_name": ""
   },
+  "3546388300302378": {
+    "name": "吃吃吔",
+    "type": "vtuber",
+    "room_id": 30880093,
+    "face": "/bfs/face/2c764899607c2c3ed71c8ab1b29b52de1f63a5d2.webp",
+    "group_name": ""
+  },
   "3546388438715068": {
     "name": "星波海来Official",
     "type": "vtuber",
@@ -60911,6 +60932,13 @@
     "type": "vtuber",
     "room_id": 32331141,
     "face": "/bfs/face/30fc01d286521f11d46389ace862fb9aeb4f32b2.jpg",
+    "group_name": ""
+  },
+  "3546645295794691": {
+    "name": "唱歌机器漓漓子",
+    "type": "vtuber",
+    "room_id": 32273571,
+    "face": "/bfs/face/8f65b26776af77956efc2be5f7a0577ea3bc018f.jpg",
     "group_name": ""
   },
   "3546646881241985": {
