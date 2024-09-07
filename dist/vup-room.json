@@ -13313,6 +13313,13 @@
     "face": "/bfs/face/2e0c12f3f638828771a88d0cbf76ba31da465d4b.jpg",
     "group_name": ""
   },
+  "15514959": {
+    "name": "盒桃Mia",
+    "type": "vtuber",
+    "room_id": 32743294,
+    "face": "/bfs/face/922e82d25a7255ac57ea08975f9ef405db0d228e.jpg",
+    "group_name": ""
+  },
   "15522877": {
     "name": "布绘七茗DisPaly",
     "type": "vtuber",
@@ -47197,7 +47204,7 @@
     "name": "伽罗厄_Galloe",
     "type": "vtuber",
     "room_id": 25498148,
-    "face": "/bfs/face/c0ad87e9115c68aa5697797ad01a0308332dafbc.jpg",
+    "face": "/bfs/face/9074f315afce1099cf532da375e10a688d3aeddc.jpg",
     "group_name": ""
   },
   "2063365588": {
