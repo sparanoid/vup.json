@@ -16427,6 +16427,12 @@
     "room": 11871552,
     "group_name": ""
   },
+  "84108910": {
+    "name": "栗花澪コMIO",
+    "type": "vtuber",
+    "room": 9419423,
+    "group_name": ""
+  },
   "84125742": {
     "name": "祀羽Seyyu",
     "type": "vtuber",
@@ -20385,6 +20391,12 @@
     "name": "奶皮Miyo",
     "type": "vtuber",
     "room": 23678649,
+    "group_name": ""
+  },
+  "349789869": {
+    "name": "橘崽_妹控的神",
+    "type": "vtuber",
+    "room": 32409471,
     "group_name": ""
   },
   "349976867": {
@@ -41519,6 +41531,12 @@
     "room": 25921269,
     "group_name": "Afaer-Official"
   },
+  "3461569417579101": {
+    "name": "菟噜酱-演播鬼故事版",
+    "type": "vtuber",
+    "room": 1939027463,
+    "group_name": ""
+  },
   "3461569786678059": {
     "name": "哈提Hati",
     "type": "vtuber",
@@ -44244,7 +44262,7 @@
     "group_name": ""
   },
   "3493135044839465": {
-    "name": "倾卿喵Mio",
+    "name": "倾卿喵Mio9月21日周年庆",
     "type": "vtuber",
     "room": 27099432,
     "group_name": ""
@@ -44745,6 +44763,12 @@
     "name": "想当小魚",
     "type": "vtuber",
     "room": 30134554,
+    "group_name": ""
+  },
+  "3493141892040724": {
+    "name": "墨灵吃饱饱一听风冠",
+    "type": "vtuber",
+    "room": 32072708,
     "group_name": ""
   },
   "3493142036744395": {
@@ -50219,6 +50243,12 @@
     "room": 30429352,
     "group_name": ""
   },
+  "3537108427868696": {
+    "name": "豚豚秃了",
+    "type": "vtuber",
+    "room": 31038065,
+    "group_name": ""
+  },
   "3537108539017927": {
     "name": "-月川きのこ-",
     "type": "vtuber",
@@ -51426,7 +51456,7 @@
     "group_name": ""
   },
   "3546559320951456": {
-    "name": "容涯-打官司断播版",
+    "name": "容涯--Akuma",
     "type": "vtuber",
     "room": 31036998,
     "group_name": ""
@@ -51495,6 +51525,12 @@
     "name": "卡弥洛Kamilo",
     "type": "vtuber",
     "room": 31204862,
+    "group_name": ""
+  },
+  "3546564165372348": {
+    "name": "陶黎Mini-发癫版",
+    "type": "vtuber",
+    "room": 31108410,
     "group_name": ""
   },
   "3546564205218366": {
@@ -52379,6 +52415,12 @@
     "room": 1996441034,
     "group_name": "卟啵电竞"
   },
+  "3546696388708380": {
+    "name": "晚风甜酒Lori",
+    "type": "vtuber",
+    "room": 1749141031,
+    "group_name": ""
+  },
   "3546696910899214": {
     "name": "_黑羽翎_",
     "type": "vtuber",
@@ -52433,6 +52475,12 @@
     "room": 1749144929,
     "group_name": "Hololive"
   },
+  "3546714516490635": {
+    "name": "九霄麒麟_Kylin",
+    "type": "vtuber",
+    "room": 1931556028,
+    "group_name": ""
+  },
   "3546715057556155": {
     "name": "CyYu_塞尤",
     "type": "vtuber",
@@ -52468,5 +52516,11 @@
     "type": "vtuber",
     "room": 1852504554,
     "group_name": ""
+  },
+  "3546730823944886": {
+    "name": "来芙Laffey",
+    "type": "vtuber",
+    "room": 1811409016,
+    "group_name": "枝江娱乐"
   }
 }
