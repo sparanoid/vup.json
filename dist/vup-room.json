@@ -45975,6 +45975,13 @@
     "face": "/bfs/face/0458134521347d5ba8bb2225b77c31efc9e4ae86.jpg",
     "group_name": ""
   },
+  "1938979031": {
+    "name": "燐・珈尔特Official",
+    "type": "vtuber",
+    "room_id": 31679509,
+    "face": "/bfs/face/e523fb7118e66c15d9af8215195296ec2fe364c1.jpg",
+    "group_name": ""
+  },
   "1939339404": {
     "name": "可可爱爱小露桉",
     "type": "vtuber",
@@ -58043,6 +58050,13 @@
     "face": "/bfs/face/f40d4c46323537ad9172c327a14ef8289693e12c.jpg",
     "group_name": ""
   },
+  "3494373937383474": {
+    "name": "芮伊奈奈",
+    "type": "vtuber",
+    "room_id": 30894592,
+    "face": "/bfs/face/d2fccf3a2638b46e6631f6e2802dc8595b2988a5.jpg",
+    "group_name": ""
+  },
   "3494374014978421": {
     "name": "艾维Avia",
     "type": "vtuber",
@@ -60864,6 +60878,13 @@
     "face": "/bfs/face/636f6e9ceb3982e9691c6f900285da99b1f50198.jpg",
     "group_name": "甜瓜社MelonLive"
   },
+  "3546619358219217": {
+    "name": "闪闪oki",
+    "type": "vtuber",
+    "room_id": 31981004,
+    "face": "/bfs/face/d346a3f09acb16ed0a961ef74b7af5254476eac8.jpg",
+    "group_name": ""
+  },
   "3546620499069896": {
     "name": "羊崽-毕业版",
     "type": "vtuber",
@@ -60976,6 +60997,13 @@
     "face": "/bfs/face/77faf2ef3f4ba01ee87ef7ae0990eb08535d13d0.jpg",
     "group_name": "NOA Talent"
   },
+  "3546642730977575": {
+    "name": "哆啦不炸毛",
+    "type": "vtuber",
+    "room_id": 32272812,
+    "face": "/bfs/face/b9e81356f2c47a917b42b61ffb63188382f5b7b5.jpg",
+    "group_name": ""
+  },
   "3546643722931172": {
     "name": "撒莉雅Saliya",
     "type": "vtuber",
@@ -61011,11 +61039,32 @@
     "face": "/bfs/face/e81513fd7bc8332fe8023eb91064731e5ce11cc6.jpg",
     "group_name": ""
   },
+  "3546648173087295": {
+    "name": "安伯_Ember",
+    "type": "vtuber",
+    "room_id": 32283525,
+    "face": "/bfs/face/7d17c9414a92961c83f21c3631f75aa7fca706ae.jpg",
+    "group_name": ""
+  },
+  "3546649167137356": {
+    "name": "狐火燐音_Official",
+    "type": "vtuber",
+    "room_id": 32302598,
+    "face": "/bfs/face/fe6b7cb897d3cdc1c0149f2831032e844bb00dae.jpg",
+    "group_name": ""
+  },
   "3546652373682235": {
     "name": "奶玉兔兔",
     "type": "vtuber",
     "room_id": 32537570,
     "face": "/bfs/face/1fc91d3f7c99e21785fdc1b00e5b9ca80944f10f.jpg",
+    "group_name": ""
+  },
+  "3546655741708943": {
+    "name": "溪璐Shiro",
+    "type": "vtuber",
+    "room_id": 32408436,
+    "face": "/bfs/face/b3f5fb5a4cedfb3676772e2c8ab3931cc5026887.jpg",
     "group_name": ""
   },
   "3546656337299626": {
