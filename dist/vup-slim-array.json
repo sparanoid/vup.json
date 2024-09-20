@@ -7014,6 +7014,13 @@
     "group_name": ""
   },
   {
+    "uid": 3853302,
+    "name": "鹿羽染染",
+    "type": "vtuber",
+    "room": 3211123,
+    "group_name": ""
+  },
+  {
     "uid": 3862998,
     "name": "肚肚饿饿的肚肚子",
     "type": "vtuber",
@@ -25585,6 +25592,13 @@
     "group_name": ""
   },
   {
+    "uid": 394860672,
+    "name": "星奏璃Rin",
+    "type": "vtuber",
+    "room": 25500793,
+    "group_name": ""
+  },
+  {
     "uid": 395426377,
     "name": "今夭的平行世界",
     "type": "vtuber",
@@ -25862,6 +25876,13 @@
     "name": "芝士鱼yuu",
     "type": "vtuber",
     "room": 21283805,
+    "group_name": ""
+  },
+  {
+    "uid": 399165277,
+    "name": "玖泽樱-Kusawa",
+    "type": "vtuber",
+    "room": 26934352,
     "group_name": ""
   },
   {
@@ -33598,6 +33619,13 @@
     "type": "vtuber",
     "room": 22331428,
     "group_name": "雨林社"
+  },
+  {
+    "uid": 611481251,
+    "name": "奈奈紫crystal",
+    "type": "vtuber",
+    "room": 1817864062,
+    "group_name": ""
   },
   {
     "uid": 611529563,
@@ -42665,6 +42693,13 @@
     "group_name": ""
   },
   {
+    "uid": 1624145720,
+    "name": "劳劳lola",
+    "type": "vtuber",
+    "room": 24400813,
+    "group_name": ""
+  },
+  {
     "uid": 1625693678,
     "name": "甘井羽衣_Official",
     "type": "vtuber",
@@ -43573,6 +43608,13 @@
     "type": "vtuber",
     "room": 24437818,
     "group_name": "ChaosLiveSprout"
+  },
+  {
+    "uid": 1711523322,
+    "name": "路小雨TvT",
+    "type": "vtuber",
+    "room": 32212815,
+    "group_name": ""
   },
   {
     "uid": 1711724633,
@@ -60893,6 +60935,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546623156161063,
+    "name": "呜咕UgU",
+    "type": "vtuber",
+    "room": 31962290,
+    "group_name": ""
+  },
+  {
     "uid": 3546626599684797,
     "name": "莜娜Yuna",
     "type": "vtuber",
@@ -61325,5 +61374,12 @@
     "type": "vtuber",
     "room": 1811409016,
     "group_name": "枝江娱乐"
+  },
+  {
+    "uid": 3546743637543742,
+    "name": "水溶桃桃",
+    "type": "vtuber",
+    "room": 1743357501,
+    "group_name": ""
   }
 ]

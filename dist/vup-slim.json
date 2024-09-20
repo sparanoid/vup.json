@@ -6011,6 +6011,12 @@
     "room": 1763689,
     "group_name": ""
   },
+  "3853302": {
+    "name": "鹿羽染染",
+    "type": "vtuber",
+    "room": 3211123,
+    "group_name": ""
+  },
   "3862998": {
     "name": "肚肚饿饿的肚肚子",
     "type": "vtuber",
@@ -21929,6 +21935,12 @@
     "room": 21198057,
     "group_name": ""
   },
+  "394860672": {
+    "name": "星奏璃Rin",
+    "type": "vtuber",
+    "room": 25500793,
+    "group_name": ""
+  },
   "395426377": {
     "name": "今夭的平行世界",
     "type": "vtuber",
@@ -22167,6 +22179,12 @@
     "name": "芝士鱼yuu",
     "type": "vtuber",
     "room": 21283805,
+    "group_name": ""
+  },
+  "399165277": {
+    "name": "玖泽樱-Kusawa",
+    "type": "vtuber",
+    "room": 26934352,
     "group_name": ""
   },
   "399309061": {
@@ -28798,6 +28816,12 @@
     "type": "vtuber",
     "room": 22331428,
     "group_name": "雨林社"
+  },
+  "611481251": {
+    "name": "奈奈紫crystal",
+    "type": "vtuber",
+    "room": 1817864062,
+    "group_name": ""
   },
   "611529563": {
     "name": "朴古Official",
@@ -36569,6 +36593,12 @@
     "room": 25398458,
     "group_name": ""
   },
+  "1624145720": {
+    "name": "劳劳lola",
+    "type": "vtuber",
+    "room": 24400813,
+    "group_name": ""
+  },
   "1625693678": {
     "name": "甘井羽衣_Official",
     "type": "vtuber",
@@ -37348,6 +37378,12 @@
     "type": "vtuber",
     "room": 24437818,
     "group_name": "ChaosLiveSprout"
+  },
+  "1711523322": {
+    "name": "路小雨TvT",
+    "type": "vtuber",
+    "room": 32212815,
+    "group_name": ""
   },
   "1711724633": {
     "name": "初濑Hatsuse",
@@ -52193,6 +52229,12 @@
     "room": 31934397,
     "group_name": ""
   },
+  "3546623156161063": {
+    "name": "呜咕UgU",
+    "type": "vtuber",
+    "room": 31962290,
+    "group_name": ""
+  },
   "3546626599684797": {
     "name": "莜娜Yuna",
     "type": "vtuber",
@@ -52564,5 +52606,11 @@
     "type": "vtuber",
     "room": 1811409016,
     "group_name": "枝江娱乐"
+  },
+  "3546743637543742": {
+    "name": "水溶桃桃",
+    "type": "vtuber",
+    "room": 1743357501,
+    "group_name": ""
   }
 }
