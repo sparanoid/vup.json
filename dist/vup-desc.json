@@ -1364,7 +1364,7 @@
     "type": "vtuber",
     "room": 24287752,
     "face": "/bfs/face/00ce121ae8aef1ac9564083b7503dbc7848a5049.jpg",
-    "sign": "不是组咪，个人号，海外社畜，CP杂食，睡眠严重不足。转播间相关规则请看动态置顶。只在b站有账号，其它平台如有同名均不是本人。",
+    "sign": "不是组咪，个人号，海外社畜，CP杂食，睡眠严重不足。转播间相关规则请看动态置顶。b站以外的帐号不一定是本人。",
     "group_name": ""
   },
   "305100": {
@@ -1676,7 +1676,7 @@
     "type": "vtuber",
     "room": 23566,
     "face": "/bfs/face/8db9716c1586dc98e213c3917fda3246d9681d5b.jpg",
-    "sign": "QQ群432262257",
+    "sign": "粉丝群432262257",
     "group_name": ""
   },
   "406135": {
@@ -2044,7 +2044,7 @@
     "type": "vtuber",
     "room": 7595278,
     "face": "/bfs/face/6f97d51472a39cf73302f5b55c3379fb53c3afb5.jpg",
-    "sign": "推特@bilibiliyami  直播通知群675812675\n由于身体原因，直播时间是不固定的！\n没有字幕组和粉丝群，我不是偶像不会唱跳！",
+    "sign": "推特@bilibiliyami  直播通知群675812675\n由于身体原因，直播时间是不固定的！\n我不是偶像不会唱跳，是普通的b站主播！",
     "group_name": ""
   },
   "488053": {
@@ -2852,7 +2852,7 @@
     "type": "vtuber",
     "room": 806683,
     "face": "/bfs/face/7fbe0fc3bbdeb6d4827da8e0b8707264391f6823.jpg",
-    "sign": "随心所欲的个人势vup，本体妖精龙，喜爱拟态为扑棱蛾子精，喜欢唱歌。体弱，脾气爆。",
+    "sign": "已停播，偶尔会发投稿。",
     "group_name": ""
   },
   "642368": {
@@ -5652,7 +5652,7 @@
     "type": "vtuber",
     "room": 1007329,
     "face": "/bfs/face/eb46d7a2058e280ab85be79c7947cebebc4d5286.jpg",
-    "sign": "个狗猫丨 直播丨 杂谈粗口助眠套皮主播 丨 全职煮面 丨 九霸蛋窝：921293202",
+    "sign": "个狗猫势丨 直播丨 杂谈粗口助眠套皮主播 丨 全职煮面 丨 九霸蛋窝：921293202",
     "group_name": ""
   },
   "2165119": {
@@ -13176,11 +13176,11 @@
     "group_name": ""
   },
   "11461325": {
-    "name": "天野ミヤ",
+    "name": "天之宫苍泽",
     "type": "vtuber",
     "room": 1353049,
     "face": "/bfs/face/cdafb753c08b326a798f434e2511e5e15d730844.jpg",
-    "sign": "幻想社Symphony所属蓝精灵天野miya，直播时间不稳定",
+    "sign": "幻想社Symphony所属蓝精灵天之宫苍泽，直播时间不稳定",
     "group_name": ""
   },
   "11500298": {
@@ -13268,7 +13268,7 @@
     "type": "vtuber",
     "room": 24714381,
     "face": "/bfs/face/a28454610f8239ad7aaa6b4ead22eae47271466b.jpg",
-    "sign": "【No上舰】来自魔界的社畜狼，个狼势出道预备中…",
+    "sign": "来自魔界的社畜狼，个狼势出道预备中…",
     "group_name": ""
   },
   "11655582": {
@@ -15028,7 +15028,7 @@
     "type": "vtuber",
     "room": 1082335,
     "face": "/bfs/face/cc8d31dc3258fe27cff7e87532fde03d71783d63.jpg",
-    "sign": "",
+    "sign": "不能遗忘",
     "group_name": ""
   },
   "15097846": {
@@ -16708,7 +16708,7 @@
     "type": "vtuber",
     "room": 2538952,
     "face": "/bfs/face/f21f5c83929bdd400fe1748ec1f61712bf0daeee.jpg",
-    "sign": "陪玩私信",
+    "sign": " 陪玩私信",
     "group_name": ""
   },
   "20920382": {
@@ -16732,7 +16732,7 @@
     "type": "vtuber",
     "room": 70429,
     "face": "/bfs/face/2722f7c7be8082c16083354a0b6a50a36d9f75be.jpg",
-    "sign": "『北立交桥-冬日之家』所属\n是冠蓝鸦，九月周年新衣筹备中\n感谢你的喜欢和支持",
+    "sign": "『北立交桥-冬日之家』所属\n是冠蓝鸦，感谢你的喜欢和支持",
     "group_name": ""
   },
   "21139669": {
@@ -17155,8 +17155,8 @@
     "name": "祢礼Miri",
     "type": "vtuber",
     "room": 4757784,
-    "face": "/bfs/face/68c5a960afcffef20b18b6b93a7c57a872594957.jpg",
-    "sign": "个人势偶像 coser 主持 @Dazzling_Black黑曜 主唱 虚拟现实双线活动中 一般23点啵啵",
+    "face": "/bfs/face/c896bc278b367a2594ff334331e25733b7af0d57.jpg",
+    "sign": "个人势偶像 coser 主持 @Dazzling_Black黑曜 主唱 ",
     "group_name": ""
   },
   "22612759": {
@@ -18268,7 +18268,7 @@
     "type": "vtuber",
     "room": 169669,
     "face": "/bfs/face/5099fb6644d4fd608661699d2ff76b5d2fbebc10.jpg",
-    "sign": "好好生活，多多看书，快乐游戏！日常在充电动态喵～",
+    "sign": "退役oier。我很可爱，沙比退散！日常在充电动态喵～",
     "group_name": ""
   },
   "27740107": {
@@ -21732,7 +21732,7 @@
     "type": "vtuber",
     "room": 14093515,
     "face": "/bfs/face/ffcc48bca80cc431f4f3d1e9be71d9149fbc4311.jpg",
-    "sign": "我是帕苏卡露。",
+    "sign": "你好，我是帕苏卡露。",
     "group_name": ""
   },
   "78779766": {
@@ -23316,7 +23316,7 @@
     "type": "vtuber",
     "room": 21570295,
     "face": "/bfs/face/debe23cd6598c77ce2242829bfae3f4a369a7df2.jpg",
-    "sign": "随缘直播中！",
+    "sign": "oi",
     "group_name": "Providence"
   },
   "148885908": {
@@ -24932,7 +24932,7 @@
     "type": "vtuber",
     "room": 7095914,
     "face": "/bfs/face/33c9301b2ddef0f1cd89c12e96191ef59c53a9b1.jpg",
-    "sign": "个人杂谈势…游历在人间的猫妖郡主\n接Vup立绘建模一条龙，高精商用500起，可在工坊下单",
+    "sign": "接Vup立绘建模一条龙，横插竖插舰长礼物\n个人杂谈势…游历在人间的猫妖郡主\n",
     "group_name": ""
   },
   "258592987": {
@@ -29652,7 +29652,7 @@
     "type": "vtuber",
     "room": 23426285,
     "face": "/bfs/face/4607e7b2d60e40ac5bb4ee16729fdf7bd0893822.jpg",
-    "sign": "流星亮起来，不输日月。直播时间：早7-10晚8-10",
+    "sign": "流星亮起来，不输日月。直播时间：早7-10晚8-10，每周定休会发动态。",
     "group_name": ""
   },
   "399925144": {
@@ -41612,7 +41612,7 @@
     "type": "vtuber",
     "room": 30291644,
     "face": "/bfs/face/dab3112f115287e77f6719b03354dfd87abc94a3.jpg",
-    "sign": "⭐个人势⭐杂谈⭐群号：887552935⭐出现时间：后半夜or早上⭐",
+    "sign": "⭐个人势⭐杂谈⭐群号：887552935⭐出现时间：下午or半夜⭐",
     "group_name": ""
   },
   "1007610267": {
@@ -42060,7 +42060,7 @@
     "type": "vtuber",
     "room": 23758844,
     "face": "/bfs/face/7902dcb4f0518b4ae88996d5428fe76a8bb5d690.jpg",
-    "sign": "音乐会治愈一切",
+    "sign": "音乐会治愈一切 \n「中午12:30-14:30」\n",
     "group_name": ""
   },
   "1044308417": {
@@ -48836,7 +48836,7 @@
     "type": "vtuber",
     "room": 25367257,
     "face": "/bfs/face/05d9283e9a17645f2005aaa158625119940533d2.jpg",
-    "sign": "ฅ个妖势  祝你天天开心",
+    "sign": "我对无尽夏的海许愿 希望你越来越开心",
     "group_name": ""
   },
   "1627170029": {
@@ -54596,7 +54596,7 @@
     "type": "vtuber",
     "room": 30182969,
     "face": "/bfs/face/21c7fd44387ba90230a1b4d98cddf626b7998689.jpg",
-    "sign": "◆和病魔战斗中 ◆旧企鹅号密码忘了，有问题请私信！粉丝群：550688092",
+    "sign": "◆手术恢复中 ◆旧企鹅号密码忘了，有问题请私信！粉丝群：550688092",
     "group_name": "Providence"
   },
   "2103339232": {
@@ -54936,10 +54936,10 @@
     "group_name": ""
   },
   "2127961288": {
-    "name": "不爱吃鱼咲咲",
+    "name": "自傷無色i",
     "type": "vtuber",
     "room": 23391119,
-    "face": "/bfs/face/35205543c3c0e94d2aaac489c0c976e55c359b0f.jpg",
+    "face": "/bfs/face/f87e5a5fc5e70355ec3afd5c5df48d19bb6bd3a3.jpg",
     "sign": "新号关注大尾巴咲咲！直播也在——",
     "group_name": ""
   },
@@ -56027,7 +56027,7 @@
     "name": "谛听Hell",
     "type": "vtuber",
     "room": 26904114,
-    "face": "/bfs/face/c00c3f5722318630c18db57516c86908d425aac6.jpg",
+    "face": "/bfs/face/d4cf6ee398ab1c5ce4547c92a7d8d0756d4be411.jpg",
     "sign": " 啵啵在?\n听潮阁.礼歌手！\n可爱的神兽谛听\n混沌系唱见小男孩\n超级无敌混沌怪话王！",
     "group_name": ""
   },
@@ -57196,7 +57196,7 @@
     "type": "vtuber",
     "room": 26990269,
     "face": "/bfs/face/866b06c98c0f2073bacffa14b78bf5c6d6575502.jpg",
-    "sign": "周六日下午5点播～",
+    "sign": "周六日下午6点播～",
     "group_name": ""
   },
   "3493104516598670": {
@@ -58268,7 +58268,7 @@
     "type": "vtuber",
     "room": 26904541,
     "face": "/bfs/face/b5274a2f6b7ce78f7a627c80992b131751b2f3f0.jpg",
-    "sign": "变成电子幽灵鸟啦！",
+    "sign": "",
     "group_name": ""
   },
   "3493122277379029": {
@@ -58284,7 +58284,7 @@
     "type": "vtuber",
     "room": 27029536,
     "face": "/bfs/face/3a03ddddfa433e63597d7b9fca263e9a2d49de49.jpg",
-    "sign": "此号已休眠，不定时开播，希望大家还能记得我",
+    "sign": "贩卖烟火气的老板娘回来了。",
     "group_name": ""
   },
   "3493122732460082": {
@@ -64051,7 +64051,7 @@
     "name": "合鸟稚雪",
     "type": "vtuber",
     "room": 30097617,
-    "face": "/bfs/face/d9b03c3d1a065850de5acb8198e4773a9d9ee4d8.jpg",
+    "face": "/bfs/face/745507bdd2ed8169fc1d29dadcf8a34c57821dbd.jpg",
     "sign": "",
     "group_name": ""
   },
@@ -64372,7 +64372,7 @@
     "type": "vtuber",
     "room": 27929670,
     "face": "/bfs/face/7c89e381f8a932d92433a0a0496599388b22d57e.jpg",
-    "sign": "周六下午播。\n个人势无挂靠工会，感谢喜欢！\n通知群818037065",
+    "sign": "停播中",
     "group_name": ""
   },
   "3494352850520223": {
@@ -67468,7 +67468,7 @@
     "type": "vtuber",
     "room": 30914591,
     "face": "/bfs/face/e55c23f199a45af4fedc1ac41dd84f4bca993d34.jpg",
-    "sign": "同属于虚拟CN林业局总部与『极光社』的特派专员｜配音杂谈势｜声音特殊的男性紫貂Omega",
+    "sign": "同属于虚拟CN林业局总部与『极光社』的特派专员兼CV｜配音杂谈势｜音色特殊的男性紫貂Omega",
     "group_name": ""
   },
   "3537116009073204": {
@@ -67808,10 +67808,10 @@
     "group_name": ""
   },
   "3537123468642514": {
-    "name": "樱桃桃桃桃桃333",
+    "name": "樱丸桃桃酱",
     "type": "vtuber",
     "room": 30663272,
-    "face": "/bfs/face/cb9ebecd273fcd9aaa4a794019ddbcac3a536c1b.jpg",
+    "face": "/bfs/face/378e64c0486096b10cd58fe3f54fdd69be38c11f.jpg",
     "sign": "",
     "group_name": ""
   },
