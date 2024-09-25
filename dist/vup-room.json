@@ -20432,6 +20432,13 @@
     "face": "/bfs/face/aab1f624100c2b2208e03bd97c08add3f6c6042c.jpg",
     "group_name": ""
   },
+  "150557181": {
+    "name": "井伊木木",
+    "type": "vtuber",
+    "room_id": 5056834,
+    "face": "/bfs/face/d17297e8328a285d469729a640746b31ce01ce7a.jpg",
+    "group_name": "GravityS Project"
+  },
   "152081108": {
     "name": "阿音睡不饱",
     "type": "vtuber",
@@ -24316,6 +24323,13 @@
     "room_id": 22188042,
     "face": "/bfs/face/939baa10ba17a3c83d744e76462ade198c5a7087.jpg",
     "group_name": "Palette"
+  },
+  "361754088": {
+    "name": "GravityS_Project",
+    "type": "group",
+    "room_id": 0,
+    "face": "/bfs/face/00f21774d971b36b22f6d52cee02ed10df225a5d.jpg",
+    "group_name": ""
   },
   "361916885": {
     "name": "希爱Noah",
@@ -30860,7 +30874,7 @@
     "type": "vtuber",
     "room_id": 27419382,
     "face": "/bfs/face/18cbfe5e4137cbce7c3831fa87e2a66ecd06011c.jpg",
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   "499198187": {
     "name": "游侠曙星_安东卫",
@@ -33086,7 +33100,7 @@
     "type": "vtuber",
     "room_id": 30318705,
     "face": "/bfs/face/70556b698bdc33884917d165d876d86ec559c9c7.jpg",
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   "587953984": {
     "name": "如月みう",
@@ -40130,6 +40144,13 @@
     "face": "/bfs/face/2412bde237e741bcba450269e3c5ca083cb54e7d.jpg",
     "group_name": ""
   },
+  "1374298948": {
+    "name": "知郁ukiyo",
+    "type": "vtuber",
+    "room_id": 32124956,
+    "face": "/bfs/face/25ac7a1de5a1fa6ddb3a8ab240c5998bd4f2c97b.jpg",
+    "group_name": ""
+  },
   "1374491792": {
     "name": "茗烟nyanya",
     "type": "vtuber",
@@ -46115,6 +46136,13 @@
     "face": "/bfs/face/6e0ec185f4fb2d7ce657fdb7811b536c53a8ee24.jpg",
     "group_name": ""
   },
+  "1945855008": {
+    "name": "゚良人",
+    "type": "vtuber",
+    "room_id": 24600035,
+    "face": "/bfs/baselabs/7b8459e8d1e218c481597888ec87e8547c7f7189.png",
+    "group_name": ""
+  },
   "1947024575": {
     "name": "胡桃果粒",
     "type": "vtuber",
@@ -49461,6 +49489,13 @@
     "face": "/bfs/face/d7fcfff0ddef5bde15f2185d2967da60ffec36c2.jpg",
     "group_name": ""
   },
+  "3493083515718327": {
+    "name": "尹小喵",
+    "type": "vtuber",
+    "room_id": 26451114,
+    "face": "/bfs/face/2990566563a3b64938ce3027e4de7ef90a28c6d1.jpg",
+    "group_name": ""
+  },
   "3493083628964730": {
     "name": "小如饱",
     "type": "vtuber",
@@ -51545,7 +51580,7 @@
     "type": "vtuber",
     "room_id": 27048256,
     "face": "/bfs/face/43fd23ef0f01ea9de71dff444d2e6c660744be57.jpg",
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   "3493132758944202": {
     "name": "香菜疯疯",
@@ -52861,7 +52896,7 @@
     "type": "vtuber",
     "room_id": 27327033,
     "face": "/bfs/face/5939e2b5f56aeec77935873fe708970f71ae3c3b.jpg",
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   "3493258929899672": {
     "name": "海狄亚Hydea",
@@ -54548,7 +54583,7 @@
     "type": "vtuber",
     "room_id": 27585820,
     "face": "/bfs/face/9e45d4e14fbf0c0e3f6e3d5b54539eb2f6b3f102.jpg",
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   "3493279427463866": {
     "name": "等我考叁铃蛋铃蛋了",
@@ -55696,7 +55731,7 @@
     "type": "vtuber",
     "room_id": 30037007,
     "face": "/bfs/face/8a2c448fcb4ccde1301cb262a4f76b419e17b691.jpg",
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   "3493294879280043": {
     "name": "叶子ye_Leaf",
@@ -56641,6 +56676,13 @@
     "type": "vtuber",
     "room_id": 30294376,
     "face": "/bfs/face/5edff9d235a930f6f83bac6940642fed082b34e2.jpg",
+    "group_name": ""
+  },
+  "3494355505514666": {
+    "name": "伊莉丝Iris_",
+    "type": "vtuber",
+    "room_id": 27953824,
+    "face": "/bfs/face/0c30163e4d773a7d338e47cb62a83bbf16255f3c.jpg",
     "group_name": ""
   },
   "3494355551652132": {
@@ -57650,6 +57692,13 @@
     "room_id": 30163534,
     "face": "/bfs/face/c0b9be783d73b08a48a99477b14f582bf29d2e67.jpg",
     "group_name": ""
+  },
+  "3494368656754834": {
+    "name": "朵狸娅Dolleya",
+    "type": "vtuber",
+    "room_id": 30259061,
+    "face": "/bfs/face/1b02e170de90efa83da0b303af7b389cc9c003f1.jpg",
+    "group_name": "GravityS Project"
   },
   "3494368679823768": {
     "name": "麦门永存喵",
@@ -59618,6 +59667,13 @@
     "face": "/bfs/face/699cbc2e92e6684cdb1a7dc15755d3219890abc7.jpg",
     "group_name": ""
   },
+  "3546380985436790": {
+    "name": "绫世Ayase",
+    "type": "vtuber",
+    "room_id": 30794104,
+    "face": "/bfs/face/ac0d35527f2cfc06aa7d977091baf56c9a573fd8.jpg",
+    "group_name": "GravityS Project"
+  },
   "3546381048350924": {
     "name": "晴人honey_",
     "type": "vtuber",
@@ -59630,7 +59686,7 @@
     "type": "vtuber",
     "room_id": 30775735,
     "face": "/bfs/face/89540e7847bb114fc59edd2e8eef04c14fea31f3.jpg",
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   "3546381234998027": {
     "name": "鹿弈Nui",
@@ -60451,6 +60507,13 @@
     "face": "/bfs/face/38d0c32b2f743e4d3ee14faacaf29567642e5a53.jpg",
     "group_name": ""
   },
+  "3546582096021875": {
+    "name": "苡理Yili",
+    "type": "vtuber",
+    "room_id": 32068981,
+    "face": "/bfs/face/008b8f02ce54aa0e8dc2a22b21a84a56843635f8.jpg",
+    "group_name": "GravityS Project"
+  },
   "3546583383673229": {
     "name": "甜酒味小莓",
     "type": "vtuber",
@@ -60519,6 +60582,13 @@
     "type": "vtuber",
     "room_id": 31440551,
     "face": "/bfs/face/8726dcf7c863dc775b3f16ec8e3d063791e2c7e4.jpg",
+    "group_name": ""
+  },
+  "3546586510527350": {
+    "name": "弥砂Nagi",
+    "type": "vtuber",
+    "room_id": 31440945,
+    "face": "/bfs/face/4580d7ba8bf45464606a4663495562b6187033b1.jpg",
     "group_name": ""
   },
   "3546588601387602": {
@@ -61011,6 +61081,13 @@
     "face": "/bfs/face/f35923c40b774270c413ec867a98f42ac5429f36.jpg",
     "group_name": "追光社"
   },
+  "3546636036868257": {
+    "name": "茉莱MooLy",
+    "type": "vtuber",
+    "room_id": 32433465,
+    "face": "/bfs/face/ae6d871025130401f96c4c0585044fddb60fddf1.jpg",
+    "group_name": "GravityS Project"
+  },
   "3546636565351393": {
     "name": "野心与伱",
     "type": "vtuber",
@@ -61052,6 +61129,13 @@
     "room_id": 32130102,
     "face": "/bfs/face/77faf2ef3f4ba01ee87ef7ae0990eb08535d13d0.jpg",
     "group_name": "NOA Talent"
+  },
+  "3546638899481364": {
+    "name": "默伊Moe",
+    "type": "vtuber",
+    "room_id": 32155459,
+    "face": "/bfs/face/e5cd6a77aa1eca4fecbf4a06530313eac8cae557.jpg",
+    "group_name": ""
   },
   "3546642730977575": {
     "name": "哆啦不炸毛",
@@ -61144,6 +61228,13 @@
     "face": "/bfs/face/c9db474a5d7f70901af94656e609be0c6167745f.jpg",
     "group_name": ""
   },
+  "3546658751122276": {
+    "name": "水镜Beryl",
+    "type": "vtuber",
+    "room_id": 32456705,
+    "face": "/bfs/face/c49fe203f1dc141fee5a4387095105a9e97137ea.jpg",
+    "group_name": "天枢project"
+  },
   "3546664549747467": {
     "name": "云母沫雪",
     "type": "vtuber",
@@ -61165,6 +61256,13 @@
     "face": "/bfs/face/4e4caecd8df79a657bed9a99de50c12a9ee9584a.jpg",
     "group_name": ""
   },
+  "3546668995709215": {
+    "name": "三昧妙妙",
+    "type": "vtuber",
+    "room_id": 1843661928,
+    "face": "/bfs/face/a24be83a83bf5d0c7ce417bee51cea4bc6a0ec42.jpg",
+    "group_name": "GravityS Project"
+  },
   "3546669673089060": {
     "name": "夕雾Yae_YugiriYae",
     "type": "vtuber",
@@ -61177,6 +61275,13 @@
     "type": "vtuber",
     "room_id": 1883627615,
     "face": "/bfs/face/70f87b502a8cdf98f6aace2176c6be6f97184133.jpg",
+    "group_name": ""
+  },
+  "3546676390267608": {
+    "name": "贝崽_babe",
+    "type": "vtuber",
+    "room_id": 32676041,
+    "face": "/bfs/face/41aa526281df682b6efacf6528cd224d44804ae1.jpg",
     "group_name": ""
   },
   "3546677000538443": {
@@ -61298,11 +61403,39 @@
     "face": "/bfs/face/8931e880f817cbc674c35c6cb9481871f400f358.jpg",
     "group_name": ""
   },
+  "3546700497029224": {
+    "name": "雾中雨Rain",
+    "type": "vtuber",
+    "room_id": 1766907266,
+    "face": "/bfs/face/3071b2cb9ead68b33ace7bb24076fe74d0f3bc65.jpg",
+    "group_name": ""
+  },
   "3546700501224312": {
     "name": "Nyanners_喵娜丝",
     "type": "vtuber",
     "room_id": 1820702557,
     "face": "/bfs/face/4ba263de8f050558d3a5f7b8e28c66e7bb3df9ef.jpg",
+    "group_name": ""
+  },
+  "3546701453330495": {
+    "name": "晴音_Melody",
+    "type": "vtuber",
+    "room_id": 1766903258,
+    "face": "/bfs/face/1b8b0bb16f0d0d8a513301b3a32cec09c6d7e4c6.jpg",
+    "group_name": ""
+  },
+  "3546702812285878": {
+    "name": "紫苏丸maru",
+    "type": "vtuber",
+    "room_id": 1842203829,
+    "face": "/bfs/face/4c6d89bc9afa5b343a55a38da5372d8d2b237018.jpg",
+    "group_name": "GravityS Project"
+  },
+  "3546706215962648": {
+    "name": "纸条kitty-恩师桂木",
+    "type": "vtuber",
+    "room_id": 1882305255,
+    "face": "/bfs/face/9005c29009e4b64dcb727e2aa3628ca486164c27.jpg",
     "group_name": ""
   },
   "3546706689919353": {

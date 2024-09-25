@@ -20433,6 +20433,13 @@
     "group_name": ""
   },
   {
+    "uid": 150557181,
+    "name": "井伊木木",
+    "type": "vtuber",
+    "room": 5056834,
+    "group_name": "GravityS Project"
+  },
+  {
     "uid": 152081108,
     "name": "阿音睡不饱",
     "type": "vtuber",
@@ -24316,6 +24323,13 @@
     "type": "vtuber",
     "room": 22188042,
     "group_name": "Palette"
+  },
+  {
+    "uid": 361754088,
+    "name": "GravityS_Project",
+    "type": "group",
+    "room": 0,
+    "group_name": ""
   },
   {
     "uid": 361916885,
@@ -30860,7 +30874,7 @@
     "name": "野里Nosato",
     "type": "vtuber",
     "room": 27419382,
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   {
     "uid": 499198187,
@@ -33086,7 +33100,7 @@
     "name": "晴小绮Koyki",
     "type": "vtuber",
     "room": 30318705,
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   {
     "uid": 587953984,
@@ -40131,6 +40145,13 @@
     "group_name": ""
   },
   {
+    "uid": 1374298948,
+    "name": "知郁ukiyo",
+    "type": "vtuber",
+    "room": 32124956,
+    "group_name": ""
+  },
+  {
     "uid": 1374491792,
     "name": "茗烟nyanya",
     "type": "vtuber",
@@ -46116,6 +46137,13 @@
     "group_name": ""
   },
   {
+    "uid": 1945855008,
+    "name": "゚良人",
+    "type": "vtuber",
+    "room": 24600035,
+    "group_name": ""
+  },
+  {
     "uid": 1947024575,
     "name": "胡桃果粒",
     "type": "vtuber",
@@ -49462,6 +49490,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493083515718327,
+    "name": "尹小喵",
+    "type": "vtuber",
+    "room": 26451114,
+    "group_name": ""
+  },
+  {
     "uid": 3493083628964730,
     "name": "小如饱",
     "type": "vtuber",
@@ -51545,7 +51580,7 @@
     "name": "丘米芽Mia",
     "type": "vtuber",
     "room": 27048256,
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   {
     "uid": 3493132758944202,
@@ -52861,7 +52896,7 @@
     "name": "嗷乌塔塔",
     "type": "vtuber",
     "room": 27327033,
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   {
     "uid": 3493258929899672,
@@ -54548,7 +54583,7 @@
     "name": "玻璃Bori",
     "type": "vtuber",
     "room": 27585820,
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   {
     "uid": 3493279427463866,
@@ -55696,7 +55731,7 @@
     "name": "幻娜Hana",
     "type": "vtuber",
     "room": 30037007,
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   {
     "uid": 3493294879280043,
@@ -56641,6 +56676,13 @@
     "name": "-大咩-",
     "type": "vtuber",
     "room": 30294376,
+    "group_name": ""
+  },
+  {
+    "uid": 3494355505514666,
+    "name": "伊莉丝Iris_",
+    "type": "vtuber",
+    "room": 27953824,
     "group_name": ""
   },
   {
@@ -57650,6 +57692,13 @@
     "type": "vtuber",
     "room": 30163534,
     "group_name": ""
+  },
+  {
+    "uid": 3494368656754834,
+    "name": "朵狸娅Dolleya",
+    "type": "vtuber",
+    "room": 30259061,
+    "group_name": "GravityS Project"
   },
   {
     "uid": 3494368679823768,
@@ -59619,6 +59668,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546380985436790,
+    "name": "绫世Ayase",
+    "type": "vtuber",
+    "room": 30794104,
+    "group_name": "GravityS Project"
+  },
+  {
     "uid": 3546381048350924,
     "name": "晴人honey_",
     "type": "vtuber",
@@ -59630,7 +59686,7 @@
     "name": "桃井梨梨",
     "type": "vtuber",
     "room": 30775735,
-    "group_name": ""
+    "group_name": "GravityS Project"
   },
   {
     "uid": 3546381234998027,
@@ -60452,6 +60508,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546582096021875,
+    "name": "苡理Yili",
+    "type": "vtuber",
+    "room": 32068981,
+    "group_name": "GravityS Project"
+  },
+  {
     "uid": 3546583383673229,
     "name": "甜酒味小莓",
     "type": "vtuber",
@@ -60519,6 +60582,13 @@
     "name": "柚柚子Official",
     "type": "vtuber",
     "room": 31440551,
+    "group_name": ""
+  },
+  {
+    "uid": 3546586510527350,
+    "name": "弥砂Nagi",
+    "type": "vtuber",
+    "room": 31440945,
     "group_name": ""
   },
   {
@@ -61012,6 +61082,13 @@
     "group_name": "追光社"
   },
   {
+    "uid": 3546636036868257,
+    "name": "茉莱MooLy",
+    "type": "vtuber",
+    "room": 32433465,
+    "group_name": "GravityS Project"
+  },
+  {
     "uid": 3546636565351393,
     "name": "野心与伱",
     "type": "vtuber",
@@ -61052,6 +61129,13 @@
     "type": "vtuber",
     "room": 32130102,
     "group_name": "NOA Talent"
+  },
+  {
+    "uid": 3546638899481364,
+    "name": "默伊Moe",
+    "type": "vtuber",
+    "room": 32155459,
+    "group_name": ""
   },
   {
     "uid": 3546642730977575,
@@ -61145,6 +61229,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546658751122276,
+    "name": "水镜Beryl",
+    "type": "vtuber",
+    "room": 32456705,
+    "group_name": "天枢project"
+  },
+  {
     "uid": 3546664549747467,
     "name": "云母沫雪",
     "type": "vtuber",
@@ -61166,6 +61257,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546668995709215,
+    "name": "三昧妙妙",
+    "type": "vtuber",
+    "room": 1843661928,
+    "group_name": "GravityS Project"
+  },
+  {
     "uid": 3546669673089060,
     "name": "夕雾Yae_YugiriYae",
     "type": "vtuber",
@@ -61177,6 +61275,13 @@
     "name": "啵比Bobby瘦2斤了",
     "type": "vtuber",
     "room": 1883627615,
+    "group_name": ""
+  },
+  {
+    "uid": 3546676390267608,
+    "name": "贝崽_babe",
+    "type": "vtuber",
+    "room": 32676041,
     "group_name": ""
   },
   {
@@ -61299,10 +61404,38 @@
     "group_name": ""
   },
   {
+    "uid": 3546700497029224,
+    "name": "雾中雨Rain",
+    "type": "vtuber",
+    "room": 1766907266,
+    "group_name": ""
+  },
+  {
     "uid": 3546700501224312,
     "name": "Nyanners_喵娜丝",
     "type": "vtuber",
     "room": 1820702557,
+    "group_name": ""
+  },
+  {
+    "uid": 3546701453330495,
+    "name": "晴音_Melody",
+    "type": "vtuber",
+    "room": 1766903258,
+    "group_name": ""
+  },
+  {
+    "uid": 3546702812285878,
+    "name": "紫苏丸maru",
+    "type": "vtuber",
+    "room": 1842203829,
+    "group_name": "GravityS Project"
+  },
+  {
+    "uid": 3546706215962648,
+    "name": "纸条kitty-恩师桂木",
+    "type": "vtuber",
+    "room": 1882305255,
     "group_name": ""
   },
   {
