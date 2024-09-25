@@ -20692,7 +20692,7 @@
     "group_name": ""
   },
   "168729865": {
-    "name": "喵皇又又_yoyo",
+    "name": "喵皇又的总督",
     "type": "vtuber",
     "room": 30395250,
     "face": "/bfs/face/5603bf6ac719c67f17db50375b5e121e13a28581.jpg",
@@ -21488,6 +21488,13 @@
     "room": 21746921,
     "face": "/bfs/face/a5ba5427046fe2faf398e6cedc15f95ba0352234.jpg",
     "group_name": "YahooTV"
+  },
+  "235999995": {
+    "name": "早乙兔Saototo",
+    "type": "vtuber",
+    "room": 27945043,
+    "face": "/bfs/face/4729119436d173a9501e28d632fea77c2901a763.jpg",
+    "group_name": ""
   },
   "237140787": {
     "name": "小紫才没有摸鱼",
