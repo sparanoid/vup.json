@@ -56027,6 +56027,13 @@
     "face": "/bfs/face/1db9db39f09109ae85a84288f0af275416a393f7.jpg",
     "group_name": ""
   },
+  "3493298528324278": {
+    "name": "清橘儿",
+    "type": "vtuber",
+    "room": 30256876,
+    "face": "/bfs/face/abc20dea0949319b0bd629269b18e95bc5742889.jpg",
+    "group_name": ""
+  },
   "3493298551392363": {
     "name": "冰羽机录播号",
     "type": "vtuber",
@@ -57561,7 +57568,7 @@
     "group_name": ""
   },
   "3494367016781881": {
-    "name": "米芙Meave",
+    "name": "米芙Meave_破碎版",
     "type": "vtuber",
     "room": 31865551,
     "face": "/bfs/face/e3f25168f85872c577b1bfc2f2bee79f670df81d.jpg",
@@ -61137,6 +61144,13 @@
     "face": "/bfs/face/e5cd6a77aa1eca4fecbf4a06530313eac8cae557.jpg",
     "group_name": ""
   },
+  "3546642479319590": {
+    "name": "雪初SnowFox",
+    "type": "vtuber",
+    "room": 1731253073,
+    "face": "/bfs/face/d4d1b8a6879edc9ced5c4b94de23637ca912fa29.jpg",
+    "group_name": ""
+  },
   "3546642730977575": {
     "name": "哆啦不炸毛",
     "type": "vtuber",
@@ -61256,6 +61270,13 @@
     "face": "/bfs/face/4e4caecd8df79a657bed9a99de50c12a9ee9584a.jpg",
     "group_name": ""
   },
+  "3546665002731879": {
+    "name": "多萝希儿Dorothy",
+    "type": "vtuber",
+    "room": 1828276931,
+    "face": "/bfs/face/2196c7b854f055e540a0cd07571ece2d43c81b4a.jpg",
+    "group_name": ""
+  },
   "3546668995709215": {
     "name": "三昧妙妙",
     "type": "vtuber",
@@ -61268,6 +61289,13 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/e76e27f1aed41ef5b5b74e3431808f841ba7268f.jpg",
+    "group_name": ""
+  },
+  "3546671491320308": {
+    "name": "我妻幼雪Yukiko",
+    "type": "vtuber",
+    "room": 32627225,
+    "face": "/bfs/face/6721268212192d0e016ad9adc016f53b4b8a286f.jpg",
     "group_name": ""
   },
   "3546673575889391": {
@@ -61374,6 +61402,13 @@
     "room": 1856171886,
     "face": "/bfs/face/aebbb6ccebb6b5d3c84a32785113f9dbc1ac74be.jpg",
     "group_name": "猫邮社"
+  },
+  "3546696921385143": {
+    "name": "乐怡lili_",
+    "type": "vtuber",
+    "room": 1752664819,
+    "face": "/bfs/face/de22783e998d852fa6685fa8b43d2d634cc95b22.jpg",
+    "group_name": ""
   },
   "3546697909143720": {
     "name": "Sayu_纱羽",
@@ -61514,6 +61549,13 @@
     "room": 1811409016,
     "face": "/bfs/face/8cf32e353e3b9a595af1785235db66dec1ae0312.jpg",
     "group_name": "枝江娱乐"
+  },
+  "3546736811313456": {
+    "name": "陆艽Datura",
+    "type": "vtuber",
+    "room": 1952676854,
+    "face": "/bfs/face/8717619a7d5635818790b3c594250a0571673ad4.jpg",
+    "group_name": ""
   },
   "3546743637543742": {
     "name": "水溶桃桃",
