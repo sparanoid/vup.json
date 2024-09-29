@@ -35916,6 +35916,13 @@
     "face": "/bfs/face/20d41ce2fa4ac1bc11ea8ed361690c9c19dd2a48.jpg",
     "group_name": ""
   },
+  "693875886": {
+    "name": "栀鸢Chilali",
+    "type": "vtuber",
+    "room_id": 31757506,
+    "face": "/bfs/face/2a90f4fe1a61238e5fda24241adbb55400aab479.jpg",
+    "group_name": ""
+  },
   "694269763": {
     "name": "芙奈Funa",
     "type": "vtuber",
@@ -47606,6 +47613,13 @@
     "face": "/bfs/face/41fe38f9fd145fc1c53b9b565e618e62b201a26d.jpg",
     "group_name": ""
   },
+  "2089622075": {
+    "name": "栀空翼Astra",
+    "type": "vtuber",
+    "room_id": 32107510,
+    "face": "/bfs/face/3fa2bda1f40a1fbd83bc4a3e76c0f449a1a265ee.jpg",
+    "group_name": ""
+  },
   "2090211521": {
     "name": "鬼霧シアン_Official",
     "type": "vtuber",
@@ -55292,6 +55306,13 @@
     "face": "/bfs/face/74591582b94f20130a7ed1620db2e6cb148332a3.jpg",
     "group_name": ""
   },
+  "3493289172928881": {
+    "name": "曦娅-lucky",
+    "type": "vtuber",
+    "room_id": 1774970823,
+    "face": "/bfs/face/11bd83f50b3b5e88fbe1fdb3787fd65826ae4894.jpg",
+    "group_name": ""
+  },
   "3493289252620662": {
     "name": "十六夜Yuki_",
     "type": "vtuber",
@@ -61117,10 +61138,10 @@
     "group_name": ""
   },
   "3546636867340410": {
-    "name": "芽芽爱做梦",
+    "name": "月亮不想发芽了_",
     "type": "vtuber",
     "room_id": 32208257,
-    "face": "/bfs/face/e6e98761c014eacccdb210ca9f8860ef52ad8840.jpg",
+    "face": "/bfs/face/fc76d5d6639798e853db356de0bf648883658c49.jpg",
     "group_name": ""
   },
   "3546636984781262": {
@@ -61408,6 +61429,13 @@
     "type": "vtuber",
     "room_id": 1752664819,
     "face": "/bfs/face/de22783e998d852fa6685fa8b43d2d634cc95b22.jpg",
+    "group_name": ""
+  },
+  "3546697116420525": {
+    "name": "瑟琳娜travel",
+    "type": "vtuber",
+    "room_id": 1856179046,
+    "face": "/bfs/face/058350baf92be5c21540b0acfab91f9bc11e479e.jpg",
     "group_name": ""
   },
   "3546697909143720": {
