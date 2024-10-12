@@ -24737,6 +24737,13 @@
     "face": "/bfs/face/88babad86a0254f2b42b419973b7f5ba30fbcc06.jpg",
     "group_name": ""
   },
+  "381631287": {
+    "name": "神綺悠Yo",
+    "type": "vtuber",
+    "room_id": 32135343,
+    "face": "/bfs/face/0b51c62e7545e95451c1c4b1d1b99e6c546778e5.jpg",
+    "group_name": ""
+  },
   "381861978": {
     "name": "努力考研的小韵",
     "type": "vtuber",
@@ -57875,6 +57882,13 @@
     "face": "/bfs/face/cd61159b38023268483495d0551a5f8dd01257fc.jpg",
     "group_name": ""
   },
+  "3494369904560916": {
+    "name": "夏织纱yarn",
+    "type": "vtuber",
+    "room_id": 1725438835,
+    "face": "/bfs/face/043a3dcd4af5cf5ef66db7114bc8bc0b10545fb5.jpg",
+    "group_name": ""
+  },
   "3494369969572295": {
     "name": "瑕吕汀汀",
     "type": "vtuber",
@@ -59464,6 +59478,13 @@
     "face": "/bfs/face/a7073ff2fc3a9f4e5476b28da320c1fc526543bd.jpg",
     "group_name": ""
   },
+  "3546374337464623": {
+    "name": "秋狸Amber",
+    "type": "vtuber",
+    "room_id": 1838212234,
+    "face": "/bfs/face/9bfc1dc9104a5d09d7773aef1652498145d5594b.jpg",
+    "group_name": ""
+  },
   "3546374440225548": {
     "name": "安奇Ankie",
     "type": "vtuber",
@@ -60780,6 +60801,13 @@
     "face": "/bfs/face/9c05ee9152b8c047da6043e82e39b1996d01c0c7.jpg",
     "group_name": ""
   },
+  "3546599695321411": {
+    "name": "宫泽遥-haruka",
+    "type": "vtuber",
+    "room_id": 31637668,
+    "face": "/bfs/face/6e369c6bbacedf11a67c8b31934f82d6128d9a56.jpg",
+    "group_name": ""
+  },
   "3546599869385547": {
     "name": "仰阿音",
     "type": "vtuber",
@@ -61305,6 +61333,13 @@
     "face": "/bfs/face/2196c7b854f055e540a0cd07571ece2d43c81b4a.jpg",
     "group_name": ""
   },
+  "3546665631877592": {
+    "name": "铃兰书店",
+    "type": "vtuber",
+    "room_id": 32632062,
+    "face": "/bfs/face/647ff29ce75a12bada268c99de9bba1750bd4db3.jpg",
+    "group_name": ""
+  },
   "3546668995709215": {
     "name": "三昧妙妙",
     "type": "vtuber",
@@ -61571,6 +61606,13 @@
     "face": "/bfs/face/79530e8e1110db9cf500bb125fcd3bc3ef34a16c.jpg",
     "group_name": ""
   },
+  "3546725413292351": {
+    "name": "小清玫-Ami",
+    "type": "vtuber",
+    "room_id": 1980894985,
+    "face": "/bfs/face/14d9753613ef3e4f7c36c097600bd0ec01618769.jpg",
+    "group_name": ""
+  },
   "3546729368520811": {
     "name": "Vedal和Neuro-sama",
     "type": "vtuber",
@@ -61584,6 +61626,13 @@
     "room_id": 1811409016,
     "face": "/bfs/face/8cf32e353e3b9a595af1785235db66dec1ae0312.jpg",
     "group_name": "枝江娱乐"
+  },
+  "3546734101792934": {
+    "name": "獭可Tacoo",
+    "type": "vtuber",
+    "room_id": 1731257971,
+    "face": "/bfs/face/a5dfca2384a630f0155f2b0335c42d68dec2d003.jpg",
+    "group_name": ""
   },
   "3546736811313456": {
     "name": "陆艽Datura",
@@ -61599,11 +61648,25 @@
     "face": "/bfs/face/2d64e66a6d8aad564be455caf3ec4126e852d3b7.jpg",
     "group_name": ""
   },
+  "3546748574239385": {
+    "name": "小春雫Haruru",
+    "type": "vtuber",
+    "room_id": 1762932250,
+    "face": "/bfs/face/1f7a1935c721dc6e134dd0ff2e684b61c6a2178b.jpg",
+    "group_name": ""
+  },
   "3546758439242209": {
     "name": "_浅遇_",
     "type": "vtuber",
     "room_id": 1851394560,
     "face": "/bfs/face/13382fa80cded21a0b6c2dc40249dc0ee7bedd6b.jpg",
+    "group_name": ""
+  },
+  "3546760276347603": {
+    "name": "心缘恋Koi",
+    "type": "vtuber",
+    "room_id": 1852776583,
+    "face": "/bfs/face/f4958c9a81b830e21a63aed0a209c6c3e89145a4.jpg",
     "group_name": ""
   }
 }

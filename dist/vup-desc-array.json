@@ -31806,6 +31806,15 @@
     "group_name": ""
   },
   {
+    "uid": 381631287,
+    "name": "神綺悠Yo",
+    "type": "vtuber",
+    "room": 32135343,
+    "face": "/bfs/face/0b51c62e7545e95451c1c4b1d1b99e6c546778e5.jpg",
+    "sign": "幸运小鹿，祝大家时来运转✨",
+    "group_name": ""
+  },
+  {
     "uid": 381861978,
     "name": "努力考研的小韵",
     "type": "vtuber",
@@ -74412,6 +74421,15 @@
     "group_name": ""
   },
   {
+    "uid": 3494369904560916,
+    "name": "夏织纱yarn",
+    "type": "vtuber",
+    "room": 1725438835,
+    "face": "/bfs/face/043a3dcd4af5cf5ef66db7114bc8bc0b10545fb5.jpg",
+    "sign": "坏了！这不那谁吗！！      直播时间22:00-4:00",
+    "group_name": ""
+  },
+  {
     "uid": 3494369969572295,
     "name": "瑕吕汀汀",
     "type": "vtuber",
@@ -76455,6 +76473,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546374337464623,
+    "name": "秋狸Amber",
+    "type": "vtuber",
+    "room": 1838212234,
+    "face": "/bfs/face/9bfc1dc9104a5d09d7773aef1652498145d5594b.jpg",
+    "sign": "狸粉群：690123470",
+    "group_name": ""
+  },
+  {
     "uid": 3546374440225548,
     "name": "安奇Ankie",
     "type": "vtuber",
@@ -78147,6 +78174,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546599695321411,
+    "name": "宫泽遥-haruka",
+    "type": "vtuber",
+    "room": 31637668,
+    "face": "/bfs/face/6e369c6bbacedf11a67c8b31934f82d6128d9a56.jpg",
+    "sign": "美声歌势，直播通知群：929521005（直播时间15-20点 详见周表）唱歌好听的小鸟٩(˃̶͈̀௰˂̶͈́)و",
+    "group_name": ""
+  },
+  {
     "uid": 3546599869385547,
     "name": "仰阿音",
     "type": "vtuber",
@@ -78822,6 +78858,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546665631877592,
+    "name": "铃兰书店",
+    "type": "vtuber",
+    "room": 32632062,
+    "face": "/bfs/face/647ff29ce75a12bada268c99de9bba1750bd4db3.jpg",
+    "sign": "个人势虚拟主播，没有粉丝群。不是忧郁迷惘的文艺青年，是乐观治愈抽象严肃文学少女！",
+    "group_name": ""
+  },
+  {
     "uid": 3546668995709215,
     "name": "三昧妙妙",
     "type": "vtuber",
@@ -79164,6 +79209,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546725413292351,
+    "name": "小清玫-Ami",
+    "type": "vtuber",
+    "room": 1980894985,
+    "face": "/bfs/face/14d9753613ef3e4f7c36c097600bd0ec01618769.jpg",
+    "sign": "是个歌势（未来也许）（个人势非全职VUP)\n是猫灵里喵的最甜的，但是人间的歌还在学习～\n粉丝群715931025",
+    "group_name": ""
+  },
+  {
     "uid": 3546729368520811,
     "name": "Vedal和Neuro-sama",
     "type": "vtuber",
@@ -79180,6 +79234,15 @@
     "face": "/bfs/face/8cf32e353e3b9a595af1785235db66dec1ae0312.jpg",
     "sign": "来芙永远都是大家的好朋友~大家多来找我玩吧！",
     "group_name": "枝江娱乐"
+  },
+  {
+    "uid": 3546734101792934,
+    "name": "獭可Tacoo",
+    "type": "vtuber",
+    "room": 1731257971,
+    "face": "/bfs/face/a5dfca2384a630f0155f2b0335c42d68dec2d003.jpg",
+    "sign": "是松鼠！不是狐狸兔子驴小狗！",
+    "group_name": ""
   },
   {
     "uid": 3546736811313456,
@@ -79200,12 +79263,30 @@
     "group_name": ""
   },
   {
+    "uid": 3546748574239385,
+    "name": "小春雫Haruru",
+    "type": "vtuber",
+    "room": 1762932250,
+    "face": "/bfs/face/1f7a1935c721dc6e134dd0ff2e684b61c6a2178b.jpg",
+    "sign": "是一个喜欢唱歌画画的元气小花匠～希望大家听到我的歌声能被治愈到(❁´ω`❁)想和雫雫玩的可以加小春饼的粉丝群号：184202353",
+    "group_name": ""
+  },
+  {
     "uid": 3546758439242209,
     "name": "_浅遇_",
     "type": "vtuber",
     "room": 1851394560,
     "face": "/bfs/face/13382fa80cded21a0b6c2dc40249dc0ee7bedd6b.jpg",
     "sign": "清楚系野生钢琴主播一枚\n希望能认识更多的小伙伴\n感谢关注，感谢大家的支持",
+    "group_name": ""
+  },
+  {
+    "uid": 3546760276347603,
+    "name": "心缘恋Koi",
+    "type": "vtuber",
+    "room": 1852776583,
+    "face": "/bfs/face/f4958c9a81b830e21a63aed0a209c6c3e89145a4.jpg",
+    "sign": "恶魔驾到~嗷",
     "group_name": ""
   }
 ]

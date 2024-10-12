@@ -21203,6 +21203,12 @@
     "room": 27504676,
     "group_name": ""
   },
+  "381631287": {
+    "name": "神綺悠Yo",
+    "type": "vtuber",
+    "room": 32135343,
+    "group_name": ""
+  },
   "381861978": {
     "name": "努力考研的小韵",
     "type": "vtuber",
@@ -49607,6 +49613,12 @@
     "room": 30184699,
     "group_name": ""
   },
+  "3494369904560916": {
+    "name": "夏织纱yarn",
+    "type": "vtuber",
+    "room": 1725438835,
+    "group_name": ""
+  },
   "3494369969572295": {
     "name": "瑕吕汀汀",
     "type": "vtuber",
@@ -50969,6 +50981,12 @@
     "room": 30757029,
     "group_name": ""
   },
+  "3546374337464623": {
+    "name": "秋狸Amber",
+    "type": "vtuber",
+    "room": 1838212234,
+    "group_name": ""
+  },
   "3546374440225548": {
     "name": "安奇Ankie",
     "type": "vtuber",
@@ -52097,6 +52115,12 @@
     "room": 31702340,
     "group_name": ""
   },
+  "3546599695321411": {
+    "name": "宫泽遥-haruka",
+    "type": "vtuber",
+    "room": 31637668,
+    "group_name": ""
+  },
   "3546599869385547": {
     "name": "仰阿音",
     "type": "vtuber",
@@ -52547,6 +52571,12 @@
     "room": 1828276931,
     "group_name": ""
   },
+  "3546665631877592": {
+    "name": "铃兰书店",
+    "type": "vtuber",
+    "room": 32632062,
+    "group_name": ""
+  },
   "3546668995709215": {
     "name": "三昧妙妙",
     "type": "vtuber",
@@ -52775,6 +52805,12 @@
     "room": 1841613545,
     "group_name": ""
   },
+  "3546725413292351": {
+    "name": "小清玫-Ami",
+    "type": "vtuber",
+    "room": 1980894985,
+    "group_name": ""
+  },
   "3546729368520811": {
     "name": "Vedal和Neuro-sama",
     "type": "vtuber",
@@ -52786,6 +52822,12 @@
     "type": "vtuber",
     "room": 1811409016,
     "group_name": "枝江娱乐"
+  },
+  "3546734101792934": {
+    "name": "獭可Tacoo",
+    "type": "vtuber",
+    "room": 1731257971,
+    "group_name": ""
   },
   "3546736811313456": {
     "name": "陆艽Datura",
@@ -52799,10 +52841,22 @@
     "room": 1743357501,
     "group_name": ""
   },
+  "3546748574239385": {
+    "name": "小春雫Haruru",
+    "type": "vtuber",
+    "room": 1762932250,
+    "group_name": ""
+  },
   "3546758439242209": {
     "name": "_浅遇_",
     "type": "vtuber",
     "room": 1851394560,
+    "group_name": ""
+  },
+  "3546760276347603": {
+    "name": "心缘恋Koi",
+    "type": "vtuber",
+    "room": 1852776583,
     "group_name": ""
   }
 }
