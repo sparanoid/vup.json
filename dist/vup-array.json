@@ -13897,7 +13897,7 @@
   },
   {
     "uid": 12736926,
-    "name": "鸢児Ting-20号周年版",
+    "name": "鸢児Ting",
     "type": "vtuber",
     "room": 31141449,
     "face": "/bfs/face/b87b200df6d6b6df11ca07e59130caebe3e8b28d.jpg",
@@ -51308,7 +51308,7 @@
     "name": "零-Hanhan",
     "type": "vtuber",
     "room": 23644722,
-    "face": "/bfs/face/a09fff81ecf4dca0a017a44a0ad32c03397de6cb.jpg",
+    "face": "/bfs/face/b26ff0a8ea6a6b55c4ffe9d8d1cbffab2634ce46.jpg",
     "group_name": ""
   },
   {
@@ -54252,7 +54252,7 @@
     "name": "茶祈_Clicia",
     "type": "vtuber",
     "room": 22913192,
-    "face": "/bfs/face/a6f3e09640dd642902ab64c2fc4bb5b4ca7f0187.webp",
+    "face": "/bfs/face/907a14a549dcc53d226510839b2d78396ecec784.webp",
     "group_name": ""
   },
   {
@@ -70491,7 +70491,7 @@
     "uid": 3546692961962357,
     "name": "利香Rica_Official",
     "type": "vtuber",
-    "room": 0,
+    "room": 1829026751,
     "face": "/bfs/face/e5cd4a80fc2b931c18716ca53b0bf4adac0586d3.jpg",
     "group_name": ""
   },
@@ -70588,7 +70588,7 @@
     "name": "优羽Yuu",
     "type": "vtuber",
     "room": 1856174936,
-    "face": "/bfs/face/39e5046a4276fc2d30f35fc9b5883ec953b72534.jpg",
+    "face": "/bfs/face/53c78fd4ee1012fe409d1c58fc5d4793f9202af7.jpg",
     "group_name": ""
   },
   {
@@ -70725,6 +70725,14 @@
     "type": "vtuber",
     "room": 1854704205,
     "face": "/bfs/face/2242772952debe1aa45ab9624ba175c2ec93fd9d.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546717309897601,
+    "name": "月牙Estella",
+    "type": "vtuber",
+    "room": 1970815894,
+    "face": "/bfs/face/5f12ca3193a0bd51e760fef9aa3e99435e269a89.jpg",
     "group_name": ""
   },
   {

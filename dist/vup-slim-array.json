@@ -12160,7 +12160,7 @@
   },
   {
     "uid": 12736926,
-    "name": "鸢児Ting-20号周年版",
+    "name": "鸢児Ting",
     "type": "vtuber",
     "room": 31141449,
     "group_name": ""
@@ -61680,7 +61680,7 @@
     "uid": 3546692961962357,
     "name": "利香Rica_Official",
     "type": "vtuber",
-    "room": 0,
+    "room": 1829026751,
     "group_name": ""
   },
   {
@@ -61884,6 +61884,13 @@
     "name": "椰知栗子つ",
     "type": "vtuber",
     "room": 1854704205,
+    "group_name": ""
+  },
+  {
+    "uid": 3546717309897601,
+    "name": "月牙Estella",
+    "type": "vtuber",
+    "room": 1970815894,
     "group_name": ""
   },
   {
