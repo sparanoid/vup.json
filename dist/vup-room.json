@@ -16477,6 +16477,13 @@
     "face": "/bfs/face/c7ed8ef19737f3fad6d5355f448fa3f3df82dc33.jpg",
     "group_name": ""
   },
+  "31807853": {
+    "name": "芙老大kawa",
+    "type": "vtuber",
+    "room_id": 7589012,
+    "face": "/bfs/face/4fa77b0e5dd0976f8b218be23692d4e5a4d4188e.jpg",
+    "group_name": ""
+  },
   "31897767": {
     "name": "Volck_",
     "type": "vtuber",
@@ -17273,6 +17280,13 @@
     "type": "vtuber",
     "room_id": 1815648,
     "face": "/bfs/face/28f6805ef5d2bed7c91930659056d74d11185a26.jpg",
+    "group_name": ""
+  },
+  "37676790": {
+    "name": "阿银starry",
+    "type": "vtuber",
+    "room_id": 1033985,
+    "face": "/bfs/face/083dcb292f8d886e03a368783d4e1df93e8f7196.jpg",
     "group_name": ""
   },
   "37756047": {
@@ -25955,6 +25969,13 @@
     "face": "/bfs/face/f20a8fe7398bc052b85ab50ee815ea95490ba999.jpg",
     "group_name": ""
   },
+  "398759137": {
+    "name": "伏特Volt_Official",
+    "type": "vtuber",
+    "room_id": 21585361,
+    "face": "/bfs/face/ee4c75425a6cee9f2594b0ac284ad39462fa32d4.jpg",
+    "group_name": ""
+  },
   "398764283": {
     "name": "佐藤ココ",
     "type": "vtuber",
@@ -27486,6 +27507,13 @@
     "type": "vtuber",
     "room_id": 24308005,
     "face": "/bfs/face/51d1607120648485878cf032a02ce346f93646da.jpg",
+    "group_name": ""
+  },
+  "431509257": {
+    "name": "Jasmine彼岸茉莉",
+    "type": "vtuber",
+    "room_id": 1803297720,
+    "face": "/bfs/face/48c946cbba585a47b5df430613176645d851e6ff.jpg",
     "group_name": ""
   },
   "431533107": {
@@ -40442,7 +40470,7 @@
     "name": "月铃汐Selena",
     "type": "vtuber",
     "room_id": 26088378,
-    "face": "/bfs/face/db71ec28f558712b354ad11a4f055864056280be.jpg",
+    "face": "/bfs/face/53d1fd9a2f9aa0159b6ccb43ef224a62b04661d3.jpg",
     "group_name": ""
   },
   "1386545245": {
@@ -51974,13 +52002,6 @@
     "face": "/bfs/face/56883b1eaa7987b27ce224c3c82ef44417f82035.jpg",
     "group_name": ""
   },
-  "3493135948712823": {
-    "name": "白矮星Kirarin",
-    "type": "vtuber",
-    "room_id": 27518032,
-    "face": "/bfs/face/8be7ab9fececd4cb151ff3e77964774787001945.jpg",
-    "group_name": ""
-  },
   "3493135961295379": {
     "name": "那v宝",
     "type": "vtuber",
@@ -55003,6 +55024,13 @@
     "type": "vtuber",
     "room_id": 27735504,
     "face": "/bfs/face/ab9aa447c28baa3ad97b8b46ef13be9a48f319ad.jpg",
+    "group_name": ""
+  },
+  "3493283607088082": {
+    "name": "叶绯页",
+    "type": "vtuber",
+    "room_id": 32736947,
+    "face": "/bfs/face/0ff2501fe5f8babac70b765127c8cb7d313816f5.jpg",
     "group_name": ""
   },
   "3493283651127815": {
@@ -61039,6 +61067,13 @@
     "face": "/bfs/face/5d315ae9714a5b377d86302ca3b665d510422f83.jpg",
     "group_name": ""
   },
+  "3546601008138686": {
+    "name": "居多饱",
+    "type": "vtuber",
+    "room_id": 31651541,
+    "face": "/bfs/face/eb964688f367b806cbffd350bfc8118c554ba520.jpg",
+    "group_name": ""
+  },
   "3546602868312291": {
     "name": "Hanabi_Live",
     "type": "group",
@@ -61515,11 +61550,25 @@
     "face": "/bfs/face/1fc91d3f7c99e21785fdc1b00e5b9ca80944f10f.jpg",
     "group_name": ""
   },
+  "3546653883632229": {
+    "name": "星光Kirarin",
+    "type": "vtuber",
+    "room_id": 32378653,
+    "face": "/bfs/face/892ddb23f356a7d2f0cf1f567660ea90735df593.jpg",
+    "group_name": ""
+  },
   "3546654340810906": {
     "name": "圣芙儿",
     "type": "vtuber",
     "room_id": 32384349,
     "face": "/bfs/face/0f188d44a1fad5f5602c496cc3de4eee32f3d089.jpg",
+    "group_name": ""
+  },
+  "3546655301306499": {
+    "name": "佩提亚Pythia",
+    "type": "vtuber",
+    "room_id": 32800274,
+    "face": "/bfs/face/464719845b537f586fffb86a51a79cc83bd67e3e.jpg",
     "group_name": ""
   },
   "3546655741708943": {
@@ -61561,7 +61610,7 @@
     "name": "紗鹿Suki",
     "type": "vtuber",
     "room_id": 1878682749,
-    "face": "/bfs/face/c32bd01b1007340c035c74ce6e75f76bef005272.jpg",
+    "face": "/bfs/face/856453ea62279699cfab712f7f9346d487dada1b.jpg",
     "group_name": ""
   },
   "3546664549747467": {
@@ -61639,6 +61688,13 @@
     "type": "vtuber",
     "room_id": 32682576,
     "face": "/bfs/face/02b26644f6e7517e35676a1e7a0d051874bc0d3e.jpg",
+    "group_name": ""
+  },
+  "3546677879244804": {
+    "name": "黧温婉",
+    "type": "vtuber",
+    "room_id": 1820903035,
+    "face": "/bfs/face/65b2d3d11081b2755087fa87b42371132ff17a49.jpg",
     "group_name": ""
   },
   "3546677906508079": {

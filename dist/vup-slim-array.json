@@ -16478,6 +16478,13 @@
     "group_name": ""
   },
   {
+    "uid": 31807853,
+    "name": "芙老大kawa",
+    "type": "vtuber",
+    "room": 7589012,
+    "group_name": ""
+  },
+  {
     "uid": 31897767,
     "name": "Volck_",
     "type": "vtuber",
@@ -17273,6 +17280,13 @@
     "name": "梦宸Malex",
     "type": "vtuber",
     "room": 1815648,
+    "group_name": ""
+  },
+  {
+    "uid": 37676790,
+    "name": "阿银starry",
+    "type": "vtuber",
+    "room": 1033985,
     "group_name": ""
   },
   {
@@ -25956,6 +25970,13 @@
     "group_name": ""
   },
   {
+    "uid": 398759137,
+    "name": "伏特Volt_Official",
+    "type": "vtuber",
+    "room": 21585361,
+    "group_name": ""
+  },
+  {
     "uid": 398764283,
     "name": "佐藤ココ",
     "type": "vtuber",
@@ -27486,6 +27507,13 @@
     "name": "芥茉辣酱",
     "type": "vtuber",
     "room": 24308005,
+    "group_name": ""
+  },
+  {
+    "uid": 431509257,
+    "name": "Jasmine彼岸茉莉",
+    "type": "vtuber",
+    "room": 1803297720,
     "group_name": ""
   },
   {
@@ -51975,13 +52003,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493135948712823,
-    "name": "白矮星Kirarin",
-    "type": "vtuber",
-    "room": 27518032,
-    "group_name": ""
-  },
-  {
     "uid": 3493135961295379,
     "name": "那v宝",
     "type": "vtuber",
@@ -55003,6 +55024,13 @@
     "name": "片姨P-aunt",
     "type": "vtuber",
     "room": 27735504,
+    "group_name": ""
+  },
+  {
+    "uid": 3493283607088082,
+    "name": "叶绯页",
+    "type": "vtuber",
+    "room": 32736947,
     "group_name": ""
   },
   {
@@ -61040,6 +61068,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546601008138686,
+    "name": "居多饱",
+    "type": "vtuber",
+    "room": 31651541,
+    "group_name": ""
+  },
+  {
     "uid": 3546602868312291,
     "name": "Hanabi_Live",
     "type": "group",
@@ -61516,10 +61551,24 @@
     "group_name": ""
   },
   {
+    "uid": 3546653883632229,
+    "name": "星光Kirarin",
+    "type": "vtuber",
+    "room": 32378653,
+    "group_name": ""
+  },
+  {
     "uid": 3546654340810906,
     "name": "圣芙儿",
     "type": "vtuber",
     "room": 32384349,
+    "group_name": ""
+  },
+  {
+    "uid": 3546655301306499,
+    "name": "佩提亚Pythia",
+    "type": "vtuber",
+    "room": 32800274,
     "group_name": ""
   },
   {
@@ -61639,6 +61688,13 @@
     "name": "莵梓",
     "type": "vtuber",
     "room": 32682576,
+    "group_name": ""
+  },
+  {
+    "uid": 3546677879244804,
+    "name": "黧温婉",
+    "type": "vtuber",
+    "room": 1820903035,
     "group_name": ""
   },
   {
