@@ -3253,7 +3253,7 @@
     "name": "特莉丝忒",
     "type": "vtuber",
     "room": 3725076,
-    "face": "/bfs/face/9c3783a7da1a993a1ed296a6559cc0515a5211e8.jpg",
+    "face": "/bfs/face/606f5895aed382fc1c761423fd78bd43efc50d87.jpg",
     "sign": "依旧是兴趣使然的教廷魔女，虽知不应有期待，但也希望能被一小撮人喜欢。",
     "group_name": ""
   },
@@ -24323,7 +24323,7 @@
     "type": "vtuber",
     "room": 14462248,
     "face": "/bfs/face/3e370a6682b8c3f8782b8507d2cd47ebd4120ef2.jpg",
-    "sign": "以歌声治愈万物的苗族祭司，个人势，谢谢您的收听。",
+    "sign": "以歌声治愈万物的苗族祭司，个人势，谢谢您的收听。直播时间：13-14，22-24。",
     "group_name": ""
   },
   {
@@ -42427,11 +42427,11 @@
   },
   {
     "uid": 567469706,
-    "name": "娅墨Channel",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 22300526,
-    "face": "/bfs/face/1b3016ff0603791ebf84c5702fe61b06ece77237.jpg",
-    "sign": "kenlos所属 惹我生气的话，就把你的心脏拿来赎罪吧\n娅家箱推群：903607646",
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": "kenlos"
   },
   {
@@ -52880,7 +52880,7 @@
     "type": "vtuber",
     "room": 24135903,
     "face": "/bfs/face/942849d3d868dcf105ba29545eebf4b53fb46be2.jpg",
-    "sign": "个人势杂谈猫。兼职喵，直播一般在晚上。",
+    "sign": "个人势杂谈小猫！直播时间：早10:00，晚上随机掉落。",
     "group_name": ""
   },
   {
@@ -79708,7 +79708,7 @@
     "name": "顶顶Diva",
     "type": "vtuber",
     "room": 1702919844,
-    "face": "/bfs/face/528a3c6590157cdfbc4962cba8edae3593866020.jpg",
+    "face": "/bfs/face/e24a836ca9f571a5156d4816f990c2514f852d7b.jpg",
     "sign": "希望你耳机里会有我的歌声",
     "group_name": ""
   },
