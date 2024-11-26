@@ -16258,7 +16258,7 @@
     "type": "vtuber",
     "room_id": 140880,
     "face": "/bfs/face/1f4fd08cb43796b1ef95c1fbc468690c495b402d.jpg",
-    "group_name": "纸片人计划"
+    "group_name": ""
   },
   "29462834": {
     "name": "凛绪四乃-official",
@@ -51517,7 +51517,7 @@
     "type": "vtuber",
     "room_id": 27007780,
     "face": "/bfs/face/3385a62ddbf6199a8be5c031a0fc9f4cf0b2eb8d.jpg",
-    "group_name": ""
+    "group_name": "P-SP"
   },
   "3493127404915541": {
     "name": "未眠眠nemu",
@@ -53183,6 +53183,13 @@
     "type": "vtuber",
     "room_id": 27332706,
     "face": "/bfs/face/8e75b58a4739ce8394ca4235330d158f934dbf8e.jpg",
+    "group_name": ""
+  },
+  "3493259005397451": {
+    "name": "艾卜nana",
+    "type": "vtuber",
+    "room_id": 32591876,
+    "face": "/bfs/face/3a27a09ea3e83993643a2bd059bc38870ac0d313.jpg",
     "group_name": ""
   },
   "3493259080894603": {
@@ -56431,7 +56438,7 @@
     "type": "vtuber",
     "room_id": 27868433,
     "face": "/bfs/face/04bac08a4deadc5e2c486f90f61f141d2a4b108b.jpg",
-    "group_name": ""
+    "group_name": "P-SP"
   },
   "3494349543312002": {
     "name": "梦游娅虎YaHoo",
