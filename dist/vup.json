@@ -3846,7 +3846,7 @@
     "name": "禅眠_",
     "type": "vtuber",
     "room": 21866073,
-    "face": "/bfs/face/ee54290486557b9845dd206acf7416b54340feb7.jpg",
+    "face": "/bfs/face/39a3fe5097ee634c9d7c0e7cdca20694fd79abcc.jpg",
     "group_name": ""
   },
   "1520239": {
@@ -6198,7 +6198,7 @@
     "name": "柚木怜_",
     "type": "vtuber",
     "room": 208401,
-    "face": "/bfs/face/892ebf4bc8e36392cd7c98eaaac9cd4f6c420f78.jpg",
+    "face": "/bfs/face/c25e7139f7c628522c6fc44ee65a8737dafba568.jpg",
     "group_name": "忘崽牛奶"
   },
   "3107400": {
@@ -7924,7 +7924,7 @@
     "group_name": "ChaosLiveSprout"
   },
   "5035137": {
-    "name": "困困鲨鲨",
+    "name": "涟涟Naline",
     "type": "vtuber",
     "room": 21433464,
     "face": "/bfs/face/27da604ff1b63818b1f8e0cec6c177c9c1474648.jpg",
@@ -14836,7 +14836,7 @@
     "name": "酥酥巴士",
     "type": "vtuber",
     "room": 1021591,
-    "face": "/bfs/face/4032c8b66e4be12f6c5616f6c91deea762839cdf.jpg",
+    "face": "/bfs/face/18fdb6d3b1242575e34cd701b3446c4d35257822.jpg",
     "group_name": "曦和project"
   },
   "21652031": {
@@ -18252,7 +18252,7 @@
     "name": "玖羽子",
     "type": "vtuber",
     "room": 23770557,
-    "face": "/bfs/face/290452e2cb7f5730222c49ee37ce153704ca4d83.jpg",
+    "face": "/bfs/face/1283eb5742d598b69b389946e307720049671850.jpg",
     "group_name": ""
   },
   "50635063": {
@@ -20814,7 +20814,7 @@
     "name": "从前有个楞",
     "type": "vtuber",
     "room": 23157901,
-    "face": "/bfs/face/2f0ea364caccc5053115bb7bf26c83499eb2cd4c.jpg",
+    "face": "/bfs/face/9c511728062a7c0819552d16f7922b141ea4e5b1.jpg",
     "group_name": ""
   },
   "167461144": {
@@ -24083,7 +24083,7 @@
     "name": "星野桜Sakura",
     "type": "vtuber",
     "room": 30508753,
-    "face": "/bfs/face/a077597ae9dfd167ec90f1c5339098a52d96d131.jpg",
+    "face": "/bfs/face/217d3b8ce46de753bc4e9975ffba7501af9a8261.jpg",
     "group_name": ""
   },
   "351335373": {
@@ -38727,7 +38727,7 @@
     "name": "眠特Mint",
     "type": "vtuber",
     "room": 24255210,
-    "face": "/bfs/face/0c20a9378c36388bce273cf4ad9fcef9cd7fe410.jpg",
+    "face": "/bfs/face/e6ea074727779ef648bccae9a676ae1cf708bea6.jpg",
     "group_name": "hOuOu_Project"
   },
   "1202504814": {
@@ -45636,7 +45636,7 @@
     "name": "宅豆糕糕ki",
     "type": "unknown",
     "room": 27209189,
-    "face": "/bfs/face/468508abab1b3856f00e898c1c0657b9a37abcd7.jpg",
+    "face": "/bfs/face/299d1596731ce1352124a9c8b8dbe33610308b4b.jpg",
     "group_name": ""
   },
   "1856528671": {
@@ -51149,7 +51149,7 @@
     "group_name": ""
   },
   "3493116942224133": {
-    "name": "溃酱",
+    "name": "溃酱_彩虹六号版",
     "type": "vtuber",
     "room": 27036893,
     "face": "/bfs/face/699b5193f4614d81adff7d68ef28576931a33a93.jpg",
@@ -51705,7 +51705,7 @@
     "name": "芝口",
     "type": "vtuber",
     "room": 30011519,
-    "face": "/bfs/face/0a33201e58eab51ea437b4ce270471b16c539ea0.jpg",
+    "face": "/bfs/face/fc6cb032e9f3cc9ce56da52ff1408953e7d4392e.jpg",
     "group_name": ""
   },
   "3493126280841251": {
@@ -53574,7 +53574,7 @@
     "name": "白苏Asaru",
     "type": "vtuber",
     "room": 27369991,
-    "face": "/bfs/face/f00e1c67c3103ff89520710ae00e2cd80173522d.jpg",
+    "face": "/bfs/face/ca2119a0ff29d00824b5ebc454d5b2e3d8e24e18.jpg",
     "group_name": ""
   },
   "3493261788318164": {
@@ -54109,6 +54109,13 @@
     "face": "/bfs/face/223ff4f260f44daa8b45210c07e58baa79ffde1c.jpg",
     "group_name": ""
   },
+  "3493268100745716": {
+    "name": "池狱Chiel",
+    "type": "vtuber",
+    "room": 30011744,
+    "face": "/bfs/face/b963f3f479059585dca96fc11c8c6ad8e64aa2e7.jpg",
+    "group_name": ""
+  },
   "3493268270614756": {
     "name": "川川さま",
     "type": "vtuber",
@@ -54201,7 +54208,7 @@
     "group_name": ""
   },
   "3493269549877439": {
-    "name": "阿鱼Ayuu_",
+    "name": "鱼--Yuna",
     "type": "vtuber",
     "room": 27461727,
     "face": "/bfs/face/723741fc9643d6b95f5090373cf591c77922761d.jpg",
@@ -54988,7 +54995,7 @@
     "name": "涅喵Neko",
     "type": "vtuber",
     "room": 27567205,
-    "face": "/bfs/face/7d7cde724b995dfaadd77f4df93b3fb7fa674c1e.jpg",
+    "face": "/bfs/face/7c39866f46cbb99f1a44ad689083c05b62adcd58.jpg",
     "group_name": ""
   },
   "3493277883959743": {
@@ -56784,7 +56791,7 @@
     "group_name": ""
   },
   "3494350705133689": {
-    "name": "小糯米sama",
+    "name": "東雪澪neko",
     "type": "vtuber",
     "room": 27934795,
     "face": "/bfs/face/c9d3fab90eec7ad7505b1d7d3ffc85108fbc3d0b.jpg",
@@ -58513,7 +58520,7 @@
     "group_name": ""
   },
   "3494371462744800": {
-    "name": "十三-迷路版",
+    "name": "十三-缺筋版",
     "type": "vtuber",
     "room": 30216456,
     "face": "/bfs/face/eb214a798b79d4540f9dfb4fdeda29903f0be91a.jpg",
