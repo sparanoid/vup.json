@@ -3064,6 +3064,14 @@
     "group_name": ""
   },
   {
+    "uid": 689646,
+    "name": "西门小昭",
+    "type": "vtuber",
+    "room": 4664370,
+    "face": "/bfs/face/6f96fb4edfced4f36fb6114d0cd77cf2914daee9.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 692900,
     "name": "阳炎_Official",
     "type": "vtuber",
@@ -3444,7 +3452,7 @@
     "name": "星野铃月Channel",
     "type": "vtuber",
     "room": 3157408,
-    "face": "/bfs/face/9fe6d1e92dfd55c0947268f2aef68e70d74ca876.jpg",
+    "face": "/bfs/face/153a6d563ed4b901516ae4b3e4f919f0f278d5f0.jpg",
     "group_name": ""
   },
   {
@@ -14260,7 +14268,7 @@
     "name": "椛-Momiji",
     "type": "vtuber",
     "room": 31384,
-    "face": "/bfs/face/3995d44d476fb57944396c4d0c6834e4b44b1a4d.jpg",
+    "face": "/bfs/face/e8e6d2e8879f867a6dc0fea300afeaaf9e1cc59a.jpg",
     "group_name": ""
   },
   {
@@ -30449,7 +30457,7 @@
   },
   {
     "uid": 405991184,
-    "name": "夜未央1月1日生日啦",
+    "name": "遇见夜未央",
     "type": "vtuber",
     "room": 25440429,
     "face": "/bfs/face/ed9da310119a5e78bbd8d2b75c679a334562c5f0.jpg",
@@ -43552,6 +43560,14 @@
     "group_name": ""
   },
   {
+    "uid": 1137050473,
+    "name": "露维娅Luvia",
+    "type": "vtuber",
+    "room": 1785600934,
+    "face": "/bfs/face/525ad18d1f8fe6ea9f8575fabf3168b0f3169c15.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1137238341,
     "name": "锦年Genie",
     "type": "vtuber",
@@ -46297,7 +46313,7 @@
   },
   {
     "uid": 1372904395,
-    "name": "希乃-20号百天版",
+    "name": "希乃Shinae",
     "type": "vtuber",
     "room": 1790375325,
     "face": "/bfs/face/d3336b8a87a5eaa8cc99e04e32103f98a7623833.jpg",
@@ -50056,6 +50072,14 @@
     "group_name": ""
   },
   {
+    "uid": 1681450316,
+    "name": "维斯提亚・泽塔Official",
+    "type": "vtuber",
+    "room": 1858800349,
+    "face": "/bfs/face/21aa10bf512f66349c26fac7a04b8f9b5f95144d.jpg",
+    "group_name": "Hololive ID (印尼分部)"
+  },
+  {
     "uid": 1682065895,
     "name": "左恕_Orzel",
     "type": "vtuber",
@@ -51384,6 +51408,14 @@
     "group_name": ""
   },
   {
+    "uid": 1795718061,
+    "name": "卡埃拉・科瓦尔斯基亚",
+    "type": "vtuber",
+    "room": 1858806516,
+    "face": "/bfs/face/2da076aa53407f139e06b0298cc1d83dbb74f2ee.jpg",
+    "group_name": "Hololive ID (印尼分部)"
+  },
+  {
     "uid": 1795978925,
     "name": "犬神犬汰",
     "type": "vtuber",
@@ -51806,6 +51838,14 @@
     "room": 26019510,
     "face": "/bfs/face/014a7afb2eed41c88f5ff8d027ff1fd3dbe2e13f.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 1829466798,
+    "name": "阿芸达・栗丝Official",
+    "type": "vtuber",
+    "room": 1858809206,
+    "face": "/bfs/face/67b76e443f784b50521781ba35b23e63cb35b896.jpg",
+    "group_name": "Hololive ID (印尼分部)"
   },
   {
     "uid": 1829633422,
@@ -66300,7 +66340,7 @@
     "name": "温以泠",
     "type": "vtuber",
     "room": 30118851,
-    "face": "/bfs/face/742fda07e2e03bc92789777aa9da7aa273a45595.jpg",
+    "face": "/bfs/face/93c843f8891837fdb46dd717d593852adf05051c.jpg",
     "group_name": ""
   },
   {
@@ -69593,7 +69633,7 @@
   },
   {
     "uid": 3546566159763731,
-    "name": "Lucky甜糖",
+    "name": "Lucky甜糖酱",
     "type": "vtuber",
     "room": 32638315,
     "face": "/bfs/face/54f50160065c6db4118eb1106806eecf9f4d6179.jpg",
@@ -71213,7 +71253,7 @@
     "type": "vtuber",
     "room": 1939029467,
     "face": "/bfs/face/6ab9222f56b17a2f5025078e482fc9c406b798eb.jpg",
-    "group_name": "Hololive"
+    "group_name": "Hololive ID (印尼分部)"
   },
   {
     "uid": 3546695497419689,
@@ -71429,7 +71469,7 @@
     "type": "vtuber",
     "room": 1749144349,
     "face": "/bfs/face/f77d19673e9a8ee9dde9717ea1a3efaa5edc285c.jpg",
-    "group_name": "Hololive"
+    "group_name": "Hololive ID (印尼分部)"
   },
   {
     "uid": 3546711096035969,
@@ -71437,7 +71477,15 @@
     "type": "vtuber",
     "room": 1749144929,
     "face": "/bfs/face/8f81a34e42a1102811678a38342fba9c5ede9329.jpg",
-    "group_name": "Hololive"
+    "group_name": "Hololive ID (印尼分部)"
+  },
+  {
+    "uid": 3546711098132792,
+    "name": "阿妮娅・梅尔菲莎",
+    "type": "vtuber",
+    "room": 1858804821,
+    "face": "/bfs/face/bd1a2ef7b8ffea102d845e15a4b82f6a0df7048b.jpg",
+    "group_name": "Hololive ID (印尼分部)"
   },
   {
     "uid": 3546714516490635,
@@ -71600,6 +71648,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546744172316709,
+    "name": "如月紬衣",
+    "type": "vtuber",
+    "room": 1733583729,
+    "face": "/bfs/face/789ea62cad1e8e510903ff55f9f9cd9813776709.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546746342869881,
     "name": "熊野mina",
     "type": "vtuber",
@@ -71710,5 +71766,21 @@
     "room": 1829023481,
     "face": "/bfs/face/7b498d68da4c386aab63b1f91aa9070d94eb5532.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546795103750620,
+    "name": "暮娜・惑星诺瓦Official",
+    "type": "vtuber",
+    "room": 1900562428,
+    "face": "/bfs/face/729f75195418cfad739399e45085eeacac6def79.jpg",
+    "group_name": "Hololive ID (印尼分部)"
+  },
+  {
+    "uid": 3546799874771223,
+    "name": "帕沃莉亚・蕾内Official",
+    "type": "vtuber",
+    "room": 1900561405,
+    "face": "/bfs/face/76f1602e299df1b2910803052f1fa841b542327e.jpg",
+    "group_name": "Hololive ID (印尼分部)"
   }
 ]
