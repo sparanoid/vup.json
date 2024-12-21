@@ -11081,10 +11081,10 @@
     "group_name": ""
   },
   "10321614": {
-    "name": "lsbdnxxis",
+    "name": "bilibili",
     "type": "vtuber",
-    "room_id": 1246057,
-    "face": "/bfs/face/4e4561acf617cfe06831f52796b2ec882b405d5d.jpg",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "10351999": {
@@ -44964,7 +44964,7 @@
     "name": "柚恩不加糖",
     "type": "vtuber",
     "room_id": 25512501,
-    "face": "/bfs/face/a405bd8d2b69a8153d6d9a9f50d87388e96bfea2.jpg",
+    "face": "/bfs/face/3b7a8ae242b2f3512b3ae92b315f969236073c65.jpg",
     "group_name": "EOE组合"
   },
   "1795172933": {
