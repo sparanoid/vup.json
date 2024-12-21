@@ -57414,7 +57414,7 @@
     "group_name": ""
   },
   "3494357346814544": {
-    "name": "缇莲娜喵喵Terena_nya",
+    "name": "缇莲娜喵喵Tirenya_",
     "type": "vtuber",
     "room_id": 30009602,
     "face": "/bfs/face/4addceccd61d5fe9d824d30605dd821e7a0bbd40.jpg",
@@ -62698,11 +62698,25 @@
     "face": "/bfs/face/789ea62cad1e8e510903ff55f9f9cd9813776709.jpg",
     "group_name": ""
   },
+  "3546746235914440": {
+    "name": "白羽瀬夢流",
+    "type": "vtuber",
+    "room_id": 1837653521,
+    "face": "/bfs/face/0c83841f0c261bef01ebc5d03b1482992b56677c.jpg",
+    "group_name": ""
+  },
   "3546746342869881": {
     "name": "熊野mina",
     "type": "vtuber",
     "room_id": 1704233454,
     "face": "/bfs/face/2bafff32a9879ed588fdf0cef463ae805f87a671.jpg",
+    "group_name": ""
+  },
+  "3546746888129032": {
+    "name": "月铃姬乃",
+    "type": "vtuber",
+    "room_id": 1930273958,
+    "face": "/bfs/face/f164e4602215261fa3d31e2728c496abbc2f6d1b.jpg",
     "group_name": ""
   },
   "3546747513079908": {
