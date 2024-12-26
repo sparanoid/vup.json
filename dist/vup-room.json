@@ -53378,7 +53378,7 @@
     "name": "晴云Haku",
     "type": "vtuber",
     "room_id": 27592756,
-    "face": "/bfs/face/4800ff37d3506bd66ea7e948f05247319012625c.jpg",
+    "face": "/bfs/face/51a45d0de66ff4958ce022f2e4f13a71d50ab007.jpg",
     "group_name": ""
   },
   "3493258420291722": {
@@ -59965,7 +59965,7 @@
     "name": "路克lOok",
     "type": "vtuber",
     "room_id": 30694262,
-    "face": "/bfs/face/4c9b1601180b04e495a63848455f64a8ffca9aee.jpg",
+    "face": "/bfs/face/d8f146dfe8709455670e7965ca6923e5195102fe.jpg",
     "group_name": ""
   },
   "3537122520730473": {
@@ -60023,6 +60023,13 @@
     "room_id": 30690283,
     "face": "/bfs/face/d5f4cf3c07d1d2e497bba1c08baa3c211dcd70c1.jpg",
     "group_name": ""
+  },
+  "3537123718203953": {
+    "name": "蕾娜Layla",
+    "type": "vtuber",
+    "room_id": 30786304,
+    "face": "/bfs/face/00fb15a0bb7d627c69bc1238e5f38d8cea0b9ec7.jpg",
+    "group_name": "天枢project"
   },
   "3537124330572529": {
     "name": "月初_Sukii",
@@ -62633,6 +62640,13 @@
     "type": "vtuber",
     "room_id": 1980894985,
     "face": "/bfs/face/14d9753613ef3e4f7c36c097600bd0ec01618769.jpg",
+    "group_name": ""
+  },
+  "3546727609010502": {
+    "name": "浮鸾Flora",
+    "type": "vtuber",
+    "room_id": 1874737978,
+    "face": "/bfs/face/20c911c71891ee344e1efd1ea841c4e2e4be6c19.jpg",
     "group_name": ""
   },
   "3546729368520811": {
