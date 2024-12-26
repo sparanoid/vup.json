@@ -2663,7 +2663,7 @@
     "name": "春鹿村村",
     "type": "vtuber",
     "room_id": 23301030,
-    "face": "/bfs/face/3dd8c2ec44add617210d6382165ac5082d60c4eb.jpg",
+    "face": "/bfs/face/6d45a7152056861cdf2ac2717104d785e2b59a79.webp",
     "group_name": ""
   },
   "681892": {
@@ -7381,7 +7381,7 @@
     "name": "Hitomiiiouo",
     "type": "vtuber",
     "room_id": 12706830,
-    "face": "/bfs/face/cc970d00918ab59df85597a9bd03cb6d00130312.jpg",
+    "face": "/bfs/face/f92dc2b871662ebef3298a920d6a91f38d35ce49.webp",
     "group_name": ""
   },
   "4377139": {
@@ -12169,7 +12169,7 @@
     "name": "不稳定发电机",
     "type": "vtuber",
     "room_id": 6653352,
-    "face": "/bfs/face/0b7503895e0055b18b3ea5bfdd211b163a40c22d.jpg",
+    "face": "/bfs/face/ff9251c672c3ab3612cb368687a7123072928c79.jpg",
     "group_name": ""
   },
   "12633794": {
@@ -16138,7 +16138,7 @@
     "name": "酒酒从不掉头发",
     "type": "vtuber",
     "room_id": 10076237,
-    "face": "/bfs/face/71e9b28c6ec58668728285fa3bb32e6b95dfc722.jpg",
+    "face": "/bfs/face/abbd4bb375e8af55057e35128da3e9731c1ba74b.jpg",
     "group_name": ""
   },
   "28278764": {
@@ -32563,6 +32563,13 @@
     "face": "/bfs/face/531d83191f2f0fad6a8ae097f5e04e761a60f2d1.jpg",
     "group_name": "Unicreate"
   },
+  "526972283": {
+    "name": "小望_Official",
+    "type": "vtuber",
+    "room_id": 22567462,
+    "face": "/bfs/face/ecd383852656c60e53f7a0745b1a32e09501d691.jpg",
+    "group_name": ""
+  },
   "527093412": {
     "name": "八乙女Noe_Official",
     "type": "vtuber",
@@ -35857,7 +35864,7 @@
     "name": "糕米_Yiko",
     "type": "vtuber",
     "room_id": 1898935764,
-    "face": "/bfs/face/909e3c237b7cb2de55c07ddcde7071df27e2a7c4.jpg",
+    "face": "/bfs/face/142140261216389c929fe2bc8db99ad98673743f.jpg",
     "group_name": ""
   },
   "688053738": {
@@ -38468,7 +38475,7 @@
     "name": "词水",
     "type": "vtuber",
     "room_id": 30061121,
-    "face": "/bfs/face/81b12360912464c205ff46a43f56d450ed47f717.jpg",
+    "face": "/bfs/face/4d253473db0df92220fdf2714c2907e7b1f968f3.jpg",
     "group_name": ""
   },
   "1175808195": {
@@ -43886,7 +43893,7 @@
     "name": "星间泉channel",
     "type": "vtuber",
     "room_id": 25481267,
-    "face": "/bfs/face/877aaa0d481fef8fbe40e650f3daddbae7129a1d.jpg",
+    "face": "/bfs/face/4fe7ab4125679b6d0b5f0644c6b4c96c13253a51.jpg",
     "group_name": ""
   },
   "1689340733": {
@@ -47470,7 +47477,7 @@
     "name": "真穗Maho_Official",
     "type": "vtuber",
     "room_id": 24904525,
-    "face": "/bfs/face/ec1a4d2b2cd1b222f50e33e0c3ca2eed8c7d3ead.jpg",
+    "face": "/bfs/face/e68bd141e001c73465adb22c1a5b87ee84d10822.jpg",
     "group_name": ""
   },
   "2029383138": {
@@ -54855,7 +54862,7 @@
     "name": "温斓Vanna",
     "type": "vtuber",
     "room_id": 30709507,
-    "face": "/bfs/face/d7d8c4d8dcf1cae7995d5b4b1b14a91d4c4fec5d.jpg",
+    "face": "/bfs/face/613bd37cb637cbd38dd612d750aa2d708d9bf06a.jpg",
     "group_name": "新月社FCrescent"
   },
   "3493275610646926": {
@@ -60389,7 +60396,7 @@
     "group_name": ""
   },
   "3546383013382614": {
-    "name": "萨摩耶宁",
+    "name": "七彩炫酷芜湖起飞萨摩",
     "type": "vtuber",
     "room_id": 30803533,
     "face": "/bfs/face/cd31f7e7cb1c5e614e3696ff0d9a3caca9c39930.jpg",
@@ -62405,7 +62412,7 @@
     "group_name": ""
   },
   "3546697030437325": {
-    "name": "卿卿竹-26日生日版",
+    "name": "卿卿竹-生日啦",
     "type": "vtuber",
     "room_id": 1825831614,
     "face": "/bfs/face/ee2589148edefeb2c26ec8c3e65605c8a2a18f94.jpg",
