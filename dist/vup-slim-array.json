@@ -35336,13 +35336,6 @@
     "group_name": "千鸟战队"
   },
   {
-    "uid": 667990697,
-    "name": "绵绵饭-",
-    "type": "vtuber",
-    "room": 31682099,
-    "group_name": ""
-  },
-  {
     "uid": 668479385,
     "name": "Laine_official",
     "type": "vtuber",
@@ -61849,6 +61842,13 @@
     "name": "玖柴Jiu",
     "type": "vtuber",
     "room": 32136923,
+    "group_name": ""
+  },
+  {
+    "uid": 3546618783598801,
+    "name": "绵绵饭mifani",
+    "type": "vtuber",
+    "room": 1760816829,
     "group_name": ""
   },
   {

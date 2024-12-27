@@ -12299,7 +12299,7 @@
     "type": "vtuber",
     "room": 167498,
     "face": "/bfs/face/69d90a26e33e3b84cca34d27f7b35e9445135968.jpg",
-    "sign": "喜欢画画和睡觉｜米画师同名:@织世tomoyo【稿期已满> <】",
+    "sign": "画师｜米画师同名:@织世tomoyo",
     "group_name": ""
   },
   {
@@ -18005,7 +18005,7 @@
     "type": "vtuber",
     "room": 4073645,
     "face": "/bfs/face/b46214855f2816869c1ca01d2ebadb9a817ca0c9.jpg",
-    "sign": "会魔法的炼金高才狐 毕业变网友 可你想起来 我就一直在",
+    "sign": "会魔法的炼金高才狐 会无声画画 可你想起来 我就一直在",
     "group_name": ""
   },
   {
@@ -32450,7 +32450,7 @@
     "type": "vtuber",
     "room": 26702506,
     "face": "/bfs/face/d84047eb779df004d3f932ac7eba49b97af9d15e.jpg",
-    "sign": "国粤歌势/个人势全职/干物妹/直播时间：17:00-24:00",
+    "sign": "国粤歌势/个人势全职/干物妹/直播时间：17:00",
     "group_name": ""
   },
   {
@@ -45430,15 +45430,6 @@
     "face": "/bfs/face/ac7482ed1b9a7f203dc68c0c4a77c488a27b108a.jpg",
     "sign": "千鸟永远的18岁美少女(⁎⁍̴̛ᴗ⁍̴̛⁎)",
     "group_name": "千鸟战队"
-  },
-  {
-    "uid": 667990697,
-    "name": "绵绵饭-",
-    "type": "vtuber",
-    "room": 31682099,
-    "face": "/bfs/face/cc6aae874d0e9f2585ac8ac3be44b8d468e9d3bd.jpg",
-    "sign": "素！",
-    "group_name": ""
   },
   {
     "uid": 668479385,
@@ -79524,6 +79515,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546618783598801,
+    "name": "绵绵饭mifani",
+    "type": "vtuber",
+    "room": 1760816829,
+    "face": "/bfs/face/bc02304cfd2dcf41d56043c64a71c033a284f2ef.jpg",
+    "sign": "麻辣烫是世界上最好吃的！！",
+    "group_name": ""
+  },
+  {
     "uid": 3546618999606221,
     "name": "希思_heath",
     "type": "vtuber",
@@ -79924,7 +79924,7 @@
     "name": "唯迟Witch",
     "type": "vtuber",
     "room": 32316913,
-    "face": "/bfs/face/35958e3c76008585115e88558384dc1ea914225b.jpg",
+    "face": "/bfs/face/0d770012457ca8641be73a7bc7215666d1e7db83.jpg",
     "sign": "⌯>ᴗo⌯ಣ ",
     "group_name": ""
   },

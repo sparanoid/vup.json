@@ -40384,14 +40384,6 @@
     "group_name": "千鸟战队"
   },
   {
-    "uid": 667990697,
-    "name": "绵绵饭-",
-    "type": "vtuber",
-    "room": 31682099,
-    "face": "/bfs/face/cc6aae874d0e9f2585ac8ac3be44b8d468e9d3bd.jpg",
-    "group_name": ""
-  },
-  {
     "uid": 668479385,
     "name": "Laine_official",
     "type": "vtuber",
@@ -70688,6 +70680,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546618783598801,
+    "name": "绵绵饭mifani",
+    "type": "vtuber",
+    "room": 1760816829,
+    "face": "/bfs/face/bc02304cfd2dcf41d56043c64a71c033a284f2ef.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546618999606221,
     "name": "希思_heath",
     "type": "vtuber",
@@ -71044,7 +71044,7 @@
     "name": "唯迟Witch",
     "type": "vtuber",
     "room": 32316913,
-    "face": "/bfs/face/35958e3c76008585115e88558384dc1ea914225b.jpg",
+    "face": "/bfs/face/0d770012457ca8641be73a7bc7215666d1e7db83.jpg",
     "group_name": ""
   },
   {
