@@ -32816,6 +32816,14 @@
     "group_name": ""
   },
   {
+    "uid": 449111192,
+    "name": "小陈的冒险之旅",
+    "type": "vtuber",
+    "room": 22279862,
+    "face": "/bfs/face/6e77bd627f940641427f1fa901a5cd32941e28e6.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 449174986,
     "name": "阿喵吃喵喵",
     "type": "vtuber",
@@ -44372,7 +44380,7 @@
     "name": "桃音诗おん",
     "type": "vtuber",
     "room": 27256003,
-    "face": "/bfs/face/cca80d0fcf665b657123e78e3adc78be5d7b7f1a.jpg",
+    "face": "/bfs/face/d4de713c27849656a1c8f4d0b886c9b674d2171a.jpg",
     "group_name": ""
   },
   {
@@ -49796,7 +49804,7 @@
     "name": "星海聆音",
     "type": "vtuber",
     "room": 24008276,
-    "face": "/bfs/face/8e5379b52f00d11f5661cf16642db56f42b77d53.jpg",
+    "face": "/bfs/face/f8663849a201f32c65307f11bd49e5d9c631c251.jpg",
     "group_name": ""
   },
   {
@@ -68972,7 +68980,7 @@
     "name": "绫世Ayase",
     "type": "vtuber",
     "room": 30794104,
-    "face": "/bfs/face/ac0d35527f2cfc06aa7d977091baf56c9a573fd8.jpg",
+    "face": "/bfs/face/9a50a71bbf0959c58a3f9cf71aae1f3129577ab6.jpg",
     "group_name": "GravityS Project"
   },
   {
@@ -70724,7 +70732,7 @@
     "name": "呜咕UgU",
     "type": "vtuber",
     "room": 31962290,
-    "face": "/bfs/face/cdba2693e36b38a9a86cf7f0712189fd302033a4.jpg",
+    "face": "/bfs/face/50fa0ce270572f705e161522b0e3be122f0eeffd.jpg",
     "group_name": ""
   },
   {
