@@ -48040,6 +48040,14 @@
     "group_name": "propro production"
   },
   {
+    "uid": 1509277801,
+    "name": "皮皮_channel",
+    "type": "vtuber",
+    "room": 25793705,
+    "face": "/bfs/face/52b465107ac4860ad3a5aec6fd264c56a2c37b2e.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1509526938,
     "name": "何羽Heyuuko",
     "type": "vtuber",
