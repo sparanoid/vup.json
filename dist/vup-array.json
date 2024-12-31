@@ -23681,7 +23681,7 @@
   },
   {
     "uid": 158636881,
-    "name": "yorushiro",
+    "name": "CODECO-Monster",
     "type": "vtuber",
     "room": 4984404,
     "face": "/bfs/face/1fdaf7b8bfc440efc8e028e2522a944566bc2871.jpg",
@@ -35788,7 +35788,7 @@
     "name": "小猪anna",
     "type": "vtuber",
     "room": 27015352,
-    "face": "/bfs/face/ab712f90290e994af108a1096ede9d4f6bd6b34f.jpg",
+    "face": "/bfs/face/ada838b0055c5c5c08652f79a6bbd3f1e1f09f81.jpg",
     "group_name": ""
   },
   {
@@ -71893,6 +71893,14 @@
     "type": "vtuber",
     "room": 1852776583,
     "face": "/bfs/face/f4958c9a81b830e21a63aed0a209c6c3e89145a4.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546763111696527,
+    "name": "-粼音Lynn-",
+    "type": "vtuber",
+    "room": 1945807775,
+    "face": "/bfs/face/2bf4e6e4265025c133470565fdbcba4f0e29cced.jpg",
     "group_name": ""
   },
   {
