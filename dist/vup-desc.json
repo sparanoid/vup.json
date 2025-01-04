@@ -13031,6 +13031,14 @@
     "sign": "人世间三大美好，午后的小憩，半夜的点心，以及可爱的美少女！",
     "group_name": ""
   },
+  "11087216": {
+    "name": "茉茉嫤Sara",
+    "type": "vtuber",
+    "room": 31233986,
+    "face": "/bfs/face/51a5989f8c5bbaed5663d3ac83f1fdec80f3ce13.jpg",
+    "sign": "茉茉嫤是是一个集抽象于一身的假歌势，每天晚上20-21间开播，全职v大家放心关注OvO~",
+    "group_name": ""
+  },
   "11093321": {
     "name": "一只狐九",
     "type": "vtuber",
@@ -62643,7 +62651,7 @@
     "name": "咔比大王Kingu",
     "type": "vtuber",
     "room": 27526833,
-    "face": "/bfs/face/2ea974e2dd8847b71d076bf5f45703a72bf23380.webp",
+    "face": "/bfs/face/33555396fe5b28f475b216f2d87da99e93ecf51a.jpg",
     "sign": "可爱又迷人的反派角色，只爱爱我的人。",
     "group_name": ""
   },
