@@ -6464,7 +6464,7 @@
     "name": "草薙葱Negi",
     "type": "vtuber",
     "room": 27334,
-    "face": "/bfs/face/9020a3f9af3c2575dd06f9781ee08cb79ba4bb60.jpg",
+    "face": "/bfs/face/b135e14887e882bcd48f944c3c69d9a9289eb12f.jpg",
     "group_name": ""
   },
   "3286495": {
@@ -12757,7 +12757,7 @@
     "name": "瑾瑾Hibana",
     "type": "vtuber",
     "room": 21609224,
-    "face": "/bfs/face/76c667e19dd115fc70707f30f72489e8d86498f9.jpg",
+    "face": "/bfs/face/ccafcde5cf124efec96d8bc7eb242be822468201.jpg",
     "group_name": ""
   },
   "13905358": {
@@ -20548,7 +20548,7 @@
     "name": "绒音喵_NekoAttacker",
     "type": "vtuber",
     "room": 7784770,
-    "face": "/bfs/face/9cff15012f333414c87da60442f1635bb6f73139.jpg",
+    "face": "/bfs/face/4aeab6f3896ba38557ae965dd09d44ad7b1a0c15.jpg",
     "group_name": ""
   },
   "145613005": {
@@ -44166,7 +44166,7 @@
     "name": "桃泽英梨梨channel",
     "type": "vtuber",
     "room": 24053225,
-    "face": "/bfs/face/d0f2a20a18fed4b9f45a8f6707eb82285f8c2c2c.jpg",
+    "face": "/bfs/face/b8ea6f131ddead3bddcfee1ceff2c815e9df4160.jpg",
     "group_name": ""
   },
   "1712492082": {
@@ -54390,10 +54390,10 @@
     "group_name": ""
   },
   "3493270296463682": {
-    "name": "停止沸腾",
+    "name": "Stopped__",
     "type": "vtuber",
     "room": 27472632,
-    "face": "/bfs/face/7dba764ad4cb3e112db11a9e5ebd2d20e53edb7d.jpg",
+    "face": "/bfs/face/b964d71b62712a6e282a4732f9181c96e74afbea.jpg",
     "group_name": ""
   },
   "3493270348892853": {
@@ -62458,6 +62458,13 @@
     "type": "vtuber",
     "room": 32811624,
     "face": "/bfs/face/4266c1226784a04802610537d1038fb7d3cdb80e.jpg",
+    "group_name": ""
+  },
+  "3546686139926802": {
+    "name": "思落Sly",
+    "type": "vtuber",
+    "room": 1960174983,
+    "face": "/bfs/face/14be05522c0693fafcd5c6a0df5ef90dcb17ec4d.jpg",
     "group_name": ""
   },
   "3546690671872793": {

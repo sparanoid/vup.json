@@ -46620,7 +46620,7 @@
     "group_name": ""
   },
   "3493270296463682": {
-    "name": "停止沸腾",
+    "name": "Stopped__",
     "type": "vtuber",
     "room": 27472632,
     "group_name": ""
@@ -53535,6 +53535,12 @@
     "name": "真面目喵露_Official",
     "type": "vtuber",
     "room": 32811624,
+    "group_name": ""
+  },
+  "3546686139926802": {
+    "name": "思落Sly",
+    "type": "vtuber",
+    "room": 1960174983,
     "group_name": ""
   },
   "3546690671872793": {
