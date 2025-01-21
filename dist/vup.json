@@ -5529,6 +5529,13 @@
     "face": "/bfs/face/f1935a59391e1bed20cb664dc2903fa59837a5e9.jpg",
     "group_name": ""
   },
+  "2606266": {
+    "name": "黒羽桜鵺SakuYa",
+    "type": "vtuber",
+    "room": 40186,
+    "face": "/bfs/face/365cba4af25dff4f88bce5df792369572dc86197.jpg",
+    "group_name": ""
+  },
   "2609448": {
     "name": "Lune露呢",
     "type": "vtuber",
@@ -13915,6 +13922,13 @@
     "face": "/bfs/face/104fe57fa432f409ed0d87d4e801f553a1559583.jpg",
     "group_name": ""
   },
+  "17793729": {
+    "name": "凰荧荧",
+    "type": "vtuber",
+    "room": 1993747421,
+    "face": "/bfs/face/77034eda123a8d46dd478d5656d6edf7c058530c.jpg",
+    "group_name": ""
+  },
   "17794913": {
     "name": "猫辞猫辞猫",
     "type": "vtuber",
@@ -15048,6 +15062,13 @@
     "room": 1479949,
     "face": "/bfs/face/d6d1752ab2c1cc80b19510f901bd63d7969c55e2.jpg",
     "group_name": ""
+  },
+  "22319726": {
+    "name": "卯月コウの卵用軍団",
+    "type": "vtuber",
+    "room": 1081763,
+    "face": "/bfs/face/ce6dd1836d5a3262790e2ddba42ea59bc221997f.jpg",
+    "group_name": "NIJISANJI"
   },
   "22385806": {
     "name": "萝娜火辣辣",
@@ -60436,6 +60457,13 @@
     "room": 30792210,
     "face": "/bfs/face/bbd38744280d30e9890661c34cb04bfc09227f64.jpg",
     "group_name": ""
+  },
+  "3546382644283549": {
+    "name": "阿黄黄huhu",
+    "type": "vtuber",
+    "room": 30834702,
+    "face": "/bfs/face/8a6f07f618eb03e0ee525fb5e9d1ddb91ee19fa6.jpg",
+    "group_name": "纸片人计划"
   },
   "3546382868678789": {
     "name": "梨里的里",
