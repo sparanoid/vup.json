@@ -38842,6 +38842,13 @@
     "face": "/bfs/face/41abfdd8279a89fd2551eb072724d6a73f21229e.jpg",
     "group_name": ""
   },
+  "1203217682": {
+    "name": "泽音Melody",
+    "type": "vtuber",
+    "room": 1947277414,
+    "face": "/bfs/face/fa74bf61f8c655d0d0ac7c47e606f884b5f4b06a.jpg",
+    "group_name": "VirtuaReal"
+  },
   "1204068176": {
     "name": "一二三-Hifumi",
     "type": "vtuber",
@@ -63047,5 +63054,12 @@
     "room": 1702712214,
     "face": "/bfs/face/71244d2c83f66eae8b1910f5fd918af55c45f2a5.jpg",
     "group_name": ""
+  },
+  "3546816039619075": {
+    "name": "拉普拉斯暗黑Official",
+    "type": "vtuber",
+    "room": 1738562716,
+    "face": "/bfs/face/9b7ac3f6ac37c656764aeb5e17cf42b34af35c79.jpg",
+    "group_name": "Hololive"
   }
 }

@@ -44391,6 +44391,14 @@
     "sign": "两勺果酱的甜度约等于？ 直播通知禁言群：708767678",
     "group_name": ""
   },
+  "1203217682": {
+    "name": "泽音Melody",
+    "type": "vtuber",
+    "room": 1947277414,
+    "face": "/bfs/face/fa74bf61f8c655d0d0ac7c47e606f884b5f4b06a.jpg",
+    "sign": "虚拟主播团体VirtuaReal成员，是飞过阴霾和绝望，身披虹光的朱鹮～用声音治愈你的心>ᴗoಣ商务合作请联系bd@vrp.live",
+    "group_name": "VirtuaReal"
+  },
   "1204068176": {
     "name": "一二三-Hifumi",
     "type": "vtuber",
@@ -72054,5 +72062,13 @@
     "face": "/bfs/face/71244d2c83f66eae8b1910f5fd918af55c45f2a5.jpg",
     "sign": "直播时间：周一～周五7:00～倒计时结束 晚8:00～12:00  周六～ 周日睡到自然醒\n一个用了好久努力化成人形的呆呆狐～希望你可以喜欢",
     "group_name": ""
+  },
+  "3546816039619075": {
+    "name": "拉普拉斯暗黑Official",
+    "type": "vtuber",
+    "room": 1738562716,
+    "face": "/bfs/face/9b7ac3f6ac37c656764aeb5e17cf42b34af35c79.jpg",
+    "sign": "Hololive 6期生 秘密结社holoX 总帅 目标是征服地球的一切 创造神",
+    "group_name": "Hololive"
   }
 }

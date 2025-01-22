@@ -38843,6 +38843,13 @@
     "group_name": ""
   },
   {
+    "uid": 1203217682,
+    "name": "泽音Melody",
+    "type": "vtuber",
+    "room": 1947277414,
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 1204068176,
     "name": "一二三-Hifumi",
     "type": "vtuber",
@@ -63047,5 +63054,12 @@
     "type": "vtuber",
     "room": 1702712214,
     "group_name": ""
+  },
+  {
+    "uid": 3546816039619075,
+    "name": "拉普拉斯暗黑Official",
+    "type": "vtuber",
+    "room": 1738562716,
+    "group_name": "Hololive"
   }
 ]
