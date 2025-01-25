@@ -47278,6 +47278,13 @@
     "group_name": "MiosLive"
   },
   {
+    "uid": 1999525961,
+    "name": "蔓越没草莓",
+    "type": "vtuber",
+    "room": 1735724052,
+    "group_name": ""
+  },
+  {
     "uid": 1999738104,
     "name": "濮濮的录播号",
     "type": "vtuber",
@@ -63061,5 +63068,40 @@
     "type": "vtuber",
     "room": 1738562716,
     "group_name": "Hololive"
+  },
+  {
+    "uid": 3546827005627070,
+    "name": "Fulaco-Official",
+    "type": "group",
+    "room": 1922218724,
+    "group_name": ""
+  },
+  {
+    "uid": 3546827064346698,
+    "name": "Fulaco-茵果Lingo",
+    "type": "vtuber",
+    "room": 1922213906,
+    "group_name": "Fulaco-Official"
+  },
+  {
+    "uid": 3546827104192613,
+    "name": "Fulaco-橙织Akira",
+    "type": "vtuber",
+    "room": 1922216459,
+    "group_name": "Fulaco-Official"
+  },
+  {
+    "uid": 3546827114678761,
+    "name": "Fulaco-艾芽芽Cassa",
+    "type": "vtuber",
+    "room": 1922217792,
+    "group_name": "Fulaco-Official"
+  },
+  {
+    "uid": 3546828106631502,
+    "name": "Fulaco-龙舍蓝Oxo",
+    "type": "vtuber",
+    "room": 1903489445,
+    "group_name": "Fulaco-Official"
   }
 ]

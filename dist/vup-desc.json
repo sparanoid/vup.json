@@ -54031,6 +54031,14 @@
     "sign": "已经毕业啦✨ 有缘再见",
     "group_name": "MiosLive"
   },
+  "1999525961": {
+    "name": "蔓越没草莓",
+    "type": "vtuber",
+    "room": 1735724052,
+    "face": "/bfs/face/e15602ecffc6d9ce3b98fa03c47239d4e883a9ef.jpg",
+    "sign": "每天早上六点左右开播、晚上八点左右开播！欢迎大家来看小草莓吖",
+    "group_name": ""
+  },
   "1999738104": {
     "name": "濮濮的录播号",
     "type": "vtuber",
@@ -72070,5 +72078,45 @@
     "face": "/bfs/face/9b7ac3f6ac37c656764aeb5e17cf42b34af35c79.jpg",
     "sign": "Hololive 6期生 秘密结社holoX 总帅 目标是征服地球的一切 创造神",
     "group_name": "Hololive"
+  },
+  "3546827005627070": {
+    "name": "Fulaco-Official",
+    "type": "group",
+    "room": 1922218724,
+    "face": "/bfs/face/2782b92c083cf12bce5d0e045848691b824055ff.jpg",
+    "sign": "MEEM镜面模因虚拟UP团体Fulaco。翻转落地，爱有引力。",
+    "group_name": ""
+  },
+  "3546827064346698": {
+    "name": "Fulaco-茵果Lingo",
+    "type": "vtuber",
+    "room": 1922213906,
+    "face": "/bfs/face/6f5a4c66d866a500f987a2d00a5d6853f3bb24c5.jpg",
+    "sign": "MEEM镜面模因虚拟UP团体Fulaco成员。宇宙的本质是因果。",
+    "group_name": "Fulaco-Official"
+  },
+  "3546827104192613": {
+    "name": "Fulaco-橙织Akira",
+    "type": "vtuber",
+    "room": 1922216459,
+    "face": "/bfs/face/96c2f41fc7e4d4fd677b8549947ccb315998150d.jpg",
+    "sign": "MEEM镜面模因虚拟UP团体Fulaco成员。橙汁是维C，但橙织是唯一。",
+    "group_name": "Fulaco-Official"
+  },
+  "3546827114678761": {
+    "name": "Fulaco-艾芽芽Cassa",
+    "type": "vtuber",
+    "room": 1922217792,
+    "face": "/bfs/face/9627bbd7ab09977321a60e22d816cf33350950fe.jpg",
+    "sign": "MEEM镜面模因虚拟UP团体Fulaco成员。哎呀呀，找到你啦！",
+    "group_name": "Fulaco-Official"
+  },
+  "3546828106631502": {
+    "name": "Fulaco-龙舍蓝Oxo",
+    "type": "vtuber",
+    "room": 1903489445,
+    "face": "/bfs/face/fe800f65fdcc65410daed1a19e8ba185267b24bf.jpg",
+    "sign": "MEEM镜面模因虚拟UP团体Fulaco成员。我想我的爪子需要打磨一下了。",
+    "group_name": "Fulaco-Official"
   }
 }
