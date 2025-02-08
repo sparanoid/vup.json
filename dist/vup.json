@@ -43753,7 +43753,7 @@
     "name": "四茶睡大觉",
     "type": "vtuber",
     "room": 31235282,
-    "face": "/bfs/face/53ea6098fa95b4cef6d73d6829031049395f3f89.jpg",
+    "face": "/bfs/face/f7f882dd1b4490cb80e62a5d260fc8c1772fb1ac.jpg",
     "group_name": "问尘仙会"
   },
   "1666306454": {
@@ -60554,6 +60554,13 @@
     "type": "vtuber",
     "room": 30828747,
     "face": "/bfs/face/e83513c0e8edb33a6373e6ea3a97f45c5bbf983f.jpg",
+    "group_name": ""
+  },
+  "3546384682715555": {
+    "name": "风见三月MitsuKi",
+    "type": "vtuber",
+    "room": 30848927,
+    "face": "/bfs/face/f1149c81a5f171ec231dddb5082d18bef252760c.jpg",
     "group_name": ""
   },
   "3546384850487621": {
