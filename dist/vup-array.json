@@ -14840,6 +14840,14 @@
     "group_name": ""
   },
   {
+    "uid": 14346198,
+    "name": "零星的梦喵",
+    "type": "vtuber",
+    "room": 15150839,
+    "face": "/bfs/face/8086027b808f522f06eba01a54184029bc954f43.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 14350494,
     "name": "犬山奈奈Channel",
     "type": "vtuber",
@@ -16565,6 +16573,14 @@
     "type": "vtuber",
     "room": 14277266,
     "face": "/bfs/face/1d7ab0c3c40bf5099a43e7293b6a15560bb0c64c.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 20163928,
+    "name": "-招-",
+    "type": "vtuber",
+    "room": 12024955,
+    "face": "/bfs/face/a165c824277412598b5582c3417c31ac382284ac.jpg",
     "group_name": ""
   },
   {
