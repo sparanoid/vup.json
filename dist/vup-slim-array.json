@@ -10941,6 +10941,13 @@
     "group_name": ""
   },
   {
+    "uid": 10052432,
+    "name": "CPU番长",
+    "type": "vtuber",
+    "room": 69651,
+    "group_name": ""
+  },
+  {
     "uid": 10053157,
     "name": "七曜日-蓝风LanFsama",
     "type": "vtuber",
@@ -19552,7 +19559,7 @@
   },
   {
     "uid": 86710126,
-    "name": "星之小夏",
+    "name": "小熊饼干0vo",
     "type": "vtuber",
     "room": 3440712,
     "group_name": ""
