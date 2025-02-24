@@ -11644,7 +11644,7 @@
     "name": "天之宫苍泽",
     "type": "vtuber",
     "room": 1353049,
-    "face": "/bfs/face/cdafb753c08b326a798f434e2511e5e15d730844.jpg",
+    "face": "/bfs/face/75884fe0d2ef7a33e1050190940309a15644c041.jpg",
     "group_name": ""
   },
   "11500298": {
@@ -12778,7 +12778,7 @@
     "name": "瑾瑾Hibana",
     "type": "vtuber",
     "room": 21609224,
-    "face": "/bfs/face/906dd1f8d1c6f9e6c460fe60f4d14e473e7650d6.jpg",
+    "face": "/bfs/face/3f11791e8125175f7259f6d53586881b1bbbd98e.jpg",
     "group_name": ""
   },
   "13905358": {
@@ -18427,7 +18427,7 @@
     "name": "皖南小姐",
     "type": "vtuber",
     "room": 23838598,
-    "face": "/bfs/face/1813c4b8ec16b7cbd3133ad1ad8e1f44b0a9e73f.jpg",
+    "face": "/bfs/face/6adc750fbbae52c9bd1be45dcae2c323f5797d3a.jpg",
     "group_name": ""
   },
   "51760697": {
@@ -63124,6 +63124,13 @@
     "room": 1900562428,
     "face": "/bfs/face/729f75195418cfad739399e45085eeacac6def79.jpg",
     "group_name": "Hololive ID (印尼分部)"
+  },
+  "3546796225727272": {
+    "name": "江小软软",
+    "type": "vtuber",
+    "room": 1731714022,
+    "face": "/bfs/face/4540402fea821ad30a55baa874c4d5f5ca0c2894.jpg",
+    "group_name": ""
   },
   "3546799874771223": {
     "name": "帕沃莉亚・蕾内Official",

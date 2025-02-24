@@ -2930,7 +2930,7 @@
     "type": "vtuber",
     "room": 52813,
     "face": "/bfs/face/03b74ec95fa091c952572d02261d8c22baa8e63b.jpg",
-    "sign": "Pixiv 3532013，全平台同名",
+    "sign": "创作的尽头是什么？",
     "group_name": ""
   },
   {
@@ -12227,7 +12227,7 @@
     "type": "vtuber",
     "room": 875735,
     "face": "/bfs/face/ec0dd4d72342f1cabe2a601db5b5165cad3a6b5a.jpg",
-    "sign": "mhs:番茄大王!!\n原名:空蝉十六夜w\n当赛博皇帝，享缺德人生。",
+    "sign": "mhs:番茄大王!!\n原名:空蝉十六夜w\n来自虚妄之境的君主，鬼怪的神明，许愿的代价是…\n",
     "group_name": ""
   },
   {
@@ -14971,7 +14971,7 @@
     "name": "天之宫苍泽",
     "type": "vtuber",
     "room": 1353049,
-    "face": "/bfs/face/cdafb753c08b326a798f434e2511e5e15d730844.jpg",
+    "face": "/bfs/face/75884fe0d2ef7a33e1050190940309a15644c041.jpg",
     "sign": "幻想社Symphony所属蓝精灵天之宫苍泽，直播时间不稳定",
     "group_name": ""
   },
@@ -16429,7 +16429,7 @@
     "name": "瑾瑾Hibana",
     "type": "vtuber",
     "room": 21609224,
-    "face": "/bfs/face/906dd1f8d1c6f9e6c460fe60f4d14e473e7650d6.jpg",
+    "face": "/bfs/face/3f11791e8125175f7259f6d53586881b1bbbd98e.jpg",
     "sign": "我是绯鞠梦女捏(*^▽^*) 粉丝群：870361729",
     "group_name": ""
   },
@@ -23692,8 +23692,8 @@
     "name": "皖南小姐",
     "type": "vtuber",
     "room": 23838598,
-    "face": "/bfs/face/1813c4b8ec16b7cbd3133ad1ad8e1f44b0a9e73f.jpg",
-    "sign": "开小号的就不要乱叫了，低于五级别来犬吠～有空不如回家给你爹上柱香✧⁺⸜(●˙▾˙●)⸝⁺✧ ​",
+    "face": "/bfs/face/6adc750fbbae52c9bd1be45dcae2c323f5797d3a.jpg",
+    "sign": "✧⁺⸜(●˙▾˙●)⸝⁺✧ ​高攻高防，没素质，会拉黑会反弹，有些开小号的就不要来乱叫了，低于五级还犬吠，有这空不如回家给你爹上柱香～。",
     "group_name": ""
   },
   {
@@ -81160,6 +81160,15 @@
     "face": "/bfs/face/729f75195418cfad739399e45085eeacac6def79.jpg",
     "sign": "大家好！我是暮娜・惑星诺瓦，来自 HololiveID 一期生",
     "group_name": "Hololive ID (印尼分部)"
+  },
+  {
+    "uid": 3546796225727272,
+    "name": "江小软软",
+    "type": "vtuber",
+    "room": 1731714022,
+    "face": "/bfs/face/4540402fea821ad30a55baa874c4d5f5ca0c2894.jpg",
+    "sign": "一般晚上九点直播嗷～想请你笑一笑，世界还没有那么糟糕（没有粉丝群和舰长群）",
+    "group_name": ""
   },
   {
     "uid": 3546799874771223,
