@@ -4836,7 +4836,7 @@
     "name": "梅奈子",
     "type": "vtuber",
     "room": 23198878,
-    "face": "/bfs/face/1997d532af44a826c7df5629ad069385807f79ae.jpg",
+    "face": "/bfs/face/38cfda1795cb9feae2485fcd99e7dbebc355d20e.jpg",
     "group_name": ""
   },
   {
@@ -16989,6 +16989,14 @@
     "type": "vtuber",
     "room": 1221274,
     "face": "/bfs/face/7aa91c442e9be242ac6096de57a33ec572653ad4.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 21459239,
+    "name": "海里醒Le",
+    "type": "vtuber",
+    "room": 30517857,
+    "face": "/bfs/face/0accdab90305b205b3fdb5c4be1697e94abe19da.jpg",
     "group_name": ""
   },
   {
@@ -71192,6 +71200,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546648460396958,
+    "name": "魔福mofu",
+    "type": "vtuber",
+    "room": 1856176686,
+    "face": "/bfs/face/617fddb532cd45822193662c855ea07b2cb2c6c6.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546649167137356,
     "name": "狐火燐音_Official",
     "type": "vtuber",
@@ -71449,7 +71465,7 @@
   },
   {
     "uid": 3546677906508079,
-    "name": "嘉瑾姐姐_26号生日回",
+    "name": "嘉瑾姐姐_冲舰版",
     "type": "vtuber",
     "room": 32696187,
     "face": "/bfs/face/fd3e9b0789f0cb17bcc39b163fcf8c307c67608e.jpg",

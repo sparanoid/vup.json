@@ -4835,7 +4835,7 @@
     "name": "梅奈子",
     "type": "vtuber",
     "room": 23198878,
-    "face": "/bfs/face/1997d532af44a826c7df5629ad069385807f79ae.jpg",
+    "face": "/bfs/face/38cfda1795cb9feae2485fcd99e7dbebc355d20e.jpg",
     "sign": "",
     "group_name": ""
   },
@@ -8100,7 +8100,7 @@
     "type": "vtuber",
     "room": 3184309,
     "face": "/bfs/face/a04485e95cea3c5300f7b7175c83ce38028368de.jpg",
-    "sign": "◆个龙势V ◆Yukinoyo Shion ◆互相尊重，祝你愉快◆ 录播在投稿列表合集和列表里选直播回放❤",
+    "sign": "◆个龙势 ◆游戏主播 ◆以虚拟相关营业中 ◆互相尊重，祝你愉快◆ 录播在投稿合集选直播回放❤",
     "group_name": ""
   },
   "3921433": {
@@ -16989,6 +16989,14 @@
     "room": 1221274,
     "face": "/bfs/face/7aa91c442e9be242ac6096de57a33ec572653ad4.jpg",
     "sign": "\n「2022.06.30毕业」\n“她褪去了天使的光环，变成了一个普普通通的女孩子。”\n这便是这场梦之故事的，最后的最后的结局了。",
+    "group_name": ""
+  },
+  "21459239": {
+    "name": "海里醒Le",
+    "type": "vtuber",
+    "room": 30517857,
+    "face": "/bfs/face/0accdab90305b205b3fdb5c4be1697e94abe19da.jpg",
+    "sign": "「 平芜尽处是春山 」 全职/Les/什么都想学点的杂谈 直播时间看周表",
     "group_name": ""
   },
   "21485701": {
@@ -46172,7 +46180,7 @@
     "type": "vtuber",
     "room": 24163111,
     "face": "/bfs/face/e1bce4246d86cdb92005451708b5f03232aa0688.jpg",
-    "sign": "冷漠对冷漠，热情对热情，不然世界太不公平\n直播通知群605553010",
+    "sign": "温柔又疯狂的狐狸~你能驯服我吗？\n直播通知群605553010",
     "group_name": ""
   },
   "1354166971": {
@@ -71191,6 +71199,14 @@
     "sign": " 认真唱歌 歌单：ember.daoban.space",
     "group_name": ""
   },
+  "3546648460396958": {
+    "name": "魔福mofu",
+    "type": "vtuber",
+    "room": 1856176686,
+    "face": "/bfs/face/617fddb532cd45822193662c855ea07b2cb2c6c6.jpg",
+    "sign": "安眠系Vup-每晚21:00直播【魔属性飞行生物】着陆准备中…",
+    "group_name": ""
+  },
   "3546649167137356": {
     "name": "狐火燐音_Official",
     "type": "vtuber",
@@ -71448,7 +71464,7 @@
     "group_name": ""
   },
   "3546677906508079": {
-    "name": "嘉瑾姐姐_26号生日回",
+    "name": "嘉瑾姐姐_冲舰版",
     "type": "vtuber",
     "room": 32696187,
     "face": "/bfs/face/fd3e9b0789f0cb17bcc39b163fcf8c307c67608e.jpg",
