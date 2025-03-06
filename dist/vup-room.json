@@ -37789,7 +37789,7 @@
     "name": "飘雪贞白_Official",
     "type": "vtuber",
     "room_id": 27036242,
-    "face": "/bfs/face/94bdbb755b2f7bbc69c6034cc773d06e0839d2a0.jpg",
+    "face": "/bfs/face/d58466ce246fd8df23f0d05c797bfa1670e23292.jpg",
     "group_name": ""
   },
   "1090010845": {
@@ -38479,7 +38479,7 @@
     "group_name": ""
   },
   "1163073259": {
-    "name": "魚板鲨",
+    "name": "魚板鲨_碎掉了",
     "type": "vtuber",
     "room_id": 30579108,
     "face": "/bfs/face/93af75342e9fa1e07373d94b95fcfb20f9766012.jpg",
@@ -51370,6 +51370,13 @@
     "type": "vtuber",
     "room_id": 27174413,
     "face": "/bfs/face/27bc38d1dd010e533c2d3f79816f31ef2958c39a.jpg",
+    "group_name": ""
+  },
+  "3493117363751402": {
+    "name": "青叶映桃眠Echo",
+    "type": "vtuber",
+    "room_id": 1740230606,
+    "face": "/bfs/face/a5bee37696462850f7d2191972b4e34c1a1986d4.jpg",
     "group_name": ""
   },
   "3493117382625629": {
