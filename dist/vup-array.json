@@ -12556,7 +12556,7 @@
     "name": "FR贪狼",
     "type": "vtuber",
     "room": 8726554,
-    "face": "/bfs/face/198b0e044622ac68b37b1ccb861971300ab42007.jpg",
+    "face": "/bfs/face/ff9ffc63aa46a3129c658e642f1f78ba2900ad3f.jpg",
     "group_name": ""
   },
   {
@@ -72085,6 +72085,14 @@
     "type": "vtuber",
     "room": 1846980988,
     "face": "/bfs/face/29d3e8b8dd3cc779e26b9511a214926937e6f9c2.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546760175684519,
+    "name": "糊涂蛋uni",
+    "type": "vtuber",
+    "room": 1921508117,
+    "face": "/bfs/face/2e2de4744fa4664fdd862ae209e58c1299136ac3.jpg",
     "group_name": ""
   },
   {
