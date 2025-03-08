@@ -12771,7 +12771,7 @@
     "name": "十盐烤兔",
     "type": "vtuber",
     "room": 164879,
-    "face": "/bfs/face/0511b796c64a7ae872cffc10b1fea137e60ba43d.jpg",
+    "face": "/bfs/face/893a668c2290937b16b78a8fcd860eef705cc356.jpg",
     "group_name": ""
   },
   "13900164": {
@@ -33033,10 +33033,10 @@
     "group_name": ""
   },
   "547969718": {
-    "name": "御青穗_音声号",
+    "name": "菟卷棉",
     "type": "vtuber",
     "room": 24474463,
-    "face": "/bfs/face/13a38de5f948aa6fe762730e58f8295c31d94870.jpg",
+    "face": "/bfs/face/cf59c4264f39c3ac5c015b97edfaf51b04c82e6d.jpg",
     "group_name": ""
   },
   "548121269": {
@@ -37729,6 +37729,13 @@
     "face": "/bfs/face/487929892ffa11c4be24eaf0422371428dec5c56.jpg",
     "group_name": "YOLO"
   },
+  "1085959883": {
+    "name": "妮慕Nimue",
+    "type": "vtuber",
+    "room": 1861373970,
+    "face": "/bfs/face/66bff1ebdcfee7bac919aabe29461b5b3b059c95.jpg",
+    "group_name": "VirtuaReal"
+  },
   "1086330105": {
     "name": "五丸_Gomaru",
     "type": "vtuber",
@@ -38923,7 +38930,7 @@
     "name": "桃音诗おん",
     "type": "vtuber",
     "room": 27256003,
-    "face": "/bfs/face/b3a4e99faa06270aca6319e9f2adff36ba6c7e7d.jpg",
+    "face": "/bfs/face/7460675506926270a1d774e2533c8b7b06c84366.jpg",
     "group_name": ""
   },
   "1206793911": {
@@ -41506,7 +41513,7 @@
     "name": "小酷超酷的啊啊tt",
     "type": "vtuber",
     "room": 23000566,
-    "face": "/bfs/face/6774a0fe6bc7e1253483335bb55fb1137c7c40e8.jpg",
+    "face": "/bfs/face/dd37d17274dcfd363336ae240e2d7b730c85ed54.jpg",
     "group_name": ""
   },
   "1442154380": {
@@ -45751,6 +45758,13 @@
     "face": "/bfs/face/6fd37dd132f1bbfd5ea6c68e005ba8ee91b01bef.jpg",
     "group_name": "NoriPro"
   },
+  "1848752274": {
+    "name": "沐毛Meme",
+    "type": "vtuber",
+    "room": 1967212929,
+    "face": "/bfs/face/6894d0d95b7fee20abac7654ee69604c1363d96e.jpg",
+    "group_name": "VirtuaReal"
+  },
   "1849006220": {
     "name": "梦珑拌饭",
     "type": "vtuber",
@@ -47214,6 +47228,13 @@
     "face": "/bfs/face/09681920db9ee8d9135bbd369ece6f79fd32feae.jpg",
     "group_name": ""
   },
+  "1985811151": {
+    "name": "命依Mei",
+    "type": "vtuber",
+    "room": 1967215387,
+    "face": "/bfs/face/5e3a43a36f08e98a149933a5d94f1f0402c17843.jpg",
+    "group_name": "VirtuaReal"
+  },
   "1986925924": {
     "name": "小天柴_Official",
     "type": "vtuber",
@@ -47647,6 +47668,13 @@
     "room": 25904274,
     "face": "/bfs/face/fb30c56603d88a14bd45893ce4fb579de8b7f700.jpg",
     "group_name": ""
+  },
+  "2030198123": {
+    "name": "三理Mit3uri",
+    "type": "vtuber",
+    "room": 1967216004,
+    "face": "/bfs/face/314dee32f1abd5afe5355dd6f1802335223820b7.jpg",
+    "group_name": "VirtuaReal"
   },
   "2030906764": {
     "name": "璃桜零_official",
@@ -55149,7 +55177,7 @@
     "name": "付暔暔",
     "type": "vtuber",
     "room": 27559004,
-    "face": "/bfs/face/6219e08b6c41178b09c0301374584a5e1d580780.jpg",
+    "face": "/bfs/face/48e1ae0208c25fc68034b65a67541efa221f0cdc.jpg",
     "group_name": ""
   },
   "3493277386934769": {
@@ -59132,7 +59160,7 @@
     "name": "球球_QIUQIU",
     "type": "vtuber",
     "room": 30315337,
-    "face": "/bfs/face/0edc4461bc9137d7b9308a946b1731e3a53de01f.jpg",
+    "face": "/bfs/face/3fddd39f9339fc618a387088f4e2e0322e7dad80.jpg",
     "group_name": ""
   },
   "3494377901000718": {
@@ -60693,7 +60721,7 @@
     "name": "霜月_SYue",
     "type": "vtuber",
     "room": 30893565,
-    "face": "/bfs/face/fa934d4621dca4dc770b5c7728dd9fcc01da68a3.jpg",
+    "face": "/bfs/face/fa91a72c329bfac56514579d9597fa6a36d0f89a.jpg",
     "group_name": ""
   },
   "3546386914085524": {
@@ -60889,7 +60917,7 @@
     "name": "云云-official",
     "type": "vtuber",
     "room": 30956735,
-    "face": "/bfs/face/64b0306e3ff422dc38ac3dbec35729a3e3e80d21.jpg",
+    "face": "/bfs/face/5730aee29e6895e9d88a6ac02bde341c1a045d76.jpg",
     "group_name": ""
   },
   "3546393562057502": {
@@ -61299,7 +61327,7 @@
     "group_name": ""
   },
   "3546575206877398": {
-    "name": "cherry__10086",
+    "name": "cherish七七崽",
     "type": "vtuber",
     "room": 31266111,
     "face": "/bfs/face/ef9c4db2f5c87de22b9ec240749b962c73f28f9e.webp",

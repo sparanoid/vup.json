@@ -33034,7 +33034,7 @@
   },
   {
     "uid": 547969718,
-    "name": "御青穗_音声号",
+    "name": "菟卷棉",
     "type": "vtuber",
     "room": 24474463,
     "group_name": ""
@@ -37728,6 +37728,13 @@
     "type": "vtuber",
     "room": 26003107,
     "group_name": "YOLO"
+  },
+  {
+    "uid": 1085959883,
+    "name": "妮慕Nimue",
+    "type": "vtuber",
+    "room": 1861373970,
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 1086330105,
@@ -45752,6 +45759,13 @@
     "group_name": "NoriPro"
   },
   {
+    "uid": 1848752274,
+    "name": "沐毛Meme",
+    "type": "vtuber",
+    "room": 1967212929,
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 1849006220,
     "name": "梦珑拌饭",
     "type": "vtuber",
@@ -47215,6 +47229,13 @@
     "group_name": ""
   },
   {
+    "uid": 1985811151,
+    "name": "命依Mei",
+    "type": "vtuber",
+    "room": 1967215387,
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 1986925924,
     "name": "小天柴_Official",
     "type": "vtuber",
@@ -47647,6 +47668,13 @@
     "type": "vtuber",
     "room": 25904274,
     "group_name": ""
+  },
+  {
+    "uid": 2030198123,
+    "name": "三理Mit3uri",
+    "type": "vtuber",
+    "room": 1967216004,
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 2030906764,
@@ -61300,7 +61328,7 @@
   },
   {
     "uid": 3546575206877398,
-    "name": "cherry__10086",
+    "name": "cherish七七崽",
     "type": "vtuber",
     "room": 31266111,
     "group_name": ""
