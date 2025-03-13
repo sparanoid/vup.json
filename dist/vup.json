@@ -10482,7 +10482,7 @@
     "name": "塔克Tako",
     "type": "vtuber",
     "room": 21737386,
-    "face": "/bfs/face/17430dccfe1c7ecab179ef291d874a157d13b1e2.jpg",
+    "face": "/bfs/baselabs/08105b31123f19a4f337459ee6985503798ca0ac.png",
     "group_name": "hOuOu_Project"
   },
   "9075060": {
@@ -47499,6 +47499,13 @@
     "type": "vtuber",
     "room": 25449211,
     "face": "/bfs/face/2cc0296a3013e1d1b85692fd25f700aa130d9276.jpg",
+    "group_name": ""
+  },
+  "2007327534": {
+    "name": "曲曲-QUQU",
+    "type": "vtuber",
+    "room": 31726359,
+    "face": "/bfs/face/028d6e798b2a63399640e84f7b61a0207136c8bd.jpg",
     "group_name": ""
   },
   "2007335777": {

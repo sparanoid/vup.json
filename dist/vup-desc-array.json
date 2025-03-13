@@ -13477,7 +13477,7 @@
     "name": "塔克Tako",
     "type": "vtuber",
     "room": 21737386,
-    "face": "/bfs/face/17430dccfe1c7ecab179ef291d874a157d13b1e2.jpg",
+    "face": "/bfs/baselabs/08105b31123f19a4f337459ee6985503798ca0ac.png",
     "sign": "全地要放声高呼，要击鼓，跳舞，要享乐，要歌。M.L.C.F.W.H.E.O",
     "group_name": "hOuOu_Project"
   },
@@ -61071,6 +61071,15 @@
     "room": 25449211,
     "face": "/bfs/face/2cc0296a3013e1d1b85692fd25f700aa130d9276.jpg",
     "sign": "这里是东绵不起床！来自外星的猛男通讯员，每晚七点直播，1月-4月准备考试不啵啵！大家不要跑空啦",
+    "group_name": ""
+  },
+  {
+    "uid": 2007327534,
+    "name": "曲曲-QUQU",
+    "type": "vtuber",
+    "room": 31726359,
+    "face": "/bfs/face/028d6e798b2a63399640e84f7b61a0207136c8bd.jpg",
+    "sign": "没有想象中坚强，希望能被守护\n不忘初心❣️\n粉丝群：181827860",
     "group_name": ""
   },
   {
