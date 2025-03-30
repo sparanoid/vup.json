@@ -8016,7 +8016,7 @@
     "group_name": ""
   },
   "7380376": {
-    "name": "寝间-Nemuya",
+    "name": "寝间Nemuya",
     "type": "vtuber",
     "room": 8747153,
     "group_name": ""
@@ -51441,6 +51441,12 @@
     "name": "阿阿伊古",
     "type": "vtuber",
     "room": 30591147,
+    "group_name": ""
+  },
+  "3537118886365252": {
+    "name": "小语若sama",
+    "type": "vtuber",
+    "room": 30587166,
     "group_name": ""
   },
   "3537118955571999": {
