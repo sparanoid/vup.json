@@ -15641,6 +15641,12 @@
     "room": 21292831,
     "group_name": "Providence"
   },
+  "49643407": {
+    "name": "霜露ShuangLu",
+    "type": "vtuber",
+    "room": 3673216,
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "49653129": {
     "name": "stage1st宅社区",
     "type": "vtuber",
@@ -32415,12 +32421,6 @@
     "name": "解语十三娘",
     "type": "vtuber",
     "room": 27937704,
-    "group_name": ""
-  },
-  "1093012038": {
-    "name": "请关注霜露ShuangLu",
-    "type": "vtuber",
-    "room": 26094607,
     "group_name": ""
   },
   "1093614539": {
@@ -52757,6 +52757,12 @@
     "room": 31583828,
     "group_name": ""
   },
+  "3546585455659322": {
+    "name": "霄奈子nako",
+    "type": "vtuber",
+    "room": 31582725,
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "3546585608751224": {
     "name": "只只_呆",
     "type": "vtuber",
@@ -53693,6 +53699,12 @@
     "room": 1919122045,
     "group_name": ""
   },
+  "3546683384269650": {
+    "name": "海小夏Xia",
+    "type": "vtuber",
+    "room": 1729310851,
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "3546683805796444": {
     "name": "温由香Yukako",
     "type": "vtuber",
@@ -53987,6 +53999,12 @@
     "room": 1980894985,
     "group_name": ""
   },
+  "3546726417828701": {
+    "name": "菲琳lucky",
+    "type": "vtuber",
+    "room": 1909461496,
+    "group_name": ""
+  },
   "3546727609010502": {
     "name": "浮鸾Flora",
     "type": "vtuber",
@@ -54178,6 +54196,12 @@
     "type": "vtuber",
     "room": 1937838858,
     "group_name": ""
+  },
+  "3546775765912341": {
+    "name": "坷埋埋",
+    "type": "vtuber",
+    "room": 1849256543,
+    "group_name": "北立交桥（妖精管理局）"
   },
   "3546780885059837": {
     "name": "雪夜心夏",

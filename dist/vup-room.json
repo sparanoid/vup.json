@@ -18248,6 +18248,13 @@
     "face": "/bfs/face/cf66f259cf93cf122edc2bea142e69a491e06b5d.jpg",
     "group_name": "Providence"
   },
+  "49643407": {
+    "name": "霜露ShuangLu",
+    "type": "vtuber",
+    "room_id": 3673216,
+    "face": "/bfs/face/8f1cd96a38532c8b7fd35a460a08d2ab747cf9f4.jpg",
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "49653129": {
     "name": "stage1st宅社区",
     "type": "vtuber",
@@ -37818,13 +37825,6 @@
     "type": "vtuber",
     "room_id": 27937704,
     "face": "/bfs/face/984addff06bf5be2bee3ad807e7a3bbf45d663a7.jpg",
-    "group_name": ""
-  },
-  "1093012038": {
-    "name": "请关注霜露ShuangLu",
-    "type": "vtuber",
-    "room_id": 26094607,
-    "face": "/bfs/face/3dc3fb6bc6cf6a988ace7c78e8e3dbbf3f184528.jpg",
     "group_name": ""
   },
   "1093614539": {
@@ -61550,6 +61550,13 @@
     "face": "/bfs/face/0761d8388a7d4dffaf1fbe019155c13c4e62f956.jpg",
     "group_name": ""
   },
+  "3546585455659322": {
+    "name": "霄奈子nako",
+    "type": "vtuber",
+    "room_id": 31582725,
+    "face": "/bfs/face/d85d45aa9e44c7f73a0c8b4ed59797917c76737e.jpg",
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "3546585608751224": {
     "name": "只只_呆",
     "type": "vtuber",
@@ -62642,6 +62649,13 @@
     "face": "/bfs/face/fac04483cd00ae7e2a5075efa0a23569cd78e40e.jpg",
     "group_name": ""
   },
+  "3546683384269650": {
+    "name": "海小夏Xia",
+    "type": "vtuber",
+    "room_id": 1729310851,
+    "face": "/bfs/face/ef29ba541f2e6a2eb0b93f60ef8eb93986df1181.jpg",
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "3546683805796444": {
     "name": "温由香Yukako",
     "type": "vtuber",
@@ -62985,6 +62999,13 @@
     "face": "/bfs/face/14d9753613ef3e4f7c36c097600bd0ec01618769.jpg",
     "group_name": ""
   },
+  "3546726417828701": {
+    "name": "菲琳lucky",
+    "type": "vtuber",
+    "room_id": 1909461496,
+    "face": "/bfs/face/612fedc30dcf7daaf7583270bedf52b2ab969684.jpg",
+    "group_name": ""
+  },
   "3546727609010502": {
     "name": "浮鸾Flora",
     "type": "vtuber",
@@ -63208,6 +63229,13 @@
     "room_id": 1937838858,
     "face": "/bfs/face/8778caec50477023350f9e3252bc1e394e2aae28.jpg",
     "group_name": ""
+  },
+  "3546775765912341": {
+    "name": "坷埋埋",
+    "type": "vtuber",
+    "room_id": 1849256543,
+    "face": "/bfs/face/215f161e6f929e003eed6b62d9ddf2dcb344e35d.jpg",
+    "group_name": "北立交桥（妖精管理局）"
   },
   "3546780885059837": {
     "name": "雪夜心夏",
