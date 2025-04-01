@@ -2500,7 +2500,7 @@
     "name": "-米茜Mixi-",
     "type": "vtuber",
     "room": 193484,
-    "face": "/bfs/face/85d96823b2743c29c81550ad0938e469ab7dd545.jpg",
+    "face": "/bfs/face/3ca0def3d5ffa7536be2f9346190f9706bc161de.jpg",
     "group_name": "北立交桥（妖精管理局）"
   },
   {
@@ -13864,6 +13864,14 @@
     "group_name": ""
   },
   {
+    "uid": 12461558,
+    "name": "红伊Hoi",
+    "type": "vtuber",
+    "room": 447743,
+    "face": "/bfs/face/80739e2f82931b88548f6c726b82d8f1707a1b65.jpg",
+    "group_name": "北立交桥（妖精管理局）"
+  },
+  {
     "uid": 12476124,
     "name": "汐汐Ame",
     "type": "vtuber",
@@ -17508,7 +17516,7 @@
     "name": "我是昔昔",
     "type": "vtuber",
     "room": 7618745,
-    "face": "/bfs/face/97f9a5b1b8f198fd85ec1c5e78e2bb3dec7f055a.jpg",
+    "face": "/bfs/face/faec28fb354ca1e186b1d896b0c2105e7c395628.jpg",
     "group_name": ""
   },
   {
@@ -57720,6 +57728,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493090291616237,
+    "name": "未米7",
+    "type": "vtuber",
+    "room": 30848826,
+    "face": "/bfs/face/83820c586c16148cc891a74b894cafdfc5aeec17.jpg",
+    "group_name": "北立交桥（妖精管理局）"
+  },
+  {
     "uid": 3493090300004564,
     "name": "顒不愚绯鸾",
     "type": "vtuber",
@@ -59004,7 +59020,7 @@
     "name": "米酒狐狐",
     "type": "vtuber",
     "room": 30022580,
-    "face": "/bfs/face/2450e424eefd02c60118d0f38dc571b28472be67.jpg",
+    "face": "/bfs/face/8ffb3c76f5de2408807c8b5d613a8157b7bc4c78.jpg",
     "group_name": ""
   },
   {
@@ -70561,10 +70577,10 @@
   },
   {
     "uid": 3546597336025483,
-    "name": "花冷樱Hanabi",
+    "name": "HoIoLive",
     "type": "vtuber",
     "room": 31597166,
-    "face": "/bfs/face/69b1654fc1b2e9060aae236ac603e01c1fd3a90f.jpg",
+    "face": "/bfs/face/5e818fd794d402123be2234a1596078468819ed0.jpg",
     "group_name": ""
   },
   {

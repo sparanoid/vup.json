@@ -2499,8 +2499,8 @@
     "name": "-米茜Mixi-",
     "type": "vtuber",
     "room": 193484,
-    "face": "/bfs/face/85d96823b2743c29c81550ad0938e469ab7dd545.jpg",
-    "sign": "「妖精管理局」所属 I 动画势 I 喜欢唱歌 I 想做恋爱喜剧的一般路过制作进行",
+    "face": "/bfs/face/3ca0def3d5ffa7536be2f9346190f9706bc161de.jpg",
+    "sign": "「妖精管理局」所属 I 最喜欢你了～",
     "group_name": "北立交桥（妖精管理局）"
   },
   "572274": {
@@ -13863,6 +13863,14 @@
     "sign": "❥从你的心底找到我，这颗药不来自外界，是你爱自己治愈自己的力量，你弄丢我很久了吗？❥直播：下午14:30",
     "group_name": ""
   },
+  "12461558": {
+    "name": "红伊Hoi",
+    "type": "vtuber",
+    "room": 447743,
+    "face": "/bfs/face/80739e2f82931b88548f6c726b82d8f1707a1b65.jpg",
+    "sign": "「妖精管理局」歌势玫瑰花妖丨喜欢独处不爱社交",
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "12476124": {
     "name": "汐汐Ame",
     "type": "vtuber",
@@ -17507,7 +17515,7 @@
     "name": "我是昔昔",
     "type": "vtuber",
     "room": 7618745,
-    "face": "/bfs/face/97f9a5b1b8f198fd85ec1c5e78e2bb3dec7f055a.jpg",
+    "face": "/bfs/face/faec28fb354ca1e186b1d896b0c2105e7c395628.jpg",
     "sign": "温柔大姐姐 怀旧歌势",
     "group_name": ""
   },
@@ -19588,7 +19596,7 @@
     "type": "vtuber",
     "room": 2002290,
     "face": "/bfs/face/7258d79c83019a1da85ad450af3d9dcbb1af2a59.jpg",
-    "sign": "我们终其一生 就是要摆脱他人的期待 找到真正的自己",
+    "sign": "小狗没有耐心，小狗讨厌原地等待\n小狗没什么计划，小狗的计划就是开心！\n你有计划，小狗很乐意跟你一起执行！！",
     "group_name": ""
   },
   "35047473": {
@@ -57719,6 +57727,14 @@
     "sign": "Orig1n所属三期生 |  没被坏女人骗过的人生，是不完整的~",
     "group_name": ""
   },
+  "3493090291616237": {
+    "name": "未米7",
+    "type": "vtuber",
+    "room": 30848826,
+    "face": "/bfs/face/83820c586c16148cc891a74b894cafdfc5aeec17.jpg",
+    "sign": "「北立交桥·妖精管理局」所属「人类样本」实习生，以偶像为目标前进的普通女孩子✨ 录播指路@咪咪吃channel",
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "3493090300004564": {
     "name": "顒不愚绯鸾",
     "type": "vtuber",
@@ -59003,7 +59019,7 @@
     "name": "米酒狐狐",
     "type": "vtuber",
     "room": 30022580,
-    "face": "/bfs/face/2450e424eefd02c60118d0f38dc571b28472be67.jpg",
+    "face": "/bfs/face/8ffb3c76f5de2408807c8b5d613a8157b7bc4c78.jpg",
     "sign": "全职御姐音VUP/杂谈势/配音势/养成系腹黑妈势，晚上10：00-凌晨4：00找臭弟弟聊天，白天不定时降临。",
     "group_name": ""
   },
@@ -70560,11 +70576,11 @@
     "group_name": ""
   },
   "3546597336025483": {
-    "name": "花冷樱Hanabi",
+    "name": "HoIoLive",
     "type": "vtuber",
     "room": 31597166,
-    "face": "/bfs/face/69b1654fc1b2e9060aae236ac603e01c1fd3a90f.jpg",
-    "sign": "❀在花季天寒的春天，想和你一起走向樱花盛开的未来…❀",
+    "face": "/bfs/face/5e818fd794d402123be2234a1596078468819ed0.jpg",
+    "sign": "VTuber事务所  官方账号：https://b23.tv/u94JVrw 官网：https://hanabisakura.songlis",
     "group_name": ""
   },
   "3546597585587017": {

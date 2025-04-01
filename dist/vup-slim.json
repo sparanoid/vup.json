@@ -10397,6 +10397,12 @@
     "room": 22262300,
     "group_name": ""
   },
+  "12461558": {
+    "name": "红伊Hoi",
+    "type": "vtuber",
+    "room": 447743,
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "12476124": {
     "name": "汐汐Ame",
     "type": "vtuber",
@@ -43289,6 +43295,12 @@
     "room": 26855971,
     "group_name": ""
   },
+  "3493090291616237": {
+    "name": "未米7",
+    "type": "vtuber",
+    "room": 30848826,
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "3493090300004564": {
     "name": "顒不愚绯鸾",
     "type": "vtuber",
@@ -52920,7 +52932,7 @@
     "group_name": ""
   },
   "3546597336025483": {
-    "name": "花冷樱Hanabi",
+    "name": "HoIoLive",
     "type": "vtuber",
     "room": 31597166,
     "group_name": ""
