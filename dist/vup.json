@@ -20264,6 +20264,13 @@
     "face": "/bfs/face/1471bff801818f777808eb61cfa41e4387f9986d.jpg",
     "group_name": ""
   },
+  "114576718": {
+    "name": "绮锂",
+    "type": "vtuber",
+    "room": 1820336736,
+    "face": "/bfs/face/df728e2ba9aeb07815777985af3c6240f6d62cbf.jpg",
+    "group_name": ""
+  },
   "115416052": {
     "name": "烈阳神王-辛哈",
     "type": "vtuber",
@@ -21193,6 +21200,13 @@
     "type": "vtuber",
     "room": 24474876,
     "face": "/bfs/face/e7e75a6c89d66c21314ae9c2f65600922896f403.jpg",
+    "group_name": ""
+  },
+  "178429078": {
+    "name": "玉兔鹅Nerina",
+    "type": "vtuber",
+    "room": 1883350515,
+    "face": "/bfs/face/38e136ea27a9b1838ffd172e97d753d323a85733.jpg",
     "group_name": ""
   },
   "178464220": {
