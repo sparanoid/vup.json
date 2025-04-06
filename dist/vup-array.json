@@ -5200,6 +5200,14 @@
     "group_name": "ChaosLiveSprout"
   },
   {
+    "uid": 1898671,
+    "name": "闪闪闪闪星",
+    "type": "vtuber",
+    "room": 11966910,
+    "face": "/bfs/face/fcf6399b61249dc84f6e6ac44918ce54cb05f070.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1910639,
     "name": "染谷杏",
     "type": "vtuber",
@@ -57292,7 +57300,7 @@
     "name": "弥绘貘貘",
     "type": "vtuber",
     "room": 27266338,
-    "face": "/bfs/face/e9acd390e595946518604b816eabff82f4f3dff4.jpg",
+    "face": "/bfs/face/ef6271cacb65d57a4f79b0c0c3de86bcee6ea2c6.jpg",
     "group_name": ""
   },
   {
