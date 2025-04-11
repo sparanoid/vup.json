@@ -38751,6 +38751,13 @@
     "face": "/bfs/face/51f30f42a6bc350905351561334d5d51e73e2c8f.jpg",
     "group_name": ""
   },
+  "1188721336": {
+    "name": "白切鸰Official",
+    "type": "vtuber",
+    "room": 32229478,
+    "face": "/bfs/face/255b5abb140ffafcb33d520a2b0f02b093b72eec.jpg",
+    "group_name": ""
+  },
   "1189078151": {
     "name": "尤拉莉Eulalie",
     "type": "vtuber",
@@ -43837,7 +43844,7 @@
     "name": "四茶睡大觉",
     "type": "vtuber",
     "room": 31235282,
-    "face": "/bfs/face/bc974e86f305a552885910759a7b636cb173840f.jpg",
+    "face": "/bfs/face/b085c2018af44ecd66930e398d08054f213d03dc.jpg",
     "group_name": "问尘仙会"
   },
   "1666306454": {
