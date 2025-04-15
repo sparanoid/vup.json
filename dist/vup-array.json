@@ -17001,7 +17001,7 @@
   },
   {
     "uid": 21459239,
-    "name": "海里来Le",
+    "name": "海里Le",
     "type": "vtuber",
     "room": 30517857,
     "face": "/bfs/face/6de8e94d138cb24fd01c78e4bedf362108db15c6.jpg",
@@ -44644,7 +44644,7 @@
     "name": "又一充电中",
     "type": "vtuber",
     "room": 23771092,
-    "face": "/bfs/face/ffce9059e4666ffea6521b54956c9c7fc9d04ea5.webp",
+    "face": "/bfs/baselabs/0b9e097cc50cfe72c32e941bb2245ac1ab52713e.png",
     "group_name": "四禧丸子"
   },
   {
@@ -72124,7 +72124,7 @@
     "name": "陆艽Datura",
     "type": "vtuber",
     "room": 1952676854,
-    "face": "/bfs/face/88f51078de9622174124648aa2fb3ff8854e8995.jpg",
+    "face": "/bfs/face/634da250669d04e8532c72287fb069c68ee747b3.jpg",
     "group_name": ""
   },
   {
@@ -72437,6 +72437,14 @@
     "type": "vtuber",
     "room": 1913416707,
     "face": "/bfs/face/4d38f0218ad8ad56118c8d07b08d31067de451ec.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546871802890480,
+    "name": "MiKi岁岁",
+    "type": "vtuber",
+    "room": 1951596189,
+    "face": "/bfs/face/eefbb31ad3f507983d07fe19ad5e22e03dfa1ee4.jpg",
     "group_name": ""
   }
 ]

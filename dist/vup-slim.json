@@ -12750,7 +12750,7 @@
     "group_name": ""
   },
   "21459239": {
-    "name": "海里来Le",
+    "name": "海里Le",
     "type": "vtuber",
     "room": 30517857,
     "group_name": ""
@@ -54327,6 +54327,12 @@
     "name": "非与Feiy",
     "type": "vtuber",
     "room": 1913416707,
+    "group_name": ""
+  },
+  "3546871802890480": {
+    "name": "MiKi岁岁",
+    "type": "vtuber",
+    "room": 1951596189,
     "group_name": ""
   }
 }
