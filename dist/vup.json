@@ -5550,6 +5550,13 @@
     "face": "/bfs/face/07612a8b74736adeebb40b987ebd819cd76f670f.jpg",
     "group_name": "风云社"
   },
+  "2634833": {
+    "name": "子夜Yozora_",
+    "type": "vtuber",
+    "room": 21595889,
+    "face": "/bfs/face/afecd9c5d553d9bc9579aafc5f0349f028d748d9.jpg",
+    "group_name": ""
+  },
   "2634922": {
     "name": "二米明子",
     "type": "vtuber",
@@ -20752,6 +20759,13 @@
     "type": "vtuber",
     "room": 7252274,
     "face": "/bfs/face/0e47c0790310875f0b46cfd2b20c9f3c84b8da7e.jpg",
+    "group_name": ""
+  },
+  "155051862": {
+    "name": "凤小夕h",
+    "type": "vtuber",
+    "room": 26337250,
+    "face": "/bfs/face/8848a93e1115c15e391553c99fb3bee0637186a6.jpg",
     "group_name": ""
   },
   "155957707": {
@@ -49426,6 +49440,13 @@
     "face": "/bfs/face/a53caa02835bcaecd35d96f4415ab7b3bcc48b9b.jpg",
     "group_name": ""
   },
+  "3461573060331800": {
+    "name": "是小羊法则",
+    "type": "vtuber",
+    "room": 1910841948,
+    "face": "/bfs/face/efd8f98835db0571880a31b3d6f487033817580f.jpg",
+    "group_name": ""
+  },
   "3461573370710061": {
     "name": "深玖_Official",
     "type": "vtuber",
@@ -63382,6 +63403,13 @@
     "type": "vtuber",
     "room": 1913416707,
     "face": "/bfs/face/4d38f0218ad8ad56118c8d07b08d31067de451ec.jpg",
+    "group_name": ""
+  },
+  "3546862887897818": {
+    "name": "Sushimekabu",
+    "type": "vtuber",
+    "room": 1904552246,
+    "face": "/bfs/face/b81fdfea4e62ce6582e27984a2000b78bd816114.jpg",
     "group_name": ""
   },
   "3546871802890480": {
