@@ -73,7 +73,7 @@
     "name": "hanser",
     "type": "vtuber",
     "room": 48743,
-    "face": "/bfs/face/7dcbccf29237ccacac876237f3718111d95b9785.jpg",
+    "face": "/bfs/face/203d5c56a9efc2fbc7a163b6ea2e255437da8414.jpg",
     "group_name": "VirtuaReal"
   },
   "12600": {
@@ -57365,10 +57365,10 @@
     "group_name": ""
   },
   "3494353829890673": {
-    "name": "何洛洛哇",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 27941084,
-    "face": "/bfs/face/291bbdbe0ef3c3f465e3e5bfb4cddcc86ebb2e55.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3494353899096424": {
