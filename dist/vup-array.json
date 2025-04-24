@@ -8108,7 +8108,7 @@
     "name": "雪野夜时音",
     "type": "vtuber",
     "room": 3184309,
-    "face": "/bfs/face/3db3b2e790aceb7a167e8c63bcfb5b2bd159dd1f.jpg",
+    "face": "/bfs/face/faf654fc0f2295512487853cb7563180d6317509.jpg",
     "group_name": ""
   },
   {
@@ -19277,6 +19277,14 @@
     "type": "vtuber",
     "room": 4755113,
     "face": "/bfs/face/fb9c93aba194e46bcd30cd184f98180237750aea.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 33064694,
+    "name": "夜车Azuya",
+    "type": "vtuber",
+    "room": 13878454,
+    "face": "/bfs/face/13648dcad8787dde8cf0967013cda46a477c6560.jpg",
     "group_name": ""
   },
   {
@@ -68156,7 +68164,7 @@
     "name": "豚豚秃了",
     "type": "vtuber",
     "room": 31038065,
-    "face": "/bfs/face/c37a843b946f9d8a47963884beba71041597650e.jpg",
+    "face": "/bfs/face/ef8ae21a35b240e45b61d5d18bac77c3be16f1bf.jpg",
     "group_name": ""
   },
   {
@@ -70388,7 +70396,7 @@
     "name": "福宝Official",
     "type": "vtuber",
     "room": 31405244,
-    "face": "/bfs/face/205117f962e01b0c3ec45d0491c6c2f11621aa78.jpg",
+    "face": "/bfs/face/b61c12aa6363cfa5729287bd860a38361b009bd9.jpg",
     "group_name": ""
   },
   {
@@ -72374,6 +72382,14 @@
     "room": 1849256543,
     "face": "/bfs/face/215f161e6f929e003eed6b62d9ddf2dcb344e35d.jpg",
     "group_name": "北立交桥（妖精管理局）"
+  },
+  {
+    "uid": 3546778829850973,
+    "name": "晚月_Tsuki",
+    "type": "vtuber",
+    "room": 1788392766,
+    "face": "/bfs/face/3b3b0a1c35bef44ebe6b45b3fcca8e1533313c87.jpg",
+    "group_name": ""
   },
   {
     "uid": 3546780885059837,
