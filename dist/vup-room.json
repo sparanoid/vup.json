@@ -6908,6 +6908,13 @@
     "face": "/bfs/face/2a8ad6099373bd653e9fd67e242cabbc0d338ec8.jpg",
     "group_name": ""
   },
+  "3717173": {
+    "name": "艾丝塔尔Ester",
+    "type": "vtuber",
+    "room_id": 23020766,
+    "face": "/bfs/face/d57244e4206cce3eb7ebc6ceaf6779b79f226dc5.jpg",
+    "group_name": ""
+  },
   "3724949": {
     "name": "咕咕挞",
     "type": "vtuber",
@@ -55221,6 +55228,13 @@
     "room_id": 27933289,
     "face": "/bfs/face/b17152497b59ab9afce30abe251c0ea681b93b62.jpg",
     "group_name": ""
+  },
+  "3493276590017291": {
+    "name": "阿哇Akai_awa",
+    "type": "vtuber",
+    "room_id": 1992888075,
+    "face": "/bfs/face/560f8ce32deaf368b926bd3035db0c9978432de4.jpg",
+    "group_name": "幻想社Fantas1A"
   },
   "3493276592114514": {
     "name": "脚脚23",
