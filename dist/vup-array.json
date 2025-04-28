@@ -72216,6 +72216,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546742307949203,
+    "name": "理也Rimo",
+    "type": "vtuber",
+    "room": 1706438507,
+    "face": "/bfs/face/14d9e6e7833ca36d7fc8a02485e2a9b9b3dc2db6.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546742685436308,
     "name": "雲璃Yuliko",
     "type": "vtuber",
@@ -72421,6 +72429,14 @@
     "type": "vtuber",
     "room": 1829023481,
     "face": "/bfs/face/7b498d68da4c386aab63b1f91aa9070d94eb5532.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546793340046096,
+    "name": "修ShowTime-Egous",
+    "type": "vtuber",
+    "room": 1789075550,
+    "face": "/bfs/face/ab21ffa5510a692691571f3f0f213eaebc46d588.jpg",
     "group_name": ""
   },
   {
