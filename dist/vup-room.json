@@ -7227,7 +7227,7 @@
     "name": "莱塔卡恩LetaCalne",
     "type": "vtuber",
     "room_id": 4881989,
-    "face": "/bfs/face/f5ea9e3519bffc65eb3b8c03ed5d081d2f65936d.jpg",
+    "face": "/bfs/face/329aed940a370513350b5ee7c6e59295ff809b41.jpg",
     "group_name": ""
   },
   "4097824": {
@@ -61295,7 +61295,7 @@
     "name": "Lucky甜糖",
     "type": "vtuber",
     "room_id": 32638315,
-    "face": "/bfs/face/7fa2e8af703d2781e1ad67a8e2d905ed4eeb5f88.jpg",
+    "face": "/bfs/face/2ae888aa2a4ec2d18c5dedb981f550398c0b8954.jpg",
     "group_name": ""
   },
   "3546566478531324": {
@@ -63137,6 +63137,13 @@
     "type": "vtuber",
     "room_id": 1852504554,
     "face": "/bfs/face/f8d99297dd73a68548547d7b2eb0d32614baef36.jpg",
+    "group_name": ""
+  },
+  "3546729811019868": {
+    "name": "星守莲花",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/81add4dfafd5483cb884beef10bac7314c217486.jpg",
     "group_name": ""
   },
   "3546730823944886": {
