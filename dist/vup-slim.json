@@ -51132,7 +51132,7 @@
     "group_name": ""
   },
   "3537108427868696": {
-    "name": "豚豚秃了",
+    "name": "豚豚不秃",
     "type": "vtuber",
     "room": 31038065,
     "group_name": ""
@@ -53571,6 +53571,12 @@
     "name": "唯迟Witch",
     "type": "vtuber",
     "room": 32316913,
+    "group_name": ""
+  },
+  "3546649829837475": {
+    "name": "风早要Kaname",
+    "type": "vtuber",
+    "room": 32604327,
     "group_name": ""
   },
   "3546651998292556": {

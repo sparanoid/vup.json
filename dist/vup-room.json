@@ -6688,7 +6688,7 @@
     "name": "NatsumeSaki",
     "type": "vtuber",
     "room_id": 156789,
-    "face": "/bfs/face/5c58d2d7a0cafe377e31aef5da922cb09c91db09.jpg",
+    "face": "/bfs/face/d0ee63d4be6777c02857198fe9e8862306b9df7c.jpg",
     "group_name": "薯条project"
   },
   "3432647": {
@@ -11763,7 +11763,7 @@
     "name": "熊本遥haruka",
     "type": "vtuber",
     "room_id": 1145572,
-    "face": "/bfs/face/e12c18af27f8ab90d9fcb39951ae53f7ac159a84.jpg",
+    "face": "/bfs/face/6b32f93850b7283c29f2b23e9223a71da882d04e.jpg",
     "group_name": ""
   },
   "11673035": {
@@ -18028,7 +18028,7 @@
     "name": "酥壳Sarika",
     "type": "vtuber",
     "room_id": 22858498,
-    "face": "/bfs/face/7b50d363f3df4f5b1491e90e96f6822723fe6b34.jpg",
+    "face": "/bfs/face/e74c0c521073d716a68ba0df812a41d5e5d433fa.jpg",
     "group_name": ""
   },
   "44128967": {
@@ -36480,7 +36480,7 @@
     "name": "栀鸢Chilali",
     "type": "vtuber",
     "room_id": 31757506,
-    "face": "/bfs/face/e2c74a749b8bc8c5fbd52ab0004d655097b32820.jpg",
+    "face": "/bfs/face/b1f96da5030624793316f1d7ea7e3f694d0960f4.jpg",
     "group_name": ""
   },
   "694269763": {
@@ -49563,7 +49563,7 @@
     "name": "纱依shayi",
     "type": "vtuber",
     "room_id": 26168663,
-    "face": "/bfs/face/2ae263716528629d8fae351e8a1d9551848d2043.webp",
+    "face": "/bfs/face/456b7b968bc0821fa5184f7ddd9b14bf346cc931.jpg",
     "group_name": "雪域Provealms"
   },
   "3461576250099802": {
@@ -57354,7 +57354,7 @@
     "name": "祢夜十音",
     "type": "vtuber",
     "room_id": 27935833,
-    "face": "/bfs/face/a8adec851c7e78a752802e08013380e7853a87bb.jpg",
+    "face": "/bfs/face/c2548a2dcbea1e87da3882aca377250aeaaa5a4c.jpg",
     "group_name": ""
   },
   "3494353649535053": {
@@ -59654,7 +59654,7 @@
     "group_name": ""
   },
   "3537108427868696": {
-    "name": "豚豚秃了",
+    "name": "豚豚不秃",
     "type": "vtuber",
     "room_id": 31038065,
     "face": "/bfs/face/644e94733c70a6349d96926b0fcfcca26cc9b276.jpg",
@@ -62500,6 +62500,13 @@
     "type": "vtuber",
     "room_id": 32316913,
     "face": "/bfs/face/6e490d5f91fcb240a6c40780558a8e28291b8890.jpg",
+    "group_name": ""
+  },
+  "3546649829837475": {
+    "name": "风早要Kaname",
+    "type": "vtuber",
+    "room_id": 32604327,
+    "face": "/bfs/face/0d537cea545174fba9db9557418557da1b528b50.jpg",
     "group_name": ""
   },
   "3546651998292556": {
