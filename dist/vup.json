@@ -8154,6 +8154,13 @@
     "face": "/bfs/face/51ae7e27753eabf44a585e3a509cfc744c0074bb.jpg",
     "group_name": ""
   },
+  "5366508": {
+    "name": "红沼泽",
+    "type": "vtuber",
+    "room": 5302777,
+    "face": "/bfs/face/f55cf1f4898993d162ea7e7ecbf72dea1dd67466.jpg",
+    "group_name": ""
+  },
   "5366583": {
     "name": "狐牌拌饭",
     "type": "vtuber",
@@ -40242,6 +40249,13 @@
     "face": "/bfs/face/4fa2c011435f4e23eec01c583a40acbf9f540191.jpg",
     "group_name": "hOuOu_Project"
   },
+  "1326703100": {
+    "name": "妃莉纱Kisaki",
+    "type": "vtuber",
+    "room": 30971254,
+    "face": "/bfs/face/4467a782a86809177db45489abce81f4138b7f54.jpg",
+    "group_name": ""
+  },
   "1327189298": {
     "name": "亚斯塔Astra",
     "type": "vtuber",
@@ -55198,7 +55212,7 @@
     "name": "ShizuVtuber",
     "type": "vtuber",
     "room": 27548916,
-    "face": "/bfs/face/6b11938106f3ecd17686c17521bc02e6c26428bc.jpg",
+    "face": "/bfs/face/79c0c0f33d9cec156f75789198ae156538df1b17.jpg",
     "group_name": ""
   },
   "3493276436924430": {

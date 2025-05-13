@@ -9319,6 +9319,14 @@
     "sign": "糸（si/mi）月",
     "group_name": ""
   },
+  "5366508": {
+    "name": "红沼泽",
+    "type": "vtuber",
+    "room": 5302777,
+    "face": "/bfs/face/f55cf1f4898993d162ea7e7ecbf72dea1dd67466.jpg",
+    "sign": "你好我是沼沼！喜欢唱歌、画画、打游戏，每天晚上21:00开播！沼泽海群887198523，录播号@下播的红沼泽录播组",
+    "group_name": ""
+  },
   "5366583": {
     "name": "狐牌拌饭",
     "type": "vtuber",
@@ -45991,6 +45999,14 @@
     "sign": "hOuOu虚拟艺人团体成员。-怪谈里流淌着二十一种情绪，没有一种是餍足-商务：houou_project@163.com",
     "group_name": "hOuOu_Project"
   },
+  "1326703100": {
+    "name": "妃莉纱Kisaki",
+    "type": "vtuber",
+    "room": 30971254,
+    "face": "/bfs/face/4467a782a86809177db45489abce81f4138b7f54.jpg",
+    "sign": "【来自其他次元的黑猫！＞人＜是黑猫！黑猫喵！！！】个人势～直播通知「718320840」答案：妃莉纱",
+    "group_name": ""
+  },
   "1327189298": {
     "name": "亚斯塔Astra",
     "type": "vtuber",
@@ -63083,7 +63099,7 @@
     "name": "ShizuVtuber",
     "type": "vtuber",
     "room": 27548916,
-    "face": "/bfs/face/6b11938106f3ecd17686c17521bc02e6c26428bc.jpg",
+    "face": "/bfs/face/79c0c0f33d9cec156f75789198ae156538df1b17.jpg",
     "sign": "I'M YOUR EMOTIONAL SUPPORT DOGBOY! NICE TO MEET YOU! ARF ARF",
     "group_name": ""
   },

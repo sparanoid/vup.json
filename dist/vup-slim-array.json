@@ -8155,6 +8155,13 @@
     "group_name": ""
   },
   {
+    "uid": 5366508,
+    "name": "红沼泽",
+    "type": "vtuber",
+    "room": 5302777,
+    "group_name": ""
+  },
+  {
     "uid": 5366583,
     "name": "狐牌拌饭",
     "type": "vtuber",
@@ -40241,6 +40248,13 @@
     "type": "vtuber",
     "room": 24792424,
     "group_name": "hOuOu_Project"
+  },
+  {
+    "uid": 1326703100,
+    "name": "妃莉纱Kisaki",
+    "type": "vtuber",
+    "room": 30971254,
+    "group_name": ""
   },
   {
     "uid": 1327189298,
