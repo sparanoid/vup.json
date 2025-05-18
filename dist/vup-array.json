@@ -31633,7 +31633,7 @@
   },
   {
     "uid": 429983758,
-    "name": "大避登",
+    "name": "--BB--",
     "type": "vtuber",
     "room": 21460916,
     "face": "/bfs/face/145d5f5ed685face8319cd0ac522f0f20a2da235.jpg",
@@ -50340,7 +50340,7 @@
     "name": "连理今天也好可爱嗷",
     "type": "vtuber",
     "room": 23116434,
-    "face": "/bfs/face/bcae8a6b91dd4a2dc9e2b12da7d759cb2a5c5688.jpg",
+    "face": "/bfs/face/3e50168e0b50a9a8dfb7bcdf7caaaddb82f3b02f.jpg",
     "group_name": ""
   },
   {
@@ -69480,6 +69480,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546384980511002,
+    "name": "御瑶瑶yuki",
+    "type": "vtuber",
+    "room": 30987621,
+    "face": "/bfs/face/988b3cf517c07454bcf65cb1ec25863f45d28e84.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546385349609580,
     "name": "いずみIzumi",
     "type": "vtuber",
@@ -71296,6 +71304,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546636944935414,
+    "name": "弥莉安喵Miriya",
+    "type": "vtuber",
+    "room": 1919210104,
+    "face": "/bfs/face/0d029e9e7f0897fcb9eb13e6445b9c16ae092dae.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546636984781262,
     "name": "Nolie乃莉",
     "type": "vtuber",
@@ -71429,6 +71445,14 @@
     "type": "vtuber",
     "room": 1856176686,
     "face": "/bfs/face/617fddb532cd45822193662c855ea07b2cb2c6c6.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546648470882884,
+    "name": "竹九氿_Nn",
+    "type": "vtuber",
+    "room": 1811714206,
+    "face": "/bfs/face/e5e47855f7d4621f5a6dd911caecdfa356723d18.jpg",
     "group_name": ""
   },
   {
@@ -71800,6 +71824,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546693914069074,
+    "name": "金小沅_Lucky",
+    "type": "vtuber",
+    "room": 1894648357,
+    "face": "/bfs/face/5d43e75bf3e62ae37ec1a03ba1a5577c2d69d47f.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546694188796294,
     "name": "可波・卡娜埃露Official",
     "type": "vtuber",
@@ -72133,6 +72165,14 @@
     "type": "vtuber",
     "room": 1817726292,
     "face": "/bfs/face/017c017aace83b0921023fb06b4a63953c594cd0.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546720562580430,
+    "name": "雪狸Pip狐",
+    "type": "vtuber",
+    "room": 1975890744,
+    "face": "/bfs/face/0fcc3a09bc3bc92da9c9c8fb3284d82ec94ac377.jpg",
     "group_name": ""
   },
   {
@@ -72512,6 +72552,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546800784935014,
+    "name": "不死鸟Dom",
+    "type": "vtuber",
+    "room": 1786411589,
+    "face": "/bfs/face/8d59c4f900a87f6206318be884ae64a303d706e6.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546816039619075,
     "name": "拉普拉斯暗黑Official",
     "type": "vtuber",
@@ -72560,6 +72608,22 @@
     "group_name": "Fulaco-Official"
   },
   {
+    "uid": 3546837608827396,
+    "name": "悠月Yuduki",
+    "type": "vtuber",
+    "room": 1995132376,
+    "face": "/bfs/face/df8d74598c58f9228bbf89a3061af53577d1bded.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546846913890718,
+    "name": "柯米莉亚_Kamiria",
+    "type": "vtuber",
+    "room": 1909464245,
+    "face": "/bfs/face/0aac73d3d2ee1dc715d1b4cdd75321695ebe74ec.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546856804059245,
     "name": "非与Feiy",
     "type": "vtuber",
@@ -72572,7 +72636,7 @@
     "name": "眠眠绒球",
     "type": "vtuber",
     "room": 1959062815,
-    "face": "/bfs/face/dd9ce0e0b80fa87a75ac17a4de00e903fc4af9a1.jpg",
+    "face": "/bfs/face/2dbf0f9d65d80b2d6389b2fd348690c50298da95.jpg",
     "group_name": ""
   },
   {
@@ -72581,6 +72645,14 @@
     "type": "vtuber",
     "room": 1904552246,
     "face": "/bfs/face/b81fdfea4e62ce6582e27984a2000b78bd816114.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546865819716385,
+    "name": "卡诗罗Kashlo",
+    "type": "vtuber",
+    "room": 1881123597,
+    "face": "/bfs/face/4dbdfd530a518638fb024a0446d4c6637ebf4e5f.jpg",
     "group_name": ""
   },
   {

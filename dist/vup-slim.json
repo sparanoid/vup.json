@@ -23724,7 +23724,7 @@
     "group_name": ""
   },
   "429983758": {
-    "name": "大避登",
+    "name": "--BB--",
     "type": "vtuber",
     "room": 21460916,
     "group_name": "幻home"
@@ -52109,6 +52109,12 @@
     "room": 31183133,
     "group_name": ""
   },
+  "3546384980511002": {
+    "name": "御瑶瑶yuki",
+    "type": "vtuber",
+    "room": 30987621,
+    "group_name": ""
+  },
   "3546385349609580": {
     "name": "いずみIzumi",
     "type": "vtuber",
@@ -53471,6 +53477,12 @@
     "room": 32208257,
     "group_name": ""
   },
+  "3546636944935414": {
+    "name": "弥莉安喵Miriya",
+    "type": "vtuber",
+    "room": 1919210104,
+    "group_name": ""
+  },
   "3546636984781262": {
     "name": "Nolie乃莉",
     "type": "vtuber",
@@ -53571,6 +53583,12 @@
     "name": "魔福mofu",
     "type": "vtuber",
     "room": 1856176686,
+    "group_name": ""
+  },
+  "3546648470882884": {
+    "name": "竹九氿_Nn",
+    "type": "vtuber",
+    "room": 1811714206,
     "group_name": ""
   },
   "3546649167137356": {
@@ -53849,6 +53867,12 @@
     "room": 1829026751,
     "group_name": ""
   },
+  "3546693914069074": {
+    "name": "金小沅_Lucky",
+    "type": "vtuber",
+    "room": 1894648357,
+    "group_name": ""
+  },
   "3546694188796294": {
     "name": "可波・卡娜埃露Official",
     "type": "vtuber",
@@ -54099,6 +54123,12 @@
     "name": "沈逅Dethora",
     "type": "vtuber",
     "room": 1817726292,
+    "group_name": ""
+  },
+  "3546720562580430": {
+    "name": "雪狸Pip狐",
+    "type": "vtuber",
+    "room": 1975890744,
     "group_name": ""
   },
   "3546721873300222": {
@@ -54383,6 +54413,12 @@
     "room": 1702712214,
     "group_name": ""
   },
+  "3546800784935014": {
+    "name": "不死鸟Dom",
+    "type": "vtuber",
+    "room": 1786411589,
+    "group_name": ""
+  },
   "3546816039619075": {
     "name": "拉普拉斯暗黑Official",
     "type": "vtuber",
@@ -54419,6 +54455,18 @@
     "room": 1903489445,
     "group_name": "Fulaco-Official"
   },
+  "3546837608827396": {
+    "name": "悠月Yuduki",
+    "type": "vtuber",
+    "room": 1995132376,
+    "group_name": ""
+  },
+  "3546846913890718": {
+    "name": "柯米莉亚_Kamiria",
+    "type": "vtuber",
+    "room": 1909464245,
+    "group_name": ""
+  },
   "3546856804059245": {
     "name": "非与Feiy",
     "type": "vtuber",
@@ -54435,6 +54483,12 @@
     "name": "Sushimekabu",
     "type": "vtuber",
     "room": 1904552246,
+    "group_name": ""
+  },
+  "3546865819716385": {
+    "name": "卡诗罗Kashlo",
+    "type": "vtuber",
+    "room": 1881123597,
     "group_name": ""
   },
   "3546866377558195": {
