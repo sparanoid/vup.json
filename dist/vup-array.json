@@ -32037,7 +32037,7 @@
     "type": "vtuber",
     "room": 22864629,
     "face": "/bfs/face/f77afb0968c1d6ab6cc8b7fcf7b5e1aea67633b5.jpg",
-    "group_name": ""
+    "group_name": "北立交桥（妖精管理局）"
   },
   {
     "uid": 433749835,
@@ -39869,6 +39869,14 @@
     "type": "vtuber",
     "room": 26500463,
     "face": "/bfs/face/3aea83a16899687c2ec730657ec85ef67328fc29.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 630854020,
+    "name": "小狼雨筠",
+    "type": "vtuber",
+    "room": 25541082,
+    "face": "/bfs/face/f289669074596b3c0207930a51c2bdb70c9720bf.jpg",
     "group_name": ""
   },
   {
@@ -71437,6 +71445,14 @@
     "type": "vtuber",
     "room": 32283525,
     "face": "/bfs/face/6700e733bd0fd928b45b7b920e24ed01af4f2175.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546648428939813,
+    "name": "小食Taberu",
+    "type": "vtuber",
+    "room": 1931555381,
+    "face": "/bfs/face/a6f10b96f205a2025f130205f30428292f945889.jpg",
     "group_name": ""
   },
   {

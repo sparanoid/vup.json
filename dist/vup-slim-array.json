@@ -28032,7 +28032,7 @@
     "name": "星宮雲",
     "type": "vtuber",
     "room": 22864629,
-    "group_name": ""
+    "group_name": "北立交桥（妖精管理局）"
   },
   {
     "uid": 433749835,
@@ -34885,6 +34885,13 @@
     "name": "右飒Yuu",
     "type": "vtuber",
     "room": 26500463,
+    "group_name": ""
+  },
+  {
+    "uid": 630854020,
+    "name": "小狼雨筠",
+    "type": "vtuber",
+    "room": 25541082,
     "group_name": ""
   },
   {
@@ -62507,6 +62514,13 @@
     "name": "安伯_Ember",
     "type": "vtuber",
     "room": 32283525,
+    "group_name": ""
+  },
+  {
+    "uid": 3546648428939813,
+    "name": "小食Taberu",
+    "type": "vtuber",
+    "room": 1931555381,
     "group_name": ""
   },
   {
