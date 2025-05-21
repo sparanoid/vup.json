@@ -27271,6 +27271,13 @@
     "face": "/bfs/face/3f7a6e5bd978aad1269e50766fd95232a3929d3f.jpg",
     "group_name": ""
   },
+  "414090921": {
+    "name": "琳喃喃吖",
+    "type": "vtuber",
+    "room_id": 32485104,
+    "face": "/bfs/face/955cf15837dd5d63bc1f42304a55c07776c6063b.jpg",
+    "group_name": ""
+  },
   "414116896": {
     "name": "伊丽莎白卡芙琳Channel",
     "type": "vtuber",
@@ -35398,6 +35405,13 @@
     "face": "/bfs/face/5144e045ab9ee67182cd116d6c1adb65fd2a20b4.jpg",
     "group_name": ""
   },
+  "663596160": {
+    "name": "朝比奈_Hina",
+    "type": "vtuber",
+    "room_id": 1770865056,
+    "face": "/bfs/face/f6453c7b51db49c3744063104a7a1ed0bfe7a456.jpg",
+    "group_name": ""
+  },
   "664047468": {
     "name": "莉姆丝OvO",
     "type": "vtuber",
@@ -41787,6 +41801,13 @@
     "type": "vtuber",
     "room_id": 23188895,
     "face": "/bfs/face/ffe3a35bf11515c8511cb5f97e244a4908ffd0c0.jpg",
+    "group_name": ""
+  },
+  "1463163594": {
+    "name": "白夭夭-Yy",
+    "type": "vtuber",
+    "room_id": 1993743676,
+    "face": "/bfs/face/8f2738a7718d0708a6adb01f776ee858281789f2.jpg",
     "group_name": ""
   },
   "1463794242": {
@@ -61781,6 +61802,13 @@
     "face": "/bfs/face/6d96911765898b1b38ed9e59a124f93f11153085.jpg",
     "group_name": ""
   },
+  "3546593498237765": {
+    "name": "涟洢Lianyi",
+    "type": "vtuber",
+    "room_id": 32231958,
+    "face": "/bfs/face/e718e5632ebb6b803a8e97e127a08ffdc92c9016.jpg",
+    "group_name": ""
+  },
   "3546593517111619": {
     "name": "壮壮-Lin",
     "type": "vtuber",
@@ -63237,6 +63265,13 @@
     "face": "/bfs/face/5b53a10309325eb6aac74aae6b5192f240e576c2.jpg",
     "group_name": ""
   },
+  "3546735100037146": {
+    "name": "洛灵Rolin",
+    "type": "vtuber",
+    "room_id": 1996447113,
+    "face": "/bfs/face/7ca782cc8136a9f0df5155b0981160a31f176520.jpg",
+    "group_name": ""
+  },
   "3546736811313456": {
     "name": "陆艽Datura",
     "type": "vtuber",
@@ -63461,6 +63496,20 @@
     "face": "/bfs/face/7b498d68da4c386aab63b1f91aa9070d94eb5532.jpg",
     "group_name": ""
   },
+  "3546785129695357": {
+    "name": "未未音_Mimine",
+    "type": "vtuber",
+    "room_id": 1920452676,
+    "face": "/bfs/face/3bd1751f4153c3c473b9e80aebfa7ae3bb7d903b.jpg",
+    "group_name": ""
+  },
+  "3546786285226747": {
+    "name": "王富贵RichW-原创音乐人",
+    "type": "vtuber",
+    "room_id": 1797323422,
+    "face": "/bfs/baselabs/9331d06f9a3887d13a3ef6f3ab8c8d7aaa28fec3.png",
+    "group_name": ""
+  },
   "3546793340046096": {
     "name": "修ShowTime-Egous",
     "type": "vtuber",
@@ -63557,6 +63606,20 @@
     "type": "vtuber",
     "room_id": 1909464245,
     "face": "/bfs/face/0aac73d3d2ee1dc715d1b4cdd75321695ebe74ec.jpg",
+    "group_name": ""
+  },
+  "3546851561179660": {
+    "name": "鹿可Yuko",
+    "type": "vtuber",
+    "room_id": 1733394586,
+    "face": "/bfs/face/7f6a372451b895ed24527139795aa8cbaff29bdb.jpg",
+    "group_name": ""
+  },
+  "3546852299377457": {
+    "name": "冉晴Apricus",
+    "type": "vtuber",
+    "room_id": 1833441035,
+    "face": "/bfs/face/0fffe04fa8f92790e0f125449851f1789fe6a42a.jpg",
     "group_name": ""
   },
   "3546856804059245": {
