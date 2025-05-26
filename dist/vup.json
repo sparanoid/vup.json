@@ -13292,6 +13292,13 @@
     "face": "/bfs/face/ade9dcb9c7287231a3b192592b0c56c7c38a550c.jpg",
     "group_name": ""
   },
+  "15058395": {
+    "name": "流明鹤_H",
+    "type": "vtuber",
+    "room": 13932749,
+    "face": "/bfs/face/e65084b8f5123ecc1d6eb39cba2f0129f38ae388.jpg",
+    "group_name": ""
+  },
   "15072949": {
     "name": "赤狐Vulpes_Channel",
     "type": "vtuber",
@@ -14817,6 +14824,13 @@
     "room": 23722192,
     "face": "/bfs/face/d3522664a3e07de282bf0522f597b08bf130beae.jpg",
     "group_name": "极光社"
+  },
+  "21013884": {
+    "name": "氪萝蒂亚official",
+    "type": "vtuber",
+    "room": 410175,
+    "face": "/bfs/face/caf2651a1295a3fd2b1e35f2eb7bed44b63f8ff1.jpg",
+    "group_name": ""
   },
   "21090462": {
     "name": "森羽理亚Lia",
