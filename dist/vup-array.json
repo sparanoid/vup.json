@@ -8840,6 +8840,14 @@
     "group_name": "虚研社"
   },
   {
+    "uid": 4797281,
+    "name": "寒霜棱",
+    "type": "vtuber",
+    "room": 12279162,
+    "face": "/bfs/face/159f6f24e4788cdec5bf4f9d641ca1683eb62240.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 4832930,
     "name": "银银子deisu",
     "type": "vtuber",
@@ -72680,11 +72688,27 @@
     "group_name": "Fulaco-Official"
   },
   {
+    "uid": 3546837457832805,
+    "name": "海露美Helmi",
+    "type": "vtuber",
+    "room": 1912783928,
+    "face": "/bfs/face/de65b9367c923be6372cee1a0a69f965017d8482.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546837608827396,
     "name": "悠月Yuduki",
     "type": "vtuber",
     "room": 1995132376,
     "face": "/bfs/face/df8d74598c58f9228bbf89a3061af53577d1bded.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546838751775383,
+    "name": "优妮-Uni_Kokoro",
+    "type": "vtuber",
+    "room": 1909461161,
+    "face": "/bfs/face/5e0eafeecf4c894b7245c074db7588982deb1504.jpg",
     "group_name": ""
   },
   {
