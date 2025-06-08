@@ -10101,6 +10101,13 @@
     "group_name": ""
   },
   {
+    "uid": 8336096,
+    "name": "麻衣花贝Ving",
+    "type": "vtuber",
+    "room": 5070642,
+    "group_name": ""
+  },
+  {
     "uid": 8337028,
     "name": "找呀找呀找乐子",
     "type": "vtuber",
@@ -30317,6 +30324,13 @@
     "group_name": ""
   },
   {
+    "uid": 481548508,
+    "name": "柊音Serena",
+    "type": "vtuber",
+    "room": 22773342,
+    "group_name": ""
+  },
+  {
     "uid": 481694509,
     "name": "喵玖玖CatNine",
     "type": "vtuber",
@@ -31253,6 +31267,13 @@
     "type": "vtuber",
     "room": 0,
     "group_name": "holostars"
+  },
+  {
+    "uid": 494571147,
+    "name": "米洛洛Naomi",
+    "type": "vtuber",
+    "room": 1851657728,
+    "group_name": ""
   },
   {
     "uid": 494760262,
@@ -50617,6 +50638,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493088102189901,
+    "name": "曦月拉姆",
+    "type": "vtuber",
+    "room": 26515355,
+    "group_name": ""
+  },
+  {
     "uid": 3493088139938456,
     "name": "谷月病",
     "type": "vtuber",
@@ -63413,6 +63441,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546734949042805,
+    "name": "尤可Yuki",
+    "type": "vtuber",
+    "room": 1996441602,
+    "group_name": ""
+  },
+  {
     "uid": 3546735100037146,
     "name": "洛灵Rolin",
     "type": "vtuber",
@@ -63609,6 +63644,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546767039662448,
+    "name": "有苏狸狸",
+    "type": "vtuber",
+    "room": 1794701956,
+    "group_name": ""
+  },
+  {
     "uid": 3546768509766533,
     "name": "由米_yumie",
     "type": "vtuber",
@@ -63756,6 +63798,13 @@
     "group_name": "Fulaco-Official"
   },
   {
+    "uid": 3546827183884565,
+    "name": "灵凌Zero",
+    "type": "vtuber",
+    "room": 1887787860,
+    "group_name": ""
+  },
+  {
     "uid": 3546828106631502,
     "name": "Fulaco-龙舍蓝Oxo",
     "type": "vtuber",
@@ -63896,6 +63945,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546868044794663,
+    "name": "佳逸Dae",
+    "type": "vtuber",
+    "room": 1904551646,
+    "group_name": ""
+  },
+  {
     "uid": 3546868392921566,
     "name": "洛宁Lny",
     "type": "vtuber",
@@ -63917,10 +63973,52 @@
     "group_name": "北立交桥（妖精管理局）"
   },
   {
+    "uid": 3546887682525874,
+    "name": "HOLOSTARS_EN",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
+    "uid": 3546899885853387,
+    "name": "雪都梨Duli",
+    "type": "vtuber",
+    "room": 1908320170,
+    "group_name": ""
+  },
+  {
+    "uid": 3546903350348268,
+    "name": "氿姬kyuu",
+    "type": "vtuber",
+    "room": 1995468875,
+    "group_name": ""
+  },
+  {
+    "uid": 3546905170676332,
+    "name": "奈莎Nyssa",
+    "type": "vtuber",
+    "room": 1949981754,
+    "group_name": ""
+  },
+  {
     "uid": 3546906485590570,
     "name": "季瑶铃",
     "type": "vtuber",
     "room": 1852630738,
     "group_name": "问尘仙会"
+  },
+  {
+    "uid": 3546907997637317,
+    "name": "加维斯贝特尔_EN",
+    "type": "vtuber",
+    "room": 1890955491,
+    "group_name": ""
+  },
+  {
+    "uid": 3546908001831485,
+    "name": "奥克塔维奥_EN",
+    "type": "vtuber",
+    "room": 1992271807,
+    "group_name": ""
   }
 ]
