@@ -12488,6 +12488,13 @@
     "group_name": ""
   },
   {
+    "uid": 13105825,
+    "name": "音绵Otowata",
+    "type": "vtuber",
+    "room": 232112,
+    "group_name": ""
+  },
+  {
     "uid": 13145248,
     "name": "AX泫尘",
     "type": "vtuber",
@@ -25116,6 +25123,13 @@
     "group_name": "P家"
   },
   {
+    "uid": 381040104,
+    "name": "琉霓Ryuri",
+    "type": "vtuber",
+    "room": 1733399951,
+    "group_name": ""
+  },
+  {
     "uid": 381294255,
     "name": "WINKS事务所",
     "type": "group",
@@ -27458,6 +27472,13 @@
     "name": "comdost",
     "type": "vtuber",
     "room": 0,
+    "group_name": ""
+  },
+  {
+    "uid": 417317775,
+    "name": "小松奈_Savi",
+    "type": "vtuber",
+    "room": 1904558719,
     "group_name": ""
   },
   {
@@ -51829,7 +51850,7 @@
   },
   {
     "uid": 3493120324930418,
-    "name": "米酒狐狐",
+    "name": "米酒狐狐-2周年冲舰版",
     "type": "vtuber",
     "room": 30022580,
     "group_name": ""
@@ -55798,7 +55819,7 @@
   },
   {
     "uid": 3493283393178433,
-    "name": "几分之几-_",
+    "name": "一碗面--",
     "type": "vtuber",
     "room": 27786941,
     "group_name": ""
@@ -61691,6 +61712,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546580527352661,
+    "name": "籽芋_Official",
+    "type": "vtuber",
+    "room": 1887781135,
+    "group_name": ""
+  },
+  {
     "uid": 3546581315881030,
     "name": "洛川霁月",
     "type": "vtuber",
@@ -62346,6 +62374,13 @@
     "name": "呜咕UgU",
     "type": "vtuber",
     "room": 31962290,
+    "group_name": ""
+  },
+  {
+    "uid": 3546623902747508,
+    "name": "百变魔女小脑斧promax",
+    "type": "vtuber",
+    "room": 32091360,
     "group_name": ""
   },
   {
@@ -63406,6 +63441,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546739965430169,
+    "name": "是嘻依啊丶",
+    "type": "vtuber",
+    "room": 1742805046,
+    "group_name": ""
+  },
+  {
     "uid": 3546740040928185,
     "name": "风味袜子",
     "type": "vtuber",
@@ -63854,6 +63896,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546868392921566,
+    "name": "洛宁Lny",
+    "type": "vtuber",
+    "room": 1847872589,
+    "group_name": ""
+  },
+  {
     "uid": 3546871802890480,
     "name": "MiKi岁岁",
     "type": "vtuber",
@@ -63866,5 +63915,12 @@
     "type": "vtuber",
     "room": 1948312414,
     "group_name": "北立交桥（妖精管理局）"
+  },
+  {
+    "uid": 3546906485590570,
+    "name": "季瑶铃",
+    "type": "vtuber",
+    "room": 1852630738,
+    "group_name": "问尘仙会"
   }
 ]

@@ -7570,7 +7570,7 @@
     "name": "好像是唱歌的46CAT",
     "type": "vtuber",
     "room_id": 409538,
-    "face": "/bfs/face/713ac6d99fbb88c73d2bc6f6fdfdd98d09823793.jpg",
+    "face": "/bfs/face/783d1c82125a5c38332ebe7b6852a46322c0dac9.jpg",
     "group_name": ""
   },
   "4600451": {
@@ -12485,6 +12485,13 @@
     "type": "vtuber",
     "room_id": 589881,
     "face": "/bfs/face/3cd14828fd9ef1bb02f3d6b71855e6aee31cf679.jpg",
+    "group_name": ""
+  },
+  "13105825": {
+    "name": "音绵Otowata",
+    "type": "vtuber",
+    "room_id": 232112,
+    "face": "/bfs/face/a8527c85e0a37beb256e31fe8adf0cd45f093ba8.jpg",
     "group_name": ""
   },
   "13145248": {
@@ -19071,7 +19078,7 @@
     "name": "Lisianthus-kino",
     "type": "vtuber",
     "room_id": 2707359,
-    "face": "/bfs/face/341873894d0885a3a471cbc1569f6c9b1459e979.jpg",
+    "face": "/bfs/face/d29caf853a3b54568805461a4ef0fae5c50249cf.jpg",
     "group_name": ""
   },
   "67921263": {
@@ -20394,7 +20401,7 @@
     "name": "斯托拉斯sato",
     "type": "vtuber",
     "room_id": 22463657,
-    "face": "/bfs/face/edfbe6d77d557989fcd3f43b5ecf729513d7363c.jpg",
+    "face": "/bfs/face/a06d60212731196fa3f0b6b6017dfdc9a3e55c56.jpg",
     "group_name": ""
   },
   "118754720": {
@@ -23754,7 +23761,7 @@
     "name": "艾泽莉雅",
     "type": "vtuber",
     "room_id": 26852175,
-    "face": "/bfs/face/ec27ac87ba5262a4c576c359cacae60e63222320.jpg",
+    "face": "/bfs/face/c288561b7be22d7ce28e0e3bd938ecfdd631719f.jpg",
     "group_name": ""
   },
   "327618703": {
@@ -25114,6 +25121,13 @@
     "room_id": 14327465,
     "face": "/bfs/face/8dd9bd678eec17b7d6fb547476273a42aec34876.jpg",
     "group_name": "P家"
+  },
+  "381040104": {
+    "name": "琉霓Ryuri",
+    "type": "vtuber",
+    "room_id": 1733399951,
+    "face": "/bfs/face/9d3d8d580b17df678efcb67a6e671f895ed22b7b.jpg",
+    "group_name": ""
   },
   "381294255": {
     "name": "WINKS事务所",
@@ -27458,6 +27472,13 @@
     "type": "vtuber",
     "room_id": 0,
     "face": "/bfs/face/8daeabd4d94f7c872260420a64346e56cf81ebf6.jpg",
+    "group_name": ""
+  },
+  "417317775": {
+    "name": "小松奈_Savi",
+    "type": "vtuber",
+    "room_id": 1904558719,
+    "face": "/bfs/face/ff1a608c53837c2af2726867d3a75e9455ba9160.jpg",
     "group_name": ""
   },
   "417352739": {
@@ -35423,7 +35444,7 @@
     "name": "礼拜六Liu",
     "type": "vtuber",
     "room_id": 26815357,
-    "face": "/bfs/face/b9c00f66c32274e8f23fb273f32cc5fbb14608e4.jpg",
+    "face": "/bfs/face/fb8e6558b197c4479d160ab311ef29c486fcc345.webp",
     "group_name": ""
   },
   "662219040": {
@@ -36781,7 +36802,7 @@
     "name": "黑酱猫kuro",
     "type": "vtuber",
     "room_id": 22619596,
-    "face": "/bfs/face/8e7d171584220deda3cbf51f5ead2e68aceec4ad.jpg",
+    "face": "/bfs/face/261eda7e9f86314e50420090c3d07c7882781aa6.jpg",
     "group_name": ""
   },
   "699629434": {
@@ -51642,7 +51663,7 @@
     "name": "荧月Moone",
     "type": "vtuber",
     "room_id": 26921078,
-    "face": "/bfs/face/fa07b0c4e5803852b032ca946fac603cd00660fd.jpg",
+    "face": "/bfs/face/6d801d0cca70dfdffe1c9a227534d3269eaae75c.jpg",
     "group_name": ""
   },
   "3493118185834584": {
@@ -51828,7 +51849,7 @@
     "group_name": ""
   },
   "3493120324930418": {
-    "name": "米酒狐狐",
+    "name": "米酒狐狐-2周年冲舰版",
     "type": "vtuber",
     "room_id": 30022580,
     "face": "/bfs/face/8ffb3c76f5de2408807c8b5d613a8157b7bc4c78.jpg",
@@ -52741,7 +52762,7 @@
     "name": "沢沛sawapei",
     "type": "vtuber",
     "room_id": 27202664,
-    "face": "/bfs/face/7a6d7673971b3fb75eff9ce8ea15b1cb29715524.jpg",
+    "face": "/bfs/face/1c50f92a2364fdc03856e3ac518d16a1c8aaec41.jpg",
     "group_name": ""
   },
   "3493135961295379": {
@@ -54407,7 +54428,7 @@
     "name": "寿司_Official",
     "type": "vtuber",
     "room_id": 27471502,
-    "face": "/bfs/face/0ae0de24ff56749fd9f630208b79a669fb9a7afd.jpg",
+    "face": "/bfs/face/21c1e98e19ff91c9dde389f9602746478efd84f5.jpg",
     "group_name": "新月社FCrescent"
   },
   "3493266481743925": {
@@ -55797,10 +55818,10 @@
     "group_name": ""
   },
   "3493283393178433": {
-    "name": "几分之几-_",
+    "name": "一碗面--",
     "type": "vtuber",
     "room_id": 27786941,
-    "face": "/bfs/face/52df4834f5dc8cd750825456de8740e8f0c7948d.jpg",
+    "face": "/bfs/face/3aa5177cc89c4d603692fa216c63445f7c41d853.jpg",
     "group_name": ""
   },
   "3493283600796139": {
@@ -61358,7 +61379,7 @@
     "name": "尼尼Minnie",
     "type": "vtuber",
     "room_id": 31214419,
-    "face": "/bfs/face/86e37fa90cac7494a239039410961bcee05b669d.jpg",
+    "face": "/bfs/face/147d6749105adea39e8dd2ecf780fa5b59c54b36.jpg",
     "group_name": ""
   },
   "3546561516669864": {
@@ -61596,7 +61617,7 @@
     "name": "相似---",
     "type": "vtuber",
     "room_id": 31266111,
-    "face": "/bfs/face/d51e0dbbd29c1d30bb05a0cfba16e8cf55b1d561.jpg",
+    "face": "/bfs/face/b36f8913e792da3d2be55f9e308ea023a6be89be.webp",
     "group_name": ""
   },
   "3546575374649825": {
@@ -61688,6 +61709,13 @@
     "type": "vtuber",
     "room_id": 31389381,
     "face": "/bfs/face/f575496a3895a1888871ebf78e0e99a8c38b92c2.jpg",
+    "group_name": ""
+  },
+  "3546580527352661": {
+    "name": "籽芋_Official",
+    "type": "vtuber",
+    "room_id": 1887781135,
+    "face": "/bfs/face/6f22f8729609be5789fe143489869a5120270c21.jpg",
     "group_name": ""
   },
   "3546581315881030": {
@@ -62346,6 +62374,13 @@
     "type": "vtuber",
     "room_id": 31962290,
     "face": "/bfs/face/a29166edb9ee72a48fc987ac9990ba9ad4088154.jpg",
+    "group_name": ""
+  },
+  "3546623902747508": {
+    "name": "百变魔女小脑斧promax",
+    "type": "vtuber",
+    "room_id": 32091360,
+    "face": "/bfs/face/4df37b3d49719b15e845ffa53221d601edc94826.jpg",
     "group_name": ""
   },
   "3546624494144100": {
@@ -63405,6 +63440,13 @@
     "face": "/bfs/face/2cf6e6f5977665e8eae9af3170ae5977e1d66c80.jpg",
     "group_name": ""
   },
+  "3546739965430169": {
+    "name": "是嘻依啊丶",
+    "type": "vtuber",
+    "room_id": 1742805046,
+    "face": "/bfs/face/aa7ba302191e378ec966fcfc1674d334a8f42cfe.jpg",
+    "group_name": ""
+  },
   "3546740040928185": {
     "name": "风味袜子",
     "type": "vtuber",
@@ -63853,6 +63895,13 @@
     "face": "/bfs/face/99cce6201d73a641b2d6eb645cf7dd8514f6a505.jpg",
     "group_name": ""
   },
+  "3546868392921566": {
+    "name": "洛宁Lny",
+    "type": "vtuber",
+    "room_id": 1847872589,
+    "face": "/bfs/face/d9aad17d3d64c516843d5e8314ec79ee44c8993c.jpg",
+    "group_name": ""
+  },
   "3546871802890480": {
     "name": "MiKi岁岁",
     "type": "vtuber",
@@ -63866,5 +63915,12 @@
     "room_id": 1948312414,
     "face": "/bfs/face/0e769c356cf69a87d5c6d4310ac1c75a99dd38ee.jpg",
     "group_name": "北立交桥（妖精管理局）"
+  },
+  "3546906485590570": {
+    "name": "季瑶铃",
+    "type": "vtuber",
+    "room_id": 1852630738,
+    "face": "/bfs/face/a67f91aa74909e789d93203d46d7e7597fb9bca3.jpg",
+    "group_name": "问尘仙会"
   }
 }
