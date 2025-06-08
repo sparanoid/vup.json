@@ -11301,7 +11301,7 @@
     "name": "-阿蕊娅Aria-",
     "type": "vtuber",
     "room": 594461,
-    "face": "/bfs/face/49724b91854fa8a397c652dfdc0c0b4074bb90be.jpg",
+    "face": "/bfs/face/f521b9882a078c707db8f436dcb5d61cf6e8ef23.jpg",
     "group_name": ""
   },
   "10880609": {
@@ -42216,6 +42216,13 @@
     "face": "/bfs/face/f65f79f6e99257448c5e8c871827ebb3ed64fed3.jpg",
     "group_name": ""
   },
+  "1496212034": {
+    "name": "长乐颂",
+    "type": "vtuber",
+    "room": 1858808750,
+    "face": "/bfs/face/c855f73f8243824295d154bf545bf0b424b36032.jpg",
+    "group_name": ""
+  },
   "1497089648": {
     "name": "千璃Chili",
     "type": "vtuber",
@@ -44979,6 +44986,13 @@
     "type": "vtuber",
     "room": 25021092,
     "face": "/bfs/face/a3f3723f890e8cb2f3b3d0abb82b1e27ed2082f6.jpg",
+    "group_name": ""
+  },
+  "1761620274": {
+    "name": "神山灵龟",
+    "type": "vtuber",
+    "room": 1931430979,
+    "face": "/bfs/face/ebd9c55a1927679ab5a17e05af3ff6b04ccbc75a.jpg",
     "group_name": ""
   },
   "1762258446": {
@@ -63809,6 +63823,13 @@
     "type": "vtuber",
     "room": 1847875275,
     "face": "/bfs/face/dae0e33afd8994d171b0c087676e2a5f72c67cce.jpg",
+    "group_name": ""
+  },
+  "3546864555133912": {
+    "name": "早早碎Mochi",
+    "type": "vtuber",
+    "room": 1804892069,
+    "face": "/bfs/face/64a11bdea94491054eaab6a4394edc556dc8faab.jpg",
     "group_name": ""
   },
   "3546865123461952": {

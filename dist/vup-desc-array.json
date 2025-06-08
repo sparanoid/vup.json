@@ -14530,7 +14530,7 @@
     "name": "-阿蕊娅Aria-",
     "type": "vtuber",
     "room": 594461,
-    "face": "/bfs/face/49724b91854fa8a397c652dfdc0c0b4074bb90be.jpg",
+    "face": "/bfs/face/f521b9882a078c707db8f436dcb5d61cf6e8ef23.jpg",
     "sign": "GravityS所属｜有点会唱歌的流啤小美人鱼……歌单：songlist.aria.fish 商务合作@大A阿姆罗",
     "group_name": ""
   },
@@ -54279,6 +54279,15 @@
     "group_name": ""
   },
   {
+    "uid": 1496212034,
+    "name": "长乐颂",
+    "type": "vtuber",
+    "room": 1858808750,
+    "face": "/bfs/face/c855f73f8243824295d154bf545bf0b424b36032.jpg",
+    "sign": "片片飘落的雪花...会带去我的思念吗？粉丝群:908858131",
+    "group_name": ""
+  },
+  {
     "uid": 1497089648,
     "name": "千璃Chili",
     "type": "vtuber",
@@ -57831,6 +57840,15 @@
     "room": 25021092,
     "face": "/bfs/face/a3f3723f890e8cb2f3b3d0abb82b1e27ed2082f6.jpg",
     "sign": "警惕虚拟主播情绪价值陷阱",
+    "group_name": ""
+  },
+  {
+    "uid": 1761620274,
+    "name": "神山灵龟",
+    "type": "vtuber",
+    "room": 1931430979,
+    "face": "/bfs/face/ebd9c55a1927679ab5a17e05af3ff6b04ccbc75a.jpg",
+    "sign": "混沌魅魔一只，爱吃爱喝爱生活，每天都要活力满满的陪伴大家哦",
     "group_name": ""
   },
   {
@@ -82041,6 +82059,15 @@
     "room": 1847875275,
     "face": "/bfs/face/dae0e33afd8994d171b0c087676e2a5f72c67cce.jpg",
     "sign": "请问，你愿意成为我的人类饲主吗？",
+    "group_name": ""
+  },
+  {
+    "uid": 3546864555133912,
+    "name": "早早碎Mochi",
+    "type": "vtuber",
+    "room": 1804892069,
+    "face": "/bfs/face/64a11bdea94491054eaab6a4394edc556dc8faab.jpg",
+    "sign": "今天也要闪耀！",
     "group_name": ""
   },
   {

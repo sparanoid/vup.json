@@ -42217,6 +42217,13 @@
     "group_name": ""
   },
   {
+    "uid": 1496212034,
+    "name": "长乐颂",
+    "type": "vtuber",
+    "room": 1858808750,
+    "group_name": ""
+  },
+  {
     "uid": 1497089648,
     "name": "千璃Chili",
     "type": "vtuber",
@@ -44979,6 +44986,13 @@
     "name": "戈林德GrindMoko",
     "type": "vtuber",
     "room": 25021092,
+    "group_name": ""
+  },
+  {
+    "uid": 1761620274,
+    "name": "神山灵龟",
+    "type": "vtuber",
+    "room": 1931430979,
     "group_name": ""
   },
   {
@@ -63809,6 +63823,13 @@
     "name": "噗噜泡Puru",
     "type": "vtuber",
     "room": 1847875275,
+    "group_name": ""
+  },
+  {
+    "uid": 3546864555133912,
+    "name": "早早碎Mochi",
+    "type": "vtuber",
+    "room": 1804892069,
     "group_name": ""
   },
   {
