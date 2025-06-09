@@ -15280,6 +15280,14 @@
     "group_name": ""
   },
   {
+    "uid": 15109116,
+    "name": "墨Mo_话很少-",
+    "type": "vtuber",
+    "room": 4472957,
+    "face": "/bfs/face/93b2a559ed043f9bbcc013e8cf1eafc21fef2cb0.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 15116025,
     "name": "羽鳥Akira",
     "type": "vtuber",
@@ -25088,6 +25096,14 @@
     "group_name": ""
   },
   {
+    "uid": 239663121,
+    "name": "阿弥_Miya",
+    "type": "vtuber",
+    "room": 30013328,
+    "face": "/bfs/face/e1784ce375559f1894118fb2a8687b81113eaaa8.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 240658212,
     "name": "彤宝可爱捏",
     "type": "vtuber",
@@ -26581,6 +26597,14 @@
     "type": "vtuber",
     "room": 25379285,
     "face": "/bfs/face/c65a4a6202799fb0d97533ae6a46cc1386216f27.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 306438582,
+    "name": "不改良蒸汽机",
+    "type": "vtuber",
+    "room": 13336646,
+    "face": "/bfs/face/7acbd5e558bdfb5f657dc2e913b7aa2bf45400c0.jpg",
     "group_name": ""
   },
   {
@@ -34376,6 +34400,14 @@
     "group_name": ""
   },
   {
+    "uid": 478344578,
+    "name": "十六夜Esme",
+    "type": "vtuber",
+    "room": 1733391496,
+    "face": "/bfs/face/297599f357ccbebd83be876006dfa52a3dcd1dcd.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 478425060,
     "name": "京九霜",
     "type": "vtuber",
@@ -34413,6 +34445,14 @@
     "type": "vtuber",
     "room": 21664291,
     "face": "/bfs/face/421e222552b345e7ef6e8af37c0b50ed7377b004.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 479134330,
+    "name": "妮洛Nian-卷心菜",
+    "type": "vtuber",
+    "room": 1972730356,
+    "face": "/bfs/face/9708a4a6d2e0e0e987928d3fff1f4b9957f4c236.jpg",
     "group_name": ""
   },
   {
@@ -35813,6 +35853,14 @@
     "type": "vtuber",
     "room": 22736977,
     "face": "/bfs/face/4d94517a6af0914b3b307b3e3ed0f406dcb3e09b.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 497404458,
+    "name": "九咪kisu",
+    "type": "vtuber",
+    "room": 1817726858,
+    "face": "/bfs/face/f4c1112ac3042f3f64551961e7dc5603d1a4a655.jpg",
     "group_name": ""
   },
   {
@@ -38982,6 +39030,14 @@
     "room": 22300771,
     "face": "/bfs/face/2639b58a3619df792e7d679432e83fac3ce3bc66.jpg",
     "group_name": "哔哩哔哩电竞"
+  },
+  {
+    "uid": 603072369,
+    "name": "阿蕾蕾Aleilei",
+    "type": "vtuber",
+    "room": 1923355728,
+    "face": "/bfs/face/264ee8162c27d55c9554fcb4045ddd85e71dbbde.jpg",
+    "group_name": ""
   },
   {
     "uid": 603372954,
@@ -52040,6 +52096,14 @@
     "group_name": ""
   },
   {
+    "uid": 1813207326,
+    "name": "菲菲公主喵",
+    "type": "vtuber",
+    "room": 27697034,
+    "face": "/bfs/face/92c2b07342a5d7e4a529d19e9c3261b5816c3cbd.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1813412189,
     "name": "绘倾月_Lyselene",
     "type": "vtuber",
@@ -55029,6 +55093,14 @@
     "type": "vtuber",
     "room": 25648947,
     "face": "/bfs/face/9aa075569880e6a18d50a8d07a1c7ebd53ed944d.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 2058652986,
+    "name": "春野清子",
+    "type": "vtuber",
+    "room": 1732021258,
+    "face": "/bfs/face/431660cde6d6a7aef8d64a5e17f3ff10d0948657.jpg",
     "group_name": ""
   },
   {
@@ -61208,6 +61280,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493145190861659,
+    "name": "Lia_Xxo0",
+    "type": "vtuber",
+    "room": 1982332095,
+    "face": "/bfs/face/a84ded105ccf870b0e4d56b48ec74a3a3ce93ace.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3493145444617024,
     "name": "绾柔学姐",
     "type": "vtuber",
@@ -63453,6 +63533,14 @@
     "type": "vtuber",
     "room": 27873521,
     "face": "/bfs/face/d794070dfa11cde6a659c940a8a0ce8de6fd9686.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493278039149456,
+    "name": "上杉音oi",
+    "type": "vtuber",
+    "room": 1731256106,
+    "face": "/bfs/face/aa36e789a062045b32288057efe4c61da8ec09df.jpg",
     "group_name": ""
   },
   {
@@ -72400,6 +72488,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546719369300954,
+    "name": "木木puu",
+    "type": "vtuber",
+    "room": 1996448991,
+    "face": "/bfs/face/66956968311a353b2ff3bc9d3a087e0e554f29f9.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546719818091441,
     "name": "Silvervale_樱花狼灵",
     "type": "vtuber",
@@ -72672,6 +72768,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546757724113807,
+    "name": "乌米kirumi-唱歌连",
+    "type": "vtuber",
+    "room": 1968486881,
+    "face": "/bfs/face/b469257e6eb3b52fd0800552eb0680b7fe060ac0.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546758439242209,
     "name": "_好好说再见_",
     "type": "vtuber",
@@ -72805,6 +72909,14 @@
     "type": "vtuber",
     "room": 1797323422,
     "face": "/bfs/baselabs/9331d06f9a3887d13a3ef6f3ab8c8d7aaa28fec3.png",
+    "group_name": ""
+  },
+  {
+    "uid": 3546791991576744,
+    "name": "白钰yuki",
+    "type": "vtuber",
+    "room": 1793689252,
+    "face": "/bfs/face/44e273588dadb913e20ed5e7d6d55a154021058e.jpg",
     "group_name": ""
   },
   {
@@ -73000,6 +73112,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546857452079978,
+    "name": "雪羽Eira",
+    "type": "vtuber",
+    "room": 1894646003,
+    "face": "/bfs/face/c6021450fb2018e266b02184e3115ce81ed3b43e.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546858230123108,
     "name": "垚垚Yo-yo",
     "type": "vtuber",
@@ -73118,6 +73238,14 @@
     "room": 1948312414,
     "face": "/bfs/face/0e769c356cf69a87d5c6d4310ac1c75a99dd38ee.jpg",
     "group_name": "北立交桥（妖精管理局）"
+  },
+  {
+    "uid": 3546881741293927,
+    "name": "天天阿诺琪_Anochi",
+    "type": "vtuber",
+    "room": 1857890504,
+    "face": "/bfs/face/c917491b6a59154592b6f9fd7abfef3459befe53.jpg",
+    "group_name": ""
   },
   {
     "uid": 3546883060402620,
