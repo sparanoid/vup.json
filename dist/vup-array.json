@@ -29548,7 +29548,7 @@
     "name": "星奈kagami-欧皇版",
     "type": "vtuber",
     "room": 1743354457,
-    "face": "/bfs/face/d9af4e4df145ac2bf0555d53ece6fa186b76d04b.jpg",
+    "face": "/bfs/face/634ff4b417a2934c53fd82da38b197adafb12109.jpg",
     "group_name": ""
   },
   {
@@ -49556,7 +49556,7 @@
     "name": "梨月啾啾yami",
     "type": "vtuber",
     "room": 1967501072,
-    "face": "/bfs/face/3bd808cc689aff61dbf1329dff998fd4e468d6de.jpg",
+    "face": "/bfs/face/f15279118a09ba375a8b4a7c7609970577712798.jpg",
     "group_name": ""
   },
   {
@@ -73096,6 +73096,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546871553329302,
+    "name": "宅子猫",
+    "type": "vtuber",
+    "room": 1841883321,
+    "face": "/bfs/face/3006f918482338a624d85dac102564ce1a40eae7.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546871802890480,
     "name": "MiKi岁岁",
     "type": "vtuber",
@@ -73110,6 +73118,14 @@
     "room": 1948312414,
     "face": "/bfs/face/0e769c356cf69a87d5c6d4310ac1c75a99dd38ee.jpg",
     "group_name": "北立交桥（妖精管理局）"
+  },
+  {
+    "uid": 3546883060402620,
+    "name": "Luckyの熊熊",
+    "type": "vtuber",
+    "room": 1857893834,
+    "face": "/bfs/face/c5f907ccc61155e33fb24b9cb7499dd16e61c06b.jpg",
+    "group_name": ""
   },
   {
     "uid": 3546887682525874,
