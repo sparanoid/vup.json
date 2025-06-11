@@ -12722,7 +12722,7 @@
     "name": "花琴新HanaKotoshin",
     "type": "vtuber",
     "room": 10491503,
-    "face": "/bfs/face/9ecf8adb03e69935768b413c5a52a076d3b7b60a.jpg",
+    "face": "/bfs/face/0e4acf987c1186d9c629be5f2c932bf8fe26f451.jpg",
     "group_name": ""
   },
   "13670449": {
@@ -17804,7 +17804,7 @@
     "name": "花可落_kora",
     "type": "vtuber",
     "room": 1396048,
-    "face": "/bfs/face/f51157dbed2a85b07e0d50169e2341142a659a4f.jpg",
+    "face": "/bfs/face/b02c904f3cd8da51562f892e2fe2f49708450589.jpg",
     "group_name": ""
   },
   "39952788": {
@@ -18169,6 +18169,13 @@
     "type": "vtuber",
     "room": 14197798,
     "face": "/bfs/face/4f3d610839ddd127c1163c1095ed0aebbd7dff0e.webp",
+    "group_name": ""
+  },
+  "44921058": {
+    "name": "真嘟宅",
+    "type": "vtuber",
+    "room": 1405795,
+    "face": "/bfs/face/6ee71810b1f3e55bb347b3786497c645461b48a7.jpg",
     "group_name": ""
   },
   "45280964": {
@@ -22651,6 +22658,13 @@
     "face": "/bfs/face/d5561874c84011e14bd88f7f3c984c7450893e07.jpg",
     "group_name": ""
   },
+  "278618574": {
+    "name": "Lyra天琴_",
+    "type": "vtuber",
+    "room": 1733398316,
+    "face": "/bfs/face/a39db17da4d7191dc5b635d8fc526c9a4fe1a9d2.jpg",
+    "group_name": ""
+  },
   "279148275": {
     "name": "千穗梨衣_lily",
     "type": "vtuber",
@@ -23061,7 +23075,7 @@
     "name": "汐詺sekina",
     "type": "vtuber",
     "room": 22887675,
-    "face": "/bfs/face/e20439912e0413acb7187ba33a1bbbd3037e4f53.jpg",
+    "face": "/bfs/face/6ecfddd0c2e996318c24c43db8d285b3e8cb7fa2.jpg",
     "group_name": ""
   },
   "296683456": {
@@ -37044,10 +37058,10 @@
     "group_name": "神椿工作室"
   },
   "701546862": {
-    "name": "白一鸢_Channel",
+    "name": "啾啾才不是萌妹子",
     "type": "vtuber",
     "room": 22599047,
-    "face": "/bfs/face/762ea3d3b508d333d358a1f3de3ed7b9f737a70e.jpg",
+    "face": "/bfs/face/73c793553c4ae1e5163cdd683b799f2db9497da9.jpg",
     "group_name": ""
   },
   "701582685": {
@@ -40375,6 +40389,13 @@
     "face": "/bfs/face/bf6fadb69329e3e4d870af234a5a3c00eba918c6.jpg",
     "group_name": ""
   },
+  "1315114576": {
+    "name": "叶叶犟",
+    "type": "vtuber",
+    "room": 1868877636,
+    "face": "/bfs/face/4595f224c27055f0cf74b3551a76497aa293748b.jpg",
+    "group_name": ""
+  },
   "1315403374": {
     "name": "鹿小炘亡命天涯",
     "type": "vtuber",
@@ -43252,6 +43273,13 @@
     "face": "/bfs/face/e41bcd9efca5344f2c37731938984d1344880426.jpg",
     "group_name": ""
   },
+  "1582788472": {
+    "name": "炑铃_Mulyn",
+    "type": "vtuber",
+    "room": 1961605007,
+    "face": "/bfs/face/859404543ffb0d692ea9a844e79addf909bb1ed4.jpg",
+    "group_name": ""
+  },
   "1583419290": {
     "name": "泉音夢Nemu",
     "type": "vtuber",
@@ -44586,7 +44614,7 @@
     "name": "玲儿ZeroTwo",
     "type": "vtuber",
     "room": 24701720,
-    "face": "/bfs/face/1e42abe1e004c44485ded141e0a03b15c7beaf96.jpg",
+    "face": "/bfs/face/5ec81ac65d7cd82d8ae0c8264e0da46ae838d692.jpg",
     "group_name": ""
   },
   "1710361170": {
@@ -46770,7 +46798,7 @@
     "name": "星雾果狐汤",
     "type": "vtuber",
     "room": 25049543,
-    "face": "/bfs/face/83edf85e53f1b4ca52cbae16d5d6a5f5c5dd560a.jpg",
+    "face": "/bfs/face/f6cbbf06cf32b7413f760b9b81db968a59244e8e.jpg",
     "group_name": ""
   },
   "1912519534": {
@@ -58932,6 +58960,13 @@
     "face": "/bfs/face/d401eaf395d22adba3c1eb1cb95a95e69a7c2830.webp",
     "group_name": ""
   },
+  "3494368591743486": {
+    "name": "海九_",
+    "type": "vtuber",
+    "room": 1937832482,
+    "face": "/bfs/face/db0aa400cf6bde95ffda76cc8f943a876abe355f.jpg",
+    "group_name": ""
+  },
   "3494368602228824": {
     "name": "最讨厌香菜了_",
     "type": "vtuber",
@@ -62075,6 +62110,13 @@
     "face": "/bfs/face/bebe0ea9498cb8edf87f96136f09dcf03a486634.jpg",
     "group_name": ""
   },
+  "3546586980288705": {
+    "name": "财年年",
+    "type": "vtuber",
+    "room": 32166333,
+    "face": "/bfs/face/72003d6f1e99aa7dbca6930bb04eb88f728bf6ff.jpg",
+    "group_name": ""
+  },
   "3546588601387602": {
     "name": "赤盏蛮蛮",
     "type": "vtuber",
@@ -62391,10 +62433,10 @@
     "group_name": ""
   },
   "3546607964392305": {
-    "name": "地狱爱哭狗可贝贝_Kerby",
+    "name": "CerberusKerby",
     "type": "vtuber",
     "room": 31805312,
-    "face": "/bfs/face/b927923e9fb4334d13d137ffefa3974f0e1786be.jpg",
+    "face": "/bfs/face/333959bec41ba674b0da54fa2bc7488d38093ab9.jpg",
     "group_name": "NOA Talent"
   },
   "3546608394307820": {
@@ -64154,11 +64196,25 @@
     "face": "/bfs/face/7f6a372451b895ed24527139795aa8cbaff29bdb.jpg",
     "group_name": ""
   },
+  "3546851731049421": {
+    "name": "小鸟游纱爱",
+    "type": "vtuber",
+    "room": 1849303349,
+    "face": "/bfs/face/47bf913200c522c66e09ff2b418a4cb20fcff70c.jpg",
+    "group_name": ""
+  },
   "3546852299377457": {
     "name": "冉晴Apricus",
     "type": "vtuber",
     "room": 1833441035,
     "face": "/bfs/face/0fffe04fa8f92790e0f125449851f1789fe6a42a.jpg",
+    "group_name": ""
+  },
+  "3546853257775767": {
+    "name": "婉沁sin",
+    "type": "vtuber",
+    "room": 1911271373,
+    "face": "/bfs/face/a3dcf9df174834b44902bfefab41502666f78c81.jpg",
     "group_name": ""
   },
   "3546856804059245": {

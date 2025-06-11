@@ -15575,6 +15575,12 @@
     "room": 14197798,
     "group_name": ""
   },
+  "44921058": {
+    "name": "真嘟宅",
+    "type": "vtuber",
+    "room": 1405795,
+    "group_name": ""
+  },
   "45280964": {
     "name": "晚晚Ailsa",
     "type": "vtuber",
@@ -19413,6 +19419,12 @@
     "name": "天才果奶",
     "type": "vtuber",
     "room": 23165805,
+    "group_name": ""
+  },
+  "278618574": {
+    "name": "Lyra天琴_",
+    "type": "vtuber",
+    "room": 1733398316,
     "group_name": ""
   },
   "279148275": {
@@ -31752,7 +31764,7 @@
     "group_name": "神椿工作室"
   },
   "701546862": {
-    "name": "白一鸢_Channel",
+    "name": "啾啾才不是萌妹子",
     "type": "vtuber",
     "room": 22599047,
     "group_name": ""
@@ -34607,6 +34619,12 @@
     "room": 24149191,
     "group_name": ""
   },
+  "1315114576": {
+    "name": "叶叶犟",
+    "type": "vtuber",
+    "room": 1868877636,
+    "group_name": ""
+  },
   "1315403374": {
     "name": "鹿小炘亡命天涯",
     "type": "vtuber",
@@ -37071,6 +37089,12 @@
     "name": "千夏夏灬",
     "type": "vtuber",
     "room": 26126710,
+    "group_name": ""
+  },
+  "1582788472": {
+    "name": "炑铃_Mulyn",
+    "type": "vtuber",
+    "room": 1961605007,
     "group_name": ""
   },
   "1583419290": {
@@ -50513,6 +50537,12 @@
     "room": 30174681,
     "group_name": ""
   },
+  "3494368591743486": {
+    "name": "海九_",
+    "type": "vtuber",
+    "room": 1937832482,
+    "group_name": ""
+  },
   "3494368602228824": {
     "name": "最讨厌香菜了_",
     "type": "vtuber",
@@ -53207,6 +53237,12 @@
     "room": 31440945,
     "group_name": ""
   },
+  "3546586980288705": {
+    "name": "财年年",
+    "type": "vtuber",
+    "room": 32166333,
+    "group_name": ""
+  },
   "3546588601387602": {
     "name": "赤盏蛮蛮",
     "type": "vtuber",
@@ -53478,7 +53514,7 @@
     "group_name": ""
   },
   "3546607964392305": {
-    "name": "地狱爱哭狗可贝贝_Kerby",
+    "name": "CerberusKerby",
     "type": "vtuber",
     "room": 31805312,
     "group_name": "NOA Talent"
@@ -54989,10 +55025,22 @@
     "room": 1733394586,
     "group_name": ""
   },
+  "3546851731049421": {
+    "name": "小鸟游纱爱",
+    "type": "vtuber",
+    "room": 1849303349,
+    "group_name": ""
+  },
   "3546852299377457": {
     "name": "冉晴Apricus",
     "type": "vtuber",
     "room": 1833441035,
+    "group_name": ""
+  },
+  "3546853257775767": {
+    "name": "婉沁sin",
+    "type": "vtuber",
+    "room": 1911271373,
     "group_name": ""
   },
   "3546856804059245": {
