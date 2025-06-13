@@ -14889,7 +14889,7 @@
     "uid": 11314202,
     "name": "卍辉煌·荣耀卐",
     "type": "vtuber",
-    "room": 0,
+    "room": 256603,
     "face": "/bfs/face/ee57f26b1b72af62e0fb73f11f30498938094471.jpg",
     "sign": "约稿限时开放中，平均排队时长12个月 pid：22629275,约稿联系：2046521561",
     "group_name": ""
@@ -32158,11 +32158,11 @@
   },
   {
     "uid": 370689210,
-    "name": "bilibili",
+    "name": "萨麦尔_Samael",
     "type": "vtuber",
     "room": 22111450,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "face": "/bfs/face/9f3f19b7e3a51d70ce211e4cd9e2609919260575.jpg",
+    "sign": "VirtuaReal所属怒之撒旦萨麦尔samael。喂？在吗？我馋你魂；商务合作邮箱：bd@vrp.live",
     "group_name": "VirtuaReal"
   },
   {
@@ -44353,11 +44353,11 @@
   },
   {
     "uid": 614532247,
-    "name": "bilibili",
+    "name": "Anigen所属vup",
     "type": "vtuber",
     "room": 22324117,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "face": "/bfs/face/e375c733683bcd54010a191c853a398f8b947372.jpg",
+    "sign": "Anigen所属vup，来自遥远的宇宙，在地球打工的女子高中生，希望你们能给我快乐。园艺交流群：1137817908",
     "group_name": ""
   },
   {

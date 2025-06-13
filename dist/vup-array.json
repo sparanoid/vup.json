@@ -13235,7 +13235,7 @@
     "uid": 11314202,
     "name": "卍辉煌·荣耀卐",
     "type": "vtuber",
-    "room": 0,
+    "room": 256603,
     "face": "/bfs/face/ee57f26b1b72af62e0fb73f11f30498938094471.jpg",
     "group_name": ""
   },
@@ -28585,10 +28585,10 @@
   },
   {
     "uid": 370689210,
-    "name": "bilibili",
+    "name": "萨麦尔_Samael",
     "type": "vtuber",
     "room": 22111450,
-    "face": "/images/member/noface.gif",
+    "face": "/bfs/face/9f3f19b7e3a51d70ce211e4cd9e2609919260575.jpg",
     "group_name": "VirtuaReal"
   },
   {
@@ -39425,10 +39425,10 @@
   },
   {
     "uid": 614532247,
-    "name": "bilibili",
+    "name": "Anigen所属vup",
     "type": "vtuber",
     "room": 22324117,
-    "face": "/images/member/noface.gif",
+    "face": "/bfs/face/e375c733683bcd54010a191c853a398f8b947372.jpg",
     "group_name": ""
   },
   {
