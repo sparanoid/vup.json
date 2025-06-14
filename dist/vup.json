@@ -2859,7 +2859,7 @@
     "name": "黄泉月辉夜",
     "type": "vtuber",
     "room": 10632345,
-    "face": "/bfs/face/13a9751b0cefc390a6ccf72591cf849b868828ac.jpg",
+    "face": "/bfs/face/2d56e150598e33d753dee2ab95109e8814682d9c.jpg",
     "group_name": ""
   },
   "761607": {
@@ -16540,6 +16540,13 @@
     "face": "/bfs/face/e834c073d6a11bb2ff40965a1f456c316a607a5a.jpg",
     "group_name": ""
   },
+  "30281979": {
+    "name": "橙栀REON",
+    "type": "vtuber",
+    "room": 1786412756,
+    "face": "/bfs/face/076550695f6618ae927a768e4c1d2560f3f22990.jpg",
+    "group_name": ""
+  },
   "30367043": {
     "name": "北熙North",
     "type": "vtuber",
@@ -20765,7 +20772,7 @@
     "name": "绒音喵_NekoAttacker",
     "type": "vtuber",
     "room": 7784770,
-    "face": "/bfs/face/4aeab6f3896ba38557ae965dd09d44ad7b1a0c15.jpg",
+    "face": "/bfs/face/1fcb6c6c5233c9a54d5babe731c5e0d7c3b78af4.jpg",
     "group_name": ""
   },
   "145613005": {
@@ -46710,6 +46717,13 @@
     "face": "/bfs/face/e838cb017bb42c919a2b340db4d76c7ffc4917ac.jpg",
     "group_name": ""
   },
+  "1902035079": {
+    "name": "夏烟Mist",
+    "type": "vtuber",
+    "room": 1734605793,
+    "face": "/bfs/face/10eb597993f459f78df0691d6e183f637567cb15.jpg",
+    "group_name": ""
+  },
   "1902938129": {
     "name": "安森弥Channel",
     "type": "vtuber",
@@ -48682,6 +48696,13 @@
     "type": "vtuber",
     "room": 23652569,
     "face": "/bfs/face/41fe38f9fd145fc1c53b9b565e618e62b201a26d.jpg",
+    "group_name": ""
+  },
+  "2089433778": {
+    "name": "小夜yelora",
+    "type": "vtuber",
+    "room": 1819583749,
+    "face": "/bfs/face/66727145f6ca166ce21e7bf2105696a8d6c3b67a.jpg",
     "group_name": ""
   },
   "2089622075": {
@@ -63244,6 +63265,13 @@
     "face": "/bfs/face/fac04483cd00ae7e2a5075efa0a23569cd78e40e.jpg",
     "group_name": ""
   },
+  "3546681735907777": {
+    "name": "兜里木有糖Candy-发财版",
+    "type": "vtuber",
+    "room": 32745100,
+    "face": "/bfs/face/7e1ba7d8dc178e50e042dfa2ab64587c77878fc1.jpg",
+    "group_name": ""
+  },
   "3546683384269650": {
     "name": "海小夏Xia",
     "type": "vtuber",
@@ -63319,6 +63347,13 @@
     "type": "vtuber",
     "room": 1972367490,
     "face": "/bfs/face/e4251269f75b5a5ace00b084b51bb0419b549377.jpg",
+    "group_name": ""
+  },
+  "3546695440795834": {
+    "name": "_猫白白",
+    "type": "vtuber",
+    "room": 1850923571,
+    "face": "/bfs/face/0fea9b4fe702be5ca629eeb6a181ef9942bf2189.jpg",
     "group_name": ""
   },
   "3546695497419689": {
@@ -63727,6 +63762,13 @@
     "face": "/bfs/face/57eb0283daa4a1f0de0baabe57473e45a455cf9c.jpg",
     "group_name": ""
   },
+  "3546738598087205": {
+    "name": "露比嘟_Ruby",
+    "type": "vtuber",
+    "room": 1940984921,
+    "face": "/bfs/face/eb6171f13cf0b8707b88230e57334d8259a1f3b3.jpg",
+    "group_name": ""
+  },
   "3546739510348536": {
     "name": "黛洛丝Eros",
     "type": "vtuber",
@@ -64021,6 +64063,13 @@
     "face": "/bfs/face/4540402fea821ad30a55baa874c4d5f5ca0c2894.jpg",
     "group_name": ""
   },
+  "3546796468996650": {
+    "name": "黎六六Lollu-",
+    "type": "vtuber",
+    "room": 1710489335,
+    "face": "/bfs/face/f5fc82b9102fe3c9b4e0cbc20fc1b82c08bb9398.jpg",
+    "group_name": ""
+  },
   "3546796475288503": {
     "name": "雾枝年年Kirie",
     "type": "vtuber",
@@ -64194,6 +64243,13 @@
     "type": "vtuber",
     "room": 1759876531,
     "face": "/bfs/face/f24df449b48528fddb7ce87c857a1c9accfed211.jpg",
+    "group_name": ""
+  },
+  "3546851458418917": {
+    "name": "天竺葵Geranos",
+    "type": "vtuber",
+    "room": 1921717387,
+    "face": "/bfs/face/7b66883685f234ff39aa82a6199117676ffcb31b.jpg",
     "group_name": ""
   },
   "3546851561179660": {
