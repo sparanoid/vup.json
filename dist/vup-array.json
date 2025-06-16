@@ -31808,6 +31808,14 @@
     "group_name": ""
   },
   {
+    "uid": 429559200,
+    "name": "马莉雅_Official",
+    "type": "vtuber",
+    "room": 23123595,
+    "face": "/bfs/face/f5f02718b921e24e1231dfa37d39b3dd890fc75c.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 429866241,
     "name": "麻仓叶童",
     "type": "vtuber",
@@ -37532,7 +37540,7 @@
     "name": "星奈喵_hoshinya",
     "type": "vtuber",
     "room": 31912990,
-    "face": "/bfs/face/c3fa5480f638682a1d47da40a2f607daf4f2a2d6.jpg",
+    "face": "/bfs/face/e495ced29d56f5441c1715a5c116bcaa404d51a9.jpg",
     "group_name": ""
   },
   {
@@ -47901,6 +47909,14 @@
     "type": "vtuber",
     "room": 25425027,
     "face": "/bfs/face/6662cf010ca850f303c08f6485ff0a5b9ec85f83.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1446867539,
+    "name": "海渡KAITO",
+    "type": "vtuber",
+    "room": 25660407,
+    "face": "/bfs/face/69bb70d5b9face7bea280b99f809c3731bc9428a.jpg",
     "group_name": ""
   },
   {

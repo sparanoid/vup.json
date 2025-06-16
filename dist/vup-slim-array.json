@@ -27832,6 +27832,13 @@
     "group_name": ""
   },
   {
+    "uid": 429559200,
+    "name": "马莉雅_Official",
+    "type": "vtuber",
+    "room": 23123595,
+    "group_name": ""
+  },
+  {
     "uid": 429866241,
     "name": "麻仓叶童",
     "type": "vtuber",
@@ -41913,6 +41920,13 @@
     "name": "午夜强制碳",
     "type": "vtuber",
     "room": 25425027,
+    "group_name": ""
+  },
+  {
+    "uid": 1446867539,
+    "name": "海渡KAITO",
+    "type": "vtuber",
+    "room": 25660407,
     "group_name": ""
   },
   {
