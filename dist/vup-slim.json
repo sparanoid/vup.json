@@ -2261,6 +2261,12 @@
     "room": 27819057,
     "group_name": ""
   },
+  "678612": {
+    "name": "h46",
+    "type": "vtuber",
+    "room": 183879,
+    "group_name": ""
+  },
   "679945": {
     "name": "肆肆_Official",
     "type": "vtuber",
@@ -10049,6 +10055,12 @@
     "room": 4929039,
     "group_name": "山海社"
   },
+  "11579225": {
+    "name": "莉恩NaNa",
+    "type": "vtuber",
+    "room": 1991383301,
+    "group_name": ""
+  },
   "11587741": {
     "name": "BlagS_Channel",
     "type": "vtuber",
@@ -13677,6 +13689,12 @@
     "name": "凛心永远Rinchan",
     "type": "vtuber",
     "room": 1076127,
+    "group_name": ""
+  },
+  "25616288": {
+    "name": "鸠的一声",
+    "type": "vtuber",
+    "room": 7306162,
     "group_name": ""
   },
   "25644004": {
@@ -30461,6 +30479,12 @@
     "room": 22619224,
     "group_name": ""
   },
+  "660405656": {
+    "name": "芝士_Power",
+    "type": "vtuber",
+    "room": 31293252,
+    "group_name": ""
+  },
   "660572554": {
     "name": "乔慕Haribo",
     "type": "vtuber",
@@ -38847,6 +38871,12 @@
     "name": "椰岛又沐风",
     "type": "vtuber",
     "room": 1729386695,
+    "group_name": ""
+  },
+  "1771115297": {
+    "name": "追星辰-",
+    "type": "vtuber",
+    "room": 32013798,
     "group_name": ""
   },
   "1771138364": {
@@ -53417,6 +53447,12 @@
     "room": 31586512,
     "group_name": ""
   },
+  "3546596908206654": {
+    "name": "小鹿不秃头i",
+    "type": "vtuber",
+    "room": 32521998,
+    "group_name": ""
+  },
   "3546597336025483": {
     "name": "花冷樱Hanabi",
     "type": "vtuber",
@@ -54767,6 +54803,12 @@
     "room": 1844410596,
     "group_name": ""
   },
+  "3546754402224923": {
+    "name": "曳光_Drk",
+    "type": "vtuber",
+    "room": 1951597795,
+    "group_name": ""
+  },
   "3546754813266727": {
     "name": "帕帕的存钱罐",
     "type": "vtuber",
@@ -55025,6 +55067,12 @@
     "room": 1903489445,
     "group_name": "Fulaco-Official"
   },
+  "3546832756017576": {
+    "name": "栗可莉丝Le",
+    "type": "vtuber",
+    "room": 1995136903,
+    "group_name": ""
+  },
   "3546833116727714": {
     "name": "兔筱柒Tessie",
     "type": "vtuber",
@@ -55157,6 +55205,12 @@
     "room": 1884227523,
     "group_name": ""
   },
+  "3546861088541561": {
+    "name": "希饭Suki",
+    "type": "vtuber",
+    "room": 1844418483,
+    "group_name": ""
+  },
   "3546861394725793": {
     "name": "韵叶不赖床",
     "type": "vtuber",
@@ -55277,11 +55331,23 @@
     "room": 0,
     "group_name": ""
   },
+  "3546893606979799": {
+    "name": "水间埋-mai",
+    "type": "vtuber",
+    "room": 1758148011,
+    "group_name": ""
+  },
   "3546899885853387": {
     "name": "雪都梨Duli-17号满月",
     "type": "vtuber",
     "room": 1908320170,
     "group_name": ""
+  },
+  "3546901116881287": {
+    "name": "云蔼悠悠YoYo",
+    "type": "vtuber",
+    "room": 1724233282,
+    "group_name": "极光社"
   },
   "3546903350348268": {
     "name": "氿姬kyuu",

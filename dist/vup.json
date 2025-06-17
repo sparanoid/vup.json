@@ -2638,6 +2638,13 @@
     "face": "/bfs/face/d8e3105ace3f52b2cc59faed3c56fba0b5a847eb.jpg",
     "group_name": ""
   },
+  "678612": {
+    "name": "h46",
+    "type": "vtuber",
+    "room": 183879,
+    "face": "/bfs/face/6096e0266926c3094217c44b52475b342a7aabbd.jpg",
+    "group_name": ""
+  },
   "679945": {
     "name": "肆肆_Official",
     "type": "vtuber",
@@ -3342,7 +3349,7 @@
     "name": "黑泽诺亚NOIR",
     "type": "vtuber",
     "room": 251015,
-    "face": "/bfs/face/28609c18264b57b7d54bfeb7f454bc7c9132f981.webp",
+    "face": "/bfs/face/a2b402c2993269abe1c635c1af332e00b0fa2493.jpg",
     "group_name": ""
   },
   "926620": {
@@ -11724,6 +11731,13 @@
     "face": "/bfs/face/2c5f20e2e319000e0aac1be6bfe79f3a449b6ce2.jpg",
     "group_name": "山海社"
   },
+  "11579225": {
+    "name": "莉恩NaNa",
+    "type": "vtuber",
+    "room": 1991383301,
+    "face": "/bfs/face/a718ccf92996fef3618cbf301d63f8623bdd0ee3.jpg",
+    "group_name": ""
+  },
   "11587741": {
     "name": "BlagS_Channel",
     "type": "vtuber",
@@ -15957,6 +15971,13 @@
     "type": "vtuber",
     "room": 1076127,
     "face": "/bfs/face/0bf27fb5269ccb27f03a6a06f9922051db2f5d3c.jpg",
+    "group_name": ""
+  },
+  "25616288": {
+    "name": "鸠的一声",
+    "type": "vtuber",
+    "room": 7306162,
+    "face": "/bfs/face/1cc1abd86f332e8a52719483a2e021f6a65b055a.jpg",
     "group_name": ""
   },
   "25644004": {
@@ -35538,6 +35559,13 @@
     "face": "/bfs/face/712221e61d1bb6ae4de59a4532debdafd5d33dff.jpg",
     "group_name": ""
   },
+  "660405656": {
+    "name": "芝士_Power",
+    "type": "vtuber",
+    "room": 31293252,
+    "face": "/bfs/face/9003ca73fb3369236d4385792dc365783d7f1a0a.jpg",
+    "group_name": ""
+  },
   "660572554": {
     "name": "乔慕Haribo",
     "type": "vtuber",
@@ -45322,6 +45350,13 @@
     "type": "vtuber",
     "room": 1729386695,
     "face": "/bfs/face/59502eb0b3d455ee28c2fe05a8fb2043ca9c19b2.jpg",
+    "group_name": ""
+  },
+  "1771115297": {
+    "name": "追星辰-",
+    "type": "vtuber",
+    "room": 32013798,
+    "face": "/bfs/face/01856a88d6ea23d63b9d2418e24e1da6d4db6148.jpg",
     "group_name": ""
   },
   "1771138364": {
@@ -62320,6 +62355,13 @@
     "face": "/bfs/face/e4ada7ca645ea843b48ba131823a57263d604350.jpg",
     "group_name": ""
   },
+  "3546596908206654": {
+    "name": "小鹿不秃头i",
+    "type": "vtuber",
+    "room": 32521998,
+    "face": "/bfs/face/a5be860524228ea31cfc7f1d0bee61518c5f455c.jpg",
+    "group_name": ""
+  },
   "3546597336025483": {
     "name": "花冷樱Hanabi",
     "type": "vtuber",
@@ -63895,6 +63937,13 @@
     "face": "/bfs/face/14a5fa4c337387412f45ed996bfb1ea4d95e715d.jpg",
     "group_name": ""
   },
+  "3546754402224923": {
+    "name": "曳光_Drk",
+    "type": "vtuber",
+    "room": 1951597795,
+    "face": "/bfs/face/d5ab6277d9a5cffcb718f254aa765b4e6e249ff7.jpg",
+    "group_name": ""
+  },
   "3546754813266727": {
     "name": "帕帕的存钱罐",
     "type": "vtuber",
@@ -64196,6 +64245,13 @@
     "face": "/bfs/face/fe800f65fdcc65410daed1a19e8ba185267b24bf.jpg",
     "group_name": "Fulaco-Official"
   },
+  "3546832756017576": {
+    "name": "栗可莉丝Le",
+    "type": "vtuber",
+    "room": 1995136903,
+    "face": "/bfs/face/c384bb92a3ea23a2ef5da62ee26b1c047ce6816a.jpg",
+    "group_name": ""
+  },
   "3546833116727714": {
     "name": "兔筱柒Tessie",
     "type": "vtuber",
@@ -64350,6 +64406,13 @@
     "face": "/bfs/face/21210be48f752ae6948f0d73aede3482150c0311.jpg",
     "group_name": ""
   },
+  "3546861088541561": {
+    "name": "希饭Suki",
+    "type": "vtuber",
+    "room": 1844418483,
+    "face": "/bfs/face/b3dd36fd051ccf1e68384262d03d1073871869f0.jpg",
+    "group_name": ""
+  },
   "3546861394725793": {
     "name": "韵叶不赖床",
     "type": "vtuber",
@@ -64490,12 +64553,26 @@
     "face": "/bfs/face/7e5fda5d5c806706ba90396cd2be0205c56fecf2.jpg",
     "group_name": ""
   },
+  "3546893606979799": {
+    "name": "水间埋-mai",
+    "type": "vtuber",
+    "room": 1758148011,
+    "face": "/bfs/face/d748983083129ce26128ac0522660cffee46487e.jpg",
+    "group_name": ""
+  },
   "3546899885853387": {
     "name": "雪都梨Duli-17号满月",
     "type": "vtuber",
     "room": 1908320170,
     "face": "/bfs/face/1016189e85bc587d359a2187785efb987d9ae124.jpg",
     "group_name": ""
+  },
+  "3546901116881287": {
+    "name": "云蔼悠悠YoYo",
+    "type": "vtuber",
+    "room": 1724233282,
+    "face": "/bfs/face/d5330e168717feeb5ad29c6a2d07a5a663933e1d.jpg",
+    "group_name": "极光社"
   },
   "3546903350348268": {
     "name": "氿姬kyuu",
