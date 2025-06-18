@@ -22480,6 +22480,14 @@
     "group_name": ""
   },
   {
+    "uid": 85776543,
+    "name": "兜兜Sco",
+    "type": "vtuber",
+    "room": 1836262505,
+    "face": "/bfs/face/d20241edc90856710c85dc94e60f5a8896979d99.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 85781500,
     "name": "伊斯妲Ista",
     "type": "vtuber",
@@ -72709,6 +72717,14 @@
     "type": "vtuber",
     "room": 1874917171,
     "face": "/bfs/face/49571f4bb190d74580cb3e1756ade111b18d7a8a.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546706954161091,
+    "name": "琼羽_Anny",
+    "type": "vtuber",
+    "room": 1996443760,
+    "face": "/bfs/face/8b80006bd702931a4a21ae4e9353f6ac75f9bc7f.jpg",
     "group_name": ""
   },
   {
