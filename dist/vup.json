@@ -1588,6 +1588,13 @@
     "face": "/bfs/face/2bc9b692d0e1d184a006d3fd67f4b868008bf144.jpg",
     "group_name": ""
   },
+  "440555": {
+    "name": "神圣的楼兰我",
+    "type": "vtuber",
+    "room": 6192987,
+    "face": "/bfs/face/94552cd352292d63f0448ccb10de08140c26eda5.jpg",
+    "group_name": ""
+  },
   "440557": {
     "name": "兰舟ransyuu",
     "type": "vtuber",
@@ -9523,7 +9530,7 @@
     "name": "海月离",
     "type": "vtuber",
     "room": 449047,
-    "face": "/bfs/face/4e6000cda1feafc0b9d9e6077219c0255428e400.jpg",
+    "face": "/bfs/face/c16b431354d9097b9490ebffe8a2da4023bfd2f1.webp",
     "group_name": "纸片人计划"
   },
   "7568338": {
@@ -11091,7 +11098,7 @@
     "name": "喵喵叫的凌叁狐",
     "type": "vtuber",
     "room": 2785512,
-    "face": "/bfs/face/4e3aca36b29a5bf439e23e4371dae324881f69c2.jpg",
+    "face": "/bfs/face/90540dfb639520a543ca653b63b72d3a9cedc737.jpg",
     "group_name": ""
   },
   "10207746": {
@@ -37110,7 +37117,7 @@
     "name": "啾啾才不是萌妹子",
     "type": "vtuber",
     "room": 22599047,
-    "face": "/bfs/face/73c793553c4ae1e5163cdd683b799f2db9497da9.jpg",
+    "face": "/bfs/face/6eedacc6a63fc41b8e57bdc2025f6df5f4ecdc2d.jpg",
     "group_name": ""
   },
   "701582685": {
@@ -63704,6 +63711,13 @@
     "type": "vtuber",
     "room": 1970815894,
     "face": "/bfs/face/5f12ca3193a0bd51e760fef9aa3e99435e269a89.jpg",
+    "group_name": ""
+  },
+  "3546718387832906": {
+    "name": "淼淼Miya-",
+    "type": "vtuber",
+    "room": 1772372999,
+    "face": "/bfs/face/c1c1699fac1f6b818267b8d73f407c8a61ad55de.jpg",
     "group_name": ""
   },
   "3546718792583172": {
