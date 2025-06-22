@@ -19692,6 +19692,15 @@
     "group_name": "Providence"
   },
   {
+    "uid": 22792823,
+    "name": "瑜瑜大王Yuuuuu",
+    "type": "vtuber",
+    "room": 1996459319,
+    "face": "/bfs/face/d6cffdb313be3256dcbae129d100279858748220.webp",
+    "sign": "在这里和大家相遇，互换真心，真诚相待，是我的荣幸，感谢❤️",
+    "group_name": ""
+  },
+  {
     "uid": 22828947,
     "name": "陆修修_Lucius",
     "type": "vtuber",
@@ -23703,6 +23712,15 @@
     "room": 22152978,
     "face": "/bfs/face/e8bf0fc8bd53c99f50169b8dbfb4f331723b3474.jpg",
     "sign": "一點都不幸福。  商務聯繫郵箱：umigiri_in_sea@163.com",
+    "group_name": ""
+  },
+  {
+    "uid": 49741433,
+    "name": "花卷卷err",
+    "type": "vtuber",
+    "room": 1808572374,
+    "face": "/bfs/face/450a6c306be74acb1544eed57530d3358545efeb.jpg",
+    "sign": "可盐可甜小浣熊～上午随机掉落～晚上18点～24点；卷心菜的小窝：1033982476",
     "group_name": ""
   },
   {
@@ -83103,6 +83121,15 @@
     "room": 1992271807,
     "face": "/bfs/face/fa2beb04dbfa1331b7c7fadbf3e6af0f618e5ed6.jpg",
     "sign": "Octavio Official  HOLOSTARS-EN",
+    "group_name": ""
+  },
+  {
+    "uid": 3546908727446065,
+    "name": "果子本铺",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/48af3dbf37961af6824ca01b97b7faa4ee68b49a.jpg",
+    "sign": "日v企划「北立交桥·果子本铺」公式——商务合作：kaede_syuu@kaede-e.com",
     "group_name": ""
   }
 ]

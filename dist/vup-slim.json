@@ -13127,6 +13127,12 @@
     "room": 22735927,
     "group_name": "Providence"
   },
+  "22792823": {
+    "name": "瑜瑜大王Yuuuuu",
+    "type": "vtuber",
+    "room": 1996459319,
+    "group_name": ""
+  },
   "22828947": {
     "name": "陆修修_Lucius",
     "type": "vtuber",
@@ -15801,6 +15807,12 @@
     "name": "海霧うみぎり",
     "type": "vtuber",
     "room": 22152978,
+    "group_name": ""
+  },
+  "49741433": {
+    "name": "花卷卷err",
+    "type": "vtuber",
+    "room": 1808572374,
     "group_name": ""
   },
   "49869871": {
@@ -55401,6 +55413,12 @@
     "name": "奥克塔维奥_EN",
     "type": "vtuber",
     "room": 1992271807,
+    "group_name": ""
+  },
+  "3546908727446065": {
+    "name": "果子本铺",
+    "type": "group",
+    "room": 0,
     "group_name": ""
   }
 }
