@@ -5554,7 +5554,7 @@
     "name": "ONNONANA_呐呐",
     "type": "vtuber",
     "room_id": 369185,
-    "face": "/bfs/face/f1935a59391e1bed20cb664dc2903fa59837a5e9.jpg",
+    "face": "/bfs/face/35e634ebdac25e660b85e1934cff6b8839371653.jpg",
     "group_name": ""
   },
   "2606266": {
@@ -62740,6 +62740,13 @@
     "face": "/bfs/face/0ad9e75231e8da1319ab21b46aa40124cb631996.jpg",
     "group_name": ""
   },
+  "3546609145088627": {
+    "name": "园金金_Official",
+    "type": "vtuber",
+    "room_id": 32334539,
+    "face": "/bfs/face/8cfad36e47c6f4dad512e2342b29d4189a81cdd9.jpg",
+    "group_name": ""
+  },
   "3546610097195542": {
     "name": "Spotlight-观音",
     "type": "vtuber",
@@ -64585,7 +64592,7 @@
     "name": "醇月四将-猛圈",
     "type": "vtuber",
     "room_id": 1749939816,
-    "face": "/bfs/face/bdabb9460bac5c95a9673c2e1e4b8cdfc7c07ba7.jpg",
+    "face": "/bfs/face/3ffd07f3e0b3c545d3ca23dd489bae94c39d36b1.jpg",
     "group_name": ""
   },
   "3546837457832805": {
@@ -64858,7 +64865,7 @@
     "name": "兔绾绾-28号百天版",
     "type": "vtuber",
     "room_id": 1868641472,
-    "face": "/bfs/face/10dc2d945dc43d2bf62362f27fe0489f453d9bff.webp",
+    "face": "/bfs/face/70b1ba612b2a7c780351af2af6aa77e508a41e27.webp",
     "group_name": ""
   },
   "3546873688230117": {
