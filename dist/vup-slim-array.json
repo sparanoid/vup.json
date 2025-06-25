@@ -9268,6 +9268,13 @@
     "group_name": ""
   },
   {
+    "uid": 7151607,
+    "name": "PMR字幕组",
+    "type": "vtuber",
+    "room": 1670270,
+    "group_name": ""
+  },
+  {
     "uid": 7158877,
     "name": "顾稚笙丶",
     "type": "vtuber",
@@ -32117,7 +32124,7 @@
   },
   {
     "uid": 506418268,
-    "name": "奈郁里_芙兰焗冠",
+    "name": "奈愈里_西莉卡冠",
     "type": "vtuber",
     "room": 22209465,
     "group_name": ""
@@ -38763,6 +38770,13 @@
     "name": "波利佧borika",
     "type": "vtuber",
     "room": 23578771,
+    "group_name": ""
+  },
+  {
+    "uid": 1139993620,
+    "name": "YUZUYA_Official",
+    "type": "vtuber",
+    "room": 25261116,
     "group_name": ""
   },
   {
@@ -63943,6 +63957,13 @@
     "type": "vtuber",
     "room": 1858804821,
     "group_name": "Hololive ID (印尼分部)"
+  },
+  {
+    "uid": 3546711154756547,
+    "name": "夏璐娅_Official",
+    "type": "vtuber",
+    "room": 1851391597,
+    "group_name": ""
   },
   {
     "uid": 3546712161388720,

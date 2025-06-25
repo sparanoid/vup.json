@@ -9267,6 +9267,13 @@
     "face": "/bfs/face/b51cc5857fc3c26f05976abf1c4c7d45941092c7.jpg",
     "group_name": ""
   },
+  "7151607": {
+    "name": "PMR字幕组",
+    "type": "vtuber",
+    "room_id": 1670270,
+    "face": "/bfs/face/f807b57d0d21a641a10569858f14702c4b164de6.jpg",
+    "group_name": ""
+  },
   "7158877": {
     "name": "顾稚笙丶",
     "type": "vtuber",
@@ -32116,7 +32123,7 @@
     "group_name": "Virtual放送部"
   },
   "506418268": {
-    "name": "奈郁里_芙兰焗冠",
+    "name": "奈愈里_西莉卡冠",
     "type": "vtuber",
     "room_id": 22209465,
     "face": "/bfs/face/4780ae78b2c22c64628283e409a217924ea1d92a.jpg",
@@ -38763,6 +38770,13 @@
     "type": "vtuber",
     "room_id": 23578771,
     "face": "/bfs/face/549731c8cd55482c79e83e361170fc9e6f7033b9.jpg",
+    "group_name": ""
+  },
+  "1139993620": {
+    "name": "YUZUYA_Official",
+    "type": "vtuber",
+    "room_id": 25261116,
+    "face": "/bfs/face/a78cd9100dc49ebaa331324f3cf70e0dd6bdcbcf.jpg",
     "group_name": ""
   },
   "1140058553": {
@@ -63943,6 +63957,13 @@
     "room_id": 1858804821,
     "face": "/bfs/face/bd1a2ef7b8ffea102d845e15a4b82f6a0df7048b.jpg",
     "group_name": "Hololive ID (印尼分部)"
+  },
+  "3546711154756547": {
+    "name": "夏璐娅_Official",
+    "type": "vtuber",
+    "room_id": 1851391597,
+    "face": "/bfs/face/b4bd0a3c92840e3972dced5ce8b79fa3d3bc23c7.jpg",
+    "group_name": ""
   },
   "3546712161388720": {
     "name": "绮夜Lilith",
