@@ -9673,6 +9673,13 @@
     "face": "/bfs/face/f58e7303bb00a079e31d2ff3ffd8d08552ecb224.jpg",
     "group_name": "Vi-D"
   },
+  "7781862": {
+    "name": "熊守夕子",
+    "type": "vtuber",
+    "room": 4559738,
+    "face": "/bfs/face/9528a949884fd53baeeb18d9c79949a58414b0a9.jpg",
+    "group_name": "八木百货"
+  },
   "7805371": {
     "name": "woundedwolf",
     "type": "vtuber",
@@ -12744,7 +12751,7 @@
     "type": "vtuber",
     "room": 362064,
     "face": "/bfs/face/0f8bd551f5fde2928b6374e509ca89357c319897.jpg",
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   "13644360": {
     "name": "__小玉_-",
@@ -16118,7 +16125,7 @@
     "type": "vtuber",
     "room": 10476261,
     "face": "/bfs/face/69e1c7562fc9e378cce0f4e1099325502efe3b1a.jpg",
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   "26224612": {
     "name": "小知Caleenna",
@@ -17651,7 +17658,7 @@
     "type": "vtuber",
     "room": 21422786,
     "face": "/bfs/face/c2ebebe4f1144f9d12fca7484fbdd4c0b5bcfeac.jpg",
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   "37852472": {
     "name": "卡福Cafu",
@@ -30547,6 +30554,13 @@
     "face": "/bfs/face/c515af9bfb6d0ccb2db32819e60cdbff73715478.jpg",
     "group_name": ""
   },
+  "481632693": {
+    "name": "岁礼hana",
+    "type": "vtuber",
+    "room": 1978005263,
+    "face": "/bfs/face/fe3ca6c8f8aa00be3dbf038b27c57cd46995c816.jpg",
+    "group_name": "多维变奏MDV"
+  },
   "481694509": {
     "name": "喵玖玖CatNine",
     "type": "vtuber",
@@ -38282,6 +38296,13 @@
     "face": "/bfs/face/7e08840c56f251de28bdf766b647bd5fe9a5d50a.jpg",
     "group_name": "千鸟战队"
   },
+  "1090129857": {
+    "name": "多维变奏MDV",
+    "type": "group",
+    "room": 1955144643,
+    "face": "/bfs/face/ba2865121563554f19bd417d7a86087221bb70ca.jpg",
+    "group_name": ""
+  },
   "1091531216": {
     "name": "雪璃是只雪貂",
     "type": "vtuber",
@@ -39094,6 +39115,13 @@
     "face": "/bfs/face/9d8fde9ad0204cc8bd52d9c2611f8b9b032b9e1a.jpg",
     "group_name": "TheVirkyrie"
   },
+  "1178470738": {
+    "name": "八木百货",
+    "type": "group",
+    "room": 31875254,
+    "face": "/bfs/face/b725879fcc1b3aeb470d00ac654e23c9373056e1.jpg",
+    "group_name": ""
+  },
   "1178920043": {
     "name": "伊丝塔_Easter",
     "type": "vtuber",
@@ -39645,7 +39673,7 @@
     "type": "vtuber",
     "room": 25215389,
     "face": "/bfs/face/974dd08cfba29121d4c3c1bf2d5bf7db2a8ee1eb.jpg",
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   "1223566957": {
     "name": "千鶴瑠凛花Official",
@@ -43175,6 +43203,13 @@
     "face": "/bfs/face/5a9cbe9fbee7dbc616b647ebc85fb16288d61968.jpg",
     "group_name": ""
   },
+  "1560400081": {
+    "name": "洛澜Aurelia",
+    "type": "vtuber",
+    "room": 1814037294,
+    "face": "/bfs/face/12e56b86de5edd99130b6572a6f24abdf7c2dc20.jpg",
+    "group_name": "多维变奏MDV"
+  },
   "1560641990": {
     "name": "天羽syui",
     "type": "vtuber",
@@ -45987,7 +46022,7 @@
     "type": "vtuber",
     "room": 25215025,
     "face": "/bfs/face/f69863d79a98477adaed279b5cf3eb09abd41157.jpg",
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   "1821601441": {
     "name": "姬芽Tiya",
@@ -46631,7 +46666,7 @@
     "type": "vtuber",
     "room": 27201226,
     "face": "/bfs/face/af4b6850f960f3ebb2e2249a05e10424a0cda9e1.jpg",
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   "1878154667": {
     "name": "沐霂是MUMU呀",
@@ -58568,6 +58603,13 @@
     "face": "/bfs/face/395ef61f514789d8f4d5aa39e58f67c0822d577b.jpg",
     "group_name": ""
   },
+  "3494359695624911": {
+    "name": "东方绪_official",
+    "type": "vtuber",
+    "room": 31998622,
+    "face": "/bfs/face/151279e65b88e5276d98eda7c23e55a97f68dacd.jpg",
+    "group_name": "多维变奏MDV"
+  },
   "3494359880174178": {
     "name": "苏尼尔_Sunil",
     "type": "vtuber",
@@ -59476,7 +59518,7 @@
     "type": "vtuber",
     "room": 30487596,
     "face": "/bfs/face/9f9a8f8ad5430c4af562e6a72a575da8d07a2b1d.jpg",
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   "3494371460647038": {
     "name": "弥美姬_Mimi",
@@ -62488,6 +62530,13 @@
     "face": "/bfs/face/b3baff8763c0a79ee63824ebe0d7b9f3a05492f4.jpg",
     "group_name": ""
   },
+  "3546594678934495": {
+    "name": "赛蒂娅Sentia",
+    "type": "vtuber",
+    "room": 31796618,
+    "face": "/bfs/face/e46bdaccd5dffb4f2a816c8534fbc3b14844941e.jpg",
+    "group_name": "多维变奏MDV"
+  },
   "3546594760723055": {
     "name": "浅音初奈",
     "type": "vtuber",
@@ -63326,7 +63375,7 @@
     "type": "vtuber",
     "room": 32408436,
     "face": "/bfs/face/dd9bfb847a4c1ea17ea011ca29f9f9d9c5510fe4.jpg",
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   "3546656337299626": {
     "name": "如月柠柠",
@@ -63536,13 +63585,6 @@
     "type": "vtuber",
     "room": 1975893719,
     "face": "/bfs/face/ad40a93d28f32c50023540b24f38098ab9c501c6.jpg",
-    "group_name": ""
-  },
-  "3546678934112839": {
-    "name": "改变剧情的npc",
-    "type": "vtuber",
-    "room": 32782553,
-    "face": "/bfs/face/8b53bbb6e80b0980e764023b2d50ed969a9bed0d.webp",
     "group_name": ""
   },
   "3546679064136633": {
@@ -63901,6 +63943,13 @@
     "room": 1815222081,
     "face": "/bfs/face/7a678c666370dc9c4b635cda4350d59079d2623f.jpg",
     "group_name": ""
+  },
+  "3546715672021849": {
+    "name": "索珐sapphire",
+    "type": "vtuber",
+    "room": 1762938299,
+    "face": "/bfs/face/e5d8974f20f2a7ac93ec107b118fcf31f44954fa.jpg",
+    "group_name": "八木百货"
   },
   "3546716517173570": {
     "name": "仁子RENZ1",
@@ -64356,6 +64405,13 @@
     "room": 1829023481,
     "face": "/bfs/face/7b498d68da4c386aab63b1f91aa9070d94eb5532.jpg",
     "group_name": ""
+  },
+  "3546781384182199": {
+    "name": "原佳穤穤_ゆあの",
+    "type": "vtuber",
+    "room": 1732306362,
+    "face": "/bfs/face/ed695dc04b0a14911fff7246da5eeea9c75416d7.jpg",
+    "group_name": "多维变奏MDV"
   },
   "3546784200656899": {
     "name": "千初_好运降临",

@@ -9674,6 +9674,13 @@
     "group_name": "Vi-D"
   },
   {
+    "uid": 7781862,
+    "name": "熊守夕子",
+    "type": "vtuber",
+    "room": 4559738,
+    "group_name": "八木百货"
+  },
+  {
     "uid": 7805371,
     "name": "woundedwolf",
     "type": "vtuber",
@@ -12744,7 +12751,7 @@
     "name": "顾疚疚",
     "type": "vtuber",
     "room": 362064,
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   {
     "uid": 13644360,
@@ -16118,7 +16125,7 @@
     "name": "敛云烟",
     "type": "vtuber",
     "room": 10476261,
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   {
     "uid": 26224612,
@@ -17651,7 +17658,7 @@
     "name": "安心愛",
     "type": "vtuber",
     "room": 21422786,
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   {
     "uid": 37852472,
@@ -30548,6 +30555,13 @@
     "group_name": ""
   },
   {
+    "uid": 481632693,
+    "name": "岁礼hana",
+    "type": "vtuber",
+    "room": 1978005263,
+    "group_name": "多维变奏MDV"
+  },
+  {
     "uid": 481694509,
     "name": "喵玖玖CatNine",
     "type": "vtuber",
@@ -38283,6 +38297,13 @@
     "group_name": "千鸟战队"
   },
   {
+    "uid": 1090129857,
+    "name": "多维变奏MDV",
+    "type": "group",
+    "room": 1955144643,
+    "group_name": ""
+  },
+  {
     "uid": 1091531216,
     "name": "雪璃是只雪貂",
     "type": "vtuber",
@@ -39095,6 +39116,13 @@
     "group_name": "TheVirkyrie"
   },
   {
+    "uid": 1178470738,
+    "name": "八木百货",
+    "type": "group",
+    "room": 31875254,
+    "group_name": ""
+  },
+  {
     "uid": 1178920043,
     "name": "伊丝塔_Easter",
     "type": "vtuber",
@@ -39645,7 +39673,7 @@
     "name": "咏枂Yuer",
     "type": "vtuber",
     "room": 25215389,
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   {
     "uid": 1223566957,
@@ -43176,6 +43204,13 @@
     "group_name": ""
   },
   {
+    "uid": 1560400081,
+    "name": "洛澜Aurelia",
+    "type": "vtuber",
+    "room": 1814037294,
+    "group_name": "多维变奏MDV"
+  },
+  {
     "uid": 1560641990,
     "name": "天羽syui",
     "type": "vtuber",
@@ -45987,7 +46022,7 @@
     "name": "班羚Nemus",
     "type": "vtuber",
     "room": 25215025,
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   {
     "uid": 1821601441,
@@ -46631,7 +46666,7 @@
     "name": "布蕾Nonoko",
     "type": "vtuber",
     "room": 27201226,
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   {
     "uid": 1878154667,
@@ -58569,6 +58604,13 @@
     "group_name": ""
   },
   {
+    "uid": 3494359695624911,
+    "name": "东方绪_official",
+    "type": "vtuber",
+    "room": 31998622,
+    "group_name": "多维变奏MDV"
+  },
+  {
     "uid": 3494359880174178,
     "name": "苏尼尔_Sunil",
     "type": "vtuber",
@@ -59476,7 +59518,7 @@
     "name": "盖洣洣kingyo",
     "type": "vtuber",
     "room": 30487596,
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   {
     "uid": 3494371460647038,
@@ -62489,6 +62531,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546594678934495,
+    "name": "赛蒂娅Sentia",
+    "type": "vtuber",
+    "room": 31796618,
+    "group_name": "多维变奏MDV"
+  },
+  {
     "uid": 3546594760723055,
     "name": "浅音初奈",
     "type": "vtuber",
@@ -63326,7 +63375,7 @@
     "name": "溪璐Shiro",
     "type": "vtuber",
     "room": 32408436,
-    "group_name": ""
+    "group_name": "多维变奏MDV"
   },
   {
     "uid": 3546656337299626,
@@ -63536,13 +63585,6 @@
     "name": "蔓吞吞-Luv",
     "type": "vtuber",
     "room": 1975893719,
-    "group_name": ""
-  },
-  {
-    "uid": 3546678934112839,
-    "name": "改变剧情的npc",
-    "type": "vtuber",
-    "room": 32782553,
     "group_name": ""
   },
   {
@@ -63901,6 +63943,13 @@
     "type": "vtuber",
     "room": 1815222081,
     "group_name": ""
+  },
+  {
+    "uid": 3546715672021849,
+    "name": "索珐sapphire",
+    "type": "vtuber",
+    "room": 1762938299,
+    "group_name": "八木百货"
   },
   {
     "uid": 3546716517173570,
@@ -64356,6 +64405,13 @@
     "type": "vtuber",
     "room": 1829023481,
     "group_name": ""
+  },
+  {
+    "uid": 3546781384182199,
+    "name": "原佳穤穤_ゆあの",
+    "type": "vtuber",
+    "room": 1732306362,
+    "group_name": "多维变奏MDV"
   },
   {
     "uid": 3546784200656899,
