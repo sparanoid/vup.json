@@ -27257,6 +27257,13 @@
     "face": "/bfs/face/227af0dd9606274a2febe12308071baa2c3cf5a0.jpg",
     "group_name": ""
   },
+  "408367406": {
+    "name": "星稚兔眠starry",
+    "type": "vtuber",
+    "room": 25165548,
+    "face": "/bfs/face/525496c399b9d6c2ca17f88e458d2a26a2b70851.jpg",
+    "group_name": ""
+  },
   "408379588": {
     "name": "丹羽庭子Official",
     "type": "vtuber",
@@ -39945,7 +39952,7 @@
     "name": "麦宝-Cutieip",
     "type": "vtuber",
     "room": 32105275,
-    "face": "/bfs/face/641f78430fe60e17711c0fb26b25192d604f3821.jpg",
+    "face": "/bfs/face/73c721248f7a1faa2135d58be5334831d358c60a.jpg",
     "group_name": ""
   },
   "1247106691": {
@@ -50347,7 +50354,7 @@
     "name": "霁春夜-三岁冠",
     "type": "vtuber",
     "room": 1884963061,
-    "face": "/bfs/face/5c771576083deffd39d65cf7dc88628d0cb70979.jpg",
+    "face": "/bfs/face/44c23ecaa0e2eb0fb6904ccf649216d342a9bbcf.jpg",
     "group_name": ""
   },
   "3461579418896666": {
@@ -64110,6 +64117,13 @@
     "type": "vtuber",
     "room": 1757328182,
     "face": "/bfs/face/344e04f6c06f7432874cdaa497aeaa82be87df2e.jpg",
+    "group_name": ""
+  },
+  "3546722699577920": {
+    "name": "帕帕莉PPL",
+    "type": "vtuber",
+    "room": 1901381145,
+    "face": "/bfs/face/201cc4793bf62006a97c7ef65689a61be1ffa8d8.jpg",
     "group_name": ""
   },
   "3546725413292351": {
