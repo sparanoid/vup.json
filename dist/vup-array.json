@@ -28944,6 +28944,14 @@
     "group_name": ""
   },
   {
+    "uid": 378932044,
+    "name": "维奥莉特Violet",
+    "type": "vtuber",
+    "room": 1884967880,
+    "face": "/bfs/face/93eae5d8e133fd4f8b5edc00ef34b0390379fc8a.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 378972233,
     "name": "澜铭surge",
     "type": "vtuber",
@@ -33504,6 +33512,14 @@
     "group_name": ""
   },
   {
+    "uid": 453269001,
+    "name": "千樱雾-半周年版6-30",
+    "type": "vtuber",
+    "room": 25339277,
+    "face": "/bfs/face/4f70eedf2a70e1248a5411d3cbb33ffd998cf05d.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 453653330,
     "name": "小灰猫Kaposi",
     "type": "vtuber",
@@ -36745,7 +36761,7 @@
   },
   {
     "uid": 506418268,
-    "name": "奈郁里_西莉卡冠",
+    "name": "奈郁里",
     "type": "vtuber",
     "room": 22209465,
     "face": "/bfs/face/4780ae78b2c22c64628283e409a217924ea1d92a.jpg",
@@ -50512,6 +50528,14 @@
     "group_name": ""
   },
   {
+    "uid": 1640446181,
+    "name": "小沈7A7",
+    "type": "vtuber",
+    "room": 30183581,
+    "face": "/bfs/face/4c5c624ec61747c6145e11b399b53b799578e217.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1641170415,
     "name": "奥罗拉Aurora_",
     "type": "vtuber",
@@ -52358,6 +52382,14 @@
     "room": 27877011,
     "face": "/bfs/face/548604b26dc23198e774a7002a176a4e0dae99b8.jpg",
     "group_name": "NIJISANJI EN"
+  },
+  {
+    "uid": 1795283605,
+    "name": "六六想啃竹子la_贰陵冠",
+    "type": "vtuber",
+    "room": 1896540583,
+    "face": "/bfs/face/ac4983a207f24d0c2bca5b6f70bae10e8cf0b7d2.jpg",
+    "group_name": ""
   },
   {
     "uid": 1795716989,
@@ -59965,6 +59997,14 @@
     "type": "vtuber",
     "room": 27474875,
     "face": "/bfs/face/f8ff2c0b550384ed5640fbb346cb40ccf32738df.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493121853753922,
+    "name": "兔璃Tulie",
+    "type": "vtuber",
+    "room": 1738160774,
+    "face": "/bfs/face/4115a3f390e34819f024bb25b708616fe8446c57.jpg",
     "group_name": ""
   },
   {
@@ -70696,6 +70736,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546555191659421,
+    "name": "一只塔娅娅Su",
+    "type": "vtuber",
+    "room": 30982378,
+    "face": "/bfs/face/9506868dac043f50b8535239aa7bd50da2a40f70.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546555780959007,
     "name": "笨笨栀",
     "type": "vtuber",
@@ -73105,10 +73153,10 @@
   },
   {
     "uid": 3546706215962648,
-    "name": "纸条kitty",
+    "name": "纸条大号",
     "type": "vtuber",
     "room": 1882305255,
-    "face": "/bfs/face/d661a02e9ac1e1c897789a60ff0ad0177e0cf210.jpg",
+    "face": "/bfs/face/9d1371623af0d01da672953d683a98857ffe4ccc.jpg",
     "group_name": ""
   },
   {
@@ -73832,6 +73880,14 @@
     "group_name": "Hololive ID (印尼分部)"
   },
   {
+    "uid": 3546795128916027,
+    "name": "贝璐_Minami",
+    "type": "vtuber",
+    "room": 1731714266,
+    "face": "/bfs/face/ad6e7ec7943856f32a54127787cc83e9613188da.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546796225727272,
     "name": "江小软软",
     "type": "vtuber",
@@ -73889,7 +73945,7 @@
   },
   {
     "uid": 3546805117651064,
-    "name": "映瑶-",
+    "name": "映瑶-7月11半周年版",
     "type": "vtuber",
     "room": 1734606190,
     "face": "/bfs/face/51a97a0c4125d111473266af3688b4514f5ec3bd.jpg",
@@ -74464,6 +74520,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546892042504747,
+    "name": "绫娜Nana",
+    "type": "vtuber",
+    "room": 1849306095,
+    "face": "/bfs/face/7e24fed2abff0ee5080e05dc745326353944fb2e.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546893606979799,
     "name": "水间埋-mai",
     "type": "vtuber",
@@ -74534,6 +74598,14 @@
     "room": 1852630738,
     "face": "/bfs/face/7b93b11d0a62a385b2b5f9d48a0b05a69badb3a6.jpg",
     "group_name": "问尘仙会"
+  },
+  {
+    "uid": 3546907255245583,
+    "name": "桃噗噗_六期扒冠",
+    "type": "vtuber",
+    "room": 1852635232,
+    "face": "/bfs/face/038362b2a903bedd8259e47dde0ab019411beba8.jpg",
+    "group_name": ""
   },
   {
     "uid": 3546907997637317,

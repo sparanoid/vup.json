@@ -25326,6 +25326,13 @@
     "group_name": ""
   },
   {
+    "uid": 378932044,
+    "name": "维奥莉特Violet",
+    "type": "vtuber",
+    "room": 1884967880,
+    "group_name": ""
+  },
+  {
     "uid": 378972233,
     "name": "澜铭surge",
     "type": "vtuber",
@@ -29316,6 +29323,13 @@
     "group_name": ""
   },
   {
+    "uid": 453269001,
+    "name": "千樱雾-半周年版6-30",
+    "type": "vtuber",
+    "room": 25339277,
+    "group_name": ""
+  },
+  {
     "uid": 453653330,
     "name": "小灰猫Kaposi",
     "type": "vtuber",
@@ -32152,7 +32166,7 @@
   },
   {
     "uid": 506418268,
-    "name": "奈郁里_西莉卡冠",
+    "name": "奈郁里",
     "type": "vtuber",
     "room": 22209465,
     "group_name": ""
@@ -44198,6 +44212,13 @@
     "group_name": ""
   },
   {
+    "uid": 1640446181,
+    "name": "小沈7A7",
+    "type": "vtuber",
+    "room": 30183581,
+    "group_name": ""
+  },
+  {
     "uid": 1641170415,
     "name": "奥罗拉Aurora_",
     "type": "vtuber",
@@ -45813,6 +45834,13 @@
     "type": "vtuber",
     "room": 27877011,
     "group_name": "NIJISANJI EN"
+  },
+  {
+    "uid": 1795283605,
+    "name": "六六想啃竹子la_贰陵冠",
+    "type": "vtuber",
+    "room": 1896540583,
+    "group_name": ""
   },
   {
     "uid": 1795716989,
@@ -52469,6 +52497,13 @@
     "name": "扈欲_Official",
     "type": "vtuber",
     "room": 27474875,
+    "group_name": ""
+  },
+  {
+    "uid": 3493121853753922,
+    "name": "兔璃Tulie",
+    "type": "vtuber",
+    "room": 1738160774,
     "group_name": ""
   },
   {
@@ -61859,6 +61894,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546555191659421,
+    "name": "一只塔娅娅Su",
+    "type": "vtuber",
+    "room": 30982378,
+    "group_name": ""
+  },
+  {
     "uid": 3546555780959007,
     "name": "笨笨栀",
     "type": "vtuber",
@@ -63967,7 +64009,7 @@
   },
   {
     "uid": 3546706215962648,
-    "name": "纸条kitty",
+    "name": "纸条大号",
     "type": "vtuber",
     "room": 1882305255,
     "group_name": ""
@@ -64603,6 +64645,13 @@
     "group_name": "Hololive ID (印尼分部)"
   },
   {
+    "uid": 3546795128916027,
+    "name": "贝璐_Minami",
+    "type": "vtuber",
+    "room": 1731714266,
+    "group_name": ""
+  },
+  {
     "uid": 3546796225727272,
     "name": "江小软软",
     "type": "vtuber",
@@ -64653,7 +64702,7 @@
   },
   {
     "uid": 3546805117651064,
-    "name": "映瑶-",
+    "name": "映瑶-7月11半周年版",
     "type": "vtuber",
     "room": 1734606190,
     "group_name": ""
@@ -65156,6 +65205,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546892042504747,
+    "name": "绫娜Nana",
+    "type": "vtuber",
+    "room": 1849306095,
+    "group_name": ""
+  },
+  {
     "uid": 3546893606979799,
     "name": "水间埋-mai",
     "type": "vtuber",
@@ -65217,6 +65273,13 @@
     "type": "vtuber",
     "room": 1852630738,
     "group_name": "问尘仙会"
+  },
+  {
+    "uid": 3546907255245583,
+    "name": "桃噗噗_六期扒冠",
+    "type": "vtuber",
+    "room": 1852635232,
+    "group_name": ""
   },
   {
     "uid": 3546907997637317,

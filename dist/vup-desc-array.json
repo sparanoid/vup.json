@@ -32562,6 +32562,15 @@
     "group_name": ""
   },
   {
+    "uid": 378932044,
+    "name": "维奥莉特Violet",
+    "type": "vtuber",
+    "room": 1884967880,
+    "face": "/bfs/face/93eae5d8e133fd4f8b5edc00ef34b0390379fc8a.jpg",
+    "sign": "欢迎来到月眠屋，在这里休息一下吧，花園：1040012174",
+    "group_name": ""
+  },
+  {
     "uid": 378972233,
     "name": "澜铭surge",
     "type": "vtuber",
@@ -37692,6 +37701,15 @@
     "group_name": ""
   },
   {
+    "uid": 453269001,
+    "name": "千樱雾-半周年版6-30",
+    "type": "vtuber",
+    "room": 25339277,
+    "face": "/bfs/face/4f70eedf2a70e1248a5411d3cbb33ffd998cf05d.jpg",
+    "sign": "去寻找属于自己的未来！！\n养成系小小小up主\n分享日常｜直播聊天\n每晚7点在直播间和大家见面\n拒绝懒惰！！！！\n企鹅：1015783302",
+    "group_name": ""
+  },
+  {
     "uid": 453653330,
     "name": "小灰猫Kaposi",
     "type": "vtuber",
@@ -41338,7 +41356,7 @@
   },
   {
     "uid": 506418268,
-    "name": "奈郁里_西莉卡冠",
+    "name": "奈郁里",
     "type": "vtuber",
     "room": 22209465,
     "face": "/bfs/face/4780ae78b2c22c64628283e409a217924ea1d92a.jpg",
@@ -56826,6 +56844,15 @@
     "group_name": ""
   },
   {
+    "uid": 1640446181,
+    "name": "小沈7A7",
+    "type": "vtuber",
+    "room": 30183581,
+    "face": "/bfs/face/4c5c624ec61747c6145e11b399b53b799578e217.jpg",
+    "sign": "自给自足的光不会暗「20-24」",
+    "group_name": ""
+  },
+  {
     "uid": 1641170415,
     "name": "奥罗拉Aurora_",
     "type": "vtuber",
@@ -58903,6 +58930,15 @@
     "face": "/bfs/face/548604b26dc23198e774a7002a176a4e0dae99b8.jpg",
     "sign": "Hello, my name is Hex Haywire.",
     "group_name": "NIJISANJI EN"
+  },
+  {
+    "uid": 1795283605,
+    "name": "六六想啃竹子la_贰陵冠",
+    "type": "vtuber",
+    "room": 1896540583,
+    "face": "/bfs/face/ac4983a207f24d0c2bca5b6f70bae10e8cf0b7d2.jpg",
+    "sign": "“等你。”\n每晚21:00-1:00波波哦～\n爱六小屋Q：114190323",
+    "group_name": ""
   },
   {
     "uid": 1795716989,
@@ -67461,6 +67497,15 @@
     "room": 27474875,
     "face": "/bfs/face/f8ff2c0b550384ed5640fbb346cb40ccf32738df.jpg",
     "sign": "瞧，那颗星在挣脱黑暗的束缚，成为真正的闪耀。",
+    "group_name": ""
+  },
+  {
+    "uid": 3493121853753922,
+    "name": "兔璃Tulie",
+    "type": "vtuber",
+    "room": 1738160774,
+    "face": "/bfs/face/4115a3f390e34819f024bb25b708616fe8446c57.jpg",
+    "sign": "是一只笨蛋屑兔子～ 营业时间下午12:00 晚上不定时 \n粉丝群1043500838",
     "group_name": ""
   },
   {
@@ -79533,6 +79578,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546555191659421,
+    "name": "一只塔娅娅Su",
+    "type": "vtuber",
+    "room": 30982378,
+    "face": "/bfs/face/9506868dac043f50b8535239aa7bd50da2a40f70.jpg",
+    "sign": "在逃✟心电机✟、会点cos和舞蹈、个人势 | 国粤日 | 硕V 14:00和21:00在直播间接受爱的✟电波✟！合作私 目标是10w粉！",
+    "group_name": ""
+  },
+  {
     "uid": 3546555780959007,
     "name": "笨笨栀",
     "type": "vtuber",
@@ -82243,11 +82297,11 @@
   },
   {
     "uid": 3546706215962648,
-    "name": "纸条kitty",
+    "name": "纸条大号",
     "type": "vtuber",
     "room": 1882305255,
-    "face": "/bfs/face/d661a02e9ac1e1c897789a60ff0ad0177e0cf210.jpg",
-    "sign": "天行健，君子以自强不息、地势坤，君子以厚德载物。",
+    "face": "/bfs/face/9d1371623af0d01da672953d683a98857ffe4ccc.jpg",
+    "sign": "",
     "group_name": ""
   },
   {
@@ -83061,6 +83115,15 @@
     "group_name": "Hololive ID (印尼分部)"
   },
   {
+    "uid": 3546795128916027,
+    "name": "贝璐_Minami",
+    "type": "vtuber",
+    "room": 1731714266,
+    "face": "/bfs/face/ad6e7ec7943856f32a54127787cc83e9613188da.jpg",
+    "sign": "可可爱爱没有脑袋 要永远在一起哦 早7—9 晚20.00-22.30 兼职聚光社小鲸鱼直播 粉丝群902275151~",
+    "group_name": ""
+  },
+  {
     "uid": 3546796225727272,
     "name": "江小软软",
     "type": "vtuber",
@@ -83125,7 +83188,7 @@
   },
   {
     "uid": 3546805117651064,
-    "name": "映瑶-",
+    "name": "映瑶-7月11半周年版",
     "type": "vtuber",
     "room": 1734606190,
     "face": "/bfs/face/51a97a0c4125d111473266af3688b4514f5ec3bd.jpg",
@@ -83772,6 +83835,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546892042504747,
+    "name": "绫娜Nana",
+    "type": "vtuber",
+    "room": 1849306095,
+    "face": "/bfs/face/7e24fed2abff0ee5080e05dc745326353944fb2e.jpg",
+    "sign": "绫娜是天！绫娜是地！绫娜是天下第一！！\n暂定21:00-3:00直播",
+    "group_name": ""
+  },
+  {
     "uid": 3546893606979799,
     "name": "水间埋-mai",
     "type": "vtuber",
@@ -83851,6 +83923,15 @@
     "face": "/bfs/face/7b93b11d0a62a385b2b5f9d48a0b05a69badb3a6.jpg",
     "sign": "〈问尘仙会〉活力满满的反差精灵(✿ฺ-ω-)！\n每天下午2-4点和晚上8-10播播！偶尔掉落早播！",
     "group_name": "问尘仙会"
+  },
+  {
+    "uid": 3546907255245583,
+    "name": "桃噗噗_六期扒冠",
+    "type": "vtuber",
+    "room": 1852635232,
+    "face": "/bfs/face/038362b2a903bedd8259e47dde0ab019411beba8.jpg",
+    "sign": "私皮   直播时间凌晨3点～早上8点  晚上8点～凌晨12点\n如果开播晚了 那一定睡懒觉啦 嘻嘻嘻～\n是一只每天播9个小时 超级努力的猫猫～",
+    "group_name": ""
   },
   {
     "uid": 3546907997637317,
