@@ -21078,7 +21078,7 @@
   },
   {
     "uid": 158636881,
-    "name": "酸素ねむ_眠",
+    "name": "可眠N01SE",
     "type": "vtuber",
     "room": 4984404,
     "group_name": "コーロンサス学園"
@@ -65265,6 +65265,13 @@
     "name": "奈莎Nyssa",
     "type": "vtuber",
     "room": 1949981754,
+    "group_name": ""
+  },
+  {
+    "uid": 3546905411848671,
+    "name": "念念不念umi-超白",
+    "type": "vtuber",
+    "room": 1786566935,
     "group_name": ""
   },
   {

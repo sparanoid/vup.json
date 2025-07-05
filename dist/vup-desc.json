@@ -24088,7 +24088,7 @@
     "group_name": ""
   },
   "158636881": {
-    "name": "酸素ねむ_眠",
+    "name": "可眠N01SE",
     "type": "vtuber",
     "room": 4984404,
     "face": "/bfs/face/1f708fbf26a9dda2450c41619acc9325b9fe1fe9.jpg",
@@ -74589,6 +74589,14 @@
     "room": 1949981754,
     "face": "/bfs/face/5365d894116ba5788adbce4f43e317233551c279.jpg",
     "sign": "毕业啦",
+    "group_name": ""
+  },
+  "3546905411848671": {
+    "name": "念念不念umi-超白",
+    "type": "vtuber",
+    "room": 1786566935,
+    "face": "/bfs/face/9fffd0157263a3914947d16d63292ccb5668a5ee.jpg",
+    "sign": "哈喽，这里是念念的快乐星球～直播时间10.00-20.00\n抽象派甜妹唱见一枚～ 感恩遇见感谢有你",
     "group_name": ""
   },
   "3546906485590570": {

@@ -21077,7 +21077,7 @@
     "group_name": ""
   },
   "158636881": {
-    "name": "酸素ねむ_眠",
+    "name": "可眠N01SE",
     "type": "vtuber",
     "room": 4984404,
     "face": "/bfs/face/1f708fbf26a9dda2450c41619acc9325b9fe1fe9.jpg",
@@ -65265,6 +65265,13 @@
     "type": "vtuber",
     "room": 1949981754,
     "face": "/bfs/face/5365d894116ba5788adbce4f43e317233551c279.jpg",
+    "group_name": ""
+  },
+  "3546905411848671": {
+    "name": "念念不念umi-超白",
+    "type": "vtuber",
+    "room": 1786566935,
+    "face": "/bfs/face/9fffd0157263a3914947d16d63292ccb5668a5ee.jpg",
     "group_name": ""
   },
   "3546906485590570": {
