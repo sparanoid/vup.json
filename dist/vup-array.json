@@ -29180,7 +29180,7 @@
     "name": "雨蝶酱哟",
     "type": "vtuber",
     "room": 22642013,
-    "face": "/bfs/face/a2aefe81cadd39cff190b319ca21a85e84615073.jpg",
+    "face": "/bfs/face/e17a4546ee2c01d37fdb68bc744adaeff7d8818b.jpg",
     "group_name": ""
   },
   {
@@ -49424,6 +49424,14 @@
     "group_name": ""
   },
   {
+    "uid": 1556998898,
+    "name": "朝凪夜玖_Yori",
+    "type": "vtuber",
+    "room": 24694890,
+    "face": "/bfs/face/67d558282bf7d62e1fd48b211eed22d03c1fe2b3.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 1557202606,
     "name": "千圣Chisato",
     "type": "vtuber",
@@ -58556,7 +58564,7 @@
     "name": "小夜歌Sayoka",
     "type": "vtuber",
     "room": 26708561,
-    "face": "/bfs/face/51bbf9c48ad56a3b931b49cdab53b2e52a1724b0.jpg",
+    "face": "/bfs/face/f6760a2579366084c0eb4ab9665997cb33646d6a.jpg",
     "group_name": ""
   },
   {
@@ -63316,7 +63324,7 @@
     "name": "神山浠浠_k7tteo",
     "type": "vtuber",
     "room": 27481730,
-    "face": "/bfs/face/5d24742e62b01bc0a3980396ad5df6f7700d8146.jpg",
+    "face": "/bfs/face/1fbd06ebdbd54a975b0f3a38c0742cac3e53a797.jpg",
     "group_name": ""
   },
   {
@@ -74493,6 +74501,14 @@
     "type": "vtuber",
     "room": 1883947112,
     "face": "/bfs/face/f47db62b1d6ba864ad4725a9b2b4f77b1cdb6a8f.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546886818498838,
+    "name": "-可可keke-",
+    "type": "vtuber",
+    "room": 1942245681,
+    "face": "/bfs/face/378833aa1c4c2041499bc7fba4e60afcdbbcd971.jpg",
     "group_name": ""
   },
   {
