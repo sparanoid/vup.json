@@ -18585,6 +18585,15 @@
     "group_name": ""
   },
   {
+    "uid": 19369243,
+    "name": "喵西早点睡",
+    "type": "vtuber",
+    "room": 516043,
+    "face": "/bfs/face/0a79a9009004182228b390832b1d5f7abdf0f3ad.jpg",
+    "sign": "1726129066 逗鹰",
+    "group_name": ""
+  },
+  {
     "uid": 19446443,
     "name": "白乃菟Nettie",
     "type": "vtuber",
@@ -81635,7 +81644,7 @@
     "type": "vtuber",
     "room": 1919210104,
     "face": "/bfs/face/0d029e9e7f0897fcb9eb13e6445b9c16ae092dae.jpg",
-    "sign": "超级耐播王，主杂谈通宵势，会唱一点点歌～\n每晚21:00 梦想是做最幸福的小猫^˶･֊･˶^੭\n灯牌进粉丝群哦【747793637】",
+    "sign": "",
     "group_name": ""
   },
   {
@@ -83786,7 +83795,7 @@
     "type": "vtuber",
     "room": 1725926918,
     "face": "/bfs/face/b32f1d6398539fc509bf0a04ecba4f85f935ad38.jpg",
-    "sign": "你只管努力，上天总不会薄待你～晚22：00-早10：00通宵新V~",
+    "sign": "你只管努力，上天总不会薄待你～",
     "group_name": ""
   },
   {
@@ -84298,7 +84307,7 @@
     "name": "云蔼悠悠YoYo",
     "type": "vtuber",
     "room": 1724233282,
-    "face": "/bfs/face/7a2d7934cd16524a1d601f0eecac432a8aed7c57.jpg",
+    "face": "/bfs/face/309152ee5d5dc66571992d6db6cfc02b8b3b219e.jpg",
     "sign": "极光社  歌谈\n 下午3-6 晚上10-1",
     "group_name": "极光社"
   },

@@ -14454,6 +14454,13 @@
     "face": "/bfs/face/fc07400de5c1745c9d2b52f5078f3122eb389bb1.jpg",
     "group_name": ""
   },
+  "19369243": {
+    "name": "喵西早点睡",
+    "type": "vtuber",
+    "room_id": 516043,
+    "face": "/bfs/face/0a79a9009004182228b390832b1d5f7abdf0f3ad.jpg",
+    "group_name": ""
+  },
   "19446443": {
     "name": "白乃菟Nettie",
     "type": "vtuber",
@@ -65565,7 +65572,7 @@
     "name": "云蔼悠悠YoYo",
     "type": "vtuber",
     "room_id": 1724233282,
-    "face": "/bfs/face/7a2d7934cd16524a1d601f0eecac432a8aed7c57.jpg",
+    "face": "/bfs/face/309152ee5d5dc66571992d6db6cfc02b8b3b219e.jpg",
     "group_name": "极光社"
   },
   "3546903350348268": {
