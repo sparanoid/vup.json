@@ -26005,7 +26005,7 @@
     "group_name": ""
   },
   "388209397": {
-    "name": "药药oi-打野冠",
+    "name": "药药oi",
     "type": "vtuber",
     "room_id": 1752666093,
     "face": "/bfs/face/baba849b64163e8acec4e412416bc0ffb9f2a095.jpg",
@@ -32596,6 +32596,13 @@
     "type": "vtuber",
     "room_id": 21928353,
     "face": "/bfs/face/e565f39d216e74399ce1bf466eb8c7f0a777166e.jpg",
+    "group_name": ""
+  },
+  "513242630": {
+    "name": "Ivy逸-",
+    "type": "vtuber",
+    "room_id": 31753999,
+    "face": "/bfs/face/eab6bcb746a204f5f7b950085c54bb13bd08a139.jpg",
     "group_name": ""
   },
   "513273343": {
@@ -65026,7 +65033,7 @@
     "name": "黎六六喵-Lollu",
     "type": "vtuber",
     "room_id": 1710489335,
-    "face": "/bfs/face/f5fc82b9102fe3c9b4e0cbc20fc1b82c08bb9398.jpg",
+    "face": "/bfs/face/e6cd07ff56daf10674f5f95182fa8f929fb33764.jpg",
     "group_name": ""
   },
   "3546796475288503": {
