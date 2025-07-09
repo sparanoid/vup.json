@@ -17523,6 +17523,15 @@
     "group_name": "P-SP"
   },
   {
+    "uid": 15778044,
+    "name": "月伴Luna",
+    "type": "vtuber",
+    "room": 3764287,
+    "face": "/bfs/face/47e6e28fc80796057935b5f920384bdd3686737a.jpg",
+    "sign": "凌晨1.30-6:30无论你在哪儿，都有月亮伴着你",
+    "group_name": ""
+  },
+  {
     "uid": 15811099,
     "name": "Quintincy_初号机",
     "type": "vtuber",
@@ -23184,6 +23193,15 @@
     "group_name": ""
   },
   {
+    "uid": 40348524,
+    "name": "珀洛KoKoloo",
+    "type": "vtuber",
+    "room": 5748776,
+    "face": "/bfs/face/b602e4a5c1fe719e9e7c5e5a9a8549b449b0addd.jpg",
+    "sign": "热情与温柔并存的人鱼姐姐~平常出没时间中午12点",
+    "group_name": ""
+  },
+  {
     "uid": 40386896,
     "name": "西園寺_そら",
     "type": "vtuber",
@@ -23649,6 +23667,15 @@
     "room": 1449720,
     "face": "/bfs/face/74e7352f0a39d7715ace26f6d3d1754de382ea7a.jpg",
     "sign": "套皮型バ美肉~有问题就私信~",
+    "group_name": ""
+  },
+  {
+    "uid": 46541062,
+    "name": "天才小山竹",
+    "type": "vtuber",
+    "room": 2068322,
+    "face": "/bfs/face/a1d384a875b0feacc6dce2643c2a8c72c17e8090.jpg",
+    "sign": "感谢宝宝们喜欢小山竹～每晚10.30出没 至凌晨2.30\n期待在小基地里看到宝宝～天才培育基地：518579392\n模型：中野流子",
     "group_name": ""
   },
   {
@@ -29880,6 +29907,15 @@
     "group_name": ""
   },
   {
+    "uid": 291697036,
+    "name": "狮姬yuki酱",
+    "type": "vtuber",
+    "room": 21118589,
+    "face": "/bfs/face/39e6857b0608f9818639d3f7397c71c7595198a6.jpg",
+    "sign": "來自台湾的微糖獅獅( ¨̮ )每日開播時間：早5:00-7:00&晚6:00-10:00～想要多認識大家！快來找我聊天吧",
+    "group_name": ""
+  },
+  {
     "uid": 291976608,
     "name": "丹炀",
     "type": "vtuber",
@@ -30975,6 +31011,15 @@
     "room": 11213502,
     "face": "/bfs/face/f930677a8708d7d486747f4b7dff4e468318d23a.jpg",
     "sign": "你好呀，这里是爱唱歌的竹语犟",
+    "group_name": ""
+  },
+  {
+    "uid": 327685136,
+    "name": "奈斯_Niice",
+    "type": "vtuber",
+    "room": 1974518937,
+    "face": "/bfs/face/41b95783b7a1f5771af256bc3b23b707d2e3d664.jpg",
+    "sign": "熙熙攘攘的人海里\n把温柔和偏爱都给你\n虚拟温柔杂谈，偶尔搞点小抽象\n降落时间: 12:00-18:00 会搞突袭\n我一直在这里等你",
     "group_name": ""
   },
   {
@@ -38790,6 +38835,15 @@
     "group_name": "虚研社"
   },
   {
+    "uid": 475662442,
+    "name": "锦梨儿Mira",
+    "type": "vtuber",
+    "room": 1868873313,
+    "face": "/bfs/face/9ce538f7c482b6398643b5b2a94c8bbb3766eeee.jpg",
+    "sign": "全职养成系古风歌势 上午 9-13下午18-22\n唱江湖柔情 / 经典流行 / 新国风，百灵鸟小窝群：539502634",
+    "group_name": ""
+  },
+  {
     "uid": 475720147,
     "name": "花南音",
     "type": "vtuber",
@@ -43470,6 +43524,15 @@
     "group_name": "纸片人计划"
   },
   {
+    "uid": 561984936,
+    "name": "乘风望望舒",
+    "type": "vtuber",
+    "room": 1982188120,
+    "face": "/bfs/face/8725cc02fe146715085d68bb44452bd503f3d046.jpg",
+    "sign": "ENFP快乐小狗类型的主播，热情，憨憨哒，每天固定时间直播，再加上自觉加班",
+    "group_name": ""
+  },
+  {
     "uid": 562023331,
     "name": "LOOK你看",
     "type": "vtuber",
@@ -45618,6 +45681,15 @@
     "room": 25045611,
     "face": "/bfs/face/3067ccbf7b6904459eefcb14811e8bccfe693f2f.jpg",
     "sign": "",
+    "group_name": ""
+  },
+  {
+    "uid": 631839536,
+    "name": "雪兔Yurika",
+    "type": "vtuber",
+    "room": 1797321908,
+    "face": "/bfs/face/2ca38f9afdcf4deb8a1b849cc4dd92da23e8ee7a.jpg",
+    "sign": "多语种歌势 ₍ᐢ >⸝⸝⸝< ᐢ₎  每日稳定直播时间晚19:00-23:00（其余时间随机掉落。）\n\n最近在学日语歌!",
     "group_name": ""
   },
   {
@@ -57681,6 +57753,15 @@
     "group_name": ""
   },
   {
+    "uid": 1687648962,
+    "name": "下弦-我爱罗姐姐冠",
+    "type": "vtuber",
+    "room": 1940982939,
+    "face": "/bfs/face/66d320190b26948e678b16c5f268dd8b63723b24.jpg",
+    "sign": "唯见日寒月暖，来煎人寿",
+    "group_name": ""
+  },
+  {
     "uid": 1687766935,
     "name": "海月薰kaoru",
     "type": "vtuber",
@@ -62602,6 +62683,15 @@
     "face": "/bfs/face/9e6b6a8824a48ac4ea2632052e69f9f61e4754ea.jpg",
     "sign": "虚拟主播团体VirtuaReal成员。宅家打游戏赛博占卜师白虎神。商务合作请联系bd@vrp.live",
     "group_name": "VirtuaReal"
+  },
+  {
+    "uid": 2040490356,
+    "name": "米兜兜OoO",
+    "type": "vtuber",
+    "room": 1883948266,
+    "face": "/bfs/face/84917500dd8c4dde8234bd6f6fa93d0422ad68da.jpg",
+    "sign": "性格因人而异，即兴发挥。直播时间早上8点 晚上20点",
+    "group_name": ""
   },
   {
     "uid": 2040984069,
@@ -74466,6 +74556,15 @@
     "group_name": ""
   },
   {
+    "uid": 3494349249710646,
+    "name": "云汐cici",
+    "type": "vtuber",
+    "room": 1963456397,
+    "face": "/bfs/face/59225a3181b1f179cf05a407a7e573ba071556d4.jpg",
+    "sign": "一只爱笑爱唱歌的呆兔兔，你能留下来陪我吗？\n直播时间：早6：30-12：00，晚上随机掉落。",
+    "group_name": ""
+  },
+  {
     "uid": 3494349287459354,
     "name": "花禾晴_Harumi",
     "type": "vtuber",
@@ -80946,6 +81045,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546597845633889,
+    "name": "小白心里软Luniya",
+    "type": "vtuber",
+    "room": 1964563415,
+    "face": "/bfs/face/3345bb53a680e19dd6f266f6a91da32d43569a8c.jpg",
+    "sign": "个人势私皮萌新深蹲小v 是一只化形不完全的小咪！期待每一位白鲨猫们喵呜~\n撸猫指向：1036494227",
+    "group_name": ""
+  },
+  {
     "uid": 3546597946296478,
     "name": "清禾Yoyo",
     "type": "vtuber",
@@ -83340,6 +83448,15 @@
     "group_name": "甜瓜社MelonLive"
   },
   {
+    "uid": 3546778446072067,
+    "name": "莱菈_Lyra",
+    "type": "vtuber",
+    "room": 1949988092,
+    "face": "/bfs/face/531f9fabd447935a0b6a99313c26336ac25e647a.jpg",
+    "sign": "灵歌拂尘，慰心之光 每天下午2点出没哦~ 直播通知群：611311822 ",
+    "group_name": ""
+  },
+  {
     "uid": 3546778829850973,
     "name": "晚月_Tsuki",
     "type": "vtuber",
@@ -83409,6 +83526,15 @@
     "room": 1920450406,
     "face": "/bfs/face/bbd21e0e572bd3e4461dbde471cbd891eeaf3ac3.jpg",
     "sign": "天生好命",
+    "group_name": ""
+  },
+  {
+    "uid": 3546790777326454,
+    "name": "明辰吖V",
+    "type": "vtuber",
+    "room": 1963453124,
+    "face": "/bfs/face/cc3757fb7ab838c653c5b3628f7eba0684c751fa.jpg",
+    "sign": "药王宫狐仙❤会牌 会炼体 会功法❤直播时间：5：00-11：00  Q指路门牌：532039182 答案：明辰",
     "group_name": ""
   },
   {
@@ -83601,6 +83727,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546824094779524,
+    "name": "星蝶Cin",
+    "type": "vtuber",
+    "room": 1949982875,
+    "face": "/bfs/face/90c62ae398534443cba453694a5b5fad7e4ac0d6.jpg",
+    "sign": "踏星诞生的蝶翼天使～早10-17 粉丝群：832629696",
+    "group_name": ""
+  },
+  {
     "uid": 3546826105948304,
     "name": "阿鲸Official",
     "type": "vtuber",
@@ -83787,6 +83922,15 @@
     "room": 1909464245,
     "face": "/bfs/face/0aac73d3d2ee1dc715d1b4cdd75321695ebe74ec.jpg",
     "sign": "活泼可爱，偶尔有点小傲娇，喜欢和大家互动，分享生活中的趣事和游戏心得！  期待和大家成为好朋友！喵～✨\n秘密基地:1028948011",
+    "group_name": ""
+  },
+  {
+    "uid": 3546848075713030,
+    "name": "烦烦子i",
+    "type": "vtuber",
+    "room": 1901323297,
+    "face": "/bfs/face/ef768d97de5799f3c306f2af6f40bf4b69a2f8e1.jpg",
+    "sign": "企鹅粉丝群837541536。   直播时间：每天早晨5点-11点，带着月亮和星星来到你的世界。",
     "group_name": ""
   },
   {
@@ -84114,6 +84258,15 @@
     "group_name": "北立交桥（妖精管理局）"
   },
   {
+    "uid": 3546875114293658,
+    "name": "不知晚_wan",
+    "type": "vtuber",
+    "room": 1796100941,
+    "face": "/bfs/face/b2a167e7d389e6cfcda8d763ef31dbb1cc57b275.jpg",
+    "sign": "一只大宋来的唱古风戏腔的小神兔嗷\n直播时间：每天凌晨4点-早上10：00\n古风曲库储备量1000总有一首你喜欢的\n球球群：639344010",
+    "group_name": ""
+  },
+  {
     "uid": 3546875930085493,
     "name": "米娅酱o_",
     "type": "vtuber",
@@ -84132,12 +84285,39 @@
     "group_name": "果子本铺"
   },
   {
+    "uid": 3546877297429420,
+    "name": "藏竹落",
+    "type": "vtuber",
+    "room": 1896527213,
+    "face": "/bfs/face/c2079be9c366357462ea140215278e6b2d543ca3.jpg",
+    "sign": "播给爱啃竹子的人看",
+    "group_name": ""
+  },
+  {
+    "uid": 3546879432329235,
+    "name": "池忬Luna",
+    "type": "vtuber",
+    "room": 1948318339,
+    "face": "/bfs/face/263dbcf21324251f4ee488ca041aacd721f78722.jpg",
+    "sign": "不用白费力气了你是逃不掉的～\n《病娇系，两种人格随时切》\n准时掉落：晚上12-3点，19点-22点有事会推迟\n地下室：1046301174\n",
+    "group_name": ""
+  },
+  {
     "uid": 3546879870634034,
     "name": "小白Uku-唱见连",
     "type": "vtuber",
     "room": 1948319186,
     "face": "/bfs/face/fbc34190fa09d881ff0336d3b749df92844ecbff.jpg",
     "sign": "野生虚拟Singer 超雄主播 不颠（没病）早7-13点播\n快来和我一起玩吧~ 置顶粉丝群!!\n",
+    "group_name": ""
+  },
+  {
+    "uid": 3546880053086900,
+    "name": "薇拉Beepa",
+    "type": "vtuber",
+    "room": 1849303126,
+    "face": "/bfs/face/495102fbd1918d8a62723961f9f0694ceaabd5bd.jpg",
+    "sign": "诞生于漫画书的小蜜蜂\n初来人类世界还有些胆怯（现在是个网瘾蜜蜂）\n蜂巢营业时间：下午4-8\n内部交流群：1029180311",
     "group_name": ""
   },
   {
@@ -84195,6 +84375,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546884626975361,
+    "name": "施尔尔anna",
+    "type": "vtuber",
+    "room": 1828189761,
+    "face": "/bfs/face/b5d90e8e5102cd84eb7c34fd5dd4e6440ffc0d24.jpg",
+    "sign": "对人类世界很好奇的狮系御姐勇闯v圈，直播时间:早8-13晚7-9，对你的喜欢，不止在清晨和夜晚~狮家军:230820687",
+    "group_name": ""
+  },
+  {
     "uid": 3546886818498838,
     "name": "-可可keke-",
     "type": "vtuber",
@@ -84210,6 +84399,15 @@
     "room": 0,
     "face": "/bfs/face/7e5fda5d5c806706ba90396cd2be0205c56fecf2.jpg",
     "sign": "VTuber事务所 官网：https://holostars.hololivepro.com/",
+    "group_name": ""
+  },
+  {
+    "uid": 3546887846103248,
+    "name": "悲惨沉舟眠w-感冒版",
+    "type": "vtuber",
+    "room": 1923355286,
+    "face": "/bfs/face/61ad3a2dc14e288fd1b61710e625ea771797c9df.jpg",
+    "sign": "温馨小家QQ群：857313015~直播时间10:30-16:30点（演唱会专场）其余时间随机掉落（星露谷）",
     "group_name": ""
   },
   {
@@ -84336,6 +84534,15 @@
     "room": 1949981754,
     "face": "/bfs/face/5365d894116ba5788adbce4f43e317233551c279.jpg",
     "sign": "毕业啦",
+    "group_name": ""
+  },
+  {
+    "uid": 3546905281825674,
+    "name": "里莎_Risa",
+    "type": "vtuber",
+    "room": 1949986228,
+    "face": "/bfs/face/c8462d4692277e2a33fa85d07384899a3f5f1036.jpg",
+    "sign": "这里是里莎_Risa，一只来自深海的小鱼\n直播时间：凌晨4：00-8：00   下午18：00-21：00\n期待能与你相遇",
     "group_name": ""
   },
   {
