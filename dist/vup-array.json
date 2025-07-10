@@ -26156,7 +26156,7 @@
     "name": "阿晏cyan",
     "type": "vtuber",
     "room": 12762146,
-    "face": "/bfs/face/238d13598de8d4f6cd12f4e2fcaee0bc3370ba2a.jpg",
+    "face": "/bfs/face/055d709bc5ebee27d2e651c005e114a4da3f31ea.jpg",
     "group_name": ""
   },
   {
@@ -45412,7 +45412,7 @@
     "name": "洛梦_LumiA",
     "type": "vtuber",
     "room": 26980803,
-    "face": "/bfs/face/cde0ef0c1d0c673a1f78034f903a471b8a137ec2.jpg",
+    "face": "/bfs/face/f623f73fd45beecbd4279a69a5e44046748527c4.jpg",
     "group_name": ""
   },
   {
@@ -74824,6 +74824,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546866478221346,
+    "name": "瑟蕾娜Serenna",
+    "type": "vtuber",
+    "room": 1789717406,
+    "face": "/bfs/face/77e65ae15a863fa07df05c144ed06807295d580a.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546868044794663,
     "name": "佳逸Dae",
     "type": "vtuber",
@@ -75101,6 +75109,14 @@
     "type": "vtuber",
     "room": 1866757656,
     "face": "/bfs/face/037df060a44e0bb842cb7267f9ed53043da700cb.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546897558014925,
+    "name": "無视Wish",
+    "type": "vtuber",
+    "room": 1828187905,
+    "face": "/bfs/face/30f46516f2ce43bd647177295a8361b9ed89cba3.jpg",
     "group_name": ""
   },
   {
