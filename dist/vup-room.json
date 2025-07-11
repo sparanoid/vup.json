@@ -39126,7 +39126,7 @@
     "name": "柳桐非",
     "type": "vtuber",
     "room_id": 1841881686,
-    "face": "/bfs/face/1eb1883fe3811de75ecdd787ae1e25bee469fb8d.jpg",
+    "face": "/bfs/face/0d7a50b286e101aab5d80e9e7b575370f87e7ec6.jpg",
     "group_name": ""
   },
   "1153280945": {
@@ -48963,6 +48963,13 @@
     "room_id": 23218628,
     "face": "/bfs/face/5374910e0f8a0b8551ca9e05c396e2ec8ade0d47.jpg",
     "group_name": "椛榊计划"
+  },
+  "2064055063": {
+    "name": "白茶酱酱w",
+    "type": "vtuber",
+    "room_id": 24704990,
+    "face": "/bfs/face/1d0c109026fedb525727ab0279346abb1b3f562e.jpg",
+    "group_name": ""
   },
   "2064099563": {
     "name": "茂Sigeru",
