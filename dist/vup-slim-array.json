@@ -37940,6 +37940,13 @@
     "group_name": ""
   },
   {
+    "uid": 1033237043,
+    "name": "洛娜_Lorna",
+    "type": "vtuber",
+    "room": 1803527722,
+    "group_name": ""
+  },
+  {
     "uid": 1033698887,
     "name": "奈切尔Official",
     "type": "vtuber",
@@ -47766,6 +47773,13 @@
     "type": "vtuber",
     "room": 25363316,
     "group_name": "Facemoe官方"
+  },
+  {
+    "uid": 1947753519,
+    "name": "Zeal_G_Official",
+    "type": "vtuber",
+    "room": 1866750961,
+    "group_name": "NIJISANJI EN"
   },
   {
     "uid": 1948592457,
@@ -63147,6 +63161,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546603252091748,
+    "name": "碱水栗",
+    "type": "vtuber",
+    "room": 1737907272,
+    "group_name": ""
+  },
+  {
     "uid": 3546603258382382,
     "name": "NOATalent",
     "type": "group",
@@ -65727,6 +65748,13 @@
     "name": "莫尔斯Morse",
     "type": "vtuber",
     "room": 1866757656,
+    "group_name": ""
+  },
+  {
+    "uid": 3546897526557386,
+    "name": "ruarua诺诺双满15号",
+    "type": "vtuber",
+    "room": 1828182736,
     "group_name": ""
   },
   {

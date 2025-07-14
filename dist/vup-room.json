@@ -7801,7 +7801,7 @@
     "name": "步谣",
     "type": "vtuber",
     "room_id": 529204,
-    "face": "/bfs/face/e8bb0ef341ced4aad75d291a9e00efe8387e0ff7.jpg",
+    "face": "/bfs/face/da688ccdae8ceb9d542adc3f41699a684a902423.jpg",
     "group_name": ""
   },
   "4841709": {
@@ -37939,6 +37939,13 @@
     "face": "/bfs/face/4ae13bfd307d7b855f81ddd5c654bd2f92bf8260.jpg",
     "group_name": ""
   },
+  "1033237043": {
+    "name": "洛娜_Lorna",
+    "type": "vtuber",
+    "room_id": 1803527722,
+    "face": "/bfs/face/e0220729c39fefa92ae9cc9e8ec8eb3d97f3a29e.jpg",
+    "group_name": ""
+  },
   "1033698887": {
     "name": "奈切尔Official",
     "type": "vtuber",
@@ -47766,6 +47773,13 @@
     "room_id": 25363316,
     "face": "/bfs/face/ab4e621ac966956d49f8023ced9283438e60c223.jpg",
     "group_name": "Facemoe官方"
+  },
+  "1947753519": {
+    "name": "Zeal_G_Official",
+    "type": "vtuber",
+    "room_id": 1866750961,
+    "face": "/bfs/face/431f9b553ba471795436adccc4dc39e2738e4555.jpg",
+    "group_name": "NIJISANJI EN"
   },
   "1948592457": {
     "name": "银酥s",
@@ -63146,6 +63160,13 @@
     "face": "/bfs/face/192bf72fffdcf87a608074417c6975384a6823f4.jpg",
     "group_name": ""
   },
+  "3546603252091748": {
+    "name": "碱水栗",
+    "type": "vtuber",
+    "room_id": 1737907272,
+    "face": "/bfs/face/3cfb2ba62fd2fcac046486397316c848742273b4.jpg",
+    "group_name": ""
+  },
   "3546603258382382": {
     "name": "NOATalent",
     "type": "group",
@@ -65727,6 +65748,13 @@
     "type": "vtuber",
     "room_id": 1866757656,
     "face": "/bfs/face/037df060a44e0bb842cb7267f9ed53043da700cb.jpg",
+    "group_name": ""
+  },
+  "3546897526557386": {
+    "name": "ruarua诺诺双满15号",
+    "type": "vtuber",
+    "room_id": 1828182736,
+    "face": "/bfs/face/b35258ff0fff2ddee9b4304649640dcc32374184.jpg",
     "group_name": ""
   },
   "3546897558014925": {
