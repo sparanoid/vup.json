@@ -58524,7 +58524,7 @@
     "name": "尹小喵",
     "type": "vtuber",
     "room": 26451114,
-    "face": "/bfs/face/bc6e6baa00ff4292f72623177c4a998befa3dc63.jpg",
+    "face": "/bfs/face/996897d5b267ca274e345c34a187fc54fa50c95f.jpg",
     "group_name": ""
   },
   {
@@ -70964,7 +70964,7 @@
     "name": "缇芽娜Tiana",
     "type": "vtuber",
     "room": 31105615,
-    "face": "/bfs/face/264bac806c03b84627a14df71ca25f8ff66de754.jpg",
+    "face": "/bfs/face/0d3f4b7a3f4b3b9a9348da9c798f006a2aad1553.jpg",
     "group_name": ""
   },
   {
@@ -72428,7 +72428,7 @@
     "name": "喵大力darling",
     "type": "vtuber",
     "room": 1926386230,
-    "face": "/bfs/face/55a23e3cdbd868fa01fc29e10455340d9db6256e.jpg",
+    "face": "/bfs/face/1da1d1b7aba27318129b9ba3249f1c3d2aa76a2e.jpg",
     "group_name": ""
   },
   {
@@ -75269,6 +75269,14 @@
     "type": "group",
     "room": 0,
     "face": "/bfs/face/48af3dbf37961af6824ca01b97b7faa4ee68b49a.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546917069916190,
+    "name": "月咏芽衣",
+    "type": "vtuber",
+    "room": 1879188818,
+    "face": "/bfs/face/afc2bb72d53ec2e8277281f37dca47445a1a5456.jpg",
     "group_name": ""
   }
 ]
