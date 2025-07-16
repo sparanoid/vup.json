@@ -18496,6 +18496,14 @@
     "group_name": "多维变奏MDV"
   },
   {
+    "uid": 26190044,
+    "name": "兰铃木吉",
+    "type": "vtuber",
+    "room": 31397655,
+    "face": "/bfs/face/04684ccc79f5cf4dec4bd2141344cbeb21b4a0b3.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 26224612,
     "name": "小知Caleenna",
     "type": "vtuber",
@@ -36797,6 +36805,14 @@
     "type": "vtuber",
     "room": 1882768547,
     "face": "/bfs/face/07b481a4101085a3362f4cafe1a2f4f342ab28c6.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 504435510,
+    "name": "咖喱瓦斯",
+    "type": "vtuber",
+    "room": 27215434,
+    "face": "/bfs/face/4a170e1095c08e6151b3a357995f647e1cdfa594.jpg",
     "group_name": ""
   },
   {
@@ -72048,6 +72064,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546597220682398,
+    "name": "柏崎千爱",
+    "type": "vtuber",
+    "room": 31597936,
+    "face": "/bfs/face/b082b56466fa6fa4a882c72294d7cd7e9be31d1a.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546597336025483,
     "name": "花冷樱Hanabi",
     "type": "vtuber",
@@ -73400,6 +73424,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546696833305381,
+    "name": "爱露灯凛",
+    "type": "vtuber",
+    "room": 1752668860,
+    "face": "/bfs/face/b3b08129691f58f3a8a8f095eb366030b89be2f4.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546696910899214,
     "name": "_黑羽翎_",
     "type": "vtuber",
@@ -74189,6 +74221,14 @@
     "type": "vtuber",
     "room": 1906042743,
     "face": "/bfs/face/b445a59ec131c5a295bbd585161e8e1510af63f2.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546775522642312,
+    "name": "砚星肆_Hoshisu",
+    "type": "vtuber",
+    "room": 1904410352,
+    "face": "/bfs/face/0ac4f2219f79b0729192ac38803fae9465f08646.jpg",
     "group_name": ""
   },
   {
@@ -75141,6 +75181,14 @@
     "type": "vtuber",
     "room": 1866757656,
     "face": "/bfs/face/037df060a44e0bb842cb7267f9ed53043da700cb.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546896373123505,
+    "name": "卡绒_Charon",
+    "type": "vtuber",
+    "room": 1862088720,
+    "face": "/bfs/face/2573f57cb3663ca312c3160b448f5235b4c176d1.jpg",
     "group_name": ""
   },
   {
