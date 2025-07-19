@@ -19745,6 +19745,12 @@
     "room": 22301188,
     "group_name": ""
   },
+  "283801800": {
+    "name": "狸悠ryu",
+    "type": "vtuber",
+    "room": 10551481,
+    "group_name": "圣魔社SeiMa"
+  },
   "283886865": {
     "name": "说说Crystal",
     "type": "vtuber",
@@ -53777,6 +53783,12 @@
     "room": 31477466,
     "group_name": ""
   },
+  "3546579327781629": {
+    "name": "织奈Orina",
+    "type": "vtuber",
+    "room": 31332518,
+    "group_name": "圣魔社SeiMa"
+  },
   "3546579610897042": {
     "name": "芊芊kaua",
     "type": "vtuber",
@@ -54879,6 +54891,12 @@
     "name": "铃兰书店",
     "type": "vtuber",
     "room": 32632062,
+    "group_name": ""
+  },
+  "3546667099883858": {
+    "name": "圣魔社SeiMa",
+    "type": "group",
+    "room": 1787892166,
     "group_name": ""
   },
   "3546668995709215": {
@@ -56039,6 +56057,12 @@
     "room": 1909461161,
     "group_name": ""
   },
+  "3546840869898685": {
+    "name": "喵铃Neko",
+    "type": "vtuber",
+    "room": 1882952804,
+    "group_name": "圣魔社SeiMa"
+  },
   "3546844992899784": {
     "name": "温知闲silly",
     "type": "vtuber",
@@ -56250,7 +56274,7 @@
     "group_name": ""
   },
   "3546871387654195": {
-    "name": "小羊乖乖vv-18号百天",
+    "name": "小羊乖乖vv",
     "type": "vtuber",
     "room": 1844973365,
     "group_name": ""

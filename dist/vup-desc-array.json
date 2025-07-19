@@ -29619,6 +29619,15 @@
     "group_name": ""
   },
   {
+    "uid": 283801800,
+    "name": "狸悠ryu",
+    "type": "vtuber",
+    "room": 10551481,
+    "face": "/bfs/face/8b553793623b5b123501b3e0a729addf643658d0.jpg",
+    "sign": "全职主播｜Oi势｜<圣魔社SeiMa>\n古巴比伦掌管Oi的老狸悠～",
+    "group_name": "圣魔社SeiMa"
+  },
+  {
     "uid": 283886865,
     "name": "说说Crystal",
     "type": "vtuber",
@@ -66560,7 +66569,7 @@
     "type": "vtuber",
     "room": 27752294,
     "face": "/bfs/face/5a24f8d11dd6b1580140103c05c93018a96c5491.jpg",
-    "sign": "OC ARTIST·出道预备试播中·关注前请查阅置顶动态·合作代理人▶邮箱KARUWORK@163.COM",
+    "sign": "「个人势」OC ARTIST·BOSS·PRODUCER·关注前请查阅置顶动态·合作代理人▶邮箱KARUWORK@163.COM",
     "group_name": ""
   },
   {
@@ -80667,6 +80676,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546579327781629,
+    "name": "织奈Orina",
+    "type": "vtuber",
+    "room": 31332518,
+    "face": "/bfs/face/9bc4de342930e539cc238a7cc0a0908174ad6694.jpg",
+    "sign": "全职主播｜杂谈势｜<圣魔社SeiMa>\n掉落到地球的猫猫公主\n励志成为一名合格的虚拟偶像",
+    "group_name": "圣魔社SeiMa"
+  },
+  {
     "uid": 3546579610897042,
     "name": "芊芊kaua",
     "type": "vtuber",
@@ -82320,6 +82338,15 @@
     "room": 32632062,
     "face": "/bfs/face/26d81b86a3766e8a7538d3330a30483bed486a46.jpg",
     "sign": "个人势虚拟主播，没有粉丝群。不是忧郁迷惘的文艺青年，是乐观治愈抽象严肃文学少女！",
+    "group_name": ""
+  },
+  {
+    "uid": 3546667099883858,
+    "name": "圣魔社SeiMa",
+    "type": "group",
+    "room": 1787892166,
+    "face": "/bfs/face/fe41d6a103c592a9dc0f2675c0ed40581e37b40f.jpg",
+    "sign": "一个由运营、美术、后期组建，重运营的良心工会。（加公会详询3851211346）",
     "group_name": ""
   },
   {
@@ -84060,6 +84087,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546840869898685,
+    "name": "喵铃Neko",
+    "type": "vtuber",
+    "room": 1882952804,
+    "face": "/bfs/face/dbfeb014a35603123c0ccbcd893d979a8b57588e.jpg",
+    "sign": "肉质Q弹有嚼劲儿滴猫砸，喵窝:602725347 ",
+    "group_name": "圣魔社SeiMa"
+  },
+  {
     "uid": 3546844992899784,
     "name": "温知闲silly",
     "type": "vtuber",
@@ -84376,7 +84412,7 @@
   },
   {
     "uid": 3546871387654195,
-    "name": "小羊乖乖vv-18号百天",
+    "name": "小羊乖乖vv",
     "type": "vtuber",
     "room": 1844973365,
     "face": "/bfs/face/afdef0f60ecc7d2caeb1811833d15b75c20d7969.jpg",
@@ -84695,7 +84731,7 @@
     "type": "vtuber",
     "room": 1724233282,
     "face": "/bfs/face/309152ee5d5dc66571992d6db6cfc02b8b3b219e.jpg",
-    "sign": "极光社  不会聊斋能聊呆",
+    "sign": "极光社  ",
     "group_name": "极光社"
   },
   {
