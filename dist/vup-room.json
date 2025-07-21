@@ -482,6 +482,13 @@
     "face": "/bfs/face/060c34765f0f49c46302c4a73f5d95ef37fc6531.jpg",
     "group_name": ""
   },
+  "139905": {
+    "name": "猫大可",
+    "type": "vtuber",
+    "room_id": 71043,
+    "face": "/bfs/face/eb30058dfb41c9b71dad43aeaeed9144804a564a.jpg",
+    "group_name": ""
+  },
   "140378": {
     "name": "梦音茶糯",
     "type": "vtuber",
@@ -12526,7 +12533,7 @@
     "name": "_鸠子_",
     "type": "vtuber",
     "room_id": 160683,
-    "face": "/bfs/face/dbb29e835239d16744cf9542a28fc59a798d4d2f.webp",
+    "face": "/bfs/baselabs/7e4aec9b90320bc39d316ff3e54167d4f700e5ff.png",
     "group_name": ""
   },
   "12981079": {
@@ -17764,6 +17771,13 @@
     "room_id": 21767540,
     "face": "/bfs/face/303037e30d12734e850ca677f09b28bf8ef0201f.jpg",
     "group_name": "玹云社"
+  },
+  "37906403": {
+    "name": "艾莉亚airi",
+    "type": "vtuber",
+    "room_id": 6381565,
+    "face": "/bfs/face/dadf45a28132c1b1b3328db044cb0d672d17d0df.jpg",
+    "group_name": ""
   },
   "37913961": {
     "name": "樹枳丶",
@@ -24457,6 +24471,13 @@
     "face": "/bfs/face/aed9d8068c5f5e8edfd90376a2cc9580d03e54d7.jpg",
     "group_name": ""
   },
+  "345637267": {
+    "name": "不知名屁酱",
+    "type": "vtuber",
+    "room_id": 22348889,
+    "face": "/bfs/face/fca2b5530654ccfbba3db9b169bbae396f848498.jpg",
+    "group_name": ""
+  },
   "345648420": {
     "name": "Okome_VTuber官方频道",
     "type": "vtuber",
@@ -27934,6 +27955,13 @@
     "type": "vtuber",
     "room_id": 21637373,
     "face": "/bfs/face/392a123a721c87da54b584b5b444b1d82e976c59.jpg",
+    "group_name": ""
+  },
+  "419290316": {
+    "name": "邪魔泡泡龙Popron",
+    "type": "vtuber",
+    "room_id": 1814862594,
+    "face": "/bfs/face/23f218a6a0e850d3b366cf2cf49cba495d8fbe72.jpg",
     "group_name": ""
   },
   "419394449": {
@@ -31847,6 +31875,13 @@
     "type": "vtuber",
     "room_id": 24345195,
     "face": "/bfs/face/992e9538667323caaf8b7223e5a786ec8d23ce36.jpg",
+    "group_name": ""
+  },
+  "498176231": {
+    "name": "电子小猪柔",
+    "type": "vtuber",
+    "room_id": 1829029020,
+    "face": "/bfs/face/227ff16afefd468b4db0c6876f2e3db475b445ab.jpg",
     "group_name": ""
   },
   "498188835": {
@@ -46234,6 +46269,13 @@
     "face": "/bfs/face/4830be9eda67e06fa8eaed6d245be11daa88cfd9.jpg",
     "group_name": "StarDust星云社"
   },
+  "1807115310": {
+    "name": "切茜娅cheya",
+    "type": "vtuber",
+    "room_id": 1849255468,
+    "face": "/bfs/face/d88e13cd86028e9aeed6609978f3208ada2c15fb.jpg",
+    "group_name": ""
+  },
   "1808561046": {
     "name": "莉娅-LiaChannel",
     "type": "vtuber",
@@ -51987,6 +52029,13 @@
     "room_id": 26863985,
     "face": "/bfs/face/8c71f5cae60818432856ad36f4cee1aaf62d6115.jpg",
     "group_name": "吾音坊"
+  },
+  "3493105602923003": {
+    "name": "小凌云也很努力鸭",
+    "type": "vtuber",
+    "room_id": 1959060236,
+    "face": "/bfs/face/bce224a7d71d2d5c6926c857eca34a88fda21cd8.jpg",
+    "group_name": ""
   },
   "3493105709877368": {
     "name": "诗织Shiori_",
@@ -63916,6 +63965,13 @@
     "face": "/bfs/face/7e00f52ddf183004a29bdd6afe92d64ef93c1a79.webp",
     "group_name": ""
   },
+  "3546654936402039": {
+    "name": "西红柿kiki",
+    "type": "vtuber",
+    "room_id": 32391692,
+    "face": "/bfs/face/2b8891c6715dcd6788d84b59a3de98ff9732e65c.jpg",
+    "group_name": ""
+  },
   "3546655301306499": {
     "name": "佩提亚Pythia",
     "type": "vtuber",
@@ -64469,6 +64525,13 @@
     "face": "/bfs/face/9d1371623af0d01da672953d683a98857ffe4ccc.jpg",
     "group_name": ""
   },
+  "3546706467620927": {
+    "name": "Su_咪",
+    "type": "vtuber",
+    "room_id": 1758148656,
+    "face": "/bfs/face/10c375fdce3918af6320489c7bbf6119f7736f75.jpg",
+    "group_name": ""
+  },
   "3546706689919353": {
     "name": "三森愛乃official",
     "type": "vtuber",
@@ -64889,6 +64952,13 @@
     "face": "/bfs/face/3276feddf58e24d1cb7b8b420387a405fc2e56da.jpg",
     "group_name": ""
   },
+  "3546756144958138": {
+    "name": "芥呀呀YAYA",
+    "type": "vtuber",
+    "room_id": 1844970396,
+    "face": "/bfs/face/4bfe93c519f1e196cfc52f0978aac64c1cc16187.jpg",
+    "group_name": ""
+  },
   "3546757724113807": {
     "name": "乌米kirumi-小宝冠",
     "type": "vtuber",
@@ -65174,6 +65244,13 @@
     "type": "vtuber",
     "room_id": 1858805291,
     "face": "/bfs/face/71c01412d82889e4eb77b4077f5cb0b9730881e1.jpg",
+    "group_name": ""
+  },
+  "3546799256111758": {
+    "name": "黑桃洛洛Ace",
+    "type": "vtuber",
+    "room_id": 1849254076,
+    "face": "/bfs/face/937b15739c0ee5a61ff4a240d537bcd3d2268d7b.jpg",
     "group_name": ""
   },
   "3546799874771223": {
@@ -65533,6 +65610,13 @@
     "face": "/bfs/face/25fb6aff53d6a97ec576293cd5dcacc15b75e7b3.jpg",
     "group_name": ""
   },
+  "3546859117217944": {
+    "name": "蛋挞sweet",
+    "type": "vtuber",
+    "room_id": 1984184481,
+    "face": "/bfs/face/1c197a71a10dd96a7fdf9881a2a1ba805f3b37e0.jpg",
+    "group_name": ""
+  },
   "3546859756849602": {
     "name": "狮凛奈Twilight",
     "type": "vtuber",
@@ -65687,6 +65771,13 @@
     "face": "/bfs/face/0e769c356cf69a87d5c6d4310ac1c75a99dd38ee.jpg",
     "group_name": "北立交桥（妖精管理局）"
   },
+  "3546874105563730": {
+    "name": "虾仁有亿点咸",
+    "type": "vtuber",
+    "room_id": 1738162468,
+    "face": "/bfs/face/81456ea005136ff21cfa6596b1116ff1968a4410.jpg",
+    "group_name": ""
+  },
   "3546875114293658": {
     "name": "不知晚_wan",
     "type": "vtuber",
@@ -65707,6 +65798,13 @@
     "room_id": 1949987026,
     "face": "/bfs/face/77efc09afd07e9da5df066144520879096fb3b26.jpg",
     "group_name": "果子本铺"
+  },
+  "3546876143995121": {
+    "name": "一颗秋秋御糖",
+    "type": "vtuber",
+    "room_id": 1750971653,
+    "face": "/bfs/face/32ba0574a0f0f43447f17fee9d5b65ee7813ee61.jpg",
+    "group_name": ""
   },
   "3546877297429420": {
     "name": "藏竹落",
@@ -65986,6 +66084,13 @@
     "type": "group",
     "room_id": 0,
     "face": "/bfs/face/48af3dbf37961af6824ca01b97b7faa4ee68b49a.jpg",
+    "group_name": ""
+  },
+  "3546913135659783": {
+    "name": "ブルーBlue",
+    "type": "vtuber",
+    "room_id": 1709460212,
+    "face": "/bfs/face/5f638e61c315a4b2abe043e29b376cc6b4710f81.jpg",
     "group_name": ""
   },
   "3546917069916190": {

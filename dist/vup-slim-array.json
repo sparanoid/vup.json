@@ -483,6 +483,13 @@
     "group_name": ""
   },
   {
+    "uid": 139905,
+    "name": "猫大可",
+    "type": "vtuber",
+    "room": 71043,
+    "group_name": ""
+  },
+  {
     "uid": 140378,
     "name": "梦音茶糯",
     "type": "vtuber",
@@ -17766,6 +17773,13 @@
     "group_name": "玹云社"
   },
   {
+    "uid": 37906403,
+    "name": "艾莉亚airi",
+    "type": "vtuber",
+    "room": 6381565,
+    "group_name": ""
+  },
+  {
     "uid": 37913961,
     "name": "樹枳丶",
     "type": "vtuber",
@@ -24458,6 +24472,13 @@
     "group_name": ""
   },
   {
+    "uid": 345637267,
+    "name": "不知名屁酱",
+    "type": "vtuber",
+    "room": 22348889,
+    "group_name": ""
+  },
+  {
     "uid": 345648420,
     "name": "Okome_VTuber官方频道",
     "type": "vtuber",
@@ -27934,6 +27955,13 @@
     "name": "我系渣渣呆",
     "type": "vtuber",
     "room": 21637373,
+    "group_name": ""
+  },
+  {
+    "uid": 419290316,
+    "name": "邪魔泡泡龙Popron",
+    "type": "vtuber",
+    "room": 1814862594,
     "group_name": ""
   },
   {
@@ -31847,6 +31875,13 @@
     "name": "晴人honey",
     "type": "vtuber",
     "room": 24345195,
+    "group_name": ""
+  },
+  {
+    "uid": 498176231,
+    "name": "电子小猪柔",
+    "type": "vtuber",
+    "room": 1829029020,
     "group_name": ""
   },
   {
@@ -46235,6 +46270,13 @@
     "group_name": "StarDust星云社"
   },
   {
+    "uid": 1807115310,
+    "name": "切茜娅cheya",
+    "type": "vtuber",
+    "room": 1849255468,
+    "group_name": ""
+  },
+  {
     "uid": 1808561046,
     "name": "莉娅-LiaChannel",
     "type": "vtuber",
@@ -51987,6 +52029,13 @@
     "type": "vtuber",
     "room": 26863985,
     "group_name": "吾音坊"
+  },
+  {
+    "uid": 3493105602923003,
+    "name": "小凌云也很努力鸭",
+    "type": "vtuber",
+    "room": 1959060236,
+    "group_name": ""
   },
   {
     "uid": 3493105709877368,
@@ -63917,6 +63966,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546654936402039,
+    "name": "西红柿kiki",
+    "type": "vtuber",
+    "room": 32391692,
+    "group_name": ""
+  },
+  {
     "uid": 3546655301306499,
     "name": "佩提亚Pythia",
     "type": "vtuber",
@@ -64470,6 +64526,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546706467620927,
+    "name": "Su_咪",
+    "type": "vtuber",
+    "room": 1758148656,
+    "group_name": ""
+  },
+  {
     "uid": 3546706689919353,
     "name": "三森愛乃official",
     "type": "vtuber",
@@ -64890,6 +64953,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546756144958138,
+    "name": "芥呀呀YAYA",
+    "type": "vtuber",
+    "room": 1844970396,
+    "group_name": ""
+  },
+  {
     "uid": 3546757724113807,
     "name": "乌米kirumi-小宝冠",
     "type": "vtuber",
@@ -65174,6 +65244,13 @@
     "name": "雾枝年年Kirie",
     "type": "vtuber",
     "room": 1858805291,
+    "group_name": ""
+  },
+  {
+    "uid": 3546799256111758,
+    "name": "黑桃洛洛Ace",
+    "type": "vtuber",
+    "room": 1849254076,
     "group_name": ""
   },
   {
@@ -65534,6 +65611,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546859117217944,
+    "name": "蛋挞sweet",
+    "type": "vtuber",
+    "room": 1984184481,
+    "group_name": ""
+  },
+  {
     "uid": 3546859756849602,
     "name": "狮凛奈Twilight",
     "type": "vtuber",
@@ -65688,6 +65772,13 @@
     "group_name": "北立交桥（妖精管理局）"
   },
   {
+    "uid": 3546874105563730,
+    "name": "虾仁有亿点咸",
+    "type": "vtuber",
+    "room": 1738162468,
+    "group_name": ""
+  },
+  {
     "uid": 3546875114293658,
     "name": "不知晚_wan",
     "type": "vtuber",
@@ -65707,6 +65798,13 @@
     "type": "vtuber",
     "room": 1949987026,
     "group_name": "果子本铺"
+  },
+  {
+    "uid": 3546876143995121,
+    "name": "一颗秋秋御糖",
+    "type": "vtuber",
+    "room": 1750971653,
+    "group_name": ""
   },
   {
     "uid": 3546877297429420,
@@ -65986,6 +66084,13 @@
     "name": "果子本铺",
     "type": "group",
     "room": 0,
+    "group_name": ""
+  },
+  {
+    "uid": 3546913135659783,
+    "name": "ブルーBlue",
+    "type": "vtuber",
+    "room": 1709460212,
     "group_name": ""
   },
   {
