@@ -268,7 +268,7 @@
   "67141": {
     "name": "傲慢的小肉包",
     "type": "vtuber",
-    "room": 47867,
+    "room": 0,
     "face": "/bfs/face/361274190d08a36ed12c58b55dd4063cde3391eb.jpg",
     "group_name": ""
   },
@@ -10348,7 +10348,7 @@
   "8576944": {
     "name": "星野由乃Channel",
     "type": "vtuber",
-    "room": 281580,
+    "room": 0,
     "face": "/bfs/face/794aac510ee18f652c5f43a00bd0b9b022fd4207.jpg",
     "group_name": ""
   },
@@ -13646,7 +13646,7 @@
     "name": "月伴Luna",
     "type": "vtuber",
     "room": 3764287,
-    "face": "/bfs/face/47e6e28fc80796057935b5f920384bdd3686737a.jpg",
+    "face": "/bfs/face/71dc9d0a2c9368527f4e204d3b645a236a971e11.jpg",
     "group_name": ""
   },
   "15811099": {
@@ -26994,7 +26994,7 @@
   "401480763": {
     "name": "眞白花音_Official",
     "type": "vtuber",
-    "room": 21402309,
+    "room": 0,
     "face": "/bfs/face/136f0254236e823f369fd55273829e60b51eee18.jpg",
     "group_name": "chucolala"
   },
@@ -30620,7 +30620,7 @@
   "479633069": {
     "name": "秋凛子Rinco",
     "type": "vtuber",
-    "room": 21677969,
+    "room": 0,
     "face": "/bfs/face/8dcc21a77371ad3d9767f874ce8ba226dcf07378.jpg",
     "group_name": "P-SP"
   },
