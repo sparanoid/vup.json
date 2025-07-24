@@ -5705,10 +5705,10 @@
     "group_name": ""
   },
   "2758030": {
-    "name": "星夜黑时S",
+    "name": "星夜黑时S_Hes",
     "type": "vtuber",
     "room_id": 256203,
-    "face": "/bfs/face/055e0aa67063cd3755e8a2db20ee7cc6c5aad235.jpg",
+    "face": "/bfs/face/b307120388ca1dd24de3eb19f4fd3610456a624a.jpg",
     "group_name": ""
   },
   "2761450": {
@@ -11154,7 +11154,7 @@
     "name": "呆喵可可",
     "type": "vtuber",
     "room_id": 783375,
-    "face": "/bfs/face/287d77921989a7f89a547d97569ee09d00b4c0f1.jpg",
+    "face": "/bfs/face/5ed0fe0c3bc8512c1f74533b3e0f6d78382a7d49.jpg",
     "group_name": ""
   },
   "10205731": {
@@ -20111,10 +20111,10 @@
     "group_name": ""
   },
   "91659439": {
-    "name": "聿茗_YuM",
+    "name": "不喝碳酸的酷盖",
     "type": "vtuber",
     "room_id": 24814176,
-    "face": "/bfs/face/85cb6ad2bbeed9375867538d05de0fb81dd6f9e7.jpg",
+    "face": "/bfs/face/0654465f992633dd60c057500ddf5b6e4bfa66d8.jpg",
     "group_name": ""
   },
   "91772566": {
@@ -63416,7 +63416,7 @@
     "name": "我不叽岛哇_",
     "type": "group",
     "room_id": 32170410,
-    "face": "/bfs/face/5b4be90e16b981f0ddde36c0a34619f47c8259aa.jpg",
+    "face": "/bfs/face/b510a3b7b9f892c4d653346fa2b647c931c2c4ed.jpg",
     "group_name": ""
   },
   "3546610969610825": {
