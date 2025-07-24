@@ -29518,6 +29518,13 @@
     "face": "/bfs/face/98048a640f2057fa9c9aa92f484d1e114add5604.jpg",
     "group_name": ""
   },
+  "453805650": {
+    "name": "石榴守护者Official",
+    "type": "vtuber",
+    "room": 24197217,
+    "face": "/bfs/face/8044049906df0c439ef45ab4fd4c0f5df23c860a.jpg",
+    "group_name": ""
+  },
   "454101028": {
     "name": "真島えまOfficial",
     "type": "vtuber",
@@ -64581,6 +64588,13 @@
     "face": "/bfs/face/b4bd0a3c92840e3972dced5ce8b79fa3d3bc23c7.jpg",
     "group_name": ""
   },
+  "3546712060725363": {
+    "name": "法弥拉",
+    "type": "vtuber",
+    "room": 1763572245,
+    "face": "/bfs/face/92c72c0976989b3395bd6395e2d67570614a5bd9.jpg",
+    "group_name": ""
+  },
   "3546712161388720": {
     "name": "绮夜Lilith",
     "type": "vtuber",
@@ -65230,6 +65244,13 @@
     "type": "vtuber",
     "room": 1731714266,
     "face": "/bfs/face/ad6e7ec7943856f32a54127787cc83e9613188da.jpg",
+    "group_name": ""
+  },
+  "3546795594484040": {
+    "name": "缨竹Yingu-",
+    "type": "vtuber",
+    "room": 1771458503,
+    "face": "/bfs/face/ce99287967e546d51d02faef153e98eccc900ea6.jpg",
     "group_name": ""
   },
   "3546796225727272": {
