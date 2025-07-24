@@ -13305,7 +13305,7 @@
     "uid": 8576944,
     "name": "星野由乃Channel",
     "type": "vtuber",
-    "room": 0,
+    "room": 281580,
     "face": "/bfs/face/794aac510ee18f652c5f43a00bd0b9b022fd4207.jpg",
     "sign": "潜水。o。o0Oo",
     "group_name": ""
@@ -80317,7 +80317,7 @@
   },
   {
     "uid": 3546562399570146,
-    "name": "龙龙就不怕困难yo",
+    "name": "龙龙不怕困难yo",
     "type": "vtuber",
     "room": 1820336115,
     "face": "/bfs/face/5495d1538ff1d412d11c88737a9d7225212b1b61.jpg",
@@ -83337,6 +83337,15 @@
     "room": 1940984921,
     "face": "/bfs/face/eb6171f13cf0b8707b88230e57334d8259a1f3b3.jpg",
     "sign": "汪~欢迎光临露比嘟的花园！今天的阳光和您一样灿烂呢~（直播时间：07:00-13:00 00 21:00-0:00)",
+    "group_name": ""
+  },
+  {
+    "uid": 3546739369839301,
+    "name": "媛小喵_Misty",
+    "type": "vtuber",
+    "room": 1820337285,
+    "face": "/bfs/face/df9bf067374b1583c411fd6c1c3b22bf2439c20b.jpg",
+    "sign": "喜爱一切美好的事物：阳光，秋千，树叶，花瓣……还有可爱的你 喵～",
     "group_name": ""
   },
   {

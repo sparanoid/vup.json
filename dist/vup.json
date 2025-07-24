@@ -10348,7 +10348,7 @@
   "8576944": {
     "name": "星野由乃Channel",
     "type": "vtuber",
-    "room": 0,
+    "room": 281580,
     "face": "/bfs/face/794aac510ee18f652c5f43a00bd0b9b022fd4207.jpg",
     "group_name": ""
   },
@@ -62468,7 +62468,7 @@
     "group_name": ""
   },
   "3546562399570146": {
-    "name": "龙龙就不怕困难yo",
+    "name": "龙龙不怕困难yo",
     "type": "vtuber",
     "room": 1820336115,
     "face": "/bfs/face/5495d1538ff1d412d11c88737a9d7225212b1b61.jpg",
@@ -64817,6 +64817,13 @@
     "type": "vtuber",
     "room": 1940984921,
     "face": "/bfs/face/eb6171f13cf0b8707b88230e57334d8259a1f3b3.jpg",
+    "group_name": ""
+  },
+  "3546739369839301": {
+    "name": "媛小喵_Misty",
+    "type": "vtuber",
+    "room": 1820337285,
+    "face": "/bfs/face/df9bf067374b1583c411fd6c1c3b22bf2439c20b.jpg",
     "group_name": ""
   },
   "3546739510348536": {
