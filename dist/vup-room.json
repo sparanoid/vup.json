@@ -8147,6 +8147,13 @@
     "face": "/bfs/face/1e7f0e19a6b4b8e851026617446eb6cda4db3295.jpg",
     "group_name": ""
   },
+  "5205337": {
+    "name": "米可多Micdo",
+    "type": "vtuber",
+    "room_id": 1740573010,
+    "face": "/bfs/face/17d83d2cedfcd63efb28ba6092769d96f0854f19.jpg",
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "5235717": {
     "name": "松葉Matsuba",
     "type": "vtuber",
@@ -42853,6 +42860,13 @@
     "face": "/bfs/face/1451214f8359f0e51b0fa6d5aaa1b79f6a1886ed.jpg",
     "group_name": ""
   },
+  "1486039408": {
+    "name": "来杯喵吉特",
+    "type": "vtuber",
+    "room_id": 1857373339,
+    "face": "/bfs/face/1b2574deb7b97da015df35f62aafc275c4698e59.jpg",
+    "group_name": "天枢project"
+  },
   "1486124092": {
     "name": "花崎千代Copy",
     "type": "unknown",
@@ -56573,6 +56587,13 @@
     "face": "/bfs/face/a6b2a753a387287921aa7ce7fa1a2bd21344216c.jpg",
     "group_name": ""
   },
+  "3493280415222475": {
+    "name": "相相owo",
+    "type": "vtuber",
+    "room_id": 30135938,
+    "face": "/bfs/face/e6f55ac2e2b308a0c2864ebaa1020ef4ecfab2e4.jpg",
+    "group_name": ""
+  },
   "3493280478136379": {
     "name": "于岛寝不足",
     "type": "vtuber",
@@ -63937,6 +63958,13 @@
     "face": "/bfs/face/aa40fc01dc803057ef4e6537f9143e1d0cf50261.jpg",
     "group_name": ""
   },
+  "3546650289113250": {
+    "name": "叶绘花莲_Karen7月出道",
+    "type": "vtuber",
+    "room_id": 1880057560,
+    "face": "/bfs/face/3565ec37eb7772710ca3e3937b64d5736a9fa96e.jpg",
+    "group_name": ""
+  },
   "3546651719371225": {
     "name": "嘟露潞_aurita",
     "type": "vtuber",
@@ -66098,6 +66126,13 @@
     "type": "vtuber",
     "room_id": 1992271807,
     "face": "/bfs/face/fa2beb04dbfa1331b7c7fadbf3e6af0f618e5ed6.jpg",
+    "group_name": ""
+  },
+  "3546908402386989": {
+    "name": "祈绪-卡拉梅尔_Official",
+    "type": "vtuber",
+    "room_id": 1982720307,
+    "face": "/bfs/face/7b5ca68a858cacd52e5e3a13da41aa0de0bda82e.jpg",
     "group_name": ""
   },
   "3546908538702102": {
