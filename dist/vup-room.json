@@ -31240,6 +31240,13 @@
     "face": "/bfs/face/4ee940ba58e22e6de90f2238e5b5dfee84be39a8.jpg",
     "group_name": ""
   },
+  "487902881": {
+    "name": "米可哩哩Miko",
+    "type": "vtuber",
+    "room_id": 1857893042,
+    "face": "/bfs/face/e851d3cbcd242592d861eeda23d6a14194152295.jpg",
+    "group_name": ""
+  },
   "487925383": {
     "name": "通惠河海豹",
     "type": "vtuber",
@@ -31798,6 +31805,13 @@
     "type": "vtuber",
     "room_id": 1851657728,
     "face": "/bfs/face/cfe8e746d2b5ac5a5c55f4b613334eae79ecc80c.jpg",
+    "group_name": ""
+  },
+  "494699329": {
+    "name": "星名有米_Official",
+    "type": "vtuber",
+    "room_id": 1852879518,
+    "face": "/bfs/face/3fec6d59b1a95d853903ceb089add78f0e9620f8.jpg",
     "group_name": ""
   },
   "494760262": {
@@ -62719,6 +62733,13 @@
     "face": "/bfs/face/ef54102d9b0df844eed5f418885c16b84edab7ad.jpg",
     "group_name": ""
   },
+  "3546572398791328": {
+    "name": "笔子Penz",
+    "type": "vtuber",
+    "room_id": 31318137,
+    "face": "/bfs/face/7a019bd2cf421e0913ed302d68875ac22a5c1318.jpg",
+    "group_name": "幻想社Fantas1A"
+  },
   "3546572413470996": {
     "name": "忒希_Tethys",
     "type": "vtuber",
@@ -63615,6 +63636,13 @@
     "face": "/bfs/face/d346a3f09acb16ed0a961ef74b7af5254476eac8.jpg",
     "group_name": ""
   },
+  "3546619811203922": {
+    "name": "唐辛子nini",
+    "type": "vtuber",
+    "room_id": 31930861,
+    "face": "/bfs/face/5510ce3a00359ab4dd16ff0833790664a1f8ec85.jpg",
+    "group_name": ""
+  },
   "3546620499069896": {
     "name": "羊崽-毕业版",
     "type": "vtuber",
@@ -64327,6 +64355,13 @@
     "type": "vtuber",
     "room_id": 1960174983,
     "face": "/bfs/face/d9ff1b28856226d22ce6374329b6a24de5d9a3f4.jpg",
+    "group_name": ""
+  },
+  "3546689057065407": {
+    "name": "哆比Dobe",
+    "type": "vtuber",
+    "room_id": 1728613904,
+    "face": "/bfs/face/7c98b32c8621320e80dce5fe918bff1581791fae.jpg",
     "group_name": ""
   },
   "3546689059162898": {
@@ -66049,6 +66084,13 @@
     "type": "vtuber",
     "room_id": 1758148011,
     "face": "/bfs/face/d748983083129ce26128ac0522660cffee46487e.jpg",
+    "group_name": ""
+  },
+  "3546894607321152": {
+    "name": "瑶铃Riney",
+    "type": "vtuber",
+    "room_id": 1758143829,
+    "face": "/bfs/face/ef4e112da549393b2c3e2325f5a56fd6d958094d.jpg",
     "group_name": ""
   },
   "3546896186476751": {
