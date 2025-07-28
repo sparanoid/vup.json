@@ -25066,6 +25066,13 @@
     "face": "/bfs/face/1bc00e7d9c13a410c11f283d6f555676cb436733.jpg",
     "group_name": ""
   },
+  "358629230": {
+    "name": "圆圆小石头",
+    "type": "vtuber",
+    "room_id": 13328782,
+    "face": "/bfs/face/022b5b7815d9bf0310c7c70552b8ba5fe89ea0ee.jpg",
+    "group_name": ""
+  },
   "358695457": {
     "name": "哆梨酱",
     "type": "vtuber",
@@ -65078,6 +65085,13 @@
     "face": "/bfs/face/623ebca80b127c9a3c6059d61b40e5e01c2d3b42.jpg",
     "group_name": ""
   },
+  "3546755817802138": {
+    "name": "鹿早嗑嗑",
+    "type": "vtuber",
+    "room_id": 1930278019,
+    "face": "/bfs/face/145bad0dd3b012bd0a94249ad62ba11b9feb84bb.jpg",
+    "group_name": ""
+  },
   "3546756058974315": {
     "name": "洛羽曦lotus",
     "type": "vtuber",
@@ -66162,6 +66176,13 @@
     "room_id": 1724233282,
     "face": "/bfs/face/309152ee5d5dc66571992d6db6cfc02b8b3b219e.jpg",
     "group_name": "极光社"
+  },
+  "3546901416774522": {
+    "name": "春鱼Sakana",
+    "type": "vtuber",
+    "room_id": 1995461324,
+    "face": "/bfs/face/b281bf162985f173e3a3685e88c2132ae098eadd.jpg",
+    "group_name": ""
   },
   "3546903350348268": {
     "name": "氿姬kyuu-修车厂冠",
