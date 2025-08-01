@@ -44280,6 +44280,14 @@
     "group_name": "P家"
   },
   {
+    "uid": 1096820127,
+    "name": "柚雨Kioi",
+    "type": "vtuber",
+    "room": 1791260756,
+    "face": "/bfs/face/5f39a2b801847a7aa0889f164cc853642ebfd8ef.jpg",
+    "group_name": "VirtuaReal"
+  },
+  {
     "uid": 1097060010,
     "name": "请叫我小荣同学",
     "type": "vtuber",
@@ -44582,6 +44590,14 @@
     "room": 25604590,
     "face": "/bfs/face/5562b73b1b25e5e93bbb519e0f6b9fb148fc6b61.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 1125641408,
+    "name": "犬绒Mofu",
+    "type": "vtuber",
+    "room": 1791260716,
+    "face": "/bfs/face/f038a4cfb2bb936e6b059278d56fd8cb9d4ddd5d.jpg",
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 1126225283,
@@ -48494,6 +48510,14 @@
     "room": 24135903,
     "face": "/bfs/face/b67d97933c9fa08dd9630bd63a3ca979c62cdd2a.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 1439370289,
+    "name": "能能Nori",
+    "type": "vtuber",
+    "room": 1791264553,
+    "face": "/bfs/face/68b2e9c2037aba5f051a4f3cfe71e93b18db8267.jpg",
+    "group_name": "VirtuaReal"
   },
   {
     "uid": 1439938649,
