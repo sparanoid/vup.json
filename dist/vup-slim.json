@@ -56321,6 +56321,12 @@
     "room": 1909461161,
     "group_name": ""
   },
+  "3546839806642734": {
+    "name": "SallieRed",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
   "3546840869898685": {
     "name": "喵铃Neko",
     "type": "vtuber",
@@ -56913,6 +56919,12 @@
     "name": "月咏芽衣",
     "type": "vtuber",
     "room": 1879188818,
+    "group_name": ""
+  },
+  "3546934509832905": {
+    "name": "鸽羽Dove",
+    "type": "vtuber",
+    "room": 1849824188,
     "group_name": ""
   }
 }

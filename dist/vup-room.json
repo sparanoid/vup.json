@@ -65708,6 +65708,13 @@
     "face": "/bfs/face/45d7286e24e6c6ff55db758d8caa747919d81fe2.jpg",
     "group_name": ""
   },
+  "3546839806642734": {
+    "name": "SallieRed",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/d9874bae440f2e06c59f4c9a46254d8c4409d0e4.jpg",
+    "group_name": ""
+  },
   "3546840869898685": {
     "name": "喵铃Neko",
     "type": "vtuber",
@@ -66399,6 +66406,13 @@
     "type": "vtuber",
     "room_id": 1879188818,
     "face": "/bfs/face/180a597669915cf6a6d84ed9d5c8525749a4df60.jpg",
+    "group_name": ""
+  },
+  "3546934509832905": {
+    "name": "鸽羽Dove",
+    "type": "vtuber",
+    "room_id": 1849824188,
+    "face": "/bfs/face/a06a4da6695cb936e9a3379777b48204f21e5c67.jpg",
     "group_name": ""
   }
 }

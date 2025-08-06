@@ -21128,7 +21128,7 @@
     "type": "vtuber",
     "room": 241650,
     "face": "/bfs/face/786fc696bca08ac3b56a1669abefba9840cf54c2.jpg",
-    "sign": "个人势八美肉虚拟主播,猫猫是可爱的猫猫（并不）\n每晚22点基本准时播出（没播就是鸽了）",
+    "sign": "个人势虚拟主播,猫猫是可爱的猫猫（并不）每晚22点基本准时播出（没播就是鸽了）",
     "group_name": ""
   },
   {
@@ -84483,6 +84483,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546839806642734,
+    "name": "SallieRed",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/d9874bae440f2e06c59f4c9a46254d8c4409d0e4.jpg",
+    "sign": "外国V",
+    "group_name": ""
+  },
+  {
     "uid": 3546840869898685,
     "name": "喵铃Neko",
     "type": "vtuber",
@@ -85371,6 +85380,15 @@
     "room": 1879188818,
     "face": "/bfs/face/180a597669915cf6a6d84ed9d5c8525749a4df60.jpg",
     "sign": "宇宙无敌可爱型的超级屑大姐姐，私皮企划ing\n录播姬指路：芽衣の录播机",
+    "group_name": ""
+  },
+  {
+    "uid": 3546934509832905,
+    "name": "鸽羽Dove",
+    "type": "vtuber",
+    "room": 1849824188,
+    "face": "/bfs/face/a06a4da6695cb936e9a3379777b48204f21e5c67.jpg",
+    "sign": "歌势、游戏势的新人VUP！感谢关注~ \n直播时间：20：30-23 （周一休息）\n粉丝群：957044310 \n欢迎大家来直播间找我玩~\n",
     "group_name": ""
   }
 ]
