@@ -22565,7 +22565,7 @@
     "type": "vtuber",
     "room": 3237809,
     "face": "/bfs/face/fd6d9a8345867065601863c0d4a4217f58031a2a.jpg",
-    "group_name": ""
+    "group_name": "北立交桥（妖精管理局）"
   },
   {
     "uid": 82134582,
@@ -68734,6 +68734,14 @@
     "room": 30207869,
     "face": "/bfs/face/0813f6dca1a27ef5872b1192bc7d1e05fee556e7.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3494370919581938,
+    "name": "水奈Rin",
+    "type": "vtuber",
+    "room": 1791269118,
+    "face": "/bfs/face/c9023cd242ff5130daf4f656f579c0fc0c20dea6.jpg",
+    "group_name": "多维变奏MDV"
   },
   {
     "uid": 3494371114617608,

@@ -16923,7 +16923,7 @@
     "name": "伊南娜Ishtar",
     "type": "vtuber",
     "room": 3237809,
-    "group_name": ""
+    "group_name": "北立交桥（妖精管理局）"
   },
   "82134582": {
     "name": "阿芙罗拉Lola",
@@ -51550,6 +51550,12 @@
     "type": "vtuber",
     "room": 30207869,
     "group_name": ""
+  },
+  "3494370919581938": {
+    "name": "水奈Rin",
+    "type": "vtuber",
+    "room": 1791269118,
+    "group_name": "多维变奏MDV"
   },
   "3494371114617608": {
     "name": "月见里kori",
