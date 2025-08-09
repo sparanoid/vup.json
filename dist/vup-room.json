@@ -14293,6 +14293,13 @@
     "face": "/bfs/face/982d0526c061cbea16e094b5b778cdbf85d9f990.jpg",
     "group_name": "云光计划"
   },
+  "18261554": {
+    "name": "箱滨Bin",
+    "type": "vtuber",
+    "room_id": 4974131,
+    "face": "/bfs/face/9d59a24c8209fbde41522ccf97f58ce941e7aa55.jpg",
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "18275424": {
     "name": "吃粽子的大粽子",
     "type": "vtuber",
@@ -37467,7 +37474,7 @@
     "name": "蝶蝶Hikari",
     "type": "vtuber",
     "room_id": 23369901,
-    "face": "/bfs/face/e1bd77c171f886e0d6e1960140c6a332b82097ed.jpg",
+    "face": "/bfs/face/52a691a450c8d0d827f553159bf1be2ef59138b8.jpg",
     "group_name": ""
   },
   "698029620": {

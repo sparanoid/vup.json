@@ -16335,6 +16335,14 @@
     "sign": "个人势，来自异世界的犬系勇者，游吟于此，交流一下彼此的故事不？粉丝群：833637505",
     "group_name": "云光计划"
   },
+  "18261554": {
+    "name": "箱滨Bin",
+    "type": "vtuber",
+    "room": 4974131,
+    "face": "/bfs/face/9d59a24c8209fbde41522ccf97f58ce941e7aa55.jpg",
+    "sign": "「北立交桥」妖精管理局〈淬蜂计划〉所属\n   红白喜势主播！B站皮搋子吹得最好没！有！之！一！一单一舰不贵不贵！",
+    "group_name": "北立交桥（妖精管理局）"
+  },
   "18275424": {
     "name": "吃粽子的大粽子",
     "type": "vtuber",
@@ -42819,7 +42827,7 @@
     "name": "蝶蝶Hikari",
     "type": "vtuber",
     "room": 23369901,
-    "face": "/bfs/face/e1bd77c171f886e0d6e1960140c6a332b82097ed.jpg",
+    "face": "/bfs/face/52a691a450c8d0d827f553159bf1be2ef59138b8.jpg",
     "sign": "是一个脑子里只有梦蝶人的笨蛋 *",
     "group_name": ""
   },
