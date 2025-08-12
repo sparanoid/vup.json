@@ -13671,7 +13671,7 @@
     "group_name": "P-SP"
   },
   "15778044": {
-    "name": "月伴Luna",
+    "name": "月伴Luna-18号百天版",
     "type": "vtuber",
     "room": 3764287,
     "face": "/bfs/face/71dc9d0a2c9368527f4e204d3b645a236a971e11.jpg",
@@ -34837,6 +34837,13 @@
     "room": 22625077,
     "face": "/bfs/face/4697628c68694d0e0c521872971acc58d6875e48.jpg",
     "group_name": "TheVirkyrie"
+  },
+  "607524075": {
+    "name": "迟幸Xing_Official",
+    "type": "vtuber",
+    "room": 1880055245,
+    "face": "/bfs/face/4be6328cae338bc706e6764384571631e66d1b90.jpg",
+    "group_name": ""
   },
   "608146606": {
     "name": "黑音夜见Official",
