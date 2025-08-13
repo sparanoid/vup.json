@@ -27964,6 +27964,13 @@
     "face": "/bfs/face/8daeabd4d94f7c872260420a64346e56cf81ebf6.jpg",
     "group_name": ""
   },
+  "416904059": {
+    "name": "RED红绫",
+    "type": "vtuber",
+    "room_id": 1830375099,
+    "face": "/bfs/face/a81917528525240f016f64f55792070806fc349e.jpg",
+    "group_name": ""
+  },
   "417317775": {
     "name": "小松奈_Savi",
     "type": "vtuber",
@@ -66182,6 +66189,13 @@
     "type": "vtuber",
     "room_id": 1883947112,
     "face": "/bfs/face/f47db62b1d6ba864ad4725a9b2b4f77b1cdb6a8f.jpg",
+    "group_name": ""
+  },
+  "3546884259973369": {
+    "name": "永夜可可official",
+    "type": "vtuber",
+    "room_id": 1849300057,
+    "face": "/bfs/face/34f7e61d7f0d70ca320bfe9add782f40b6753c41.jpg",
     "group_name": ""
   },
   "3546884626975361": {
