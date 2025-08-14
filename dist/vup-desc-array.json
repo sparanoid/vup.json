@@ -22438,7 +22438,7 @@
   },
   {
     "uid": 35047473,
-    "name": "希羽酱Gu-8-",
+    "name": "希羽酱Gu",
     "type": "vtuber",
     "room": 25698413,
     "face": "/bfs/face/2663a201ded24a696b55f9fc5831658c32234457.jpg",
@@ -28815,6 +28815,15 @@
     "room": 10645889,
     "face": "/bfs/face/09d675fa13f49b8211231e6de50db1a5d26d27a1.jpg",
     "sign": "禁言通知群号是 591169326\n直播主要歌曲练习\n账号是做翻唱方面\n网易云：铃和琴\n混音账号：唐洛琴\n音乐是儿时的梦想，也许有天会唱很棒",
+    "group_name": ""
+  },
+  {
+    "uid": 245039923,
+    "name": "银河跃迁PHG",
+    "type": "group",
+    "room": 30199804,
+    "face": "/bfs/face/d50f068cb08fb0ffe7a29f3c3e270ed68021c1f7.jpg",
+    "sign": "虚拟偶像团体银河跃迁PHG 报名请移步专栏填写问卷~ 招聘，合作及商务：bd@hypergalactix.asia ",
     "group_name": ""
   },
   {
@@ -51189,6 +51198,15 @@
     "room": 26760738,
     "face": "/images/member/noface.gif",
     "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
+  {
+    "uid": 1199424704,
+    "name": "甜闲nyaa",
+    "type": "vtuber",
+    "room": 1839305454,
+    "face": "/bfs/face/d70ac32f5ab2da3cb0fdc0da1347f41c0e5c09da.jpg",
+    "sign": "超元气——！从不破防——！真抽象吗不会吧我的形象！被80元气少女兔势\n首播日：2/19。禁言通知群：818265241 \n建模来源：糖糖锦鲤",
     "group_name": ""
   },
   {
@@ -78885,6 +78903,15 @@
     "group_name": ""
   },
   {
+    "uid": 3537115977615474,
+    "name": "可莉丝汀Christine",
+    "type": "vtuber",
+    "room": 30537764,
+    "face": "/bfs/face/44c7b2e4d5198f2ffd0c4b188cf7d46665562753.jpg",
+    "sign": "银河跃迁PHG所属✨女仆的我和“主人”的我，你更喜欢...？\n可莉斯汀的爱宠饲养基地：703957907\n非常感谢您的指名，欢迎回家～主人❤",
+    "group_name": "银河跃迁PHG(本社)"
+  },
+  {
     "uid": 3537116009073204,
     "name": "白鱼YuNa_12月3日满月回",
     "type": "vtuber",
@@ -81666,6 +81693,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546603944151354,
+    "name": "山田心心zZ",
+    "type": "vtuber",
+    "room": 32478163,
+    "face": "/bfs/face/51853b6cc6832ef4d397f49c29883788d9f9ce44.jpg",
+    "sign": "遇见你的时候就像小狗的世界下起了骨头雨",
+    "group_name": ""
+  },
+  {
     "uid": 3546604204198677,
     "name": "StageOne计划",
     "type": "vtuber",
@@ -82626,6 +82662,15 @@
     "room": 32497242,
     "face": "/bfs/face/bb63766a560b4c12895aa54ef0405ad29739dd47.jpg",
     "sign": "歌杂CV懒羊羊，是咻咻公主喵，可以叫我咻er，戏腔小甜歌emo比较拿手，咻er每天早8到12点下午2到7点上班，咻er是笨蛋，但会一直喜欢你",
+    "group_name": ""
+  },
+  {
+    "uid": 3546662104467910,
+    "name": "莉塔Liita",
+    "type": "vtuber",
+    "room": 1920450548,
+    "face": "/bfs/face/aaf9c1627e4c7272adc1c1165edb36e8eb80d31e.jpg",
+    "sign": "流行｜古风|rap|私皮老V|每日固定直播时间：16:00-23:00｜周六、日下午不固定游戏回（CS2/三角洲/PUBG)可开黑",
     "group_name": ""
   },
   {
@@ -84105,6 +84150,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546785739966972,
+    "name": "雾雨心奈Mina",
+    "type": "vtuber",
+    "room": 1858807336,
+    "face": "/bfs/face/7d27c98446df74fc1326c0d29dcf16c346049a7a.jpg",
+    "sign": "银河跃迁PHG所属✨接受审判,或是...变成心奈的狗狗❤星途饲育基地:2164023033 商务：bd@hypergalactix.asia",
+    "group_name": "银河跃迁PHG(本社)"
+  },
+  {
     "uid": 3546786285226747,
     "name": "王富贵RichW",
     "type": "vtuber",
@@ -85452,6 +85506,15 @@
     "room": 1879188818,
     "face": "/bfs/face/180a597669915cf6a6d84ed9d5c8525749a4df60.jpg",
     "sign": "可爱又迷人的屑女人\n录播姬指路：芽衣の录播机",
+    "group_name": ""
+  },
+  {
+    "uid": 3546923703208661,
+    "name": "天结阳彩_Hiiro",
+    "type": "vtuber",
+    "room": 1746237144,
+    "face": "/bfs/face/f093690f08f46beb83ae86d219f084a7ce425fe7.jpg",
+    "sign": "一位白发天使将治愈你！偶像虚拟主播",
     "group_name": ""
   },
   {

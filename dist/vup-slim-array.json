@@ -17452,7 +17452,7 @@
   },
   {
     "uid": 35047473,
-    "name": "希羽酱Gu-8-",
+    "name": "希羽酱Gu",
     "type": "vtuber",
     "room": 25698413,
     "group_name": "尼比陆"
@@ -22411,6 +22411,13 @@
     "name": "唐偌铃",
     "type": "vtuber",
     "room": 10645889,
+    "group_name": ""
+  },
+  {
+    "uid": 245039923,
+    "name": "银河跃迁PHG",
+    "type": "group",
+    "room": 30199804,
     "group_name": ""
   },
   {
@@ -39813,6 +39820,13 @@
     "name": "bilibili",
     "type": "vtuber",
     "room": 26760738,
+    "group_name": ""
+  },
+  {
+    "uid": 1199424704,
+    "name": "甜闲nyaa",
+    "type": "vtuber",
+    "room": 1839305454,
     "group_name": ""
   },
   {
@@ -61355,6 +61369,13 @@
     "group_name": ""
   },
   {
+    "uid": 3537115977615474,
+    "name": "可莉丝汀Christine",
+    "type": "vtuber",
+    "room": 30537764,
+    "group_name": "银河跃迁PHG(本社)"
+  },
+  {
     "uid": 3537116009073204,
     "name": "白鱼YuNa_12月3日满月回",
     "type": "vtuber",
@@ -63518,6 +63539,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546603944151354,
+    "name": "山田心心zZ",
+    "type": "vtuber",
+    "room": 32478163,
+    "group_name": ""
+  },
+  {
     "uid": 3546604204198677,
     "name": "StageOne计划",
     "type": "vtuber",
@@ -64264,6 +64292,13 @@
     "name": "奥菲利亚咻Ofelia",
     "type": "vtuber",
     "room": 32497242,
+    "group_name": ""
+  },
+  {
+    "uid": 3546662104467910,
+    "name": "莉塔Liita",
+    "type": "vtuber",
+    "room": 1920450548,
     "group_name": ""
   },
   {
@@ -65415,6 +65450,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546785739966972,
+    "name": "雾雨心奈Mina",
+    "type": "vtuber",
+    "room": 1858807336,
+    "group_name": "银河跃迁PHG(本社)"
+  },
+  {
     "uid": 3546786285226747,
     "name": "王富贵RichW",
     "type": "vtuber",
@@ -66462,6 +66504,13 @@
     "name": "月咏芽衣",
     "type": "vtuber",
     "room": 1879188818,
+    "group_name": ""
+  },
+  {
+    "uid": 3546923703208661,
+    "name": "天结阳彩_Hiiro",
+    "type": "vtuber",
+    "room": 1746237144,
     "group_name": ""
   },
   {
