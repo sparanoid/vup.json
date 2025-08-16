@@ -19456,6 +19456,14 @@
     "group_name": ""
   },
   {
+    "uid": 32454688,
+    "name": "苏西今天也好困",
+    "type": "vtuber",
+    "room": 11247908,
+    "face": "/bfs/face/56519ac433004df41cc19620dc580d86b4f9d192.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 32484896,
     "name": "充电宝回家家",
     "type": "vtuber",
@@ -27862,6 +27870,14 @@
     "room": 21090655,
     "face": "/bfs/face/04acc8521a3ec0e0d589b1f1e1c5032b7727c41d.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 336609938,
+    "name": "艾泽Azure",
+    "type": "vtuber",
+    "room": 32100484,
+    "face": "/bfs/face/17c59779c1d8b7bb12a8a9ef208bbce712d5a277.jpg",
+    "group_name": "Hanabi_live"
   },
   {
     "uid": 336731767,
@@ -38390,6 +38406,14 @@
     "room": 22553399,
     "face": "/bfs/face/79dbf9cd1f17d89f73985fffed98a53161d78850.jpg",
     "group_name": "ZEROproject"
+  },
+  {
+    "uid": 532302087,
+    "name": "栗吱莉莉_Lily",
+    "type": "vtuber",
+    "room": 1996440940,
+    "face": "/bfs/face/538240a095cda5d2711ec2c1c77b229961c11a16.jpg",
+    "group_name": "Hanabi_live"
   },
   {
     "uid": 533193036,
@@ -74790,6 +74814,14 @@
     "room": 1788392766,
     "face": "/bfs/face/3b3b0a1c35bef44ebe6b45b3fcca8e1533313c87.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546779333167553,
+    "name": "芷绘lulu",
+    "type": "vtuber",
+    "room": 1970740553,
+    "face": "/bfs/face/e040f3390382e77a5eb30dd6f8730271dabbf8df.jpg",
+    "group_name": "Hanabi_live"
   },
   {
     "uid": 3546780885059837,
