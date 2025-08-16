@@ -28265,6 +28265,13 @@
     "face": "/bfs/face/f5f02718b921e24e1231dfa37d39b3dd890fc75c.jpg",
     "group_name": ""
   },
+  "429638518": {
+    "name": "花泽香桃-唱见连",
+    "type": "vtuber",
+    "room_id": 1967210667,
+    "face": "/bfs/face/453e4d7843293f18b8007a170eb7a555d010f89d.jpg",
+    "group_name": ""
+  },
   "429866241": {
     "name": "麻仓叶童",
     "type": "vtuber",
@@ -34492,7 +34499,7 @@
     "name": "Yue贰狗",
     "type": "vtuber",
     "room_id": 31168273,
-    "face": "/bfs/face/5166871909271df39c51324e7a896b815b45070d.jpg",
+    "face": "/bfs/face/d6180f3f90084e9cf06c3b9afb1c6d22e0c34adb.jpg",
     "group_name": ""
   },
   "590836428": {
@@ -42445,6 +42452,13 @@
     "type": "vtuber",
     "room_id": 22868233,
     "face": "/bfs/face/5e512bf7a73c33e71b603cb4cdf37506ea08cb78.jpg",
+    "group_name": ""
+  },
+  "1435605202": {
+    "name": "星井爱梦_Aimu",
+    "type": "vtuber",
+    "room_id": 1746232326,
+    "face": "/bfs/face/589838c39861243191ca78fc296e888bd5617061.jpg",
     "group_name": ""
   },
   "1435857653": {
