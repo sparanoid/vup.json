@@ -65681,6 +65681,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546825571174470,
+    "name": "钟余__",
+    "type": "vtuber",
+    "room": 1997907865,
+    "group_name": ""
+  },
+  {
     "uid": 3546826105948304,
     "name": "阿鲸Nori",
     "type": "vtuber",
@@ -66269,11 +66276,46 @@
     "group_name": ""
   },
   {
+    "uid": 3546885837031507,
+    "name": "流存Lexim",
+    "type": "vtuber",
+    "room": 1722885130,
+    "group_name": "构梦奇点GOMOON"
+  },
+  {
+    "uid": 3546885960763632,
+    "name": "构梦奇点GOMOON",
+    "type": "group",
+    "room": 1923358332,
+    "group_name": ""
+  },
+  {
+    "uid": 3546885960764097,
+    "name": "夏烬川Gin",
+    "type": "vtuber",
+    "room": 1857376926,
+    "group_name": "构梦奇点GOMOON"
+  },
+  {
+    "uid": 3546885962860730,
+    "name": "林南星Sivan",
+    "type": "vtuber",
+    "room": 1883940955,
+    "group_name": "构梦奇点GOMOON"
+  },
+  {
     "uid": 3546886818498838,
     "name": "-可可keke-",
     "type": "vtuber",
     "room": 1942245681,
     "group_name": ""
+  },
+  {
+    "uid": 3546887233735594,
+    "name": "雾锁Unlock",
+    "type": "vtuber",
+    "room": 1722885089,
+    "group_name": "构梦奇点GOMOON"
   },
   {
     "uid": 3546887682525874,

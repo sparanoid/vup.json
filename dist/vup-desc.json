@@ -65660,7 +65660,7 @@
     "type": "vtuber",
     "room": 1774970823,
     "face": "/bfs/face/11bd83f50b3b5e88fbe1fdb3787fd65826ae4894.jpg",
-    "sign": "一只屑吸血鬼。\n出没：10：00/17：00周一定休\n要继续向前走哦，别忘了你身体里住着整个宇宙的星光。",
+    "sign": "一只屑吸血鬼。\n出没：17：00周一定休\n要继续向前走哦，别忘了你身体里住着整个宇宙的星光。",
     "group_name": ""
   },
   "3493289252620662": {
@@ -75063,6 +75063,14 @@
     "sign": "踏星诞生的蝶翼天使～早10-17 粉丝群：832629696",
     "group_name": ""
   },
+  "3546825571174470": {
+    "name": "钟余__",
+    "type": "vtuber",
+    "room": 1997907865,
+    "face": "/bfs/face/4fb2e765ce781455a8f2057117ce5a76d63de328.jpg",
+    "sign": "",
+    "group_name": ""
+  },
   "3546826105948304": {
     "name": "阿鲸Nori",
     "type": "vtuber",
@@ -75735,6 +75743,38 @@
     "sign": "对人类世界很好奇的狮系御姐勇闯v圈，直播时间:8-11,14—17,对你的喜欢，不止在清晨和夜晚~狮家军:230820687",
     "group_name": ""
   },
+  "3546885837031507": {
+    "name": "流存Lexim",
+    "type": "vtuber",
+    "room": 1722885130,
+    "face": "/bfs/face/ff3d9286674678def9b2c1ed2067ecec5b214476.jpg",
+    "sign": "虚拟偶像团体构梦奇点GOMOON成员。聆听潮汐中回荡的音符…商务合作请联系：gomoon@vvslink.cn",
+    "group_name": "构梦奇点GOMOON"
+  },
+  "3546885960763632": {
+    "name": "构梦奇点GOMOON",
+    "type": "group",
+    "room": 1923358332,
+    "face": "/bfs/face/180e3dfbde9b7222006defaa360ddefabd6eea0c.jpg",
+    "sign": "当亿万星尘在此坍缩，新的宇宙正在为逐梦者们闪耀。商务合作请联系：gomoon@vvslink.cn",
+    "group_name": ""
+  },
+  "3546885960764097": {
+    "name": "夏烬川Gin",
+    "type": "vtuber",
+    "room": 1857376926,
+    "face": "/bfs/face/b67ab20ce57e18b0d069b95169dd7ac491c555fd.jpg",
+    "sign": "虚拟偶像团体构梦奇点GOMOON成员。踩碎舞台的沉默，汗水坠地时汇聚成永不停息的河流。商务合作请联系：gomoon@vvslink.cn",
+    "group_name": "构梦奇点GOMOON"
+  },
+  "3546885962860730": {
+    "name": "林南星Sivan",
+    "type": "vtuber",
+    "room": 1883940955,
+    "face": "/bfs/face/9f3ab73e41b60df3b31d80f1b4c0a52f32dda6c7.jpg",
+    "sign": "虚拟偶像团体构梦奇点GOMOON成员。You're on your own. 商务合作请联系：gomoon@vvslink.cn",
+    "group_name": "构梦奇点GOMOON"
+  },
   "3546886818498838": {
     "name": "-可可keke-",
     "type": "vtuber",
@@ -75742,6 +75782,14 @@
     "face": "/bfs/face/378833aa1c4c2041499bc7fba4e60afcdbbcd971.jpg",
     "sign": "星星和我，都是因为你的观测才存在的吧 ｜是超绝可爱的外星人 | 电波星球（禁言群） 617444942 | 请不要上传录播，感谢！",
     "group_name": ""
+  },
+  "3546887233735594": {
+    "name": "雾锁Unlock",
+    "type": "vtuber",
+    "room": 1722885089,
+    "face": "/bfs/face/4fde81752b59677b13ded8c60f4aa2242578fd61.jpg",
+    "sign": "虚拟偶像团体构梦奇点GOMOON成员。灵魂的音符穿透虚妄的迷雾，我的歌声不会说谎。商务合作请联系：gomoon@vvslink.cn",
+    "group_name": "构梦奇点GOMOON"
   },
   "3546887682525874": {
     "name": "HOLOSTARS_EN",
