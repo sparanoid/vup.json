@@ -15284,7 +15284,7 @@
     "name": "熏小染Channel",
     "type": "vtuber",
     "room_id": 1122011,
-    "face": "/bfs/face/ca92e5e262947db989bb6fbeedc02264081c9fa5.jpg",
+    "face": "/bfs/face/7ae9b68e92115b992ca7865a9f7760a57df8876a.jpg",
     "group_name": "虚研学园"
   },
   "22156788": {
@@ -15431,7 +15431,7 @@
     "name": "幸运花花XD",
     "type": "vtuber",
     "room_id": 24561989,
-    "face": "/bfs/face/ad65b45854eab0575da4d3a7b34455b3652988be.jpg",
+    "face": "/bfs/face/33636f4a52629da272bf80639c6eb857e111e9d5.jpg",
     "group_name": ""
   },
   "22782703": {
@@ -56774,6 +56774,13 @@
     "type": "vtuber",
     "room_id": 27606337,
     "face": "/bfs/face/a6b2a753a387287921aa7ce7fa1a2bd21344216c.jpg",
+    "group_name": ""
+  },
+  "3493279926585673": {
+    "name": "雾白AuraMisty",
+    "type": "vtuber",
+    "room_id": 31656629,
+    "face": "/bfs/face/f8b9d276d7b27c40da619c81086c4a927f0721f5.jpg",
     "group_name": ""
   },
   "3493280415222475": {
