@@ -38905,6 +38905,13 @@
     "face": "/bfs/face/a08a24d5f17aa7bf9e59ee1b5b9b21accc09f1f7.jpg",
     "group_name": ""
   },
+  "1100192137": {
+    "name": "十七音Sebun",
+    "type": "vtuber",
+    "room_id": 1868171176,
+    "face": "/bfs/face/ad68b60c109c9030cf67c0a754cd19673b3487a2.jpg",
+    "group_name": ""
+  },
   "1100753698": {
     "name": "纳希亚Nashya",
     "type": "vtuber",
@@ -65475,6 +65482,13 @@
     "type": "vtuber",
     "room_id": 1788392766,
     "face": "/bfs/face/92ce8a61df6cedcdc7da66195c907be155a9e984.jpg",
+    "group_name": ""
+  },
+  "3546779039566491": {
+    "name": "怡崽是奶凶龙折狼王冠",
+    "type": "vtuber",
+    "room_id": 1852635650,
+    "face": "/bfs/face/4d084a8dee867e37e9ecce2756582084f690d6bd.jpg",
     "group_name": ""
   },
   "3546779333167553": {
