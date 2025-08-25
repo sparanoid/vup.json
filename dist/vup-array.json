@@ -22976,6 +22976,14 @@
     "group_name": "P-SP"
   },
   {
+    "uid": 89126274,
+    "name": "桃桃栀Momochi",
+    "type": "vtuber",
+    "room": 10984778,
+    "face": "/bfs/face/8646794933b4d389685bd8a76dd77a4d6d5f6dc9.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 89362643,
     "name": "小奶糕ing",
     "type": "vtuber",
@@ -41168,6 +41176,14 @@
     "group_name": ""
   },
   {
+    "uid": 649984343,
+    "name": "四柒--siki",
+    "type": "vtuber",
+    "room": 1791262773,
+    "face": "/bfs/face/3bdf92b9eb573a3627e6a51a6a4673f51b707b77.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 650262353,
     "name": "-北瀬琉织-",
     "type": "vtuber",
@@ -41717,6 +41733,14 @@
     "type": "vtuber",
     "room": 22485876,
     "face": "/bfs/face/c5c1b16b80d7ffbb24a8a4da401e7e87b0218272.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 670250754,
+    "name": "颜御Akuma",
+    "type": "vtuber",
+    "room": 32459719,
+    "face": "/bfs/face/7617f6ddc45147dcf63167abb5ce31a256dc41af.jpg",
     "group_name": ""
   },
   {
@@ -50758,6 +50782,14 @@
     "room": 25111316,
     "face": "/bfs/face/5118daa5435e2ffaa2aed56832aefffa3d60b6ad.jpg",
     "group_name": "PSL官方"
+  },
+  {
+    "uid": 1619072996,
+    "name": "Fafnir_法芙娜",
+    "type": "vtuber",
+    "room": 1786413264,
+    "face": "/bfs/face/2c5656663fc3dfebc4dc93a2b89379115ccce2a5.jpg",
+    "group_name": ""
   },
   {
     "uid": 1619878166,
@@ -62552,6 +62584,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493146033916740,
+    "name": "兔卷卷curly",
+    "type": "vtuber",
+    "room": 27276473,
+    "face": "/bfs/face/a0d6fe321ffebd3a0ff223db02913cc011d56b58.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3493146038110808,
     "name": "源Origin-",
     "type": "vtuber",
@@ -72952,6 +72992,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546618875874222,
+    "name": "雾川Aria",
+    "type": "vtuber",
+    "room": 1868873363,
+    "face": "/bfs/face/5b8b423c96d8abad13269305706eea48f42526ec.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546618999606221,
     "name": "希思_heath",
     "type": "vtuber",
@@ -75096,6 +75144,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546813252503740,
+    "name": "猫猫大王oi",
+    "type": "vtuber",
+    "room": 1924297845,
+    "face": "/bfs/face/78c3c2cadd9a8777332a0e780879d16871f9d20a.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546816039619075,
     "name": "拉普拉斯暗黑Official",
     "type": "vtuber",
@@ -76173,6 +76229,14 @@
     "type": "vtuber",
     "room": 1894861469,
     "face": "/bfs/face/0399c015acb19021751768a0d75994c724181812.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546923627711041,
+    "name": "綾澈aya",
+    "type": "vtuber",
+    "room": 1871510646,
+    "face": "/bfs/face/e0c7e8cd3d396ce77fe369a041c8ccf9e9ac6912.jpg",
     "group_name": ""
   },
   {
