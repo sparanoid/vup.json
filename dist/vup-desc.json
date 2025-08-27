@@ -16367,6 +16367,14 @@
     "sign": "你好呀！这里是帅气的茶沐Mazzi！个人势Vup！励志成为小飞艇驾驶员desu！",
     "group_name": ""
   },
+  "18345407": {
+    "name": "鸢晴茸茸Chororo",
+    "type": "vtuber",
+    "room": 25090395,
+    "face": "/bfs/face/681a3123c3e4d2e7fce5782ef276c5dad46b59a8.jpg",
+    "sign": "魔法片场赤贫导演｜三连是唯一经费｜妮妮叼刀催更中✂️",
+    "group_name": ""
+  },
   "18362166": {
     "name": "紫苏丸子酱",
     "type": "vtuber",
@@ -73020,7 +73028,7 @@
     "type": "vtuber",
     "room": 31930861,
     "face": "/bfs/face/194e009ef5ce605e56d4b5afa17c0cfc7d14bb6b.jpg",
-    "sign": "不怕黑听 请多来见我",
+    "sign": "你看我好玩不？",
     "group_name": ""
   },
   "3546620499069896": {
@@ -76254,5 +76262,45 @@
     "face": "/bfs/face/a06a4da6695cb936e9a3379777b48204f21e5c67.jpg",
     "sign": "歌势、游戏势的新人VUP！感谢关注~ \n直播时间：20：30-23 （周一休息）\n粉丝群：957044310 \n欢迎大家来直播间找我玩~\n",
     "group_name": ""
+  },
+  "3546934977497420": {
+    "name": "Dsire_Official",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/818edd22d29d8bd5e2e433346fcadace7c10f8f3.jpg",
+    "sign": "虚拟偶像男团Dsire",
+    "group_name": ""
+  },
+  "3546935302556184": {
+    "name": "Dsire-时雨",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/48d0a9b95f21a5b7fb0372957cce2842dc3ddd21.jpg",
+    "sign": "虚拟偶像团体Dsire成员 时雨",
+    "group_name": "Dsire_Official"
+  },
+  "3546935411608174": {
+    "name": "Dsire-萧烬",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/699e8a684d54225e3f14da8bf254df4f3f2f6dd5.jpg",
+    "sign": "虚拟偶像团体Dsire成员 萧烬",
+    "group_name": "Dsire_Official"
+  },
+  "3546935413704931": {
+    "name": "Dsire-顾翊",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/ee446491655aea35af18980b6f23da69aac387fd.jpg",
+    "sign": "虚拟偶像团体Dsire成员 顾翊",
+    "group_name": "Dsire_Official"
+  },
+  "3546935413705490": {
+    "name": "Dsire-寒叙",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/8732632a0ee7ea5c7e677b07e79eed7b32e2c63d.jpg",
+    "sign": "虚拟偶像团体Dsire成员 寒叙",
+    "group_name": "Dsire_Official"
   }
 }

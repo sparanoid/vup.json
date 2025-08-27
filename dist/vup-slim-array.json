@@ -14322,6 +14322,13 @@
     "group_name": ""
   },
   {
+    "uid": 18345407,
+    "name": "鸢晴茸茸Chororo",
+    "type": "vtuber",
+    "room": 25090395,
+    "group_name": ""
+  },
+  {
     "uid": 18362166,
     "name": "紫苏丸子酱",
     "type": "vtuber",
@@ -66722,5 +66729,40 @@
     "type": "vtuber",
     "room": 1849824188,
     "group_name": ""
+  },
+  {
+    "uid": 3546934977497420,
+    "name": "Dsire_Official",
+    "type": "group",
+    "room": 0,
+    "group_name": ""
+  },
+  {
+    "uid": 3546935302556184,
+    "name": "Dsire-时雨",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "Dsire_Official"
+  },
+  {
+    "uid": 3546935411608174,
+    "name": "Dsire-萧烬",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "Dsire_Official"
+  },
+  {
+    "uid": 3546935413704931,
+    "name": "Dsire-顾翊",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "Dsire_Official"
+  },
+  {
+    "uid": 3546935413705490,
+    "name": "Dsire-寒叙",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "Dsire_Official"
   }
 ]

@@ -14321,6 +14321,13 @@
     "face": "/bfs/face/a30a24f7a8eb091123a0db0b672f7beed9052a9d.jpg",
     "group_name": ""
   },
+  "18345407": {
+    "name": "鸢晴茸茸Chororo",
+    "type": "vtuber",
+    "room_id": 25090395,
+    "face": "/bfs/face/681a3123c3e4d2e7fce5782ef276c5dad46b59a8.jpg",
+    "group_name": ""
+  },
   "18362166": {
     "name": "紫苏丸子酱",
     "type": "vtuber",
@@ -66722,5 +66729,40 @@
     "room_id": 1849824188,
     "face": "/bfs/face/a06a4da6695cb936e9a3379777b48204f21e5c67.jpg",
     "group_name": ""
+  },
+  "3546934977497420": {
+    "name": "Dsire_Official",
+    "type": "group",
+    "room_id": 0,
+    "face": "/bfs/face/818edd22d29d8bd5e2e433346fcadace7c10f8f3.jpg",
+    "group_name": ""
+  },
+  "3546935302556184": {
+    "name": "Dsire-时雨",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/48d0a9b95f21a5b7fb0372957cce2842dc3ddd21.jpg",
+    "group_name": "Dsire_Official"
+  },
+  "3546935411608174": {
+    "name": "Dsire-萧烬",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/699e8a684d54225e3f14da8bf254df4f3f2f6dd5.jpg",
+    "group_name": "Dsire_Official"
+  },
+  "3546935413704931": {
+    "name": "Dsire-顾翊",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/ee446491655aea35af18980b6f23da69aac387fd.jpg",
+    "group_name": "Dsire_Official"
+  },
+  "3546935413705490": {
+    "name": "Dsire-寒叙",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/8732632a0ee7ea5c7e677b07e79eed7b32e2c63d.jpg",
+    "group_name": "Dsire_Official"
   }
 }
