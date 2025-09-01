@@ -51113,6 +51113,12 @@
     "room": 30131089,
     "group_name": ""
   },
+  "3494363294337077": {
+    "name": "蚀尾_Kelili",
+    "type": "vtuber",
+    "room": 1788061711,
+    "group_name": ""
+  },
   "3494363495664482": {
     "name": "早川钥_wysn",
     "type": "vtuber",
@@ -55409,6 +55415,12 @@
     "room": 1873271270,
     "group_name": ""
   },
+  "3546684042774691": {
+    "name": "侏罗德-T-雷克斯福特_EN",
+    "type": "vtuber",
+    "room": 1842744156,
+    "group_name": "HOLOSTARS_EN"
+  },
   "3546684332181720": {
     "name": "沧瀛Aish",
     "type": "vtuber",
@@ -57001,7 +57013,7 @@
   },
   "3546887682525874": {
     "name": "HOLOSTARS_EN",
-    "type": "vtuber",
+    "type": "group",
     "room": 0,
     "group_name": ""
   },
@@ -57165,13 +57177,13 @@
     "name": "加维斯贝特尔_EN",
     "type": "vtuber",
     "room": 1890955491,
-    "group_name": ""
+    "group_name": "HOLOSTARS_EN"
   },
   "3546908001831485": {
     "name": "奥克塔维奥_EN",
     "type": "vtuber",
     "room": 1992271807,
-    "group_name": ""
+    "group_name": "HOLOSTARS_EN"
   },
   "3546908402386989": {
     "name": "祈绪-卡拉梅尔_Official",
@@ -57268,5 +57280,17 @@
     "type": "vtuber",
     "room": 0,
     "group_name": "Dsire_Official"
+  },
+  "3546957345720976": {
+    "name": "万象院八花_EN",
+    "type": "vtuber",
+    "room": 1879292841,
+    "group_name": "HOLOSTARS_EN"
+  },
+  "3546957352011826": {
+    "name": "定水寺真鲤_EN",
+    "type": "vtuber",
+    "room": 1842744240,
+    "group_name": "HOLOSTARS_EN"
   }
 }

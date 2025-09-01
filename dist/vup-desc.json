@@ -68151,6 +68151,14 @@
     "sign": "",
     "group_name": ""
   },
+  "3494363294337077": {
+    "name": "蚀尾_Kelili",
+    "type": "vtuber",
+    "room": 1788061711,
+    "face": "/bfs/face/788d0ebbc8eb2c819d8e9c623d2e7154d3c99a1c.jpg",
+    "sign": "hi~这里是蚀尾kelili！新手恶魔营业中——蚀尾的魔法实验室每天0：00-3：00以及全天不定时掉落~欢迎光临~",
+    "group_name": ""
+  },
   "3494363495664482": {
     "name": "早川钥_wysn",
     "type": "vtuber",
@@ -73879,6 +73887,14 @@
     "sign": "爱酒爱吃的北京太太\n最懂的人，最暖的伴\n喜欢唱歌才当v的\n我们小手拉大手，一直往前走❤\n直播时间:08:10-12:10  下午晚上随机掉落",
     "group_name": ""
   },
+  "3546684042774691": {
+    "name": "侏罗德-T-雷克斯福特_EN",
+    "type": "vtuber",
+    "room": 1842744156,
+    "face": "/bfs/face/6daf534b15de3995b32f3868c784fecb2764ed47.jpg",
+    "sign": "Jurard·T·Rexford Official HOLOSTARS-EN",
+    "group_name": "HOLOSTARS_EN"
+  },
   "3546684332181720": {
     "name": "沧瀛Aish",
     "type": "vtuber",
@@ -76001,7 +76017,7 @@
   },
   "3546887682525874": {
     "name": "HOLOSTARS_EN",
-    "type": "vtuber",
+    "type": "group",
     "room": 0,
     "face": "/bfs/face/7e5fda5d5c806706ba90396cd2be0205c56fecf2.jpg",
     "sign": "VTuber事务所 官网：https://holostars.hololivepro.com/",
@@ -76221,7 +76237,7 @@
     "room": 1890955491,
     "face": "/bfs/face/ad5475c59f8e36ee4009cdac458d0263c198f7f5.jpg",
     "sign": "Gavis Bettel Official  HOLOSTARS-EN",
-    "group_name": ""
+    "group_name": "HOLOSTARS_EN"
   },
   "3546908001831485": {
     "name": "奥克塔维奥_EN",
@@ -76229,7 +76245,7 @@
     "room": 1992271807,
     "face": "/bfs/face/fa2beb04dbfa1331b7c7fadbf3e6af0f618e5ed6.jpg",
     "sign": "Octavio Official  HOLOSTARS-EN",
-    "group_name": ""
+    "group_name": "HOLOSTARS_EN"
   },
   "3546908402386989": {
     "name": "祈绪-卡拉梅尔_Official",
@@ -76358,5 +76374,21 @@
     "face": "/bfs/face/8732632a0ee7ea5c7e677b07e79eed7b32e2c63d.jpg",
     "sign": "虚拟偶像团体Dsire成员 寒叙",
     "group_name": "Dsire_Official"
+  },
+  "3546957345720976": {
+    "name": "万象院八花_EN",
+    "type": "vtuber",
+    "room": 1879292841,
+    "face": "/bfs/face/d2323a7f7ff6e46353b3578a5aee5cef624bc125.jpg",
+    "sign": "Banzoin Hakka Official HOLOSTARS-EN\n",
+    "group_name": "HOLOSTARS_EN"
+  },
+  "3546957352011826": {
+    "name": "定水寺真鲤_EN",
+    "type": "vtuber",
+    "room": 1842744240,
+    "face": "/bfs/face/2ebd76ef9c4356bfda85fc8868a4abe516018286.jpg",
+    "sign": "Josuiji Shinri Official HOLOSTARS-EN",
+    "group_name": "HOLOSTARS_EN"
   }
 }
