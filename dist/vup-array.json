@@ -19704,6 +19704,14 @@
     "group_name": ""
   },
   {
+    "uid": 33643280,
+    "name": "战术猫猫yukina",
+    "type": "vtuber",
+    "room": 22295027,
+    "face": "/bfs/face/b8fff9621cd956b6ec1952a23f8207de9fca76aa.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 33697714,
     "name": "佚名ANO_",
     "type": "vtuber",
@@ -68296,6 +68304,14 @@
     "group_name": ""
   },
   {
+    "uid": 3494364181432853,
+    "name": "由菜Yuna",
+    "type": "vtuber",
+    "room": 30103697,
+    "face": "/bfs/face/61442be95c19e3749af31b8f24fce7614e3e9967.jpg",
+    "group_name": "P-SP"
+  },
+  {
     "uid": 3494364242249735,
     "name": "栗川堇Sumire",
     "type": "vtuber",
@@ -72512,6 +72528,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546591044569440,
+    "name": "青焰Zara",
+    "type": "vtuber",
+    "room": 31956723,
+    "face": "/bfs/face/e3e8381217724606f0f25bfa1766b8276cdfadfd.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546592088951437,
     "name": "格拉纳特Gat",
     "type": "vtuber",
@@ -73232,6 +73256,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546631104366680,
+    "name": "Hozaki_Vivy",
+    "type": "vtuber",
+    "room": 32454679,
+    "face": "/bfs/face/617d0708dce8172d7e69b12e9ff24e17909e1335.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546631876119424,
     "name": "石井小町",
     "type": "vtuber",
@@ -73493,6 +73525,14 @@
     "type": "vtuber",
     "room": 32273571,
     "face": "/bfs/face/8711251bf2ee163daadbeb6fe5a6f7aa3119dac7.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546645763459898,
+    "name": "安文Annwn",
+    "type": "vtuber",
+    "room": 32365194,
+    "face": "/bfs/face/26e384279619e30d33c09e19ba2bc52e5d203170.jpg",
     "group_name": ""
   },
   {
@@ -75560,6 +75600,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546836472170553,
+    "name": "猫吉Millia",
+    "type": "vtuber",
+    "room": 1995136462,
+    "face": "/bfs/face/00e60d77e093e9803c8b8870a0aaf916e1e5bbd7.jpg",
+    "group_name": "幻想社Fantas1A"
+  },
+  {
     "uid": 3546837206173987,
     "name": "醇月tipsy",
     "type": "vtuber",
@@ -76533,6 +76581,14 @@
     "type": "vtuber",
     "room": 1912360299,
     "face": "/bfs/face/3c7414d2d3b4ccbe7a7897fb3a5cba3a2206fe74.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546917023779079,
+    "name": "苟誓",
+    "type": "vtuber",
+    "room": 1969778039,
+    "face": "/bfs/face/f86c22ce0266171ec281dc7255a015a8ac543f89.jpg",
     "group_name": ""
   },
   {

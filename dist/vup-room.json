@@ -17240,6 +17240,13 @@
     "face": "/bfs/face/7b4f73d1aee03b63c26ab9493b4df7b75d757444.jpg",
     "group_name": ""
   },
+  "33643280": {
+    "name": "战术猫猫yukina",
+    "type": "vtuber",
+    "room_id": 22295027,
+    "face": "/bfs/face/b8fff9621cd956b6ec1952a23f8207de9fca76aa.jpg",
+    "group_name": ""
+  },
   "33697714": {
     "name": "佚名ANO_",
     "type": "vtuber",
@@ -59758,6 +59765,13 @@
     "face": "/bfs/face/fe421e4f2946f562d31da9bab072357a34a229b5.jpg",
     "group_name": ""
   },
+  "3494364181432853": {
+    "name": "由菜Yuna",
+    "type": "vtuber",
+    "room_id": 30103697,
+    "face": "/bfs/face/61442be95c19e3749af31b8f24fce7614e3e9967.jpg",
+    "group_name": "P-SP"
+  },
   "3494364242249735": {
     "name": "栗川堇Sumire",
     "type": "vtuber",
@@ -63447,6 +63461,13 @@
     "face": "/bfs/face/a0b9ed09aadac8ace6dbf6b0a0f52b6a2d4672d6.jpg",
     "group_name": ""
   },
+  "3546591044569440": {
+    "name": "青焰Zara",
+    "type": "vtuber",
+    "room_id": 31956723,
+    "face": "/bfs/face/e3e8381217724606f0f25bfa1766b8276cdfadfd.jpg",
+    "group_name": ""
+  },
   "3546592088951437": {
     "name": "格拉纳特Gat",
     "type": "vtuber",
@@ -64077,6 +64098,13 @@
     "face": "/bfs/face/f6176dd6e995a22ae48b5b195a4c49e22c439815.jpg",
     "group_name": ""
   },
+  "3546631104366680": {
+    "name": "Hozaki_Vivy",
+    "type": "vtuber",
+    "room_id": 32454679,
+    "face": "/bfs/face/617d0708dce8172d7e69b12e9ff24e17909e1335.jpg",
+    "group_name": ""
+  },
   "3546631876119424": {
     "name": "石井小町",
     "type": "vtuber",
@@ -64306,6 +64334,13 @@
     "type": "vtuber",
     "room_id": 32273571,
     "face": "/bfs/face/8711251bf2ee163daadbeb6fe5a6f7aa3119dac7.jpg",
+    "group_name": ""
+  },
+  "3546645763459898": {
+    "name": "安文Annwn",
+    "type": "vtuber",
+    "room_id": 32365194,
+    "face": "/bfs/face/26e384279619e30d33c09e19ba2bc52e5d203170.jpg",
     "group_name": ""
   },
   "3546646881241985": {
@@ -66114,6 +66149,13 @@
     "face": "/bfs/face/acfc6b3b30158278330b388e4c5a3db737eab8f5.jpg",
     "group_name": ""
   },
+  "3546836472170553": {
+    "name": "猫吉Millia",
+    "type": "vtuber",
+    "room_id": 1995136462,
+    "face": "/bfs/face/00e60d77e093e9803c8b8870a0aaf916e1e5bbd7.jpg",
+    "group_name": "幻想社Fantas1A"
+  },
   "3546837206173987": {
     "name": "醇月tipsy",
     "type": "vtuber",
@@ -66966,6 +67008,13 @@
     "type": "vtuber",
     "room_id": 1912360299,
     "face": "/bfs/face/3c7414d2d3b4ccbe7a7897fb3a5cba3a2206fe74.jpg",
+    "group_name": ""
+  },
+  "3546917023779079": {
+    "name": "苟誓",
+    "type": "vtuber",
+    "room_id": 1969778039,
+    "face": "/bfs/face/f86c22ce0266171ec281dc7255a015a8ac543f89.jpg",
     "group_name": ""
   },
   "3546917069916190": {
