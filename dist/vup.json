@@ -22070,6 +22070,13 @@
     "face": "/bfs/face/0dd4daf0148ec065996b6eaeb5c0a0cfbce3fe7a.jpg",
     "group_name": ""
   },
+  "203781439": {
+    "name": "鹿時零",
+    "type": "vtuber",
+    "room": 5993127,
+    "face": "/bfs/face/7a582a84ed72f466e0e170b6dc736b5f4f162ec6.jpg",
+    "group_name": ""
+  },
   "204838732": {
     "name": "雨宫修莉亚",
     "type": "vtuber",
@@ -51533,13 +51540,6 @@
     "face": "/bfs/face/63868c24983d6ad3126c5ee70c44b2d97ac20955.jpg",
     "group_name": ""
   },
-  "3493081334680277": {
-    "name": "艾朵睡着了",
-    "type": "vtuber",
-    "room": 26492622,
-    "face": "/bfs/face/d89d0c38c5e3d9e5642dde47db2d3925b6d78d79.jpg",
-    "group_name": ""
-  },
   "3493081399691605": {
     "name": "丷橙茉",
     "type": "vtuber",
@@ -65120,6 +65120,13 @@
     "face": "/bfs/face/c36f364c6a398a2ddf45dd4235b3803c29c418b6.jpg",
     "group_name": ""
   },
+  "3546707734301114": {
+    "name": "池恩Arch",
+    "type": "vtuber",
+    "room": 1853542986,
+    "face": "/bfs/face/00bd91421a30be1d30714c420361e41ed30d1310.jpg",
+    "group_name": ""
+  },
   "3546711085550450": {
     "name": "克蕾西・奥莉Official",
     "type": "vtuber",
@@ -65442,6 +65449,13 @@
     "face": "/bfs/face/6dcbeaea6bc28890c3b95b3789a0be542afcb7b2.jpg",
     "group_name": ""
   },
+  "3546739967527097": {
+    "name": "小盐棒冰kino",
+    "type": "vtuber",
+    "room": 1838214880,
+    "face": "/bfs/face/065af830e83b77527e2d0e328525752cea889665.jpg",
+    "group_name": ""
+  },
   "3546740040928185": {
     "name": "风味袜子",
     "type": "vtuber",
@@ -65701,6 +65715,13 @@
     "face": "/bfs/face/7fd9755093a3c019aa2bbf954650d2173c4739e0.jpg",
     "group_name": "问尘仙会"
   },
+  "3546770957142099": {
+    "name": "小欣点咯",
+    "type": "vtuber",
+    "room": 1726458022,
+    "face": "/bfs/face/ce13441d4a89518d903912d53076d2c03ea74ba0.jpg",
+    "group_name": ""
+  },
   "3546771206703650": {
     "name": "千千波纯",
     "type": "vtuber",
@@ -65841,6 +65862,13 @@
     "face": "/bfs/face/4111e91c8582cc1cf20fe10cf6825889f461b57b.jpg",
     "group_name": ""
   },
+  "3546788109748374": {
+    "name": "音觉衍静",
+    "type": "vtuber",
+    "room": 1709461731,
+    "face": "/bfs/face/db58b29fe0913caa7b9693341f8b39585b0de032.jpg",
+    "group_name": ""
+  },
   "3546788919249663": {
     "name": "姜礼礼yo",
     "type": "vtuber",
@@ -65867,6 +65895,13 @@
     "type": "vtuber",
     "room": 1951599165,
     "face": "/bfs/face/2ec9fb92bd67edcba115997788a2651c9d0e9954.jpg",
+    "group_name": ""
+  },
+  "3546791853165530": {
+    "name": "小星眠雾Starmist",
+    "type": "vtuber",
+    "room": 1735735440,
+    "face": "/bfs/face/013395077d974fe94ff9bdf25d233455891cbd51.jpg",
     "group_name": ""
   },
   "3546791991576744": {
@@ -66112,6 +66147,13 @@
     "type": "vtuber",
     "room": 1887787860,
     "face": "/bfs/face/754de97b75444a53d21952973dc232b7c28291dd.jpg",
+    "group_name": ""
+  },
+  "3546827378919803": {
+    "name": "艾朵不想起床",
+    "type": "vtuber",
+    "room": 1867588921,
+    "face": "/bfs/face/94187706bf183d63b8f1e2eae124c602bb9bed45.jpg",
     "group_name": ""
   },
   "3546828106631502": {
@@ -67038,6 +67080,13 @@
     "face": "/bfs/face/3c7414d2d3b4ccbe7a7897fb3a5cba3a2206fe74.jpg",
     "group_name": ""
   },
+  "3546916751149481": {
+    "name": "小桃芝Momo_",
+    "type": "vtuber",
+    "room": 1954357145,
+    "face": "/bfs/face/ffd62f9b3b8950821373b7149f65eefce5ca63d0.jpg",
+    "group_name": ""
+  },
   "3546917023779079": {
     "name": "AAA苟誓批发",
     "type": "vtuber",
@@ -67050,6 +67099,13 @@
     "type": "vtuber",
     "room": 1879188818,
     "face": "/bfs/face/14bf52fd3c6ef1bdc1995afdc3e9085024035337.jpg",
+    "group_name": ""
+  },
+  "3546920070940837": {
+    "name": "敖婧瑶",
+    "type": "vtuber",
+    "room": 1955432651,
+    "face": "/bfs/face/25f53eb2dfd8d18a7aba801ee0ea27e244d24968.jpg",
     "group_name": ""
   },
   "3546921121613966": {
