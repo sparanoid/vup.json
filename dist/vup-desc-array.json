@@ -26996,7 +26996,7 @@
     "type": "vtuber",
     "room": 12979470,
     "face": "/bfs/face/f31fcac193452edbc9f52d0c2598a910b05b7f79.jpg",
-    "sign": "",
+    "sign": "==…",
     "group_name": ""
   },
   {
@@ -81366,6 +81366,15 @@
     "room": 31421411,
     "face": "/bfs/face/608c5a5cf0a8b6b88d08967dc356196381acf810.jpg",
     "sign": "灵魂歇脚之地",
+    "group_name": ""
+  },
+  {
+    "uid": 3546581800323456,
+    "name": "琅九Kokono",
+    "type": "vtuber",
+    "room": 31885621,
+    "face": "/bfs/face/91c1c04cbbc9297260806d46ef5d1114902b1708.jpg",
+    "sign": "个人势虚拟主播｜你的专属游戏搭子｜乐子鼬琅九欢乐加载中～｜粉丝群：662182262 | 切片回放@乐子鼬Kokono",
     "group_name": ""
   },
   {
