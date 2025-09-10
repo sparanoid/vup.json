@@ -10332,6 +10332,13 @@
     "group_name": ""
   },
   {
+    "uid": 8491553,
+    "name": "御坂声声",
+    "type": "vtuber",
+    "room": 26991667,
+    "group_name": ""
+  },
+  {
     "uid": 8492335,
     "name": "日向葵_Aoi",
     "type": "vtuber",
@@ -22992,6 +22999,13 @@
     "name": "春水生个人版",
     "type": "vtuber",
     "room": 14777043,
+    "group_name": ""
+  },
+  {
+    "uid": 275277683,
+    "name": "星野和和_Official",
+    "type": "vtuber",
+    "room": 1735947490,
     "group_name": ""
   },
   {
@@ -52774,7 +52788,7 @@
   },
   {
     "uid": 3493115988019782,
-    "name": "青络-9月9双满版",
+    "name": "青络Bloom",
     "type": "vtuber",
     "room": 26811610,
     "group_name": ""
@@ -63211,7 +63225,7 @@
   },
   {
     "uid": 3546578008672552,
-    "name": "甜崽小兔Tenn",
+    "name": "甜崽小兔28生日回",
     "type": "vtuber",
     "room": 31310804,
     "group_name": ""
@@ -65612,7 +65626,7 @@
   },
   {
     "uid": 3546757724113807,
-    "name": "乌米kirumi-唱见连",
+    "name": "乌米-不出城堡毕业版",
     "type": "vtuber",
     "room": 1968486881,
     "group_name": ""
@@ -66151,7 +66165,7 @@
   },
   {
     "uid": 3546827183884565,
-    "name": "灵凌Zero",
+    "name": "薇诺Veno_official",
     "type": "vtuber",
     "room": 1887787860,
     "group_name": ""

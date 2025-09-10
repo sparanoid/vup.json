@@ -11808,6 +11808,14 @@
     "group_name": ""
   },
   {
+    "uid": 8491553,
+    "name": "御坂声声",
+    "type": "vtuber",
+    "room": 26991667,
+    "face": "/bfs/face/d35b193bfcc1d7a3d0f946e0d5f11633fa79ac4d.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 8492335,
     "name": "日向葵_Aoi",
     "type": "vtuber",
@@ -26277,6 +26285,14 @@
     "type": "vtuber",
     "room": 14777043,
     "face": "/bfs/face/72a8322098c5fb8b2e69d9429d2e1b3c9762a6ba.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 275277683,
+    "name": "星野和和_Official",
+    "type": "vtuber",
+    "room": 1735947490,
+    "face": "/bfs/face/5345a536cd6ecd7bbd6c393ffb4175d8aa2c5337.jpg",
     "group_name": ""
   },
   {
@@ -43748,7 +43764,7 @@
     "name": "洛娜_Lorna",
     "type": "vtuber",
     "room": 1803527722,
-    "face": "/bfs/face/1ee47809b1d72fd2b0994c98d28b2363256efb6b.jpg",
+    "face": "/bfs/face/33eca56d4a3eb29651868949f8918805e1cffd28.jpg",
     "group_name": ""
   },
   {
@@ -60313,10 +60329,10 @@
   },
   {
     "uid": 3493115988019782,
-    "name": "青络-9月9双满版",
+    "name": "青络Bloom",
     "type": "vtuber",
     "room": 26811610,
-    "face": "/bfs/face/580503668822c29c28477b2c8d4fc7b55bba68a7.jpg",
+    "face": "/bfs/face/9a316d829d32b62a6c910c77a339a97626b9086f.jpg",
     "group_name": ""
   },
   {
@@ -72241,7 +72257,7 @@
   },
   {
     "uid": 3546578008672552,
-    "name": "甜崽小兔Tenn",
+    "name": "甜崽小兔28生日回",
     "type": "vtuber",
     "room": 31310804,
     "face": "/bfs/face/4ebb5e8a050d3e497bab11a6a4bf4150de871530.jpg",
@@ -72740,7 +72756,7 @@
     "name": "花氤Hyin",
     "type": "vtuber",
     "room": 1945807210,
-    "face": "/bfs/face/55659246775dfeff24737db7450f3540128c1a36.jpg",
+    "face": "/bfs/face/8693d01e7c4c6968317d2f154f6255b1ad93bb29.jpg",
     "group_name": ""
   },
   {
@@ -72756,7 +72772,7 @@
     "name": "清禾Yoyo",
     "type": "vtuber",
     "room": 32534261,
-    "face": "/bfs/face/f464042d37502afb9e5f9eada9f0b8c5ece67b47.jpg",
+    "face": "/bfs/face/9ae8a0126ffa50dffbf04b84bce762f8dee9df5f.jpg",
     "group_name": ""
   },
   {
@@ -74985,7 +75001,7 @@
   },
   {
     "uid": 3546757724113807,
-    "name": "乌米kirumi-唱见连",
+    "name": "乌米-不出城堡毕业版",
     "type": "vtuber",
     "room": 1968486881,
     "face": "/bfs/face/b469257e6eb3b52fd0800552eb0680b7fe060ac0.jpg",
@@ -75601,10 +75617,10 @@
   },
   {
     "uid": 3546827183884565,
-    "name": "灵凌Zero",
+    "name": "薇诺Veno_official",
     "type": "vtuber",
     "room": 1887787860,
-    "face": "/bfs/face/754de97b75444a53d21952973dc232b7c28291dd.jpg",
+    "face": "/bfs/face/1ba78dba50fa24e762c713dd0e7d0a40ba504533.jpg",
     "group_name": ""
   },
   {
@@ -75644,7 +75660,7 @@
     "name": "兔筱柒-923生日私皮回",
     "type": "vtuber",
     "room": 1967211588,
-    "face": "/bfs/face/64f2434f2ecea8ab4b46be95151aa115fc7bd3d4.jpg",
+    "face": "/bfs/face/8dbbcf607a85a997e09b3ff030662f2316a248b7.jpg",
     "group_name": ""
   },
   {
@@ -75700,7 +75716,7 @@
     "name": "悠月Yuduki",
     "type": "vtuber",
     "room": 1995132376,
-    "face": "/bfs/face/c86c65bbe3a82bc5936a31fd4e36183d27709b5b.jpg",
+    "face": "/bfs/face/5169a169b748f3eec9c497aabb94e7f8c9ed9508.jpg",
     "group_name": ""
   },
   {
@@ -75804,7 +75820,7 @@
     "name": "小鸟游纱爱",
     "type": "vtuber",
     "room": 1849303349,
-    "face": "/bfs/face/73bb335f5a93fb7709492d49362aa51448b8f9f8.jpg",
+    "face": "/bfs/face/2756b7d95388048316e23298f239fb67eead393e.jpg",
     "group_name": ""
   },
   {
