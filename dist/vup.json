@@ -59706,7 +59706,7 @@
     "name": "蚀尾_Kelili",
     "type": "vtuber",
     "room": 1788061711,
-    "face": "/bfs/face/788d0ebbc8eb2c819d8e9c623d2e7154d3c99a1c.jpg",
+    "face": "/bfs/face/97f11e4bdd5547d577282d97d1f1fa4e25fbb910.jpg",
     "group_name": ""
   },
   "3494363495664482": {
@@ -60401,6 +60401,13 @@
     "room": 1791269118,
     "face": "/bfs/face/c9023cd242ff5130daf4f656f579c0fc0c20dea6.jpg",
     "group_name": "多维变奏MDV"
+  },
+  "3494371070576692": {
+    "name": "三角sumire",
+    "type": "vtuber",
+    "room": 1861789907,
+    "face": "/bfs/face/2a5d5e6983c27c3e40f13774fa650e779850cf3c.jpg",
+    "group_name": ""
   },
   "3494371114617608": {
     "name": "月见里kori",
