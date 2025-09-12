@@ -15322,6 +15322,13 @@
     "face": "/bfs/face/d4c55e3dc535ee9d0a6df7456d7d257d1d0564bc.jpg",
     "group_name": ""
   },
+  "22158819": {
+    "name": "羊腿umer",
+    "type": "vtuber",
+    "room": 1898569529,
+    "face": "/bfs/face/2a0b0865dcf515e5de88d4c6f137248cc4ff2f41.jpg",
+    "group_name": ""
+  },
   "22207703": {
     "name": "棠汐霖",
     "type": "vtuber",
@@ -33667,6 +33674,13 @@
     "type": "vtuber",
     "room": 23099155,
     "face": "/bfs/face/00676fd6bed67c092bc122a7ca3d4b63c2586312.jpg",
+    "group_name": ""
+  },
+  "529138708": {
+    "name": "小了个栀o",
+    "type": "vtuber",
+    "room": 1842749869,
+    "face": "/bfs/face/f46cb5ee07b91909646ab8fdadb87923c5c5f369.jpg",
     "group_name": ""
   },
   "529341976": {
@@ -62187,6 +62201,13 @@
     "face": "/bfs/face/c786747f498a8e483ce8751f6f3dcd56023407c2.jpg",
     "group_name": ""
   },
+  "3546379932665888": {
+    "name": "永夜雨眠",
+    "type": "vtuber",
+    "room": 31085441,
+    "face": "/bfs/face/4cfa0c86d549760f69f58d539cfbe9835fee91cd.jpg",
+    "group_name": ""
+  },
   "3546380113021396": {
     "name": "鹿甜甜Lorie",
     "type": "vtuber",
@@ -65288,6 +65309,13 @@
     "face": "/bfs/face/66956968311a353b2ff3bc9d3a087e0e554f29f9.jpg",
     "group_name": ""
   },
+  "3546719432215285": {
+    "name": "一颗云导",
+    "type": "vtuber",
+    "room": 1939491310,
+    "face": "/bfs/face/65e84f82245940e4bf2b2487f0ddd83d714e918a.jpg",
+    "group_name": ""
+  },
   "3546719818091441": {
     "name": "Silvervale_樱花狼灵",
     "type": "vtuber",
@@ -66317,6 +66345,13 @@
     "face": "/bfs/face/b32f1d6398539fc509bf0a04ecba4f85f935ad38.jpg",
     "group_name": ""
   },
+  "3546849235438152": {
+    "name": "七七_nana酱",
+    "type": "vtuber",
+    "room": 1754703818,
+    "face": "/bfs/face/6e0f554a34742b0f8b36df4ed3955ff9b58c7506.jpg",
+    "group_name": ""
+  },
   "3546850441300440": {
     "name": "翡柏Phober",
     "type": "vtuber",
@@ -66856,6 +66891,13 @@
     "face": "/bfs/face/0def55f1a40cad20dc37d9e6adef9801f2805a3d.jpg",
     "group_name": ""
   },
+  "3546891163798293": {
+    "name": "云知寞_Mo",
+    "type": "vtuber",
+    "room": 1814379052,
+    "face": "/bfs/face/636d768acd9d457aea858ef70706ac58835a055f.jpg",
+    "group_name": ""
+  },
   "3546891518216444": {
     "name": "羽椿野_Official",
     "type": "vtuber",
@@ -67126,7 +67168,7 @@
     "name": "月咏芽衣",
     "type": "vtuber",
     "room": 1879188818,
-    "face": "/bfs/face/14bf52fd3c6ef1bdc1995afdc3e9085024035337.jpg",
+    "face": "/bfs/face/9b9a8c4a745233fbfc2511bf3dbfaf551dc84889.jpg",
     "group_name": ""
   },
   "3546920070940837": {
