@@ -8756,6 +8756,13 @@
     "face": "/bfs/face/e5f66fbf26a20cb525e0e46fdbb18f7428674dfe.jpg",
     "group_name": ""
   },
+  "6161608": {
+    "name": "苓茸小师妹",
+    "type": "vtuber",
+    "room": 1791358535,
+    "face": "/bfs/face/f9e5c4e020aaf04f672eec6927818de2e5d4cb2e.jpg",
+    "group_name": ""
+  },
   "6168451": {
     "name": "モモMomO_dESu",
     "type": "vtuber",
@@ -8789,6 +8796,13 @@
     "type": "vtuber",
     "room": 25066257,
     "face": "/bfs/face/3f79fe821e4ea67b80d495c0d2a6c3613735edf5.jpg",
+    "group_name": ""
+  },
+  "6197764": {
+    "name": "卯野琪琪",
+    "type": "vtuber",
+    "room": 240830,
+    "face": "/bfs/face/4df58c94d7a3848432f924f9c796071b7289d7ac.jpg",
     "group_name": ""
   },
   "6223905": {
@@ -15648,7 +15662,7 @@
     "name": "妩九Melantha",
     "type": "vtuber",
     "room": 7638830,
-    "face": "/bfs/face/d89d6c091d827f823e967df1cd7a0bc3b07dff71.jpg",
+    "face": "/bfs/face/8ca19ade8d1dfd56419694dd6d750d71b8ba3015.jpg",
     "group_name": ""
   },
   "23276233": {
@@ -15837,7 +15851,7 @@
     "name": "款款早点睡",
     "type": "vtuber",
     "room": 1892450648,
-    "face": "/bfs/face/f6dfcf18768d4c2bf5a7c764ec922d9c26d21270.jpg",
+    "face": "/bfs/face/99a479f089023369722800cf110bc58a2d777305.jpg",
     "group_name": ""
   },
   "24114220": {
@@ -20502,6 +20516,13 @@
     "face": "/bfs/face/37beabce6b2a3e84d86382dd27075e26fada21b7.jpg",
     "group_name": ""
   },
+  "100488773": {
+    "name": "涂山婉婉OvO",
+    "type": "vtuber",
+    "room": 4008543,
+    "face": "/bfs/face/6ec182c6cb410558ca6c7d2e1ab014b8b48a5368.jpg",
+    "group_name": ""
+  },
   "100586286": {
     "name": "天海今天又懈怠了吗",
     "type": "vtuber",
@@ -24056,6 +24077,13 @@
     "type": "vtuber",
     "room": 21114482,
     "face": "/bfs/face/eef0ca31f98c0bde541c3575c156cea93c96fe1e.jpg",
+    "group_name": ""
+  },
+  "319509473": {
+    "name": "一只仙咕",
+    "type": "vtuber",
+    "room": 31604160,
+    "face": "/bfs/face/1e973350125b1c2d855cb63cafa448de0bfff8c1.jpg",
     "group_name": ""
   },
   "319620913": {
@@ -32388,6 +32416,13 @@
     "face": "/bfs/face/2106362732ff9d0a43255861b8042ce0e444098f.jpg",
     "group_name": "chaoslive"
   },
+  "502940943": {
+    "name": "晚音依旧有点饿",
+    "type": "vtuber",
+    "room": 1779342137,
+    "face": "/bfs/face/7e7f29bf21e203a805d3ea72c7b09e0d1f503470.jpg",
+    "group_name": ""
+  },
   "503026492": {
     "name": "七个喵Nana",
     "type": "vtuber",
@@ -36655,7 +36690,7 @@
     "name": "黎歌Neeko",
     "type": "vtuber",
     "room": 22571722,
-    "face": "/bfs/face/755ae8d1a018f4990959d35eabd0e261c2bbd902.jpg",
+    "face": "/bfs/garb/d515dae16548221240649035be81452f50ebdab2.png",
     "group_name": "虚研社"
   },
   "671675297": {
@@ -39126,7 +39161,7 @@
     "name": "薇Steria",
     "type": "vtuber",
     "room": 22924075,
-    "face": "/bfs/face/374cc2e19294c8faf0f3187671abda7570eb1a69.jpg",
+    "face": "/bfs/face/83f6478936993ad7d1f54cf8a3193b05893bfb5d.jpg",
     "group_name": "Croven教团"
   },
   "1113108521": {
@@ -50483,6 +50518,13 @@
     "face": "/bfs/face/da3d5997e5422daafc0f15dfd929693ca0cdd6e2.jpg",
     "group_name": ""
   },
+  "2145845248": {
+    "name": "岁欢Rime",
+    "type": "vtuber",
+    "room": 1868879229,
+    "face": "/bfs/face/8205f2c45b38e0fe5c77f01cd3d6f94e13f7ebca.jpg",
+    "group_name": ""
+  },
   "2146103492": {
     "name": "雪豹Leo_official",
     "type": "vtuber",
@@ -53707,7 +53749,7 @@
     "name": "凉笙不打嗝",
     "type": "vtuber",
     "room": 27019458,
-    "face": "/bfs/face/369c5e23186743e86360b588a8218965b06cd006.jpg",
+    "face": "/bfs/face/2c7f80c8460b417d8dd13a2cb263bbb52ef09b67.jpg",
     "group_name": ""
   },
   "3493130819078327": {
@@ -64799,10 +64841,10 @@
     "group_name": ""
   },
   "3546681735907777": {
-    "name": "兜里木有糖-12号周年",
+    "name": "兜里木有糖Candy",
     "type": "vtuber",
     "room": 32745100,
-    "face": "/bfs/face/be8d1305f02ac9141255bbdef25f6823dab42882.jpg",
+    "face": "/bfs/face/9f2c2547df33cf9872f03429b7ffe6ade109173c.jpg",
     "group_name": ""
   },
   "3546683384269650": {
@@ -66874,7 +66916,7 @@
     "name": "喜多川凛音-唱见连",
     "type": "vtuber",
     "room": 1981536632,
-    "face": "/bfs/face/3dc8116a8c4916454b853f1804cc63389ee83a59.jpg",
+    "face": "/bfs/face/06a24cf41107235cff3cff141d871717589d59ef.jpg",
     "group_name": ""
   },
   "3546889192474904": {
@@ -67134,6 +67176,13 @@
     "type": "vtuber",
     "room": 1852878215,
     "face": "/bfs/face/e4e57f612272640dacd7755fd758857d7193af42.jpg",
+    "group_name": ""
+  },
+  "3546912969984921": {
+    "name": "苏卡笨蛋_Official",
+    "type": "vtuber",
+    "room": 1709468396,
+    "face": "/bfs/face/e0c6bb5c4cc4265a1f563e11560d7d7cc0debfd4.jpg",
     "group_name": ""
   },
   "3546913135659783": {
