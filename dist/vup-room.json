@@ -17702,6 +17702,13 @@
     "face": "/bfs/face/a06073ea409bc91403c20646b199ea6941188d2c.jpg",
     "group_name": ""
   },
+  "36278791": {
+    "name": "旺旺小力宝",
+    "type": "vtuber",
+    "room_id": 1190556,
+    "face": "/bfs/face/2b5652c6fd6a3504d8d075325f39b7f5daae0127.jpg",
+    "group_name": ""
+  },
   "36317391": {
     "name": "艾斯_Vcitizen",
     "type": "vtuber",
@@ -59021,6 +59028,13 @@
     "type": "vtuber",
     "room_id": 27937757,
     "face": "/bfs/face/4ee91621b6d9aeb86833eb4f8564098537a2a756.jpg",
+    "group_name": ""
+  },
+  "3494354360470240": {
+    "name": "眠崽龟龟",
+    "type": "vtuber",
+    "room_id": 1949985834,
+    "face": "/bfs/face/364b47561a5a5a0c92fdd56d357df3142c52caac.jpg",
     "group_name": ""
   },
   "3494354381441519": {
