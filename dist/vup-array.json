@@ -57521,7 +57521,7 @@
   },
   {
     "uid": 2129498611,
-    "name": "星奈今天吃电弧星",
+    "name": "星奈糖尿病导致我蛀牙",
     "type": "vtuber",
     "room": 26155833,
     "face": "/bfs/face/9100f408b2ad2c5f6141d072ab8e36ac8e88b456.jpg",
@@ -73461,6 +73461,14 @@
     "type": "vtuber",
     "room": 32098296,
     "face": "/bfs/face/3371fabf9ff50a328533aacdc4e805b6f4c1740c.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546635420305699,
+    "name": "时小希niania",
+    "type": "vtuber",
+    "room": 32090112,
+    "face": "/bfs/face/e92197fc92006e21957f836704e6ef99462d5e85.jpg",
     "group_name": ""
   },
   {
