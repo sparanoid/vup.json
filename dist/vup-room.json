@@ -18231,7 +18231,7 @@
     "name": "九九宝贝ovo",
     "type": "vtuber",
     "room_id": 25081353,
-    "face": "/bfs/face/cdaef0d1ff2be66e3452e846b8e387fb7684bc02.webp",
+    "face": "/bfs/face/315d7b63403e5674296c3961b4bdac807a744be5.webp",
     "group_name": ""
   },
   "40836269": {
@@ -65650,6 +65650,13 @@
     "type": "vtuber",
     "room_id": 1930273958,
     "face": "/bfs/face/11de8395ad88359199ff59bedeca32fd227c88d7.jpg",
+    "group_name": ""
+  },
+  "3546747018152539": {
+    "name": "小Bee登xbeed",
+    "type": "vtuber",
+    "room_id": 1732306411,
+    "face": "/bfs/face/ebcb887f467630a6b9c0392179ef4b96470ca017.jpg",
     "group_name": ""
   },
   "3546747513079908": {
