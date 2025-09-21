@@ -38772,15 +38772,6 @@
     "group_name": "猫邮社"
   },
   {
-    "uid": 471542440,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 22565921,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
-  {
     "uid": 471678922,
     "name": "空调KuuJo-灯代Tomoyo",
     "type": "vtuber",
@@ -54645,15 +54636,6 @@
     "room": 25751812,
     "face": "/bfs/face/64d9bc3cce79b71cdadc1cb74a2511b77dab6efd.jpg",
     "sign": "个人势V，默默无闻的小小偶像！爱唱歌爱跳舞更爱wan游戏，想要遇见超多有趣的人，请多指教。",
-    "group_name": ""
-  },
-  {
-    "uid": 1419041175,
-    "name": "默姆斯-Channel",
-    "type": "vtuber",
-    "room": 25242627,
-    "face": "/bfs/face/82fecec794cc1ae5597b474f5a2ccc386e18010c.jpg",
-    "sign": "",
     "group_name": ""
   },
   {
@@ -84100,7 +84082,7 @@
     "name": "万能小兔旅店",
     "type": "vtuber",
     "room": 1883353860,
-    "face": "/bfs/face/f9e5d64e377cf80697d16d403cdd4238cc4fba00.jpg",
+    "face": "/bfs/face/16e2dffe8986912b824d22cb6a270a7fd2ce4452.jpg",
     "sign": "仿生小兔会梦见电子胡萝卜吗?\n企鹅粉裙:676954780",
     "group_name": ""
   },
