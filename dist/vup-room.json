@@ -30449,6 +30449,13 @@
     "face": "/bfs/face/cdc070b6eee986ac1869e5b99e5e5d34a193e293.jpg",
     "group_name": "Vi-D"
   },
+  "475118489": {
+    "name": "芝恩㱏",
+    "type": "vtuber",
+    "room_id": 21752762,
+    "face": "/bfs/face/18d1d0256be32cba9262662f63de74046a618c14.jpg",
+    "group_name": ""
+  },
   "475348474": {
     "name": "香芋黑巧费南雪",
     "type": "vtuber",
@@ -60381,6 +60388,13 @@
     "face": "/bfs/face/eeb87da0f7d34648a44b6d69ca4531e1954b9bcc.jpg",
     "group_name": ""
   },
+  "3494370110081306": {
+    "name": "晴烛Official",
+    "type": "vtuber",
+    "room_id": 1849302131,
+    "face": "/bfs/face/fbccc0c3837cd6fbe2526b5379872e3c5c68a0e4.jpg",
+    "group_name": ""
+  },
   "3494370126858719": {
     "name": "奈留-NARU",
     "type": "vtuber",
@@ -66359,6 +66373,13 @@
     "face": "/bfs/face/5169a169b748f3eec9c497aabb94e7f8c9ed9508.jpg",
     "group_name": ""
   },
+  "3546838244263993": {
+    "name": "苏棠shine",
+    "type": "vtuber",
+    "room_id": 1882950759,
+    "face": "/bfs/face/d8888e952a99bf2cfeecbc7c64c63a53791a1e13.jpg",
+    "group_name": ""
+  },
   "3546838751775383": {
     "name": "优妮-Uni_Kokoro",
     "type": "vtuber",
@@ -67127,6 +67148,13 @@
     "type": "vtuber",
     "room_id": 1788060261,
     "face": "/bfs/face/341fd72843218e3282326eeac8b36c041c2ca39d.jpg",
+    "group_name": ""
+  },
+  "3546906361858572": {
+    "name": "YM_057",
+    "type": "vtuber",
+    "room_id": 1777487893,
+    "face": "/bfs/face/c1b9285e0bbedf5afb3c1edf9c1966a79594e90f.jpg",
     "group_name": ""
   },
   "3546906485590570": {
