@@ -4509,7 +4509,7 @@
   },
   {
     "uid": 1834047,
-    "name": "桃栀peachi",
+    "name": "桃栀peachi-半年咯",
     "type": "vtuber",
     "room": 12004039,
     "group_name": ""
@@ -67429,6 +67429,13 @@
     "type": "vtuber",
     "room": 1842744240,
     "group_name": "HOLOSTARS_EN"
+  },
+  {
+    "uid": 3546961967843490,
+    "name": "菲比Pheebie",
+    "type": "vtuber",
+    "room": 1842745735,
+    "group_name": ""
   },
   {
     "uid": 3546966682241148,

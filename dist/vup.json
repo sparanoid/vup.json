@@ -4508,10 +4508,10 @@
     "group_name": ""
   },
   "1834047": {
-    "name": "桃栀peachi",
+    "name": "桃栀peachi-半年咯",
     "type": "vtuber",
     "room": 12004039,
-    "face": "/bfs/face/8d0e35d5150d7e92b903aec4d62b4afde904c24b.jpg",
+    "face": "/bfs/face/dfc4c8366b8441737a9aad40bb054f515f9bf9e5.jpg",
     "group_name": ""
   },
   "1834070": {
@@ -67429,6 +67429,13 @@
     "room": 1842744240,
     "face": "/bfs/face/2ebd76ef9c4356bfda85fc8868a4abe516018286.jpg",
     "group_name": "HOLOSTARS_EN"
+  },
+  "3546961967843490": {
+    "name": "菲比Pheebie",
+    "type": "vtuber",
+    "room": 1842745735,
+    "face": "/bfs/face/fec0b9bc2b70020fb209ca9da5e2431a0ba71319.jpg",
+    "group_name": ""
   },
   "3546966682241148": {
     "name": "月初Lunnas",
