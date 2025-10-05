@@ -20230,6 +20230,13 @@
     "group_name": ""
   },
   {
+    "uid": 90424564,
+    "name": "弥生Miku",
+    "type": "vtuber",
+    "room": 32706521,
+    "group_name": ""
+  },
+  {
     "uid": 90820845,
     "name": "染崎绿Official",
     "type": "vtuber",
@@ -50995,6 +51002,13 @@
     "group_name": ""
   },
   {
+    "uid": 3461574394120551,
+    "name": "霂淞Musoon",
+    "type": "vtuber",
+    "room": 31876641,
+    "group_name": ""
+  },
+  {
     "uid": 3461574394120768,
     "name": "铃音宁宁",
     "type": "vtuber",
@@ -66536,7 +66550,7 @@
   },
   {
     "uid": 3546857057815069,
-    "name": "五玥Kitty",
+    "name": "五玥Kitty_千古江轩冠",
     "type": "vtuber",
     "room": 1737902334,
     "group_name": ""

@@ -20229,6 +20229,13 @@
     "face": "/bfs/face/88141a19fe5e0f5435e0497ded42f6b890f72707.jpg",
     "group_name": ""
   },
+  "90424564": {
+    "name": "弥生Miku",
+    "type": "vtuber",
+    "room": 32706521,
+    "face": "/bfs/face/6459de59502b0742cdf0c52b4a39337abd6364a4.jpg",
+    "group_name": ""
+  },
   "90820845": {
     "name": "染崎绿Official",
     "type": "vtuber",
@@ -50994,6 +51001,13 @@
     "face": "/bfs/face/b64779b931f47d9de32db79f8e14aa4582bd250d.jpg",
     "group_name": ""
   },
+  "3461574394120551": {
+    "name": "霂淞Musoon",
+    "type": "vtuber",
+    "room": 31876641,
+    "face": "/bfs/face/4bc608112c3d38204c7273a617b2b39f94274d4b.jpg",
+    "group_name": ""
+  },
   "3461574394120768": {
     "name": "铃音宁宁",
     "type": "vtuber",
@@ -66535,7 +66549,7 @@
     "group_name": ""
   },
   "3546857057815069": {
-    "name": "五玥Kitty",
+    "name": "五玥Kitty_千古江轩冠",
     "type": "vtuber",
     "room": 1737902334,
     "face": "/bfs/face/cc813828236d493a58c900fbd28cf855e9e53ba8.jpg",
