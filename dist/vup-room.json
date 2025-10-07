@@ -19172,6 +19172,13 @@
     "face": "/bfs/face/74412819b86ca983dddd5af2026a0553ab0602ab.jpg",
     "group_name": ""
   },
+  "65568410": {
+    "name": "小红泡-管珩心",
+    "type": "vtuber",
+    "room_id": 2516117,
+    "face": "/bfs/face/9bf7f1a4564be37a07c92eaf3089f7cb11098697.jpg",
+    "group_name": ""
+  },
   "65714241": {
     "name": "月见口",
     "type": "vtuber",
@@ -31065,6 +31072,13 @@
     "face": "/bfs/face/a5a407d9202dcfdef6a154ac69e028c98b936c4b.jpg",
     "group_name": "ViViD"
   },
+  "487624577": {
+    "name": "柿青依",
+    "type": "vtuber",
+    "room_id": 32539594,
+    "face": "/bfs/face/e3770ee7cccb5fe47dcf142c8e2bd42ae82a5e05.jpg",
+    "group_name": ""
+  },
   "487744559": {
     "name": "大花猫喵喵鱼柚子冠",
     "type": "vtuber",
@@ -35612,7 +35626,7 @@
     "name": "半口菠萝包",
     "type": "vtuber",
     "room_id": 1947332431,
-    "face": "/bfs/face/144242b9959f79c5fca9aa56b9ab3ff9c277b776.jpg",
+    "face": "/bfs/face/57060819df2b65e9a058cf013cac0380d7fe82f6.jpg",
     "group_name": ""
   },
   "646432928": {
@@ -64743,7 +64757,7 @@
     "group_name": ""
   },
   "3546792912226872": {
-    "name": "豆飒咯_Lisa_生病版",
+    "name": "豆飒咯_Lisa",
     "type": "vtuber",
     "room_id": 1992278185,
     "face": "/bfs/face/a0677087aa732a8cbf20dc11aacff1ac5b06ec2e.jpg",
@@ -66058,6 +66072,13 @@
     "face": "/bfs/face/c469c5f6e8b28f390d3eafee6386fade894e1124.jpg",
     "group_name": ""
   },
+  "3546939402488728": {
+    "name": "小爱酱oi冲舰版",
+    "type": "vtuber",
+    "room_id": 1872978620,
+    "face": "/bfs/face/d722ef4e05ee84a7218682302bd76c91e885f834.jpg",
+    "group_name": ""
+  },
   "3546939457014734": {
     "name": "季枝-Yami",
     "type": "vtuber",
@@ -66113,6 +66134,13 @@
     "room_id": 1842744240,
     "face": "/bfs/face/2ebd76ef9c4356bfda85fc8868a4abe516018286.jpg",
     "group_name": "HOLOSTARS_EN"
+  },
+  "3546958432045179": {
+    "name": "清晏x白澈-皎月冠",
+    "type": "vtuber",
+    "room_id": 1993208358,
+    "face": "/bfs/face/f2ca74a1141bd79bca3f7477f17934a20147d6a4.jpg",
+    "group_name": ""
   },
   "3546961967843490": {
     "name": "菲比Pheebie",
