@@ -2372,13 +2372,6 @@
     "face": "/bfs/face/5fa54eeca31c77bfa6d8cde56a96a9cce6084157.jpg",
     "group_name": ""
   },
-  "611813": {
-    "name": "林岳风",
-    "type": "vtuber",
-    "room": 302138,
-    "face": "/bfs/face/948f03796d46a4e17fe8b4bcfd7fdb7f0003460a.jpg",
-    "group_name": "EroS"
-  },
   "612271": {
     "name": "艾什Channel",
     "type": "vtuber",
@@ -2468,13 +2461,6 @@
     "type": "vtuber",
     "room": 1944820,
     "face": "/bfs/face/c7c1c87904d7517d8aeda914bc40bd6a3559f2c2.jpg",
-    "group_name": ""
-  },
-  "633392": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 978601,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "637600": {
@@ -4437,13 +4423,6 @@
     "face": "/bfs/face/fa420759cd66c922bf16a668ab72d0073e679eab.jpg",
     "group_name": ""
   },
-  "1803236": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 681554,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "1809637": {
     "name": "小熊猫家的电视机",
     "type": "vtuber",
@@ -4897,13 +4876,6 @@
     "type": "vtuber",
     "room": 56237,
     "face": "/bfs/face/ea24f41c29b3f9bd535e1c264f76397715cbf7a7.jpg",
-    "group_name": ""
-  },
-  "2102318": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 38860,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "2109776": {
@@ -7881,13 +7853,6 @@
     "face": "/bfs/face/b01030b75b5b75538ba7d29ed80564daf3bc2242.jpg",
     "group_name": "Palette"
   },
-  "4929408": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 954810,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "4932862": {
     "name": "卡塔琳娜-迈耶_Official",
     "type": "vtuber",
@@ -8532,13 +8497,6 @@
     "face": "/bfs/face/f3777bde5923b51288df50b58c03e4efb57ba023.jpg",
     "group_name": ""
   },
-  "5772351": {
-    "name": "爱吃肉的云宝",
-    "type": "vtuber",
-    "room": 21945,
-    "face": "/bfs/face/ecdb8c4cbadac810197822ae7e977de094e3840c.jpg",
-    "group_name": ""
-  },
   "5778298": {
     "name": "大的蒙牛",
     "type": "vtuber",
@@ -8777,13 +8735,6 @@
     "face": "/bfs/face/d655c1a2496b99a30755cf479805d9ec558d38aa.jpg",
     "group_name": ""
   },
-  "6272188": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27128877,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "6276160": {
     "name": "阎可惜_channel",
     "type": "vtuber",
@@ -8825,13 +8776,6 @@
     "room": 236999,
     "face": "/bfs/face/3a39b567f8f3cfc79fb63404f47aef359dced965.jpg",
     "group_name": ""
-  },
-  "6415072": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 43241,
-    "face": "/images/member/noface.gif",
-    "group_name": "玹云社"
   },
   "6418902": {
     "name": "二雲信",
@@ -9987,13 +9931,6 @@
     "room": 6248308,
     "face": "/bfs/face/92d7de150a6b7e36d4885d798954ba95eb471808.jpg",
     "group_name": ""
-  },
-  "8147802": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 22395582,
-    "face": "/images/member/noface.gif",
-    "group_name": "Tourist-V"
   },
   "8155464": {
     "name": "捌川-Yakawa",
@@ -11239,13 +11176,6 @@
     "type": "vtuber",
     "room": 519508,
     "face": "/bfs/face/f5dd83e761b3b0b7467ff36fc84a3e5ad17457e1.jpg",
-    "group_name": ""
-  },
-  "10321614": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 1246057,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "10351999": {
@@ -12606,13 +12536,6 @@
     "face": "/bfs/face/4814973f66304757ad82b3c6d9d595a03a66f87d.jpg",
     "group_name": ""
   },
-  "13174191": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 8215484,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "13178002": {
     "name": "今天啵啵上课了嘛",
     "type": "vtuber",
@@ -12674,13 +12597,6 @@
     "type": "vtuber",
     "room": 9220059,
     "face": "/bfs/face/950a08964e43f715a38aba24ef5c839060e39c1c.jpg",
-    "group_name": ""
-  },
-  "13288919": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 235648,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "13294045": {
@@ -12766,13 +12682,6 @@
     "room": 1106283,
     "face": "/bfs/face/245a27344de05e6e72cec547826467e897a8cb9c.jpg",
     "group_name": ""
-  },
-  "13479495": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21568673,
-    "face": "/images/member/noface.gif",
-    "group_name": "VGaming"
   },
   "13491492": {
     "name": "阿尔忒弥斯Artemisya",
@@ -13488,13 +13397,6 @@
     "face": "/bfs/face/234eebe1bf6a01d13c8b488e4504e950276ad414.jpg",
     "group_name": ""
   },
-  "15184909": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 8223580,
-    "face": "/images/member/noface.gif",
-    "group_name": "鸽鹉live"
-  },
   "15191730": {
     "name": "凡绘",
     "type": "vtuber",
@@ -13934,13 +13836,6 @@
     "type": "vtuber",
     "room": 23049580,
     "face": "/bfs/face/05ec1925591677a56281d202f57712fc69a7d7a3.jpg",
-    "group_name": ""
-  },
-  "17215345": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 2839822,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "17276131": {
@@ -16090,13 +15985,6 @@
     "type": "vtuber",
     "room": 26929025,
     "face": "/bfs/face/24e30d21846b557de7176006bcc815ab93711f2a.jpg",
-    "group_name": ""
-  },
-  "25541767": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 4873849,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "25593671": {
@@ -18871,13 +18759,6 @@
     "face": "/bfs/face/f0ec79f5e894443d9ef1e8fd58d4cf1a86893b03.jpg",
     "group_name": ""
   },
-  "52124491": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21499382,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "52355700": {
     "name": "星启Venus",
     "type": "vtuber",
@@ -21181,13 +21062,6 @@
     "face": "/bfs/face/e6f17cbae1a0ac3ada1c97c9648a6a3b6f88ff01.jpg",
     "group_name": ""
   },
-  "152257800": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 5751900,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "152300383": {
     "name": "花涟清衣",
     "type": "vtuber",
@@ -21452,13 +21326,6 @@
     "type": "vtuber",
     "room": 8054378,
     "face": "/bfs/face/1e04def502eacd8a174e1898ef19ffa01f8928a8.jpg",
-    "group_name": ""
-  },
-  "169528817": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 22894286,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "169710597": {
@@ -23036,13 +22903,6 @@
     "face": "/bfs/face/3b7900cf09f4a64764b3eecc7b6e666f4d0a5bdc.jpg",
     "group_name": ""
   },
-  "281045826": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30859399,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "281317344": {
     "name": "涼宮琉璃owo",
     "type": "vtuber",
@@ -24268,13 +24128,6 @@
     "face": "/bfs/face/0a902434cd5fc714849839d38e3ce5461592a061.jpg",
     "group_name": "雪风军团"
   },
-  "328576435": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 11493013,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "329234122": {
     "name": "悲伤路灯111",
     "type": "vtuber",
@@ -24623,13 +24476,6 @@
     "type": "vtuber",
     "room": 13827947,
     "face": "/bfs/face/7103c82d8a538ff21ff5aeccff365a66372c737a.jpg",
-    "group_name": ""
-  },
-  "347791308": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 12057864,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "348391115": {
@@ -25078,13 +24924,6 @@
     "type": "vtuber",
     "room": 13188494,
     "face": "/bfs/face/75cfda77315097dd8c8c2cce0467f92e17cfa996.jpg",
-    "group_name": ""
-  },
-  "357672624": {
-    "name": "迟祭_",
-    "type": "vtuber",
-    "room": 22933069,
-    "face": "/bfs/face/3519370338cb75e0b7a492aed2eafbd2a79a1a52.jpg",
     "group_name": ""
   },
   "357892988": {
@@ -27164,7 +27003,7 @@
     "type": "vtuber",
     "room": 27266811,
     "face": "/bfs/face/3882be4af8f6e93e49f06aebbf685702a3744112.jpg",
-    "group_name": "Para-dice"
+    "group_name": ""
   },
   "402176802": {
     "name": "高峰伊织字幕搬运",
@@ -27355,13 +27194,6 @@
     "face": "/bfs/face/14c35476a24c6492b6dcfdf6c266952a8c353f15.jpg",
     "group_name": ""
   },
-  "405037911": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21316325,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "405047988": {
     "name": "还是眠眠",
     "type": "vtuber",
@@ -27493,13 +27325,6 @@
     "type": "vtuber",
     "room": 31458782,
     "face": "/bfs/face/d3f6b3e7918f2f3f3f8024d57018d11dcdba3503.jpg",
-    "group_name": ""
-  },
-  "407806618": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21369874,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "407979432": {
@@ -27950,13 +27775,6 @@
     "face": "/bfs/face/6000caeb541d3c9775b3a76efc6866b45c398fd0.jpg",
     "group_name": ""
   },
-  "416030145": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 24970387,
-    "face": "/images/member/noface.gif",
-    "group_name": "新月社FCrescent"
-  },
   "416203727": {
     "name": "铃果Official",
     "type": "vtuber",
@@ -28221,13 +28039,6 @@
     "type": "vtuber",
     "room": 21618129,
     "face": "/bfs/face/d9bc48caad8ad9476c8be396df566e767b7e99fd.jpg",
-    "group_name": ""
-  },
-  "427171855": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 22106454,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "427469551": {
@@ -28615,13 +28426,6 @@
     "face": "/bfs/face/f07314010c5cda3921d98100c86d939ee00bf13a.jpg",
     "group_name": ""
   },
-  "433190251": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "433195802": {
     "name": "文月卯月Official",
     "type": "vtuber",
@@ -29000,13 +28804,6 @@
     "face": "/bfs/face/d20399ee30e09d11e94ffee4c361fbda1067634b.jpg",
     "group_name": ""
   },
-  "438645431": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25738018,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "438756539": {
     "name": "埋宝宝OwO",
     "type": "vtuber",
@@ -29054,13 +28851,6 @@
     "type": "vtuber",
     "room": 1820703120,
     "face": "/bfs/face/973ebfc1d5a916d5b2d27f73b3befc1d20072b7e.jpg",
-    "group_name": ""
-  },
-  "439305106": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26511355,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "439433963": {
@@ -29285,13 +29075,6 @@
     "type": "vtuber",
     "room": 22543189,
     "face": "/bfs/face/99f435809a79a3ff23741780d9bf95f561d88c18.jpg",
-    "group_name": ""
-  },
-  "442227521": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21507240,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "442318785": {
@@ -30314,13 +30097,6 @@
     "type": "vtuber",
     "room": 21853611,
     "face": "/bfs/face/e3809c42555dd035795a5c7c0e40ee0b4879fc9a.jpg",
-    "group_name": ""
-  },
-  "475366508": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 22379830,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "475470388": {
@@ -31821,13 +31597,6 @@
     "face": "/bfs/face/e6d8f86fa11d466020f323533777c590a4a2031a.jpg",
     "group_name": ""
   },
-  "493885362": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 23195139,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "493990893": {
     "name": "姜洛_Official",
     "type": "vtuber",
@@ -32346,13 +32115,6 @@
     "face": "/bfs/face/65f566d05ca9f40902068ed32fc224682af5759e.jpg",
     "group_name": ""
   },
-  "503827759": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21819117,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "504062903": {
     "name": "尤菲黎娅_Eupheria",
     "type": "vtuber",
@@ -32477,13 +32239,6 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/member/noface.jpg",
-    "group_name": ""
-  },
-  "506287000": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30194158,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "506316177": {
@@ -32668,13 +32423,6 @@
     "face": "/bfs/face/8c79a5b510fbf42ee1b2aa3112d9a2e0998db647.jpg",
     "group_name": ""
   },
-  "511311496": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26554468,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "511313707": {
     "name": "软软云cloud",
     "type": "vtuber",
@@ -32857,13 +32605,6 @@
     "face": "/bfs/face/d7c07f033136e4333f3f68e28f746edba7f70151.jpg",
     "group_name": ""
   },
-  "515200194": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "515269199": {
     "name": "ばぶかす",
     "type": "vtuber",
@@ -32940,13 +32681,6 @@
     "room": 22382380,
     "face": "/bfs/face/c218eface6d7b77256a68dffd31be131383ff78c.jpg",
     "group_name": ""
-  },
-  "516641409": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 22016027,
-    "face": "/images/member/noface.gif",
-    "group_name": "风云社"
   },
   "516678537": {
     "name": "C叔小酒馆",
@@ -33282,13 +33016,6 @@
     "type": "vtuber",
     "room": 30264274,
     "face": "/bfs/face/1abdfd3b3d2c5a0f11ffe4c23d504b59a2f9d9fd.jpg",
-    "group_name": ""
-  },
-  "523829132": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30690347,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "523866328": {
@@ -35181,13 +34908,6 @@
     "face": "/bfs/face/6666bc5fdf62e39cb4f11513548c96bf17a05938.jpg",
     "group_name": ""
   },
-  "620090041": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25234659,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "620499305": {
     "name": "决明Cassiae",
     "type": "vtuber",
@@ -35320,13 +35040,6 @@
     "room": 22349506,
     "face": "/bfs/face/e6aae15c9ee0f44efe3d44e1295a32a9904fa3ed.jpg",
     "group_name": "Hololive"
-  },
-  "624408688": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
   },
   "625133608": {
     "name": "朝雾优乃_Yuno",
@@ -35657,13 +35370,6 @@
     "face": "/bfs/face/79aba9fe31d4cc9a8538502f2fe7528149728e33.jpg",
     "group_name": "云光计划"
   },
-  "629880159": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 24459357,
-    "face": "/images/member/noface.gif",
-    "group_name": "VOISLIVE"
-  },
   "630000721": {
     "name": "深水怠Darara",
     "type": "vtuber",
@@ -35774,13 +35480,6 @@
     "type": "group",
     "room": 0,
     "face": "/bfs/face/bfa0588a47e2b27c8e8c9a610182c18dbb672ad2.jpg",
-    "group_name": ""
-  },
-  "635124169": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25390286,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "636452182": {
@@ -37484,13 +37183,6 @@
     "face": "/bfs/face/c6a85442ef8231f1a54e0e8fb913e12426b20079.jpg",
     "group_name": ""
   },
-  "697318869": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 22611454,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "697456406": {
     "name": "金切遊楽Channel",
     "type": "vtuber",
@@ -38035,13 +37727,6 @@
     "type": "vtuber",
     "room": 26011695,
     "face": "/bfs/face/230fc1703911dbeb515cae4c3ca535a616059a45.jpg",
-    "group_name": ""
-  },
-  "1025122327": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27545753,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1025395079": {
@@ -39148,7 +38833,7 @@
     "type": "vtuber",
     "room": 26013717,
     "face": "/bfs/face/fc83806bb849948e71df8aa85cd35a085fa564a5.jpg",
-    "group_name": "Zephyr-风泠社"
+    "group_name": ""
   },
   "1129115529": {
     "name": "四禧丸子_Official",
@@ -39268,13 +38953,6 @@
     "room": 24526228,
     "face": "/bfs/face/9d9a0068f02257be4838be6585e39faa518f3a25.jpg",
     "group_name": ""
-  },
-  "1142597056": {
-    "name": "冬眠zZ",
-    "type": "vtuber",
-    "room": 25524210,
-    "face": "/bfs/face/f1a8f9038a032152154b61b30d09bc7586162f3c.jpg",
-    "group_name": "Zephyr-风泠社"
   },
   "1142872377": {
     "name": "叶叶いえ",
@@ -39633,13 +39311,6 @@
     "face": "/bfs/face/d14860bd31f3995300e638b074e631c4e007e355.jpg",
     "group_name": ""
   },
-  "1179831688": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26280408,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "1180223498": {
     "name": "dot女子-MOKA版",
     "type": "vtuber",
@@ -39667,13 +39338,6 @@
     "room": 23356295,
     "face": "/bfs/face/01667ee7699a3a0f6e2280dcd8ecbbeca227692f.jpg",
     "group_name": "Facemoe官方"
-  },
-  "1181239811": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 23951113,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
   },
   "1181247064": {
     "name": "森川雪yuki",
@@ -39841,13 +39505,6 @@
     "type": "vtuber",
     "room": 23498108,
     "face": "/bfs/face/6df7a0faa98f4d3b8674bf3ae962653feea194e1.jpg",
-    "group_name": ""
-  },
-  "1198305342": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26760738,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1199424704": {
@@ -40198,13 +39855,6 @@
     "type": "vtuber",
     "room": 26045504,
     "face": "/bfs/face/0925915e1a8cd22d53c994a05ce80af6d3221baf.jpg",
-    "group_name": ""
-  },
-  "1224031198": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26159551,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1224950348": {
@@ -41110,13 +40760,6 @@
     "face": "/bfs/face/4595f224c27055f0cf74b3551a76497aa293748b.jpg",
     "group_name": ""
   },
-  "1315403374": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25758793,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "1315573139": {
     "name": "罗兹Blazing",
     "type": "vtuber",
@@ -41920,7 +41563,7 @@
     "type": "vtuber",
     "room": 25436017,
     "face": "/bfs/face/503fa54812b07d0a990724aee362ad6995a3a01e.jpg",
-    "group_name": "Zephyr-风泠社"
+    "group_name": ""
   },
   "1385310954": {
     "name": "夏夜Saya",
@@ -42208,13 +41851,6 @@
     "room": 24483963,
     "face": "/bfs/face/5c89b2e7259b062920065c85be02c411335b5a93.jpg",
     "group_name": ""
-  },
-  "1413377543": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 23477130,
-    "face": "/images/member/noface.gif",
-    "group_name": "chaoslive"
   },
   "1413880763": {
     "name": "qwinsomnia",
@@ -42832,13 +42468,6 @@
     "face": "/bfs/face/7a1fd0694defbcd03e32c66d119efc408cfcbcd7.jpg",
     "group_name": ""
   },
-  "1470014194": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25382906,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "1470303774": {
     "name": "醒醒Adalia",
     "type": "vtuber",
@@ -43420,13 +43049,6 @@
     "face": "/bfs/face/373d462015ac1e67d88131d785dcf6bbd9be14f7.jpg",
     "group_name": ""
   },
-  "1523315824": {
-    "name": "UzuMe舞紫梦",
-    "type": "vtuber",
-    "room": 24812685,
-    "face": "/bfs/face/762872ee5f53d998849dc0abe19db41b220c1ae9.jpg",
-    "group_name": "NHOTBOT"
-  },
   "1523580174": {
     "name": "赫莉Helia",
     "type": "vtuber",
@@ -43439,13 +43061,6 @@
     "type": "vtuber",
     "room": 23150969,
     "face": "/bfs/face/3eff0bbb4d0f40347f3fa5c73a3a7bf6a2e57949.jpg",
-    "group_name": ""
-  },
-  "1528165105": {
-    "name": "bilibili",
-    "type": "group",
-    "room": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1528953296": {
@@ -47585,13 +47200,6 @@
     "face": "/bfs/face/352d2a7cec7c98736579d93b019f03e57f86d420.jpg",
     "group_name": ""
   },
-  "1912608439": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30076458,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "1913458182": {
     "name": "可依koyi",
     "type": "vtuber",
@@ -49256,7 +48864,7 @@
     "type": "vtuber",
     "room": 25939984,
     "face": "/bfs/face/9639d32e48c9f5db30263149646eb3dc98d597de.jpg",
-    "group_name": "Para-dice"
+    "group_name": ""
   },
   "2072052979": {
     "name": "露馅er",
@@ -49811,13 +49419,6 @@
     "face": "/bfs/face/630735800d3b4aa942f130e0e5498ffa2945134c.jpg",
     "group_name": ""
   },
-  "2113930477": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25284780,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "2114112193": {
     "name": "ToriThaiga",
     "type": "vtuber",
@@ -50336,13 +49937,6 @@
     "face": "/bfs/face/66ccfe1775fc299d7f4709cb926fea9e7d872086.jpg",
     "group_name": ""
   },
-  "3461566691280964": {
-    "name": "bilibili",
-    "type": "group",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3461566750002008": {
     "name": "艾拉Ayla_",
     "type": "vtuber",
@@ -50474,7 +50068,7 @@
     "type": "vtuber",
     "room": 26013678,
     "face": "/bfs/face/7e67c74027a2da583d7cd31c169170faf4d4c7b8.jpg",
-    "group_name": "Zephyr-风泠社"
+    "group_name": ""
   },
   "3461570917042909": {
     "name": "巴库希娅_Bacchusia",
@@ -51862,13 +51456,6 @@
     "face": "/bfs/face/cc59a4b6c1b2f0ff173bb71cb25a1d1b3d930c01.jpg",
     "group_name": ""
   },
-  "3493093001136474": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26590221,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493093267474601": {
     "name": "瑞丝卡Risskar",
     "type": "vtuber",
@@ -53094,13 +52681,6 @@
     "face": "/bfs/face/c3a9d865554eef92b289092d3eda3e671fe9f612.jpg",
     "group_name": ""
   },
-  "3493124697491986": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26940970,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493124712172000": {
     "name": "魈格Yezpi",
     "type": "vtuber",
@@ -53169,13 +52749,6 @@
     "type": "vtuber",
     "room": 27000045,
     "face": "/bfs/face/c4e6d9134d1081fd530b7613a81ec64b07dd2546.jpg",
-    "group_name": ""
-  },
-  "3493126339561734": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26960490,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493126574443472": {
@@ -55572,13 +55145,6 @@
     "face": "/bfs/face/d3a472794143c290e3e45a8dbc4205360f1ffaba.jpg",
     "group_name": ""
   },
-  "3493268895566182": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27482502,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493269281442090": {
     "name": "孑美奈Gemini",
     "type": "vtuber",
@@ -55633,13 +55199,6 @@
     "type": "vtuber",
     "room": 27462935,
     "face": "/bfs/face/1be9f22c4b6df8e98d3098510f8f9491b2aedd82.jpg",
-    "group_name": ""
-  },
-  "3493269767981281": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27465156,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493269793146906": {
@@ -55768,13 +55327,6 @@
     "face": "/bfs/face/4d025c7c397951a3eeae0ff865c0228a977a0483.jpg",
     "group_name": ""
   },
-  "3493270715894642": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27479057,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493270808168881": {
     "name": "月妙_Channel",
     "type": "vtuber",
@@ -55901,13 +55453,6 @@
     "face": "/bfs/face/dee79a34406c885c600a32469d6dd76fb80cf56d.jpg",
     "group_name": ""
   },
-  "3493271990962184": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27495759,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493272020322550": {
     "name": "欧露露oulu",
     "type": "vtuber",
@@ -56027,13 +55572,6 @@
     "face": "/bfs/face/9cf4658d229868d32565a4bc2a30bb2e1b047364.jpg",
     "group_name": ""
   },
-  "3493273230379108": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27511699,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493273278614470": {
     "name": "啾米chuchu",
     "type": "vtuber",
@@ -56047,13 +55585,6 @@
     "room": 27513781,
     "face": "/bfs/face/c9dd8c05ece9c163fa722e58c930cdd53579bf05.jpg",
     "group_name": ""
-  },
-  "3493273488329296": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27515659,
-    "face": "/images/member/noface.gif",
-    "group_name": "C-Live_Project"
   },
   "3493273582700860": {
     "name": "娇眷子",
@@ -56123,13 +55654,6 @@
     "type": "vtuber",
     "room": 27619171,
     "face": "/bfs/face/3d3409308fd633eb8e8c661749e2739f8bd9b13c.jpg",
-    "group_name": ""
-  },
-  "3493274941655491": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27696306,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493275012959190": {
@@ -57042,13 +56566,6 @@
     "face": "/bfs/face/67f6b876a0b011802030299af4990a08f17864c1.jpg",
     "group_name": ""
   },
-  "3493286664735503": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27697151,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493286777981658": {
     "name": "鹤_z",
     "type": "vtuber",
@@ -57637,13 +57154,6 @@
     "face": "/bfs/face/ff6aed4f6cbeb4500034f25ebcef2319ac300661.jpg",
     "group_name": "ChaosLiveSprout"
   },
-  "3493293818120699": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27876715,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493293946046781": {
     "name": "请搜索转至-Ko鲤波波",
     "type": "vtuber",
@@ -57706,13 +57216,6 @@
     "room": 30037007,
     "face": "/bfs/face/5ecb21c5ec28ea9b05f99686d666c5409760350f.jpg",
     "group_name": "GravityS Project"
-  },
-  "3493294879280043": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30291104,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
   },
   "3493295181269428": {
     "name": "露元o",
@@ -57908,13 +57411,6 @@
     "type": "vtuber",
     "room": 27929497,
     "face": "/bfs/face/352ee25262c86a06dd566dc90ab5fc34e9857bf0.jpg",
-    "group_name": ""
-  },
-  "3493297609771375": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30815378,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493297639131662": {
@@ -58146,13 +57642,6 @@
     "type": "vtuber",
     "room": 27924968,
     "face": "/bfs/face/190b5d8895c2c3db77faa17cc844e1bc62565632.jpg",
-    "group_name": ""
-  },
-  "3494349782387138": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30016917,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3494349962742196": {
@@ -58468,13 +57957,6 @@
     "type": "vtuber",
     "room": 27927029,
     "face": "/bfs/face/70ec329626364d2702577e2ae7bd757471f2aaaa.jpg",
-    "group_name": ""
-  },
-  "3494353829890673": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27941084,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3494353899096424": {
@@ -58918,20 +58400,6 @@
     "face": "/bfs/face/69e418615f885190f2ee9ae44978f319aab04bfd.jpg",
     "group_name": ""
   },
-  "3494358020000719": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30017232,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  "3494358173092213": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30121763,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3494358208743715": {
     "name": "沁禾子-等奇迹版",
     "type": "vtuber",
@@ -59317,13 +58785,6 @@
     "face": "/bfs/face/4c3bdb9b4f490b9a52f1805839358c7e2b9a0211.jpg",
     "group_name": ""
   },
-  "3494363927676998": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30214877,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3494363975912241": {
     "name": "重碧Aoi",
     "type": "vtuber",
@@ -59590,13 +59051,6 @@
     "face": "/bfs/face/2e54216e65b93f49ce505404b082e1cec1469e5f.jpg",
     "group_name": ""
   },
-  "3494367180359816": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30158595,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3494367226497198": {
     "name": "阑宝睡着了_zZ",
     "type": "vtuber",
@@ -59609,13 +59063,6 @@
     "type": "vtuber",
     "room": 30299450,
     "face": "/bfs/face/73365814c8058d3f0208b1803590a7d5682b65eb.jpg",
-    "group_name": ""
-  },
-  "3494367287314494": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30173040,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3494367343937945": {
@@ -59805,13 +59252,6 @@
     "type": "vtuber",
     "room": 30176136,
     "face": "/bfs/face/b1249d85a818e7b78719e4a0045216f7bc321512.jpg",
-    "group_name": ""
-  },
-  "3494369378175905": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30176760,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3494369449478245": {
@@ -60017,13 +59457,6 @@
     "face": "/bfs/face/35636122222747bd07266a9565c13a5abbdf6906.jpg",
     "group_name": ""
   },
-  "3494371542436252": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30221050,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3494371634711289": {
     "name": "刘允贝",
     "type": "vtuber",
@@ -60108,25 +59541,11 @@
     "face": "/bfs/face/0573ecec82f7b47731a1b6cdbb05b3b04bd0d891.jpg",
     "group_name": ""
   },
-  "3494372907681811": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30280523,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3494373029316794": {
     "name": "银鸢Kin",
     "type": "vtuber",
     "room": 30803340,
     "face": "/bfs/face/b1582b7654a6c0e68159e40ffddc37718a9eb2ab.jpg",
-    "group_name": ""
-  },
-  "3494373041899723": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30447972,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3494373071259717": {
@@ -60246,13 +59665,6 @@
     "type": "vtuber",
     "room": 30542334,
     "face": "/bfs/face/a548a467cab762d7c89d7bcbbf82f73fc34f3b0c.jpg",
-    "group_name": ""
-  },
-  "3494375428459474": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30333731,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3494375615105219": {
@@ -60682,20 +60094,6 @@
     "face": "/bfs/face/830e8d8dd80ee746247dc5945c3f36af09d2b628.jpg",
     "group_name": ""
   },
-  "3537105571547289": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30958428,
-    "face": "/images/member/noface.gif",
-    "group_name": "天枢project"
-  },
-  "3537105619782227": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30518482,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3537105848371683": {
     "name": "若伊Rye",
     "type": "vtuber",
@@ -60878,13 +60276,6 @@
     "face": "/bfs/face/67f22ad69e9147e45b2e80951afea7ca0bff1832.jpg",
     "group_name": ""
   },
-  "3537110187379664": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 31116092,
-    "face": "/images/member/noface.gif",
-    "group_name": "极光社"
-  },
   "3537110539700263": {
     "name": "月下无限连珑",
     "type": "vtuber",
@@ -60911,13 +60302,6 @@
     "type": "vtuber",
     "room": 30529420,
     "face": "/bfs/face/5837c62054949e028a8b48e1b7ccf9aa77a79982.jpg",
-    "group_name": ""
-  },
-  "3537111200303638": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30469663,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3537111217080911": {
@@ -61212,13 +60596,6 @@
     "type": "vtuber",
     "room": 30572148,
     "face": "/bfs/face/2df7f4158e4d0266afd86e31bc1a01cc1e2d43b7.jpg",
-    "group_name": ""
-  },
-  "3537117839886340": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30566933,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3537117865052301": {
@@ -61646,13 +61023,6 @@
     "type": "vtuber",
     "room": 30740914,
     "face": "/bfs/face/31fc2182aab9d19fa2d26b84cc4bb8ca52587b8c.jpg",
-    "group_name": ""
-  },
-  "3546378462562572": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30746777,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546378533865483": {
@@ -62138,20 +61508,6 @@
     "face": "/bfs/face/04f3188331aabad1c3148eba99df550d08e545aa.jpg",
     "group_name": ""
   },
-  "3546389967538691": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30905083,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  "3546390428912018": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 31294657,
-    "face": "/images/member/noface.gif",
-    "group_name": "问尘仙会"
-  },
   "3546390657501325": {
     "name": "我叫森莫",
     "type": "vtuber",
@@ -62320,13 +61676,6 @@
     "face": "/bfs/face/2ba2295f52c5dae19353c28076246371acea515c.jpg",
     "group_name": ""
   },
-  "3546556361869502": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30995092,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3546556890352530": {
     "name": "白石玖歌_Official",
     "type": "vtuber",
@@ -62381,13 +61730,6 @@
     "type": "vtuber",
     "room": 31028356,
     "face": "/bfs/face/72009bf2d8f71ea0044d32673595bcdc2c78f3cc.jpg",
-    "group_name": ""
-  },
-  "3546559138499347": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 31117286,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546559320951456": {
@@ -62747,13 +62089,6 @@
     "face": "/bfs/face/56102e67ab61f97c871ee9d4808f287e37b6f808.jpg",
     "group_name": ""
   },
-  "3546576884599285": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 31309485,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3546576939125555": {
     "name": "璎洛Sama",
     "type": "vtuber",
@@ -63048,13 +62383,6 @@
     "face": "/bfs/face/1c461c5ae4bfb9465ce878483efe31cf6fee9797.jpg",
     "group_name": ""
   },
-  "3546592531450087": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 31525698,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3546593412254668": {
     "name": "眠眠-觅食中",
     "type": "vtuber",
@@ -63139,25 +62467,11 @@
     "face": "/bfs/face/863cbf77b87970835650a992eebdfa81e4a648cd.jpg",
     "group_name": ""
   },
-  "3546595956099668": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 31760412,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3546596075637434": {
     "name": "桃月小眠",
     "type": "vtuber",
     "room": 32603297,
     "face": "/bfs/face/37c297d7468980018e16abedd1389d2b5cc9940e.jpg",
-    "group_name": ""
-  },
-  "3546596495067491": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 31583959,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546596637674136": {
@@ -63354,20 +62668,6 @@
     "type": "vtuber",
     "room": 31801513,
     "face": "/bfs/face/cd728dfdef0f13cf2503c8e3a88f20111edef763.jpg",
-    "group_name": ""
-  },
-  "3546605294717122": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 31713327,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  "3546606072761021": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 32551213,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546606097927055": {
@@ -64761,13 +64061,6 @@
     "type": "vtuber",
     "room": 1854704897,
     "face": "/bfs/face/ea189685bf898853aa881ba6c23e371010c3aa51.jpg",
-    "group_name": ""
-  },
-  "3546716972256015": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 1854704205,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546717309897601": {
