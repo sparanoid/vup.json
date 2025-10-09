@@ -14193,7 +14193,7 @@
     "name": "鸢晴茸茸Chororo",
     "type": "vtuber",
     "room": 25090395,
-    "group_name": ""
+    "group_name": "猫铃社"
   },
   {
     "uid": 18362166,
@@ -46690,6 +46690,13 @@
     "group_name": "Vidol工作室"
   },
   {
+    "uid": 1860645321,
+    "name": "婉婉Neko",
+    "type": "vtuber",
+    "room": 32201309,
+    "group_name": ""
+  },
+  {
     "uid": 1861416807,
     "name": "羽澄照乌愈Official",
     "type": "vtuber",
@@ -63553,6 +63560,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546672504244327,
+    "name": "薇可娜Vicuna",
+    "type": "vtuber",
+    "room": 1996444921,
+    "group_name": ""
+  },
+  {
     "uid": 3546673116612824,
     "name": "韩憨憨吖OxO",
     "type": "vtuber",
@@ -65426,7 +65440,7 @@
     "name": "MiKi岁岁",
     "type": "vtuber",
     "room": 1951596189,
-    "group_name": ""
+    "group_name": "猫铃社"
   },
   {
     "uid": 3546872469785387,
@@ -65489,6 +65503,13 @@
     "name": "藏竹落",
     "type": "vtuber",
     "room": 1896527213,
+    "group_name": ""
+  },
+  {
+    "uid": 3546878213884100,
+    "name": "猫铃社",
+    "type": "group",
+    "room": 1942249554,
     "group_name": ""
   },
   {
@@ -65720,6 +65741,13 @@
     "name": "水间埋-mai",
     "type": "vtuber",
     "room": 1758148011,
+    "group_name": ""
+  },
+  {
+    "uid": 3546894189988049,
+    "name": "怪盗黛蔻_Deko",
+    "type": "vtuber",
+    "room": 1828676297,
     "group_name": ""
   },
   {
@@ -66126,6 +66154,13 @@
     "name": "折花花Meo",
     "type": "vtuber",
     "room": 1764693199,
+    "group_name": ""
+  },
+  {
+    "uid": 3546954281782140,
+    "name": "綾Lune",
+    "type": "vtuber",
+    "room": 1881082532,
     "group_name": ""
   },
   {
