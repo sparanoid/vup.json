@@ -2316,6 +2316,13 @@
     "face": "/bfs/face/472327172521ac77f084ac8af6af0ef75114f673.gif",
     "group_name": ""
   },
+  "598061": {
+    "name": "羽毛和奥尔什方",
+    "type": "vtuber",
+    "room_id": 7498212,
+    "face": "/bfs/face/3581764325fe269a4b2b701003f8f0e410c0ff9f.jpg",
+    "group_name": ""
+  },
   "598578": {
     "name": "麻理理_Channel",
     "type": "vtuber",
@@ -9523,7 +9530,7 @@
     "name": "夜泉灵Rei",
     "type": "vtuber",
     "room_id": 24530715,
-    "face": "/bfs/face/36bee1990db9d6d0880378123fb0549750a69c49.jpg",
+    "face": "/bfs/face/4d5255c736573965e17cf100d8ef7d5488a51c55.jpg",
     "group_name": ""
   },
   "7591465": {
@@ -38689,7 +38696,7 @@
     "group_name": ""
   },
   "1113326069": {
-    "name": "泪零的歌房",
+    "name": "娜米达P",
     "type": "vtuber",
     "room_id": 25117846,
     "face": "/bfs/face/458f390a24a188b762020ac764a8609aa14732e5.jpg",
@@ -53633,6 +53640,13 @@
     "face": "/bfs/face/d717ab270fd92a36be4c3b6545a0b381d6d2afa3.jpg",
     "group_name": ""
   },
+  "3493139392235780": {
+    "name": "杜桑梓",
+    "type": "vtuber",
+    "room_id": 27175174,
+    "face": "/bfs/face/4f3bfd421173b4cacd76ca7e62d0d87aaf66c533.jpg",
+    "group_name": ""
+  },
   "3493139461442040": {
     "name": "大奈豆子Niki",
     "type": "vtuber",
@@ -62510,7 +62524,7 @@
     "group_name": ""
   },
   "3546596908206654": {
-    "name": "小鹿-10月7生日新衣回",
+    "name": "小鹿不秃头a",
     "type": "vtuber",
     "room_id": 32521998,
     "face": "/bfs/face/8acd50be9cf49cd6977b6fed4abc25ad7681d813.jpg",
@@ -64834,7 +64848,7 @@
     "group_name": ""
   },
   "3546796475288503": {
-    "name": "雾枝年年10月7号生日版",
+    "name": "雾枝年年kirie",
     "type": "vtuber",
     "room_id": 1858805291,
     "face": "/bfs/face/71c01412d82889e4eb77b4077f5cb0b9730881e1.jpg",
