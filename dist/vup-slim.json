@@ -3723,7 +3723,7 @@
     "name": "苏语迟迟Suyu",
     "type": "vtuber",
     "room": 4216682,
-    "group_name": ""
+    "group_name": "猫铃社"
   },
   "1772434": {
     "name": "暮思橙月",
@@ -11469,7 +11469,7 @@
     "name": "青岚千柊",
     "type": "vtuber",
     "room": 26122244,
-    "group_name": ""
+    "group_name": "猫铃社"
   },
   "15109116": {
     "name": "Momo_话很少-",
@@ -13617,6 +13617,12 @@
     "name": "叶青玳",
     "type": "vtuber",
     "room": 1304841,
+    "group_name": ""
+  },
+  "24972255": {
+    "name": "暮狐Kitsune",
+    "type": "vtuber",
+    "room": 2492800,
     "group_name": ""
   },
   "24984760": {
@@ -23469,7 +23475,7 @@
     "name": "软眠眠-star",
     "type": "vtuber",
     "room": 25165548,
-    "group_name": ""
+    "group_name": "猫铃社"
   },
   "408379588": {
     "name": "丹羽庭子Official",
@@ -31143,7 +31149,7 @@
     "name": "Cher雪小小",
     "type": "vtuber",
     "room": 25474431,
-    "group_name": "极光社"
+    "group_name": "猫铃社"
   },
   "674084328": {
     "name": "曇一絃Official",
@@ -37377,7 +37383,7 @@
     "name": "酱小栀",
     "type": "vtuber",
     "room": 22918689,
-    "group_name": "极光社"
+    "group_name": "猫铃社"
   },
   "1579895002": {
     "name": "蜜汁C今天摸了",
@@ -37695,7 +37701,7 @@
     "name": "Fafnir_法芙娜",
     "type": "vtuber",
     "room": 1786413264,
-    "group_name": ""
+    "group_name": "猫铃社"
   },
   "1619878166": {
     "name": "雪铃-Channel",
@@ -40143,7 +40149,7 @@
     "name": "蔴夢奈奈mamonana",
     "type": "vtuber",
     "room": 1797323362,
-    "group_name": ""
+    "group_name": "猫铃社"
   },
   "1877010830": {
     "name": "布蕾Nonoko",
@@ -44799,7 +44805,7 @@
     "name": "青叶映桃眠Echo",
     "type": "vtuber",
     "room": 1740230606,
-    "group_name": ""
+    "group_name": "猫铃社"
   },
   "3493117382625629": {
     "name": "茸蘑蘑",
@@ -52569,7 +52575,7 @@
     "name": "风见三月MitsuKi",
     "type": "vtuber",
     "room": 30848927,
-    "group_name": ""
+    "group_name": "猫铃社"
   },
   "3546384850487621": {
     "name": "妮娅Nira",
@@ -54545,6 +54551,12 @@
     "room": 1749140496,
     "group_name": ""
   },
+  "3546678267218078": {
+    "name": "今天懒懒吃什么",
+    "type": "vtuber",
+    "room": 32703712,
+    "group_name": ""
+  },
   "3546678380464821": {
     "name": "蔓吞吞-Luv",
     "type": "vtuber",
@@ -54959,6 +54971,12 @@
     "room": 1970815894,
     "group_name": ""
   },
+  "3546717462988811": {
+    "name": "芊翎Liora",
+    "type": "vtuber",
+    "room": 1969773112,
+    "group_name": ""
+  },
   "3546718008248902": {
     "name": "蝶音_Dian",
     "type": "vtuber",
@@ -55035,7 +55053,7 @@
     "name": "小清玫Ami",
     "type": "vtuber",
     "room": 1980894985,
-    "group_name": ""
+    "group_name": "猫铃社"
   },
   "3546726417828701": {
     "name": "菲琳lucky",
@@ -55155,6 +55173,12 @@
     "name": "笨笨鱼捏oi",
     "type": "vtuber",
     "room": 1982632137,
+    "group_name": ""
+  },
+  "3546741391494055": {
+    "name": "薇薇诺Vivino",
+    "type": "vtuber",
+    "room": 1947337705,
     "group_name": ""
   },
   "3546742307949203": {
@@ -55989,7 +56013,7 @@
     "name": "韵叶不赖床",
     "type": "vtuber",
     "room": 1844412258,
-    "group_name": ""
+    "group_name": "猫铃社"
   },
   "3546861396822421": {
     "name": "雨宫心爱Amamiya",
@@ -56800,5 +56824,11 @@
     "type": "vtuber",
     "room": 0,
     "group_name": "Hololive"
+  },
+  "3546978067680189": {
+    "name": "榛果Noki",
+    "type": "vtuber",
+    "room": 1878514819,
+    "group_name": ""
   }
 }
