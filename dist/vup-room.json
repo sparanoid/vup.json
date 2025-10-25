@@ -31842,6 +31842,13 @@
     "face": "/bfs/face/95643810e8e9c88647876d0ebd33230f43157478.jpg",
     "group_name": ""
   },
+  "498432665": {
+    "name": "极夜Naksto",
+    "type": "vtuber",
+    "room_id": 1803524123,
+    "face": "/bfs/face/a61de1a77eb51ee1f6cd19a5d7c8739d70badd1e.jpg",
+    "group_name": ""
+  },
   "498462168": {
     "name": "艾克豪Alcohol",
     "type": "vtuber",
@@ -44645,6 +44652,13 @@
     "face": "/bfs/face/3b27c99000bbb37491369919d5e89e857809117a.jpg",
     "group_name": ""
   },
+  "1673493477": {
+    "name": "花曦乐",
+    "type": "vtuber",
+    "room_id": 1986468557,
+    "face": "/bfs/face/d252e05df0186568dfc43df7aca6b89a4d13886e.jpg",
+    "group_name": ""
+  },
   "1674281293": {
     "name": "岚织Vega",
     "type": "vtuber",
@@ -53364,7 +53378,7 @@
     "name": "熏熏子channel",
     "type": "vtuber",
     "room_id": 27112239,
-    "face": "/bfs/face/b63bc63a5cd2af16374c0c154999432b5c07e297.jpg",
+    "face": "/bfs/face/5f88027b719821fc0db0a34fd50f06ae641f55cf.jpg",
     "group_name": ""
   },
   "3493135852243543": {
@@ -66351,6 +66365,13 @@
     "room_id": 0,
     "face": "/bfs/face/a5e530c74eb493451e72e2515651be4f4f7adff2.jpg",
     "group_name": "Hololive"
+  },
+  "3546973428779093": {
+    "name": "发菜cccc抗癌中",
+    "type": "vtuber",
+    "room_id": 1784936275,
+    "face": "/bfs/face/d0792e442c828f593abc6e361be864fc8bd850d3.jpg",
+    "group_name": ""
   },
   "3546975274273636": {
     "name": "织愿Fairy",
