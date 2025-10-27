@@ -35976,7 +35976,7 @@
     "name": "礼拜六Liu",
     "type": "vtuber",
     "room_id": 26815357,
-    "face": "/bfs/face/7ea87bbd9fbfc2785a53c5c4b1888bda875d42e8.jpg",
+    "face": "/bfs/face/aedbfeff46406228a7ee720f87b7d0a58e483b3a.jpg",
     "group_name": ""
   },
   "662219040": {
@@ -65146,6 +65146,13 @@
     "type": "vtuber",
     "room_id": 1922212716,
     "face": "/bfs/face/417272f337ac5091cf051957903aceb347e62ee5.jpg",
+    "group_name": ""
+  },
+  "3546832527427588": {
+    "name": "祝予和唤鱼-twikoi",
+    "type": "vtuber",
+    "room_id": 1734608839,
+    "face": "/bfs/face/3559c6345fcf61afddde8aaeac81eb7bea697d87.jpg",
     "group_name": ""
   },
   "3546832756017576": {
