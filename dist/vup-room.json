@@ -65264,7 +65264,7 @@
     "name": "柯米莉亚_Kamiria",
     "type": "vtuber",
     "room_id": 1909464245,
-    "face": "/bfs/face/0aac73d3d2ee1dc715d1b4cdd75321695ebe74ec.jpg",
+    "face": "/bfs/face/fe2a980619754d44d3c226c0bfebcacb89d0bd08.jpg",
     "group_name": ""
   },
   "3546848075713030": {
@@ -66168,6 +66168,13 @@
     "type": "vtuber",
     "room_id": 1746237144,
     "face": "/bfs/face/f093690f08f46beb83ae86d219f084a7ce425fe7.jpg",
+    "group_name": ""
+  },
+  "3546928222571136": {
+    "name": "闪闪-pika",
+    "type": "vtuber",
+    "room_id": 1861308619,
+    "face": "/bfs/face/a3355af2357e0a5269fc0c8d0f1b04ed008f05e6.jpg",
     "group_name": ""
   },
   "3546933324941477": {
