@@ -17759,7 +17759,7 @@
     "group_name": ""
   },
   "38306163": {
-    "name": "云若依Ruoi",
+    "name": "在曾经之前",
     "type": "vtuber",
     "room": 3473293,
     "face": "/bfs/face/2e7153e706a1b1caec47c605f282152679f21bd5.jpg",
@@ -21361,6 +21361,13 @@
     "type": "vtuber",
     "room": 21069762,
     "face": "/bfs/face/98f9e5133031963fe51b3563100ae8fa37d14e75.jpg",
+    "group_name": ""
+  },
+  "170257657": {
+    "name": "嗷呜墨尘",
+    "type": "vtuber",
+    "room": 5328712,
+    "face": "/bfs/face/843992502a85ab0e04f2a3a490c27a3eeee6f71f.jpg",
     "group_name": ""
   },
   "170501937": {
@@ -45384,7 +45391,7 @@
     "name": "嘟嘟Domo",
     "type": "vtuber",
     "room": 27032597,
-    "face": "/bfs/face/2fed7de269b2a37bc896841a8333ed569804a5f7.jpg",
+    "face": "/bfs/face/ff178cbb14cd2e0e99bed46409138f1c98b2cfe1.jpg",
     "group_name": ""
   },
   "1741307981": {
