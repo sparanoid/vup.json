@@ -26808,6 +26808,14 @@
     "group_name": ""
   },
   {
+    "uid": 299461780,
+    "name": "芙咩咩Mie",
+    "type": "vtuber",
+    "room": 25869360,
+    "face": "/bfs/face/24c45cb99d4f71b2b57d27a4c73b359c05f5999b.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 300312007,
     "name": "PochiKorone",
     "type": "vtuber",
@@ -75440,6 +75448,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546903155312757,
+    "name": "茉翎Lene",
+    "type": "vtuber",
+    "room": 1777643521,
+    "face": "/bfs/face/20a4fcdb9f06f4e0eeddab49a08eb35a80e83e45.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546903350348268,
     "name": "氿姬kyuu",
     "type": "vtuber",
@@ -75981,6 +75997,14 @@
     "type": "vtuber",
     "room": 1878514819,
     "face": "/bfs/face/67251fbeb2083bec0465e22fd309542434a2c7ea.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3632307753715852,
+    "name": "赤凛_Akarin",
+    "type": "vtuber",
+    "room": 1930401072,
+    "face": "/bfs/face/02299faf29a6692cf3fb04ee999dd18a221d3fd4.jpg",
     "group_name": ""
   }
 ]

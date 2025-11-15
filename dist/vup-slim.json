@@ -20105,6 +20105,12 @@
     "room": 14390866,
     "group_name": ""
   },
+  "299461780": {
+    "name": "芙咩咩Mie",
+    "type": "vtuber",
+    "room": 25869360,
+    "group_name": ""
+  },
   "300312007": {
     "name": "PochiKorone",
     "type": "vtuber",
@@ -56579,6 +56585,12 @@
     "room": 1777643484,
     "group_name": ""
   },
+  "3546903155312757": {
+    "name": "茉翎Lene",
+    "type": "vtuber",
+    "room": 1777643521,
+    "group_name": ""
+  },
   "3546903350348268": {
     "name": "氿姬kyuu",
     "type": "vtuber",
@@ -56985,6 +56997,12 @@
     "name": "榛果Noki",
     "type": "vtuber",
     "room": 1878514819,
+    "group_name": ""
+  },
+  "3632307753715852": {
+    "name": "赤凛_Akarin",
+    "type": "vtuber",
+    "room": 1930401072,
     "group_name": ""
   }
 }
