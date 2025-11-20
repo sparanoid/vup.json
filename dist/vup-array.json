@@ -74633,10 +74633,10 @@
   },
   {
     "uid": 3546837206173987,
-    "name": "醇月今天生日换私皮啦",
+    "name": "醇醇月女士",
     "type": "vtuber",
     "room": 1749939816,
-    "face": "/bfs/face/ee130eecd34976ed24da09272953af9580450ef3.jpg",
+    "face": "/bfs/face/c35be4b4755fd795d33643b591f389a54569bd15.jpg",
     "group_name": ""
   },
   {
@@ -75021,7 +75021,7 @@
     "type": "vtuber",
     "room": 1949989620,
     "face": "/bfs/face/86323c54fac7943555858a9fbf4f44e872b0a493.jpg",
-    "group_name": "果子本铺"
+    "group_name": ""
   },
   {
     "uid": 3546870762703523,
@@ -75656,6 +75656,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546911097228124,
+    "name": "夜凪冷波",
+    "type": "vtuber",
+    "room": 1837222289,
+    "face": "/bfs/face/37506116cf7f4f5cc2f25a99a5d8773fc598abbf.jpg",
+    "group_name": "果子本铺"
+  },
+  {
     "uid": 3546911451646314,
     "name": "岚玻Rimbaud",
     "type": "vtuber",
@@ -75710,6 +75718,14 @@
     "room": 1912489074,
     "face": "/bfs/face/23842ac22449b7431ad1030ebdf3bc16f6c1b1cd.jpg",
     "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班（北立交桥）"
+  },
+  {
+    "uid": 3546914895169649,
+    "name": "樱木咲良sakura",
+    "type": "vtuber",
+    "room": 1986460273,
+    "face": "/bfs/face/4dfe51e61b34e48f4b24bb8731acd298ac241c91.jpg",
+    "group_name": ""
   },
   {
     "uid": 3546916751149481,
@@ -75974,6 +75990,14 @@
     "room": 1828676195,
     "face": "/bfs/face/6e0e960647afe165bb21a5613e781cb086baed90.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546956689312602,
+    "name": "枫乃暁铃",
+    "type": "vtuber",
+    "room": 1746171698,
+    "face": "/bfs/face/3770fdd2e325e5b3aa351237b64884a8408c8b36.jpg",
+    "group_name": "果子本铺"
   },
   {
     "uid": 3546957247154900,
