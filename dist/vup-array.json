@@ -27336,6 +27336,14 @@
     "group_name": ""
   },
   {
+    "uid": 319395149,
+    "name": "甜豆Stella",
+    "type": "vtuber",
+    "room": 27224677,
+    "face": "/bfs/face/8f793a73583187e5b857b518227ca00b5212538f.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 319509473,
     "name": "一只仙咕",
     "type": "vtuber",
@@ -47141,6 +47149,14 @@
     "type": "vtuber",
     "room": 24163111,
     "face": "/bfs/face/e1bce4246d86cdb92005451708b5f03232aa0688.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1354120197,
+    "name": "惹Meraki",
+    "type": "vtuber",
+    "room": 1980121534,
+    "face": "/bfs/face/f13af03e94327ae9853a9bb45d8f19b4bb6cbe59.jpg",
     "group_name": ""
   },
   {
@@ -75910,6 +75926,14 @@
     "room": 1849827062,
     "face": "/bfs/face/c469c5f6e8b28f390d3eafee6386fade894e1124.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546938511198692,
+    "name": "猫丸子Maruko",
+    "type": "vtuber",
+    "room": 1929354869,
+    "face": "/bfs/face/345b595fa431b4f4c3dee6cab75857d81df3f27c.jpg",
+    "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班（北立交桥）"
   },
   {
     "uid": 3546939402488728,
