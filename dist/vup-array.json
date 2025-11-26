@@ -20313,10 +20313,10 @@
   },
   {
     "uid": 38306163,
-    "name": "人生苦短先死在说",
+    "name": "我是不配为人",
     "type": "vtuber",
     "room": 3473293,
-    "face": "/bfs/face/fe6e79d5d4b17b81f52b40c11fc928c37af25674.jpg",
+    "face": "/bfs/face/39f2e9b4804c03b2fa354c7ca253271bef0bb252.jpg",
     "group_name": ""
   },
   {
@@ -25649,7 +25649,7 @@
   },
   {
     "uid": 249148017,
-    "name": "canyoubeliveme",
+    "name": "薯片马卡龙",
     "type": "vtuber",
     "room": 22955504,
     "face": "/bfs/face/0ee70240e9f59a0c0658aee78a73f7617b8701f6.jpg",
@@ -27941,6 +27941,14 @@
     "type": "vtuber",
     "room": 11935852,
     "face": "/bfs/face/2088b4beedadf56401155988995ac163aaa440fa.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 342642068,
+    "name": "夜澄シロShiro",
+    "type": "vtuber",
+    "room": 1786263681,
+    "face": "/bfs/face/f7330a03906fb612f6e6812b67b7885d27899781.jpg",
     "group_name": ""
   },
   {
