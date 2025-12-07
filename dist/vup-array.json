@@ -19792,6 +19792,14 @@
     "group_name": ""
   },
   {
+    "uid": 34582979,
+    "name": "花芽荔枝",
+    "type": "vtuber",
+    "room": 1581066,
+    "face": "/bfs/face/0b506516a87353383cd5cb9200828622c371afcf.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 34612975,
     "name": "-ミ-",
     "type": "vtuber",
@@ -20313,7 +20321,7 @@
   },
   {
     "uid": 38306163,
-    "name": "云若依Ruoi不推人",
+    "name": "云若依Ruoi单推洛洛",
     "type": "vtuber",
     "room": 3473293,
     "face": "/bfs/face/39f2e9b4804c03b2fa354c7ca253271bef0bb252.jpg",
@@ -29837,6 +29845,14 @@
     "type": "vtuber",
     "room": 21267062,
     "face": "/bfs/face/4fbaa0960e931a288be1511e60bf8266689266da.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 389315357,
+    "name": "玖久宝oi",
+    "type": "vtuber",
+    "room": 1847876412,
+    "face": "/bfs/face/a7484932c0aea286b524724f18e5088d394387a8.jpg",
     "group_name": ""
   },
   {
@@ -74413,6 +74429,14 @@
     "type": "vtuber",
     "room": 1962879668,
     "face": "/bfs/face/5183f248990abf6c570a28318576b92d8232d8af.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546803114870927,
+    "name": "佳百璃Gabriel",
+    "type": "vtuber",
+    "room": 1911276964,
+    "face": "/bfs/face/070bea1c6be2d363a58ae176478e3cde68b9c0a1.jpg",
     "group_name": ""
   },
   {
