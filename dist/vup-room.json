@@ -27314,10 +27314,10 @@
     "group_name": ""
   },
   "405047988": {
-    "name": "还是眠眠",
+    "name": "眠眠大哥哥",
     "type": "vtuber",
     "room_id": 25780886,
-    "face": "/bfs/face/806e799aa8353b015dbccc079c5e3fbb07f2a94b.jpg",
+    "face": "/bfs/face/8ab381892e9d14d9b0e3c20f1f1c5d4a8645e378.jpg",
     "group_name": ""
   },
   "405281700": {
@@ -66324,6 +66324,13 @@
     "face": "/bfs/face/1b0d038265ad7465644f51c6d2556de9992d48a5.jpg",
     "group_name": ""
   },
+  "3546915117467733": {
+    "name": "玖柴CHAI",
+    "type": "vtuber",
+    "room_id": 1782084279,
+    "face": "/bfs/face/a2f20e53a2b9aea9a94a8997b553d820a208b0b9.jpg",
+    "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班（北立交桥）"
+  },
   "3546916751149481": {
     "name": "小桃芝Momo_",
     "type": "vtuber",
@@ -66386,6 +66393,13 @@
     "room_id": 1861308619,
     "face": "/bfs/face/a3355af2357e0a5269fc0c8d0f1b04ed008f05e6.jpg",
     "group_name": ""
+  },
+  "3546929896097795": {
+    "name": "月光Yumeko",
+    "type": "vtuber",
+    "room_id": 1950854338,
+    "face": "/bfs/face/d4496e574e054381f0ec33bcaa161e57ec6b33aa.jpg",
+    "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班（北立交桥）"
   },
   "3546933324941477": {
     "name": "萌花Moeka",
@@ -66672,6 +66686,13 @@
     "type": "vtuber",
     "room_id": 1930401072,
     "face": "/bfs/face/02299faf29a6692cf3fb04ee999dd18a221d3fd4.jpg",
+    "group_name": ""
+  },
+  "3632319810243496": {
+    "name": "白眠缚",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/eb2f8b13b0a584f97c6ed7c9da9732ab271b521d.jpg",
     "group_name": ""
   },
   "3690970457573801": {

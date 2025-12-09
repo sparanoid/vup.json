@@ -35119,11 +35119,11 @@
   },
   {
     "uid": 405047988,
-    "name": "还是眠眠",
+    "name": "眠眠大哥哥",
     "type": "vtuber",
     "room": 25780886,
-    "face": "/bfs/face/806e799aa8353b015dbccc079c5e3fbb07f2a94b.jpg",
-    "sign": " 眠眠出没QQ群：956732252",
+    "face": "/bfs/face/8ab381892e9d14d9b0e3c20f1f1c5d4a8645e378.jpg",
+    "sign": " 回归直播时间：12:30—16:00；眠眠出没QQ群：734608071",
     "group_name": ""
   },
   {
@@ -85275,6 +85275,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546915117467733,
+    "name": "玖柴CHAI",
+    "type": "vtuber",
+    "room": 1782084279,
+    "face": "/bfs/face/a2f20e53a2b9aea9a94a8997b553d820a208b0b9.jpg",
+    "sign": "妖精管理局所属的哭包面包柴犬(´ . .̫ . `)",
+    "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班（北立交桥）"
+  },
+  {
     "uid": 3546916751149481,
     "name": "小桃芝Momo_",
     "type": "vtuber",
@@ -85354,6 +85363,15 @@
     "face": "/bfs/face/a3355af2357e0a5269fc0c8d0f1b04ed008f05e6.jpg",
     "sign": "谢谢你看到这条小鱼，鱼会在你给我点关注的时候，对你说一段长长的话。周内18点直播 周五周末20点  神秘代码：809865460",
     "group_name": ""
+  },
+  {
+    "uid": 3546929896097795,
+    "name": "月光Yumeko",
+    "type": "vtuber",
+    "room": 1950854338,
+    "face": "/bfs/face/d4496e574e054381f0ec33bcaa161e57ec6b33aa.jpg",
+    "sign": "妖精管理局·三光五色所属治愈系小偶像，赶走你的所有孤单(˶ˊᵕˋ˵) ",
+    "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班（北立交桥）"
   },
   {
     "uid": 3546933324941477,
@@ -85722,6 +85740,15 @@
     "room": 1930401072,
     "face": "/bfs/face/02299faf29a6692cf3fb04ee999dd18a221d3fd4.jpg",
     "sign": "【404-Project】僕を連れてって浸み込んでしまう前に。",
+    "group_name": ""
+  },
+  {
+    "uid": 3632319810243496,
+    "name": "白眠缚",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/eb2f8b13b0a584f97c6ed7c9da9732ab271b521d.jpg",
+    "sign": "",
     "group_name": ""
   },
   {
