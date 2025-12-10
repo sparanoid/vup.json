@@ -2533,6 +2533,13 @@
     "face": "/bfs/face/134c923ab2f837f2967613c3046ae3d32a899fcb.jpg",
     "group_name": ""
   },
+  "655181": {
+    "name": "少年霜",
+    "type": "vtuber",
+    "room_id": 62734,
+    "face": "/bfs/face/0c9b4f6e837e3fb4b5916e8c888f28b9922ff990.jpg",
+    "group_name": ""
+  },
   "656721": {
     "name": "彩笔IroEnpitsu",
     "type": "vtuber",
