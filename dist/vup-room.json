@@ -15966,6 +15966,13 @@
     "face": "/bfs/face/caa701cc6f1a0c41790638ac21057cf1f22f54fb.jpg",
     "group_name": ""
   },
+  "25264516": {
+    "name": "猫猫虫池颂",
+    "type": "vtuber",
+    "room_id": 1122368,
+    "face": "/bfs/face/5e0c3c1e7858f67efc2ed989e0f008a6ad4f14e9.jpg",
+    "group_name": ""
+  },
   "25346364": {
     "name": "痛苦Pain",
     "type": "vtuber",
@@ -47675,6 +47682,13 @@
     "room_id": 25100511,
     "face": "/bfs/face/62fdfc7dc0710f87a2f2e7affe14c493d49eccba.jpg",
     "group_name": "星云社_CosmicNebula"
+  },
+  "1940186724": {
+    "name": "魔王城Official",
+    "type": "vtuber",
+    "room_id": 24226458,
+    "face": "/bfs/face/444733af049e475e73f7a0e903bb2cad71eacef9.jpg",
+    "group_name": ""
   },
   "1940246442": {
     "name": "夏恋ひまわり搬运组",
