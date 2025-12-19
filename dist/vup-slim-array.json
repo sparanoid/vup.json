@@ -3312,7 +3312,7 @@
   },
   {
     "uid": 915387,
-    "name": "菲雷嘉X兴登堡",
+    "name": "菲蕾嘉",
     "type": "vtuber",
     "room": 830769,
     "group_name": ""
@@ -37230,6 +37230,13 @@
     "name": "鱼狸狸",
     "type": "vtuber",
     "room": 22551845,
+    "group_name": ""
+  },
+  {
+    "uid": 693417899,
+    "name": "KizunaAI株式会社",
+    "type": "group",
+    "room": 0,
     "group_name": ""
   },
   {
