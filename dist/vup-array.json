@@ -3868,7 +3868,7 @@
     "name": "鳥取鹿子Mizuchi",
     "type": "vtuber",
     "room": 178291,
-    "face": "/bfs/face/11b5468c1e3edb0d2ec226a95cb584d346608da9.jpg",
+    "face": "/bfs/face/cb9ede6b70ae926a88207eccd59fe66447591907.jpg",
     "group_name": ""
   },
   {
@@ -25108,7 +25108,7 @@
     "name": "鹿時零",
     "type": "vtuber",
     "room": 5993127,
-    "face": "/bfs/face/a1c1a281d5af490655f69975800accb711a8d0e3.jpg",
+    "face": "/bfs/face/fdd19ebe3814ceb60d6be8f53f8d927cb067500f.jpg",
     "group_name": ""
   },
   {
@@ -37249,7 +37249,7 @@
   },
   {
     "uid": 511311002,
-    "name": "唯萋Seven",
+    "name": "唯萋-31号跨年半周年",
     "type": "vtuber",
     "room": 1912783218,
     "face": "/bfs/face/e88293666b00df3175ad7cd78070c21fe583ca50.jpg",
@@ -76181,7 +76181,7 @@
     "type": "vtuber",
     "room": 1856101651,
     "face": "/bfs/face/3264c9687f2f89c5d30adc51319b4324a1e3ee4c.jpg",
-    "group_name": ""
+    "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
   },
   {
     "uid": 3546952377567388,
@@ -76285,6 +76285,14 @@
     "type": "vtuber",
     "room": 1883011804,
     "face": "/bfs/face/4221f853025516671e20a044b86a4d733a4536f3.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546968292854376,
+    "name": "星野白玲",
+    "type": "vtuber",
+    "room": 1883016085,
+    "face": "/bfs/face/b63289bef54a5f312bcc1b38388293b9c593e6dc.jpg",
     "group_name": ""
   },
   {
