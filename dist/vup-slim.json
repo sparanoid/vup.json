@@ -17357,6 +17357,12 @@
     "room": 7247458,
     "group_name": ""
   },
+  "95998286": {
+    "name": "暮岚Arasi",
+    "type": "vtuber",
+    "room": 3866196,
+    "group_name": "忒弥斯project"
+  },
   "96230607": {
     "name": "欧卡-ouka",
     "type": "vtuber",
@@ -17511,6 +17517,12 @@
     "name": "真正的梦想为何物呢",
     "type": "vtuber",
     "room": 14907086,
+    "group_name": ""
+  },
+  "101707327": {
+    "name": "摆万",
+    "type": "vtuber",
+    "room": 30818691,
     "group_name": ""
   },
   "102265085": {
@@ -17794,6 +17806,12 @@
     "type": "vtuber",
     "room": 12227819,
     "group_name": ""
+  },
+  "121253638": {
+    "name": "弥爱Mia",
+    "type": "vtuber",
+    "room": 27355633,
+    "group_name": "忒弥斯project"
   },
   "121487111": {
     "name": "东野凹",
@@ -34114,6 +34132,12 @@
     "type": "vtuber",
     "room": 1947277414,
     "group_name": "VirtuaReal"
+  },
+  "1203581876": {
+    "name": "由希Uki",
+    "type": "vtuber",
+    "room": 23612735,
+    "group_name": "忒弥斯project"
   },
   "1204068176": {
     "name": "一二三-Hifumi",
@@ -54909,6 +54933,12 @@
     "name": "齐时安-",
     "type": "vtuber",
     "room": 1728612791,
+    "group_name": ""
+  },
+  "3546693601594022": {
+    "name": "忒弥斯project",
+    "type": "group",
+    "room": 1716070600,
     "group_name": ""
   },
   "3546693914069074": {

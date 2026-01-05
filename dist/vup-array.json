@@ -23144,6 +23144,14 @@
     "group_name": ""
   },
   {
+    "uid": 95998286,
+    "name": "暮岚Arasi",
+    "type": "vtuber",
+    "room": 3866196,
+    "face": "/bfs/face/503bf05ae59f7d5affb95c76293a98ba4f0eb147.jpg",
+    "group_name": "忒弥斯project"
+  },
+  {
     "uid": 96230607,
     "name": "欧卡-ouka",
     "type": "vtuber",
@@ -23349,6 +23357,14 @@
     "type": "vtuber",
     "room": 14907086,
     "face": "/bfs/face/234cc77794b46653628162be63766358ff73209c.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 101707327,
+    "name": "摆万",
+    "type": "vtuber",
+    "room": 30818691,
+    "face": "/bfs/face/de9d60c01da9d556adb0df2018d28220e67103cd.jpg",
     "group_name": ""
   },
   {
@@ -23726,6 +23742,14 @@
     "room": 12227819,
     "face": "/bfs/face/ca70737c3d92e2eef6e2059abf42e806bffe4e43.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 121253638,
+    "name": "弥爱Mia",
+    "type": "vtuber",
+    "room": 27355633,
+    "face": "/bfs/face/438a3bd396a870bcf5c601129c32313138d2f999.jpg",
+    "group_name": "忒弥斯project"
   },
   {
     "uid": 121487111,
@@ -45486,6 +45510,14 @@
     "room": 1947277414,
     "face": "/bfs/face/bf9ee18706751a9e21a13e6bc0d66977280165e3.jpg",
     "group_name": "VirtuaReal"
+  },
+  {
+    "uid": 1203581876,
+    "name": "由希Uki",
+    "type": "vtuber",
+    "room": 23612735,
+    "face": "/bfs/face/5ff61f5922c55dbc49ec3d8ba47f2ca6d7c27aee.jpg",
+    "group_name": "忒弥斯project"
   },
   {
     "uid": 1204068176,
@@ -73216,6 +73248,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546693601594022,
+    "name": "忒弥斯project",
+    "type": "group",
+    "room": 1716070600,
+    "face": "/bfs/face/4815a3796ca8f0924ffec988c6cb320816ceb9e2.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546693914069074,
     "name": "金小沅_Lucky",
     "type": "vtuber",
@@ -74844,7 +74884,7 @@
     "name": "悠月Yuduki",
     "type": "vtuber",
     "room": 1995132376,
-    "face": "/bfs/face/5169a169b748f3eec9c497aabb94e7f8c9ed9508.jpg",
+    "face": "/bfs/face/fa3221e7287a8a7f116f1fb38d6e4b9edd8cf5a2.jpg",
     "group_name": ""
   },
   {
