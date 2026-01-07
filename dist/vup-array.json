@@ -42856,6 +42856,14 @@
     "group_name": ""
   },
   {
+    "uid": 698803411,
+    "name": "六花-0v0-",
+    "type": "vtuber",
+    "room": 1951548038,
+    "face": "/bfs/face/54f27e84b8004b76fabc79e164f1e6a3678e9db9.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 699094856,
     "name": "黑酱猫kuro",
     "type": "vtuber",
@@ -76192,6 +76200,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546941533194611,
+    "name": "桃二月Camellia",
+    "type": "vtuber",
+    "room": 1842744790,
+    "face": "/bfs/face/64fde1c5ba91624655de7307d89b618bc80cd6d4.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546941703064294,
     "name": "铃木零zero",
     "type": "vtuber",
@@ -76384,11 +76400,27 @@
     "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
   },
   {
+    "uid": 3632305979525726,
+    "name": "茉有",
+    "type": "vtuber",
+    "room": 1954822850,
+    "face": "/bfs/face/1012b8babf71353f4d1972cc22de3563c06735e7.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3632307753715852,
     "name": "赤凛_Akarin",
     "type": "vtuber",
     "room": 1930401072,
     "face": "/bfs/face/02299faf29a6692cf3fb04ee999dd18a221d3fd4.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3632309391592393,
+    "name": "沐歌mukei",
+    "type": "vtuber",
+    "room": 1817646030,
+    "face": "/bfs/face/afb68a85d0d75f9186b6a547e65bd6661e35e9c4.jpg",
     "group_name": ""
   },
   {
