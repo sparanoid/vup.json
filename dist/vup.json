@@ -20166,6 +20166,13 @@
     "face": "/bfs/face/8f02db1d08c1505958045339fb4979f75ff1dd74.jpg",
     "group_name": ""
   },
+  "93720154": {
+    "name": "梦仔Lark",
+    "type": "vtuber",
+    "room": 1829732151,
+    "face": "/bfs/face/3caa9dc87de4ad133398827c53e021d563d8f2af.jpg",
+    "group_name": ""
+  },
   "93892643": {
     "name": "药Kakin",
     "type": "vtuber",
@@ -21186,6 +21193,13 @@
     "type": "vtuber",
     "room": 7252274,
     "face": "/bfs/face/118aeb106c1f243a3929f45052216cb79db88a1a.jpg",
+    "group_name": ""
+  },
+  "153090305": {
+    "name": "熊初茉_",
+    "type": "vtuber",
+    "room": 1968488560,
+    "face": "/bfs/face/0d99b4652329ee4b0b64a73173fef7bd06258259.jpg",
     "group_name": ""
   },
   "155051862": {
@@ -29686,6 +29700,13 @@
     "face": "/bfs/face/008b1174dc75616ec72066f0e1c22dba940aa66a.jpg",
     "group_name": ""
   },
+  "455842841": {
+    "name": "鸣悠Fae",
+    "type": "vtuber",
+    "room": 1746239930,
+    "face": "/bfs/face/7ec3421ab92b6e0abedc94126e08e10ce6e3f5e9.jpg",
+    "group_name": ""
+  },
   "455868075": {
     "name": "ばあちゃるofficial",
     "type": "vtuber",
@@ -30252,6 +30273,13 @@
     "room": 21981503,
     "face": "/bfs/face/247aa5d3cf13dd9e915726a97a1b9f1e049b6095.jpg",
     "group_name": "超次元学院"
+  },
+  "475014431": {
+    "name": "一小汁--",
+    "type": "vtuber",
+    "room": 1922178991,
+    "face": "/bfs/face/b3519de4f89fd210e9e533a5d1b15497570733ed.jpg",
+    "group_name": ""
   },
   "475052410": {
     "name": "小青草Official",
@@ -34955,6 +34983,13 @@
     "type": "vtuber",
     "room": 27947903,
     "face": "/bfs/face/dfedbfaae6bc0ad20c1b128c97c8ffc4336a1871.jpg",
+    "group_name": ""
+  },
+  "612430240": {
+    "name": "延寿糯糯_延寿のの",
+    "type": "vtuber",
+    "room": 31906837,
+    "face": "/bfs/face/a78e2a04d87dc4a3ae1a78472bc6f40c380f2838.jpg",
     "group_name": ""
   },
   "612524985": {
@@ -42529,6 +42564,13 @@
     "type": "vtuber",
     "room": 24181519,
     "face": "/bfs/face/4b67752a9b769911f5593fdf5d51cedf787cf9af.jpg",
+    "group_name": ""
+  },
+  "1447459498": {
+    "name": "joeiwanko",
+    "type": "vtuber",
+    "room": 1910844166,
+    "face": "/bfs/face/6e81085c0971c6a7023c714da919ea8d8e07b9b4.jpg",
     "group_name": ""
   },
   "1448763009": {
@@ -63650,6 +63692,13 @@
     "face": "/bfs/face/aca486c8d5fbd3e736d4ec2ccf937728590dd797.jpg",
     "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
   },
+  "3546652019264158": {
+    "name": "晚樱幸禾",
+    "type": "vtuber",
+    "room": 1707155022,
+    "face": "/bfs/face/820fddb7e04fe870b1b3cfce8084e3017984fa17.jpg",
+    "group_name": ""
+  },
   "3546652373682235": {
     "name": "大羽波奈奈",
     "type": "vtuber",
@@ -64075,6 +64124,13 @@
     "type": "vtuber",
     "room": 32816306,
     "face": "/bfs/face/bc9791123b8e06392006fc62d17d51b2d244baec.jpg",
+    "group_name": ""
+  },
+  "3546691705768037": {
+    "name": "阿呜wua",
+    "type": "vtuber",
+    "room": 1707007315,
+    "face": "/bfs/face/dac6e07d064e49a310901b6a47a9a665e61c9d04.jpg",
     "group_name": ""
   },
   "3546692473326378": {
@@ -65036,6 +65092,13 @@
     "face": "/bfs/face/215f161e6f929e003eed6b62d9ddf2dcb344e35d.jpg",
     "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
   },
+  "3546776451680608": {
+    "name": "蓝芷Echo",
+    "type": "vtuber",
+    "room": 1916500805,
+    "face": "/bfs/face/c1f8a3ea9f86412c8cdb05a4f7c335f2040441b4.jpg",
+    "group_name": ""
+  },
   "3546776569121106": {
     "name": "麻里绮Meraki",
     "type": "vtuber",
@@ -65104,6 +65167,13 @@
     "type": "vtuber",
     "room": 1883943131,
     "face": "/bfs/face/24edbea34da5eb785c45063dfbdd40dd0395f0ed.jpg",
+    "group_name": ""
+  },
+  "3546785119209998": {
+    "name": "梦寝兔兔",
+    "type": "vtuber",
+    "room": 1920458224,
+    "face": "/bfs/face/5a0a69cd481462399612d156861645fa3ffeb53f.jpg",
     "group_name": ""
   },
   "3546785129695357": {
@@ -65890,6 +65960,13 @@
     "face": "/bfs/face/5c593fc9ed94c3539b2dce53d0b557e26fe3cb3b.jpg",
     "group_name": ""
   },
+  "3546873637898560": {
+    "name": "花财喵fafa",
+    "type": "vtuber",
+    "room": 1737908554,
+    "face": "/bfs/face/28e3c9ac5c03bf5cd84a6aae8aca678d47e9ece3.jpg",
+    "group_name": ""
+  },
   "3546873688230117": {
     "name": "雪缇Tina",
     "type": "vtuber",
@@ -66196,6 +66273,13 @@
     "type": "vtuber",
     "room": 1758143829,
     "face": "/bfs/face/18a9de722851fb58e4189da925a58a5fd70c0470.jpg",
+    "group_name": ""
+  },
+  "3546895022557398": {
+    "name": "小清somi",
+    "type": "vtuber",
+    "room": 1814378608,
+    "face": "/bfs/face/822f87efa1458a1b79fd838ea9fdcdffbb979834.jpg",
     "group_name": ""
   },
   "3546896186476751": {
@@ -66555,6 +66639,13 @@
     "face": "/bfs/face/d4496e574e054381f0ec33bcaa161e57ec6b33aa.jpg",
     "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
   },
+  "3546930856593994": {
+    "name": "笙笙生_",
+    "type": "vtuber",
+    "room": 1753197871,
+    "face": "/bfs/face/2d31801be51cad34afb672cf60601cfcee5bd1a1.jpg",
+    "group_name": ""
+  },
   "3546933324941477": {
     "name": "萌花Moeka",
     "type": "vtuber",
@@ -66688,6 +66779,13 @@
     "face": "/bfs/face/3ff65005fcd6da25f0985dc230b1a4ab51ddc48e.jpg",
     "group_name": ""
   },
+  "3546942827137374": {
+    "name": "念念yuli",
+    "type": "vtuber",
+    "room": 1728861018,
+    "face": "/bfs/face/d23db75b2c8d3ffd0df3ad4c1d0140c18ae2f5a9.jpg",
+    "group_name": ""
+  },
   "3546942841818025": {
     "name": "一只野蝉",
     "type": "vtuber",
@@ -66791,6 +66889,13 @@
     "type": "vtuber",
     "room": 1842745735,
     "face": "/bfs/face/fec0b9bc2b70020fb209ca9da5e2431a0ba71319.jpg",
+    "group_name": ""
+  },
+  "3546962678778007": {
+    "name": "安啾啦耶耶",
+    "type": "vtuber",
+    "room": 1883011701,
+    "face": "/bfs/face/938bb3d53579e52a0d8f057d71e8ae4ee83e05ff.jpg",
     "group_name": ""
   },
   "3546966682241148": {
