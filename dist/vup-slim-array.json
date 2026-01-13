@@ -65549,7 +65549,7 @@
   },
   {
     "uid": 3546833116727714,
-    "name": "兔筱柒Tessie_哭包版",
+    "name": "兔筱柒Tessie_好运版",
     "type": "vtuber",
     "room": 1967211588,
     "group_name": ""
@@ -66715,6 +66715,13 @@
     "type": "vtuber",
     "room": 0,
     "group_name": "Dsire_Official"
+  },
+  {
+    "uid": 3546935598255020,
+    "name": "Aqu_曲儿",
+    "type": "vtuber",
+    "room": 1740575912,
+    "group_name": ""
   },
   {
     "uid": 3546935717792055,

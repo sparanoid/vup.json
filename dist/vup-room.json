@@ -65404,7 +65404,7 @@
     "name": "糖糖小脑瓜一糖宝",
     "type": "vtuber",
     "room_id": 1794043826,
-    "face": "/bfs/face/4e2343a390154eeca023e495531370ed6775c433.jpg",
+    "face": "/bfs/face/c9fb2ebb04d56030a36cb1b2c7e1bb9812766268.jpg",
     "group_name": ""
   },
   "3546819575417483": {
@@ -65548,7 +65548,7 @@
     "group_name": ""
   },
   "3546833116727714": {
-    "name": "兔筱柒Tessie_哭包版",
+    "name": "兔筱柒Tessie_好运版",
     "type": "vtuber",
     "room_id": 1967211588,
     "face": "/bfs/face/cf6313962af24fa2e8bd8f27ace694d1487bc824.jpg",
@@ -66503,7 +66503,7 @@
     "name": "岚玻Rimbaud",
     "type": "vtuber",
     "room_id": 1852876187,
-    "face": "/bfs/face/f96e8b762abb6c4627680a36aa199376e6c4e402.jpg",
+    "face": "/bfs/face/84f10181244a5d8ba04cb972ba3da043bafa986a.jpg",
     "group_name": ""
   },
   "3546911512463455": {
@@ -66715,6 +66715,13 @@
     "room_id": 0,
     "face": "/bfs/face/8732632a0ee7ea5c7e677b07e79eed7b32e2c63d.jpg",
     "group_name": "Dsire_Official"
+  },
+  "3546935598255020": {
+    "name": "Aqu_曲儿",
+    "type": "vtuber",
+    "room_id": 1740575912,
+    "face": "/bfs/face/1030568133ff4282c11a72f761ad1173db682443.jpg",
+    "group_name": ""
   },
   "3546935717792055": {
     "name": "三嗪Lamotrigine",
