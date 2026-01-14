@@ -33665,6 +33665,12 @@
     "room": 26741971,
     "group_name": ""
   },
+  "1149064559": {
+    "name": "十六萤Izayoi",
+    "type": "vtuber",
+    "room": 1741667419,
+    "group_name": "VirtuaReal"
+  },
   "1150417011": {
     "name": "瓜瓜偷猹",
     "type": "vtuber",
@@ -35097,6 +35103,12 @@
     "name": "入福步Ayumi",
     "type": "vtuber",
     "room": 30655179,
+    "group_name": "VirtuaReal"
+  },
+  "1298779265": {
+    "name": "灰泽满Hazel",
+    "type": "vtuber",
+    "room": 1713546334,
     "group_name": "VirtuaReal"
   },
   "1299484808": {
@@ -37264,6 +37276,12 @@
     "type": "vtuber",
     "room": 23179536,
     "group_name": ""
+  },
+  "1536601294": {
+    "name": "莉蔻Liko",
+    "type": "vtuber",
+    "room": 1713548468,
+    "group_name": "VirtuaReal"
   },
   "1536735500": {
     "name": "桔茶ヤヤ",
@@ -42376,6 +42394,12 @@
     "type": "vtuber",
     "room": 25712165,
     "group_name": "星云社_CosmicNebula"
+  },
+  "2091418780": {
+    "name": "克罗雅Kloa",
+    "type": "vtuber",
+    "room": 1986461465,
+    "group_name": "VirtuaReal"
   },
   "2091622893": {
     "name": "与祝Kumihogi",

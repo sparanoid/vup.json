@@ -39276,6 +39276,13 @@
     "face": "/bfs/face/90ef59858c0661c4aa2e3ff9277f4c20ee16e233.jpg",
     "group_name": ""
   },
+  "1149064559": {
+    "name": "十六萤Izayoi",
+    "type": "vtuber",
+    "room_id": 1741667419,
+    "face": "/bfs/face/32d519c922418e507cf668cda2f4bfb55e514cc6.jpg",
+    "group_name": "VirtuaReal"
+  },
   "1150417011": {
     "name": "瓜瓜偷猹",
     "type": "vtuber",
@@ -40947,6 +40954,13 @@
     "type": "vtuber",
     "room_id": 30655179,
     "face": "/bfs/face/f55cc48c5016c7584082c4b4c6e95d8fbd280fa5.jpg",
+    "group_name": "VirtuaReal"
+  },
+  "1298779265": {
+    "name": "灰泽满Hazel",
+    "type": "vtuber",
+    "room_id": 1713546334,
+    "face": "/bfs/face/dec6277a33397ce7ca886b90b028460f612ffc59.jpg",
     "group_name": "VirtuaReal"
   },
   "1299484808": {
@@ -43475,6 +43489,13 @@
     "room_id": 23179536,
     "face": "/bfs/face/167c1212fb904b21363e4517e6e7411aa77367f4.jpg",
     "group_name": ""
+  },
+  "1536601294": {
+    "name": "莉蔻Liko",
+    "type": "vtuber",
+    "room_id": 1713548468,
+    "face": "/bfs/face/67707fc70753cc09be0da8bf24d307988bda2a36.jpg",
+    "group_name": "VirtuaReal"
   },
   "1536735500": {
     "name": "桔茶ヤヤ",
@@ -49439,6 +49460,13 @@
     "room_id": 25712165,
     "face": "/bfs/face/f25ae156f41556f897418af27c1208690ad377c0.jpg",
     "group_name": "星云社_CosmicNebula"
+  },
+  "2091418780": {
+    "name": "克罗雅Kloa",
+    "type": "vtuber",
+    "room_id": 1986461465,
+    "face": "/bfs/face/871fdefc8af0426164db893a3ee838011e5b20bb.jpg",
+    "group_name": "VirtuaReal"
   },
   "2091622893": {
     "name": "与祝Kumihogi",
