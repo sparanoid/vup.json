@@ -5109,6 +5109,13 @@
     "face": "/bfs/face/e3e4b41e9ac1df1b519c476c692ad8692d37bf18.jpg",
     "group_name": "英灵殿ValhallaClub"
   },
+  "2255740": {
+    "name": "你的苏暖",
+    "type": "vtuber",
+    "room_id": 24541,
+    "face": "/bfs/face/c9b954da02a08bee45ca63fe653aeab8989d7c85.jpg",
+    "group_name": ""
+  },
   "2257737": {
     "name": "Haruhi丶",
     "type": "vtuber",
@@ -65411,7 +65418,7 @@
     "name": "破碎白巧-cathy",
     "type": "vtuber",
     "room_id": 1851659518,
-    "face": "/bfs/face/7bc76f71617cfb46fcd613ef54276ea3c26f7241.jpg",
+    "face": "/bfs/face/ecf13a2935212496683330f5b04ee09363aaa0cc.jpg",
     "group_name": ""
   },
   "3546813252503740": {

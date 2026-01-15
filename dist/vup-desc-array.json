@@ -6570,6 +6570,15 @@
     "group_name": "英灵殿ValhallaClub"
   },
   {
+    "uid": 2255740,
+    "name": "你的苏暖",
+    "type": "vtuber",
+    "room": 24541,
+    "face": "/bfs/face/c9b954da02a08bee45ca63fe653aeab8989d7c85.jpg",
+    "sign": "山高路远 谢谢你为我而来\n丨 最近好累 先不谢了",
+    "group_name": ""
+  },
+  {
     "uid": 2257737,
     "name": "Haruhi丶",
     "type": "vtuber",
@@ -83327,7 +83336,7 @@
     "type": "vtuber",
     "room": 1706438507,
     "face": "/bfs/face/33d41225b4f7445c4ebc99257817f83365d102f5.jpg",
-    "sign": "& 晚九点播置顶周表｜神秘组织1005164464 ∦",
+    "sign": "& 置顶周表｜神秘组织1005164464 ∦",
     "group_name": ""
   },
   {
@@ -84100,7 +84109,7 @@
     "name": "破碎白巧-cathy",
     "type": "vtuber",
     "room": 1851659518,
-    "face": "/bfs/face/7bc76f71617cfb46fcd613ef54276ea3c26f7241.jpg",
+    "face": "/bfs/face/ecf13a2935212496683330f5b04ee09363aaa0cc.jpg",
     "sign": "全曲风歌势，擅长旋律、流行，rap翻唱，开播时间23：00-11：00，喜欢白巧点个关注",
     "group_name": ""
   },
