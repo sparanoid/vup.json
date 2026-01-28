@@ -29532,6 +29532,13 @@
     "face": "/bfs/face/e587540fe2d786154930b8bf07dd085db5f7d1cc.jpg",
     "group_name": ""
   },
+  "452075137": {
+    "name": "仓鼠天小莫Teeemo",
+    "type": "vtuber",
+    "room_id": 25906880,
+    "face": "/bfs/face/2f0d25dd87239c05b35f7822d04513ef8d7d12cb.jpg",
+    "group_name": ""
+  },
   "452100632": {
     "name": "阿露丝的脸部消肿院",
     "type": "unknown",
@@ -46266,7 +46273,7 @@
     "name": "六六想啃竹子la",
     "type": "vtuber",
     "room_id": 1896540583,
-    "face": "/bfs/face/44e3bcaab371ec3cf9ec8217bba67f25d5df9417.jpg",
+    "face": "/bfs/face/8242234faf7d0a9dc9a0f034804580f9b6193348.jpg",
     "group_name": ""
   },
   "1795716989": {
@@ -67120,6 +67127,13 @@
     "type": "vtuber",
     "room_id": 1963475927,
     "face": "/bfs/face/f3b0cc105ae65c2a7a5420d3660355a9460a3bd9.jpg",
+    "group_name": ""
+  },
+  "3690988428069453": {
+    "name": "You米o",
+    "type": "vtuber",
+    "room_id": 1817612803,
+    "face": "/bfs/face/1fbb34014e3d79c8a834dec607504dc450761378.jpg",
     "group_name": ""
   }
 }

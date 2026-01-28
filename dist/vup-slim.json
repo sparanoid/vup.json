@@ -25313,6 +25313,12 @@
     "room": 24391363,
     "group_name": ""
   },
+  "452075137": {
+    "name": "仓鼠天小莫Teeemo",
+    "type": "vtuber",
+    "room": 25906880,
+    "group_name": ""
+  },
   "452100632": {
     "name": "阿露丝的脸部消肿院",
     "type": "unknown",
@@ -57531,6 +57537,12 @@
     "name": "小咪Mevo",
     "type": "vtuber",
     "room": 1963475927,
+    "group_name": ""
+  },
+  "3690988428069453": {
+    "name": "You米o",
+    "type": "vtuber",
+    "room": 1817612803,
     "group_name": ""
   }
 }

@@ -37971,6 +37971,15 @@
     "group_name": ""
   },
   {
+    "uid": 452075137,
+    "name": "仓鼠天小莫Teeemo",
+    "type": "vtuber",
+    "room": 25906880,
+    "face": "/bfs/face/2f0d25dd87239c05b35f7822d04513ef8d7d12cb.jpg",
+    "sign": "欢迎关注｜仓鼠区\nFurry仓鼠vup，是攻、编剧、能唱\n周更福瑞剧场/仓鼠萌宠，欢迎预约",
+    "group_name": ""
+  },
+  {
     "uid": 452100632,
     "name": "阿露丝的脸部消肿院",
     "type": "unknown",
@@ -59485,7 +59494,7 @@
     "name": "六六想啃竹子la",
     "type": "vtuber",
     "room": 1896540583,
-    "face": "/bfs/face/44e3bcaab371ec3cf9ec8217bba67f25d5df9417.jpg",
+    "face": "/bfs/face/8242234faf7d0a9dc9a0f034804580f9b6193348.jpg",
     "sign": "“等你”元气、杂谈、唱歌熊猫势！每晚22：00-4：00等你喔~\n爱六小屋Q：114190323",
     "group_name": ""
   },
@@ -86298,6 +86307,15 @@
     "room": 1963475927,
     "face": "/bfs/face/f3b0cc105ae65c2a7a5420d3660355a9460a3bd9.jpg",
     "sign": "温柔与飒气并存 这局由我定调掉落时间8.00-14.00 粉丝群号963595038",
+    "group_name": ""
+  },
+  {
+    "uid": 3690988428069453,
+    "name": "You米o",
+    "type": "vtuber",
+    "room": 1817612803,
+    "face": "/bfs/face/1fbb34014e3d79c8a834dec607504dc450761378.jpg",
+    "sign": "相机喜欢镜头里的每个故事\n每晚10:00-4:00等你来赴约\n粉丝QQ 群1073551750",
     "group_name": ""
   }
 ]
