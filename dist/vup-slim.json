@@ -14922,7 +14922,7 @@
     "group_name": ""
   },
   "35038171": {
-    "name": "akiyo最萌易冰冰",
+    "name": "akiyo易冰冰一小鱼干",
     "type": "vtuber",
     "room": 2002290,
     "group_name": ""
@@ -14964,7 +14964,7 @@
     "group_name": ""
   },
   "35478071": {
-    "name": "我是言知",
+    "name": "言知ことば",
     "type": "vtuber",
     "room": 3080061,
     "group_name": ""
@@ -57550,5 +57550,11 @@
     "type": "vtuber",
     "room": 1817612803,
     "group_name": ""
+  },
+  "3691005232548344": {
+    "name": "博衣小夜璃_Official",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "Hololive"
   }
 }
