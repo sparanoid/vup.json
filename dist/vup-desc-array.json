@@ -16254,6 +16254,15 @@
     "group_name": ""
   },
   {
+    "uid": 13321242,
+    "name": "木子吃饱饱",
+    "type": "vtuber",
+    "room": 6603389,
+    "face": "/bfs/face/856dbadd45ed68242774200473be6a7ca95c3361.jpg",
+    "sign": "是猫是猫！",
+    "group_name": ""
+  },
+  {
     "uid": 13324696,
     "name": "来瓶美芝",
     "type": "vtuber",
@@ -45630,6 +45639,15 @@
     "group_name": ""
   },
   {
+    "uid": 627676911,
+    "name": "悠一wakareno",
+    "type": "vtuber",
+    "room": 24957887,
+    "face": "/bfs/face/ad8c7aad6e599cb93344177e437768bcf28e081a.jpg",
+    "sign": "满天的星光 哪里是我的家",
+    "group_name": ""
+  },
+  {
     "uid": 627882362,
     "name": "白鳥萌月Meru",
     "type": "vtuber",
@@ -55564,6 +55582,15 @@
     "face": "/bfs/face/ca77d5e7be678d0787e56768e2e59415295a127c.jpg",
     "sign": "来自日本的虚拟主播、ProProProduction二期生的白瀬葵（SHIROSE AOI）",
     "group_name": "propro production"
+  },
+  {
+    "uid": 1508930833,
+    "name": "可爱的圈圈熊",
+    "type": "vtuber",
+    "room": 30891623,
+    "face": "/bfs/face/1502db4f5585d27af9447513da3dcb3979598dbb.jpg",
+    "sign": "【嘿咻社唯一指定吉祥物】\n正太DD势主播～\n粉丝群∶1037541557\n幸运数字：2397",
+    "group_name": ""
   },
   {
     "uid": 1509277801,
@@ -85918,7 +85945,7 @@
     "name": "Aqu_曲儿",
     "type": "vtuber",
     "room": 1740575912,
-    "face": "/bfs/face/1030568133ff4282c11a72f761ad1173db682443.jpg",
+    "face": "/bfs/face/60bf5e39cfe610925925f64e71dcd24bde561349.jpg",
     "sign": "我会一直在...不忘初心！为傻v代言\n\n直播时间：22-03 喜欢加班（\n直播日常：元气杂谈max & 游戏【cs2/鹅鸭杀/其他】",
     "group_name": ""
   },
@@ -86334,6 +86361,15 @@
     "room": 1817612803,
     "face": "/bfs/face/1fbb34014e3d79c8a834dec607504dc450761378.jpg",
     "sign": "相机喜欢镜头里的每个故事\n每晚10:00-4:00等你来赴约\n粉丝QQ 群1073551750",
+    "group_name": ""
+  },
+  {
+    "uid": 3690998125300677,
+    "name": "海月灵音",
+    "type": "vtuber",
+    "room": 1992699005,
+    "face": "/bfs/face/9481d967ccccebf43f0124b2a9ab68ec96611140.jpg",
+    "sign": "是只小海蜇   直播时间：10;00-14;00    粉群：709520497",
     "group_name": ""
   },
   {

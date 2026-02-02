@@ -12641,6 +12641,13 @@
     "face": "/bfs/face/a68923dc34ad5beec06df10de4e5839f90f6f781.jpg",
     "group_name": ""
   },
+  "13321242": {
+    "name": "木子吃饱饱",
+    "type": "vtuber",
+    "room": 6603389,
+    "face": "/bfs/face/856dbadd45ed68242774200473be6a7ca95c3361.jpg",
+    "group_name": ""
+  },
   "13324696": {
     "name": "来瓶美芝",
     "type": "vtuber",
@@ -35489,6 +35496,13 @@
     "face": "/bfs/face/7e447fa979836c699eb9f7bbff67b0a0e634d6bb.jpg",
     "group_name": ""
   },
+  "627676911": {
+    "name": "悠一wakareno",
+    "type": "vtuber",
+    "room": 24957887,
+    "face": "/bfs/face/ad8c7aad6e599cb93344177e437768bcf28e081a.jpg",
+    "group_name": ""
+  },
   "627882362": {
     "name": "白鳥萌月Meru",
     "type": "vtuber",
@@ -43216,6 +43230,13 @@
     "room": 23149122,
     "face": "/bfs/face/ca77d5e7be678d0787e56768e2e59415295a127c.jpg",
     "group_name": "propro production"
+  },
+  "1508930833": {
+    "name": "可爱的圈圈熊",
+    "type": "vtuber",
+    "room": 30891623,
+    "face": "/bfs/face/1502db4f5585d27af9447513da3dcb3979598dbb.jpg",
+    "group_name": ""
   },
   "1509277801": {
     "name": "皮皮_channel",
@@ -66825,7 +66846,7 @@
     "name": "Aqu_曲儿",
     "type": "vtuber",
     "room": 1740575912,
-    "face": "/bfs/face/1030568133ff4282c11a72f761ad1173db682443.jpg",
+    "face": "/bfs/face/60bf5e39cfe610925925f64e71dcd24bde561349.jpg",
     "group_name": ""
   },
   "3546935717792055": {
@@ -67148,6 +67169,13 @@
     "type": "vtuber",
     "room": 1817612803,
     "face": "/bfs/face/1fbb34014e3d79c8a834dec607504dc450761378.jpg",
+    "group_name": ""
+  },
+  "3690998125300677": {
+    "name": "海月灵音",
+    "type": "vtuber",
+    "room": 1992699005,
+    "face": "/bfs/face/9481d967ccccebf43f0124b2a9ab68ec96611140.jpg",
     "group_name": ""
   },
   "3691005232548344": {
