@@ -36573,7 +36573,7 @@
     "name": "潇琪Yoke",
     "type": "vtuber",
     "room": 1880054104,
-    "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+    "group_name": "冬日之家Ultra"
   },
   "1455020272": {
     "name": "喵喵腻v",
@@ -53781,7 +53781,7 @@
     "name": "黛棠OI",
     "type": "vtuber",
     "room": 1809236885,
-    "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+    "group_name": "冬日之家Ultra"
   },
   "3546585608751224": {
     "name": "只只_呆",
@@ -57592,5 +57592,11 @@
     "type": "vtuber",
     "room": 0,
     "group_name": "Hololive"
+  },
+  "3691009617693395": {
+    "name": "冬日之家Ultra",
+    "type": "group",
+    "room": 0,
+    "group_name": ""
   }
 }
