@@ -14153,13 +14153,6 @@
     "face": "/bfs/face/1391a2a2b6b7c6b0ab52e12e69be15e0d1970965.jpg",
     "group_name": ""
   },
-  "18018364": {
-    "name": "窝在家里当Sagi",
-    "type": "vtuber",
-    "room": 11946834,
-    "face": "/bfs/face/b1c1dd4bb510bcccf0cedacce0c5b65a237f7654.jpg",
-    "group_name": ""
-  },
   "18055906": {
     "name": "神宫镜子",
     "type": "vtuber",
@@ -16568,6 +16561,13 @@
     "face": "/bfs/face/0c3000ae55a25013c96517ae0cc46ca6a2924c1c.jpg",
     "group_name": ""
   },
+  "29119338": {
+    "name": "多蕾塔_Doretta",
+    "type": "vtuber",
+    "room": 1919952695,
+    "face": "/bfs/face/02b7df07e7a41604b52845b4ada8bd2a80b6446a.jpg",
+    "group_name": ""
+  },
   "29145262": {
     "name": "图波列夫的设计图",
     "type": "vtuber",
@@ -18148,6 +18148,13 @@
     "type": "vtuber",
     "room": 23055731,
     "face": "/bfs/face/c094b214ec8e7b27821984822ad639064471211b.jpg",
+    "group_name": ""
+  },
+  "41001553": {
+    "name": "灯部里多",
+    "type": "vtuber",
+    "room": 14091772,
+    "face": "/bfs/face/cbf828fb164254187693d47dfbe6db804f46c2cf.jpg",
     "group_name": ""
   },
   "41113885": {
@@ -20640,6 +20647,13 @@
     "type": "vtuber",
     "room": 4799641,
     "face": "/bfs/face/e65f0fbdeaa0861c2a30edc2690141950629df76.jpg",
+    "group_name": ""
+  },
+  "109125615": {
+    "name": "茶奶星玖HoshiKu",
+    "type": "vtuber",
+    "room": 7427409,
+    "face": "/bfs/face/df937937a89dcb6b47a9a56ee26f16bb1d716096.jpg",
     "group_name": ""
   },
   "109186775": {
@@ -61872,6 +61886,13 @@
     "face": "/bfs/face/b4664dd0e2e96792c8240d3ae953d4e3153f5f44.jpg",
     "group_name": ""
   },
+  "3546388168182650": {
+    "name": "爱摸鱼的屿泽",
+    "type": "vtuber",
+    "room": 30958781,
+    "face": "/bfs/face/a593e7e4d36f174612af093b637ba85161f809f4.jpg",
+    "group_name": ""
+  },
   "3546388300302378": {
     "name": "冬日迟迟o3o",
     "type": "vtuber",
@@ -64714,6 +64735,13 @@
     "face": "/bfs/face/201cc4793bf62006a97c7ef65689a61be1ffa8d8.jpg",
     "group_name": ""
   },
+  "3546724526196739": {
+    "name": "抓一只夏北",
+    "type": "vtuber",
+    "room": 1842352445,
+    "face": "/bfs/face/023acb7109c55200561c630cdbc0861fc21db335.jpg",
+    "group_name": ""
+  },
   "3546725413292351": {
     "name": "小清玫Ami",
     "type": "vtuber",
@@ -67129,6 +67157,13 @@
     "face": "/bfs/face/afb68a85d0d75f9186b6a547e65bd6661e35e9c4.jpg",
     "group_name": ""
   },
+  "3632318652615406": {
+    "name": "铃星offcial",
+    "type": "vtuber",
+    "room": 1783351747,
+    "face": "/bfs/face/f177ce15a83b08d2a4ae48cef2218f77c20eeffb.jpg",
+    "group_name": ""
+  },
   "3632319810243496": {
     "name": "白眠缚",
     "type": "vtuber",
@@ -67164,6 +67199,13 @@
     "face": "/bfs/face/83c099780e2c3ed9f6ab99c4a9df179da6b7e7e7.jpg",
     "group_name": ""
   },
+  "3690984841939562": {
+    "name": "澪音Rein",
+    "type": "vtuber",
+    "room": 1963478893,
+    "face": "/bfs/face/b03e7aeffd4f7c04beddaa49732b864f530a8eb5.jpg",
+    "group_name": ""
+  },
   "3690985466890432": {
     "name": "小咪Mevo",
     "type": "vtuber",
@@ -67176,6 +67218,13 @@
     "type": "vtuber",
     "room": 1817612803,
     "face": "/bfs/face/1fbb34014e3d79c8a834dec607504dc450761378.jpg",
+    "group_name": ""
+  },
+  "3690994425924255": {
+    "name": "澪0_Echo",
+    "type": "vtuber",
+    "room": 1938418339,
+    "face": "/bfs/face/6db2123bc44fb8c677005993e64af3189498b538.jpg",
     "group_name": ""
   },
   "3690998125300677": {

@@ -14154,13 +14154,6 @@
     "group_name": ""
   },
   {
-    "uid": 18018364,
-    "name": "窝在家里当Sagi",
-    "type": "vtuber",
-    "room": 11946834,
-    "group_name": ""
-  },
-  {
     "uid": 18055906,
     "name": "神宫镜子",
     "type": "vtuber",
@@ -16569,6 +16562,13 @@
     "group_name": ""
   },
   {
+    "uid": 29119338,
+    "name": "多蕾塔_Doretta",
+    "type": "vtuber",
+    "room": 1919952695,
+    "group_name": ""
+  },
+  {
     "uid": 29145262,
     "name": "图波列夫的设计图",
     "type": "vtuber",
@@ -18148,6 +18148,13 @@
     "name": "影森一輝_Kazuki",
     "type": "vtuber",
     "room": 23055731,
+    "group_name": ""
+  },
+  {
+    "uid": 41001553,
+    "name": "灯部里多",
+    "type": "vtuber",
+    "room": 14091772,
     "group_name": ""
   },
   {
@@ -20640,6 +20647,13 @@
     "name": "花黎Flowery",
     "type": "vtuber",
     "room": 4799641,
+    "group_name": ""
+  },
+  {
+    "uid": 109125615,
+    "name": "茶奶星玖HoshiKu",
+    "type": "vtuber",
+    "room": 7427409,
     "group_name": ""
   },
   {
@@ -61873,6 +61887,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546388168182650,
+    "name": "爱摸鱼的屿泽",
+    "type": "vtuber",
+    "room": 30958781,
+    "group_name": ""
+  },
+  {
     "uid": 3546388300302378,
     "name": "冬日迟迟o3o",
     "type": "vtuber",
@@ -64715,6 +64736,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546724526196739,
+    "name": "抓一只夏北",
+    "type": "vtuber",
+    "room": 1842352445,
+    "group_name": ""
+  },
+  {
     "uid": 3546725413292351,
     "name": "小清玫Ami",
     "type": "vtuber",
@@ -67130,6 +67158,13 @@
     "group_name": ""
   },
   {
+    "uid": 3632318652615406,
+    "name": "铃星offcial",
+    "type": "vtuber",
+    "room": 1783351747,
+    "group_name": ""
+  },
+  {
     "uid": 3632319810243496,
     "name": "白眠缚",
     "type": "vtuber",
@@ -67165,6 +67200,13 @@
     "group_name": ""
   },
   {
+    "uid": 3690984841939562,
+    "name": "澪音Rein",
+    "type": "vtuber",
+    "room": 1963478893,
+    "group_name": ""
+  },
+  {
     "uid": 3690985466890432,
     "name": "小咪Mevo",
     "type": "vtuber",
@@ -67176,6 +67218,13 @@
     "name": "You米o新年求好运版",
     "type": "vtuber",
     "room": 1817612803,
+    "group_name": ""
+  },
+  {
+    "uid": 3690994425924255,
+    "name": "澪0_Echo",
+    "type": "vtuber",
+    "room": 1938418339,
     "group_name": ""
   },
   {
