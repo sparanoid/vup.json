@@ -29753,7 +29753,7 @@
     "name": "鸣悠Fae",
     "type": "vtuber",
     "room_id": 1746239930,
-    "face": "/bfs/face/92f682eb47093be79a0a53663c726947cf98f546.jpg",
+    "face": "/bfs/face/8e85c660e75d085c445c23dff80767508ec0e843.jpg",
     "group_name": ""
   },
   "455868075": {
@@ -65069,6 +65069,13 @@
     "type": "vtuber",
     "room_id": 1844970396,
     "face": "/bfs/face/4bfe93c519f1e196cfc52f0978aac64c1cc16187.jpg",
+    "group_name": ""
+  },
+  "3546757543758795": {
+    "name": "铃见Suzumi",
+    "type": "vtuber",
+    "room_id": 1960951891,
+    "face": "/bfs/face/cf0a184b50ad2bbcb629b91c47fd729afdeecdd9.jpg",
     "group_name": ""
   },
   "3546757724113807": {
