@@ -4308,7 +4308,7 @@
     "name": "Yuka碳",
     "type": "vtuber",
     "room_id": 179883,
-    "face": "/bfs/face/1ea205c7464ee4798b79d637eeb693fd137db80e.jpg",
+    "face": "/bfs/face/dd9c9eb7227c97997eebd5528bb8e4c46511898c.jpg",
     "group_name": "P.K.S"
   },
   "1755400": {
@@ -14423,7 +14423,7 @@
     "name": "゙悅音幻絲",
     "type": "vtuber",
     "room_id": 473323,
-    "face": "/bfs/face/7973ee88bae0ef14cb122eca3407d551ad18418d.jpg",
+    "face": "/bfs/face/8665110362c6418a783f08f69582b39f89a8c4d4.jpg",
     "group_name": ""
   },
   "19369243": {
@@ -16103,7 +16103,7 @@
     "name": "什么小甜",
     "type": "vtuber",
     "room_id": 25699579,
-    "face": "/bfs/face/855fb7d8908e2cf88620535a7bc07f0be6620ea9.jpg",
+    "face": "/bfs/face/9900b1fca2a6483b22ed54923707cc117d980f4f.jpg",
     "group_name": ""
   },
   "25852539": {
@@ -16761,7 +16761,7 @@
     "name": "Awing鸮鸮",
     "type": "vtuber",
     "room_id": 265147,
-    "face": "/bfs/face/e0763bf8a68cee6ea34e64a77ae7f0d3907b41a3.jpg",
+    "face": "/bfs/face/e5af2f81503d093ecb90b212f8ae6b9cbe8b9e30.jpg",
     "group_name": ""
   },
   "30962669": {
@@ -40414,7 +40414,7 @@
     "name": "菲莉丝_Phyllis",
     "type": "vtuber",
     "room_id": 23365207,
-    "face": "/bfs/face/4ba15d1be4a1e58ca3c8e8a0087c108f1191155c.jpg",
+    "face": "/bfs/face/528600043774ff0de245faa12410b749c48f9b42.jpg",
     "group_name": "星云社_CosmicNebula"
   },
   "1245370792": {
@@ -41739,6 +41739,13 @@
     "room_id": 27452526,
     "face": "/bfs/face/5d7bf99e9e250b04c62ebf3692a7fe8fcc4d538d.jpg",
     "group_name": ""
+  },
+  "1372156475": {
+    "name": "盐无Shio",
+    "type": "vtuber",
+    "room_id": 1869218005,
+    "face": "/bfs/face/2d09aff557166c664fad2f38e60127e7f5aa3944.jpg",
+    "group_name": "八木百货"
   },
   "1372533496": {
     "name": "噗叽Honey",
@@ -43270,7 +43277,7 @@
     "name": "皮皮_channel",
     "type": "vtuber",
     "room_id": 25793705,
-    "face": "/bfs/face/1625a962ba082f21b486143b52f7ff6444046438.jpg",
+    "face": "/bfs/face/096de88ba93866173fc2163adee74bb48e14f130.jpg",
     "group_name": ""
   },
   "1509526938": {
@@ -58894,7 +58901,7 @@
     "name": "池乐还是有点饿",
     "type": "vtuber",
     "room_id": 30017344,
-    "face": "/bfs/face/af9997bf9a32361abc1eba190e86af479585c47e.webp",
+    "face": "/bfs/face/0285745b98e173548c087a41f542bbc2e1011b6c.webp",
     "group_name": "Hanabi_live"
   },
   "3494358395390395": {
@@ -60301,7 +60308,7 @@
     "name": "球球_zZ",
     "type": "vtuber",
     "room_id": 30315337,
-    "face": "/bfs/face/511893067a4d8ac5d90cb647fba1c0f8eb795279.jpg",
+    "face": "/bfs/face/04f25dfacaa730833bd6be41350831da81784ddc.jpg",
     "group_name": ""
   },
   "3494377901000718": {
@@ -61918,7 +61925,7 @@
     "name": "花奏夜kuku",
     "type": "vtuber",
     "room_id": 30917141,
-    "face": "/bfs/face/961bcabd69e80ecc503b23dcd3eeffaf480982e6.jpg",
+    "face": "/bfs/face/ec444434a8aa641a59cc416631d516299bf7e8ba.jpg",
     "group_name": ""
   },
   "3546388438715068": {
@@ -62702,7 +62709,7 @@
     "name": "吉普莉特Jipulite",
     "type": "vtuber",
     "room_id": 32257384,
-    "face": "/bfs/face/8f963ee0ceb2bc2ae079ab1557b5bb36099477f3.jpg",
+    "face": "/bfs/face/5cd9655ed62ec016009087051761a5f5a479c403.jpg",
     "group_name": ""
   },
   "3546583383673229": {
