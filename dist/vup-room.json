@@ -55884,7 +55884,7 @@
     "name": "妮莉安Lily",
     "type": "vtuber",
     "room_id": 27484357,
-    "face": "/bfs/face/0f32efc5fb51e9deab9f34aa73b4ced183a56559.webp",
+    "face": "/bfs/face/9bd37f56f6680b99d6e3b0a360e9fb614073e08e.jpg",
     "group_name": ""
   },
   "3493271139519299": {
@@ -61703,6 +61703,13 @@
     "room_id": 30834702,
     "face": "/bfs/face/8a6f07f618eb03e0ee525fb5e9d1ddb91ee19fa6.jpg",
     "group_name": "纸片人计划"
+  },
+  "3546382839318691": {
+    "name": "阿芙拉Aphra",
+    "type": "vtuber",
+    "room_id": 30801245,
+    "face": "/bfs/face/2cae3731868cd749c7c4b33e6ee6ac4fc0a87e30.jpg",
+    "group_name": ""
   },
   "3546382868678789": {
     "name": "梨里的里",
