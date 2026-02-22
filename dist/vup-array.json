@@ -20152,6 +20152,14 @@
     "group_name": ""
   },
   {
+    "uid": 36459988,
+    "name": "王稀饭-",
+    "type": "vtuber",
+    "room": 1684998,
+    "face": "/bfs/face/840d373e10d2298bb85078a748e6e4e6dcb628cd.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 36576761,
     "name": "诗小雅Official",
     "type": "vtuber",
@@ -29013,6 +29021,14 @@
     "type": "vtuber",
     "room": 24582879,
     "face": "/bfs/face/11d3a66d963bd8dcee3c9b85952eb27d6dce9077.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 365188473,
+    "name": "不眠星辰official",
+    "type": "vtuber",
+    "room": 31360900,
+    "face": "/bfs/face/6ed9509a21d107078a0e5630d61b8f88acc551fa.jpg",
     "group_name": ""
   },
   {
@@ -53500,7 +53516,7 @@
     "name": "阿南lna",
     "type": "vtuber",
     "room": 1753113828,
-    "face": "/bfs/face/bd6ab225dd823945be198c21d5c0a99a823ef212.jpg",
+    "face": "/bfs/face/aebc1111ebc29de1aece5a7dcf1f45339575c760.jpg",
     "group_name": ""
   },
   {
@@ -74501,7 +74517,7 @@
     "type": "vtuber",
     "room": 1945800335,
     "face": "/bfs/face/5875d32c4e75a8d8678f195cf01c8df002a8d8ee.jpg",
-    "group_name": "果子本铺"
+    "group_name": "果子本铺（北立交桥）"
   },
   {
     "uid": 3546767981283899,
@@ -75661,7 +75677,7 @@
     "type": "vtuber",
     "room": 1949987026,
     "face": "/bfs/face/6f05177789fb9c6b384859889d57f5c1d2138d3f.jpg",
-    "group_name": "果子本铺"
+    "group_name": "果子本铺（北立交桥）"
   },
   {
     "uid": 3546876143995121,
@@ -76221,7 +76237,7 @@
     "type": "vtuber",
     "room": 1837222289,
     "face": "/bfs/face/37506116cf7f4f5cc2f25a99a5d8773fc598abbf.jpg",
-    "group_name": "果子本铺"
+    "group_name": "果子本铺（北立交桥）"
   },
   {
     "uid": 3546911451646314,
@@ -76390,6 +76406,14 @@
     "room": 1753197871,
     "face": "/bfs/face/2d31801be51cad34afb672cf60601cfcee5bd1a1.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546932211353626,
+    "name": "活鱼曼波",
+    "type": "vtuber",
+    "room": 1963694307,
+    "face": "/bfs/face/5f1285fafc3930eebf82c1eb146170269655e02b.jpg",
+    "group_name": "果子本铺（北立交桥）"
   },
   {
     "uid": 3546933324941477,
@@ -76621,7 +76645,7 @@
     "type": "vtuber",
     "room": 1746171698,
     "face": "/bfs/face/3770fdd2e325e5b3aa351237b64884a8408c8b36.jpg",
-    "group_name": "果子本铺"
+    "group_name": "果子本铺（北立交桥）"
   },
   {
     "uid": 3546957247154900,

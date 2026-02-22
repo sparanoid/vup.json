@@ -17633,6 +17633,13 @@
     "group_name": ""
   },
   {
+    "uid": 36459988,
+    "name": "王稀饭-",
+    "type": "vtuber",
+    "room": 1684998,
+    "group_name": ""
+  },
+  {
     "uid": 36576761,
     "name": "诗小雅Official",
     "type": "vtuber",
@@ -25386,6 +25393,13 @@
     "name": "星之胖久",
     "type": "vtuber",
     "room": 24582879,
+    "group_name": ""
+  },
+  {
+    "uid": 365188473,
+    "name": "不眠星辰official",
+    "type": "vtuber",
+    "room": 31360900,
     "group_name": ""
   },
   {
@@ -65188,7 +65202,7 @@
     "name": "小鸟遊Ayu",
     "type": "vtuber",
     "room": 1945800335,
-    "group_name": "果子本铺"
+    "group_name": "果子本铺（北立交桥）"
   },
   {
     "uid": 3546767981283899,
@@ -66203,7 +66217,7 @@
     "name": "星宫晴琉",
     "type": "vtuber",
     "room": 1949987026,
-    "group_name": "果子本铺"
+    "group_name": "果子本铺（北立交桥）"
   },
   {
     "uid": 3546876143995121,
@@ -66693,7 +66707,7 @@
     "name": "夜凪冷波",
     "type": "vtuber",
     "room": 1837222289,
-    "group_name": "果子本铺"
+    "group_name": "果子本铺（北立交桥）"
   },
   {
     "uid": 3546911451646314,
@@ -66841,6 +66855,13 @@
     "type": "vtuber",
     "room": 1753197871,
     "group_name": ""
+  },
+  {
+    "uid": 3546932211353626,
+    "name": "活鱼曼波",
+    "type": "vtuber",
+    "room": 1963694307,
+    "group_name": "果子本铺（北立交桥）"
   },
   {
     "uid": 3546933324941477,
@@ -67043,7 +67064,7 @@
     "name": "枫乃暁铃",
     "type": "vtuber",
     "room": 1746171698,
-    "group_name": "果子本铺"
+    "group_name": "果子本铺（北立交桥）"
   },
   {
     "uid": 3546957247154900,
