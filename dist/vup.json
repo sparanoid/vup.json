@@ -4375,7 +4375,7 @@
     "group_name": ""
   },
   "1782710": {
-    "name": "inu02",
+    "name": "しろいぬ",
     "type": "vtuber",
     "room": 51296,
     "face": "/bfs/face/53bfe6524b8e836217aa42edd4e17a0a46f659b1.jpg",
@@ -30586,7 +30586,7 @@
     "name": "粉尾喵喵",
     "type": "vtuber",
     "room": 21674945,
-    "face": "/bfs/face/4153e0aff39c51152a90ce330f836faa126959a0.jpg",
+    "face": "/bfs/face/a0af281d975a11909e18731fecaaf54e6a20e256.jpg",
     "group_name": ""
   },
   "477045775": {
@@ -34258,7 +34258,7 @@
     "group_name": ""
   },
   "568209135": {
-    "name": "元宵节限定_薯饼",
+    "name": "阴暗爬行の薯饼",
     "type": "vtuber",
     "room": 22199585,
     "face": "/bfs/face/32312c36c9e19979943b9f54cf09e72103baa6dc.jpg",
@@ -61334,10 +61334,10 @@
     "group_name": ""
   },
   "3537121006586034": {
-    "name": "怀夕Peri",
+    "name": "bilibili",
     "type": "vtuber",
-    "room": 30616542,
-    "face": "/bfs/face/0b297370fb2061d4c2cd01d1fffdc10596ce7d97.jpg",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3537121451182661": {
