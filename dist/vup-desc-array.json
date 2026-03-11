@@ -81486,6 +81486,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546608794864225,
+    "name": "呼呼miku",
+    "type": "vtuber",
+    "room": 1785949878,
+    "face": "/bfs/face/32951b2ea8c2df87c13e7d1578c2c5c3c3902519.jpg",
+    "sign": "北立交桥·冬日之家Ultra所属·二期生\n是最乖巧听话可爱聪明伶俐机智勇敢善良活泼的东北女儿",
+    "group_name": "冬日之家Ultra（北立交桥）"
+  },
+  {
     "uid": 3546609145088627,
     "name": "园金金_Official",
     "type": "vtuber",
@@ -84056,7 +84065,7 @@
     "type": "vtuber",
     "room": 1725929625,
     "face": "/bfs/face/c493289fb094113779a29b4d9a626c44132cafdf.jpg",
-    "sign": "问尘仙会丨你很好，我爱你。\n全职豹，支持黑听陪伴请放心dd！我很好，我值得。",
+    "sign": "问尘仙会丨人，豹以后会努力做更多坏事的！",
     "group_name": "问尘仙会"
   },
   {
