@@ -66429,6 +66429,13 @@
     "face": "/bfs/face/a6acd9790da7b6971247a25a8386a65a4a3bcfb5.jpg",
     "group_name": ""
   },
+  "3546879497341086": {
+    "name": "星奏Hoshi",
+    "type": "vtuber",
+    "room_id": 1966819572,
+    "face": "/bfs/face/50b2d714076841942ca71cb370ddfbf83752ea6f.jpg",
+    "group_name": ""
+  },
   "3546879870634034": {
     "name": "小白Uku",
     "type": "vtuber",
@@ -67351,7 +67358,7 @@
     "type": "vtuber",
     "room_id": 1883016085,
     "face": "/bfs/face/b63289bef54a5f312bcc1b38388293b9c593e6dc.jpg",
-    "group_name": ""
+    "group_name": "银潮project(北立交桥)"
   },
   "3546971201604245": {
     "name": "ReGLOSS_",
@@ -67477,7 +67484,7 @@
     "type": "vtuber",
     "room_id": 1917291497,
     "face": "/bfs/face/5077b36062ab6e930130ff2441d1262412850a17.jpg",
-    "group_name": ""
+    "group_name": "银潮project(北立交桥)"
   },
   "3690974121297963": {
     "name": "温九-kikyo",
@@ -67549,12 +67556,26 @@
     "face": "/bfs/face/639ad97a4478109b5d2a4a2b7de8ce6a2edfa073.jpg",
     "group_name": ""
   },
+  "3690998595062582": {
+    "name": "雪代晴haru",
+    "type": "vtuber",
+    "room_id": 1771408418,
+    "face": "/bfs/face/b1561f7d1d3ae1179bcbfee04494bea19565a209.jpg",
+    "group_name": "银潮project(北立交桥)"
+  },
   "3691005232548344": {
     "name": "博衣小夜璃_Official",
     "type": "vtuber",
     "room_id": 0,
     "face": "/bfs/face/cc8f46f5a479d11210f5cf2619d076687290ffd7.jpg",
     "group_name": "Hololive"
+  },
+  "3691006587308829": {
+    "name": "玖久奈nami",
+    "type": "vtuber",
+    "room_id": 1926709884,
+    "face": "/bfs/face/e5c903938c19119bb55e9e32755c11d01c14fe04.jpg",
+    "group_name": "银潮project(北立交桥)"
   },
   "3691009617693395": {
     "name": "冬日之家Ultra",

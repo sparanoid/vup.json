@@ -56939,6 +56939,12 @@
     "room": 1948318339,
     "group_name": ""
   },
+  "3546879497341086": {
+    "name": "星奏Hoshi",
+    "type": "vtuber",
+    "room": 1966819572,
+    "group_name": ""
+  },
   "3546879870634034": {
     "name": "小白Uku",
     "type": "vtuber",
@@ -57729,7 +57735,7 @@
     "name": "星野白玲",
     "type": "vtuber",
     "room": 1883016085,
-    "group_name": ""
+    "group_name": "银潮project(北立交桥)"
   },
   "3546971201604245": {
     "name": "ReGLOSS_",
@@ -57837,7 +57843,7 @@
     "name": "礼原恋rei",
     "type": "vtuber",
     "room": 1917291497,
-    "group_name": ""
+    "group_name": "银潮project(北立交桥)"
   },
   "3690974121297963": {
     "name": "温九-kikyo",
@@ -57899,11 +57905,23 @@
     "room": 1827735659,
     "group_name": ""
   },
+  "3690998595062582": {
+    "name": "雪代晴haru",
+    "type": "vtuber",
+    "room": 1771408418,
+    "group_name": "银潮project(北立交桥)"
+  },
   "3691005232548344": {
     "name": "博衣小夜璃_Official",
     "type": "vtuber",
     "room": 0,
     "group_name": "Hololive"
+  },
+  "3691006587308829": {
+    "name": "玖久奈nami",
+    "type": "vtuber",
+    "room": 1926709884,
+    "group_name": "银潮project(北立交桥)"
   },
   "3691009617693395": {
     "name": "冬日之家Ultra",
