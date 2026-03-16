@@ -21073,7 +21073,7 @@
     "name": "木子喵neko",
     "type": "vtuber",
     "room": 169669,
-    "face": "/bfs/face/28b5bc594b9e04d738a6bcdf4915b4536637354f.jpg",
+    "face": "/bfs/face/becb456decca38317ea67320c28e2b0a9dc7ecea.jpg",
     "sign": "计算机奥赛一等奖，爱看书、玩游戏。随缘更新喵",
     "group_name": ""
   },
@@ -60112,11 +60112,11 @@
   },
   {
     "uid": 1823708744,
-    "name": "EdelEckerd",
+    "name": "EdelEckerd账号搬家中",
     "type": "vtuber",
     "room": 26137489,
     "face": "/bfs/face/20ec4954bb11293ce26deaa3db88d015221b7d61.jpg",
-    "sign": "個人VTuberです！",
+    "sign": "日本个人VTuber！账号已搬到这里：https://b23.tv/AdpN493",
     "group_name": ""
   },
   {
@@ -85671,6 +85671,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546889578351044,
+    "name": "桃村concon",
+    "type": "vtuber",
+    "room": 1923354387,
+    "face": "/bfs/face/239b703599a601b03b18de109801189b6784943d.jpg",
+    "sign": "2026.02/17〜 大家好！我是来自中日混血的日v，我今后会多多在这里直播的请来看我哦！！",
+    "group_name": ""
+  },
+  {
     "uid": 3546891163798293,
     "name": "云知寞_Mo",
     "type": "vtuber",
@@ -86026,7 +86035,7 @@
     "name": "岚玻Rimbaud3月22生日回",
     "type": "vtuber",
     "room": 1852876187,
-    "face": "/bfs/face/18dc205301bf72953215435f22a4603131c24e12.jpg",
+    "face": "/bfs/face/37c8205701ed08ec3a26aa6cc6b8d415d558aecd.jpg",
     "sign": "奶皮子酸奶一生之敌\n冒险家协会:691122709",
     "group_name": ""
   },
@@ -86911,5 +86920,14 @@
     "face": "/bfs/face/bf10a96deccd9fd2176099aa8a9f9657503b399f.jpg",
     "sign": "［妖精管理局］-一株外星异植，原型类似琉璃唐草（粉蝶花），喜欢有趣的、未知的东西。",
     "group_name": "妖精管理局（北立交桥）"
+  },
+  {
+    "uid": 3706932347014074,
+    "name": "星见小鹿",
+    "type": "vtuber",
+    "room": 1742435516,
+    "face": "/bfs/face/b8beb4785e0a87c7a9c28e303a61a5591d32f455.jpg",
+    "sign": "只要有羁绊 就会变得更坚强 企鹅群：621678796 个人势小鹿星 每天0-6点直播 渴望得到你的注视",
+    "group_name": ""
   }
 ]

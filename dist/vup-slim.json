@@ -40074,7 +40074,7 @@
     "group_name": "P-SP"
   },
   "1823708744": {
-    "name": "EdelEckerd",
+    "name": "EdelEckerd账号搬家中",
     "type": "vtuber",
     "room": 26137489,
     "group_name": ""
@@ -57113,6 +57113,12 @@
     "room": 1929639472,
     "group_name": ""
   },
+  "3546889578351044": {
+    "name": "桃村concon",
+    "type": "vtuber",
+    "room": 1923354387,
+    "group_name": ""
+  },
   "3546891163798293": {
     "name": "云知寞_Mo",
     "type": "vtuber",
@@ -57940,5 +57946,11 @@
     "type": "vtuber",
     "room": 1771401545,
     "group_name": "妖精管理局（北立交桥）"
+  },
+  "3706932347014074": {
+    "name": "星见小鹿",
+    "type": "vtuber",
+    "room": 1742435516,
+    "group_name": ""
   }
 }

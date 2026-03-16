@@ -16390,7 +16390,7 @@
     "name": "木子喵neko",
     "type": "vtuber",
     "room": 169669,
-    "face": "/bfs/face/28b5bc594b9e04d738a6bcdf4915b4536637354f.jpg",
+    "face": "/bfs/face/becb456decca38317ea67320c28e2b0a9dc7ecea.jpg",
     "group_name": ""
   },
   "27740107": {
@@ -46753,7 +46753,7 @@
     "group_name": "P-SP"
   },
   "1823708744": {
-    "name": "EdelEckerd",
+    "name": "EdelEckerd账号搬家中",
     "type": "vtuber",
     "room": 26137489,
     "face": "/bfs/face/20ec4954bb11293ce26deaa3db88d015221b7d61.jpg",
@@ -66632,6 +66632,13 @@
     "face": "/bfs/face/8aa5afc76859ca00c7a61c107eb6c94235fd8619.jpg",
     "group_name": ""
   },
+  "3546889578351044": {
+    "name": "桃村concon",
+    "type": "vtuber",
+    "room": 1923354387,
+    "face": "/bfs/face/239b703599a601b03b18de109801189b6784943d.jpg",
+    "group_name": ""
+  },
   "3546891163798293": {
     "name": "云知寞_Mo",
     "type": "vtuber",
@@ -66909,7 +66916,7 @@
     "name": "岚玻Rimbaud3月22生日回",
     "type": "vtuber",
     "room": 1852876187,
-    "face": "/bfs/face/18dc205301bf72953215435f22a4603131c24e12.jpg",
+    "face": "/bfs/face/37c8205701ed08ec3a26aa6cc6b8d415d558aecd.jpg",
     "group_name": ""
   },
   "3546911512463455": {
@@ -67597,5 +67604,12 @@
     "room": 1771401545,
     "face": "/bfs/face/bf10a96deccd9fd2176099aa8a9f9657503b399f.jpg",
     "group_name": "妖精管理局（北立交桥）"
+  },
+  "3706932347014074": {
+    "name": "星见小鹿",
+    "type": "vtuber",
+    "room": 1742435516,
+    "face": "/bfs/face/b8beb4785e0a87c7a9c28e303a61a5591d32f455.jpg",
+    "group_name": ""
   }
 }
