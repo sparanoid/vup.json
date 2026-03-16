@@ -1830,7 +1830,7 @@
     "name": "普通游客R",
     "type": "vtuber",
     "room_id": 40171,
-    "face": "/bfs/face/044c0ad05f32107ac0c6b0fd4af100b7688d2dbd.jpg",
+    "face": "/bfs/face/82ef199842d87f8b143850071b30991ee0728071.jpg",
     "group_name": ""
   },
   "490859": {
@@ -2712,7 +2712,7 @@
     "name": "柳屋奈奈Yanagi",
     "type": "vtuber",
     "room_id": 78280,
-    "face": "/bfs/face/1f56230dd768d53bc115e81f5392e548abfa381b.jpg",
+    "face": "/bfs/face/3ecacb19a09d9673a8958f5fce11c7758f39f279.jpg",
     "group_name": ""
   },
   "719049": {
@@ -3692,7 +3692,7 @@
     "name": "海栖深水",
     "type": "vtuber",
     "room_id": 25596,
-    "face": "/bfs/face/1cae6989cd36ec146dfacff02bbe221f0a5c4fe9.jpg",
+    "face": "/bfs/face/b26989cf1db74c3768b6bf75c4e93271aabe159c.jpg",
     "group_name": ""
   },
   "1480811": {
@@ -3717,7 +3717,7 @@
     "group_name": ""
   },
   "1483670": {
-    "name": "焕焕_lyh",
+    "name": "焕焕睡不着_",
     "type": "vtuber",
     "room_id": 3006360,
     "face": "/bfs/face/cf07a06e7995bbf19a65dc49a27d14fae3c46d09.jpg",
@@ -15039,7 +15039,7 @@
     "name": "绡-Shio",
     "type": "vtuber",
     "room_id": 30517857,
-    "face": "/bfs/face/0806760facf20912f9030d2f3ba11aa0474a36fd.jpg",
+    "face": "/bfs/face/194e76af8ed1c33c28244198f1c0a9eefd361f79.jpg",
     "group_name": ""
   },
   "21485701": {
@@ -37519,6 +37519,13 @@
     "face": "/bfs/face/5e68d1116074e6df4fa26cf504ce9d169570016b.jpg",
     "group_name": ""
   },
+  "694399266": {
+    "name": "艾斯托蕾拉Estrella",
+    "type": "vtuber",
+    "room_id": 1812805142,
+    "face": "/bfs/face/4bc6de3937a62492b395075144d157b77b9d34a6.jpg",
+    "group_name": ""
+  },
   "694780077": {
     "name": "驱动露露Official",
     "type": "vtuber",
@@ -52797,7 +52804,7 @@
     "name": "溃酱",
     "type": "vtuber",
     "room_id": 27036893,
-    "face": "/bfs/face/5461e30c237fd701e8ee02309901f5dd1a9c2386.jpg",
+    "face": "/bfs/face/602a5688945866534efd85632a7a62f11f2185f4.jpg",
     "group_name": "问尘仙会"
   },
   "3493117227436462": {
@@ -56514,7 +56521,7 @@
     "name": "涅喵Neko",
     "type": "vtuber",
     "room_id": 27567205,
-    "face": "/bfs/face/e985dd88a1963a80ad31ed63c5a293ec23c47380.jpg",
+    "face": "/bfs/face/618c5deff94a3fadf6674b02b0bfebbb0fcef1e1.jpg",
     "group_name": ""
   },
   "3493277883959743": {
@@ -57729,10 +57736,10 @@
     "group_name": "虚研社"
   },
   "3493293390301322": {
-    "name": "紫罗の兰永恒花园",
+    "name": "侯爵王朝盛宴s",
     "type": "vtuber",
     "room_id": 27803464,
-    "face": "/bfs/face/dc66b16102a4cfa2825c918ccec59c5708996dc9.jpg",
+    "face": "/bfs/face/747b3193bcc65c2b056087b10197ca0c01f34d4c.jpg",
     "group_name": ""
   },
   "3493293455313734": {
@@ -58016,7 +58023,7 @@
     "group_name": ""
   },
   "3493297437805491": {
-    "name": "狐宝塔罗",
+    "name": "狐宝居居",
     "type": "vtuber",
     "room_id": 27929497,
     "face": "/bfs/face/352ee25262c86a06dd566dc90ab5fc34e9857bf0.jpg",
