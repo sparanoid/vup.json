@@ -22995,7 +22995,7 @@
     "name": "桃桃栀Momochi",
     "type": "vtuber",
     "room": 10984778,
-    "face": "/bfs/face/bc1ad51a7b4000a58bc98ddaa766bb540802add5.jpg",
+    "face": "/bfs/face/43de0076a828baa3b5912825022cbe14277562ac.jpg",
     "sign": "愿你与围绕着你的世界，今后也一直幸福下去。\n【直播时间23-10】",
     "group_name": ""
   },
@@ -47035,7 +47035,7 @@
     "name": "灰泽满Hazel",
     "type": "vtuber",
     "room": 1713546334,
-    "face": "/bfs/face/8bbea1e878392b1401e22be0c4d5d0043b5c7d6a.jpg",
+    "face": "/bfs/face/bf05fcbf250d7735eaa15118063d28384bb4aea1.jpg",
     "sign": "虚拟主播团体VirtuaReal成员，目前是学校里的风纪委员。商务合作请联系bd@vrp.live",
     "group_name": "VirtuaReal"
   },
@@ -77277,6 +77277,14 @@
     "room": 1742435516,
     "face": "/bfs/face/b8beb4785e0a87c7a9c28e303a61a5591d32f455.jpg",
     "sign": "只要有羁绊 就会变得更坚强 企鹅群：621678796 个人势小鹿星 每天0-6点直播 渴望得到你的注视",
+    "group_name": ""
+  },
+  "3706940087601786": {
+    "name": "羊娘咩咩-ASMR",
+    "type": "vtuber",
+    "room": 1813448920,
+    "face": "/bfs/face/19978ab65864b5642471b4088fd5602e30a399d1.jpg",
+    "sign": "",
     "group_name": ""
   }
 }
