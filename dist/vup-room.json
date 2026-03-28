@@ -44845,7 +44845,7 @@
     "name": "鱿米milai",
     "type": "vtuber",
     "room_id": 30238300,
-    "face": "/bfs/face/82360b7f353dd65c02488457f4b6ba11b99bbd8c.jpg",
+    "face": "/bfs/face/0f9eb0bc31062d0f3b8d4911595c7061eafa324e.jpg",
     "group_name": ""
   },
   "1642965774": {
@@ -67631,6 +67631,13 @@
     "type": "vtuber",
     "room_id": 1742435516,
     "face": "/bfs/face/b8beb4785e0a87c7a9c28e303a61a5591d32f455.jpg",
+    "group_name": ""
+  },
+  "3706937617156501": {
+    "name": "遇见桑旎",
+    "type": "vtuber",
+    "room_id": 1742434905,
+    "face": "/bfs/face/dd0aa70d38534428c86991fd80ff880ddd40bddb.jpg",
     "group_name": ""
   },
   "3706940087601786": {
