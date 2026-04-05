@@ -30474,6 +30474,15 @@
     "group_name": ""
   },
   {
+    "uid": 302084806,
+    "name": "拾叁Oracle",
+    "type": "vtuber",
+    "room": 15123820,
+    "face": "/bfs/face/50d904900ee26ff9b5df385986bf08100962353e.jpg",
+    "sign": "不会唱歌\n个人势oc向虚拟主播",
+    "group_name": ""
+  },
+  {
     "uid": 302199093,
     "name": "雪川稚乃",
     "type": "vtuber",
@@ -81531,6 +81540,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546610095098464,
+    "name": "天死Naomin",
+    "type": "vtuber",
+    "room": 1851763384,
+    "face": "/bfs/face/8fd82cf25b2da2fcd86122af48881b5b12d65980.jpg",
+    "sign": "我是来自欧洲的海外人！\n我学习中文\n我能说日语，波兰语和英语\nQQ粉丝群 : 554883457",
+    "group_name": ""
+  },
+  {
     "uid": 3546610097195542,
     "name": "Spotlight-观音",
     "type": "vtuber",
@@ -86990,6 +87008,15 @@
     "type": "vtuber",
     "room": 1813448920,
     "face": "/bfs/face/19978ab65864b5642471b4088fd5602e30a399d1.jpg",
+    "sign": "",
+    "group_name": ""
+  },
+  {
+    "uid": 3706944067996142,
+    "name": "お子ASMR-OCO",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/ca9fa193b7c15d417f38372c277a23789a6ecfc2.jpg",
     "sign": "",
     "group_name": ""
   }

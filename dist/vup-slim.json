@@ -20315,6 +20315,12 @@
     "room": 9977430,
     "group_name": ""
   },
+  "302084806": {
+    "name": "拾叁Oracle",
+    "type": "vtuber",
+    "room": 15123820,
+    "group_name": ""
+  },
   "302199093": {
     "name": "雪川稚乃",
     "type": "vtuber",
@@ -54353,6 +54359,12 @@
     "room": 32334539,
     "group_name": ""
   },
+  "3546610095098464": {
+    "name": "天死Naomin",
+    "type": "vtuber",
+    "room": 1851763384,
+    "group_name": ""
+  },
   "3546610097195542": {
     "name": "Spotlight-观音",
     "type": "vtuber",
@@ -57993,6 +58005,12 @@
     "name": "羊娘咩咩-ASMR",
     "type": "vtuber",
     "room": 1813448920,
+    "group_name": ""
+  },
+  "3706944067996142": {
+    "name": "お子ASMR-OCO",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   }
 }
