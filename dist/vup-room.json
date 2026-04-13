@@ -47956,6 +47956,13 @@
     "face": "/bfs/face/ff83a13af7c63ae51897c78c1a911b99fc99e3c7.jpg",
     "group_name": ""
   },
+  "1927804459": {
+    "name": "小琰s",
+    "type": "vtuber",
+    "room_id": 1955142035,
+    "face": "/bfs/face/9b789c10bdf34178b8919870450fc92e82a2e083.jpg",
+    "group_name": ""
+  },
   "1928416347": {
     "name": "AAA雪华琉音",
     "type": "vtuber",
@@ -67000,7 +67007,7 @@
     "name": "洛恩Ron",
     "type": "vtuber",
     "room_id": 1912489074,
-    "face": "/bfs/face/0f8456898dcfaf84666b243beaed1478006b7acb.jpg",
+    "face": "/bfs/face/b8f05bf0cc490fc4aa034ff6d2ca348c40eeee62.jpg",
     "group_name": "妖精管理局（北立交桥）"
   },
   "3546914895169649": {
