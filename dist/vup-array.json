@@ -30084,7 +30084,7 @@
     "name": "玖久宝oi",
     "type": "vtuber",
     "room": 1847876412,
-    "face": "/bfs/face/c0aa5b474f3f2a2ef0dccf37e618408a67f3556a.jpg",
+    "face": "/bfs/face/711bc6599cb75d558254763f1d90c9e1bb2cfc98.jpg",
     "group_name": ""
   },
   {
@@ -32140,7 +32140,7 @@
     "name": "识椿only",
     "type": "vtuber",
     "room": 32594823,
-    "face": "/bfs/face/fd333c3b93686846be842ba03ee86133bfc2708d.jpg",
+    "face": "/bfs/face/3115902f79c9708be2a77acfc8de4866b073fda8.jpg",
     "group_name": ""
   },
   {
@@ -77358,6 +77358,14 @@
     "room": 1813448920,
     "face": "/bfs/face/19978ab65864b5642471b4088fd5602e30a399d1.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3706943625497110,
+    "name": "诗织诺薇拉Official",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/6fd9cacaa52e832240ceca5de4477f940a6bd7e0.jpg",
+    "group_name": "Hololive EN"
   },
   {
     "uid": 3706944067996142,
