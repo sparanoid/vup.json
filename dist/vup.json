@@ -12904,7 +12904,7 @@
     "name": "死水蓮",
     "type": "vtuber",
     "room": 21609224,
-    "face": "/bfs/face/fab0130db13765da270d872520b9629c3d077b1a.jpg",
+    "face": "/bfs/face/8a8b3d39dddfdfd8c8c050756c16f8f3acd4b666.jpg",
     "group_name": ""
   },
   "13905358": {
@@ -15235,7 +15235,7 @@
     "name": "灯侨呀",
     "type": "vtuber",
     "room": 3217309,
-    "face": "/bfs/face/f3f0b4d105b115a77010411e7c3d5c681a91461f.jpg",
+    "face": "/bfs/face/e013362cffc80f13cccefcbc2b0ca1b1ae1af9e8.jpg",
     "group_name": ""
   },
   "22092066": {
@@ -19533,7 +19533,7 @@
     "name": "九重结界-符雨",
     "type": "vtuber",
     "room": 7018089,
-    "face": "/bfs/face/35676faa673dff970d9293c4cb51702758160fb4.jpg",
+    "face": "/bfs/face/ed50e02ce1d5d425d47377b60daccf8e4a10334e.jpg",
     "group_name": ""
   },
   "74092354": {
@@ -67654,6 +67654,13 @@
     "face": "/bfs/face/cc8f46f5a479d11210f5cf2619d076687290ffd7.jpg",
     "group_name": "Hololive"
   },
+  "3691005647784302": {
+    "name": "优爱yua",
+    "type": "vtuber",
+    "room": 1827734310,
+    "face": "/bfs/face/4fc98f1cfc5f142c5e4dc157fb0b7b73d0857ab3.jpg",
+    "group_name": ""
+  },
   "3691006587308829": {
     "name": "玖久奈nami",
     "type": "vtuber",
@@ -67715,6 +67722,13 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/ca9fa193b7c15d417f38372c277a23789a6ecfc2.jpg",
+    "group_name": ""
+  },
+  "3706969395300793": {
+    "name": "猫羽おかゆ",
+    "type": "vtuber",
+    "room": 1832040372,
+    "face": "/bfs/face/962fd51dcc8443acb97c35dc5abd090754cf7c15.jpg",
     "group_name": ""
   }
 }

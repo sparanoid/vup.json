@@ -14747,7 +14747,7 @@
     "name": "死水蓮",
     "type": "vtuber",
     "room": 21609224,
-    "face": "/bfs/face/fab0130db13765da270d872520b9629c3d077b1a.jpg",
+    "face": "/bfs/face/8a8b3d39dddfdfd8c8c050756c16f8f3acd4b666.jpg",
     "sign": "我是飞天狙梦女ヾ(*^^*)",
     "group_name": ""
   },
@@ -17411,7 +17411,7 @@
     "name": "灯侨呀",
     "type": "vtuber",
     "room": 3217309,
-    "face": "/bfs/face/f3f0b4d105b115a77010411e7c3d5c681a91461f.jpg",
+    "face": "/bfs/face/e013362cffc80f13cccefcbc2b0ca1b1ae1af9e8.jpg",
     "sign": "已毕业\n2022.4.23-2024.12.25\n我的立场是坚定选择单依纯。2026.4.4。",
     "group_name": ""
   },
@@ -22323,7 +22323,7 @@
     "name": "九重结界-符雨",
     "type": "vtuber",
     "room": 7018089,
-    "face": "/bfs/face/35676faa673dff970d9293c4cb51702758160fb4.jpg",
+    "face": "/bfs/face/ed50e02ce1d5d425d47377b60daccf8e4a10334e.jpg",
     "sign": "一个爱很多人的东方众",
     "group_name": ""
   },
@@ -41996,7 +41996,7 @@
     "type": "vtuber",
     "room": 25297557,
     "face": "/bfs/face/ba12d78e4c6be9686ee6c68c863b1d0098995353.jpg",
-    "sign": "性格是随心所欲！想一直做自己喜欢的事!!૮  ´͈ ᗜ `͈ ა\n感谢大家的支持和陪伴(˶ᐢᗜᐢ˶)这是我前进的动力✌︎",
+    "sign": "努力前进！总有一天可以成为很厉害的猫咪 •͈ᴗ⁃͈\n感谢你的支持和陪伴让我可以坚持做自己!!\n\n\n✧ 接商务合作&歌曲委托，欢迎私信 ✧\n\n",
     "group_name": ""
   },
   "673818668": {
@@ -77319,6 +77319,14 @@
     "sign": "博衣こより- holoX - 官方账号",
     "group_name": "Hololive"
   },
+  "3691005647784302": {
+    "name": "优爱yua",
+    "type": "vtuber",
+    "room": 1827734310,
+    "face": "/bfs/face/4fc98f1cfc5f142c5e4dc157fb0b7b73d0857ab3.jpg",
+    "sign": "爱说话的话唠猫猫，出没时间:晚上22:00-01:00，粉丝群：1087821181，想被更多人看到喵",
+    "group_name": ""
+  },
   "3691006587308829": {
     "name": "玖久奈nami",
     "type": "vtuber",
@@ -77389,6 +77397,14 @@
     "room": 0,
     "face": "/bfs/face/ca9fa193b7c15d417f38372c277a23789a6ecfc2.jpg",
     "sign": "",
+    "group_name": ""
+  },
+  "3706969395300793": {
+    "name": "猫羽おかゆ",
+    "type": "vtuber",
+    "room": 1832040372,
+    "face": "/bfs/face/962fd51dcc8443acb97c35dc5abd090754cf7c15.jpg",
+    "sign": "日本人新人VTuber！猫羽おかゆ（Nekoha Okayu）\n是一只爱唱歌的软软猫猫～\n请多多关照呀",
     "group_name": ""
   }
 }

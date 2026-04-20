@@ -67655,6 +67655,13 @@
     "group_name": "Hololive"
   },
   {
+    "uid": 3691005647784302,
+    "name": "优爱yua",
+    "type": "vtuber",
+    "room": 1827734310,
+    "group_name": ""
+  },
+  {
     "uid": 3691006587308829,
     "name": "玖久奈nami",
     "type": "vtuber",
@@ -67715,6 +67722,13 @@
     "name": "お子ASMR-OCO",
     "type": "vtuber",
     "room": 0,
+    "group_name": ""
+  },
+  {
+    "uid": 3706969395300793,
+    "name": "猫羽おかゆ",
+    "type": "vtuber",
+    "room": 1832040372,
     "group_name": ""
   }
 ]
