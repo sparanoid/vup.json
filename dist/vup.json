@@ -21048,6 +21048,13 @@
     "face": "/bfs/face/0d0975268401ddf27130f943eb3f0bf7a466dbd8.webp",
     "group_name": ""
   },
+  "174852846": {
+    "name": "索莱sole",
+    "type": "vtuber",
+    "room": 5064962,
+    "face": "/bfs/face/bff7919b6e644fe8330c896129ab47d76fe92f88.jpg",
+    "group_name": ""
+  },
   "174919184": {
     "name": "皮皮大兽兽",
     "type": "vtuber",
@@ -43259,6 +43266,13 @@
     "face": "/bfs/face/dabb967538f9b90d4fd13a68e3b4af53c9914403.jpg",
     "group_name": "NoriPro"
   },
+  "1645741770": {
+    "name": "菟咲Tux",
+    "type": "vtuber",
+    "room": 1833992549,
+    "face": "/bfs/face/d6a79384baac192ac9cea8c19062c961559e80a1.jpg",
+    "group_name": ""
+  },
   "1647745153": {
     "name": "金鱼叩叩",
     "type": "vtuber",
@@ -50978,6 +50992,13 @@
     "type": "vtuber",
     "room": 26994563,
     "face": "/bfs/face/f25cf2395aa502282116e27caf2b09b1b3554482.jpg",
+    "group_name": ""
+  },
+  "3493120939395403": {
+    "name": "糖糖吃胖了-批发冠",
+    "type": "vtuber",
+    "room": 1707157463,
+    "face": "/bfs/face/a1fe1fbfbd402f14ede9fa02a09314582b6330c8.jpg",
     "group_name": ""
   },
   "3493120943589465": {
@@ -63524,6 +63545,13 @@
     "face": "/bfs/face/1ab530327a265f659125f2cf72bce01410f1adb3.jpg",
     "group_name": ""
   },
+  "3546959558216017": {
+    "name": "神宫极乐Gokura",
+    "type": "vtuber",
+    "room": 1830096192,
+    "face": "/bfs/face/dc78d4878172468466b2a7b61376d9c36c608052.jpg",
+    "group_name": ""
+  },
   "3546959845525995": {
     "name": "清漓-Lili",
     "type": "vtuber",
@@ -63865,6 +63893,13 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/ca9fa193b7c15d417f38372c277a23789a6ecfc2.jpg",
+    "group_name": ""
+  },
+  "3706944667781306": {
+    "name": "纳兰玖酒",
+    "type": "vtuber",
+    "room": 1933489424,
+    "face": "/bfs/face/9d012e47d7c151d0825b1d72b67ed05ea428f146.jpg",
     "group_name": ""
   },
   "3706969395300793": {
