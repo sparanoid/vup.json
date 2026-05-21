@@ -48891,7 +48891,7 @@
     "name": "丸小欣xin-",
     "type": "vtuber",
     "room_id": 1724215455,
-    "face": "/bfs/face/0b7a91166f6217a4ba39c97903b51dcd8d14ace4.jpg",
+    "face": "/bfs/face/b1fc0438f65e698085638cf0a8084ac374908d7a.jpg",
     "group_name": ""
   },
   "3461572502489809": {
@@ -62181,7 +62181,7 @@
     "group_name": "Fulaco-Official"
   },
   "3546828794497947": {
-    "name": "弥川苦茶_520生日版",
+    "name": "弥川苦茶",
     "type": "vtuber",
     "room_id": 1738561996,
     "face": "/bfs/face/9fffbc3be44373a943102bfac15383da1efa517f.jpg",
@@ -63481,6 +63481,13 @@
     "room_id": 1856109268,
     "face": "/bfs/face/dd2480449c32cf2de3bdfb328bb642100dfc3763.jpg",
     "group_name": ""
+  },
+  "3546953881225504": {
+    "name": "塞伦saran",
+    "type": "vtuber",
+    "room_id": 1781258688,
+    "face": "/bfs/face/ba0b5ed2823187681b5dded3fa9fbb1182faaefc.jpg",
+    "group_name": "奥兹奇旅团（北立交桥）"
   },
   "3546954162243807": {
     "name": "花祈祈_haki",
