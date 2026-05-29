@@ -13500,6 +13500,15 @@
     "group_name": ""
   },
   {
+    "uid": 9347784,
+    "name": "小兔煲",
+    "type": "vtuber",
+    "room": 2704742,
+    "face": "/bfs/face/8fbbaede8beb8f7e74fa3efa1d32ba0d11eac655.jpg",
+    "sign": "是一块电子小面包",
+    "group_name": ""
+  },
+  {
     "uid": 9354907,
     "name": "空酱酱酱_",
     "type": "vtuber",
@@ -16862,7 +16871,7 @@
     "type": "vtuber",
     "room": 4472957,
     "face": "/bfs/face/d80e3c1b88b22699f9f809635692ae69dff81dd1.jpg",
-    "sign": "火热赤诚狮子女 唱聊期待一个你直播时间：工作日8:00-10:00 20:00——00:00 周六周天白天掉落",
+    "sign": "火热赤诚狮子女 唱聊期待一个你直播时间：工作日7:00-9:00 20:00——00:00 周六周天白天掉落",
     "group_name": ""
   },
   {
@@ -44329,8 +44338,8 @@
     "name": "悠一wakareno",
     "type": "vtuber",
     "room": 24957887,
-    "face": "/bfs/face/b8d2289bf33cb650ac174318b42005347efc331e.jpg",
-    "sign": "天空落下雨 好像在问你who u wanna be",
+    "face": "/bfs/face/abb534de62379de50dac12ed1357826f46788dbb.jpg",
+    "sign": "努力证明这一切直到我遍体鳞伤",
     "group_name": ""
   },
   {
@@ -77829,6 +77838,15 @@
     "room": 32664219,
     "face": "/bfs/face/c2e423555af53ed3d7fe137d11bc87f94567c45f.jpg",
     "sign": "我们都讨厌无暇的完美。",
+    "group_name": ""
+  },
+  {
+    "uid": 3546663811549900,
+    "name": "伊莫可Imoko",
+    "type": "vtuber",
+    "room": 32515217,
+    "face": "/bfs/face/ffcad95fa22955de49dee24436bf1dc7f60f3bb1.jpg",
+    "sign": "KON IMO——",
     "group_name": ""
   },
   {

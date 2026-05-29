@@ -10500,6 +10500,13 @@
     "group_name": ""
   },
   {
+    "uid": 9347784,
+    "name": "小兔煲",
+    "type": "vtuber",
+    "room": 2704742,
+    "group_name": ""
+  },
+  {
     "uid": 9354907,
     "name": "空酱酱酱_",
     "type": "vtuber",
@@ -60533,6 +60540,13 @@
     "name": "米菈Mirra",
     "type": "vtuber",
     "room": 32664219,
+    "group_name": ""
+  },
+  {
+    "uid": 3546663811549900,
+    "name": "伊莫可Imoko",
+    "type": "vtuber",
+    "room": 32515217,
     "group_name": ""
   },
   {

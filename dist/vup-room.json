@@ -10499,6 +10499,13 @@
     "face": "/bfs/face/7ef71331a8dd325b702f1b2fe51b6c37c3f07c1a.jpg",
     "group_name": ""
   },
+  "9347784": {
+    "name": "小兔煲",
+    "type": "vtuber",
+    "room_id": 2704742,
+    "face": "/bfs/face/8fbbaede8beb8f7e74fa3efa1d32ba0d11eac655.jpg",
+    "group_name": ""
+  },
   "9354907": {
     "name": "空酱酱酱_",
     "type": "vtuber",
@@ -34478,7 +34485,7 @@
     "name": "悠一wakareno",
     "type": "vtuber",
     "room_id": 24957887,
-    "face": "/bfs/face/b8d2289bf33cb650ac174318b42005347efc331e.jpg",
+    "face": "/bfs/face/abb534de62379de50dac12ed1357826f46788dbb.jpg",
     "group_name": ""
   },
   "627882362": {
@@ -60533,6 +60540,13 @@
     "type": "vtuber",
     "room_id": 32664219,
     "face": "/bfs/face/c2e423555af53ed3d7fe137d11bc87f94567c45f.jpg",
+    "group_name": ""
+  },
+  "3546663811549900": {
+    "name": "伊莫可Imoko",
+    "type": "vtuber",
+    "room_id": 32515217,
+    "face": "/bfs/face/ffcad95fa22955de49dee24436bf1dc7f60f3bb1.jpg",
     "group_name": ""
   },
   "3546664356809470": {
