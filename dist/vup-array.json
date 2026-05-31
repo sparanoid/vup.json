@@ -8264,6 +8264,14 @@
     "group_name": ""
   },
   {
+    "uid": 4271975,
+    "name": "希希家今天的饭",
+    "type": "vtuber",
+    "room": 4319309,
+    "face": "/bfs/face/cae88f8981c567003e82113a07c6b21ec4f9f4cd.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 4272126,
     "name": "言熙熙GenKi",
     "type": "vtuber",
@@ -24089,7 +24097,7 @@
   },
   {
     "uid": 175017927,
-    "name": "希铃菲儿_FaylP",
+    "name": "Fayl_菲儿P",
     "type": "vtuber",
     "room": 14030305,
     "face": "/bfs/face/bbbf559172297b40543d823b9a7971b05fc9425f.jpg",
@@ -57548,7 +57556,7 @@
     "name": "兔柔Tutu_",
     "type": "vtuber",
     "room": 26685206,
-    "face": "/bfs/face/d9211f47856feec2f48fee1d80e9ed620f0f7f0a.jpg",
+    "face": "/bfs/face/9a825b4d8a79c58969b8e2a0bf32c2270390092f.jpg",
     "group_name": ""
   },
   {
