@@ -22812,6 +22812,13 @@
     "face": "/bfs/face/6c17932636ea1361557eb0b72e708b584ebf0399.jpg",
     "group_name": ""
   },
+  "290734767": {
+    "name": "ling_宙_九九归一",
+    "type": "vtuber",
+    "room_id": 9208212,
+    "face": "/bfs/face/4ec6899fd138c938dd1606cff64dbf22248ee67a.jpg",
+    "group_name": ""
+  },
   "291232072": {
     "name": "晴空-Tiso",
     "type": "vtuber",
@@ -50607,6 +50614,13 @@
     "type": "vtuber",
     "room_id": 30752590,
     "face": "/bfs/face/d5305b74fc85c3a1eece88e2e7870f9edf05ebb9.jpg",
+    "group_name": ""
+  },
+  "3493114262063246": {
+    "name": "Nu神占领宇宙喵",
+    "type": "vtuber",
+    "room_id": 30409656,
+    "face": "/bfs/face/4a1ab678da1dbfbff7c9c12c87653f9863a22a86.jpg",
     "group_name": ""
   },
   "3493115295959986": {
