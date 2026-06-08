@@ -47305,6 +47305,13 @@
     "face": "/bfs/face/c83d61ee8a29c84d4f07afbb617665e4d1446701.jpg",
     "group_name": ""
   },
+  "2027158554": {
+    "name": "绫伊-w-",
+    "type": "vtuber",
+    "room_id": 1920361826,
+    "face": "/bfs/face/062bc6053a4a810c9b71a1c297dac2131cbc5155.jpg",
+    "group_name": ""
+  },
   "2028715597": {
     "name": "夜熊柊乃_Official",
     "type": "vtuber",
@@ -50440,6 +50447,13 @@
     "room_id": 26777717,
     "face": "/bfs/face/55ab836367b9ed5280f41dba3ebb34117753beab.jpg",
     "group_name": ""
+  },
+  "3493108889160468": {
+    "name": "科米Konmi",
+    "type": "vtuber",
+    "room_id": 26706395,
+    "face": "/bfs/face/2e4208d48b1e352b273f8c672098f9c565632ddc.jpg",
+    "group_name": "奥兹奇旅团（北立交桥）"
   },
   "3493108964657583": {
     "name": "洛魚丶",
@@ -63851,6 +63865,13 @@
     "type": "vtuber",
     "room_id": 1817612803,
     "face": "/bfs/face/b7573716d807d5a2c2c5fc7cddcfc59e016641f2.jpg",
+    "group_name": ""
+  },
+  "3690994147002654": {
+    "name": "枫铃Erable",
+    "type": "vtuber",
+    "room_id": 1817651465,
+    "face": "/bfs/face/5aadfeb72f58e5caa5c1f3e409ddbc5f06927ebd.jpg",
     "group_name": ""
   },
   "3690994425924255": {
