@@ -2021,7 +2021,7 @@
     "type": "vtuber",
     "room": 6192987,
     "face": "/bfs/face/9288588923ec9e16f30d0e6e2260a57b562ed840.jpg",
-    "sign": "不加工会。听歌民，听感第一，也做原创曲。游戏：无限暖暖、燕云，关注我有群号私信",
+    "sign": "楼兰互娱。听歌民，听感第一，也做原创曲。游戏：无限暖暖、燕云，关注我有群号私信",
     "group_name": ""
   },
   {
@@ -3849,6 +3849,15 @@
     "room": 1003172,
     "face": "/bfs/face/916b68c701103d3cd1aceac0c238d8cfe974047c.jpg",
     "sign": "二战实验性弹药爱好者\n2019年国服红管越南苏芬活动击杀第一名\n群:787394149",
+    "group_name": ""
+  },
+  {
+    "uid": 823718,
+    "name": "bilibili",
+    "type": "group",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {

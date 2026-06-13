@@ -2995,6 +2995,13 @@
     "face": "/bfs/face/916b68c701103d3cd1aceac0c238d8cfe974047c.jpg",
     "group_name": ""
   },
+  "823718": {
+    "name": "bilibili",
+    "type": "group",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "823798": {
     "name": "相沢加奈Official",
     "type": "vtuber",
