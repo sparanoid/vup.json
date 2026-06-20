@@ -58323,6 +58323,13 @@
     "face": "/bfs/face/ff3acff4a3101e949b02fea57c6019fac5c46f07.jpg",
     "group_name": ""
   },
+  "3546379582441606": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3546379855071666": {
     "name": "车厘CherryBomb",
     "type": "vtuber",
@@ -63045,7 +63052,7 @@
     "name": "卡绒_Charon",
     "type": "vtuber",
     "room": 1862088720,
-    "face": "/bfs/face/a840a17bbf33891414248cb320c0fd63c7369764.jpg",
+    "face": "/bfs/face/0f045c63c4739098ce94e9ac139f0699bacb6db4.jpg",
     "group_name": ""
   },
   "3546897526557386": {
