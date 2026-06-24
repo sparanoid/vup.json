@@ -3550,7 +3550,7 @@
     "name": "生命幻象",
     "type": "vtuber",
     "room": 209225,
-    "face": "/bfs/face/24677ec403a008581b3743af217584543228a14d.jpg",
+    "face": "/bfs/face/a4e914c389fe6be3311748ec1917d89d0e78963a.jpg",
     "sign": "专心做自己想做的事情   商务vX:hyqiuqiu19 商务qq:445591408",
     "group_name": ""
   },
@@ -81978,6 +81978,15 @@
     "room": 1878514819,
     "face": "/bfs/face/67251fbeb2083bec0465e22fd309542434a2c7ea.jpg",
     "sign": "一个平凡女高，睡梦中绑定了系统...等等！！！怎么给我下达的任务这么难啊啊啊啊啊啊啊！！！！！",
+    "group_name": ""
+  },
+  {
+    "uid": 3546978543732757,
+    "name": "银潮project",
+    "type": "group",
+    "room": 1914115729,
+    "face": "/bfs/face/594542585274fb51e8bac9eb6393f3a14563aab8.jpg",
+    "sign": "一家游戏开发公司~目前名下游戏有《vup恋爱物语》",
     "group_name": ""
   },
   {

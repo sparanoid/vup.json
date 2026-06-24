@@ -2761,7 +2761,7 @@
     "name": "生命幻象",
     "type": "vtuber",
     "room_id": 209225,
-    "face": "/bfs/face/24677ec403a008581b3743af217584543228a14d.jpg",
+    "face": "/bfs/face/a4e914c389fe6be3311748ec1917d89d0e78963a.jpg",
     "group_name": ""
   },
   "743603": {
@@ -63760,6 +63760,13 @@
     "type": "vtuber",
     "room_id": 1878514819,
     "face": "/bfs/face/67251fbeb2083bec0465e22fd309542434a2c7ea.jpg",
+    "group_name": ""
+  },
+  "3546978543732757": {
+    "name": "银潮project",
+    "type": "group",
+    "room_id": 1914115729,
+    "face": "/bfs/face/594542585274fb51e8bac9eb6393f3a14563aab8.jpg",
     "group_name": ""
   },
   "3546978958969141": {
