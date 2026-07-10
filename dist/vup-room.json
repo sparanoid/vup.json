@@ -51799,6 +51799,13 @@
     "face": "/bfs/face/0c1945769a602520239f3403b09c4e6bfedeab67.jpg",
     "group_name": ""
   },
+  "3493136449932025": {
+    "name": "思临lord",
+    "type": "vtuber",
+    "room_id": 1777486117,
+    "face": "/bfs/face/2c1df80605cc2367b40271e7e9f38adb161e2b9f.jpg",
+    "group_name": "冬日之家Ultra（北立交桥）"
+  },
   "3493136462514289": {
     "name": "安静嗷呜嗷",
     "type": "vtuber",
@@ -64034,5 +64041,12 @@
     "room_id": 1791500615,
     "face": "/bfs/face/ae9981e3f384a7c476482d61981d3147116d723a.jpg",
     "group_name": "明月生肖（北立交桥）"
+  },
+  "3707017170520389": {
+    "name": "早芽zorya",
+    "type": "vtuber",
+    "room_id": 1931029887,
+    "face": "/bfs/face/d178eff1d406b981b05b4a216054da4e7da53f5c.jpg",
+    "group_name": "冬日之家Ultra（北立交桥）"
   }
 }

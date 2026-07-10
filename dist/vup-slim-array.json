@@ -51800,6 +51800,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493136449932025,
+    "name": "思临lord",
+    "type": "vtuber",
+    "room": 1777486117,
+    "group_name": "冬日之家Ultra（北立交桥）"
+  },
+  {
     "uid": 3493136462514289,
     "name": "安静嗷呜嗷",
     "type": "vtuber",
@@ -64034,5 +64041,12 @@
     "type": "vtuber",
     "room": 1791500615,
     "group_name": "明月生肖（北立交桥）"
+  },
+  {
+    "uid": 3707017170520389,
+    "name": "早芽zorya",
+    "type": "vtuber",
+    "room": 1931029887,
+    "group_name": "冬日之家Ultra（北立交桥）"
   }
 ]

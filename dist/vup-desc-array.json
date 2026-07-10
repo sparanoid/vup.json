@@ -3551,7 +3551,7 @@
     "type": "vtuber",
     "room": 209225,
     "face": "/bfs/face/a4e914c389fe6be3311748ec1917d89d0e78963a.jpg",
-    "sign": "我是幽默大王。   商务vX:hyqiuqiu19 商务qq:445591408",
+    "sign": "一般每晚8点直播。 商务vX:hyqiuqiu19 商务qq:445591408",
     "group_name": ""
   },
   {
@@ -16844,7 +16844,7 @@
     "type": "vtuber",
     "room": 364027,
     "face": "/bfs/face/a9a82486d6f1d491b93c1b0096f95b468a55afa8.jpg",
-    "sign": "宇宙无敌社恐，八块腹肌大猛男。祝大家天天开心。\n商务/合作v：cyt_song（非本人）\n阿b只是兼职不看私信哇\n礼物领取@彩虹酱哇舰长礼物",
+    "sign": "宇宙无敌社恐，八块腹肌大猛男。祝大家天天开心。\n商务/合作v：CAIHONGJIANGWA2333\n不看私信～\n礼物领取@彩虹酱哇舰长礼物",
     "group_name": ""
   },
   {
@@ -52079,7 +52079,7 @@
     "type": "vtuber",
     "room": 1869218005,
     "face": "/bfs/face/2d09aff557166c664fad2f38e60127e7f5aa3944.jpg",
-    "sign": "是清洁工更是女高中生啊…::>_<::\n禁言直播通知群：700189380\n\n>>>>八木百货所属<<<<",
+    "sign": "录播账号@老鼠罐子 禁言直播通知群：700189380是清洁工更是女高中生啊…::>_<::  >>>>八木百货所属<<<<",
     "group_name": "八木百货"
   },
   {
@@ -66600,6 +66600,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493136449932025,
+    "name": "思临lord",
+    "type": "vtuber",
+    "room": 1777486117,
+    "face": "/bfs/face/2c1df80605cc2367b40271e7e9f38adb161e2b9f.jpg",
+    "sign": "北立交桥·冬日之家Ultra·三期生\n 想努力活下去生存下去的治愈系元气·梦灵",
+    "group_name": "冬日之家Ultra（北立交桥）"
+  },
+  {
     "uid": 3493136462514289,
     "name": "安静嗷呜嗷",
     "type": "vtuber",
@@ -79574,7 +79583,7 @@
     "type": "vtuber",
     "room": 1788392766,
     "face": "/bfs/face/45b2bfe1c69dd63404e15d29e5da4f1aef469b54.jpg",
-    "sign": "打不死咪的都会被咪打死｜晚8点直播\n商务/合作Q：2528250384（私信不保证回复）",
+    "sign": "打不死咪的都会被咪打死｜晚8点直播\n商务：2528250384/Debukinn",
     "group_name": ""
   },
   {
@@ -82330,5 +82339,14 @@
     "face": "/bfs/face/ae9981e3f384a7c476482d61981d3147116d723a.jpg",
     "sign": "【妖精管理局】放马过来啦！",
     "group_name": "明月生肖（北立交桥）"
+  },
+  {
+    "uid": 3707017170520389,
+    "name": "早芽zorya",
+    "type": "vtuber",
+    "room": 1931029887,
+    "face": "/bfs/face/d178eff1d406b981b05b4a216054da4e7da53f5c.jpg",
+    "sign": "北立交桥·冬日之家Ultra所属·三期生 是觉醒了自我意识的咖啡壶！至于怎么觉醒的…好像有点忘了…",
+    "group_name": "冬日之家Ultra（北立交桥）"
   }
 ]
