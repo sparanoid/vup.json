@@ -42448,6 +42448,14 @@
     "group_name": ""
   },
   {
+    "uid": 1034809600,
+    "name": "千早郁Kumi",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/f25aa4ab69e57378b70d66d8aa9cc7f8d49939a2.jpg",
+    "group_name": "幻光回廊Project"
+  },
+  {
     "uid": 1035652768,
     "name": "汐华花音_Official",
     "type": "vtuber",
@@ -50012,7 +50020,7 @@
     "name": "星间泉izumi",
     "type": "vtuber",
     "room": 25481267,
-    "face": "/bfs/face/member/noface.jpg",
+    "face": "/bfs/face/2c5fa1f5c548e3922c891353ad80188544645803.jpg",
     "group_name": ""
   },
   {
@@ -63128,6 +63136,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493297104358161,
+    "name": "墨风蝴蝶",
+    "type": "vtuber",
+    "room": 27862367,
+    "face": "/bfs/face/8bd7c8ae7b6ac9b2a1b64fab205f0240b79c52f4.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3493297213409571,
     "name": "巫天翼官方账号",
     "type": "vtuber",
@@ -69848,6 +69864,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546701673531456,
+    "name": "万彩kinnix",
+    "type": "vtuber",
+    "room": 1790625202,
+    "face": "/bfs/face/416fb61d40f486ed2fc1da0e6862aeb952c223cb.jpg",
+    "group_name": "幻光回廊Project"
+  },
+  {
     "uid": 3546702812285878,
     "name": "紫苏丸maru",
     "type": "vtuber",
@@ -73198,6 +73222,14 @@
     "room": 1832040372,
     "face": "/bfs/face/ee04f7f5894c0aff8447c1453e355ce4cdde963a.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3706974178904281,
+    "name": "莓可可KOKO",
+    "type": "vtuber",
+    "room": 1722698626,
+    "face": "/bfs/face/6a8759848c0ee7f335bfa7253aba66c99ce0fd5f.jpg",
+    "group_name": "星界社（北立交桥）"
   },
   {
     "uid": 3706977156860283,
