@@ -62173,6 +62173,13 @@
     "face": "/bfs/face/23e734ce868f0a8cbd58709df865c11fc934f2b0.jpg",
     "group_name": ""
   },
+  "3546812059224283": {
+    "name": "星見雪柚Yukiyo-约音私",
+    "type": "vtuber",
+    "room_id": 1774681345,
+    "face": "/bfs/face/ccdab047fcc40ebcc48ad0a918b503450d51898d.jpg",
+    "group_name": "幻光回廊Project"
+  },
   "3546813252503740": {
     "name": "猫猫大王oi",
     "type": "vtuber",
@@ -63811,6 +63818,13 @@
     "face": "/bfs/face/ab2b3abfa336bb2e9b8b1cdb5009b8fd820a7836.jpg",
     "group_name": "猫猫祟祟（北立交桥）"
   },
+  "3632287849646580": {
+    "name": "星界社",
+    "type": "group",
+    "room_id": 1755251515,
+    "face": "/bfs/face/5078488ed45d91eb90e4231ba117683cb0151920.jpg",
+    "group_name": ""
+  },
   "3632307753715852": {
     "name": "赤凛_Akarin",
     "type": "vtuber",
@@ -63944,6 +63958,13 @@
     "face": "/bfs/face/4cab20c48621ab287b47fb4b6ed4f483cd6ce265.jpg",
     "group_name": ""
   },
+  "3690996338527068": {
+    "name": "洛妄Eureka",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/bfs/face/206abd119895cd44f7c718135f666dca93f31ddd.jpg",
+    "group_name": "幻光回廊Project"
+  },
   "3690998125300677": {
     "name": "海月灵音",
     "type": "vtuber",
@@ -63999,6 +64020,13 @@
     "room_id": 0,
     "face": "/bfs/face/5ff7e863d488c35c30b73e29d5ed954c138617b6.jpg",
     "group_name": ""
+  },
+  "3691011534490289": {
+    "name": "月铃luna",
+    "type": "vtuber",
+    "room_id": 1785940712,
+    "face": "/bfs/face/c719bb5a91257e635201aaba80ecae60362a5f23.jpg",
+    "group_name": "星界社（北立交桥）"
   },
   "3691012266395947": {
     "name": "棠草Ruri",
@@ -64075,6 +64103,13 @@
     "type": "vtuber",
     "room_id": 1722698626,
     "face": "/bfs/face/6a8759848c0ee7f335bfa7253aba66c99ce0fd5f.jpg",
+    "group_name": "星界社（北立交桥）"
+  },
+  "3706975498013671": {
+    "name": "未怜Miren",
+    "type": "vtuber",
+    "room_id": 1917441426,
+    "face": "/bfs/face/c3314c94c85dea6d1cd9dd80a7d59f766cc81c93.jpg",
     "group_name": "星界社（北立交桥）"
   },
   "3706977156860283": {
