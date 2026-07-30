@@ -31044,6 +31044,13 @@
     "face": "/bfs/face/ad79386b7441e3f7806b40ce2d337fe8c4df7843.jpg",
     "group_name": ""
   },
+  "494436795": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": "holostars"
+  },
   "494571147": {
     "name": "米洛洛Naomi",
     "type": "vtuber",
