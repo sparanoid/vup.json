@@ -18032,6 +18032,14 @@
     "group_name": ""
   },
   {
+    "uid": 25863173,
+    "name": "柊憐_Ronin",
+    "type": "vtuber",
+    "room": 2217042,
+    "face": "/bfs/face/110cf5bb7167a758900d6dc73f382535ded5dc4a.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 25898678,
     "name": "法信Faxina",
     "type": "vtuber",
@@ -23693,6 +23701,14 @@
     "type": "vtuber",
     "room": 26337250,
     "face": "/bfs/face/c9dc8242cbef7408559a78efef95f9a7ae8836cf.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 155872585,
+    "name": "绿川莳糸",
+    "type": "vtuber",
+    "room": 7607467,
+    "face": "/bfs/face/109dac691f76ea96cb09fee96514032f65c7a405.jpg",
     "group_name": ""
   },
   {
