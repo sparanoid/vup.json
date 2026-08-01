@@ -15091,6 +15091,13 @@
     "face": "/bfs/face/066c8d7283e898997b9b827495d4aff84f37d88e.jpg",
     "group_name": ""
   },
+  "22995436": {
+    "name": "沧曙-official",
+    "type": "vtuber",
+    "room_id": 5499823,
+    "face": "/bfs/face/546f2c8b9f7901e1e151f4097ca3bfc5d79f4788.jpg",
+    "group_name": ""
+  },
   "23013012": {
     "name": "虚拟护士不会做梦",
     "type": "vtuber",
@@ -39870,6 +39877,13 @@
     "room_id": 30655179,
     "face": "/bfs/face/f55cc48c5016c7584082c4b4c6e95d8fbd280fa5.jpg",
     "group_name": "VirtuaReal"
+  },
+  "1298650059": {
+    "name": "泠雨Youmi",
+    "type": "vtuber",
+    "room_id": 25555266,
+    "face": "/bfs/face/1169a8956912c6fded8e991d2b30bb7e1ff50e1d.jpg",
+    "group_name": ""
   },
   "1298779265": {
     "name": "灰泽满Hazel",
