@@ -57868,6 +57868,13 @@
     "face": "/bfs/face/e12414662f93d2d8c4ad3901b095b5b75b778b8c.jpg",
     "group_name": "问尘仙会"
   },
+  "3537115008731757": {
+    "name": "竹饭official",
+    "type": "vtuber",
+    "room": 1843683496,
+    "face": "/bfs/face/d5b65f86a50f443c4d7db2468e170a258bb7cc3b.jpg",
+    "group_name": "猫猫祟祟（北立交桥）"
+  },
   "3537115310721181": {
     "name": "心宜不是心仪",
     "type": "vtuber",
@@ -63860,6 +63867,13 @@
     "face": "/bfs/face/ab2b3abfa336bb2e9b8b1cdb5009b8fd820a7836.jpg",
     "group_name": "猫猫祟祟（北立交桥）"
   },
+  "3546984044563271": {
+    "name": "沈辰烬_Ember",
+    "type": "vtuber",
+    "room": 1726556404,
+    "face": "/bfs/face/66b7542b25e536c39d2168debcc5ae9bd78e4f65.jpg",
+    "group_name": ""
+  },
   "3632287849646580": {
     "name": "星界社",
     "type": "group",
@@ -63950,6 +63964,13 @@
     "room": 1814406570,
     "face": "/bfs/face/83c099780e2c3ed9f6ab99c4a9df179da6b7e7e7.jpg",
     "group_name": ""
+  },
+  "3690983151634818": {
+    "name": "林大王ouo",
+    "type": "vtuber",
+    "room": 1843688340,
+    "face": "/bfs/face/e2e3d5b65d924fa32772ede4c5914874ce317f6a.jpg",
+    "group_name": "冬日之家Ultra（北立交桥）"
   },
   "3690984841939562": {
     "name": "澪音Rein",
@@ -64167,6 +64188,13 @@
     "room": 1791500615,
     "face": "/bfs/face/ae9981e3f384a7c476482d61981d3147116d723a.jpg",
     "group_name": "明月生肖（北立交桥）"
+  },
+  "3707016396671651": {
+    "name": "石小坨",
+    "type": "vtuber",
+    "room": 1907448755,
+    "face": "/bfs/face/63ae52c00c7857b4d10e26352ba51e98f9bba7f7.jpg",
+    "group_name": "冬日之家Ultra（北立交桥）"
   },
   "3707017170520389": {
     "name": "早芽zorya",
