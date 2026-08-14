@@ -1,78 +1,101 @@
-import httpx
-import os
-import json
+"""Download avatars for the highest-ranked VUPs in dist/vup-full-array.json."""
+
+from __future__ import annotations
+
 import argparse
+import json
+import re
+from collections import Counter
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
+
+import httpx
 from PIL import Image
 
-# Set up command line argument parsing
-parser = argparse.ArgumentParser(description='Download avatars from VUP data')
-parser.add_argument('--dir', type=str, default='tmp', help='Output directory')
-parser.add_argument('--sort', type=str, default='followers', help='Sort by specific key')
-parser.add_argument('--limit', type=int, default=300, help='Number of avatars to download')
-args = parser.parse_args()
+DATA_FILE = Path("dist/vup-full-array.json")
+AVATAR_HOST = "https://i0.hdslb.com"
+REQUEST_TIMEOUT = 30.0
 
-data_file = 'dist/vup-full-array.json'
-output_dir = args.dir
-sort_key = args.sort
-items_limit = args.limit
+_UNSAFE = re.compile(r'[<>:"/\\|?*\x00-\x1f]')
 
-# Counters for the summary
-counter_total = 0
-counter_downloaded = 0
-counter_skipped = 0
 
-# Function to convert WebP to JPEG
-def convert_webp_to_jpeg(image_path):
-    if image_path.lower().endswith('.webp'):
-        img = Image.open(image_path).convert("RGB")
-        jpeg_path = image_path.rsplit('.', 1)[0] + '.jpg'
-        img.save(jpeg_path, 'jpeg')
-        os.remove(image_path)
-        return jpeg_path
-    return image_path
+def safe_dirname(name: str) -> str:
+    """Reduce a VUP name to something usable as a single path component."""
+    return _UNSAFE.sub("_", name).strip().rstrip(".") or "_"
 
-# Download and save the avatar
-def download_image(url: str, folder: str, filename: str, obj):
-    global counter_total, counter_downloaded, counter_skipped
-    file_path = os.path.join(folder, filename)
-    if not os.path.exists(file_path):
-        response = httpx.get(url)
-        if response.status_code == 200:
-            with open(file_path, 'wb') as file:
-                file.write(response.content)
-            print(f"{items_limit}/{counter_total + 1} Downloaded {filename} in {folder} ({sort_key}: {obj[sort_key]})")
-            counter_total += 1
-            counter_downloaded += 1
 
-            # Convert WebP to JPEG if needed
-            converted_path = convert_webp_to_jpeg(file_path)
-            if converted_path != file_path:
-                print(f"Converted {filename} in {folder} to JPEG")
-        else:
-            print(f"Failed to download {url}")
-    else:
-        print(f"{items_limit}/{counter_total + 1} File {filename} already exists in {folder} ({sort_key}: {obj[sort_key]})")
-        counter_total += 1
-        counter_skipped += 1
+def to_jpeg(path: Path) -> Path:
+    """Re-encode a .webp download as .jpg, dropping the original."""
+    if path.suffix.lower() != ".webp":
+        return path
+    target = path.with_suffix(".jpg")
+    with Image.open(path) as image:
+        image.convert("RGB").save(target, "jpeg")
+    path.unlink()
+    return target
 
-# Read and sort JSON
-with open(data_file, 'r') as file:
-    json_arr = json.load(file)
 
-sorted_json_arr = sorted(json_arr, key=lambda item: item[sort_key], reverse=True)
+def fetch_avatar(client: httpx.Client, face: str, folder: Path) -> str:
+    url = f"{AVATAR_HOST}{face}"
+    destination = folder / url.rsplit("/", 1)[-1]
 
-# Main process
-for item in sorted_json_arr[:items_limit]:
-    folder_name = f"{output_dir}/{item['name']}"
-    img_src = f"https://i0.hdslb.com{item['face']}"
+    # A .webp is stored as .jpg once converted, so check both before re-fetching.
+    if destination.exists() or destination.with_suffix(".jpg").exists():
+        return "skipped"
 
-    # Create directory if it doesn't exist
-    if not os.path.exists(folder_name):
-        os.makedirs(folder_name)
+    try:
+        response = client.get(url)
+        response.raise_for_status()
+    except httpx.HTTPError as error:
+        print(f"failed {url}: {error!r}")
+        return "failed"
 
-    # Extract filename from URL
-    filename = img_src.split('/')[-1]
-    download_image(img_src, folder_name, filename, item)
+    folder.mkdir(parents=True, exist_ok=True)
+    destination.write_bytes(response.content)
+    to_jpeg(destination)
+    return "downloaded"
 
-# Print summary
-print(f"\nSummary:\nImages Downloaded: {counter_downloaded}\nImages Skipped: {counter_skipped}")
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Download avatars from VUP data")
+    parser.add_argument("--dir", type=Path, default=Path("tmp"), help="Output directory")
+    parser.add_argument("--sort", default="followers", help="Sort by this key, descending")
+    parser.add_argument("--limit", type=int, default=300, help="Number of avatars to download")
+    parser.add_argument("--jobs", type=int, default=8, help="Concurrent downloads")
+    args = parser.parse_args()
+
+    if not DATA_FILE.exists():
+        raise SystemExit(f"{DATA_FILE} not found; run main.py first")
+
+    items = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+    if not items:
+        raise SystemExit(f"{DATA_FILE} is empty")
+    if args.sort not in items[0]:
+        raise SystemExit(f"unknown sort key {args.sort!r}; try one of {', '.join(items[0])}")
+
+    ranked = sorted(items, key=lambda item: item[args.sort], reverse=True)[: args.limit]
+    tally: Counter[str] = Counter()
+
+    with (
+        httpx.Client(timeout=REQUEST_TIMEOUT, follow_redirects=True) as client,
+        ThreadPoolExecutor(max_workers=args.jobs) as pool,
+    ):
+        futures = [
+            pool.submit(fetch_avatar, client, item["face"], args.dir / safe_dirname(item["name"]))
+            for item in ranked
+        ]
+        for position, (item, future) in enumerate(zip(ranked, futures, strict=True), start=1):
+            status = future.result()
+            tally[status] += 1
+            value = item[args.sort]
+            shown = f"{value:,}" if isinstance(value, int) else value
+            print(f"[{position}/{len(ranked)}] {status:<10} {item['name']} ({args.sort}: {shown})")
+
+    print(
+        f"\nSummary: {tally['downloaded']} downloaded, "
+        f"{tally['skipped']} skipped, {tally['failed']} failed"
+    )
+
+
+if __name__ == "__main__":
+    main()

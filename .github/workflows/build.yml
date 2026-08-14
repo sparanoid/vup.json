@@ -13,59 +13,73 @@ on:
     - cron: '21 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: read
+
+# Serialise runs so an hourly build never races a push for the same commit.
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
-  build:
-
+  lint:
+    if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v4
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: "3.10"
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10
+        with:
+          enable-cache: true
+      - name: Lint
+        run: uv run --locked ruff check .
+      - name: Check formatting
+        run: uv run --locked ruff format --check .
 
-    - name: Install dependencies
-      run: pip install -r requirements.txt
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10
+        with:
+          enable-cache: true
 
-    - name: Update list
-      run: |
-        python main.py
+      - name: Update list
+        run: uv run --locked main.py
 
-    - name: Check if vup.json updated
-      id: git
-      run: |
-        echo "$(git --no-pager diff --name-only | grep -E '^(dist/vup.json)')"
-        echo "file_changes=$(git --no-pager diff --name-only | grep -E '^(dist/vup.json)')" >> $GITHUB_OUTPUT
+      - name: Check whether dist/vup.json changed
+        id: changed
+        run: |
+          if git diff --quiet -- dist/vup.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
 
-    - name: Import GPG key
-      id: import_gpg
-      uses: crazy-max/ghaction-import-gpg@v6
-      if: github.event_name != 'pull_request'
-      with:
-        gpg_private_key: ${{ secrets.GPG_KEY }}
-        passphrase: ${{ secrets.GPG_PASSPHRASE }}
-        git_user_signingkey: true
-        git_commit_gpgsign: true
-        git_tag_gpgsign: true
+      - name: Import GPG key
+        id: import_gpg
+        uses: crazy-max/ghaction-import-gpg@v7
+        if: github.event_name != 'pull_request'
+        with:
+          gpg_private_key: ${{ secrets.GPG_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_tag_gpgsign: true
 
-    - uses: signcl/git-auto-commit-action@master
-      if: github.event_name != 'pull_request'
-      with:
-        commit_message: "chore: update list"
-        commit_options: "-S"
-        commit_user_name: Sparanoid Bot
-        commit_user_email: bot@sparanoid.com
-        commit_author: Sparanoid Bot <bot@sparanoid.com>
-        branch: master
+      - uses: signcl/git-auto-commit-action@master
+        if: github.event_name != 'pull_request'
+        with:
+          commit_message: "chore: update list"
+          commit_options: "-S"
+          commit_user_name: Sparanoid Bot
+          commit_user_email: bot@sparanoid.com
+          commit_author: Sparanoid Bot <bot@sparanoid.com>
+          branch: master
 
-    - name: Notify bilibili-space
-      if: ${{ github.event_name != 'pull_request' && steps.git.outputs.file_changes }}
-      run: |
-        curl -X POST -H "Accept: application/vnd.github.v3+json" \
-          -H "Authorization: Bearer ${{ secrets.PAT_SPARANOID }}" \
-          https://api.github.com/repos/sparanoid/bilibili-space/dispatches \
-          -d '{"event_type":"webhook"}'
+      - name: Notify bilibili-space
+        if: ${{ github.event_name != 'pull_request' && steps.changed.outputs.changed == 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.PAT_SPARANOID }}
+        run: gh api repos/sparanoid/bilibili-space/dispatches -f event_type=webhook

@@ -1,2 +1,5 @@
-venv/
+.ruff_cache/
+.venv/
+__pycache__/
 tmp/
+venv/

@@ -1,0 +1,36 @@
+[project]
+name = "vup-json"
+version = "0.1.0"
+description = "Extract bilibili vup info from vtbs.moe with user avatars"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.14"
+dependencies = [
+    "httpx>=0.28.1",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.16.3",
+]
+# avatar.py only; keeps Pillow out of the hourly build.
+avatars = [
+    "pillow>=12.3.0",
+]
+
+[tool.ruff]
+target-version = "py314"
+line-length = 100
+
+[tool.ruff.lint]
+select = [
+    "E",    # pycodestyle
+    "F",    # pyflakes
+    "I",    # isort
+    "UP",   # pyupgrade
+    "B",    # flake8-bugbear
+    "C4",   # flake8-comprehensions
+    "SIM",  # flake8-simplify
+    "PTH",  # flake8-use-pathlib
+    "RUF",  # ruff-specific
+]
