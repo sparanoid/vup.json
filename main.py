@@ -43,7 +43,8 @@ for user in resp_vdb:
         )
 
 for user in sorted_resp_vtbs:
-    if 'mid' in user:
+    # Deregistered accounts (账号已注销) are returned without face/sign/topPhoto
+    if 'mid' in user and 'face' in user:
         uid = user['mid']
         face_hash = urlparse(user['face']).path
         group_name = ''
@@ -66,7 +67,7 @@ for user in sorted_resp_vtbs:
             type = type,
             room = user['roomid'],
             face = face_hash,
-            sign = user['sign'],
+            sign = user.get('sign', ''),
             group_name = group_name,
         )
         vup_full[uid] = dict(
@@ -74,7 +75,7 @@ for user in sorted_resp_vtbs:
             type = type,
             room = user['roomid'],
             face = face_hash,
-            sign = user['sign'],
+            sign = user.get('sign', ''),
             group_name = group_name,
             followers = user['follower'],
             videos = user['video'],
