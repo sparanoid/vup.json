@@ -351,6 +351,14 @@
     "sign": "专注卡牌游戏！每天介绍新卡组，每晚在B站694直播间直播，欢迎关注～",
     "group_name": ""
   },
+  "88358": {
+    "name": "以太",
+    "type": "vtuber",
+    "room": 545133,
+    "face": "/bfs/face/239e705ddc5245955f891e2abcdcac43b077dd3a.jpg",
+    "sign": "玩游戏吧。别想别的。玩游戏吧。|| 头像画师蛋糕月。",
+    "group_name": ""
+  },
   "88687": {
     "name": "w丘丘w",
     "type": "vtuber",
@@ -23340,7 +23348,7 @@
     "type": "vtuber",
     "room": 12979470,
     "face": "/bfs/face/be13839de50ae43dfcb2546091684e3599759baa.jpg",
-    "sign": "好多都在做请等等!!!翻唱二创非商使用随意|做点好吃的视频|乱玩游戏才会播|说不定哪天就退网了| 最后希望大家关注作品本身",
+    "sign": "新歌9.20翻唱二创随意|做点好吃的视频|乱玩游戏才会播|说不定哪天就退网了| 最后希望大家关注作品本身",
     "group_name": ""
   },
   "130097809": {
@@ -30027,7 +30035,7 @@
     "name": "烛灵儿Hikari",
     "type": "vtuber",
     "room": 21728563,
-    "face": "/bfs/garb/58c41afff8610217126ebfa34379e0e314569231.png",
+    "face": "/bfs/face/6941ec5ec3e649f45dd010abfc7d6e89ce5a70d0.webp",
     "sign": "希望能用温柔的声音和有趣的灵魂治愈你٩(◦`꒳´◦)۶",
     "group_name": ""
   },
@@ -48139,7 +48147,7 @@
     "name": "莉蔻Liko",
     "type": "vtuber",
     "room": 1713548468,
-    "face": "/bfs/face/97f786a77475a4ce8b3ae611e2c41dedb5dbac37.jpg",
+    "face": "/bfs/face/a41c23720e11287f8eec01e093fd0fc8a6c3391a.jpg",
     "sign": "虚拟主播团体VirtuaReal成员，一只正在努力完成探索任务的小兔子，商务合作请联系bd@vrp.live",
     "group_name": "VirtuaReal"
   },

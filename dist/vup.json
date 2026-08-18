@@ -307,6 +307,13 @@
     "face": "/bfs/face/09aad335d63e5470ddb217bf4112ec4683cfd8bf.jpg",
     "group_name": ""
   },
+  "88358": {
+    "name": "以太",
+    "type": "vtuber",
+    "room": 545133,
+    "face": "/bfs/face/239e705ddc5245955f891e2abcdcac43b077dd3a.jpg",
+    "group_name": ""
+  },
   "88687": {
     "name": "w丘丘w",
     "type": "vtuber",
@@ -26274,7 +26281,7 @@
     "name": "烛灵儿Hikari",
     "type": "vtuber",
     "room": 21728563,
-    "face": "/bfs/garb/58c41afff8610217126ebfa34379e0e314569231.png",
+    "face": "/bfs/face/6941ec5ec3e649f45dd010abfc7d6e89ce5a70d0.webp",
     "group_name": ""
   },
   "399923919": {
@@ -42122,7 +42129,7 @@
     "name": "莉蔻Liko",
     "type": "vtuber",
     "room": 1713548468,
-    "face": "/bfs/face/97f786a77475a4ce8b3ae611e2c41dedb5dbac37.jpg",
+    "face": "/bfs/face/a41c23720e11287f8eec01e093fd0fc8a6c3391a.jpg",
     "group_name": "VirtuaReal"
   },
   "1536735500": {
