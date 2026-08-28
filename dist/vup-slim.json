@@ -22457,12 +22457,6 @@
     "room": 21293841,
     "group_name": ""
   },
-  "398759137": {
-    "name": "伏特Volt_Official",
-    "type": "vtuber",
-    "room": 21585361,
-    "group_name": ""
-  },
   "398764283": {
     "name": "佐藤ココ",
     "type": "vtuber",
@@ -36129,6 +36123,12 @@
     "name": "123456wdgsh",
     "type": "vtuber",
     "room": 27220690,
+    "group_name": ""
+  },
+  "1540748161": {
+    "name": "伏特Volt想要毁灭世界",
+    "type": "vtuber",
+    "room": 1842980186,
     "group_name": ""
   },
   "1542516095": {
@@ -51485,6 +51485,12 @@
     "room": 32117573,
     "group_name": "NOA Talent"
   },
+  "3546637062375852": {
+    "name": "初晴-official",
+    "type": "vtuber",
+    "room": 32111981,
+    "group_name": ""
+  },
   "3546637985122315": {
     "name": "Rei澪",
     "type": "vtuber",
@@ -52661,6 +52667,12 @@
     "room": 1930278019,
     "group_name": ""
   },
+  "3546755926853875": {
+    "name": "塔塔Clione",
+    "type": "vtuber",
+    "room": 1811715046,
+    "group_name": ""
+  },
   "3546756058974315": {
     "name": "静儿七分甜",
     "type": "vtuber",
@@ -53651,6 +53663,12 @@
     "room": 1857893834,
     "group_name": ""
   },
+  "3546883523872868": {
+    "name": "漫漫tail",
+    "type": "vtuber",
+    "room": 1777487861,
+    "group_name": ""
+  },
   "3546883867806043": {
     "name": "嫄沐奈美",
     "type": "vtuber",
@@ -53793,6 +53811,12 @@
     "name": "怪盗黛蔻_Deko",
     "type": "vtuber",
     "room": 1828676297,
+    "group_name": ""
+  },
+  "3546894296943135": {
+    "name": "笙笙Siamira",
+    "type": "vtuber",
+    "room": 1805594553,
     "group_name": ""
   },
   "3546894607321152": {
@@ -54015,6 +54039,12 @@
     "name": "布鲁ブルー",
     "type": "vtuber",
     "room": 1709460212,
+    "group_name": ""
+  },
+  "3546913477495448": {
+    "name": "云帆_Fsail",
+    "type": "vtuber",
+    "room": 1986460299,
     "group_name": ""
   },
   "3546914620443605": {
@@ -54347,6 +54377,12 @@
     "room": 1883011701,
     "group_name": ""
   },
+  "3546963752519731": {
+    "name": "脆皮之zhi",
+    "type": "vtuber",
+    "room": 1926783677,
+    "group_name": ""
+  },
   "3546966682241148": {
     "name": "月初Lunnas",
     "type": "vtuber",
@@ -54381,6 +54417,12 @@
     "name": "发菜cccc",
     "type": "vtuber",
     "room": 1784936275,
+    "group_name": ""
+  },
+  "3546974330554778": {
+    "name": "灰雾Kiri",
+    "type": "vtuber",
+    "room": 1906336562,
     "group_name": ""
   },
   "3546975274273636": {
@@ -54497,6 +54539,12 @@
     "room": 1950851489,
     "group_name": ""
   },
+  "3690980102376039": {
+    "name": "水谷雫ちゃん",
+    "type": "vtuber",
+    "room": 1950859078,
+    "group_name": ""
+  },
   "3690980192553213": {
     "name": "狮栀Shiz",
     "type": "vtuber",
@@ -54549,6 +54597,12 @@
     "name": "澪0_Echo",
     "type": "vtuber",
     "room": 1938418339,
+    "group_name": ""
+  },
+  "3690994448993109": {
+    "name": "怜奈_Reina",
+    "type": "vtuber",
+    "room": 1990572466,
     "group_name": ""
   },
   "3690996338527068": {
@@ -54671,6 +54725,12 @@
     "room": 1906087220,
     "group_name": ""
   },
+  "3706952322386040": {
+    "name": "莉莉约Liy",
+    "type": "vtuber",
+    "room": 1813447211,
+    "group_name": "GravityS Project"
+  },
   "3706962250303984": {
     "name": "昼夜_Chilly",
     "type": "vtuber",
@@ -54724,5 +54784,17 @@
     "type": "vtuber",
     "room": 1931029887,
     "group_name": "冬日之家Ultra（北立交桥）"
+  },
+  "3707022178519939": {
+    "name": "晚晚Babe_",
+    "type": "vtuber",
+    "room": 1907441796,
+    "group_name": ""
+  },
+  "3707042715929567": {
+    "name": "小沅Yomi",
+    "type": "vtuber",
+    "room": 1957026732,
+    "group_name": ""
   }
 }

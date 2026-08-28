@@ -33687,15 +33687,6 @@
     "group_name": ""
   },
   {
-    "uid": 398759137,
-    "name": "伏特Volt_Official",
-    "type": "vtuber",
-    "room": 21585361,
-    "face": "/bfs/face/ee4c75425a6cee9f2594b0ac284ad39462fa32d4.jpg",
-    "sign": "@伏特Volt想要毁灭世界",
-    "group_name": ""
-  },
-  {
     "uid": 398764283,
     "name": "佐藤ココ",
     "type": "vtuber",
@@ -54195,6 +54186,15 @@
     "room": 27220690,
     "face": "/bfs/face/4c5f2b0e0cbfad4d668603934949a1657758b71c.jpg",
     "sign": "养成系杂谈猫猫，直播时间每天23-3点，二四六下午15点-17点，群号703894580",
+    "group_name": ""
+  },
+  {
+    "uid": 1540748161,
+    "name": "伏特Volt想要毁灭世界",
+    "type": "vtuber",
+    "room": 1842980186,
+    "face": "/bfs/face/823592df76b80f494eda14ac9e1f2bc48fe3122c.jpg",
+    "sign": "我对普通的人类没有兴趣，要是有什么外星人、超能力者、未来人就来找我吧！",
     "group_name": ""
   },
   {
@@ -77229,6 +77229,15 @@
     "group_name": "NOA Talent"
   },
   {
+    "uid": 3546637062375852,
+    "name": "初晴-official",
+    "type": "vtuber",
+    "room": 32111981,
+    "face": "/bfs/face/6b6d0e043d5621a2742b1243470868b703c859fe.jpg",
+    "sign": "想要和别人制造羁绊就要承担掉眼泪的风险，我们不怕掉眼泪，但是要值得。下午13:00；晚上8:00播～其他时间随机掉落喵",
+    "group_name": ""
+  },
+  {
     "uid": 3546637985122315,
     "name": "Rei澪",
     "type": "vtuber",
@@ -78993,6 +79002,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546755926853875,
+    "name": "塔塔Clione",
+    "type": "vtuber",
+    "room": 1811715046,
+    "face": "/bfs/face/03c71d6071f08d51b247672ebff909b5aa9a196d.jpg",
+    "sign": "~流浪中的裸海蝶，今天也有好好直播吗？~",
+    "group_name": ""
+  },
+  {
     "uid": 3546756058974315,
     "name": "静儿七分甜",
     "type": "vtuber",
@@ -80478,6 +80496,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546883523872868,
+    "name": "漫漫tail",
+    "type": "vtuber",
+    "room": 1777487861,
+    "face": "/bfs/face/acb99c188aa7f04ea8392fa450565556f9f60297.jpg",
+    "sign": "为你而来 为你而唱 开播时间：14:00-17:00  20：00-23：00",
+    "group_name": ""
+  },
+  {
     "uid": 3546883867806043,
     "name": "嫄沐奈美",
     "type": "vtuber",
@@ -80691,6 +80718,15 @@
     "room": 1828676297,
     "face": "/bfs/face/e2939679acbdb9a00144d405e7fcbcc51c934792.jpg",
     "sign": "黛蔻怪盗团！点击关注立即加入！交流群：1067313303！直播时间：晚8-10点，周一周五定休。",
+    "group_name": ""
+  },
+  {
+    "uid": 3546894296943135,
+    "name": "笙笙Siamira",
+    "type": "vtuber",
+    "room": 1805594553,
+    "face": "/bfs/face/fe0b2dbaac927aec356f8039265ac03b655b2d2f.jpg",
+    "sign": "小猫女仆偶像or小羊温柔魔女siamira\n全能歌势.强杂谈力.电台游戏随机切换\n营业时间：下午2-6",
     "group_name": ""
   },
   {
@@ -81024,6 +81060,15 @@
     "room": 1709460212,
     "face": "/bfs/face/69983a05167f58f9496559445f26fafd5c7b2e2d.jpg",
     "sign": "僕のハートを差し上げます!\n想给大家带来快乐\n中日配音养成系主包！会唱跳rap打篮球\n粉丝群：1079184259",
+    "group_name": ""
+  },
+  {
+    "uid": 3546913477495448,
+    "name": "云帆_Fsail",
+    "type": "vtuber",
+    "room": 1986460299,
+    "face": "/bfs/face/d7f1d89b2f4847d101c28b58173869ddfecce875.jpg",
+    "sign": "我是云帆，来自二维星际的乐者。因打碎星际音石被贬落蓝星，能力被封，唯留音律之力。需集齐百位指挥官认可才可归乡，以歌声为契，盼与你相逢相伴。",
     "group_name": ""
   },
   {
@@ -81522,6 +81567,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546963752519731,
+    "name": "脆皮之zhi",
+    "type": "vtuber",
+    "room": 1926783677,
+    "face": "/bfs/face/d7be3f2e456ba5cb0e0c219407667a627cb8db59.jpg",
+    "sign": "养成系，慢热社恐话少酷酷唱，超耐久连唱，不是专业唱见没学过\n可以陪我很久吗，想把我唱给你听\n直播时间：22-4\n之优窝1103412979",
+    "group_name": ""
+  },
+  {
     "uid": 3546966682241148,
     "name": "月初Lunnas",
     "type": "vtuber",
@@ -81573,6 +81627,15 @@
     "room": 1784936275,
     "face": "/bfs/face/3f8d557699b8843ddacc17eff802f9f7b3041e3d.jpg",
     "sign": "精力MAX！活力MAX！情绪价值给到溢出来的新人Vup！\n开播时间：下午16：00——19：30不定期延长直播时间，请假会发动态的",
+    "group_name": ""
+  },
+  {
+    "uid": 3546974330554778,
+    "name": "灰雾Kiri",
+    "type": "vtuber",
+    "room": 1906336562,
+    "face": "/bfs/face/76471466d08085a3dcd4d596a03223b397f6ee36.jpg",
+    "sign": "EC所属小灰鸽-学习社交中(>_<)\n直播时间20:00-22:00⊙▽⊙\n小雾的羽毛窝870500391（直播通知在这里）",
     "group_name": ""
   },
   {
@@ -81747,6 +81810,15 @@
     "group_name": ""
   },
   {
+    "uid": 3690980102376039,
+    "name": "水谷雫ちゃん",
+    "type": "vtuber",
+    "room": 1950859078,
+    "face": "/bfs/face/53120c2d409a37d20a5bbb177187a3d76db52e33.jpg",
+    "sign": "私皮北极熊心理建筑师，高能量元气杂谈势 每天下午2点掉落 | 晚上不定时游戏回 | 粉丝群：972394186，周一公休",
+    "group_name": ""
+  },
+  {
     "uid": 3690980192553213,
     "name": "狮栀Shiz",
     "type": "vtuber",
@@ -81825,6 +81897,15 @@
     "room": 1938418339,
     "face": "/bfs/face/4cab20c48621ab287b47fb4b6ed4f483cd6ce265.jpg",
     "sign": "这里是新鲜史莱姆系猫猫一枚喵~\n出没时间请进群接受通知！喜欢打游戏！\n很开心和你相遇！！请关注我～\n澪の小窝（通知：609847160",
+    "group_name": ""
+  },
+  {
+    "uid": 3690994448993109,
+    "name": "怜奈_Reina",
+    "type": "vtuber",
+    "room": 1990572466,
+    "face": "/bfs/face/e464d701e62a8353a0ca1f0439632a871c74a579.jpg",
+    "sign": "来自蔷薇星云的疗愈师丨直播时间：每天13:30-16:30丨粉丝群: 995378818",
     "group_name": ""
   },
   {
@@ -82008,6 +82089,15 @@
     "group_name": ""
   },
   {
+    "uid": 3706952322386040,
+    "name": "莉莉约Liy",
+    "type": "vtuber",
+    "room": 1813447211,
+    "face": "/bfs/face/a276461d185f416bce515798fc7c96b3dfc776b7.jpg",
+    "sign": "GravityS所属｜正在人间游历的小鸟学者，感谢你来看我！莉莉约的小木屋:1042984310",
+    "group_name": "GravityS Project"
+  },
+  {
     "uid": 3706962250303984,
     "name": "昼夜_Chilly",
     "type": "vtuber",
@@ -82087,5 +82177,23 @@
     "face": "/bfs/face/92462066122d2341f928806c03780a3c96560ab3.jpg",
     "sign": "北立交桥·冬日之家Ultra所属·三期生 是觉醒了自我意识的咖啡壶！至于怎么觉醒的…好像有点忘了…",
     "group_name": "冬日之家Ultra（北立交桥）"
+  },
+  {
+    "uid": 3707022178519939,
+    "name": "晚晚Babe_",
+    "type": "vtuber",
+    "room": 1907441796,
+    "face": "/bfs/face/90f3299059f603a84ef0e59545c2472c1f60a75a.jpg",
+    "sign": "是一只傲娇又喜欢咬人的小猫，真正的缘分是毫不费力的\n下午2-8见～",
+    "group_name": ""
+  },
+  {
+    "uid": 3707042715929567,
+    "name": "小沅Yomi",
+    "type": "vtuber",
+    "room": 1957026732,
+    "face": "/bfs/face/391195a52a9a12b850278d1d9dd68c99b0f4e75c.jpg",
+    "sign": "全职私皮歌势～\n泥耗～我是小沅，很高兴认识你ovo\n粉丝裙：851572171\n开播时间：14:00-18:00，21:00-1:00",
+    "group_name": ""
   }
 ]
