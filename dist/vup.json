@@ -62866,6 +62866,13 @@
     "face": "/bfs/face/b281bf162985f173e3a3685e88c2132ae098eadd.jpg",
     "group_name": ""
   },
+  "3546901567768938": {
+    "name": "飞鸟葵aoi",
+    "type": "vtuber",
+    "room": 1901327268,
+    "face": "/bfs/face/673896d24ed778002e6e77d469115a89e152efdb.jpg",
+    "group_name": ""
+  },
   "3546902467446882": {
     "name": "千籁Senrai",
     "type": "vtuber",
@@ -63894,6 +63901,13 @@
     "room": 1741083622,
     "face": "/bfs/face/0e5b36173877ba198df382d27a2281544899d7c7.jpg",
     "group_name": "魅魔补习班（北立交桥）"
+  },
+  "3706995750210156": {
+    "name": "久远澪00",
+    "type": "vtuber",
+    "room": 1773209737,
+    "face": "/bfs/face/75bbbabd306d63ba06e63f04927bf7ad1bb9d1e1.jpg",
+    "group_name": "纸片人计划"
   },
   "3707002144426726": {
     "name": "江恰恰OuO",
