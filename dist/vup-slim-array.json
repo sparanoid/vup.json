@@ -59346,6 +59346,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546588460878718,
+    "name": "陆希雅Lucia_",
+    "type": "vtuber",
+    "room": 1741186316,
+    "group_name": "幻想社Symphony"
+  },
+  {
     "uid": 3546588504918025,
     "name": "白粥崽崽",
     "type": "vtuber",
@@ -60589,6 +60596,13 @@
     "name": "兜里木有糖Candy",
     "type": "vtuber",
     "room": 32745100,
+    "group_name": ""
+  },
+  {
+    "uid": 3546682583156767,
+    "name": "幻想社Symphony",
+    "type": "group",
+    "room": 1946522986,
     "group_name": ""
   },
   {
@@ -63560,6 +63574,13 @@
     "group_name": ""
   },
   {
+    "uid": 3632300399004581,
+    "name": "蓝川恩Aikawa",
+    "type": "vtuber",
+    "room": 1716531845,
+    "group_name": "幻想社Symphony"
+  },
+  {
     "uid": 3632304677193739,
     "name": "奇比chippy",
     "type": "vtuber",
@@ -63903,6 +63924,13 @@
     "group_name": "魅魔补习班（北立交桥）"
   },
   {
+    "uid": 3706991608335014,
+    "name": "天音绮罗",
+    "type": "vtuber",
+    "room": 1741087170,
+    "group_name": "幻想社Symphony"
+  },
+  {
     "uid": 3706995750210156,
     "name": "久远澪00",
     "type": "vtuber",
@@ -63915,6 +63943,13 @@
     "type": "vtuber",
     "room": 1791500615,
     "group_name": "明月生肖（北立交桥）"
+  },
+  {
+    "uid": 3707011388672315,
+    "name": "灵汐Shiria",
+    "type": "vtuber",
+    "room": 1700652157,
+    "group_name": "幻想社Symphony"
   },
   {
     "uid": 3707016396671651,
