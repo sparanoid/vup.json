@@ -18886,7 +18886,7 @@
     "name": "涳涣",
     "type": "vtuber",
     "room": 10896960,
-    "face": "/bfs/face/b54de03b4df603558089d32497d1f93df7aa9f80.jpg",
+    "face": "/bfs/face/844d06bb53c0fc0383e273af7ddd2f5296edf817.jpg",
     "sign": "",
     "group_name": ""
   },
@@ -46877,7 +46877,7 @@
     "type": "vtuber",
     "room": 22673512,
     "face": "/bfs/face/16fe7b9033af74ace62a7370c4f69e1fe8b3d356.jpg",
-    "sign": "SING女团首位虚拟成员，本体是扇子。商务合作请联系：tinaxie@kugou.net",
+    "sign": "SING女团首位虚拟成员，本体是扇子。商务合作请联系：elainezhao@tencentmusic.com",
     "group_name": ""
   },
   {
@@ -71122,7 +71122,7 @@
     "name": "茶绒绒Kiyu",
     "type": "vtuber",
     "room": 27875921,
-    "face": "/bfs/face/b191f3c448c03041693387a6ebd1fee462b40745.webp",
+    "face": "/bfs/face/c02d83370e3b1fda865b70b865bbca511ff40bee.webp",
     "sign": "刚从开离幼儿园的车上下来，什么事\n播播@白韶九Kiyu",
     "group_name": "萌芽社"
   },
@@ -72685,7 +72685,7 @@
   },
   {
     "uid": 3494368457525928,
-    "name": "铃木钢盔",
+    "name": "铃木甘辉",
     "type": "vtuber",
     "room": 30174681,
     "face": "/bfs/face/c6fc37d20a1fdf09055cc350370e2b73fd307a3e.jpg",
@@ -79989,6 +79989,15 @@
     "room": 1754703818,
     "face": "/bfs/face/5d2f2afed1abb0ec4c1843823eb72d0636a183d4.jpg",
     "sign": "一只从星星一角掉下来的天使小橘猫～幻想社所属",
+    "group_name": ""
+  },
+  {
+    "uid": 3546849537427464,
+    "name": "星名Reki",
+    "type": "vtuber",
+    "room": 1957029202,
+    "face": "/bfs/face/e471c89e3a6ff21a8ac23c47467525d3f5ca4f80.jpg",
+    "sign": "来自日本的CoD女Vtuber星名Reki！正在学习中文，请多关照！✨",
     "group_name": ""
   },
   {

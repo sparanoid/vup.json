@@ -14689,7 +14689,7 @@
     "name": "涳涣",
     "type": "vtuber",
     "room": 10896960,
-    "face": "/bfs/face/b54de03b4df603558089d32497d1f93df7aa9f80.jpg",
+    "face": "/bfs/face/844d06bb53c0fc0383e273af7ddd2f5296edf817.jpg",
     "group_name": ""
   },
   "21591929": {
@@ -55317,7 +55317,7 @@
     "name": "茶绒绒Kiyu",
     "type": "vtuber",
     "room": 27875921,
-    "face": "/bfs/face/b191f3c448c03041693387a6ebd1fee462b40745.webp",
+    "face": "/bfs/face/c02d83370e3b1fda865b70b865bbca511ff40bee.webp",
     "group_name": "萌芽社"
   },
   "3494350057113751": {
@@ -56532,7 +56532,7 @@
     "group_name": ""
   },
   "3494368457525928": {
-    "name": "铃木钢盔",
+    "name": "铃木甘辉",
     "type": "vtuber",
     "room": 30174681,
     "face": "/bfs/face/c6fc37d20a1fdf09055cc350370e2b73fd307a3e.jpg",
@@ -62213,6 +62213,13 @@
     "type": "vtuber",
     "room": 1754703818,
     "face": "/bfs/face/5d2f2afed1abb0ec4c1843823eb72d0636a183d4.jpg",
+    "group_name": ""
+  },
+  "3546849537427464": {
+    "name": "星名Reki",
+    "type": "vtuber",
+    "room": 1957029202,
+    "face": "/bfs/face/e471c89e3a6ff21a8ac23c47467525d3f5ca4f80.jpg",
     "group_name": ""
   },
   "3546850441300440": {
