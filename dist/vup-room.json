@@ -18584,13 +18584,6 @@
     "face": "/bfs/face/f26fe25bbd6ab972576c226cb17dc9266f0c03c9.jpg",
     "group_name": "梦镜茶会（北立交桥）"
   },
-  "58789280": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": "极光社"
-  },
   "59113645": {
     "name": "三垣四象二十八星宿社",
     "type": "vtuber",
@@ -24455,13 +24448,6 @@
     "type": "vtuber",
     "room_id": 14848063,
     "face": "/bfs/face/548529ade4a302d334ff0c132e757d0cac3fe5c9.jpg",
-    "group_name": ""
-  },
-  "358336849": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "358516600": {
@@ -47886,6 +47872,13 @@
     "face": "/bfs/face/feeda29514bff724f58dd610271974075420f54d.jpg",
     "group_name": "P家"
   },
+  "2098173126": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "2098242220": {
     "name": "春映Eink",
     "type": "vtuber",
@@ -50418,13 +50411,6 @@
     "type": "vtuber",
     "room_id": 26887126,
     "face": "/bfs/face/950e381c4ca7fad2b646f4fa11a573efbb53dd1e.jpg",
-    "group_name": ""
-  },
-  "3493113234458776": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 26765028,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493113773427538": {
@@ -55054,13 +55040,6 @@
     "face": "/bfs/face/bb3b0860fc19f4c93dd406ae292addc5096ad587.jpg",
     "group_name": ""
   },
-  "3493297639131662": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493297691560533": {
     "name": "月隐雾青",
     "type": "vtuber",
@@ -55388,13 +55367,6 @@
     "type": "vtuber",
     "room_id": 27916071,
     "face": "/bfs/face/b687f4a2a2f76738d3bb69772f736736f1efd9e8.jpg",
-    "group_name": ""
-  },
-  "3494352978446664": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3494353083304485": {
@@ -56895,13 +56867,6 @@
     "face": "/bfs/face/93ed8c85f98230708ff1050e46fc45e9c34016aa.jpg",
     "group_name": ""
   },
-  "3494374721718526": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 30542334,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3494375615105219": {
     "name": "奈尤Nayu",
     "type": "vtuber",
@@ -57047,6 +57012,13 @@
     "type": "vtuber",
     "room_id": 30419273,
     "face": "/bfs/face/c0a5f1c54c37710aabd9c42e69fff83dd2a49bc7.jpg",
+    "group_name": ""
+  },
+  "3494378291071555": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3494378511272288": {

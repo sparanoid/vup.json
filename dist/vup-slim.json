@@ -15929,12 +15929,6 @@
     "room": 2098875,
     "group_name": "梦镜茶会（北立交桥）"
   },
-  "58789280": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": "极光社"
-  },
   "59113645": {
     "name": "三垣四象二十八星宿社",
     "type": "vtuber",
@@ -20961,12 +20955,6 @@
     "name": "魔法少年电池er",
     "type": "vtuber",
     "room": 14848063,
-    "group_name": ""
-  },
-  "358336849": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   "358516600": {
@@ -41045,6 +41033,12 @@
     "room": 23733603,
     "group_name": "P家"
   },
+  "2098173126": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
   "2098242220": {
     "name": "春映Eink",
     "type": "vtuber",
@@ -43215,12 +43209,6 @@
     "name": "翼水Thuban",
     "type": "vtuber",
     "room": 26887126,
-    "group_name": ""
-  },
-  "3493113234458776": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 26765028,
     "group_name": ""
   },
   "3493113773427538": {
@@ -47189,12 +47177,6 @@
     "room": 27929497,
     "group_name": ""
   },
-  "3493297639131662": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
   "3493297691560533": {
     "name": "月隐雾青",
     "type": "vtuber",
@@ -47475,12 +47457,6 @@
     "name": "月见眠nemu",
     "type": "vtuber",
     "room": 27916071,
-    "group_name": ""
-  },
-  "3494352978446664": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   "3494353083304485": {
@@ -48767,12 +48743,6 @@
     "room": 30255712,
     "group_name": ""
   },
-  "3494374721718526": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30542334,
-    "group_name": ""
-  },
   "3494375615105219": {
     "name": "奈尤Nayu",
     "type": "vtuber",
@@ -48897,6 +48867,12 @@
     "name": "傅云昭Felix",
     "type": "vtuber",
     "room": 30419273,
+    "group_name": ""
+  },
+  "3494378291071555": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   "3494378511272288": {
