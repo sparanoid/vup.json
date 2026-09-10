@@ -8604,15 +8604,6 @@
     "group_name": "P-SP"
   },
   {
-    "uid": 3573423,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 2363586,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
-  {
     "uid": 3584186,
     "name": "狐狐音の前搬运",
     "type": "vtuber",
@@ -18468,15 +18459,6 @@
     "group_name": "V_G研究所"
   },
   {
-    "uid": 20381746,
-    "name": "周力一剧团",
-    "type": "vtuber",
-    "room": 21871663,
-    "face": "/bfs/face/e78910242ef3a2521e9789b1dd5fec538e8c164e.jpg",
-    "sign": "预计八月下旬销号，之后作为个人号继续烤虹管人肉",
-    "group_name": ""
-  },
-  {
     "uid": 20436303,
     "name": "帕帕帕秋莉-",
     "type": "vtuber",
@@ -20617,15 +20599,6 @@
     "face": "/bfs/face/689b108901c54ed4f3093bcab640bb6d5bd821c1.jpg",
     "sign": "神秘正太控，约稿可私戳",
     "group_name": "夕映结社"
-  },
-  {
-    "uid": 28072199,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
   },
   {
     "uid": 28198344,
@@ -28366,15 +28339,6 @@
     "face": "/bfs/face/e858ec6d722fb0ba1c23c28fcdced634637f5e7c.jpg",
     "sign": "看看自己够不够资格吧",
     "group_name": ""
-  },
-  {
-    "uid": 255469316,
-    "name": "账号已注销12138_",
-    "type": "vtuber",
-    "room": 22184441,
-    "face": "/bfs/face/7b0334474df0471cc4f172c3b70b3d9d140848bd.jpg",
-    "sign": "Eros二期生，异世界漂流而来的狼族王子。\n粉丝群:707330866\n画师是海鲜店妈咪\n运营是露露妈咪\n合作或联动联系3183346824",
-    "group_name": "EroS"
   },
   {
     "uid": 255593788,
@@ -54306,15 +54270,6 @@
     "group_name": ""
   },
   {
-    "uid": 1554203542,
-    "name": "凛cursedrin",
-    "type": "vtuber",
-    "room": 27741866,
-    "face": "/bfs/face/825e475ebf2297803ae94b5c14e89f4c96c4511f.jpg",
-    "sign": "自称普通人类的谜の生物",
-    "group_name": ""
-  },
-  {
     "uid": 1555453291,
     "name": "库莉姆Cream",
     "type": "vtuber",
@@ -64926,6 +64881,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493113234458776,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 26765028,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
+  {
     "uid": 3493113312053886,
     "name": "未时Wells",
     "type": "vtuber",
@@ -66058,15 +66022,6 @@
     "face": "/bfs/face/97025f1b52c3d96e75a80def44caeb8ccfd27726.jpg",
     "sign": "5.0Coming soon",
     "group_name": ""
-  },
-  {
-    "uid": 3493131651647686,
-    "name": "哟哟io",
-    "type": "vtuber",
-    "room": 27088517,
-    "face": "/bfs/face/142b84d8ef1ae439fcd0200a6854838efaa91e9c.jpg",
-    "sign": "",
-    "group_name": "虚研社"
   },
   {
     "uid": 3493131676813320,
@@ -67560,6 +67515,15 @@
     "room": 27592756,
     "face": "/bfs/face/d5eba1a377db0ed2671001866cbd88579dbf3daf.webp",
     "sign": "兴趣使然的个人势北极兔夕云使vup | 当你望向晨昏线，或许会欣赏我的英姿 | 应援群:755288987",
+    "group_name": ""
+  },
+  {
+    "uid": 3493258420291722,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27318307,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {
@@ -73233,6 +73197,15 @@
     "group_name": ""
   },
   {
+    "uid": 3494374721718526,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 30542334,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
+  {
     "uid": 3494375615105219,
     "name": "奈尤Nayu",
     "type": "vtuber",
@@ -73774,10 +73747,10 @@
   },
   {
     "uid": 3537108427868696,
-    "name": "嘻嘻睡不醒i",
+    "name": "豚栩栩i",
     "type": "vtuber",
     "room": 31038065,
-    "face": "/bfs/face/fbf6ee08527e540c0e2a55b9c82c3dd5ec4a8bde.jpg",
+    "face": "/bfs/face/95a6bc7f43ffa1a2f2b7ea40b7aa31d29a74a151.jpg",
     "sign": "明媚",
     "group_name": ""
   },
@@ -74490,15 +74463,6 @@
     "room": 30644884,
     "face": "/bfs/face/e4c436f781c147c872d13f816ab71764ff3cb5f3.jpg",
     "sign": "无所求必满载而归",
-    "group_name": ""
-  },
-  {
-    "uid": 3537123328133660,
-    "name": "奶片_Nayo",
-    "type": "vtuber",
-    "room": 30642140,
-    "face": "/bfs/face/ecefc9c13380ad66fd072429667064c101a0e31d.jpg",
-    "sign": "",
     "group_name": ""
   },
   {
@@ -76993,15 +76957,6 @@
     "face": "/bfs/face/fb63b1d72ce5f234f17374ad6bd7a9d4ea984a67.jpg",
     "sign": "诞生自甜瓜社MelonLive杂谈势|塔罗势VUP，来自梦境的驱魔师。正在学习【在一切变成遗憾前】能好好抓住的魔法。",
     "group_name": "甜瓜社MelonLive"
-  },
-  {
-    "uid": 3546619358219217,
-    "name": "闪闪oki",
-    "type": "vtuber",
-    "room": 31981004,
-    "face": "/bfs/face/d346a3f09acb16ed0a961ef74b7af5254476eac8.jpg",
-    "sign": "换个口味，看看史莱姆？「纯个人，非全职，不定期出没」",
-    "group_name": ""
   },
   {
     "uid": 3546619811203922,
@@ -81177,15 +81132,6 @@
     "room": 1886606191,
     "face": "/bfs/face/00ad03d47b2fd3104769fd022871f5d6d0818940.jpg",
     "sign": "养成系全职龙娘~晚上10点一般都在！",
-    "group_name": ""
-  },
-  {
-    "uid": 3546921121613966,
-    "name": "酱香圆子",
-    "type": "vtuber",
-    "room": 1894861469,
-    "face": "/bfs/face/4aaf1759fb179a92c9546200d1e7da7e9963f4cc.jpg",
-    "sign": "我永远向前看",
     "group_name": ""
   },
   {

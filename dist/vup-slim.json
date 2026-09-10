@@ -5735,12 +5735,6 @@
     "room": 1589452,
     "group_name": "P-SP"
   },
-  "3573423": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 2363586,
-    "group_name": ""
-  },
   "3584186": {
     "name": "狐狐音の前搬运",
     "type": "vtuber",
@@ -12311,12 +12305,6 @@
     "room": 12555833,
     "group_name": "V_G研究所"
   },
-  "20381746": {
-    "name": "周力一剧团",
-    "type": "vtuber",
-    "room": 21871663,
-    "group_name": ""
-  },
   "20436303": {
     "name": "帕帕帕秋莉-",
     "type": "vtuber",
@@ -13744,12 +13732,6 @@
     "type": "vtuber",
     "room": 414081,
     "group_name": "夕映结社"
-  },
-  "28072199": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
   },
   "28198344": {
     "name": "小怪受Channel",
@@ -18910,12 +18892,6 @@
     "type": "vtuber",
     "room": 23103930,
     "group_name": ""
-  },
-  "255469316": {
-    "name": "账号已注销12138_",
-    "type": "vtuber",
-    "room": 22184441,
-    "group_name": "EroS"
   },
   "255593788": {
     "name": "猫屋敷饭饭",
@@ -36203,12 +36179,6 @@
     "room": 23965951,
     "group_name": ""
   },
-  "1554203542": {
-    "name": "凛cursedrin",
-    "type": "vtuber",
-    "room": 27741866,
-    "group_name": ""
-  },
   "1555453291": {
     "name": "库莉姆Cream",
     "type": "vtuber",
@@ -43283,6 +43253,12 @@
     "room": 26887126,
     "group_name": ""
   },
+  "3493113234458776": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 26765028,
+    "group_name": ""
+  },
   "3493113312053886": {
     "name": "未时Wells",
     "type": "vtuber",
@@ -44038,12 +44014,6 @@
     "type": "vtuber",
     "room": 27067045,
     "group_name": ""
-  },
-  "3493131651647686": {
-    "name": "哟哟io",
-    "type": "vtuber",
-    "room": 27088517,
-    "group_name": "虚研社"
   },
   "3493131676813320": {
     "name": "用户872368422",
@@ -45039,6 +45009,12 @@
     "name": "晴云Haku",
     "type": "vtuber",
     "room": 27592756,
+    "group_name": ""
+  },
+  "3493258420291722": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27318307,
     "group_name": ""
   },
   "3493258495789418": {
@@ -48821,6 +48797,12 @@
     "room": 30255712,
     "group_name": ""
   },
+  "3494374721718526": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 30542334,
+    "group_name": ""
+  },
   "3494375615105219": {
     "name": "奈尤Nayu",
     "type": "vtuber",
@@ -49182,7 +49164,7 @@
     "group_name": ""
   },
   "3537108427868696": {
-    "name": "嘻嘻睡不醒i",
+    "name": "豚栩栩i",
     "type": "vtuber",
     "room": 31038065,
     "group_name": ""
@@ -49659,12 +49641,6 @@
     "name": "鹿野修哉カノ",
     "type": "vtuber",
     "room": 30644884,
-    "group_name": ""
-  },
-  "3537123328133660": {
-    "name": "奶片_Nayo",
-    "type": "vtuber",
-    "room": 30642140,
     "group_name": ""
   },
   "3537123468642514": {
@@ -51328,12 +51304,6 @@
     "type": "vtuber",
     "room": 31916745,
     "group_name": "甜瓜社MelonLive"
-  },
-  "3546619358219217": {
-    "name": "闪闪oki",
-    "type": "vtuber",
-    "room": 31981004,
-    "group_name": ""
   },
   "3546619811203922": {
     "name": "唐辛子nini",
@@ -54117,12 +54087,6 @@
     "name": "艾羽Sola",
     "type": "vtuber",
     "room": 1886606191,
-    "group_name": ""
-  },
-  "3546921121613966": {
-    "name": "酱香圆子",
-    "type": "vtuber",
-    "room": 1894861469,
     "group_name": ""
   },
   "3546923627711041": {
