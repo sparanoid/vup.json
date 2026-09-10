@@ -6245,12 +6245,6 @@
     "room": 675516,
     "group_name": ""
   },
-  "4351200": {
-    "name": "萝月_Official",
-    "type": "vtuber",
-    "room": 19956,
-    "group_name": ""
-  },
   "4365322": {
     "name": "优纪光channel",
     "type": "vtuber",
@@ -9010,12 +9004,6 @@
     "type": "vtuber",
     "room": 3261650,
     "group_name": "鸽鹉live"
-  },
-  "9361427": {
-    "name": "清則子",
-    "type": "vtuber",
-    "room": 905813,
-    "group_name": ""
   },
   "9375210": {
     "name": "白咲べるofficial",
@@ -20975,6 +20963,12 @@
     "room": 14848063,
     "group_name": ""
   },
+  "358336849": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
   "358516600": {
     "name": "琴乃葉雪乃搬运组",
     "type": "vtuber",
@@ -21549,12 +21543,6 @@
     "name": "PECO_VTuber官方频道",
     "type": "vtuber",
     "room": 0,
-    "group_name": ""
-  },
-  "383784478": {
-    "name": "遥光Haruka",
-    "type": "vtuber",
-    "room": 22926022,
     "group_name": ""
   },
   "383860407": {
@@ -26331,12 +26319,6 @@
     "name": "Shoto的汪汪队",
     "type": "vtuber",
     "room": 0,
-    "group_name": ""
-  },
-  "490794838": {
-    "name": "莉姆莎莉姆",
-    "type": "vtuber",
-    "room": 23451190,
     "group_name": ""
   },
   "490807223": {
@@ -32034,7 +32016,7 @@
     "group_name": ""
   },
   "1069108539": {
-    "name": "bilibili",
+    "name": "小鸟游杏子Official",
     "type": "vtuber",
     "room": 23472646,
     "group_name": ""
@@ -39371,12 +39353,6 @@
     "room": 31845001,
     "group_name": ""
   },
-  "1911626217": {
-    "name": "浅仓池",
-    "type": "vtuber",
-    "room": 26035236,
-    "group_name": ""
-  },
   "1911892723": {
     "name": "星雾果狐汤",
     "type": "vtuber",
@@ -41271,12 +41247,6 @@
     "name": "绘梨糯Nino",
     "type": "vtuber",
     "room": 25539608,
-    "group_name": ""
-  },
-  "2115602190": {
-    "name": "临界十樱vv",
-    "type": "vtuber",
-    "room": 32307258,
     "group_name": ""
   },
   "2115613286": {
@@ -43251,12 +43221,6 @@
     "name": "bilibili",
     "type": "vtuber",
     "room": 26765028,
-    "group_name": ""
-  },
-  "3493113312053886": {
-    "name": "未时Wells",
-    "type": "vtuber",
-    "room": 26766064,
     "group_name": ""
   },
   "3493113773427538": {
@@ -47279,6 +47243,12 @@
     "room": 30256876,
     "group_name": ""
   },
+  "3493298551392363": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27932604,
+    "group_name": ""
+  },
   "3493298639472884": {
     "name": "鲨宝Official",
     "type": "vtuber",
@@ -50142,7 +50112,7 @@
     "group_name": ""
   },
   "3546388688275737": {
-    "name": "bilibili",
+    "name": "一只蜜柚_July",
     "type": "vtuber",
     "room": 30889049,
     "group_name": ""
@@ -50607,12 +50577,6 @@
     "name": "芙芙鸦keynes",
     "type": "vtuber",
     "room": 31304498,
-    "group_name": ""
-  },
-  "3546575206877398": {
-    "name": "梨梨梨啦啦啦啦啦-_-",
-    "type": "vtuber",
-    "room": 31266111,
     "group_name": ""
   },
   "3546575374649825": {
@@ -52709,12 +52673,6 @@
     "room": 1945807775,
     "group_name": ""
   },
-  "3546764162369644": {
-    "name": "库里藍_star",
-    "type": "vtuber",
-    "room": 1960950173,
-    "group_name": ""
-  },
   "3546765991086858": {
     "name": "亿狸狸Iucky",
     "type": "vtuber",
@@ -53092,12 +53050,6 @@
     "type": "vtuber",
     "room": 1967211929,
     "group_name": "边迹社"
-  },
-  "3546820863068250": {
-    "name": "方焰Flint",
-    "type": "vtuber",
-    "room": 1901381686,
-    "group_name": ""
   },
   "3546821309762422": {
     "name": "多汁锦狸",
@@ -53609,12 +53561,6 @@
     "room": 1948318339,
     "group_name": ""
   },
-  "3546879870634034": {
-    "name": "乱码776",
-    "type": "vtuber",
-    "room": 1948319186,
-    "group_name": ""
-  },
   "3546880053086900": {
     "name": "微辣子酱",
     "type": "vtuber",
@@ -54029,12 +53975,6 @@
     "room": 1709468396,
     "group_name": ""
   },
-  "3546913135659783": {
-    "name": "布鲁ブルー",
-    "type": "vtuber",
-    "room": 1709460212,
-    "group_name": ""
-  },
   "3546913477495448": {
     "name": "云帆_Fsail",
     "type": "vtuber",
@@ -54357,12 +54297,6 @@
     "name": "diuxhuxixj",
     "type": "vtuber",
     "room": 1856653986,
-    "group_name": ""
-  },
-  "3546962678778007": {
-    "name": "安啾啦耶耶y",
-    "type": "vtuber",
-    "room": 1883011701,
     "group_name": ""
   },
   "3546963752519731": {
