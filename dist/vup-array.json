@@ -2284,7 +2284,7 @@
     "name": "薇拉Vera-Official",
     "type": "vtuber",
     "room": 23092710,
-    "face": "/bfs/face/76d8b80446c0f5be2c0d4bd6354151af3430e221.jpg",
+    "face": "/bfs/garb/dd3102175120c040e6cf0fdf3d30c175a044577b.png",
     "group_name": ""
   },
   {
@@ -14476,7 +14476,7 @@
     "name": "夏澄喵太",
     "type": "vtuber",
     "room": 1255894,
-    "face": "/bfs/face/5f5662767344bd7d1772f213cdd8d8dd91f77777.jpg",
+    "face": "/bfs/face/342f1da9d2b0dd5b25aa94bd8869087cb7d3f3af.jpg",
     "group_name": ""
   },
   {
@@ -14729,10 +14729,10 @@
   },
   {
     "uid": 14440008,
-    "name": "夏洛17号",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 6296268,
-    "face": "/bfs/face/3132b496d23e3496478e882f8a439140f259c1da.jpg",
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -21252,7 +21252,7 @@
     "name": "温之九",
     "type": "vtuber",
     "room": 2098875,
-    "face": "/bfs/face/44198bb672a60789900fcec1a51a442a2f9f7052.jpg",
+    "face": "/bfs/face/f26fe25bbd6ab972576c226cb17dc9266f0c03c9.jpg",
     "group_name": "梦镜茶会（北立交桥）"
   },
   {
@@ -25168,14 +25168,6 @@
     "group_name": ""
   },
   {
-    "uid": 255168680,
-    "name": "软绵绵official",
-    "type": "vtuber",
-    "room": 22893213,
-    "face": "/bfs/face/1c4891b879fbe565d3a583130aca4f08a017c441.jpg",
-    "group_name": ""
-  },
-  {
     "uid": 255235231,
     "name": "普通网友小星-",
     "type": "vtuber",
@@ -27732,7 +27724,7 @@
     "name": "是空集耶awa",
     "type": "vtuber",
     "room": 21635827,
-    "face": "/bfs/face/657daedb71bf6271e37f5f93cb30da49474c0379.jpg",
+    "face": "/bfs/face/a1dd1b618b1ad98952d4625a492d820e36b5a25d.jpg",
     "group_name": ""
   },
   {
@@ -29805,14 +29797,6 @@
     "type": "vtuber",
     "room": 21357592,
     "face": "/bfs/face/ecd313749467644b4afa20c8a337426407470f2c.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 397758529,
-    "name": "我见诸君多",
-    "type": "vtuber",
-    "room": 25356160,
-    "face": "/bfs/face/22f680f87cee6ca0e4f52a9bb7efa87194736a61.jpg",
     "group_name": ""
   },
   {
@@ -33092,7 +33076,7 @@
     "name": "秋蒂Q",
     "type": "vtuber",
     "room": 22163937,
-    "face": "/bfs/face/b58262ce1f515ee43ae39681c103dce1eaff7a0f.jpg",
+    "face": "/bfs/face/1025e519c8d78109e7f54e47f3c50fbcd4edd2c7.jpg",
     "group_name": ""
   },
   {
@@ -62465,7 +62449,7 @@
   },
   {
     "uid": 3493291037297185,
-    "name": "月小兔niki",
+    "name": "月小兔_9月20号生日回",
     "type": "vtuber",
     "room": 27749655,
     "face": "/bfs/face/204c32c33a5b690dec49198bbfeb1f745b1993b6.jpg",
@@ -62477,14 +62461,6 @@
     "type": "vtuber",
     "room": 27753858,
     "face": "/bfs/face/60685149cbe2a39ca9636347adcbde8ca18251c6.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 3493291098114201,
-    "name": "词账号已注销",
-    "type": "vtuber",
-    "room": 30060372,
-    "face": "/bfs/face/bf7a33e895f1eb012986bedc26cebc9128d2d207.jpg",
     "group_name": ""
   },
   {
@@ -64748,7 +64724,7 @@
     "name": "瑕吕汀汀",
     "type": "vtuber",
     "room": 30204699,
-    "face": "/bfs/face/4e5240df71ecf071d47b69b2812517e82942e60d.jpg",
+    "face": "/bfs/face/a0b2378ddeee09289c9fd85895a9e3fe84c0f7b8.jpg",
     "group_name": ""
   },
   {
