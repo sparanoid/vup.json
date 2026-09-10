@@ -4972,7 +4972,7 @@
     "name": "ebi狂扁橙汁",
     "type": "vtuber",
     "room": 76735,
-    "face": "/bfs/face/4b185352aa137ad1da72549d39576cace46d9570.jpg",
+    "face": "/bfs/face/fb5912092d3a1d929352f859bcf128d231365c16.jpg",
     "group_name": "Vidol工作室"
   },
   {
@@ -15772,7 +15772,7 @@
     "name": "小喵唧Official",
     "type": "vtuber",
     "room": 14963868,
-    "face": "/bfs/face/1141b5e91857ad5b9c552a1ea73b544e97094d0f.jpg",
+    "face": "/bfs/face/4421704640c43d2b49fa51af335847eea3e3f2a0.jpg",
     "group_name": ""
   },
   {
@@ -62968,6 +62968,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493297639131662,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
+  {
     "uid": 3493297691560533,
     "name": "月隐雾青",
     "type": "vtuber",
@@ -63333,6 +63341,14 @@
     "type": "vtuber",
     "room": 27916071,
     "face": "/bfs/face/b687f4a2a2f76738d3bb69772f736736f1efd9e8.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3494352978446664,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -71865,7 +71881,7 @@
   },
   {
     "uid": 3546903763486816,
-    "name": "加拿大小猫咪",
+    "name": "b站不白短雀雀",
     "type": "vtuber",
     "room": 1777647491,
     "face": "/bfs/face/6b4f0c60c99468b982168371fe3146fd25b3f621.webp",

@@ -55097,6 +55097,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493297639131662,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 3493297691560533,
     "name": "月隐雾青",
     "type": "vtuber",
@@ -55416,6 +55423,13 @@
     "name": "月见眠nemu",
     "type": "vtuber",
     "room": 27916071,
+    "group_name": ""
+  },
+  {
+    "uid": 3494352978446664,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {
@@ -62882,7 +62896,7 @@
   },
   {
     "uid": 3546903763486816,
-    "name": "加拿大小猫咪",
+    "name": "b站不白短雀雀",
     "type": "vtuber",
     "room": 1777647491,
     "group_name": ""
