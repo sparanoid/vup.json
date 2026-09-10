@@ -13509,6 +13509,13 @@
     "face": "/bfs/face/4f7a3d43427db738157b69386f91166cd579f0d1.jpg",
     "group_name": ""
   },
+  "17100532": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "17126520": {
     "name": "陈宣姝Doro",
     "type": "vtuber",
@@ -51708,6 +51715,13 @@
     "face": "/bfs/face/1dfcf44f793eead9af7916d61e7727ad62dba6d6.jpg",
     "group_name": ""
   },
+  "3493137800497830": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493137813080837": {
     "name": "冻汁I",
     "type": "vtuber",
@@ -55320,6 +55334,13 @@
     "face": "/bfs/face/8ba9d729ed7e3f7dca3582b7200d83470a94577d.jpg",
     "group_name": ""
   },
+  "3494351978105218": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3494352043117393": {
     "name": "代肝-小夜",
     "type": "vtuber",
@@ -58181,6 +58202,13 @@
     "type": "vtuber",
     "room_id": 30797484,
     "face": "/bfs/face/7fbe7807eb823973276752387915bb017222f122.jpg",
+    "group_name": ""
+  },
+  "3546382088538897": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546382140967404": {
