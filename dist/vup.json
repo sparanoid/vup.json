@@ -43882,6 +43882,13 @@
     "face": "/bfs/face/dda23c3997935ab76d1d1777a907df21faff73eb.jpg",
     "group_name": ""
   },
+  "1722231996": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "1723346846": {
     "name": "椰思-发财版",
     "type": "vtuber",
@@ -63235,6 +63242,13 @@
     "type": "vtuber",
     "room": 1856109268,
     "face": "/bfs/face/8f9fd6d2cb866ec73dca023163f4d1f14c971463.jpg",
+    "group_name": ""
+  },
+  "3546952377567388": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546954162243807": {

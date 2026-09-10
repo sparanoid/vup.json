@@ -43883,6 +43883,13 @@
     "group_name": ""
   },
   {
+    "uid": 1722231996,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 1723346846,
     "name": "椰思-发财版",
     "type": "vtuber",
@@ -63235,6 +63242,13 @@
     "name": "托莉_Tori",
     "type": "vtuber",
     "room": 1856109268,
+    "group_name": ""
+  },
+  {
+    "uid": 3546952377567388,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {
