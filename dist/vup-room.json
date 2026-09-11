@@ -13509,13 +13509,6 @@
     "face": "/bfs/face/4f7a3d43427db738157b69386f91166cd579f0d1.jpg",
     "group_name": ""
   },
-  "17100532": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "17126520": {
     "name": "陈宣姝Doro",
     "type": "vtuber",
@@ -30595,13 +30588,6 @@
     "room_id": 23088755,
     "face": "/bfs/face/3ef2601df60e90b81c2f0338444081ad5b4958cb.jpg",
     "group_name": "神椿工作室"
-  },
-  "489108518": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
   },
   "489133035": {
     "name": "猫田Official",
@@ -55138,13 +55124,6 @@
     "face": "/bfs/face/059bb1fa21098a8c8463214a2abb2527f9f11c04.jpg",
     "group_name": ""
   },
-  "3493298551392363": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 27932604,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493298639472884": {
     "name": "鲨宝Official",
     "type": "vtuber",
@@ -55360,13 +55339,6 @@
     "type": "vtuber",
     "room_id": 30119724,
     "face": "/bfs/face/8ba9d729ed7e3f7dca3582b7200d83470a94577d.jpg",
-    "group_name": ""
-  },
-  "3494351978105218": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3494352043117393": {
