@@ -7581,13 +7581,6 @@
     "group_name": ""
   },
   {
-    "uid": 4734101,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 4735171,
     "name": "米露milulu",
     "type": "vtuber",
@@ -43838,6 +43831,13 @@
     "name": "眠棉棉_official",
     "type": "vtuber",
     "room": 23833817,
+    "group_name": ""
+  },
+  {
+    "uid": 1715394332,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {

@@ -8663,14 +8663,6 @@
     "sign": "要天天开心呀老大！\n商v: tkmm84(添加请备注品牌，不接外卖口令)",
     "group_name": ""
   },
-  "4734101": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
   "4735171": {
     "name": "米露milulu",
     "type": "vtuber",
@@ -50101,6 +50093,14 @@
     "room": 23833817,
     "face": "/bfs/face/81691309c8d24d30411853fdf05283f01c1665be.jpg",
     "sign": "眠棉棉已经毕业啦！",
+    "group_name": ""
+  },
+  "1715394332": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "1715569439": {

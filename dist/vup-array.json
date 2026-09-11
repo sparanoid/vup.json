@@ -8664,14 +8664,6 @@
     "group_name": ""
   },
   {
-    "uid": 4734101,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  {
     "uid": 4735171,
     "name": "米露milulu",
     "type": "vtuber",
@@ -50101,6 +50093,14 @@
     "type": "vtuber",
     "room": 23833817,
     "face": "/bfs/face/81691309c8d24d30411853fdf05283f01c1665be.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1715394332,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
