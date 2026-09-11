@@ -61921,6 +61921,13 @@
     "face": "/bfs/face/a4f491538239c454b604bfa2b1d61c100083eb0a.jpg",
     "group_name": ""
   },
+  "3546826628139976": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3546827005627070": {
     "name": "Fulaco-Official",
     "type": "group",

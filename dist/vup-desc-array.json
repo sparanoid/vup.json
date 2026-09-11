@@ -79614,6 +79614,15 @@
     "group_name": ""
   },
   {
+    "uid": 3546826628139976,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
+  {
     "uid": 3546827005627070,
     "name": "Fulaco-Official",
     "type": "group",
