@@ -7204,7 +7204,7 @@
     "type": "vtuber",
     "room": 23975608,
     "face": "/bfs/face/87490ada79350e3073d12d8afb99f7b51b8f2a28.jpg",
-    "sign": "这个人很神秘！什么都没有写！",
+    "sign": "可能出没的直播时间段\n11:00-13:00 20:00-22:00\n\n",
     "group_name": ""
   },
   "3241447": {
@@ -11259,7 +11259,7 @@
     "name": "希罗Kirara",
     "type": "vtuber",
     "room": 400605,
-    "face": "/bfs/face/b72030a924cac633020543359dc65dc3f2d1dded.jpg",
+    "face": "/bfs/face/cae4dcc53cb4939a7193b2d74ef952da9cb1ef30.jpg",
     "sign": "银河跃迁PHG所属✨见习魔女希罗和小使魔早鳰的频道！( 0 x 0 )约稿委托请私信~恢复活动准备中Zzz\n希罗的大炖锅：125505549",
     "group_name": "ChaosLiveSprout"
   },
@@ -15188,7 +15188,7 @@
     "type": "vtuber",
     "room": 3881476,
     "face": "/bfs/face/58210356e74a1b4fc50d9b028408dc0d3941198a.jpg",
-    "sign": "桥桥...(哽咽) 桥桥...(抽泣) 桥桥...(嚎啕大哭) 桥桥......(撕心裂肺)",
+    "sign": "",
     "group_name": ""
   },
   "16081433": {
@@ -15755,8 +15755,8 @@
     "name": "小喵唧Official",
     "type": "vtuber",
     "room": 14963868,
-    "face": "/bfs/face/4421704640c43d2b49fa51af335847eea3e3f2a0.jpg",
-    "sign": "✨晚十点半左右啵啵～没啵就是去打麻将了！",
+    "face": "/bfs/face/d0b7a4401afca3d0bf7be8d9700629d8a3fee096.jpg",
+    "sign": "✨上班是不可能上班的 这辈子都不会上班的～",
     "group_name": ""
   },
   "18055906": {
@@ -16603,7 +16603,7 @@
     "name": "Seeu喵",
     "type": "vtuber",
     "room": 2538952,
-    "face": "/bfs/face/2c73aae08074577eed98b86d429e5e9bb89c440d.jpg",
+    "face": "/bfs/face/48f898a82efbe834c53426d77245a490f93f574e.jpg",
     "sign": "世界上最负盛名的游戏天才\n培顽私信",
     "group_name": ""
   },
@@ -41676,7 +41676,7 @@
     "type": "vtuber",
     "room": 27589213,
     "face": "/bfs/face/26fd1ee4bc334d3f4a5bf2ccac0d433e71921285.jpg",
-    "sign": "这里是黎谱家的V#away",
+    "sign": "这里是黎谱家的V#awa\n此账号发表的所有言论意在取悦自己并非通过文字或图片强制干预他人的思想如果翻阅之后出现不适等症状恭喜你你怀了我的孩子",
     "group_name": ""
   },
   "700956912": {
@@ -45175,6 +45175,14 @@
     "sign": "千年个猫势，主打一个高颜值。固定每晚21-23点直播，周五休息。落仙居：213885019",
     "group_name": ""
   },
+  "1287760245": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27913600,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
   "1287888117": {
     "name": "Afaer-Official",
     "type": "group",
@@ -46045,14 +46053,6 @@
     "room": 23805289,
     "face": "/bfs/face/08baf3808b0627150972f5df24d93eb0642691a5.jpg",
     "sign": "请多喜欢我一点吧！交流窝:246694541",
-    "group_name": ""
-  },
-  "1369019691": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "1369335586": {
@@ -49344,11 +49344,11 @@
     "group_name": ""
   },
   "1649321129": {
-    "name": "bilibili",
+    "name": "芊櫻Sakura",
     "type": "vtuber",
     "room": 23641430,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "face": "/bfs/face/4ed8c43b7a90941fbf4932cc55db8b67f2c54f5c.jpg",
+    "sign": "~(≧▽≦)/ 大家好 我是來自香港的V \n猫万岁！！ 猫星群 : 882831031",
     "group_name": ""
   },
   "1649481624": {
@@ -50149,14 +50149,6 @@
     "room": 22700650,
     "face": "/bfs/face/dda23c3997935ab76d1d1777a907df21faff73eb.jpg",
     "sign": "这是喜欢料理的猫耳女仆！个人势力！饼饼结（mochimochiyun) 粉丝群：826291739 字幕组审核群：650930155",
-    "group_name": ""
-  },
-  "1722231996": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "1723346846": {
@@ -58551,14 +58543,6 @@
     "sign": "【Mafia所属】的恶魔领主一枚呀～\n后备粮聚集地：688081536 \n直播时间：16:00-18:00  20:00-22:00\n",
     "group_name": ""
   },
-  "3493130443688278": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
   "3493130470951698": {
     "name": "ハムQ",
     "type": "vtuber",
@@ -59168,7 +59152,7 @@
     "group_name": ""
   },
   "3493138312202450": {
-    "name": "莓狸猫-fairy",
+    "name": "摆摆-fairy",
     "type": "vtuber",
     "room": 27187891,
     "face": "/bfs/face/f788bac28c541053e6f8c7fa2acfa8b8855b9bf5.jpg",
@@ -59959,14 +59943,6 @@
     "sign": "兴趣使然的个人势北极兔夕云使vup | 当你望向晨昏线，或许会欣赏我的英姿 | 应援群:755288987",
     "group_name": ""
   },
-  "3493258420291722": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27318307,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
   "3493258495789418": {
     "name": "枫和fuuwa",
     "type": "vtuber",
@@ -60221,14 +60197,6 @@
     "room": 27365877,
     "face": "/bfs/face/2b6029ce5cee2653d4af9018cf408cf02524c4ef.jpg",
     "sign": "人生有梦  各自精彩",
-    "group_name": ""
-  },
-  "3493261914147096": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "3493262172096943": {
@@ -62760,10 +62728,10 @@
     "group_name": ""
   },
   "3493295426635895": {
-    "name": "小苗困告了",
+    "name": "好准喵",
     "type": "vtuber",
     "room": 27835570,
-    "face": "/bfs/face/6a2664b29642742c151fd48b9fbaae85075906c7.jpg",
+    "face": "/bfs/face/534aea736c315873db8ad738ab01cfc942ad61ea.jpg",
     "sign": "",
     "group_name": ""
   },
@@ -70782,14 +70750,6 @@
     "face": "/bfs/face/a260c6c56346819d47933e5fa33ba76da84e3da6.jpg",
     "sign": "MEEM镜面模因虚拟UP团体Fulaco成员。哎呀呀，找到你啦！商务合作联系:bd@meem.art",
     "group_name": "Fulaco-Official"
-  },
-  "3546827183884565": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
   },
   "3546827378919803": {
     "name": "艾朵不想起床",

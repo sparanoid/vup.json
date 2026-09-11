@@ -39529,6 +39529,13 @@
     "group_name": ""
   },
   {
+    "uid": 1287760245,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27913600,
+    "group_name": ""
+  },
+  {
     "uid": 1287888117,
     "name": "Afaer-Official",
     "type": "group",
@@ -40289,13 +40296,6 @@
     "name": "娜米莉_Namiri",
     "type": "vtuber",
     "room": 23805289,
-    "group_name": ""
-  },
-  {
-    "uid": 1369019691,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -43177,7 +43177,7 @@
   },
   {
     "uid": 1649321129,
-    "name": "bilibili",
+    "name": "芊櫻Sakura",
     "type": "vtuber",
     "room": 23641430,
     "group_name": ""
@@ -43880,13 +43880,6 @@
     "name": "餅餅結Official",
     "type": "vtuber",
     "room": 22700650,
-    "group_name": ""
-  },
-  {
-    "uid": 1722231996,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -51233,13 +51226,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493130443688278,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 3493130470951698,
     "name": "ハムQ",
     "type": "vtuber",
@@ -51773,7 +51759,7 @@
   },
   {
     "uid": 3493138312202450,
-    "name": "莓狸猫-fairy",
+    "name": "摆摆-fairy",
     "type": "vtuber",
     "room": 27187891,
     "group_name": ""
@@ -52465,13 +52451,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493258420291722,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27318307,
-    "group_name": ""
-  },
-  {
     "uid": 3493258495789418,
     "name": "枫和fuuwa",
     "type": "vtuber",
@@ -52693,13 +52672,6 @@
     "name": "想想不说话丶",
     "type": "vtuber",
     "room": 27365877,
-    "group_name": ""
-  },
-  {
-    "uid": 3493261914147096,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -54916,7 +54888,7 @@
   },
   {
     "uid": 3493295426635895,
-    "name": "小苗困告了",
+    "name": "好准喵",
     "type": "vtuber",
     "room": 27835570,
     "group_name": ""
@@ -61934,13 +61906,6 @@
     "type": "vtuber",
     "room": 1922217792,
     "group_name": "Fulaco-Official"
-  },
-  {
-    "uid": 3546827183884565,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
   },
   {
     "uid": 3546827378919803,
