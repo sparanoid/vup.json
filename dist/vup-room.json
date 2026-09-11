@@ -51232,6 +51232,13 @@
     "face": "/bfs/face/6a4b93cfe9dd758e0d4d50fcbc8474a3bff3e124.jpg",
     "group_name": ""
   },
+  "3493130443688278": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493130470951698": {
     "name": "ハムQ",
     "type": "vtuber",
