@@ -7581,6 +7581,13 @@
     "group_name": ""
   },
   {
+    "uid": 4734101,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 4735171,
     "name": "米露milulu",
     "type": "vtuber",
@@ -16094,7 +16101,7 @@
   },
   {
     "uid": 28772651,
-    "name": "琴南和希Kazuki",
+    "name": "琴南和希Baudelaire",
     "type": "vtuber",
     "room": 1759700,
     "group_name": ""
@@ -38813,6 +38820,13 @@
     "type": "vtuber",
     "room": 24883813,
     "group_name": ""
+  },
+  {
+    "uid": 1220265605,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "LBG"
   },
   {
     "uid": 1220317431,

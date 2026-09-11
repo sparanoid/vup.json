@@ -7580,6 +7580,13 @@
     "face": "/bfs/face/12094892bbf05571fab037b60c129b3895fe9250.jpg",
     "group_name": ""
   },
+  "4734101": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "4735171": {
     "name": "米露milulu",
     "type": "vtuber",
@@ -16093,7 +16100,7 @@
     "group_name": "虚研社"
   },
   "28772651": {
-    "name": "琴南和希Kazuki",
+    "name": "琴南和希Baudelaire",
     "type": "vtuber",
     "room_id": 1759700,
     "face": "/bfs/face/bc763bc55b38f5dba7e987a2c58436c6dbba2d9c.jpg",
@@ -38813,6 +38820,13 @@
     "room_id": 24883813,
     "face": "/bfs/face/68b24f8444313d7208aaba11ef3e327f58bba73e.jpg",
     "group_name": ""
+  },
+  "1220265605": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": "LBG"
   },
   "1220317431": {
     "name": "凜凜蝶凜",
@@ -63808,7 +63822,7 @@
     "name": "晚晚Babe_11号双满回",
     "type": "vtuber",
     "room_id": 1907441796,
-    "face": "/bfs/face/e0b3c398a870f3acda4edb0c952be6252ed3bfe2.jpg",
+    "face": "/bfs/face/e8b5dc04f08a011755aa3fe85776466c302b1088.jpg",
     "group_name": ""
   },
   "3707042715929567": {
