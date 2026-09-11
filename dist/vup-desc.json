@@ -44359,14 +44359,6 @@
     "sign": "",
     "group_name": ""
   },
-  "1220265605": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": "LBG"
-  },
   "1220317431": {
     "name": "凜凜蝶凜",
     "type": "vtuber",
@@ -65124,7 +65116,7 @@
     "type": "vtuber",
     "room": 30315337,
     "face": "/bfs/face/f86ca334ff7a7daab353c736c4778a8779152328.jpg",
-    "sign": "每天晚上：24:00—2:00周日休息\n歌杂较多，无聊了后半场会玩游戏",
+    "sign": "周日休息\n歌杂较多，无聊了后半场会玩游戏",
     "group_name": ""
   },
   "3494377901000718": {
