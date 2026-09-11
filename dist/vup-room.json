@@ -61991,6 +61991,13 @@
     "face": "/bfs/face/a260c6c56346819d47933e5fa33ba76da84e3da6.jpg",
     "group_name": "Fulaco-Official"
   },
+  "3546827183884565": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3546827378919803": {
     "name": "艾朵不想起床",
     "type": "vtuber",
