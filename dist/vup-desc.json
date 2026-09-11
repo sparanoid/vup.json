@@ -476,7 +476,7 @@
     "type": "vtuber",
     "room": 35298,
     "face": "/bfs/face/d50e38dff41d3d6fdc2e83d33c36881086d543bd.jpg",
-    "sign": "直播间：299   ",
+    "sign": "隶属彗星号 一个喜欢聊点唱点的清纯男主播 每晚9：00~ 12点 直播间：299   ",
     "group_name": ""
   },
   "117906": {
@@ -54726,14 +54726,6 @@
     "face": "/bfs/face/feeda29514bff724f58dd610271974075420f54d.jpg",
     "sign": "～＜　¬・ᵕ・)¬",
     "group_name": "P家"
-  },
-  "2098173126": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
   },
   "2098242220": {
     "name": "春映Eink",
