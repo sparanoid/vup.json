@@ -48551,6 +48551,13 @@
     "face": "/bfs/face/d29053bf10a306793eab5ad4e751917a06c9aecd.jpg",
     "group_name": ""
   },
+  "3461566271850847": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3461566332668663": {
     "name": "钟晴要变强",
     "type": "vtuber",
@@ -49417,6 +49424,13 @@
     "type": "vtuber",
     "room_id": 1814591139,
     "face": "/bfs/face/026b4d0a63cc50ef5cd83b6ed86c9ad61f16c84f.jpg",
+    "group_name": ""
+  },
+  "3493081399691605": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493081628281391": {
@@ -52709,6 +52723,13 @@
     "face": "/bfs/face/ae5cbc8ad9bf792583fb5af057e39e0a4b921971.jpg",
     "group_name": ""
   },
+  "3493262440532294": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493262495058910": {
     "name": "一只龙的宝",
     "type": "vtuber",
@@ -54053,6 +54074,13 @@
     "face": "/bfs/face/08a9e523aeaff57e19e617c6c1262583ef052461.jpg",
     "group_name": ""
   },
+  "3493282996816726": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493283017788221": {
     "name": "Mina米奈奈",
     "type": "vtuber",
@@ -54121,6 +54149,13 @@
     "type": "vtuber",
     "room_id": 30608283,
     "face": "/bfs/face/d95b7f1f07db33bcccd2a359045fa2a7f465d15f.jpg",
+    "group_name": ""
+  },
+  "3493283986671762": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493284158638568": {
