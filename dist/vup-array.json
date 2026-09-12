@@ -62200,6 +62200,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493287673465572,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
+  {
     "uid": 3493287916734567,
     "name": "暴走团妹",
     "type": "vtuber",

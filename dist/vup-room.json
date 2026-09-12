@@ -54424,6 +54424,13 @@
     "face": "/bfs/face/7a084e66c983105261524d5846fbdc4ee5074085.jpg",
     "group_name": ""
   },
+  "3493287673465572": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493287916734567": {
     "name": "暴走团妹",
     "type": "vtuber",
