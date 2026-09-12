@@ -13656,6 +13656,13 @@
     "face": "/bfs/face/b835b715683a97bf43256c0f14fd2c77903fa783.jpg",
     "group_name": ""
   },
+  "17661166": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 21925332,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "17683304": {
     "name": "Lu小兔子chen",
     "type": "vtuber",
@@ -36984,7 +36991,7 @@
     "name": "千早郁Kumi",
     "type": "vtuber",
     "room": 0,
-    "face": "/bfs/face/e5c07499085023debbb563d8c114c75fd18b64df.jpg",
+    "face": "/bfs/face/b0fd8f8754c356b85e8195a5980bbd995d30977b.jpg",
     "group_name": "幻光回廊Project"
   },
   "1035652768": {
@@ -42133,7 +42140,7 @@
     "group_name": ""
   },
   "1545158704": {
-    "name": "长泱12号生日_三周年版",
+    "name": "长泱_",
     "type": "vtuber",
     "room": 30515237,
     "face": "/bfs/face/0ec12cedee3243165df4db0de2a9a0efc7718900.jpg",

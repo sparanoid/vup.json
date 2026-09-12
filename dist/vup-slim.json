@@ -11705,6 +11705,12 @@
     "room": 4564601,
     "group_name": ""
   },
+  "17661166": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 21925332,
+    "group_name": ""
+  },
   "17683304": {
     "name": "Lu小兔子chen",
     "type": "vtuber",
@@ -36114,7 +36120,7 @@
     "group_name": ""
   },
   "1545158704": {
-    "name": "长泱12号生日_三周年版",
+    "name": "长泱_",
     "type": "vtuber",
     "room": 30515237,
     "group_name": ""
