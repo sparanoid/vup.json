@@ -55355,6 +55355,13 @@
     "face": "/bfs/face/8ba9d729ed7e3f7dca3582b7200d83470a94577d.jpg",
     "group_name": ""
   },
+  "3494351978105218": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3494352043117393": {
     "name": "代肝-小夜",
     "type": "vtuber",
