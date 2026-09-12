@@ -37062,6 +37062,15 @@
     "group_name": ""
   },
   {
+    "uid": 454385633,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
+  {
     "uid": 454512699,
     "name": "亚喵莫伊Mokui",
     "type": "vtuber",

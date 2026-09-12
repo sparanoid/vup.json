@@ -28825,6 +28825,13 @@
     "face": "/bfs/face/d8af763588cbfd20055cf5c157660bfcc7dbce4f.jpg",
     "group_name": ""
   },
+  "454385633": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "454512699": {
     "name": "亚喵莫伊Mokui",
     "type": "vtuber",
