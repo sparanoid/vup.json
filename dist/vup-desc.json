@@ -191,6 +191,14 @@
     "sign": "来自异世界的虚拟骑士，为了寻找所失去的珍贵之物而在进行旅行。联动合作约稿请私信",
     "group_name": ""
   },
+  "37328": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 180696,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
   "38631": {
     "name": "神楽唯Official",
     "type": "vtuber",
@@ -5757,14 +5765,6 @@
     "room": 24541,
     "face": "/bfs/face/c9b954da02a08bee45ca63fe653aeab8989d7c85.jpg",
     "sign": "如果我被众人推倒了 你记得也推我一把 不要因为我而挨骂",
-    "group_name": ""
-  },
-  "2257737": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 2276573,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "2268234": {
@@ -15615,14 +15615,6 @@
     "sign": "猫会记录所有很甜的日子——",
     "group_name": ""
   },
-  "17661166": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21925332,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
   "17683304": {
     "name": "Lu小兔子chen",
     "type": "vtuber",
@@ -15772,7 +15764,7 @@
     "type": "vtuber",
     "room": 14963868,
     "face": "/bfs/face/d0b7a4401afca3d0bf7be8d9700629d8a3fee096.jpg",
-    "sign": "✨晚10点左右播播～",
+    "sign": "✨兼职不是每天都播 介意请勿打赏喵！",
     "group_name": ""
   },
   "18055906": {
@@ -20555,7 +20547,7 @@
     "name": "紘雪Hiroyuki",
     "type": "vtuber",
     "room": 21315849,
-    "face": "/bfs/face/e8db06ec899cfb015f392885792a626e1a9da303.jpg",
+    "face": "/bfs/face/6331119faf0e7be1701f724ff3c92decccfc363c.jpg",
     "sign": "关注我你会变开心哦——大概是魔界的诅咒吧❤️",
     "group_name": ""
   },
@@ -32959,14 +32951,6 @@
     "sign": "-已毕业-\n这里是坟头，可以听歌，但不要蹦迪！",
     "group_name": ""
   },
-  "454385633": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
   "454512699": {
     "name": "亚喵莫伊Mokui",
     "type": "vtuber",
@@ -36767,6 +36751,14 @@
     "sign": "属于你的药 kusuriMarble-IV所属 审核群长期招新：864631323",
     "group_name": "MarbleCreators"
   },
+  "521537808": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 23680334,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": "极光社"
+  },
   "521626041": {
     "name": "猫野酱Nedo",
     "type": "vtuber",
@@ -37768,11 +37760,11 @@
     "group_name": "P.K.S"
   },
   "565286306": {
-    "name": "时堇_Tokki",
+    "name": "一般路过不知名萝莉控",
     "type": "vtuber",
     "room": 22261334,
-    "face": "/bfs/face/2bc67305bcceacc2bc258dfaf990173732c12eac.jpg",
-    "sign": "烤肉的唱歌的没脑子的成分复杂的",
+    "face": "/bfs/face/0fb68f1c47136c73be9fc3c11c6bcfba153f9522.jpg",
+    "sign": "工作用-烤肉的唱歌的没脑子的成分复杂的",
     "group_name": "VOMNIS"
   },
   "567469706": {
@@ -42999,6 +42991,14 @@
     "sign": "虚拟主播团体VirtuaReal成员，由人们的思念情绪孕育而生的虚拟幽灵，商务合作请联系bd@vrp.live",
     "group_name": "VirtuaReal"
   },
+  "1097060010": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 24650238,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
   "1097083213": {
     "name": "莓野麻团Official",
     "type": "vtuber",
@@ -43547,7 +43547,7 @@
     "name": "枝堇Sumire",
     "type": "vtuber",
     "room": 1727076670,
-    "face": "/bfs/face/418ab7a68615ab5591a2745252fdcfa3f58d3bac.jpg",
+    "face": "/bfs/face/793f7f2acfd348349e7932865573756d8bce89a7.jpg",
     "sign": "虚拟艺人团体VirtuaReal成员，是老书屋的一株藤蔓，喜欢雨水和雾，破旧的纸张。商务合作请联系bd@vrp.live。",
     "group_name": "VirtuaReal"
   },
@@ -55511,14 +55511,6 @@
     "sign": "柚柚录播，直播和视频移步@神山柚柚",
     "group_name": ""
   },
-  "3461566271850847": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
   "3461566332668663": {
     "name": "钟晴要变强",
     "type": "vtuber",
@@ -61271,6 +61263,14 @@
     "sign": "最爱你噜",
     "group_name": ""
   },
+  "3493275182828133": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27551412,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
   "3493275388348816": {
     "name": "御秋无水",
     "type": "vtuber",
@@ -61867,7 +61867,7 @@
     "name": "叶绯页",
     "type": "vtuber",
     "room": 32736947,
-    "face": "/bfs/face/5fa62fc59d42765635ce92a7148a21785e6c78d7.jpg",
+    "face": "/bfs/face/1563d91a25763837111d5178ebfad5f384ebcb20.jpg",
     "sign": "『妖精管理局』www.yefeiye.space/休假ing中秋再回来 /游戏逝&卡拉OK势 *love&peace*",
     "group_name": "妖精管理局（北立交桥）"
   },
@@ -62205,14 +62205,6 @@
     "room": 27793863,
     "face": "/bfs/face/7a084e66c983105261524d5846fbdc4ee5074085.jpg",
     "sign": "Channel_North 二期生丨只不过是一条鱼呀！喜欢唱歌、打游戏、回忆过去（？）",
-    "group_name": ""
-  },
-  "3493287673465572": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "3493287916734567": {
@@ -62560,7 +62552,7 @@
     "group_name": ""
   },
   "3493292169759322": {
-    "name": "天才小奇酱",
+    "name": "奇奇哟ovo",
     "type": "vtuber",
     "room": 27783159,
     "face": "/bfs/face/4b5b414684329c7a470d6f014752df85efbb9408.jpg",
@@ -64284,7 +64276,7 @@
     "type": "vtuber",
     "room": 30112426,
     "face": "/bfs/face/5ca5fec44317a8cbefcb8c923b32d989115c7670.jpg",
-    "sign": "Mo-o一期生   Acid主调  合作 Q: 3175560280",
+    "sign": "Mo-o一期生   Acid主调  合作V：Sinonff25",
     "group_name": "Mo-o_Project"
   },
   "3494364863007024": {
@@ -68403,7 +68395,7 @@
     "name": "莜娜Yuna",
     "type": "vtuber",
     "room": 31999413,
-    "face": "/bfs/face/86d6ee73d2d85b8f741f8bda9b697851dd05ef2f.jpg",
+    "face": "/bfs/face/e89c8cd7271924a723b1e359d9581e3dd4303813.jpg",
     "sign": "歌单：https://yunayuna.top/songs 直播通知群333156953 歌切号@Usu_Paradise",
     "group_name": ""
   },
@@ -70799,14 +70791,6 @@
     "sign": "模型已登记禁ai 【谢谢你在海洋的废墟找到了我】直播时间⏰：19:00-24:00",
     "group_name": ""
   },
-  "3546826628139976": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
   "3546827005627070": {
     "name": "Fulaco-Official",
     "type": "group",
@@ -71782,6 +71766,14 @@
     "face": "/bfs/face/b8e72dbe2974c21f81fbaf4c036f1c298ee9fd33.jpg",
     "sign": "277星球第一女明星直播时间:晚上20:00-00:00小窝:1013720497握紧手中的麦穗",
     "group_name": ""
+  },
+  "3546901116881287": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 1724233282,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": "极光社"
   },
   "3546901416774522": {
     "name": "春鱼Sakana",

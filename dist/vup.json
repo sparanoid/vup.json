@@ -167,6 +167,13 @@
     "face": "/bfs/face/f014b9ae406034ef161b2573ec9061f6a3ceb623.jpg",
     "group_name": ""
   },
+  "37328": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 180696,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "38631": {
     "name": "神楽唯Official",
     "type": "vtuber",
@@ -5037,13 +5044,6 @@
     "type": "vtuber",
     "room": 24541,
     "face": "/bfs/face/c9b954da02a08bee45ca63fe653aeab8989d7c85.jpg",
-    "group_name": ""
-  },
-  "2257737": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 2276573,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "2268234": {
@@ -13663,13 +13663,6 @@
     "face": "/bfs/face/b835b715683a97bf43256c0f14fd2c77903fa783.jpg",
     "group_name": ""
   },
-  "17661166": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21925332,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "17683304": {
     "name": "Lu小兔子chen",
     "type": "vtuber",
@@ -17986,7 +17979,7 @@
     "name": "紘雪Hiroyuki",
     "type": "vtuber",
     "room": 21315849,
-    "face": "/bfs/face/e8db06ec899cfb015f392885792a626e1a9da303.jpg",
+    "face": "/bfs/face/6331119faf0e7be1701f724ff3c92decccfc363c.jpg",
     "group_name": ""
   },
   "46337979": {
@@ -28839,13 +28832,6 @@
     "face": "/bfs/face/d8af763588cbfd20055cf5c157660bfcc7dbce4f.jpg",
     "group_name": ""
   },
-  "454385633": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "454512699": {
     "name": "亚喵莫伊Mokui",
     "type": "vtuber",
@@ -32171,6 +32157,13 @@
     "face": "/bfs/face/ad45c4d85b4c5d0116a8065dc81c22291ce4d347.jpg",
     "group_name": "MarbleCreators"
   },
+  "521537808": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 23680334,
+    "face": "/images/member/noface.gif",
+    "group_name": "极光社"
+  },
   "521626041": {
     "name": "猫野酱Nedo",
     "type": "vtuber",
@@ -33047,10 +33040,10 @@
     "group_name": "P.K.S"
   },
   "565286306": {
-    "name": "时堇_Tokki",
+    "name": "一般路过不知名萝莉控",
     "type": "vtuber",
     "room": 22261334,
-    "face": "/bfs/face/2bc67305bcceacc2bc258dfaf990173732c12eac.jpg",
+    "face": "/bfs/face/0fb68f1c47136c73be9fc3c11c6bcfba153f9522.jpg",
     "group_name": "VOMNIS"
   },
   "567469706": {
@@ -37624,6 +37617,13 @@
     "face": "/bfs/face/d99b9801663772fe14a87c9ac9bf4d5951e87187.jpg",
     "group_name": "VirtuaReal"
   },
+  "1097060010": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 24650238,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "1097083213": {
     "name": "莓野麻团Official",
     "type": "vtuber",
@@ -38104,7 +38104,7 @@
     "name": "枝堇Sumire",
     "type": "vtuber",
     "room": 1727076670,
-    "face": "/bfs/face/418ab7a68615ab5591a2745252fdcfa3f58d3bac.jpg",
+    "face": "/bfs/face/793f7f2acfd348349e7932865573756d8bce89a7.jpg",
     "group_name": "VirtuaReal"
   },
   "1151067510": {
@@ -48572,13 +48572,6 @@
     "face": "/bfs/face/d29053bf10a306793eab5ad4e751917a06c9aecd.jpg",
     "group_name": ""
   },
-  "3461566271850847": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3461566332668663": {
     "name": "钟晴要变强",
     "type": "vtuber",
@@ -53612,6 +53605,13 @@
     "face": "/bfs/face/0c3bf9ab7edcf777f0a80db8e4c9ea8791a6c01a.jpg",
     "group_name": ""
   },
+  "3493275182828133": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27551412,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493275388348816": {
     "name": "御秋无水",
     "type": "vtuber",
@@ -54134,7 +54134,7 @@
     "name": "叶绯页",
     "type": "vtuber",
     "room": 32736947,
-    "face": "/bfs/face/5fa62fc59d42765635ce92a7148a21785e6c78d7.jpg",
+    "face": "/bfs/face/1563d91a25763837111d5178ebfad5f384ebcb20.jpg",
     "group_name": "妖精管理局（北立交桥）"
   },
   "3493283716139381": {
@@ -54429,13 +54429,6 @@
     "type": "vtuber",
     "room": 27793863,
     "face": "/bfs/face/7a084e66c983105261524d5846fbdc4ee5074085.jpg",
-    "group_name": ""
-  },
-  "3493287673465572": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493287916734567": {
@@ -54740,7 +54733,7 @@
     "group_name": ""
   },
   "3493292169759322": {
-    "name": "天才小奇酱",
+    "name": "奇奇哟ovo",
     "type": "vtuber",
     "room": 27783159,
     "face": "/bfs/face/4b5b414684329c7a470d6f014752df85efbb9408.jpg",
@@ -59853,7 +59846,7 @@
     "name": "莜娜Yuna",
     "type": "vtuber",
     "room": 31999413,
-    "face": "/bfs/face/86d6ee73d2d85b8f741f8bda9b697851dd05ef2f.jpg",
+    "face": "/bfs/face/e89c8cd7271924a723b1e359d9581e3dd4303813.jpg",
     "group_name": ""
   },
   "3546626798913552": {
@@ -61949,13 +61942,6 @@
     "face": "/bfs/face/a4f491538239c454b604bfa2b1d61c100083eb0a.jpg",
     "group_name": ""
   },
-  "3546826628139976": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3546827005627070": {
     "name": "Fulaco-Official",
     "type": "group",
@@ -62809,6 +62795,13 @@
     "room": 1949989774,
     "face": "/bfs/face/b8e72dbe2974c21f81fbaf4c036f1c298ee9fd33.jpg",
     "group_name": ""
+  },
+  "3546901116881287": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 1724233282,
+    "face": "/images/member/noface.gif",
+    "group_name": "极光社"
   },
   "3546901416774522": {
     "name": "春鱼Sakana",

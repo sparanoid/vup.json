@@ -143,6 +143,12 @@
     "room": 139372,
     "group_name": ""
   },
+  "37328": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 180696,
+    "group_name": ""
+  },
   "38631": {
     "name": "神楽唯Official",
     "type": "vtuber",
@@ -4317,12 +4323,6 @@
     "name": "你的苏暖",
     "type": "vtuber",
     "room": 24541,
-    "group_name": ""
-  },
-  "2257737": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 2276573,
     "group_name": ""
   },
   "2268234": {
@@ -11709,12 +11709,6 @@
     "name": "真由Mayu",
     "type": "vtuber",
     "room": 4564601,
-    "group_name": ""
-  },
-  "17661166": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 21925332,
     "group_name": ""
   },
   "17683304": {
@@ -24719,12 +24713,6 @@
     "room": 23920289,
     "group_name": ""
   },
-  "454385633": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
   "454512699": {
     "name": "亚喵莫伊Mokui",
     "type": "vtuber",
@@ -27575,6 +27563,12 @@
     "room": 22193993,
     "group_name": "MarbleCreators"
   },
+  "521537808": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 23680334,
+    "group_name": "极光社"
+  },
   "521626041": {
     "name": "猫野酱Nedo",
     "type": "vtuber",
@@ -28326,7 +28320,7 @@
     "group_name": "P.K.S"
   },
   "565286306": {
-    "name": "时堇_Tokki",
+    "name": "一般路过不知名萝莉控",
     "type": "vtuber",
     "room": 22261334,
     "group_name": "VOMNIS"
@@ -32248,6 +32242,12 @@
     "type": "vtuber",
     "room": 1791260756,
     "group_name": "VirtuaReal"
+  },
+  "1097060010": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 24650238,
+    "group_name": ""
   },
   "1097083213": {
     "name": "莓野麻团Official",
@@ -41633,12 +41633,6 @@
     "room": 25760274,
     "group_name": ""
   },
-  "3461566271850847": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
   "3461566332668663": {
     "name": "钟晴要变强",
     "type": "vtuber",
@@ -45953,6 +45947,12 @@
     "room": 27602521,
     "group_name": ""
   },
+  "3493275182828133": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27551412,
+    "group_name": ""
+  },
   "3493275388348816": {
     "name": "御秋无水",
     "type": "vtuber",
@@ -46655,12 +46655,6 @@
     "room": 27793863,
     "group_name": ""
   },
-  "3493287673465572": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
   "3493287916734567": {
     "name": "暴走团妹",
     "type": "vtuber",
@@ -46920,7 +46914,7 @@
     "group_name": ""
   },
   "3493292169759322": {
-    "name": "天才小奇酱",
+    "name": "奇奇哟ovo",
     "type": "vtuber",
     "room": 27783159,
     "group_name": ""
@@ -53099,12 +53093,6 @@
     "room": 1894724477,
     "group_name": ""
   },
-  "3546826628139976": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
   "3546827005627070": {
     "name": "Fulaco-Official",
     "type": "group",
@@ -53836,6 +53824,12 @@
     "type": "vtuber",
     "room": 1949989774,
     "group_name": ""
+  },
+  "3546901116881287": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 1724233282,
+    "group_name": "极光社"
   },
   "3546901416774522": {
     "name": "春鱼Sakana",
