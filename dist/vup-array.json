@@ -22256,6 +22256,14 @@
     "group_name": "玹云社"
   },
   {
+    "uid": 87324379,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": "ProjectViberglow"
+  },
+  {
     "uid": 87386257,
     "name": "梅露蒂雅Melodia",
     "type": "vtuber",
@@ -58544,14 +58552,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493129911011381,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  {
     "uid": 3493129961343026,
     "name": "乖乖糯白",
     "type": "vtuber",
@@ -60128,14 +60128,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493260412586251,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27358257,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  {
     "uid": 3493260825725825,
     "name": "呜绒",
     "type": "vtuber",
@@ -60557,14 +60549,6 @@
     "type": "vtuber",
     "room": 30415998,
     "face": "/bfs/face/840cf3afea7ba88640754e5e5e6d3ce76a9e1acf.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 3493265919707866,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27428936,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
