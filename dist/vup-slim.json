@@ -2573,6 +2573,12 @@
     "room": 1003172,
     "group_name": ""
   },
+  "823718": {
+    "name": "bilibili",
+    "type": "group",
+    "room": 0,
+    "group_name": ""
+  },
   "823798": {
     "name": "相沢加奈Official",
     "type": "vtuber",
@@ -7830,7 +7836,7 @@
     "group_name": ""
   },
   "7275567": {
-    "name": "富婆兔YukiRabbit",
+    "name": "七海天奈",
     "type": "vtuber",
     "room": 558419,
     "group_name": ""
@@ -14457,6 +14463,12 @@
     "name": "星稚Sieny",
     "type": "vtuber",
     "room": 24627368,
+    "group_name": ""
+  },
+  "34411852": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 5247063,
     "group_name": ""
   },
   "34423885": {
@@ -31374,7 +31386,7 @@
     "group_name": ""
   },
   "702773222": {
-    "name": "深井時礼official",
+    "name": "観測前",
     "type": "vtuber",
     "room": 22595681,
     "group_name": ""
@@ -33899,12 +33911,6 @@
     "room": 26263064,
     "group_name": ""
   },
-  "1287760245": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27913600,
-    "group_name": ""
-  },
   "1287888117": {
     "name": "Afaer-Official",
     "type": "group",
@@ -35069,6 +35075,12 @@
     "room": 27074883,
     "group_name": ""
   },
+  "1427911902": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 25736626,
+    "group_name": ""
+  },
   "1428441528": {
     "name": "阿买official",
     "type": "vtuber",
@@ -35811,6 +35823,12 @@
     "name": "何羽Heyuuko",
     "type": "vtuber",
     "room": 27929972,
+    "group_name": ""
+  },
+  "1510174854": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 1970746371,
     "group_name": ""
   },
   "1510373188": {
@@ -38673,12 +38691,6 @@
     "name": "阱途Gin",
     "type": "vtuber",
     "room": 26220957,
-    "group_name": ""
-  },
-  "1833371045": {
-    "name": "雾奈fufu",
-    "type": "vtuber",
-    "room": 23541175,
     "group_name": ""
   },
   "1834090921": {
@@ -42377,12 +42389,6 @@
     "room": 1814591139,
     "group_name": ""
   },
-  "3493081399691605": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
   "3493081628281391": {
     "name": "诡羽Official",
     "type": "vtuber",
@@ -45401,6 +45407,12 @@
     "room": 30415998,
     "group_name": ""
   },
+  "3493265919707866": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27428936,
+    "group_name": ""
+  },
   "3493265930193449": {
     "name": "顾辞Gucii",
     "type": "vtuber",
@@ -46421,12 +46433,6 @@
     "room": 30608283,
     "group_name": ""
   },
-  "3493283986671762": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
   "3493284158638568": {
     "name": "拿一只羊",
     "type": "vtuber",
@@ -47445,12 +47451,6 @@
     "name": "流筝Mio",
     "type": "vtuber",
     "room": 30119724,
-    "group_name": ""
-  },
-  "3494351978105218": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   "3494352043117393": {
@@ -49745,6 +49745,12 @@
     "room": 30768386,
     "group_name": ""
   },
+  "3546377195883336": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 31472292,
+    "group_name": ""
+  },
   "3546377604827193": {
     "name": "妙昭彩Miaoya",
     "type": "vtuber",
@@ -50301,6 +50307,12 @@
     "name": "花梨kariny",
     "type": "vtuber",
     "room": 31204047,
+    "group_name": ""
+  },
+  "3546556890352530": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 31018380,
     "group_name": ""
   },
   "3546558106700250": {
@@ -51387,12 +51399,6 @@
     "name": "路漫漫うし",
     "type": "vtuber",
     "room": 32136068,
-    "group_name": ""
-  },
-  "3546635799890710": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   "3546636036868257": {
@@ -53463,6 +53469,12 @@
     "name": "芙栗安Frian",
     "type": "vtuber",
     "room": 1822079832,
+    "group_name": ""
+  },
+  "3546866478221346": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 1789717406,
     "group_name": ""
   },
   "3546868044794663": {
