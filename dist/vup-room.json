@@ -26788,6 +26788,13 @@
     "face": "/bfs/face/227af0dd9606274a2febe12308071baa2c3cf5a0.jpg",
     "group_name": ""
   },
+  "408367406": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": "猫铃社"
+  },
   "408379588": {
     "name": "丹羽庭子Official",
     "type": "vtuber",
@@ -43868,13 +43875,6 @@
     "face": "/bfs/face/81691309c8d24d30411853fdf05283f01c1665be.jpg",
     "group_name": ""
   },
-  "1715394332": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "1715569439": {
     "name": "果然是一只喵",
     "type": "vtuber",
@@ -51225,6 +51225,13 @@
     "face": "/bfs/face/e634046db48b09df53c8d5cecc27ea15c407c54d.jpg",
     "group_name": ""
   },
+  "3493129911011381": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493129961343026": {
     "name": "乖乖糯白",
     "type": "vtuber",
@@ -52602,6 +52609,13 @@
     "type": "vtuber",
     "room_id": 27373061,
     "face": "/bfs/face/06de7ca455d58edbc82c40a4c2e550b800df92ce.jpg",
+    "group_name": ""
+  },
+  "3493260412586251": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room_id": 27358257,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493260825725825": {
@@ -62472,6 +62486,13 @@
     "type": "vtuber",
     "room_id": 1796100941,
     "face": "/bfs/face/0bd29df3c3d09ca8bb58d87518c1ee6295d550a1.jpg",
+    "group_name": ""
+  },
+  "3546875930085493": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room_id": 1951599086,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546876051720862": {

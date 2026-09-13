@@ -26789,6 +26789,13 @@
     "group_name": ""
   },
   {
+    "uid": 408367406,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "猫铃社"
+  },
+  {
     "uid": 408379588,
     "name": "丹羽庭子Official",
     "type": "vtuber",
@@ -43869,13 +43876,6 @@
     "group_name": ""
   },
   {
-    "uid": 1715394332,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 1715569439,
     "name": "果然是一只喵",
     "type": "vtuber",
@@ -51226,6 +51226,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493129911011381,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 3493129961343026,
     "name": "乖乖糯白",
     "type": "vtuber",
@@ -52602,6 +52609,13 @@
     "name": "海月贝_official",
     "type": "vtuber",
     "room": 27373061,
+    "group_name": ""
+  },
+  {
+    "uid": 3493260412586251,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27358257,
     "group_name": ""
   },
   {
@@ -62472,6 +62486,13 @@
     "name": "不知晚_wan",
     "type": "vtuber",
     "room": 1796100941,
+    "group_name": ""
+  },
+  {
+    "uid": 3546875930085493,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 1951599086,
     "group_name": ""
   },
   {

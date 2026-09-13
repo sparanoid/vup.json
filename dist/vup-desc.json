@@ -30615,6 +30615,14 @@
     "sign": "虚拟歌手、作曲者鷹森ツヅル作品搬运。作词作编曲/歌/立绘/Live2D/视频制作全役。",
     "group_name": ""
   },
+  "408367406": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": "猫铃社"
+  },
   "408379588": {
     "name": "丹羽庭子Official",
     "type": "vtuber",
@@ -50135,14 +50143,6 @@
     "sign": "眠棉棉已经毕业啦！",
     "group_name": ""
   },
-  "1715394332": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
   "1715569439": {
     "name": "果然是一只喵",
     "type": "vtuber",
@@ -58543,6 +58543,14 @@
     "sign": "来自地狱的留学生，伪娘小恶魔水无月堇在此！",
     "group_name": ""
   },
+  "3493129911011381": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
   "3493129961343026": {
     "name": "乖乖糯白",
     "type": "vtuber",
@@ -60117,6 +60125,14 @@
     "room": 27373061,
     "face": "/bfs/face/06de7ca455d58edbc82c40a4c2e550b800df92ce.jpg",
     "sign": "我是在水族馆里出生和长大的人鱼女孩，海月贝（海月シェル）！\n属于作词・作曲・边唱边跳的音乐系Vtuber/Vsinger。",
+    "group_name": ""
+  },
+  "3493260412586251": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27358257,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "3493260825725825": {
@@ -71397,6 +71413,14 @@
     "room": 1796100941,
     "face": "/bfs/face/0bd29df3c3d09ca8bb58d87518c1ee6295d550a1.jpg",
     "sign": "一只唱古风戏腔的朝天犼！\n直播时间：\n古风曲库储备量1000+总有一首你喜欢的",
+    "group_name": ""
+  },
+  "3546875930085493": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 1951599086,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "3546876051720862": {
