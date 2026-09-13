@@ -34860,7 +34860,7 @@
     "group_name": "MZ次元"
   },
   "649029391": {
-    "name": "殊汶Sue",
+    "name": "殊汶SAMA",
     "type": "vtuber",
     "room": 22928077,
     "face": "/bfs/face/4402744427ee62ee2039a1297b7b38c51817568b.jpg",
@@ -53633,13 +53633,6 @@
     "face": "/bfs/face/0c3bf9ab7edcf777f0a80db8e4c9ea8791a6c01a.jpg",
     "group_name": ""
   },
-  "3493275182828133": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 27551412,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493275388348816": {
     "name": "御秋无水",
     "type": "vtuber",
@@ -62830,13 +62823,6 @@
     "room": 1949989774,
     "face": "/bfs/face/b8e72dbe2974c21f81fbaf4c036f1c298ee9fd33.jpg",
     "group_name": ""
-  },
-  "3546901116881287": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 1724233282,
-    "face": "/images/member/noface.gif",
-    "group_name": "极光社"
   },
   "3546901416774522": {
     "name": "春鱼Sakana",
