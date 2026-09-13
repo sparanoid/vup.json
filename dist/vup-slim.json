@@ -51395,6 +51395,12 @@
     "room": 32136068,
     "group_name": ""
   },
+  "3546635799890710": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
   "3546636036868257": {
     "name": "茉莱MooLy",
     "type": "vtuber",
@@ -53874,7 +53880,7 @@
     "group_name": ""
   },
   "3546903763486816": {
-    "name": "b站不白短雀雀",
+    "name": "白到跳了",
     "type": "vtuber",
     "room": 1777647491,
     "group_name": ""

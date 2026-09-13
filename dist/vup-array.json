@@ -26012,7 +26012,7 @@
     "name": "ling_宙_九九归一",
     "type": "vtuber",
     "room": 9208212,
-    "face": "/bfs/face/3997273bb534cb612d8bbba0ce8982ce9a22d224.jpg",
+    "face": "/bfs/face/b774bd43662a04db755b1a469c3ca2efc7d388de.jpg",
     "group_name": ""
   },
   {
@@ -68528,6 +68528,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546635799890710,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
+  {
     "uid": 3546636036868257,
     "name": "茉莱MooLy",
     "type": "vtuber",
@@ -71833,7 +71841,7 @@
   },
   {
     "uid": 3546903763486816,
-    "name": "b站不白短雀雀",
+    "name": "白到跳了",
     "type": "vtuber",
     "room": 1777647491,
     "face": "/bfs/face/6b4f0c60c99468b982168371fe3146fd25b3f621.webp",
