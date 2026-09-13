@@ -5759,6 +5759,14 @@
     "sign": "如果我被众人推倒了 你记得也推我一把 不要因为我而挨骂",
     "group_name": ""
   },
+  "2257737": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 2276573,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
   "2268234": {
     "name": "苏猫今天吃什么",
     "type": "vtuber",

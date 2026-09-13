@@ -5760,6 +5760,14 @@
     "group_name": ""
   },
   {
+    "uid": 2257737,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 2276573,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
+  {
     "uid": 2268234,
     "name": "苏猫今天吃什么",
     "type": "vtuber",
