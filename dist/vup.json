@@ -62901,6 +62901,13 @@
     "face": "/bfs/face/fc78397e1d42bc3507d6a7b14a01b2ec2a76ca9c.jpg",
     "group_name": ""
   },
+  "3546906485590570": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": "问尘仙会"
+  },
   "3546907368491778": {
     "name": "Mu沐声声丶",
     "type": "vtuber",
