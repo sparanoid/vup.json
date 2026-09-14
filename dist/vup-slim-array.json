@@ -2996,13 +2996,6 @@
     "group_name": ""
   },
   {
-    "uid": 823718,
-    "name": "bilibili",
-    "type": "group",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 823798,
     "name": "相沢加奈Official",
     "type": "vtuber",
@@ -7740,13 +7733,6 @@
     "type": "vtuber",
     "room": 6175163,
     "group_name": ""
-  },
-  {
-    "uid": 4968023,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": "ChaosLiveSprout"
   },
   {
     "uid": 4971404,
@@ -14715,7 +14701,7 @@
   },
   {
     "uid": 21685335,
-    "name": "一只雏羽喵",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 3765619,
     "group_name": ""
@@ -38123,7 +38109,7 @@
   },
   {
     "uid": 1152878015,
-    "name": "柳桐非_13号新衣回",
+    "name": "柳桐非",
     "type": "vtuber",
     "room": 1841881686,
     "group_name": ""
@@ -44898,6 +44884,13 @@
     "group_name": ""
   },
   {
+    "uid": 1818940700,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 24710596,
+    "group_name": ""
+  },
+  {
     "uid": 1819548520,
     "name": "桃酥Momo",
     "type": "vtuber",
@@ -51471,6 +51464,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493135046936834,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27173011,
+    "group_name": ""
+  },
+  {
     "uid": 3493135055325525,
     "name": "NaN3517",
     "type": "vtuber",
@@ -52931,13 +52931,6 @@
     "name": "金刚葫芦_Rinn",
     "type": "vtuber",
     "room": 30415998,
-    "group_name": ""
-  },
-  {
-    "uid": 3493265919707866,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -55377,6 +55370,13 @@
     "group_name": ""
   },
   {
+    "uid": 3494353181870931,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 27944425,
+    "group_name": ""
+  },
+  {
     "uid": 3494353194453111,
     "name": "露莎尼尔",
     "type": "vtuber",
@@ -56197,7 +56197,7 @@
   },
   {
     "uid": 3494364863007024,
-    "name": "弥鹿迷了路丶",
+    "name": "迷路了丶丶",
     "type": "vtuber",
     "room": 30125707,
     "group_name": ""
@@ -56901,13 +56901,6 @@
     "type": "vtuber",
     "room": 30304039,
     "group_name": "虚研学园"
-  },
-  {
-    "uid": 3494377049557569,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
   },
   {
     "uid": 3494377190067102,
@@ -57995,13 +57988,6 @@
     "group_name": ""
   },
   {
-    "uid": 3546377195883336,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 31472292,
-    "group_name": ""
-  },
-  {
     "uid": 3546377604827193,
     "name": "妙昭彩Miaoya",
     "type": "vtuber",
@@ -58650,13 +58636,6 @@
     "name": "花梨kariny",
     "type": "vtuber",
     "room": 31204047,
-    "group_name": ""
-  },
-  {
-    "uid": 3546556890352530,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 31018380,
     "group_name": ""
   },
   {
@@ -61068,13 +61047,6 @@
     "group_name": ""
   },
   {
-    "uid": 3546722699577920,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 3546724496837553,
     "name": "烛荧荧",
     "type": "vtuber",
@@ -61915,13 +61887,6 @@
     "group_name": ""
   },
   {
-    "uid": 3546826919644001,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 3546827005627070,
     "name": "Fulaco-Official",
     "type": "group",
@@ -62353,13 +62318,6 @@
     "name": "芙栗安Frian",
     "type": "vtuber",
     "room": 1822079832,
-    "group_name": ""
-  },
-  {
-    "uid": 3546866478221346,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 1789717406,
     "group_name": ""
   },
   {
@@ -63855,7 +63813,7 @@
   },
   {
     "uid": 3707022178519939,
-    "name": "晚晚Babe_11号双满回",
+    "name": "晚晚Babe_找男闺龟",
     "type": "vtuber",
     "room": 1907441796,
     "group_name": ""

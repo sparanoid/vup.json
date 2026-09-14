@@ -2995,13 +2995,6 @@
     "face": "/bfs/face/916b68c701103d3cd1aceac0c238d8cfe974047c.jpg",
     "group_name": ""
   },
-  "823718": {
-    "name": "bilibili",
-    "type": "group",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "823798": {
     "name": "相沢加奈Official",
     "type": "vtuber",
@@ -5932,7 +5925,7 @@
     "name": "濑月夢纪YUmeKI",
     "type": "vtuber",
     "room_id": 24979187,
-    "face": "/bfs/face/009faa62b67bd004a85b30d3c05e0881b81cf5f5.jpg",
+    "face": "/bfs/face/3f890693174522d0ed1032856be2579d7ed2db55.jpg",
     "group_name": ""
   },
   "3027110": {
@@ -7740,13 +7733,6 @@
     "room_id": 6175163,
     "face": "/bfs/face/344ceacfd48a706daabf5bb2d394a5ade379f7ec.jpg",
     "group_name": ""
-  },
-  "4968023": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": "ChaosLiveSprout"
   },
   "4971404": {
     "name": "蜜柑儿233",
@@ -14714,10 +14700,10 @@
     "group_name": ""
   },
   "21685335": {
-    "name": "一只雏羽喵",
+    "name": "bilibili",
     "type": "vtuber",
     "room_id": 3765619,
-    "face": "/bfs/face/1be9e0e35be095582a48a11df56498cac15cf11f.jpg",
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "21687657": {
@@ -15116,7 +15102,7 @@
     "name": "我是昔昔",
     "type": "vtuber",
     "room_id": 7618745,
-    "face": "/bfs/face/8a6dc4dbf23e863e247c17c2f1fbc830072430a4.jpg",
+    "face": "/bfs/face/b762d19b137195c042747482d5caf1ae6243a785.jpg",
     "group_name": ""
   },
   "23160779": {
@@ -20814,7 +20800,7 @@
     "name": "可希Senyo",
     "type": "vtuber",
     "room_id": 7378130,
-    "face": "/bfs/face/b93c196bc64c1723796a3a55b2ed55e72f984111.jpg",
+    "face": "/bfs/face/0a625abb3601a3bfc9e381086979f8a446bb9d65.jpg",
     "group_name": ""
   },
   "163745074": {
@@ -30460,7 +30446,7 @@
     "name": "冉尘瑶",
     "type": "vtuber",
     "room_id": 22499175,
-    "face": "/bfs/face/205d1b62711b4cbc05874d6cec2c59cc18819b38.jpg",
+    "face": "/bfs/face/c626c06763c0143c69657de785837a97fd28c064.jpg",
     "group_name": ""
   },
   "488184401": {
@@ -38122,10 +38108,10 @@
     "group_name": ""
   },
   "1152878015": {
-    "name": "柳桐非_13号新衣回",
+    "name": "柳桐非",
     "type": "vtuber",
     "room_id": 1841881686,
-    "face": "/bfs/face/106e51151e957d3c3ee750e5545baea289f3cd25.jpg",
+    "face": "/bfs/face/24cff24cc915b3743235f6971eed8449024ce309.jpg",
     "group_name": ""
   },
   "1153280945": {
@@ -41793,7 +41779,7 @@
     "name": "虎太Kotarou",
     "type": "vtuber",
     "room_id": 27135551,
-    "face": "/bfs/face/6fd19e19beaf7d944248cb82a94fd50bac185937.jpg",
+    "face": "/bfs/face/069b6fc918fce2e2cf34e0215b835746e752500a.jpg",
     "group_name": ""
   },
   "1511924791": {
@@ -42192,7 +42178,7 @@
     "name": "缪希Miucy",
     "type": "vtuber",
     "room_id": 23427118,
-    "face": "/bfs/face/14ddb88e29d7659c2988601a44d5bcb8e3f416b0.jpg",
+    "face": "/bfs/face/8ed56cabfa9b324b806ca89579fd068cfcf0e6dd.jpg",
     "group_name": ""
   },
   "1558299402": {
@@ -44895,6 +44881,13 @@
     "type": "vtuber",
     "room_id": 25981854,
     "face": "/bfs/face/1bf00604045034ef1a6d4821d1b4a7dfe526d3fc.webp",
+    "group_name": ""
+  },
+  "1818940700": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room_id": 24710596,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1819548520": {
@@ -48737,7 +48730,7 @@
     "name": "丸小欣xin-",
     "type": "vtuber",
     "room_id": 1724215455,
-    "face": "/bfs/face/d282a37b31f4fe9e42f2ec170d4edc6ec3b4d61c.jpg",
+    "face": "/bfs/face/8a2b279ddae7e357d984fdc487f33abe2afcc16e.jpg",
     "group_name": ""
   },
   "3461572502489809": {
@@ -51470,6 +51463,13 @@
     "face": "/bfs/face/8ff8b09818e2738d185588b5d33ea505b3cef645.jpg",
     "group_name": ""
   },
+  "3493135046936834": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room_id": 27173011,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493135055325525": {
     "name": "NaN3517",
     "type": "vtuber",
@@ -52931,13 +52931,6 @@
     "type": "vtuber",
     "room_id": 30415998,
     "face": "/bfs/face/840cf3afea7ba88640754e5e5e6d3ce76a9e1acf.jpg",
-    "group_name": ""
-  },
-  "3493265919707866": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493265930193449": {
@@ -55376,6 +55369,13 @@
     "face": "/bfs/face/07621d628efe3f8388473f8636d3bc6d43fde8c1.jpg",
     "group_name": ""
   },
+  "3494353181870931": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room_id": 27944425,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3494353194453111": {
     "name": "露莎尼尔",
     "type": "vtuber",
@@ -55415,7 +55415,7 @@
     "name": "祢夜十音",
     "type": "vtuber",
     "room_id": 27935833,
-    "face": "/bfs/face/e88b664144dc6f308216741c634f2f3f2ed1dfed.jpg",
+    "face": "/bfs/face/9c83080f4a175715f009706bc68480d44e9151ce.jpg",
     "group_name": ""
   },
   "3494353704061716": {
@@ -56196,7 +56196,7 @@
     "group_name": "Mo-o_Project"
   },
   "3494364863007024": {
-    "name": "弥鹿迷了路丶",
+    "name": "迷路了丶丶",
     "type": "vtuber",
     "room_id": 30125707,
     "face": "/bfs/face/afec18de0f4e709d925d9b26c1caa99dc0a30f58.jpg",
@@ -56901,13 +56901,6 @@
     "room_id": 30304039,
     "face": "/bfs/face/34252c840da1fb9a7f564d84f597bda5e5c992ba.jpg",
     "group_name": "虚研学园"
-  },
-  "3494377049557569": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
   },
   "3494377190067102": {
     "name": "预知Tarot",
@@ -57994,13 +57987,6 @@
     "face": "/bfs/face/0c7ecfcef7bb447d9ce46186b734db6a90cb2428.jpg",
     "group_name": ""
   },
-  "3546377195883336": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 31472292,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3546377604827193": {
     "name": "妙昭彩Miaoya",
     "type": "vtuber",
@@ -58650,13 +58636,6 @@
     "type": "vtuber",
     "room_id": 31204047,
     "face": "/bfs/face/2ba2295f52c5dae19353c28076246371acea515c.jpg",
-    "group_name": ""
-  },
-  "3546556890352530": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 31018380,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546558106700250": {
@@ -60595,7 +60574,7 @@
     "name": "阿呜wua",
     "type": "vtuber",
     "room_id": 1707007315,
-    "face": "/bfs/face/1df80f62b4a66acaaa769c89ad29b9da81446a78.jpg",
+    "face": "/bfs/face/b54ff582f49bde6c29b741aa6b33f9670b6ea9d1.jpg",
     "group_name": ""
   },
   "3546692473326378": {
@@ -61065,13 +61044,6 @@
     "type": "vtuber",
     "room_id": 1757328182,
     "face": "/bfs/face/a75ca303f7174eb082a364fabee36951e91c4e56.jpg",
-    "group_name": ""
-  },
-  "3546722699577920": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546724496837553": {
@@ -61914,13 +61886,6 @@
     "face": "/bfs/face/a4f491538239c454b604bfa2b1d61c100083eb0a.jpg",
     "group_name": ""
   },
-  "3546826919644001": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3546827005627070": {
     "name": "Fulaco-Official",
     "type": "group",
@@ -62353,13 +62318,6 @@
     "type": "vtuber",
     "room_id": 1822079832,
     "face": "/bfs/face/1148db01e3fa8aa9cfbeef7ac03fb96bee895ccb.jpg",
-    "group_name": ""
-  },
-  "3546866478221346": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 1789717406,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546868044794663": {
@@ -63675,7 +63633,7 @@
     "name": "温饱饱ciallo",
     "type": "vtuber",
     "room_id": 1827736458,
-    "face": "/bfs/face/8a0ce25960a49e326a28af5ba492675b0fbf9217.jpg",
+    "face": "/bfs/face/0cef7fd2a570d1aa83ddfc9e8a04ef3cefe9b06b.jpg",
     "group_name": ""
   },
   "3691006587308829": {
@@ -63854,7 +63812,7 @@
     "group_name": "冬日之家Ultra（北立交桥）"
   },
   "3707022178519939": {
-    "name": "晚晚Babe_11号双满回",
+    "name": "晚晚Babe_找男闺龟",
     "type": "vtuber",
     "room_id": 1907441796,
     "face": "/bfs/face/e8b5dc04f08a011755aa3fe85776466c302b1088.jpg",
