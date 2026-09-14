@@ -59112,6 +59112,15 @@
     "group_name": ""
   },
   {
+    "uid": 1913836091,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
+  {
     "uid": 1915300714,
     "name": "琳珑Channel",
     "type": "vtuber",
@@ -78756,6 +78765,15 @@
     "room": 1838214880,
     "face": "/bfs/face/50e357cb5cc742ea0d58844b7d752ed6b721a85c.jpg",
     "sign": "我们的相遇，就是奇迹！\n量贩模型账号@xp收藏馆",
+    "group_name": ""
+  },
+  {
+    "uid": 3546740040928185,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {

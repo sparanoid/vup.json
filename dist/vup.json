@@ -45975,6 +45975,13 @@
     "face": "/bfs/face/62d2e4f4dd42748d4100584c45cd0a780972fae6.jpg",
     "group_name": ""
   },
+  "1913836091": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "1915300714": {
     "name": "琳珑Channel",
     "type": "vtuber",
@@ -61254,6 +61261,13 @@
     "type": "vtuber",
     "room": 1838214880,
     "face": "/bfs/face/50e357cb5cc742ea0d58844b7d752ed6b721a85c.jpg",
+    "group_name": ""
+  },
+  "3546740040928185": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546741114669488": {

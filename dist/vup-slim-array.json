@@ -45976,6 +45976,13 @@
     "group_name": ""
   },
   {
+    "uid": 1913836091,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 1915300714,
     "name": "琳珑Channel",
     "type": "vtuber",
@@ -61254,6 +61261,13 @@
     "name": "小盐棒冰kino",
     "type": "vtuber",
     "room": 1838214880,
+    "group_name": ""
+  },
+  {
+    "uid": 3546740040928185,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {
