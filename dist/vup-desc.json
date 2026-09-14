@@ -1791,6 +1791,14 @@
     "sign": "Accomplish nothing",
     "group_name": ""
   },
+  "439941": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
   "440555": {
     "name": "神圣的楼兰我",
     "type": "vtuber",
@@ -13364,7 +13372,7 @@
     "type": "vtuber",
     "room": 6032530,
     "face": "/bfs/face/d9edbdcfc5447f9f0d5dc24615d070ed1c89e288.jpg",
-    "sign": "路人小开，潜水自嗨",
+    "sign": "走，去看 酥皮小开",
     "group_name": "猫邮社"
   },
   "11912741": {
@@ -16611,7 +16619,7 @@
     "name": "Seeu喵",
     "type": "vtuber",
     "room": 2538952,
-    "face": "/bfs/face/48f898a82efbe834c53426d77245a490f93f574e.jpg",
+    "face": "/bfs/face/b177384ee8f6bd131fba60157aac6ebc9ccf5a77.jpg",
     "sign": "世界上最负盛名的游戏天才\n培顽私信",
     "group_name": ""
   },
@@ -36751,14 +36759,6 @@
     "sign": "属于你的药 kusuriMarble-IV所属 审核群长期招新：864631323",
     "group_name": "MarbleCreators"
   },
-  "521537808": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 23680334,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": "极光社"
-  },
   "521626041": {
     "name": "猫野酱Nedo",
     "type": "vtuber",
@@ -55783,14 +55783,6 @@
     "sign": "第二次下山的狐妖罢了。栖身之所：515398065",
     "group_name": ""
   },
-  "3461574155045019": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
   "3461574234736872": {
     "name": "流明shine",
     "type": "vtuber",
@@ -56661,14 +56653,6 @@
     "room": 26487139,
     "face": "/bfs/face/5bf4a0c5257e8ba2a573a0d951fc7b011453c9af.jpg",
     "sign": "个人势VUP\n开心第一，吃饭第二",
-    "group_name": ""
-  },
-  "3493086103603765": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "3493086105701153": {
@@ -58621,14 +58605,6 @@
     "room": 27025099,
     "face": "/bfs/face/371ea9337c229a206477d5b3668708b62239f335.jpg",
     "sign": "听说可爱会传染那你靠近你我一点",
-    "group_name": ""
-  },
-  "3493131339172350": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "3493131561470207": {
@@ -62207,14 +62183,6 @@
     "sign": "请你务必一而再再而三，三而不竭千次万次救自己于水火！粉丝群531507493~\n按道理晚上八点开播，实际醒了就播",
     "group_name": ""
   },
-  "3493288455702855": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
   "3493288646544112": {
     "name": "失眠妥芮朵_Toreador",
     "type": "vtuber",
@@ -65054,6 +65022,14 @@
     "face": "/bfs/face/34252c840da1fb9a7f564d84f597bda5e5c992ba.jpg",
     "sign": "<虚研学园>新生,是一个来自外太空的猫灵公主。唱歌又菜又爱唱；游戏又菜又上头；杂谈不懂梗；二次元在恶补。神秘代码：球球827903723",
     "group_name": "虚研学园"
+  },
+  "3494377049557569": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
   },
   "3494377190067102": {
     "name": "预知Tarot",
@@ -72541,14 +72517,6 @@
     "room": 1881501252,
     "face": "/bfs/face/f020c096d835ccac080a8698f518ea83a353f414.jpg",
     "sign": "我是奇比chippy！2026/7/22始動！\n来自日本的Vtuber！年兽的孩子！\n超级喜欢中国！请多多关照～！嘻嘻！",
-    "group_name": ""
-  },
-  "3632305979525726": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   "3632307753715852": {

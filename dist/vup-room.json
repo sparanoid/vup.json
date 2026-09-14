@@ -1567,6 +1567,13 @@
     "face": "/bfs/face/0be72bc58b47dd3d61b08175c83f6a6846c37e4d.jpg",
     "group_name": ""
   },
+  "439941": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "440555": {
     "name": "神圣的楼兰我",
     "type": "vtuber",
@@ -14535,7 +14542,7 @@
     "name": "Seeu喵",
     "type": "vtuber",
     "room_id": 2538952,
-    "face": "/bfs/face/48f898a82efbe834c53426d77245a490f93f574e.jpg",
+    "face": "/bfs/face/b177384ee8f6bd131fba60157aac6ebc9ccf5a77.jpg",
     "group_name": ""
   },
   "20920382": {
@@ -32157,13 +32164,6 @@
     "face": "/bfs/face/ad45c4d85b4c5d0116a8065dc81c22291ce4d347.jpg",
     "group_name": "MarbleCreators"
   },
-  "521537808": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 23680334,
-    "face": "/images/member/noface.gif",
-    "group_name": "极光社"
-  },
   "521626041": {
     "name": "猫野酱Nedo",
     "type": "vtuber",
@@ -48810,13 +48810,6 @@
     "face": "/bfs/face/cb258507fd91cd022f8f8a59371a47092b6076cd.jpg",
     "group_name": ""
   },
-  "3461574155045019": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3461574234736872": {
     "name": "流明shine",
     "type": "vtuber",
@@ -49578,13 +49571,6 @@
     "type": "vtuber",
     "room_id": 26487139,
     "face": "/bfs/face/5bf4a0c5257e8ba2a573a0d951fc7b011453c9af.jpg",
-    "group_name": ""
-  },
-  "3493086103603765": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493086105701153": {
@@ -51293,13 +51279,6 @@
     "type": "vtuber",
     "room_id": 27025099,
     "face": "/bfs/face/371ea9337c229a206477d5b3668708b62239f335.jpg",
-    "group_name": ""
-  },
-  "3493131339172350": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493131561470207": {
@@ -54431,13 +54410,6 @@
     "face": "/bfs/face/5fb412d0686326808fbcb0c41372cab6ae55cc5d.jpg",
     "group_name": ""
   },
-  "3493288455702855": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493288646544112": {
     "name": "失眠妥芮朵_Toreador",
     "type": "vtuber",
@@ -56922,6 +56894,13 @@
     "room_id": 30304039,
     "face": "/bfs/face/34252c840da1fb9a7f564d84f597bda5e5c992ba.jpg",
     "group_name": "虚研学园"
+  },
+  "3494377049557569": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
   },
   "3494377190067102": {
     "name": "预知Tarot",
@@ -63473,13 +63452,6 @@
     "type": "vtuber",
     "room_id": 1881501252,
     "face": "/bfs/face/f020c096d835ccac080a8698f518ea83a353f414.jpg",
-    "group_name": ""
-  },
-  "3632305979525726": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3632307753715852": {

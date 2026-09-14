@@ -1568,6 +1568,13 @@
     "group_name": ""
   },
   {
+    "uid": 439941,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 440555,
     "name": "神圣的楼兰我",
     "type": "vtuber",
@@ -32158,13 +32165,6 @@
     "group_name": "MarbleCreators"
   },
   {
-    "uid": 521537808,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 23680334,
-    "group_name": "极光社"
-  },
-  {
     "uid": 521626041,
     "name": "猫野酱Nedo",
     "type": "vtuber",
@@ -48811,13 +48811,6 @@
     "group_name": ""
   },
   {
-    "uid": 3461574155045019,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 3461574234736872,
     "name": "流明shine",
     "type": "vtuber",
@@ -49578,13 +49571,6 @@
     "name": "晚卿rosie",
     "type": "vtuber",
     "room": 26487139,
-    "group_name": ""
-  },
-  {
-    "uid": 3493086103603765,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -51293,13 +51279,6 @@
     "name": "桃桃桃桃絵_",
     "type": "vtuber",
     "room": 27025099,
-    "group_name": ""
-  },
-  {
-    "uid": 3493131339172350,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -54432,13 +54411,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493288455702855,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 3493288646544112,
     "name": "失眠妥芮朵_Toreador",
     "type": "vtuber",
@@ -56922,6 +56894,13 @@
     "type": "vtuber",
     "room": 30304039,
     "group_name": "虚研学园"
+  },
+  {
+    "uid": 3494377049557569,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
   },
   {
     "uid": 3494377190067102,
@@ -63473,13 +63452,6 @@
     "name": "奇比chippy",
     "type": "vtuber",
     "room": 1881501252,
-    "group_name": ""
-  },
-  {
-    "uid": 3632305979525726,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
