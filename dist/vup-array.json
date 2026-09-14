@@ -68480,6 +68480,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546636565351393,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
+  {
     "uid": 3546636613585704,
     "name": "倪希雅Nyxia",
     "type": "vtuber",

@@ -59919,6 +59919,13 @@
     "face": "/bfs/face/65839fefe7f0ec4adb0de0cf1c37f554e91c3639.jpg",
     "group_name": ""
   },
+  "3546636565351393": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3546636613585704": {
     "name": "倪希雅Nyxia",
     "type": "vtuber",
