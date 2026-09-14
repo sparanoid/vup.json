@@ -55848,6 +55848,14 @@
     "group_name": ""
   },
   {
+    "uid": 3461574155045019,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
+  {
     "uid": 3461574234736872,
     "name": "流明shine",
     "type": "vtuber",
@@ -56717,6 +56725,14 @@
     "type": "vtuber",
     "room": 26487139,
     "face": "/bfs/face/5bf4a0c5257e8ba2a573a0d951fc7b011453c9af.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493086103603765,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -58669,6 +58685,14 @@
     "type": "vtuber",
     "room": 27025099,
     "face": "/bfs/face/371ea9337c229a206477d5b3668708b62239f335.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493131339172350,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -62253,6 +62277,14 @@
     "type": "vtuber",
     "room": 27721425,
     "face": "/bfs/face/5fb412d0686326808fbcb0c41372cab6ae55cc5d.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3493288455702855,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
