@@ -168,13 +168,6 @@
     "group_name": ""
   },
   {
-    "uid": 37328,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 180696,
-    "group_name": ""
-  },
-  {
     "uid": 38631,
     "name": "神楽唯Official",
     "type": "vtuber",
@@ -16877,13 +16870,6 @@
     "group_name": ""
   },
   {
-    "uid": 34411852,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 5247063,
-    "group_name": ""
-  },
-  {
     "uid": 34423885,
     "name": "耳可Milo",
     "type": "vtuber",
@@ -19472,13 +19458,6 @@
     "type": "vtuber",
     "room": 4071089,
     "group_name": "玹云社"
-  },
-  {
-    "uid": 87324379,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": "ProjectViberglow"
   },
   {
     "uid": 87386257,
@@ -26794,13 +26773,6 @@
     "type": "vtuber",
     "room": 0,
     "group_name": ""
-  },
-  {
-    "uid": 408367406,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": "猫铃社"
   },
   {
     "uid": 408379588,
@@ -37646,13 +37618,6 @@
     "group_name": "VirtuaReal"
   },
   {
-    "uid": 1097060010,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 24650238,
-    "group_name": ""
-  },
-  {
     "uid": 1097083213,
     "name": "莓野麻团Official",
     "type": "vtuber",
@@ -40936,13 +40901,6 @@
     "group_name": ""
   },
   {
-    "uid": 1427911902,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 25736626,
-    "group_name": ""
-  },
-  {
     "uid": 1428441528,
     "name": "阿买official",
     "type": "vtuber",
@@ -41808,13 +41766,6 @@
     "name": "何羽Heyuuko",
     "type": "vtuber",
     "room": 27929972,
-    "group_name": ""
-  },
-  {
-    "uid": 1510174854,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 1970746371,
     "group_name": ""
   },
   {
@@ -45973,13 +45924,6 @@
     "name": "可依koyi",
     "type": "vtuber",
     "room": 26644232,
-    "group_name": ""
-  },
-  {
-    "uid": 1913836091,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
     "group_name": ""
   },
   {
@@ -54411,13 +54355,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493286935267861,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 3493286975113348,
     "name": "闪鳞Shining",
     "type": "vtuber",
@@ -61292,13 +61229,6 @@
     "group_name": ""
   },
   {
-    "uid": 3546740040928185,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 3546741114669488,
     "name": "笨笨鱼oi",
     "type": "vtuber",
@@ -62517,13 +62447,6 @@
     "group_name": ""
   },
   {
-    "uid": 3546875930085493,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 1951599086,
-    "group_name": ""
-  },
-  {
     "uid": 3546876051720862,
     "name": "星宫晴琉",
     "type": "vtuber",
@@ -63176,7 +63099,7 @@
   },
   {
     "uid": 3546933436091222,
-    "name": "bilibili",
+    "name": "露可_LuKe",
     "type": "vtuber",
     "room": 1870445888,
     "group_name": ""
@@ -63557,6 +63480,13 @@
     "name": "奇比chippy",
     "type": "vtuber",
     "room": 1881501252,
+    "group_name": ""
+  },
+  {
+    "uid": 3632305979525726,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {

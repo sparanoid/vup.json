@@ -167,13 +167,6 @@
     "face": "/bfs/face/f014b9ae406034ef161b2573ec9061f6a3ceb623.jpg",
     "group_name": ""
   },
-  "37328": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 180696,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "38631": {
     "name": "神楽唯Official",
     "type": "vtuber",
@@ -16876,13 +16869,6 @@
     "face": "/bfs/face/b45912cb0ae04f44c615f7bd3463291950364f22.jpg",
     "group_name": ""
   },
-  "34411852": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 5247063,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "34423885": {
     "name": "耳可Milo",
     "type": "vtuber",
@@ -19472,13 +19458,6 @@
     "room_id": 4071089,
     "face": "/bfs/face/1990a852a2c809becf60d2b987cb38be317d8a10.jpg",
     "group_name": "玹云社"
-  },
-  "87324379": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": "ProjectViberglow"
   },
   "87386257": {
     "name": "梅露蒂雅Melodia",
@@ -26794,13 +26773,6 @@
     "room_id": 0,
     "face": "/bfs/face/227af0dd9606274a2febe12308071baa2c3cf5a0.jpg",
     "group_name": ""
-  },
-  "408367406": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": "猫铃社"
   },
   "408379588": {
     "name": "丹羽庭子Official",
@@ -37645,13 +37617,6 @@
     "face": "/bfs/face/d99b9801663772fe14a87c9ac9bf4d5951e87187.jpg",
     "group_name": "VirtuaReal"
   },
-  "1097060010": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 24650238,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "1097083213": {
     "name": "莓野麻团Official",
     "type": "vtuber",
@@ -40935,13 +40900,6 @@
     "face": "/bfs/face/cf16baa38972bd367e2dc6d7248ccd0a06462b0c.jpg",
     "group_name": ""
   },
-  "1427911902": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 25736626,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "1428441528": {
     "name": "阿买official",
     "type": "vtuber",
@@ -41808,13 +41766,6 @@
     "type": "vtuber",
     "room_id": 27929972,
     "face": "/bfs/face/79280604762a869c4618176fa33711d4c44353af.jpg",
-    "group_name": ""
-  },
-  "1510174854": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 1970746371,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1510373188": {
@@ -45973,13 +45924,6 @@
     "type": "vtuber",
     "room_id": 26644232,
     "face": "/bfs/face/62d2e4f4dd42748d4100584c45cd0a780972fae6.jpg",
-    "group_name": ""
-  },
-  "1913836091": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "1915300714": {
@@ -54410,13 +54354,6 @@
     "face": "/bfs/face/710af8405df13107da90005c6cde86cba2557791.jpg",
     "group_name": ""
   },
-  "3493286935267861": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493286975113348": {
     "name": "闪鳞Shining",
     "type": "vtuber",
@@ -61291,13 +61228,6 @@
     "face": "/bfs/face/50e357cb5cc742ea0d58844b7d752ed6b721a85c.jpg",
     "group_name": ""
   },
-  "3546740040928185": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3546741114669488": {
     "name": "笨笨鱼oi",
     "type": "vtuber",
@@ -62516,13 +62446,6 @@
     "face": "/bfs/face/0bd29df3c3d09ca8bb58d87518c1ee6295d550a1.jpg",
     "group_name": ""
   },
-  "3546875930085493": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 1951599086,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3546876051720862": {
     "name": "星宫晴琉",
     "type": "vtuber",
@@ -63175,10 +63098,10 @@
     "group_name": ""
   },
   "3546933436091222": {
-    "name": "bilibili",
+    "name": "露可_LuKe",
     "type": "vtuber",
     "room_id": 1870445888,
-    "face": "/images/member/noface.gif",
+    "face": "/bfs/face/cd78b0af1e1ffa1007d18027d82badceaa861b68.jpg",
     "group_name": ""
   },
   "3546934373518211": {
@@ -63557,6 +63480,13 @@
     "type": "vtuber",
     "room_id": 1881501252,
     "face": "/bfs/face/f020c096d835ccac080a8698f518ea83a353f414.jpg",
+    "group_name": ""
+  },
+  "3632305979525726": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3632307753715852": {
