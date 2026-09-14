@@ -7748,6 +7748,13 @@
     "face": "/bfs/face/344ceacfd48a706daabf5bb2d394a5ade379f7ec.jpg",
     "group_name": ""
   },
+  "4968023": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": "ChaosLiveSprout"
+  },
   "4971404": {
     "name": "蜜柑儿233",
     "type": "vtuber",
@@ -52933,6 +52940,13 @@
     "face": "/bfs/face/840cf3afea7ba88640754e5e5e6d3ce76a9e1acf.jpg",
     "group_name": ""
   },
+  "3493265919707866": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493265930193449": {
     "name": "顾辞Gucii",
     "type": "vtuber",
@@ -61060,6 +61074,13 @@
     "face": "/bfs/face/a75ca303f7174eb082a364fabee36951e91c4e56.jpg",
     "group_name": ""
   },
+  "3546722699577920": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3546724496837553": {
     "name": "烛荧荧",
     "type": "vtuber",
@@ -61898,6 +61919,13 @@
     "type": "vtuber",
     "room_id": 1894724477,
     "face": "/bfs/face/a4f491538239c454b604bfa2b1d61c100083eb0a.jpg",
+    "group_name": ""
+  },
+  "3546826919644001": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546827005627070": {
