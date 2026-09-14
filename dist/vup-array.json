@@ -62152,6 +62152,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493286935267861,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
+  {
     "uid": 3493286975113348,
     "name": "闪鳞Shining",
     "type": "vtuber",

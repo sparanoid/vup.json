@@ -54382,6 +54382,13 @@
     "face": "/bfs/face/710af8405df13107da90005c6cde86cba2557791.jpg",
     "group_name": ""
   },
+  "3493286935267861": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493286975113348": {
     "name": "闪鳞Shining",
     "type": "vtuber",
