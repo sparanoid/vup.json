@@ -22767,7 +22767,7 @@
     "name": "ling_宙_九九归一",
     "type": "vtuber",
     "room_id": 9208212,
-    "face": "/bfs/face/b774bd43662a04db755b1a469c3ca2efc7d388de.jpg",
+    "face": "/bfs/face/8b1c77a385a6084480c1d0c7b77099a56cf64e09.jpg",
     "group_name": ""
   },
   "291232072": {
@@ -30457,10 +30457,10 @@
     "group_name": "ViViD"
   },
   "487624577": {
-    "name": "纳兰玖酒切片姬",
+    "name": "纳兰玖酒的感谢姬",
     "type": "vtuber",
     "room_id": 32539594,
-    "face": "/bfs/face/011d723a53338411d6d7ae546343f2b229682273.jpg",
+    "face": "/bfs/face/a66c64d01664e58e0439be270a9265c3315fe09b.jpg",
     "group_name": ""
   },
   "487744559": {
@@ -44946,13 +44946,6 @@
     "face": "/bfs/face/1bf00604045034ef1a6d4821d1b4a7dfe526d3fc.webp",
     "group_name": ""
   },
-  "1818940700": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 24710596,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "1819548520": {
     "name": "桃酥Momo",
     "type": "vtuber",
@@ -51524,13 +51517,6 @@
     "type": "vtuber",
     "room_id": 27099432,
     "face": "/bfs/face/8ff8b09818e2738d185588b5d33ea505b3cef645.jpg",
-    "group_name": ""
-  },
-  "3493135046936834": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 27173011,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493135055325525": {
