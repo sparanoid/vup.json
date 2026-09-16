@@ -11445,6 +11445,13 @@
     "group_name": ""
   },
   {
+    "uid": 11430737,
+    "name": "熊喵黑曜",
+    "type": "vtuber",
+    "room": 3895430,
+    "group_name": ""
+  },
+  {
     "uid": 11431931,
     "name": "泥泥ninni",
     "type": "vtuber",
@@ -13654,6 +13661,13 @@
     "name": "真由Mayu",
     "type": "vtuber",
     "room": 4564601,
+    "group_name": ""
+  },
+  {
+    "uid": 17646698,
+    "name": "雨寒Ameka",
+    "type": "vtuber",
+    "room": 311339,
     "group_name": ""
   },
   {
@@ -20468,6 +20482,13 @@
     "group_name": ""
   },
   {
+    "uid": 137962590,
+    "name": "柠檬律师Lemon",
+    "type": "vtuber",
+    "room": 1964565732,
+    "group_name": ""
+  },
+  {
     "uid": 137980431,
     "name": "No妄",
     "type": "vtuber",
@@ -23546,6 +23567,13 @@
     "type": "vtuber",
     "room": 30198500,
     "group_name": "冬日之家Ultra（北立交桥）"
+  },
+  {
+    "uid": 324807706,
+    "name": "洛肯Lorcan",
+    "type": "vtuber",
+    "room": 24556576,
+    "group_name": ""
   },
   {
     "uid": 324884920,
@@ -27902,6 +27930,13 @@
     "group_name": "VirtuaReal"
   },
   {
+    "uid": 434347893,
+    "name": "狐狸听雨w",
+    "type": "vtuber",
+    "room": 23815589,
+    "group_name": ""
+  },
+  {
     "uid": 434401868,
     "name": "中单光一",
     "type": "vtuber",
@@ -28284,6 +28319,13 @@
     "name": "PulsarGame",
     "type": "vtuber",
     "room": 21615902,
+    "group_name": ""
+  },
+  {
+    "uid": 441269942,
+    "name": "Mytholinical",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {
@@ -30058,6 +30100,13 @@
     "group_name": ""
   },
   {
+    "uid": 482300028,
+    "name": "池念Lemon",
+    "type": "vtuber",
+    "room": 1858807124,
+    "group_name": ""
+  },
+  {
     "uid": 482303454,
     "name": "転生子餅",
     "type": "vtuber",
@@ -30272,6 +30321,13 @@
     "name": "笨鼠乐",
     "type": "vtuber",
     "room": 27834934,
+    "group_name": ""
+  },
+  {
+    "uid": 485870239,
+    "name": "煜蛾不是凑企鹅",
+    "type": "vtuber",
+    "room": 1779341492,
     "group_name": ""
   },
   {
@@ -40066,6 +40122,13 @@
     "type": "vtuber",
     "room": 23283009,
     "group_name": "椛榊计划"
+  },
+  {
+    "uid": 1350897322,
+    "name": "艾莉雅_official",
+    "type": "vtuber",
+    "room": 1980128581,
+    "group_name": ""
   },
   {
     "uid": 1351614934,
@@ -53284,6 +53347,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493270676047930,
+    "name": "遇火fire",
+    "type": "vtuber",
+    "room": 1851651006,
+    "group_name": ""
+  },
+  {
     "uid": 3493270858500935,
     "name": "冰冰冰块",
     "type": "vtuber",
@@ -59787,6 +59857,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546624370411777,
+    "name": "北也Lux",
+    "type": "vtuber",
+    "room": 31991564,
+    "group_name": ""
+  },
+  {
     "uid": 3546624494144100,
     "name": "陆无双_wyy",
     "type": "vtuber",
@@ -60543,6 +60620,13 @@
     "group_name": "天枢project"
   },
   {
+    "uid": 3546686123150136,
+    "name": "星辰Yawn",
+    "type": "vtuber",
+    "room": 1843665575,
+    "group_name": ""
+  },
+  {
     "uid": 3546686139926802,
     "name": "希晨Hitchen",
     "type": "vtuber",
@@ -61051,6 +61135,13 @@
     "name": "又又奈Yuni",
     "type": "vtuber",
     "room": 1757328182,
+    "group_name": ""
+  },
+  {
+    "uid": 3546722292730737,
+    "name": "炭炭tan",
+    "type": "vtuber",
+    "room": 1791503997,
     "group_name": ""
   },
   {
@@ -62237,6 +62328,13 @@
     "group_name": "猫铃社"
   },
   {
+    "uid": 3546860757191149,
+    "name": "濑比Rebi",
+    "type": "vtuber",
+    "room": 1833442261,
+    "group_name": ""
+  },
+  {
     "uid": 3546861088541561,
     "name": "希饭Suki",
     "type": "vtuber",
@@ -63413,6 +63511,13 @@
     "group_name": "猫猫祟祟（北立交桥）"
   },
   {
+    "uid": 3546981341334107,
+    "name": "泽太Zetai",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 3546984044563271,
     "name": "沈辰烬_Ember",
     "type": "vtuber",
@@ -63826,10 +63931,24 @@
     "group_name": ""
   },
   {
+    "uid": 3707029101218233,
+    "name": "寂星-Official",
+    "type": "vtuber",
+    "room": 1764822827,
+    "group_name": ""
+  },
+  {
     "uid": 3707042715929567,
     "name": "小沅Yomi",
     "type": "vtuber",
     "room": 1957026732,
+    "group_name": ""
+  },
+  {
+    "uid": 3707070712908035,
+    "name": "Kiwimi_alien",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {
