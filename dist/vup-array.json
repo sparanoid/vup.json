@@ -3396,7 +3396,7 @@
     "name": "矢吹四葉",
     "type": "vtuber",
     "room": 64642,
-    "face": "/bfs/face/3139f49624a422fe9325345e2f9bb0118e73c9fe.jpg",
+    "face": "/bfs/face/3173d133924abbbbb901f2b8849b9d458d1a9362.jpg",
     "group_name": ""
   },
   {
@@ -13745,7 +13745,7 @@
   },
   {
     "uid": 12633794,
-    "name": "夏野Nana",
+    "name": "夏野Natsuno_",
     "type": "vtuber",
     "room": 6529382,
     "face": "/bfs/face/e37be10b8f4bd07ad08525740e9826239414cf7f.jpg",
@@ -13860,7 +13860,7 @@
     "name": "塔莫凛MORIN",
     "type": "vtuber",
     "room": 1871109,
-    "face": "/bfs/face/eda1d5f3115ee926aedcaa1daeb45861241c6c68.jpg",
+    "face": "/bfs/face/2c089bcb47edc97bf45c4b31144f358985d110f0.jpg",
     "group_name": ""
   },
   {
@@ -18908,7 +18908,7 @@
     "name": "灯火橘Channel",
     "type": "vtuber",
     "room": 1646070,
-    "face": "/bfs/face/5b032f0c01d998b7b42d94696539545dd5c4fae7.jpg",
+    "face": "/bfs/face/61ec57ee80c5143cd60279e58a645affcf1fb799.jpg",
     "group_name": ""
   },
   {
@@ -20721,7 +20721,7 @@
   },
   {
     "uid": 49584022,
-    "name": "沧澜メロディChannel",
+    "name": "沧澜Melody",
     "type": "vtuber",
     "room": 5534996,
     "face": "/bfs/face/9a142cc0e54d26dee9456b055f7d04b1b9254907.jpg",
@@ -27001,10 +27001,10 @@
   },
   {
     "uid": 327334535,
-    "name": "HiyoriOuO",
+    "name": "Cyper217",
     "type": "vtuber",
     "room": 14409049,
-    "face": "/bfs/face/4964b6b29538cad08122789fd3b35b434d640bf4.jpg",
+    "face": "/bfs/face/f805d4dd7ba5000ddd9ddb93daedc7ec4e73cfa8.jpg",
     "group_name": "chaoslive"
   },
   {
@@ -27705,7 +27705,7 @@
   },
   {
     "uid": 352605981,
-    "name": "钴蓝苏打SODA",
+    "name": "钴蓝苏打SmaltSoda",
     "type": "vtuber",
     "room": 12524109,
     "face": "/bfs/face/62fba10e669ec71cb2b0028f4187fc6cfa30dcde.jpg",
@@ -34905,10 +34905,10 @@
   },
   {
     "uid": 488657393,
-    "name": "银珞Lyra",
+    "name": "么托车",
     "type": "vtuber",
     "room": 1828189671,
-    "face": "/bfs/face/ca46f8c4e72d5486d7d876013da4610d4a0265af.jpg",
+    "face": "/bfs/face/cbeacb26bb66b43ccc4010cf3266d0b5714170d3.jpg",
     "group_name": ""
   },
   {
@@ -57820,7 +57820,7 @@
     "name": "清也seya",
     "type": "vtuber",
     "room": 27830531,
-    "face": "/bfs/face/35a65562b78b3131d27306bd1ac61844925fdf6f.jpg",
+    "face": "/bfs/face/52bf1fc2adfd10fb219c932d9121b11c1e03073e.jpg",
     "group_name": ""
   },
   {
@@ -60284,7 +60284,7 @@
     "name": "云雾忱辞",
     "type": "vtuber",
     "room": 27411660,
-    "face": "/bfs/face/8e0fb88e7e144173d79426a225071f3be89dbdab.jpg",
+    "face": "/bfs/face/804a3ac90220249fdc3facf12345f9cc6f52a8d0.jpg",
     "group_name": ""
   },
   {
@@ -67408,14 +67408,6 @@
     "group_name": "幻想社Fantas1A"
   },
   {
-    "uid": 3546572413470996,
-    "name": "忒希_Tethys",
-    "type": "vtuber",
-    "room": 31812551,
-    "face": "/bfs/face/f7e949732999e247089e3af735c4860b874a75d4.jpg",
-    "group_name": "幻想社Fantas1A"
-  },
-  {
     "uid": 3546572872747271,
     "name": "飒琳Celine",
     "type": "vtuber",
@@ -67485,14 +67477,6 @@
     "type": "vtuber",
     "room": 1919214116,
     "face": "/bfs/face/222416f9e14cdbfded4416b1da93dd53c424a839.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 3546576523889217,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -71793,10 +71777,10 @@
   },
   {
     "uid": 3546900777142795,
-    "name": "琪琪子-kiki",
+    "name": "七浔ki的日记",
     "type": "vtuber",
     "room": 1949989774,
-    "face": "/bfs/face/b8e72dbe2974c21f81fbaf4c036f1c298ee9fd33.jpg",
+    "face": "/bfs/face/e03033f0152abd3d9b5d53db4216d519dc3658de.jpg",
     "group_name": ""
   },
   {
