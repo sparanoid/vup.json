@@ -68552,14 +68552,6 @@
     "group_name": ""
   },
   {
-    "uid": 3546636565351393,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  {
     "uid": 3546636613585704,
     "name": "倪希雅Nyxia",
     "type": "vtuber",
@@ -72581,14 +72573,6 @@
     "type": "vtuber",
     "room": 1726556404,
     "face": "/bfs/face/e62d5226dc555b0a3c60a1177f360db03de15b08.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 3632287849646580,
-    "name": "星界社",
-    "type": "group",
-    "room": 1755251515,
-    "face": "/bfs/face/5078488ed45d91eb90e4231ba117683cb0151920.jpg",
     "group_name": ""
   },
   {
