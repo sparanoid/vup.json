@@ -4413,7 +4413,7 @@
     "name": "崇光夜熙",
     "type": "vtuber",
     "room": 394681,
-    "face": "/bfs/face/303708a5a41d728756d542743e01bc30b13f9a46.jpg",
+    "face": "/bfs/face/715f7c1be366e83c55b01b0cadb2e1c4a8ea772e.jpg",
     "group_name": ""
   },
   "1818100": {
@@ -11283,6 +11283,13 @@
     "face": "/bfs/face/c771eb35da0e1a87b8a09ebe69aec7e1944718ab.jpg",
     "group_name": ""
   },
+  "11181582": {
+    "name": "-流仙-",
+    "type": "vtuber",
+    "room": 100963,
+    "face": "/bfs/face/ecf94a11de13abceac782a41fa3dd3bf2258b89c.jpg",
+    "group_name": ""
+  },
   "11187227": {
     "name": "铃月澪Azlier",
     "type": "vtuber",
@@ -14739,6 +14746,13 @@
     "type": "vtuber",
     "room": 2065173,
     "face": "/bfs/face/11b03f4df21a47718980ce96923a09adf34a93af.jpg",
+    "group_name": ""
+  },
+  "21768683": {
+    "name": "瑞楼叮_reloading",
+    "type": "vtuber",
+    "room": 473496,
+    "face": "/bfs/face/5baa87a602de22516711bef6313b56f6afc78c85.jpg",
     "group_name": ""
   },
   "21788805": {
@@ -39721,7 +39735,7 @@
     "name": "泠雨Youmi",
     "type": "vtuber",
     "room": 25555266,
-    "face": "/bfs/face/dfa627b6f4009c9083c216a57130d102dfe22dbd.jpg",
+    "face": "/bfs/face/27841b0e18bf09fac4346912f2e390e270775094.jpg",
     "group_name": ""
   },
   "1298779265": {
@@ -56423,7 +56437,7 @@
     "name": "小优奶酥-",
     "type": "vtuber",
     "room": 30147580,
-    "face": "/bfs/face/5ab73a712afbe35d8faf2fac17f693f3407ffd72.jpg",
+    "face": "/bfs/face/d2b68789d7e5859d1302b76f0b93e89bdd5e61e3.jpg",
     "group_name": ""
   },
   "3494367603984670": {
@@ -58233,7 +58247,7 @@
     "group_name": ""
   },
   "3546382900136934": {
-    "name": "莫妮sama",
+    "name": "莫妮sama-25号3周年",
     "type": "vtuber",
     "room": 30806486,
     "face": "/bfs/face/1161cb86c05d49cabd3aeafe1e5638c2b7018e8f.jpg",
@@ -61876,7 +61890,7 @@
     "name": "喃樱Shine",
     "type": "vtuber",
     "room": 1852632492,
-    "face": "/bfs/face/4832ad2be0b0632d45a7fa6c65b9d8b8ffdfc88e.webp",
+    "face": "/bfs/face/48558b49e8e7b31583caceb7c4a7b6ff307674ef.jpg",
     "group_name": ""
   },
   "3546816039619075": {

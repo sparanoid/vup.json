@@ -1276,7 +1276,7 @@
     "type": "vtuber",
     "room": 928124,
     "face": "/bfs/face/a7d4f646a603e111e7cc362d18bf13ffbc1f1c9e.jpg",
-    "sign": "我是ボカロPミカン•デジレ、你可以称呼我蜜柑/我是【独自捉迷藏的世界】之主、孤独的【北之国猫神】/我会用我的一生换取琴叶姐妹永不消逝的歌声",
+    "sign": "我是ミカン•デジレ、喜欢写音乐，你可以称呼我蜜柑/我躲在小小的、飘满雪花、有着一栋城堡的水晶球中，日复一日作曲，或者和自己捉迷藏\n",
     "group_name": ""
   },
   "293917": {
@@ -5043,8 +5043,8 @@
     "name": "崇光夜熙",
     "type": "vtuber",
     "room": 394681,
-    "face": "/bfs/face/303708a5a41d728756d542743e01bc30b13f9a46.jpg",
-    "sign": "全网同名｜无梦向营业｜Per Aspera Ad Astra.",
+    "face": "/bfs/face/715f7c1be366e83c55b01b0cadb2e1c4a8ea772e.jpg",
+    "sign": "女孩，尽情在你所热爱的领域闪闪发光吧。",
     "group_name": ""
   },
   "1818100": {
@@ -12895,6 +12895,14 @@
     "sign": "·一点都不虾头の社恐精灵·\n只想做您心中的无尽夏 ❀ 个精灵势 ❀ 录播号：精灵の魔法回放录  商务合作请加v：i4109869",
     "group_name": ""
   },
+  "11181582": {
+    "name": "-流仙-",
+    "type": "vtuber",
+    "room": 100963,
+    "face": "/bfs/face/ecf94a11de13abceac782a41fa3dd3bf2258b89c.jpg",
+    "sign": "聪明小白猫OwO",
+    "group_name": ""
+  },
   "11187227": {
     "name": "铃月澪Azlier",
     "type": "vtuber",
@@ -16845,6 +16853,14 @@
     "room": 2065173,
     "face": "/bfs/face/11b03f4df21a47718980ce96923a09adf34a93af.jpg",
     "sign": "关注不迷路 直播间号22873756",
+    "group_name": ""
+  },
+  "21768683": {
+    "name": "瑞楼叮_reloading",
+    "type": "vtuber",
+    "room": 473496,
+    "face": "/bfs/face/5baa87a602de22516711bef6313b56f6afc78c85.jpg",
+    "sign": "这里真·个人势养成系小狐仙,前职业歌手,现声乐教师reloading  ——  来自未知星球的狐仙，想要一直陪在大家身边从过去一同迈向明天",
     "group_name": ""
   },
   "21788805": {
@@ -27788,7 +27804,7 @@
     "type": "vtuber",
     "room": 25654269,
     "face": "/bfs/face/9ed08158964203a388510b981d22a54464cc67b9.jpg",
-    "sign": "一切过激发言由第二人格指使，与本人无关。进粉丝群154068469有开播提醒，感谢关注喵",
+    "sign": "身兼数职，没播的时候都在打工。进水友群154068469有开播提醒，感谢关注喵",
     "group_name": ""
   },
   "354066260": {
@@ -45395,7 +45411,7 @@
     "name": "泠雨Youmi",
     "type": "vtuber",
     "room": 25555266,
-    "face": "/bfs/face/dfa627b6f4009c9083c216a57130d102dfe22dbd.jpg",
+    "face": "/bfs/face/27841b0e18bf09fac4346912f2e390e270775094.jpg",
     "sign": "这个人一看就很聪明，啊哈信徒/个人势小V/有事联系泠宝群790508070，直播时间晚8：30，周二固定休息",
     "group_name": ""
   },
@@ -57140,7 +57156,7 @@
     "type": "vtuber",
     "room": 27752294,
     "face": "/bfs/face/fed329e690432753f50b2abfe3b32827d0e828fa.jpg",
-    "sign": "OCEO VIRTUAL PRODUCER·合作邮箱:KARUWORK@163.COM ",
+    "sign": "OCEO VIRTUAL PRODUCER·合作邮箱:KARUWORK@163.COM （邮件中麻烦备注公司、合作咨询内容）",
     "group_name": ""
   },
   "3493093613504814": {
@@ -64483,7 +64499,7 @@
     "name": "小优奶酥-",
     "type": "vtuber",
     "room": 30147580,
-    "face": "/bfs/face/5ab73a712afbe35d8faf2fac17f693f3407ffd72.jpg",
+    "face": "/bfs/face/d2b68789d7e5859d1302b76f0b93e89bdd5e61e3.jpg",
     "sign": "会跑调但不会跑掉\n直播时间  ：周一至周五10:00-15:00周末时间随缘",
     "group_name": ""
   },
@@ -66552,7 +66568,7 @@
     "group_name": ""
   },
   "3546382900136934": {
-    "name": "莫妮sama",
+    "name": "莫妮sama-25号3周年",
     "type": "vtuber",
     "room": 30806486,
     "face": "/bfs/face/1161cb86c05d49cabd3aeafe1e5638c2b7018e8f.jpg",
@@ -68076,7 +68092,7 @@
     "type": "vtuber",
     "room": 32478163,
     "face": "/bfs/face/9d8fdfaf892fe2db6dd47fbada451d2e6dffad6f.jpg",
-    "sign": "每天轻语助眠中午11-15，晚上19-21\n",
+    "sign": "轻语助眠中午12-15，晚上19-21，其他时间随机，周六定休\n",
     "group_name": ""
   },
   "3546604204198677": {
@@ -70316,7 +70332,7 @@
     "type": "vtuber",
     "room": 1725929625,
     "face": "/bfs/face/e0568a59863e987f05fbadf4c027b88eb8fe36c5.jpg",
-    "sign": "<EDEN>-「问尘仙会」所属",
+    "sign": "<EDEN>-「问尘仙会」所属 ᴴᴬᵛᴱ ᴬ ᴳᴼᴼᴰ ᵀᴵᴹᴱ",
     "group_name": "问尘仙会"
   },
   "3546770957142099": {
@@ -70715,7 +70731,7 @@
     "name": "喃樱Shine",
     "type": "vtuber",
     "room": 1852632492,
-    "face": "/bfs/face/4832ad2be0b0632d45a7fa6c65b9d8b8ffdfc88e.webp",
+    "face": "/bfs/face/48558b49e8e7b31583caceb7c4a7b6ff307674ef.jpg",
     "sign": "所遇皆美好，所念皆如愿   喃樱出没时间：晚上21:30-凌晨1点~   喃樱的家：1046977270",
     "group_name": ""
   },
