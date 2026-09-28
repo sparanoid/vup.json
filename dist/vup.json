@@ -8378,6 +8378,13 @@
     "face": "/bfs/face/05f61e79a62c4d7a12da7645bff568a1a9bf0b60.jpg",
     "group_name": ""
   },
+  "5856747": {
+    "name": "早川凛Rin",
+    "type": "vtuber",
+    "room": 1951476369,
+    "face": "/bfs/face/4ba35b785f0e0b5c8d46714dc6d3093b302deb62.jpg",
+    "group_name": ""
+  },
   "5868110": {
     "name": "欧翼是只老猫",
     "type": "vtuber",
@@ -31952,6 +31959,13 @@
     "type": "vtuber",
     "room": 25986072,
     "face": "/bfs/face/3d199080fb51414ff43fda379a79ef7cafd6a98a.jpg",
+    "group_name": ""
+  },
+  "515654926": {
+    "name": "樱爱-百天私皮筹备版",
+    "type": "vtuber",
+    "room": 25078663,
+    "face": "/bfs/face/983aa8046d59a684953104834abdee772b3f8eb1.jpg",
     "group_name": ""
   },
   "515744269": {
@@ -63704,6 +63718,13 @@
     "type": "vtuber",
     "room": 1926709884,
     "face": "/bfs/face/e5c903938c19119bb55e9e32755c11d01c14fe04.jpg",
+    "group_name": ""
+  },
+  "3691006648126322": {
+    "name": "洛莉莉安official",
+    "type": "vtuber",
+    "room": 1741182615,
+    "face": "/bfs/face/8452f1b2a8d71b08b1337eebb357a0ce4adf8f49.jpg",
     "group_name": ""
   },
   "3691009617693395": {
