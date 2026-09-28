@@ -24324,6 +24324,13 @@
     "face": "/bfs/face/7a4302d1b5ea6ed3e35ea91072e147b434c99307.jpg",
     "group_name": "winks"
   },
+  "353531058": {
+    "name": "雪野千夏",
+    "type": "vtuber",
+    "room_id": 32623564,
+    "face": "/bfs/face/7be4f01e996203bab43ad28d8d8fa8dabb7192ff.jpg",
+    "group_name": ""
+  },
   "353708919": {
     "name": "夢冬oTo",
     "type": "vtuber",
@@ -29063,6 +29070,13 @@
     "face": "/bfs/face/4a8ad447708ea992664db705be19daf12f62fe58.jpg",
     "group_name": ""
   },
+  "457740720": {
+    "name": "夜莓Mew",
+    "type": "vtuber",
+    "room_id": 25701248,
+    "face": "/bfs/face/8b508d3f207ee5958b8fd720842f23ae19fd6649.jpg",
+    "group_name": ""
+  },
   "458154139": {
     "name": "郡道美玲Official",
     "type": "unknown",
@@ -31182,6 +31196,13 @@
     "type": "vtuber",
     "room_id": 25436142,
     "face": "/bfs/face/2ea995a1f862bc60e2155df53709bd6ae56cf813.jpg",
+    "group_name": ""
+  },
+  "498722083": {
+    "name": "昭曈",
+    "type": "vtuber",
+    "room_id": 25390534,
+    "face": "/bfs/face/a1e42b7dea65dfa7bc83cd37b06b50fe47dc6288.jpg",
     "group_name": ""
   },
   "498801081": {
@@ -40970,6 +40991,13 @@
     "face": "/bfs/face/cf16baa38972bd367e2dc6d7248ccd0a06462b0c.jpg",
     "group_name": ""
   },
+  "1427238587": {
+    "name": "花里夜宵",
+    "type": "vtuber",
+    "room_id": 1828185397,
+    "face": "/bfs/face/78fe40dca406b614d7abae4fcefeaf40dd80984a.jpg",
+    "group_name": ""
+  },
   "1428441528": {
     "name": "阿买official",
     "type": "vtuber",
@@ -42074,6 +42102,13 @@
     "type": "vtuber",
     "room_id": 25172964,
     "face": "/bfs/face/8abba739ca51f11ca56b50cba0303f57d1590b90.jpg",
+    "group_name": ""
+  },
+  "1533204549": {
+    "name": "团生儿",
+    "type": "vtuber",
+    "room_id": 1920266225,
+    "face": "/bfs/face/69b97ed3bdb5b953b3e92ea32f564afa87220798.jpg",
     "group_name": ""
   },
   "1533396293": {
@@ -46359,6 +46394,13 @@
     "room_id": 1866750961,
     "face": "/bfs/face/431f9b553ba471795436adccc4dc39e2738e4555.jpg",
     "group_name": "NIJISANJI EN"
+  },
+  "1948461821": {
+    "name": "赤阳阳阳",
+    "type": "vtuber",
+    "room_id": 31888748,
+    "face": "/bfs/face/ec615289735bd20e9e20fb6c8315c9dd739b6c08.jpg",
+    "group_name": ""
   },
   "1948592457": {
     "name": "银酥s",
@@ -62292,6 +62334,13 @@
     "face": "/bfs/face/81fbaff771910ebf78013360f38f6eddffaeb883.jpg",
     "group_name": ""
   },
+  "3546859933010750": {
+    "name": "浅羽澪音",
+    "type": "vtuber",
+    "room_id": 1912360027,
+    "face": "/bfs/face/5d4df5778f1184c25d281b0f3ce16fb36a55382d.jpg",
+    "group_name": "GravityS Project"
+  },
   "3546860039965255": {
     "name": "海音Tata",
     "type": "vtuber",
@@ -63914,6 +63963,13 @@
     "type": "vtuber",
     "room_id": 1957026732,
     "face": "/bfs/face/29684c7acea6b5c959dc4360b53699006e257526.jpg",
+    "group_name": ""
+  },
+  "3707048625703882": {
+    "name": "電子惡鼠_Nuli",
+    "type": "vtuber",
+    "room_id": 1791696222,
+    "face": "/bfs/face/c4230970039f708a7c3cdc40b19df94bd7fe859b.jpg",
     "group_name": ""
   },
   "3707070712908035": {
