@@ -3856,13 +3856,6 @@
     "face": "/bfs/face/ff11e0016e187df825051681e663aed45dc75128.jpg",
     "group_name": ""
   },
-  "1530836": {
-    "name": "楠木真琴_Makoto",
-    "type": "vtuber",
-    "room": 98958,
-    "face": "/bfs/face/787d6e824a73c60b9934a7ebfb9502ee9d0ad668.jpg",
-    "group_name": ""
-  },
   "1548911": {
     "name": "七星不是阿星",
     "type": "vtuber",
@@ -13128,7 +13121,7 @@
     "name": "凡绘",
     "type": "vtuber",
     "room": 5481548,
-    "face": "/bfs/face/2c5076a501d963a6fa7b29b1261db1aaa0bb669f.jpg",
+    "face": "/bfs/face/5afec0148627d9cedcc04bb25ecfb930009af467.jpg",
     "group_name": ""
   },
   "15196481": {
