@@ -1410,7 +1410,7 @@
     "name": "Vespero",
     "type": "vtuber",
     "room_id": 748674,
-    "face": "/bfs/face/86c56d11ac4992817650302920fe88bc44e669eb.jpg",
+    "face": "/bfs/face/868cfdf3fc3d7ebe2c03c65f8119694391680bf6.jpg",
     "group_name": "幻想社Fantas1A"
   },
   "392546": {
@@ -2205,7 +2205,7 @@
     "group_name": ""
   },
   "582378": {
-    "name": "Alls店长",
+    "name": "Alls房东",
     "type": "vtuber",
     "room_id": 7810950,
     "face": "/bfs/face/3c408fed8a9ee2bdb815bfc68b45c9d456c9d162.jpg",
@@ -44393,13 +44393,6 @@
     "face": "/bfs/face/b0161ca9a111dc8a71990599c4a97d56430027bd.jpg",
     "group_name": ""
   },
-  "1761504705": {
-    "name": "戈林德GrindMoko",
-    "type": "vtuber",
-    "room_id": 25021092,
-    "face": "/bfs/face/a3f3723f890e8cb2f3b3d0abb82b1e27ed2082f6.jpg",
-    "group_name": ""
-  },
   "1761620274": {
     "name": "神山灵龟",
     "type": "vtuber",
@@ -62832,10 +62825,10 @@
     "group_name": ""
   },
   "3546897558014925": {
-    "name": "奶龙本人_",
+    "name": "無视Wushi",
     "type": "vtuber",
     "room_id": 1828187905,
-    "face": "/bfs/face/eeda5148fb74de14f75b2c7233ff0e1de8d6b021.jpg",
+    "face": "/bfs/face/0aace0aefdd9292618306bb069f86fa4123976b6.jpg",
     "group_name": ""
   },
   "3546899252512825": {
