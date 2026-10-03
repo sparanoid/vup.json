@@ -40704,7 +40704,7 @@
     "group_name": ""
   },
   "2058652986": {
-    "name": "春野清子-4716冠",
+    "name": "春野清子",
     "type": "vtuber",
     "room": 1732021258,
     "group_name": ""
@@ -44619,6 +44619,12 @@
     "name": "古月Tsuki",
     "type": "vtuber",
     "room": 27682230,
+    "group_name": ""
+  },
+  "3493141877360711": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 30134554,
     "group_name": ""
   },
   "3493141892040724": {

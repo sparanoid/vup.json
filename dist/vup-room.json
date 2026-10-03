@@ -6296,7 +6296,7 @@
     "name": "怪医梅杰克",
     "type": "vtuber",
     "room_id": 23975608,
-    "face": "/bfs/face/87490ada79350e3073d12d8afb99f7b51b8f2a28.jpg",
+    "face": "/bfs/face/b336c67ade64f192517fb19baa79d72aa5c8bf2a.jpg",
     "group_name": ""
   },
   "3241447": {
@@ -6737,7 +6737,7 @@
     "name": "雪音-ゆきね",
     "type": "vtuber",
     "room_id": 1662599,
-    "face": "/bfs/face/d09ee6e417584d355e40bf9cac826456371ca9bc.jpg",
+    "face": "/bfs/face/284bd9495bba6dc289522987728df26b97fa6035.jpg",
     "group_name": ""
   },
   "3638515": {
@@ -15375,7 +15375,7 @@
     "name": "款款早点睡",
     "type": "vtuber",
     "room_id": 1892450648,
-    "face": "/bfs/face/bb3812d8dae213bb4aaa6c2179408735cde33662.jpg",
+    "face": "/bfs/face/1233196a506699a123390b328e77c938ba2af893.jpg",
     "group_name": ""
   },
   "24114220": {
@@ -19568,7 +19568,7 @@
     "name": "桃桃栀Momochi",
     "type": "vtuber",
     "room_id": 10984778,
-    "face": "/bfs/face/43de0076a828baa3b5912825022cbe14277562ac.jpg",
+    "face": "/bfs/face/fc183f9aa4a5f555c6cdef6406ea2ef46a70481c.jpg",
     "group_name": ""
   },
   "89362643": {
@@ -21479,7 +21479,7 @@
     "name": "鹿時零",
     "type": "vtuber",
     "room_id": 5993127,
-    "face": "/bfs/face/faefb3fb99ed20ffdf9f79abe542cc125ddb2c3d.jpg",
+    "face": "/bfs/face/996efae583a23474d1ceaedc53de9ec36fecd369.jpg",
     "group_name": ""
   },
   "204838732": {
@@ -47488,7 +47488,7 @@
     "group_name": ""
   },
   "2058652986": {
-    "name": "春野清子-4716冠",
+    "name": "春野清子",
     "type": "vtuber",
     "room_id": 1732021258,
     "face": "/bfs/face/2a0f23b6ba0df585a8d510cdba9fa04f3a5e50ad.jpg",
@@ -49493,7 +49493,7 @@
     "name": "小雨甘nya",
     "type": "vtuber",
     "room_id": 1814591139,
-    "face": "/bfs/face/026b4d0a63cc50ef5cd83b6ed86c9ad61f16c84f.jpg",
+    "face": "/bfs/face/17311d8699f3bb7777b115811a9f19903250b97a.jpg",
     "group_name": ""
   },
   "3493081628281391": {
@@ -52056,6 +52056,13 @@
     "type": "vtuber",
     "room_id": 27682230,
     "face": "/bfs/face/0cd6fa9de6c2af0fe121dd84fbe4d06108bf8026.jpg",
+    "group_name": ""
+  },
+  "3493141877360711": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room_id": 30134554,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493141892040724": {
@@ -57375,7 +57382,7 @@
     "name": "夕雁Yukari",
     "type": "vtuber",
     "room_id": 30941627,
-    "face": "/bfs/face/e1f8474e01c62ce9e7a8b67e02b2d7cb84f96e5a.jpg",
+    "face": "/bfs/face/de4ff46991d88bbc359980b60b0b39997b2ef6ee.jpg",
     "group_name": "Hanabi_live"
   },
   "3537109067500098": {

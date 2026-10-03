@@ -8095,7 +8095,7 @@
     "name": "怪医梅杰克",
     "type": "vtuber",
     "room": 23975608,
-    "face": "/bfs/face/87490ada79350e3073d12d8afb99f7b51b8f2a28.jpg",
+    "face": "/bfs/face/b336c67ade64f192517fb19baa79d72aa5c8bf2a.jpg",
     "sign": "可能出没的直播时间\n11:00-13:00 20:00-22:00\n\n",
     "group_name": ""
   },
@@ -8662,7 +8662,7 @@
     "name": "雪音-ゆきね",
     "type": "vtuber",
     "room": 1662599,
-    "face": "/bfs/face/d09ee6e417584d355e40bf9cac826456371ca9bc.jpg",
+    "face": "/bfs/face/284bd9495bba6dc289522987728df26b97fa6035.jpg",
     "sign": "个人势，是一只什么都能干的小猫咪，平常周末播播，无重要事情私信勿扰。群号204199376。",
     "group_name": ""
   },
@@ -19768,7 +19768,7 @@
     "name": "款款早点睡",
     "type": "vtuber",
     "room": 1892450648,
-    "face": "/bfs/face/bb3812d8dae213bb4aaa6c2179408735cde33662.jpg",
+    "face": "/bfs/face/1233196a506699a123390b328e77c938ba2af893.jpg",
     "sign": "流水不争先，争的是滔滔不绝",
     "group_name": ""
   },
@@ -25159,7 +25159,7 @@
     "name": "桃桃栀Momochi",
     "type": "vtuber",
     "room": 10984778,
-    "face": "/bfs/face/43de0076a828baa3b5912825022cbe14277562ac.jpg",
+    "face": "/bfs/face/fc183f9aa4a5f555c6cdef6406ea2ef46a70481c.jpg",
     "sign": "看不清方向时，就再坚持久一点\n【直播时间23-10】",
     "group_name": ""
   },
@@ -27616,7 +27616,7 @@
     "name": "鹿時零",
     "type": "vtuber",
     "room": 5993127,
-    "face": "/bfs/face/faefb3fb99ed20ffdf9f79abe542cc125ddb2c3d.jpg",
+    "face": "/bfs/face/996efae583a23474d1ceaedc53de9ec36fecd369.jpg",
     "sign": "想做自己喜欢的事。",
     "group_name": ""
   },
@@ -42107,7 +42107,7 @@
     "type": "vtuber",
     "room": 22636800,
     "face": "/bfs/face/4a710f18d8a669d9633f74c1a64022ff48cc3833.jpg",
-    "sign": "X→aries_corriedal　爱发电→afdian.com/a/corriedal1243",
+    "sign": "",
     "group_name": ""
   },
   {
@@ -61057,7 +61057,7 @@
   },
   {
     "uid": 2058652986,
-    "name": "春野清子-4716冠",
+    "name": "春野清子",
     "type": "vtuber",
     "room": 1732021258,
     "face": "/bfs/face/2a0f23b6ba0df585a8d510cdba9fa04f3a5e50ad.jpg",
@@ -62114,7 +62114,7 @@
     "type": "vtuber",
     "room": 23527503,
     "face": "/bfs/face/419d194ecd51cb1264a5d446484f744cb7cc0e69.jpg",
-    "sign": "个人势，人界游历的迷糊法师，尽量来播！二流歌势，三流建模选手。",
+    "sign": "个人势，人界游历的迷糊法师，晚上十点过后开播（周三除外）！二流歌势，三流建模选手。",
     "group_name": ""
   },
   {
@@ -63634,7 +63634,7 @@
     "name": "小雨甘nya",
     "type": "vtuber",
     "room": 1814591139,
-    "face": "/bfs/face/026b4d0a63cc50ef5cd83b6ed86c9ad61f16c84f.jpg",
+    "face": "/bfs/face/17311d8699f3bb7777b115811a9f19903250b97a.jpg",
     "sign": "直播时间：20:00-4:00（8h起）\n请给我时间和机会让你看见。\n粉丝群：248282015\n其他时间能播就播",
     "group_name": ""
   },
@@ -66930,6 +66930,15 @@
     "room": 27682230,
     "face": "/bfs/face/0cd6fa9de6c2af0fe121dd84fbe4d06108bf8026.jpg",
     "sign": "啥都能聊的水友群：七群：714708805  主打啥都玩，纯主观不带节奏中立杂谈和测评~晚上七八点出没直播间",
+    "group_name": ""
+  },
+  {
+    "uid": 3493141877360711,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 30134554,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {
@@ -73768,7 +73777,7 @@
     "name": "夕雁Yukari",
     "type": "vtuber",
     "room": 30941627,
-    "face": "/bfs/face/e1f8474e01c62ce9e7a8b67e02b2d7cb84f96e5a.jpg",
+    "face": "/bfs/face/de4ff46991d88bbc359980b60b0b39997b2ef6ee.jpg",
     "sign": "｜Hanabi_Live｜二期生夕雁Yukari！看动画品人生，欢迎每一位热爱动画的朋友来分享你的所爱。",
     "group_name": "Hanabi_live"
   },
