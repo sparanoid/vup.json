@@ -19943,13 +19943,6 @@
     "group_name": ""
   },
   {
-    "uid": 100660962,
-    "name": "待注中",
-    "type": "vtuber",
-    "room": 1794049721,
-    "group_name": ""
-  },
-  {
     "uid": 101707327,
     "name": "摆万",
     "type": "vtuber",
@@ -52056,13 +52049,6 @@
     "name": "古月Tsuki",
     "type": "vtuber",
     "room": 27682230,
-    "group_name": ""
-  },
-  {
-    "uid": 3493141877360711,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30134554,
     "group_name": ""
   },
   {

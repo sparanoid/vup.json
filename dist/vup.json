@@ -6296,7 +6296,7 @@
     "name": "怪医梅杰克",
     "type": "vtuber",
     "room": 23975608,
-    "face": "/bfs/face/b336c67ade64f192517fb19baa79d72aa5c8bf2a.jpg",
+    "face": "/bfs/face/4cb413bc30f1dba1fd68a93d288907d7bbb91fcf.jpg",
     "group_name": ""
   },
   "3241447": {
@@ -14752,7 +14752,7 @@
     "name": "瑞楼叮_reloading",
     "type": "vtuber",
     "room": 473496,
-    "face": "/bfs/face/5baa87a602de22516711bef6313b56f6afc78c85.jpg",
+    "face": "/bfs/face/3e7663710b7037bc29e70be742f4d09878af620b.jpg",
     "group_name": ""
   },
   "21788805": {
@@ -16376,7 +16376,7 @@
     "name": "Awing鸮鸮",
     "type": "vtuber",
     "room": 265147,
-    "face": "/bfs/face/8a7d4d3356369a3b50e1793133d985d9fd0f7078.jpg",
+    "face": "/bfs/face/d94c0bc37ca5bc66fe5828a2bab20f20cc92c9d0.jpg",
     "group_name": ""
   },
   "30962669": {
@@ -19940,13 +19940,6 @@
     "type": "vtuber",
     "room": 8392325,
     "face": "/bfs/face/69163a9f9990385f12b8f8b1551f9324c71f15f6.jpg",
-    "group_name": ""
-  },
-  "100660962": {
-    "name": "待注中",
-    "type": "vtuber",
-    "room": 1794049721,
-    "face": "/bfs/face/121dc94071a983e89bca241bf672eabce6444f76.jpg",
     "group_name": ""
   },
   "101707327": {
@@ -43235,7 +43228,7 @@
     "name": "菟咲Tux",
     "type": "vtuber",
     "room": 1833992549,
-    "face": "/bfs/face/44b59068a56d2502cb1862213866d0a2938b2d12.jpg",
+    "face": "/bfs/face/ef5314e4609b3e07ee12a19fec1aa1350185c99a.jpg",
     "group_name": ""
   },
   "1647745153": {
@@ -52056,13 +52049,6 @@
     "type": "vtuber",
     "room": 27682230,
     "face": "/bfs/face/0cd6fa9de6c2af0fe121dd84fbe4d06108bf8026.jpg",
-    "group_name": ""
-  },
-  "3493141877360711": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 30134554,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493141892040724": {
