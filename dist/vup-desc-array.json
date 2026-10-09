@@ -28125,6 +28125,15 @@
     "group_name": ""
   },
   {
+    "uid": 241752602,
+    "name": "艾唯妮Venin",
+    "type": "vtuber",
+    "room": 1944727547,
+    "face": "/bfs/face/3c40acd86888cdf33039eaaf5df4f10585ae9e27.jpg",
+    "sign": "花一万块学拉丁舞结果没长\n",
+    "group_name": "极光社"
+  },
+  {
     "uid": 241789873,
     "name": "月见NoNo",
     "type": "vtuber",
@@ -62051,7 +62060,7 @@
     "type": "vtuber",
     "room": 23087199,
     "face": "/bfs/face/10240dfe51dbe58481eaafbbc04cb53736f7b6b2.jpg",
-    "sign": "平平无奇的超能力者 \nafd=佐藤砂糖\n",
+    "sign": "",
     "group_name": "Providence"
   },
   {
