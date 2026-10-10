@@ -41964,6 +41964,13 @@
     "face": "/bfs/face/79280604762a869c4618176fa33711d4c44353af.jpg",
     "group_name": ""
   },
+  "1510174854": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "1510373188": {
     "name": "取名字太南了w",
     "type": "vtuber",
@@ -46294,7 +46301,7 @@
     "name": "小琰s",
     "type": "vtuber",
     "room_id": 1955142035,
-    "face": "/bfs/face/3719fe3f626e2b93ccbf64f435bdb88eccd6c526.jpg",
+    "face": "/bfs/face/91310390f7a3f852df2ad59cf3792271261acbf2.jpg",
     "group_name": ""
   },
   "1928416347": {
@@ -63626,7 +63633,7 @@
     "name": "神宫极乐Gokura",
     "type": "vtuber",
     "room_id": 1830096192,
-    "face": "/bfs/face/dc78d4878172468466b2a7b61376d9c36c608052.jpg",
+    "face": "/bfs/face/9268da1cc67ea0a048deec1126636b95f8f2ba56.jpg",
     "group_name": ""
   },
   "3546959845525995": {
