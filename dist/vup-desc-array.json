@@ -4487,7 +4487,7 @@
     "type": "vtuber",
     "room": 74571,
     "face": "/bfs/face/a99d4a4204f75fdc10382796af42475e706bce1e.webp",
-    "sign": "画师",
+    "sign": "画师  约稿请 huajia:MIO的花园",
     "group_name": ""
   },
   {
@@ -17478,15 +17478,6 @@
     "group_name": ""
   },
   {
-    "uid": 17393395,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 5529324,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
-  {
     "uid": 17415544,
     "name": "莎莉尔塔_Lita",
     "type": "vtuber",
@@ -26932,7 +26923,7 @@
     "name": "泰涅弗里斯_TRNE",
     "type": "vtuber",
     "room": 26192359,
-    "face": "/bfs/face/649cd04c4a7c04a8f91b8b7939156ba7b0f09131.jpg",
+    "face": "/bfs/face/601b79d34f592124c459f8fd2d23483a9a2d60d8.jpg",
     "sign": "个人势全职｜养成系进步笨蛋魔王 | 术力口狂热&腐男子 | 合作欢迎私信 | 涅的群：953783528",
     "group_name": ""
   },

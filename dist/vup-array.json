@@ -15536,14 +15536,6 @@
     "group_name": ""
   },
   {
-    "uid": 17393395,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 5529324,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
-  {
     "uid": 17415544,
     "name": "莎莉尔塔_Lita",
     "type": "vtuber",
@@ -23940,7 +23932,7 @@
     "name": "泰涅弗里斯_TRNE",
     "type": "vtuber",
     "room": 26192359,
-    "face": "/bfs/face/649cd04c4a7c04a8f91b8b7939156ba7b0f09131.jpg",
+    "face": "/bfs/face/601b79d34f592124c459f8fd2d23483a9a2d60d8.jpg",
     "group_name": ""
   },
   {
