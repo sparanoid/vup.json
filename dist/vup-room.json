@@ -38471,6 +38471,13 @@
     "face": "/bfs/face/5df24b71e248819f9b32ce387dbf2c1c4c94a306.jpg",
     "group_name": ""
   },
+  "1169958017": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room_id": 26192718,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "1170305513": {
     "name": "荆果gogogo",
     "type": "vtuber",
