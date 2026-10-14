@@ -7073,12 +7073,6 @@
     "room": 753425,
     "group_name": "Unicreate"
   },
-  "5658712": {
-    "name": "千耘Landric",
-    "type": "vtuber",
-    "room": 1129453,
-    "group_name": ""
-  },
   "5659864": {
     "name": "鹿野灸",
     "type": "vtuber",
@@ -55186,5 +55180,11 @@
     "type": "vtuber",
     "room": 0,
     "group_name": ""
+  },
+  "3747565010947145": {
+    "name": "玩乐巡游队",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "Hololive"
   }
 }

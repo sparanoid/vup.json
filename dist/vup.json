@@ -8252,13 +8252,6 @@
     "face": "/bfs/face/5c9667baa73a7032bb75707d0c1cff7ff51ac29b.jpg",
     "group_name": "Unicreate"
   },
-  "5658712": {
-    "name": "千耘Landric",
-    "type": "vtuber",
-    "room": 1129453,
-    "face": "/bfs/face/fd78ce575417b64f3a174ca3a35d79d720bf42f5.jpg",
-    "group_name": ""
-  },
   "5659864": {
     "name": "鹿野灸",
     "type": "vtuber",
@@ -64384,5 +64377,12 @@
     "room": 0,
     "face": "/bfs/face/d6a4a59dc3f0e2aa58fcb1ecd4d17793e56e0b7a.jpg",
     "group_name": ""
+  },
+  "3747565010947145": {
+    "name": "玩乐巡游队",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/f1f0534a1acc7cd0a4d51ea4431a6f36f75adeb8.jpg",
+    "group_name": "Hololive"
   }
 }
