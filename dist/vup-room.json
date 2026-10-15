@@ -16397,7 +16397,7 @@
     "name": "陆琛小攻猫z",
     "type": "vtuber",
     "room_id": 612705,
-    "face": "/bfs/face/9df7d66a82a4707a1d203aa65c4727b672be4ad6.jpg",
+    "face": "/bfs/face/a7ecbf33934a4da62843d6e249546e4e721ecd60.jpg",
     "group_name": ""
   },
   "31079374": {
@@ -35767,13 +35767,6 @@
     "type": "vtuber",
     "room_id": 22508846,
     "face": "/bfs/face/3ddf27ae9eb98a4a0e883e2f33972a2364c19fc4.jpg",
-    "group_name": ""
-  },
-  "677974610": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "677977564": {
