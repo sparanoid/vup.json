@@ -1123,7 +1123,7 @@
     "name": "子言姐姐",
     "type": "vtuber",
     "room_id": 929340,
-    "face": "/bfs/face/71c12fd2f1182d80a1f464ca9200319f174ed896.jpg",
+    "face": "/bfs/face/7d161ac02d4dc61b12ca24db33cd15ed00d9479e.jpg",
     "group_name": ""
   },
   "294709": {
@@ -23187,7 +23187,7 @@
     "name": "-超级蒸汽机-",
     "type": "vtuber",
     "room_id": 13336646,
-    "face": "/bfs/face/bb6a27d36e9b03b816bc96f767433c18372eb7d3.jpg",
+    "face": "/bfs/face/06e74e4c1d31922d97c142a65615fde9964d6f4d.jpg",
     "group_name": ""
   },
   "307406424": {
@@ -35767,6 +35767,13 @@
     "type": "vtuber",
     "room_id": 22508846,
     "face": "/bfs/face/3ddf27ae9eb98a4a0e883e2f33972a2364c19fc4.jpg",
+    "group_name": ""
+  },
+  "677974610": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "677977564": {
@@ -51642,7 +51649,7 @@
     "name": "安娜斯塔Official",
     "type": "vtuber",
     "room_id": 27091552,
-    "face": "/bfs/face/052314434a27bf4d5746ece800963e193af9e0fb.jpg",
+    "face": "/bfs/face/eb1cbca688db5684918f05dda0961ffae734a6d2.jpg",
     "group_name": ""
   },
   "3493134585563527": {
@@ -60868,7 +60875,7 @@
     "name": "九橘_JvzI",
     "type": "vtuber",
     "room_id": 1972367490,
-    "face": "/bfs/face/1cfeee389dfbaa0f203aa9e8103749eefc33717f.jpg",
+    "face": "/bfs/face/0b5ed03153f852cc3993e50db3b5443b6480c308.jpg",
     "group_name": ""
   },
   "3546695440795834": {
