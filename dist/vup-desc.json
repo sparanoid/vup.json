@@ -28167,6 +28167,14 @@
     "sign": "招募/联动/商务合作请私信 ",
     "group_name": ""
   },
+  "361916885": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 22596544,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": "玄月神"
+  },
   "362043915": {
     "name": "邪恶咩咩Luna",
     "type": "vtuber",
@@ -29531,8 +29539,8 @@
     "name": "creammarchen7",
     "type": "vtuber",
     "room": 0,
-    "face": "/bfs/face/4d168f2a07a1fa5da984a45f64e5b42692fbc7f7.jpg",
-    "sign": "七草くりむ【VTuber】",
+    "face": "/bfs/face/33ca9746d8959a0891d241d3f73382a6e690bf6e.jpg",
+    "sign": "七草くりむ / Crim Nanakusa",
     "group_name": ""
   },
   "392972956": {
