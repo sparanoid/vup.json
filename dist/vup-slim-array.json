@@ -13951,13 +13951,6 @@
     "group_name": ""
   },
   {
-    "uid": 18825887,
-    "name": "桜吹雪Channel",
-    "type": "vtuber",
-    "room": 1121016,
-    "group_name": ""
-  },
-  {
     "uid": 18863045,
     "name": "会跑步的图图",
     "type": "vtuber",
@@ -63260,7 +63253,7 @@
   },
   {
     "uid": 3546913477495448,
-    "name": "云帆_Fsail_私皮出道回",
+    "name": "云帆_Fsail",
     "type": "vtuber",
     "room": 1986460299,
     "group_name": ""

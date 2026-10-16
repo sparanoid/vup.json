@@ -8700,7 +8700,7 @@
     "name": "步谣",
     "type": "vtuber",
     "room": 529204,
-    "face": "/bfs/face/617a6e03e6852cf933c9ec01a912b955768e3020.jpg",
+    "face": "/bfs/face/1c85c53807f84b9104964c01859c19f10a4478d8.jpg",
     "group_name": ""
   },
   {
@@ -15292,7 +15292,7 @@
     "name": "机智大灯灯",
     "type": "vtuber",
     "room": 623698,
-    "face": "/bfs/face/e7999396a7c9317209d4a1ab2bb926646a2c8162.jpg",
+    "face": "/bfs/face/be677eaae1b27cf71e171393ce29e58cbed4d2e8.jpg",
     "group_name": ""
   },
   {
@@ -15944,14 +15944,6 @@
     "group_name": ""
   },
   {
-    "uid": 18825887,
-    "name": "桜吹雪Channel",
-    "type": "vtuber",
-    "room": 1121016,
-    "face": "/bfs/face/9279d1e08af43f6cbd9787c183d51c2fce6b292b.jpg",
-    "group_name": ""
-  },
-  {
     "uid": 18863045,
     "name": "会跑步的图图",
     "type": "vtuber",
@@ -16340,7 +16332,7 @@
     "name": "不是咲间芽",
     "type": "vtuber",
     "room": 14277266,
-    "face": "/bfs/face/3fa02d90c8f6f8678be8484cd10449adc15b8509.jpg",
+    "face": "/bfs/face/e905c9b0c06a46dbc9f3906a746eca2ec6bbe5fd.jpg",
     "group_name": ""
   },
   {
@@ -16636,7 +16628,7 @@
     "name": "Seeu喵",
     "type": "vtuber",
     "room": 2538952,
-    "face": "/bfs/face/b177384ee8f6bd131fba60157aac6ebc9ccf5a77.jpg",
+    "face": "/bfs/face/ce8acced7bda9c6f9b55b0f2c5c5e73dd63a855c.jpg",
     "group_name": ""
   },
   {
@@ -26356,7 +26348,7 @@
     "name": "千寻Official",
     "type": "vtuber",
     "room": 27878239,
-    "face": "/bfs/face/84efea5a73072e6d27066accb318e1caad1fee88.webp",
+    "face": "/bfs/face/5411c3cb3c00df41a5f492e49c6a5252300ed855.webp",
     "group_name": ""
   },
   {
@@ -43756,7 +43748,7 @@
     "name": "柳桐非",
     "type": "vtuber",
     "room": 1841881686,
-    "face": "/bfs/face/5d5641e27f82616fd4bf75f858935797d2a11a76.jpg",
+    "face": "/bfs/face/08907831003af4070cf47843984996c4f1c12a61.jpg",
     "group_name": ""
   },
   {
@@ -70956,7 +70948,7 @@
     "name": "喃樱Shine",
     "type": "vtuber",
     "room": 1852632492,
-    "face": "/bfs/face/48558b49e8e7b31583caceb7c4a7b6ff307674ef.jpg",
+    "face": "/bfs/face/12618c04e2eada6431be002a288bec5d6ee94488.jpg",
     "group_name": ""
   },
   {
@@ -72297,7 +72289,7 @@
   },
   {
     "uid": 3546913477495448,
-    "name": "云帆_Fsail_私皮出道回",
+    "name": "云帆_Fsail",
     "type": "vtuber",
     "room": 1986460299,
     "face": "/bfs/face/17cd7b2d795ceb2f85485f0759afb321f4fbd808.jpg",
@@ -72716,7 +72708,7 @@
     "name": "神宫极乐Gokura",
     "type": "vtuber",
     "room": 1830096192,
-    "face": "/bfs/face/9268da1cc67ea0a048deec1126636b95f8f2ba56.jpg",
+    "face": "/bfs/face/7a1854fa8f9af02a6dcdc0dc654d6033b7b5f519.jpg",
     "group_name": ""
   },
   {
