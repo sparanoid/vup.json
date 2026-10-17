@@ -3370,7 +3370,7 @@
     "name": "黑川蓝KurokawaAi",
     "type": "vtuber",
     "room_id": 7993714,
-    "face": "/bfs/face/f0495efe2401e18fcc120c199aabdb76b896eebe.jpg",
+    "face": "/bfs/face/62c4da46c7bcaf472e40f95bd2a2336c1e20e66c.jpg",
     "group_name": ""
   },
   "1297935": {
@@ -12270,13 +12270,6 @@
     "face": "/bfs/face/4814973f66304757ad82b3c6d9d595a03a66f87d.jpg",
     "group_name": ""
   },
-  "13178002": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room_id": 199140,
-    "face": "/images/member/noface.gif",
-    "group_name": "P.K.S"
-  },
   "13201098": {
     "name": "魅喵小焱Meow",
     "type": "vtuber",
@@ -13814,7 +13807,7 @@
     "name": "小喵唧Official",
     "type": "vtuber",
     "room_id": 14963868,
-    "face": "/bfs/face/4e3ffc58d2caba704665a291ecf3657e2e7bea26.jpg",
+    "face": "/bfs/face/13073733537af82d3b3e7cbde4f028f46a305969.jpg",
     "group_name": ""
   },
   "18055906": {
@@ -20275,7 +20268,7 @@
     "name": "斯托拉斯sato",
     "type": "vtuber",
     "room_id": 22463657,
-    "face": "/bfs/face/d65ee22f5a4f3553f82292feffa02717fb3098bb.jpg",
+    "face": "/bfs/face/de3afa503752ac4338e4dc6f61ec21236e64f38c.jpg",
     "group_name": ""
   },
   "118754720": {
@@ -37999,7 +37992,7 @@
     "name": "水树兔免Mizuki",
     "type": "vtuber",
     "room_id": 23355904,
-    "face": "/bfs/face/0d256cc6ec7ff2b07a058ca640cbf7efe97233ae.jpg",
+    "face": "/bfs/face/5a26dea40261f49704925268c6d41ffc61ca213e.jpg",
     "group_name": ""
   },
   "1120494980": {
@@ -42066,7 +42059,7 @@
     "name": "局长きょくちょ",
     "type": "vtuber",
     "room_id": 1883626655,
-    "face": "/bfs/face/55cbb3c9d0d50add1b7e9ef29fc23ff860cf11e1.jpg",
+    "face": "/bfs/face/82aa2a6422cce005628616c9dc19d22d1aa1f190.jpg",
     "group_name": ""
   },
   "1517067289": {
@@ -43463,7 +43456,7 @@
     "group_name": ""
   },
   "1656816652": {
-    "name": "a小鱼冻干-",
+    "name": "a小鱼冻干-23号百天版",
     "type": "vtuber",
     "room_id": 1941169308,
     "face": "/bfs/face/9fcadf40cb0ec1259e9d6cab8040465e5af6e38e.jpg",
@@ -46298,7 +46291,7 @@
     "group_name": ""
   },
   "1927804459": {
-    "name": "小琰s",
+    "name": "小琰official",
     "type": "vtuber",
     "room_id": 1955142035,
     "face": "/bfs/face/91310390f7a3f852df2ad59cf3792271261acbf2.jpg",
@@ -56322,7 +56315,7 @@
     "group_name": ""
   },
   "3494363294337077": {
-    "name": "蚀尾_kelili",
+    "name": "蚀尾kelili-姬子冠",
     "type": "vtuber",
     "room_id": 1788061711,
     "face": "/bfs/face/ada1ded4b60cf9f7f2f0bc720616b4bcb88e7c6d.jpg",
@@ -64120,10 +64113,10 @@
     "group_name": ""
   },
   "3706944667781306": {
-    "name": "纳兰玖酒16号半周年",
+    "name": "纳兰玖酒",
     "type": "vtuber",
     "room_id": 1933489424,
-    "face": "/bfs/face/57bb57c888837f20ba9a367f528823effd155a5b.jpg",
+    "face": "/bfs/face/8fc3722745fae0ea4180f8c296d32b3b93335590.jpg",
     "group_name": ""
   },
   "3706946632813069": {
