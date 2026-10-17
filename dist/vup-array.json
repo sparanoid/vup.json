@@ -28168,14 +28168,6 @@
     "group_name": ""
   },
   {
-    "uid": 361916885,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 22596544,
-    "face": "/images/member/noface.gif",
-    "group_name": "玄月神"
-  },
-  {
     "uid": 362043915,
     "name": "邪恶咩咩Luna",
     "type": "vtuber",
@@ -65193,10 +65185,10 @@
   },
   {
     "uid": 3494373937383474,
-    "name": "芮伊奈奈",
+    "name": "如壹Reoki",
     "type": "vtuber",
     "room": 30894592,
-    "face": "/bfs/face/a5882c6d4fa0408bd04384c5dd86e0b2175c3cc5.jpg",
+    "face": "/bfs/face/ce449a9bf7faafec88c4153f3d6e5fb08195b085.jpg",
     "group_name": ""
   },
   {
