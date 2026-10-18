@@ -2927,6 +2927,14 @@
     "sign": "@LepusLive所属 炸厨房之王 咖喱料理の神 猪扒和红烧肉之主",
     "group_name": ""
   },
+  "664321": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 1408847,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
   "664512": {
     "name": "阿宸宸",
     "type": "vtuber",

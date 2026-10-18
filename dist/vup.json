@@ -2561,6 +2561,13 @@
     "face": "/bfs/face/abede0ceb2fb6e2d46f1952e32b8e243d22a23f8.jpg",
     "group_name": ""
   },
+  "664321": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 1408847,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "664512": {
     "name": "阿宸宸",
     "type": "vtuber",
