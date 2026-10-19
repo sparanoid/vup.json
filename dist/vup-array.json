@@ -62600,6 +62600,14 @@
     "group_name": ""
   },
   {
+    "uid": 3493290869525365,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
+  {
     "uid": 3493290938731128,
     "name": "旺宝咪の缺舰提总爱版",
     "type": "vtuber",

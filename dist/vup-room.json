@@ -54774,6 +54774,13 @@
     "face": "/bfs/face/68ea5f09477847d91aa8dd2f479ac55c3a574cbb.jpg",
     "group_name": ""
   },
+  "3493290869525365": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493290938731128": {
     "name": "旺宝咪の缺舰提总爱版",
     "type": "vtuber",
