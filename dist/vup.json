@@ -54774,13 +54774,6 @@
     "face": "/bfs/face/68ea5f09477847d91aa8dd2f479ac55c3a574cbb.jpg",
     "group_name": ""
   },
-  "3493290869525365": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3493290938731128": {
     "name": "旺宝咪の缺舰提总爱版",
     "type": "vtuber",
@@ -57301,6 +57294,13 @@
     "face": "/bfs/face/598a2f8955f0c03ca21a6603b8cca5e0e4dce4c5.jpg",
     "group_name": ""
   },
+  "3494379947821246": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3494380161730626": {
     "name": "昼歌里Hiru_u",
     "type": "vtuber",
@@ -58467,7 +58467,7 @@
     "name": "小小怪only",
     "type": "vtuber",
     "room": 30832217,
-    "face": "/bfs/face/b5224684f5de5820818ac74ea3965fc6343d9dc2.jpg",
+    "face": "/bfs/face/5b5559675e295793dabeb75fa6877d4aa71cde3b.jpg",
     "group_name": ""
   },
   "3546385349609580": {
@@ -59342,7 +59342,7 @@
     "name": "福宝Official",
     "type": "vtuber",
     "room": 31405244,
-    "face": "/bfs/face/078283cbbd6a6a79d334c355710bfbf4d23f04e5.jpg",
+    "face": "/bfs/face/9d96e1df0c2873b73865f52c3e081c4c37ef948f.jpg",
     "group_name": ""
   },
   "3546584836999657": {

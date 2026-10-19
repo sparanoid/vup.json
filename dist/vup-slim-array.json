@@ -54775,13 +54775,6 @@
     "group_name": ""
   },
   {
-    "uid": 3493290869525365,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 3493290938731128,
     "name": "旺宝咪の缺舰提总爱版",
     "type": "vtuber",
@@ -57299,6 +57292,13 @@
     "name": "尤托_Yutto",
     "type": "vtuber",
     "room": 30350752,
+    "group_name": ""
+  },
+  {
+    "uid": 3494379947821246,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {
