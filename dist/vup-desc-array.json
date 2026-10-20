@@ -41248,11 +41248,11 @@
   },
   {
     "uid": 517028633,
-    "name": "紡音零official",
+    "name": "bilibili",
     "type": "vtuber",
     "room": 22552250,
-    "face": "/bfs/face/637f5ac8fdaf32c28e517ae0638d42c33ab348e3.jpg",
-    "sign": "zeroproject所属，天才美少女mix師也　插画家：空4",
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": "ZEROproject"
   },
   {
@@ -59603,7 +59603,7 @@
     "type": "vtuber",
     "room": 26656540,
     "face": "/bfs/face/32e044ba37d07412d2b583dd609072f29b932cf2.jpg",
-    "sign": "【已转移至新基地→@Halmor，这里是林间小屋旧仓库】",
+    "sign": "【已转移至新基地→@春丸HARUMARU，这里是林间小屋旧仓库】",
     "group_name": ""
   },
   {
@@ -73665,15 +73665,6 @@
     "group_name": ""
   },
   {
-    "uid": 3494379947821246,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "group_name": ""
-  },
-  {
     "uid": 3494380161730626,
     "name": "昼歌里Hiru_u",
     "type": "vtuber",
@@ -78405,6 +78396,15 @@
     "room": 1702919844,
     "face": "/bfs/face/a0793913a3b563bb7c7ff3fdc8c58ff8ffb4c3bb.jpg",
     "sign": "五月份随机出现～因为我要出去丸！",
+    "group_name": ""
+  },
+  {
+    "uid": 3546700325062760,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 1948979721,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {

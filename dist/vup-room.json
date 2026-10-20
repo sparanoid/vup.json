@@ -32081,10 +32081,10 @@
     "group_name": ""
   },
   "517028633": {
-    "name": "紡音零official",
+    "name": "bilibili",
     "type": "vtuber",
     "room_id": 22552250,
-    "face": "/bfs/face/637f5ac8fdaf32c28e517ae0638d42c33ab348e3.jpg",
+    "face": "/images/member/noface.gif",
     "group_name": "ZEROproject"
   },
   "517035315": {
@@ -57294,13 +57294,6 @@
     "face": "/bfs/face/598a2f8955f0c03ca21a6603b8cca5e0e4dce4c5.jpg",
     "group_name": ""
   },
-  "3494379947821246": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "3494380161730626": {
     "name": "昼歌里Hiru_u",
     "type": "vtuber",
@@ -60981,6 +60974,13 @@
     "type": "vtuber",
     "room_id": 1702919844,
     "face": "/bfs/face/a0793913a3b563bb7c7ff3fdc8c58ff8ffb4c3bb.jpg",
+    "group_name": ""
+  },
+  "3546700325062760": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room_id": 1948979721,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546700501224312": {
