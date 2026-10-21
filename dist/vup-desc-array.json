@@ -11354,7 +11354,7 @@
     "type": "vtuber",
     "room": 908654,
     "face": "/bfs/face/4583fd04a2987ab898acfbedc12710c2bbe7b8b0.jpg",
-    "sign": "小小邪神，正在努力学习成为人类。直播通知群：578109442，形象已注册版权，请勿随意盗用商用",
+    "sign": "小小邪神，正在努力学习成为人类。形象已注册版权，请勿随意盗用。",
     "group_name": ""
   },
   {
@@ -13964,7 +13964,7 @@
     "type": "vtuber",
     "room": 783375,
     "face": "/bfs/face/cea21c9b0acfbdb80451fddce510f99768b77075.jpg",
-    "sign": "曾用ID:  饭团蕉蕉，呆喵可可，呆可宝，慕溪coco，凛野Kumo，苏二十三，可可太菜辽，Ann可可酱",
+    "sign": "每天晚上8点半左右开播。\n曾用ID:  饭团蕉蕉，呆喵可可，呆可宝，慕溪coco，凛野Kumo，苏二十三，可可太菜辽，Ann可可酱",
     "group_name": ""
   },
   {
@@ -41230,11 +41230,11 @@
   },
   {
     "uid": 517028633,
-    "name": "bilibili",
+    "name": "紡音零official",
     "type": "vtuber",
     "room": 22552250,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "face": "/bfs/face/637f5ac8fdaf32c28e517ae0638d42c33ab348e3.jpg",
+    "sign": "zeroproject所属，天才美少女mix師也　插画家：空4",
     "group_name": "ZEROproject"
   },
   {
