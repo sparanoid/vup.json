@@ -3244,7 +3244,7 @@
     "name": "熊璜Ailurus",
     "type": "vtuber",
     "room": 342099,
-    "face": "/bfs/face/88a3584c9d47dcb00141f4abdb038ec009c27135.jpg",
+    "face": "/bfs/face/0bb3f71c928611996965b0012158e77de57d919a.jpg",
     "group_name": ""
   },
   {
@@ -11102,14 +11102,6 @@
     "room": 62368,
     "face": "/bfs/face/472cc4990915526bd26e6e82591759087a8797bc.jpg",
     "group_name": ""
-  },
-  {
-    "uid": 8101450,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": "四季神社"
   },
   {
     "uid": 8105424,
@@ -23345,10 +23337,10 @@
   },
   {
     "uid": 129946331,
-    "name": "雨诉夏是",
+    "name": "夏夜星眠",
     "type": "vtuber",
     "room": 4689769,
-    "face": "/bfs/face/1964a1d40d5260f2693b3357ec960896780d9eee.jpg",
+    "face": "/bfs/face/b40f72c3702f8dce07d2a613dd45f62b2f59cb24.jpg",
     "group_name": ""
   },
   {
@@ -34913,7 +34905,7 @@
   },
   {
     "uid": 487624577,
-    "name": "纳兰玖酒感谢姬",
+    "name": "纳兰玖酒的感谢姬",
     "type": "vtuber",
     "room": 32539594,
     "face": "/bfs/face/a66c64d01664e58e0439be270a9265c3315fe09b.jpg",
@@ -58273,7 +58265,7 @@
   },
   {
     "uid": 3493119861459826,
-    "name": "夏夜星眠",
+    "name": "丅へ丅",
     "type": "vtuber",
     "room": 26888829,
     "face": "/bfs/face/730271c45b9cf3044e3c174f525ecf13e9dd122a.jpg",
@@ -58806,14 +58798,6 @@
     "room": 27095761,
     "face": "/bfs/face/3d11d5dd4c7bd922b89aacef33ab9fb5466ee393.jpg",
     "group_name": ""
-  },
-  {
-    "uid": 3493131081222651,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": "幻想社Fantas1A"
   },
   {
     "uid": 3493131144137197,
