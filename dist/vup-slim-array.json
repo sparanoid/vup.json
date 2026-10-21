@@ -9716,6 +9716,13 @@
     "group_name": ""
   },
   {
+    "uid": 8101450,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "四季神社"
+  },
+  {
     "uid": 8105424,
     "name": "里哀Ria",
     "type": "vtuber",
@@ -51450,6 +51457,13 @@
     "group_name": ""
   },
   {
+    "uid": 3493131081222651,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "幻想社Fantas1A"
+  },
+  {
     "uid": 3493131144137197,
     "name": "桃桃桃桃絵_",
     "type": "vtuber",
@@ -60960,13 +60974,6 @@
     "name": "顶顶Diva",
     "type": "vtuber",
     "room": 1702919844,
-    "group_name": ""
-  },
-  {
-    "uid": 3546700325062760,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 1948979721,
     "group_name": ""
   },
   {

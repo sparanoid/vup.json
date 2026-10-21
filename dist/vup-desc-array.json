@@ -12492,6 +12492,15 @@
     "group_name": ""
   },
   {
+    "uid": 8101450,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": "四季神社"
+  },
+  {
     "uid": 8105424,
     "name": "里哀Ria",
     "type": "vtuber",
@@ -66150,6 +66159,15 @@
     "group_name": ""
   },
   {
+    "uid": 3493131081222651,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": "幻想社Fantas1A"
+  },
+  {
     "uid": 3493131144137197,
     "name": "桃桃桃桃絵_",
     "type": "vtuber",
@@ -78378,15 +78396,6 @@
     "room": 1702919844,
     "face": "/bfs/face/a0793913a3b563bb7c7ff3fdc8c58ff8ffb4c3bb.jpg",
     "sign": "五月份随机出现～因为我要出去丸！",
-    "group_name": ""
-  },
-  {
-    "uid": 3546700325062760,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 1948979721,
-    "face": "/images/member/noface.gif",
-    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
     "group_name": ""
   },
   {

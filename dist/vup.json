@@ -9715,6 +9715,13 @@
     "face": "/bfs/face/472cc4990915526bd26e6e82591759087a8797bc.jpg",
     "group_name": ""
   },
+  "8101450": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": "四季神社"
+  },
   "8105424": {
     "name": "里哀Ria",
     "type": "vtuber",
@@ -51449,6 +51456,13 @@
     "face": "/bfs/face/3d11d5dd4c7bd922b89aacef33ab9fb5466ee393.jpg",
     "group_name": ""
   },
+  "3493131081222651": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": "幻想社Fantas1A"
+  },
   "3493131144137197": {
     "name": "桃桃桃桃絵_",
     "type": "vtuber",
@@ -60960,13 +60974,6 @@
     "type": "vtuber",
     "room": 1702919844,
     "face": "/bfs/face/a0793913a3b563bb7c7ff3fdc8c58ff8ffb4c3bb.jpg",
-    "group_name": ""
-  },
-  "3546700325062760": {
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 1948979721,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3546700501224312": {
