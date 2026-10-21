@@ -43002,7 +43002,7 @@
   },
   {
     "uid": 1621973210,
-    "name": "桃桃酸酪冰_摸鱼版",
+    "name": "桃桃酸酪冰",
     "type": "vtuber",
     "room": 22987471,
     "group_name": ""
@@ -48983,6 +48983,13 @@
     "name": "银粟Sumi",
     "type": "vtuber",
     "room": 27318836,
+    "group_name": ""
+  },
+  {
+    "uid": 3461574155045019,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {

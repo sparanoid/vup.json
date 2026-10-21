@@ -4406,7 +4406,7 @@
     "name": "崇光夜熙",
     "type": "vtuber",
     "room": 394681,
-    "face": "/bfs/face/c94b9c1dc20487598c2accbece5038801d434c47.jpg",
+    "face": "/bfs/face/c388bc59af6c1afd8eae00816c3cf72d5ce7adcf.jpg",
     "group_name": ""
   },
   "1818100": {
@@ -9222,7 +9222,7 @@
     "name": "寝间Nemuya",
     "type": "vtuber",
     "room": 8747153,
-    "face": "/bfs/face/50ccafece6119e79600d888b59b6656fd1d67c39.jpg",
+    "face": "/bfs/face/cf9dfd401d9c49a167b71b0f187a0cd7c8b287d7.jpg",
     "group_name": ""
   },
   "7388060": {
@@ -11224,7 +11224,7 @@
     "name": "丸梨丸梨",
     "type": "vtuber",
     "room": 8911035,
-    "face": "/bfs/face/8c7ffd9a9248186563b946376fd09275fb3fb190.jpg",
+    "face": "/bfs/face/ef3925802efdfdbb801b1aebc2d7871356cfda0b.jpg",
     "group_name": ""
   },
   "11082943": {
@@ -12855,7 +12855,7 @@
     "name": "礼弥Hisashi",
     "type": "vtuber",
     "room": 3566358,
-    "face": "/bfs/face/c23bff3b339654e12840c747c04fcc882b8bc239.jpg",
+    "face": "/bfs/face/9e777dfbb3139adb2e0b7aaf67302f295c53e16d.jpg",
     "group_name": ""
   },
   "14405936": {
@@ -17293,7 +17293,7 @@
     "name": "片桐秋_Official",
     "type": "vtuber",
     "room": 22628126,
-    "face": "/bfs/face/c33bfff6b3030d5986ce1b4a415472e5b06702b4.jpg",
+    "face": "/bfs/face/fddd71bcb798e76e6b8abc049eafac4a14a331b1.jpg",
     "group_name": ""
   },
   "37294141": {
@@ -17475,7 +17475,7 @@
     "name": "海豚欸",
     "type": "vtuber",
     "room": 15012755,
-    "face": "/bfs/face/658dd250c4bb72a0d6bf7d8dd08ab1fa2e197d3e.jpg",
+    "face": "/bfs/face/78627d53675f16704c82c3469f96a3589ee096dd.jpg",
     "group_name": ""
   },
   "38890012": {
@@ -23677,7 +23677,7 @@
     "name": "Cyper217",
     "type": "vtuber",
     "room": 14409049,
-    "face": "/bfs/face/6b2e598e19bafec9ba21359f1ff1513435a1512b.jpg",
+    "face": "/bfs/face/689da3cc7b30cce592451e50a2452ba245346f84.jpg",
     "group_name": "chaoslive"
   },
   "327369531": {
@@ -24223,7 +24223,7 @@
     "name": "伊伊-fairy毛毛冠",
     "type": "vtuber",
     "room": 1984184529,
-    "face": "/bfs/face/b977eab31a622b587887f80c6be5fb45b408e405.jpg",
+    "face": "/bfs/face/17ab44a686250d46fcb39eb8ec1d28083bb3a578.jpg",
     "group_name": ""
   },
   "351335373": {
@@ -38167,7 +38167,7 @@
     "name": "叶叶いえ",
     "type": "vtuber",
     "room": 25694923,
-    "face": "/bfs/face/b9ace6a5bcceb9893d71d469b64bdf6bfd8ac1a2.jpg",
+    "face": "/bfs/face/a043f111fe5966a9cc2971a82e90899b4ce706bb.jpg",
     "group_name": ""
   },
   "1144448072": {
@@ -43001,10 +43001,10 @@
     "group_name": ""
   },
   "1621973210": {
-    "name": "桃桃酸酪冰_摸鱼版",
+    "name": "桃桃酸酪冰",
     "type": "vtuber",
     "room": 22987471,
-    "face": "/bfs/face/7dd9fb204073a33a333e5f8325b50fe3744e220a.jpg",
+    "face": "/bfs/face/7af2a1cdea454fe2089b8dbc3e128e7ef3e52da9.jpg",
     "group_name": ""
   },
   "1623136625": {
@@ -44320,7 +44320,7 @@
     "name": "橘柚柚Meow",
     "type": "vtuber",
     "room": 27942881,
-    "face": "/bfs/face/ebcb713be322dfb5fd81346b5b0636109fce6255.jpg",
+    "face": "/bfs/face/ba9caac577cf15930a682b63bfdf1d51dd250cad.jpg",
     "group_name": ""
   },
   "1747796166": {
@@ -48985,6 +48985,13 @@
     "face": "/bfs/face/cb258507fd91cd022f8f8a59371a47092b6076cd.jpg",
     "group_name": ""
   },
+  "3461574155045019": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3461574234736872": {
     "name": "流明shine",
     "type": "vtuber",
@@ -52545,7 +52552,7 @@
     "name": "卷fafa",
     "type": "vtuber",
     "room": 27338577,
-    "face": "/bfs/face/ea813acded991dedf10fef1be85e5d1d56f77a37.jpg",
+    "face": "/bfs/face/c8b7f663afb5e8315feb660a0f3faac86b1f6540.jpg",
     "group_name": ""
   },
   "3493257797438096": {
@@ -61050,7 +61057,7 @@
     "name": "琼羽_Anny",
     "type": "vtuber",
     "room": 1996443760,
-    "face": "/bfs/face/e548e8f133e7106c9d3c2d8dbe7beb2c8119c6d1.jpg",
+    "face": "/bfs/face/2005889c04d77bec8d02dcec803068c5b06eee4c.jpg",
     "group_name": ""
   },
   "3546707734301114": {
@@ -64249,7 +64256,7 @@
     "name": "铃织Iris",
     "type": "vtuber",
     "room": 1931020481,
-    "face": "/bfs/face/d7ca32ebb80dbc2061bac10c317c430e86b4745e.jpg",
+    "face": "/bfs/face/82d7219c74f6043106b4db797285aa7f051e3c82.jpg",
     "group_name": ""
   },
   "3707022178519939": {
