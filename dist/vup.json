@@ -64168,6 +64168,13 @@
     "face": "/bfs/face/c9f79e8b856f2f1a2916b8e9f6152324b884ed92.jpg",
     "group_name": ""
   },
+  "3706989496502509": {
+    "name": "月见Usa",
+    "type": "vtuber",
+    "room": 1743787870,
+    "face": "/bfs/face/60e0d1e7fdd2bdff73cc975ea3c20f37fa4ecd34.jpg",
+    "group_name": ""
+  },
   "3706991608335014": {
     "name": "天音绮罗",
     "type": "vtuber",
@@ -64202,6 +64209,13 @@
     "room": 1791500615,
     "face": "/bfs/face/195ac68c5d25c39cad7c2cdec4e66fd08fbdf055.jpg",
     "group_name": "明月生肖（北立交桥）"
+  },
+  "3707006582000489": {
+    "name": "尚深_Official",
+    "type": "vtuber",
+    "room": 1777435121,
+    "face": "/bfs/face/a6068438c559bf4f2b2f02af5bf099ebd40bcbd0.jpg",
+    "group_name": ""
   },
   "3707011388672315": {
     "name": "灵汐Shiria",
@@ -64299,6 +64313,13 @@
     "type": "vtuber",
     "room": 1751764694,
     "face": "/bfs/face/1533bf4e0f410ede0b389959c734aa32446e0630.jpg",
+    "group_name": ""
+  },
+  "3707047143016490": {
+    "name": "祈心iko",
+    "type": "vtuber",
+    "room": 1703955312,
+    "face": "/bfs/face/a73e86ba51bdf29da03c5ec71aa27a66591905d2.jpg",
     "group_name": ""
   },
   "3707048625703882": {
