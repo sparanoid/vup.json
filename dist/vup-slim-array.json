@@ -13748,6 +13748,13 @@
     "group_name": ""
   },
   {
+    "uid": 17806540,
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 17816003,
     "name": "芽悠yuyu",
     "type": "vtuber",
@@ -19286,7 +19293,7 @@
   },
   {
     "uid": 84125742,
-    "name": "祀羽Seyyu",
+    "name": "四羽Seyyu",
     "type": "vtuber",
     "room": 8763308,
     "group_name": "Vidol工作室"
@@ -21176,7 +21183,7 @@
   },
   {
     "uid": 178429078,
-    "name": "玉兔鹅明天生日回",
+    "name": "玉兔鹅今天生日场",
     "type": "vtuber",
     "room": 1883350515,
     "group_name": ""
@@ -62686,7 +62693,7 @@
   },
   {
     "uid": 3546878058695554,
-    "name": "小黑条promax",
+    "name": "小白条promax",
     "type": "vtuber",
     "room": 1896526073,
     "group_name": ""

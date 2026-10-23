@@ -13747,6 +13747,13 @@
     "face": "/bfs/face/3d044871b3422fd567eb10854df34eb4979aba0f.jpg",
     "group_name": ""
   },
+  "17806540": {
+    "name": "bilibili",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "17816003": {
     "name": "芽悠yuyu",
     "type": "vtuber",
@@ -18231,7 +18238,7 @@
     "name": "云初晗呐",
     "type": "vtuber",
     "room": 2654673,
-    "face": "/bfs/face/7c3f34457abb7a1d821c5046f5f5cacd83cea396.jpg",
+    "face": "/bfs/face/4cd6dd5d8f1273b1cbeadf68911310d87e126886.jpg",
     "group_name": ""
   },
   "50152652": {
@@ -19285,7 +19292,7 @@
     "group_name": ""
   },
   "84125742": {
-    "name": "祀羽Seyyu",
+    "name": "四羽Seyyu",
     "type": "vtuber",
     "room": 8763308,
     "face": "/bfs/face/5f8a10eee34e67a3b7d452ecd1b636212d508af4.jpg",
@@ -21175,7 +21182,7 @@
     "group_name": ""
   },
   "178429078": {
-    "name": "玉兔鹅明天生日回",
+    "name": "玉兔鹅今天生日场",
     "type": "vtuber",
     "room": 1883350515,
     "face": "/bfs/face/5c06d260b603ca36a46619b02db7fc47a35f0387.jpg",
@@ -21857,7 +21864,7 @@
     "name": "艾唯妮Venin",
     "type": "vtuber",
     "room": 1944727547,
-    "face": "/bfs/face/3c40acd86888cdf33039eaaf5df4f10585ae9e27.jpg",
+    "face": "/bfs/face/3d8d5e9492e11448089b0a51a60e83362d20aea4.jpg",
     "group_name": "极光社"
   },
   "241789873": {
@@ -24370,7 +24377,7 @@
     "name": "小甜_ovo",
     "type": "vtuber",
     "room": 25654269,
-    "face": "/bfs/face/a52dbcd095a110189f7b4a877a72be199cb783c5.jpg",
+    "face": "/bfs/face/dd28ffbe41fd8c70cf189594ee5cda2d0dba2c6f.jpg",
     "group_name": ""
   },
   "354066260": {
@@ -34471,7 +34478,7 @@
     "name": "小小只suki",
     "type": "vtuber",
     "room": 32438129,
-    "face": "/bfs/face/5890e18f59391098fd1da5e19f9dd857586cfc4a.jpg",
+    "face": "/bfs/face/65227bb12be46d8c15df0fae431d19e67c473c33.jpg",
     "group_name": ""
   },
   "627360567": {
@@ -39371,7 +39378,7 @@
     "name": "水月友希yuki",
     "type": "vtuber",
     "room": 23350844,
-    "face": "/bfs/face/b9aafda61c05894ccde7ccf19b2b7e0eaff4e2b3.jpg",
+    "face": "/bfs/face/9021b34bdfb39a48d53e035f93b63aa58372e624.jpg",
     "group_name": ""
   },
   "1262316876": {
@@ -39518,7 +39525,7 @@
     "name": "Cattleb妮可罗宾",
     "type": "vtuber",
     "room": 1838213236,
-    "face": "/bfs/face/29d3f00e76b82f968c2cf85e13ac618b5d002e50.jpg",
+    "face": "/bfs/face/82280ad5c459661e478cc23f6941f4448653b7ca.jpg",
     "group_name": ""
   },
   "1274610906": {
@@ -56738,7 +56745,7 @@
     "name": "津妹玄一",
     "type": "vtuber",
     "room": 30184699,
-    "face": "/bfs/face/cd61159b38023268483495d0551a5f8dd01257fc.jpg",
+    "face": "/bfs/face/eed0c7875cc3114166a7d409939bb3cc2944dd17.jpg",
     "group_name": ""
   },
   "3494369904560916": {
@@ -60350,7 +60357,7 @@
     "name": "西红柿kiki",
     "type": "vtuber",
     "room": 32391692,
-    "face": "/bfs/face/2b8891c6715dcd6788d84b59a3de98ff9732e65c.jpg",
+    "face": "/bfs/face/ef99b6c02527284d863761730c62190cca1cfde1.jpg",
     "group_name": ""
   },
   "3546655301306499": {
@@ -62685,7 +62692,7 @@
     "group_name": ""
   },
   "3546878058695554": {
-    "name": "小黑条promax",
+    "name": "小白条promax",
     "type": "vtuber",
     "room": 1896526073,
     "face": "/bfs/face/6ba54ad49fa714f29afed4dede6993a9cfb6f938.jpg",
