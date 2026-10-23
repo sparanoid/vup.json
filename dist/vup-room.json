@@ -13586,13 +13586,6 @@
     "face": "/bfs/face/7d967f6a59f926d861918ae3664ae8e805628be4.jpg",
     "group_name": ""
   },
-  "17393395": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "17415544": {
     "name": "莎莉尔塔_Lita",
     "type": "vtuber",
@@ -45296,13 +45289,6 @@
     "face": "/bfs/face/715e61161dd26ea4c342e177c43bbcdde3422aa8.jpg",
     "group_name": ""
   },
-  "1833371045": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room_id": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "1834090921": {
     "name": "哟蔻桃桃YOCO",
     "type": "vtuber",
@@ -52644,6 +52630,13 @@
     "type": "vtuber",
     "room_id": 27372839,
     "face": "/bfs/face/cc5b7da35eb69e55d6f8a0c5a88adca421161364.jpg",
+    "group_name": ""
+  },
+  "3493258785196734": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   "3493258795681822": {

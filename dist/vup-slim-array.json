@@ -13587,13 +13587,6 @@
     "group_name": ""
   },
   {
-    "uid": 17393395,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 17415544,
     "name": "莎莉尔塔_Lita",
     "type": "vtuber",
@@ -45297,13 +45290,6 @@
     "group_name": ""
   },
   {
-    "uid": 1833371045,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "group_name": ""
-  },
-  {
     "uid": 1834090921,
     "name": "哟蔻桃桃YOCO",
     "type": "vtuber",
@@ -52644,6 +52630,13 @@
     "name": "Pheebo菲宝",
     "type": "vtuber",
     "room": 27372839,
+    "group_name": ""
+  },
+  {
+    "uid": 3493258785196734,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   {
