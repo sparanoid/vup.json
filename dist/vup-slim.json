@@ -11645,6 +11645,12 @@
     "room": 2554823,
     "group_name": ""
   },
+  "17393395": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
   "17415544": {
     "name": "莎莉尔塔_Lita",
     "type": "vtuber",
@@ -38817,6 +38823,12 @@
     "name": "阱途Gin",
     "type": "vtuber",
     "room": 26220957,
+    "group_name": ""
+  },
+  "1833371045": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
     "group_name": ""
   },
   "1834090921": {

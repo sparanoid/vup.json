@@ -17469,6 +17469,15 @@
     "group_name": ""
   },
   {
+    "uid": 17393395,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
+  {
     "uid": 17415544,
     "name": "莎莉尔塔_Lita",
     "type": "vtuber",
@@ -58230,6 +58239,15 @@
     "group_name": ""
   },
   {
+    "uid": 1833371045,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
+  {
     "uid": 1834090921,
     "name": "哟蔻桃桃YOCO",
     "type": "vtuber",
@@ -75856,7 +75874,7 @@
     "name": "灶台门豆子",
     "type": "vtuber",
     "room": 31166411,
-    "face": "/bfs/face/aa729e7f16a35b5819cd7e3a86794e465ebdc10a.jpg",
+    "face": "/bfs/face/4c993ba7926e0692cefeb86fc893145e434992c2.jpg",
     "sign": "哀嚎配音 广播剧 主杂谈。开播时间23点-3点，下午随机\n把任何事情都看做是修炼，芥子虚弥，俯拾皆是。\n粉丝扣群：499014818",
     "group_name": ""
   },
@@ -76748,7 +76766,7 @@
     "type": "vtuber",
     "room": 32478163,
     "face": "/bfs/face/9d8fdfaf892fe2db6dd47fbada451d2e6dffad6f.jpg",
-    "sign": "早6.45-10，午11.45-14，晚16.45-20\n周六录音和休息，只播午睡场\n开播通知在粉丝裙340484407",
+    "sign": "早6.45-10，午11.45-14，晚16.45-20\n周六录音和休息，不直播\n开播通知在粉丝裙340484407",
     "group_name": ""
   },
   {
@@ -80816,7 +80834,7 @@
     "type": "vtuber",
     "room": 1942245681,
     "face": "/bfs/face/7d04405962d4526bfdcb2d7ff68c040497c83e09.jpg",
-    "sign": "热爱观察人类，洞察行为的可可老师（外星人）捏！ | 电波星球（禁言群） 617444942 | 请不要上传录播，感谢！",
+    "sign": "热爱观察人类，洞察行为的可可老师（外星人）捏！ | 购买可可的大脑请看小店产品 | 直播通知群（禁言） 617444942",
     "group_name": ""
   },
   {
