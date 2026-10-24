@@ -5953,7 +5953,7 @@
     "name": "血狼墨雯",
     "type": "vtuber",
     "room_id": 21577332,
-    "face": "/bfs/face/34b30b9dd6e05c840d647a4ca073ebacb5b1af77.jpg",
+    "face": "/bfs/face/4f05d4b998d9b28733ac816105e614fecb155cc2.jpg",
     "group_name": ""
   },
   "3035038": {
@@ -55761,6 +55761,13 @@
     "face": "/bfs/face/0bd34e437ca877d78d988afce5f5ffd0e372b238.jpg",
     "group_name": ""
   },
+  "3494355031558727": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3494355077696482": {
     "name": "小搞_official",
     "type": "vtuber",
@@ -63416,7 +63423,7 @@
     "name": "Aqu_曲儿",
     "type": "vtuber",
     "room_id": 1740575912,
-    "face": "/bfs/face/60bf5e39cfe610925925f64e71dcd24bde561349.jpg",
+    "face": "/bfs/face/28734d06eb22edf48324f8c9ba72ac24117a16ef.jpg",
     "group_name": ""
   },
   "3546935717792055": {
