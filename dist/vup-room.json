@@ -17461,7 +17461,7 @@
     "name": "虎洛排骨汤",
     "type": "vtuber",
     "room_id": 2561500,
-    "face": "/bfs/face/d1051e7c3ce3f1eb2580db7bc42dfcf178b56711.jpg",
+    "face": "/bfs/face/d792f0a00135141fcbf0037eb7636b585edbed3a.jpg",
     "group_name": ""
   },
   "38808836": {
@@ -21182,10 +21182,10 @@
     "group_name": ""
   },
   "178429078": {
-    "name": "玉兔鹅今天生日场",
+    "name": "玉兔鹅Nerina天蝎款",
     "type": "vtuber",
     "room_id": 1883350515,
-    "face": "/bfs/face/5c06d260b603ca36a46619b02db7fc47a35f0387.jpg",
+    "face": "/bfs/face/d7e37b4afbb8873463c16139415a27297dac8309.jpg",
     "group_name": ""
   },
   "178464220": {
@@ -22071,7 +22071,7 @@
     "group_name": ""
   },
   "253918125": {
-    "name": "喵喵_oi",
+    "name": "喵喵_oi私皮筹备中",
     "type": "vtuber",
     "room_id": 1714602504,
     "face": "/bfs/face/5ca091f7668c51900832358ecb7715c19b129d83.jpg",
@@ -31016,6 +31016,13 @@
     "face": "/bfs/face/2c343aeea35350bc4abf4ea3aa6088df1a7e562c.jpg",
     "group_name": ""
   },
+  "493724848": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room_id": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": "NoriPro"
+  },
   "493808233": {
     "name": "布布卜了",
     "type": "vtuber",
@@ -36214,7 +36221,7 @@
     "name": "汐-钰",
     "type": "vtuber",
     "room_id": 1735733933,
-    "face": "/bfs/face/886ee0ccb913643133ac2be0d1a65e587720fac6.jpg",
+    "face": "/bfs/face/c13c68a376bbe3330f3816b17d8cfa9e2dab2b44.jpg",
     "group_name": ""
   },
   "691412008": {
@@ -55282,7 +55289,7 @@
     "name": "竹缘雪Yukine",
     "type": "vtuber",
     "room_id": 27860053,
-    "face": "/bfs/face/ae754a94ff80178187f470658178a7c8c948528e.webp",
+    "face": "/bfs/face/466b5086d0ce7401c014d8913008cdd847268e00.webp",
     "group_name": ""
   },
   "3493298821925616": {
