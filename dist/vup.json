@@ -51806,6 +51806,13 @@
     "face": "/bfs/face/b4cf6e03cac26b124af895286817f760f4cdec33.jpg",
     "group_name": ""
   },
+  "3493137133603310": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "3493137135700090": {
     "name": "嘉利奥奈_Galeone",
     "type": "vtuber",
@@ -57354,7 +57361,7 @@
     "name": "西瑟今天早睡了吗",
     "type": "vtuber",
     "room": 30405260,
-    "face": "/bfs/face/3d24c865985f31e5bcbdec1a285fdbe310365d24.jpg",
+    "face": "/bfs/face/3d34eef0d98d23776971008537b065e98e5e3e4a.jpg",
     "group_name": ""
   },
   "3537105137436823": {

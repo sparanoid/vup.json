@@ -59207,6 +59207,14 @@
     "sign": "非全职个人势VUP|说不出口的话就用歌声表达|无梦向营业，随心所欲的任性屑女仆。",
     "group_name": ""
   },
+  "3493137133603310": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
   "3493137135700090": {
     "name": "嘉利奥奈_Galeone",
     "type": "vtuber",
@@ -65547,7 +65555,7 @@
     "name": "西瑟今天早睡了吗",
     "type": "vtuber",
     "room": 30405260,
-    "face": "/bfs/face/3d24c865985f31e5bcbdec1a285fdbe310365d24.jpg",
+    "face": "/bfs/face/3d34eef0d98d23776971008537b065e98e5e3e4a.jpg",
     "sign": "【歌杂/游戏/接稿】无女友向营业，非常介意Ai相关，请不要跳脸，直播通知群：429370245",
     "group_name": ""
   },
