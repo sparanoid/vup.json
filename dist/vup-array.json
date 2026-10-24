@@ -7308,7 +7308,7 @@
     "name": "草薙葱Negi",
     "type": "vtuber",
     "room": 27334,
-    "face": "/bfs/face/5ac084a0525ca9230d2579c460f682c4d01c5dd6.jpg",
+    "face": "/bfs/face/b17ff0d00d6226bb9ac963c0b0cd077688e372ab.jpg",
     "group_name": ""
   },
   {
@@ -15709,14 +15709,6 @@
     "type": "vtuber",
     "room": 1905338,
     "face": "/bfs/face/3d044871b3422fd567eb10854df34eb4979aba0f.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 17806540,
-    "name": "bilibili",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
@@ -66321,10 +66313,10 @@
   },
   {
     "uid": 3537123709815470,
-    "name": "好想变成一只芝士球",
+    "name": "LINX_凛",
     "type": "vtuber",
     "room": 30690283,
-    "face": "/bfs/face/eac4e29b9cc0421a1edeb7d6e4c65bd3e0a2c37c.jpg",
+    "face": "/bfs/face/6c8de6e24c1cea2032bdbc91b8220daeb4da0482.jpg",
     "group_name": ""
   },
   {
