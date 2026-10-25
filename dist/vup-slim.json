@@ -8819,6 +8819,12 @@
     "room": 882267,
     "group_name": ""
   },
+  "9000964": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": "云光计划"
+  },
   "9004535": {
     "name": "糖绘喵",
     "type": "vtuber",
@@ -12978,7 +12984,7 @@
     "group_name": ""
   },
   "23169445": {
-    "name": "元宝团团_24两周年版",
+    "name": "元宝团团_kila",
     "type": "vtuber",
     "room": 7291685,
     "group_name": ""
@@ -42641,6 +42647,12 @@
     "room": 26557242,
     "group_name": ""
   },
+  "3493086336387942": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
   "3493086413982205": {
     "name": "里沙_Tesia",
     "type": "vtuber",
@@ -48234,7 +48246,7 @@
     "group_name": ""
   },
   "3494363294337077": {
-    "name": "蚀尾kelili-姬子冠",
+    "name": "蚀尾_kelili",
     "type": "vtuber",
     "room": 1788061711,
     "group_name": ""
