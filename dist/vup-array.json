@@ -11760,14 +11760,6 @@
     "group_name": ""
   },
   {
-    "uid": 9000964,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": "云光计划"
-  },
-  {
     "uid": 9004535,
     "name": "糖绘喵",
     "type": "vtuber",
@@ -56861,14 +56853,6 @@
     "type": "vtuber",
     "room": 26557242,
     "face": "/bfs/face/9844ed60695e7ab3c05ca53ca6b3ed55fa841b50.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 3493086336387942,
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
     "group_name": ""
   },
   {
