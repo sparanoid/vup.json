@@ -64349,5 +64349,12 @@
     "room": 0,
     "face": "/bfs/face/f1f0534a1acc7cd0a4d51ea4431a6f36f75adeb8.jpg",
     "group_name": "Hololive"
+  },
+  "3747571092687257": {
+    "name": "水宫枢Official",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/ad20d855fe11ac6319511825ee1e419dd29e3692.jpg",
+    "group_name": "Hololive"
   }
 }

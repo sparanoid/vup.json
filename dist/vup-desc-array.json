@@ -82735,5 +82735,14 @@
     "face": "/bfs/face/f1f0534a1acc7cd0a4d51ea4431a6f36f75adeb8.jpg",
     "sign": "hololive所属VTuber组合『アソビまわり隊』的官方账号。口号是：「让欢乐的漩涡，席卷世界！」",
     "group_name": "Hololive"
+  },
+  {
+    "uid": 3747571092687257,
+    "name": "水宫枢Official",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/ad20d855fe11ac6319511825ee1e419dd29e3692.jpg",
+    "sign": "hololive所属组合FLOW GLOW成员水宮枢的官方账号。しゅぴしゅわ〜！\n",
+    "group_name": "Hololive"
   }
 ]
