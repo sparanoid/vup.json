@@ -10633,7 +10633,7 @@
     "name": "Vera_Veneto",
     "type": "vtuber",
     "room": 14663754,
-    "face": "/bfs/face/e1d46c96030e6e9480d6a142769067a1e4291b81.webp",
+    "face": "/bfs/face/89ac60c27702d845c0f06627bf14aedd7fd3a847.webp",
     "sign": "薇拉 薇内托 暂且可以叫咱vv吧 收容所:1007846602        “我将年少时的梦埋在了成年后的一个夜里 ”",
     "group_name": ""
   },
@@ -18073,11 +18073,11 @@
   },
   {
     "uid": 19274776,
-    "name": "随时消失的雪咕咕喵",
+    "name": "消失的雪咕咕",
     "type": "vtuber",
     "room": 6072239,
     "face": "/bfs/face/630c75f01e894b5d6d934b21db31fbfb47d9d78e.jpg",
-    "sign": "半退圈",
+    "sign": "半退圈，不刷",
     "group_name": ""
   },
   {
@@ -27967,7 +27967,7 @@
     "name": "眠眠抹茶牛乳",
     "type": "vtuber",
     "room": 23508013,
-    "face": "/bfs/face/bfac3497b1567618ea58fcf8fa85e6da734dab47.jpg",
+    "face": "/bfs/face/a271ce3273e83702d27cac3f61c4e8119673e8c0.jpg",
     "sign": "自己的感受永远是第一位。｜你想在这里获得什么？",
     "group_name": ""
   },
@@ -38265,6 +38265,15 @@
     "room": 27621412,
     "face": "/bfs/face/c68bfbf32822f4ff11a8baafef62e8e350d464a3.jpg",
     "sign": "开学啦！晚10点掉落！努力带来满满快乐～",
+    "group_name": ""
+  },
+  {
+    "uid": 477504261,
+    "name": "梅莉_merry",
+    "type": "vtuber",
+    "room": 21721498,
+    "face": "/bfs/face/c1ed41833cbed17b14fdf74e003bbb83ac12031a.jpg",
+    "sign": "めりーさん。ともうします。 ",
     "group_name": ""
   },
   {
@@ -66469,7 +66478,7 @@
     "name": "沢沛sawapei",
     "type": "vtuber",
     "room": 27202664,
-    "face": "/bfs/face/0898950321b4eaf1d3b9f6c969565926af4503eb.jpg",
+    "face": "/bfs/face/2a30db50cc10e9c10073c7b01904847776a1323a.jpg",
     "sign": "✧耍起个狼势，请勿过度期待\n✧严禁ai二创\n✧狼的直播通知群768/082/645\n✧收藏集筹备中",
     "group_name": ""
   },
@@ -82725,6 +82734,15 @@
     "room": 0,
     "face": "/bfs/face/d6a4a59dc3f0e2aa58fcb1ecd4d17793e56e0b7a.jpg",
     "sign": "welcome ",
+    "group_name": ""
+  },
+  {
+    "uid": 3747562253192756,
+    "name": "绯椿恋夏",
+    "type": "vtuber",
+    "room": 1909968198,
+    "face": "/bfs/face/cc30410fbd75da427bb45de53ef915e140c05492.jpg",
+    "sign": "悠闲自在的天才巫女",
     "group_name": ""
   },
   {

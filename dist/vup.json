@@ -8270,7 +8270,7 @@
     "name": "Vera_Veneto",
     "type": "vtuber",
     "room": 14663754,
-    "face": "/bfs/face/e1d46c96030e6e9480d6a142769067a1e4291b81.webp",
+    "face": "/bfs/face/89ac60c27702d845c0f06627bf14aedd7fd3a847.webp",
     "group_name": ""
   },
   "5696856": {
@@ -14056,7 +14056,7 @@
     "group_name": ""
   },
   "19274776": {
-    "name": "随时消失的雪咕咕喵",
+    "name": "消失的雪咕咕",
     "type": "vtuber",
     "room": 6072239,
     "face": "/bfs/face/630c75f01e894b5d6d934b21db31fbfb47d9d78e.jpg",
@@ -21752,7 +21752,7 @@
     "name": "眠眠抹茶牛乳",
     "type": "vtuber",
     "room": 23508013,
-    "face": "/bfs/face/bfac3497b1567618ea58fcf8fa85e6da734dab47.jpg",
+    "face": "/bfs/face/a271ce3273e83702d27cac3f61c4e8119673e8c0.jpg",
     "group_name": ""
   },
   "231582891": {
@@ -29761,6 +29761,13 @@
     "type": "vtuber",
     "room": 27621412,
     "face": "/bfs/face/c68bfbf32822f4ff11a8baafef62e8e350d464a3.jpg",
+    "group_name": ""
+  },
+  "477504261": {
+    "name": "梅莉_merry",
+    "type": "vtuber",
+    "room": 21721498,
+    "face": "/bfs/face/c1ed41833cbed17b14fdf74e003bbb83ac12031a.jpg",
     "group_name": ""
   },
   "477507819": {
@@ -51698,7 +51705,7 @@
     "name": "沢沛sawapei",
     "type": "vtuber",
     "room": 27202664,
-    "face": "/bfs/face/0898950321b4eaf1d3b9f6c969565926af4503eb.jpg",
+    "face": "/bfs/face/2a30db50cc10e9c10073c7b01904847776a1323a.jpg",
     "group_name": ""
   },
   "3493135961295379": {
@@ -64341,6 +64348,13 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/d6a4a59dc3f0e2aa58fcb1ecd4d17793e56e0b7a.jpg",
+    "group_name": ""
+  },
+  "3747562253192756": {
+    "name": "绯椿恋夏",
+    "type": "vtuber",
+    "room": 1909968198,
+    "face": "/bfs/face/cc30410fbd75da427bb45de53ef915e140c05492.jpg",
     "group_name": ""
   },
   "3747565010947145": {

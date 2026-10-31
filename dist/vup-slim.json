@@ -12048,7 +12048,7 @@
     "group_name": ""
   },
   "19274776": {
-    "name": "随时消失的雪咕咕喵",
+    "name": "消失的雪咕咕",
     "type": "vtuber",
     "room": 6072239,
     "group_name": ""
@@ -25509,6 +25509,12 @@
     "name": "兔豆ni",
     "type": "vtuber",
     "room": 27621412,
+    "group_name": ""
+  },
+  "477504261": {
+    "name": "梅莉_merry",
+    "type": "vtuber",
+    "room": 21721498,
     "group_name": ""
   },
   "477507819": {
@@ -55149,6 +55155,12 @@
     "name": "sanachanvt",
     "type": "vtuber",
     "room": 0,
+    "group_name": ""
+  },
+  "3747562253192756": {
+    "name": "绯椿恋夏",
+    "type": "vtuber",
+    "room": 1909968198,
     "group_name": ""
   },
   "3747565010947145": {
