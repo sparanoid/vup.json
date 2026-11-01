@@ -1143,6 +1143,15 @@
     "group_name": ""
   },
   {
+    "uid": 220488,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
+  {
     "uid": 223580,
     "name": "搬运暂停中",
     "type": "vtuber",
@@ -22442,7 +22451,7 @@
     "type": "vtuber",
     "room": 22741663,
     "face": "/bfs/face/5e2f4cfc12ae7ba46bfb311d046d4f397b3a3afa.jpg",
-    "sign": "喜欢唱歌和下雨天的天才JK✨每日进步中的个人势vup⭐希望得到你的关注和喜欢！",
+    "sign": "喜欢唱歌和下雨天的天才仿生人✨每日进步中的个人势vup⭐直播通知群：716028965",
     "group_name": ""
   },
   {
@@ -29677,7 +29686,7 @@
     "name": "雪川稚乃",
     "type": "vtuber",
     "room": 10000323,
-    "face": "/bfs/face/b35616a4fda6bf14db76f95c0de0edd2a78243e6.jpg",
+    "face": "/bfs/face/e42483f8b9a16d8d80bdda6def1ea0893c9a7895.jpg",
     "sign": "✨游戏宅✨坚持每天发光✨不发光的时候都在为发光做准备 ๑>؂<๑ ",
     "group_name": ""
   },

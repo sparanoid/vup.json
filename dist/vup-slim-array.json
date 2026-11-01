@@ -889,6 +889,13 @@
     "group_name": ""
   },
   {
+    "uid": 220488,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "group_name": ""
+  },
+  {
     "uid": 223580,
     "name": "搬运暂停中",
     "type": "vtuber",

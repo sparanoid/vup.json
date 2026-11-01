@@ -1016,6 +1016,14 @@
     "group_name": ""
   },
   {
+    "uid": 220488,
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
+  {
     "uid": 223580,
     "name": "搬运暂停中",
     "type": "vtuber",
@@ -26380,7 +26388,7 @@
     "name": "雪川稚乃",
     "type": "vtuber",
     "room": 10000323,
-    "face": "/bfs/face/b35616a4fda6bf14db76f95c0de0edd2a78243e6.jpg",
+    "face": "/bfs/face/e42483f8b9a16d8d80bdda6def1ea0893c9a7895.jpg",
     "group_name": ""
   },
   {
