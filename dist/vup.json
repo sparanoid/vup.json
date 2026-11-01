@@ -15910,6 +15910,13 @@
     "face": "/bfs/face/42af0fafe9ee8f48d2ad52e3e6ab5cc7804f3ff2.jpg",
     "group_name": ""
   },
+  "27045748": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "27096412": {
     "name": "亿亿娘娘koi",
     "type": "vtuber",
