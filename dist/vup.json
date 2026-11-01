@@ -888,13 +888,6 @@
     "face": "/bfs/face/0fcd06254a950d754bd42be1319221c8300f55f1.jpg",
     "group_name": ""
   },
-  "220488": {
-    "name": "账号已注销",
-    "type": "vtuber",
-    "room": 0,
-    "face": "/images/member/noface.gif",
-    "group_name": ""
-  },
   "223580": {
     "name": "搬运暂停中",
     "type": "vtuber",
@@ -31423,7 +31416,7 @@
     "group_name": "神椿工作室"
   },
   "502584133": {
-    "name": "灵源小卖部_official",
+    "name": "姜云箓",
     "type": "vtuber",
     "room": 30873230,
     "face": "/bfs/face/5ef4e6e261c80ce4417c510cef116d61fd1ada8d.jpg",
