@@ -10492,6 +10492,13 @@
     "face": "/bfs/face/3b88c2f972fc994415a2ac0ab68f1ab181e93c98.jpg",
     "group_name": "鸽鹉live"
   },
+  "9361427": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "group_name": ""
+  },
   "9375210": {
     "name": "白咲べるofficial",
     "type": "vtuber",

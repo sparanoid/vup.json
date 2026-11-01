@@ -11991,6 +11991,14 @@
     "sign": "古早味芒果小蛋糕 || 硬核技术宅爱好者",
     "group_name": "鸽鹉live"
   },
+  "9361427": {
+    "name": "账号已注销",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/images/member/noface.gif",
+    "sign": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "group_name": ""
+  },
   "9375210": {
     "name": "白咲べるofficial",
     "type": "vtuber",
@@ -69324,7 +69332,7 @@
     "type": "vtuber",
     "room": 1919122045,
     "face": "/bfs/face/fac04483cd00ae7e2a5075efa0a23569cd78e40e.jpg",
-    "sign": "^每晚8点30啵啵喵^    培沪&搜索vx服务号：贰拾伍时电竞丨KOOK：025025",
+    "sign": "",
     "group_name": ""
   },
   "3546681735907777": {
