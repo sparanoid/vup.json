@@ -18948,6 +18948,13 @@
     "face": "/bfs/face/2ccbb03da567b00388c86a98afecb0d9547c9523.jpg",
     "group_name": ""
   },
+  "73448727": {
+    "name": "茄茄子_kiakiako",
+    "type": "vtuber",
+    "room": 21249899,
+    "face": "/bfs/face/3265876c343b4eb90502e7f2eabe06250a9e06cf.jpg",
+    "group_name": ""
+  },
   "73857541": {
     "name": "秦曲曲",
     "type": "vtuber",
@@ -58631,6 +58638,13 @@
     "face": "/bfs/face/04f3188331aabad1c3148eba99df550d08e545aa.jpg",
     "group_name": ""
   },
+  "3546390181448137": {
+    "name": "糯米兔小糕",
+    "type": "vtuber",
+    "room": 30909229,
+    "face": "/bfs/face/d2e173f4522a48bdf797235ba5e63ef66bf643b0.jpg",
+    "group_name": ""
+  },
   "3546390657501325": {
     "name": "我叫森莫",
     "type": "vtuber",
@@ -64236,6 +64250,13 @@
     "type": "vtuber",
     "room": 1907445415,
     "face": "/bfs/face/73069dc2adbad3442812d951d719252e6fa923c7.jpg",
+    "group_name": ""
+  },
+  "3707023329855864": {
+    "name": "魅梦Nya",
+    "type": "vtuber",
+    "room": 1876314183,
+    "face": "/bfs/face/6ce6344bf2f0220cc13ba3877bae2f3504c46885.jpg",
     "group_name": ""
   },
   "3707029101218233": {
