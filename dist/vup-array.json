@@ -20200,6 +20200,14 @@
     "group_name": ""
   },
   {
+    "uid": 40727762,
+    "name": "弹弹豹",
+    "type": "vtuber",
+    "room": 2435027,
+    "face": "/bfs/face/deb404a46509ff69b076d665b05be310a709d2c2.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 40741210,
     "name": "白鸟泽野Shirotori",
     "type": "vtuber",
@@ -47869,6 +47877,14 @@
     "type": "vtuber",
     "room": 24987206,
     "face": "/bfs/face/1e8be97cc2c8fc42c46e2382c19b7cd4a25a4e60.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1503980214,
+    "name": "猫羽芙漓Foli",
+    "type": "vtuber",
+    "room": 26102732,
+    "face": "/bfs/face/75779673a66f3e723b60f032de1a722e2cd9aa57.jpg",
     "group_name": ""
   },
   {
