@@ -4847,7 +4847,7 @@
     "name": "伊比1B",
     "type": "vtuber",
     "room_id": 2830142,
-    "face": "/bfs/face/02c2e23c189fa69285373dd68b3ea8255f471e4e.jpg",
+    "face": "/bfs/face/b2b8367bd9542423eb7fb61f5c343280bf98f7bc.jpg",
     "group_name": ""
   },
   "2141017": {
@@ -11336,7 +11336,7 @@
     "name": "氵六青",
     "type": "vtuber",
     "room_id": 350353,
-    "face": "/bfs/face/7a4f02e77cbcc8cb29bda2eba132926bdcfb8514.webp",
+    "face": "/bfs/face/b3c3bb32ddebb433097c43096f7265e7e062a8f3.webp",
     "group_name": ""
   },
   "11284438": {
@@ -47066,13 +47066,6 @@
     "room_id": 24629856,
     "face": "/bfs/face/4156765bc5fb111c4af71d57fa0eb65f03229f75.jpg",
     "group_name": "MiosLive"
-  },
-  "1999525961": {
-    "name": "蔓越没草莓",
-    "type": "vtuber",
-    "room_id": 1735724052,
-    "face": "/bfs/face/6cb90d1b8f61a4023a89dc0df30c213827105766.jpg",
-    "group_name": ""
   },
   "1999738104": {
     "name": "濮濮的录播号",
