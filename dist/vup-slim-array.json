@@ -13713,6 +13713,13 @@
     "group_name": ""
   },
   {
+    "uid": 17781395,
+    "name": "星野遠遠",
+    "type": "vtuber",
+    "room": 3561298,
+    "group_name": ""
+  },
+  {
     "uid": 17793729,
     "name": "凰荧荧",
     "type": "vtuber",
@@ -24203,6 +24210,13 @@
     "name": "东营YRC",
     "type": "vtuber",
     "room": 21958067,
+    "group_name": ""
+  },
+  {
+    "uid": 350998028,
+    "name": "星梨樱Sakura",
+    "type": "vtuber",
+    "room": 1904319639,
     "group_name": ""
   },
   {
@@ -59073,6 +59087,13 @@
     "group_name": "极光社"
   },
   {
+    "uid": 3546571836754272,
+    "name": "冰冰不会碎",
+    "type": "vtuber",
+    "room": 1828275906,
+    "group_name": ""
+  },
+  {
     "uid": 3546571908057684,
     "name": "ひこひぃ_Hicochan",
     "type": "vtuber",
@@ -61663,6 +61684,13 @@
     "group_name": "问尘仙会"
   },
   {
+    "uid": 3546770330094074,
+    "name": "梨落落pears",
+    "type": "vtuber",
+    "room": 1881590611,
+    "group_name": ""
+  },
+  {
     "uid": 3546770957142099,
     "name": "小米糕O-O",
     "type": "vtuber",
@@ -62818,6 +62846,13 @@
     "group_name": ""
   },
   {
+    "uid": 3546886426331524,
+    "name": "音璃Aria",
+    "type": "vtuber",
+    "room": 1857372131,
+    "group_name": ""
+  },
+  {
     "uid": 3546886818498838,
     "name": "-可可keke-",
     "type": "vtuber",
@@ -63518,10 +63553,24 @@
     "group_name": "HOLOSTARS_EN"
   },
   {
+    "uid": 3546957364595046,
+    "name": "-不晚晚-",
+    "type": "vtuber",
+    "room": 1746173319,
+    "group_name": ""
+  },
+  {
     "uid": 3546958432045179,
     "name": "清晏x白澈",
     "type": "vtuber",
     "room": 1993208358,
+    "group_name": ""
+  },
+  {
+    "uid": 3546958450919751,
+    "name": "猫谷礼",
+    "type": "vtuber",
+    "room": 1771624336,
     "group_name": ""
   },
   {
@@ -63571,6 +63620,13 @@
     "name": "终究不是我的神里绫华",
     "type": "vtuber",
     "room": 1856653986,
+    "group_name": ""
+  },
+  {
+    "uid": 3546963312118067,
+    "name": "桃子灼灼Bleach",
+    "type": "vtuber",
+    "room": 1881083157,
     "group_name": ""
   },
   {
@@ -63886,6 +63942,13 @@
     "name": "小灵崽_",
     "type": "vtuber",
     "room": 1992699005,
+    "group_name": ""
+  },
+  {
+    "uid": 3690998337112440,
+    "name": "久远千羽",
+    "type": "vtuber",
+    "room": 1993297369,
     "group_name": ""
   },
   {

@@ -15672,6 +15672,14 @@
     "group_name": ""
   },
   {
+    "uid": 17781395,
+    "name": "星野遠遠",
+    "type": "vtuber",
+    "room": 3561298,
+    "face": "/bfs/face/edd3c8f981fe8f2df8941c2a24aeaab04401e90b.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 17793729,
     "name": "凰荧荧",
     "type": "vtuber",
@@ -18556,7 +18564,7 @@
     "name": "沐沐_mm_苍蓝龙猫",
     "type": "vtuber",
     "room": 4664253,
-    "face": "/bfs/face/912f38444055fbb69dcee8425822cb41a4d661e1.jpg",
+    "face": "/bfs/face/1580e9ebd8808638e64ed75a555da5ab34958172.jpg",
     "group_name": ""
   },
   {
@@ -27661,6 +27669,14 @@
     "type": "vtuber",
     "room": 21958067,
     "face": "/bfs/face/56e48572518e2982fd9f658bf8cfce3f295883e4.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 350998028,
+    "name": "星梨樱Sakura",
+    "type": "vtuber",
+    "room": 1904319639,
+    "face": "/bfs/face/0fb0c0b790b3ec8e0ea7b6f402cbeea1c5f326c0.jpg",
     "group_name": ""
   },
   {
@@ -67512,6 +67528,14 @@
     "group_name": "极光社"
   },
   {
+    "uid": 3546571836754272,
+    "name": "冰冰不会碎",
+    "type": "vtuber",
+    "room": 1828275906,
+    "face": "/bfs/face/251b550b4397878e1569ff7be7dff301904ffa4f.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546571908057684,
     "name": "ひこひぃ_Hicochan",
     "type": "vtuber",
@@ -70472,6 +70496,14 @@
     "group_name": "问尘仙会"
   },
   {
+    "uid": 3546770330094074,
+    "name": "梨落落pears",
+    "type": "vtuber",
+    "room": 1881590611,
+    "face": "/bfs/face/c756279fffaaf5c0804d53c63a94dad28c1db8de.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546770957142099,
     "name": "小米糕O-O",
     "type": "vtuber",
@@ -71792,6 +71824,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546886426331524,
+    "name": "音璃Aria",
+    "type": "vtuber",
+    "room": 1857372131,
+    "face": "/bfs/face/bf867f3f35e8022af06676f2537158a3f8fcfd46.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546886818498838,
     "name": "-可可keke-",
     "type": "vtuber",
@@ -72592,11 +72632,27 @@
     "group_name": "HOLOSTARS_EN"
   },
   {
+    "uid": 3546957364595046,
+    "name": "-不晚晚-",
+    "type": "vtuber",
+    "room": 1746173319,
+    "face": "/bfs/face/19beaafb0ae25a93dc825057763e075d2a3cada0.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546958432045179,
     "name": "清晏x白澈",
     "type": "vtuber",
     "room": 1993208358,
     "face": "/bfs/face/d348367de3f29c5b18774a202248972193e343c0.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546958450919751,
+    "name": "猫谷礼",
+    "type": "vtuber",
+    "room": 1771624336,
+    "face": "/bfs/face/b89778219e6c512d8f423f2f8c80eb61df292cbe.jpg",
     "group_name": ""
   },
   {
@@ -72653,6 +72709,14 @@
     "type": "vtuber",
     "room": 1856653986,
     "face": "/bfs/face/0edc4461bc9137d7b9308a946b1731e3a53de01f.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546963312118067,
+    "name": "桃子灼灼Bleach",
+    "type": "vtuber",
+    "room": 1881083157,
+    "face": "/bfs/face/2705b409262f813c76dd54f53acde5038946f474.jpg",
     "group_name": ""
   },
   {
@@ -73013,6 +73077,14 @@
     "type": "vtuber",
     "room": 1992699005,
     "face": "/bfs/face/244fa86e8f5d1f9a034088929438c2081dddc244.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3690998337112440,
+    "name": "久远千羽",
+    "type": "vtuber",
+    "room": 1993297369,
+    "face": "/bfs/face/342a30f0e29772e2a32402227218172e18a6e2fe.jpg",
     "group_name": ""
   },
   {
