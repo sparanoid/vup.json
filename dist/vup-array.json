@@ -70613,7 +70613,7 @@
     "type": "vtuber",
     "room": 1970740553,
     "face": "/bfs/face/686bd9ab207bab738f5b924c60439f02ba7c2364.jpg",
-    "group_name": "Hanabi_live"
+    "group_name": "妖精管理局（北立交桥）"
   },
   {
     "uid": 3546781327559506,
@@ -73534,6 +73534,14 @@
     "room": 1791696222,
     "face": "/bfs/face/c4230970039f708a7c3cdc40b19df94bd7fe859b.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3707053541427530,
+    "name": "星际鲨ET",
+    "type": "vtuber",
+    "room": 1950884146,
+    "face": "/bfs/face/8915f787a56e8cef9da0808da2ece4ee522f4751.jpg",
+    "group_name": "冬日之家Ultra（北立交桥）"
   },
   {
     "uid": 3707054908771138,
