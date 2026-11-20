@@ -27476,7 +27476,7 @@
     "name": "一只晨仔",
     "type": "vtuber",
     "room": 12062264,
-    "face": "/bfs/face/40d874a3bf40f56541c82bd963ec08f68e7c6d11.jpg",
+    "face": "/bfs/face/800867c6a0755ae3c505cd4d7e13ab2aabe24015.jpg",
     "group_name": ""
   },
   {
@@ -35844,7 +35844,7 @@
     "name": "小猪anna",
     "type": "vtuber",
     "room": 27015352,
-    "face": "/bfs/face/9f77341eab9abfde2ab03100849d2389912ffaae.jpg",
+    "face": "/bfs/face/a5af765d933cead0ebcf1dc1c8f61f37624f9015.jpg",
     "group_name": ""
   },
   {
@@ -73557,6 +73557,14 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/d6a4a59dc3f0e2aa58fcb1ecd4d17793e56e0b7a.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3747561928134440,
+    "name": "辉月七七official",
+    "type": "vtuber",
+    "room": 1767669852,
+    "face": "/bfs/face/b678d752f5439b6784a76d3410afa5921751d86b.jpg",
     "group_name": ""
   },
   {
