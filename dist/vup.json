@@ -216,6 +216,13 @@
     "face": "/bfs/face/2d34c69031f616de35f2cec089c39ae839d7fb6e.jpg",
     "group_name": ""
   },
+  "49921": {
+    "name": "九方唯芳TadaYoshi",
+    "type": "vtuber",
+    "room": 14556,
+    "face": "/bfs/face/d303c8463c8baf7455f57154ae202436f2ef4a95.jpg",
+    "group_name": ""
+  },
   "52522": {
     "name": "露蒂丝",
     "type": "vtuber",
@@ -20103,6 +20110,13 @@
     "face": "/bfs/face/a5cc11d2b0279df8338e10024b4997723335411a.jpg",
     "group_name": ""
   },
+  "108525514": {
+    "name": "雪云裳",
+    "type": "vtuber",
+    "room": 32281198,
+    "face": "/bfs/face/f4381ef33f17c207a3a006672772a2faadeffd3f.jpg",
+    "group_name": ""
+  },
   "108820222": {
     "name": "花黎Flowery",
     "type": "vtuber",
@@ -22672,6 +22686,13 @@
     "face": "/bfs/face/0a48e3fdaf1e9ce42d7d61020e379f5e429307ca.jpg",
     "group_name": ""
   },
+  "286806329": {
+    "name": "稻乙緹iitifox",
+    "type": "vtuber",
+    "room": 8921956,
+    "face": "/bfs/face/2274c54a8d798f67b62b6adb39af81b7a8f34fa9.jpg",
+    "group_name": ""
+  },
   "286914392": {
     "name": "秋淩",
     "type": "vtuber",
@@ -23790,6 +23811,13 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/4a9bc6b627dc9e31db2207039c13b3fcb25a171e.jpg",
+    "group_name": ""
+  },
+  "334433907": {
+    "name": "i鹿鹿o",
+    "type": "vtuber",
+    "room": 24979049,
+    "face": "/bfs/face/ada4145f230aa3038f48bd140203d9e1b8160c0f.jpg",
     "group_name": ""
   },
   "334511272": {
@@ -31716,6 +31744,13 @@
     "face": "/bfs/face/2e8431e8a51ed7c1e025123c15e53191b24b13fc.jpg",
     "group_name": ""
   },
+  "508656963": {
+    "name": "麻里麻里爱MariAi",
+    "type": "vtuber",
+    "room": 1732285742,
+    "face": "/bfs/face/21b732189a918a65f9f6aacca66b9ab49893720f.jpg",
+    "group_name": ""
+  },
   "508735454": {
     "name": "浅见夏子Natsuko",
     "type": "vtuber",
@@ -36796,6 +36831,13 @@
     "type": "vtuber",
     "room": 22599128,
     "face": "/bfs/face/0a367fd904b0675dd796a101a8edc1898df8f01f.jpg",
+    "group_name": ""
+  },
+  "1000554728": {
+    "name": "sroa_official",
+    "type": "vtuber",
+    "room": 1913308953,
+    "face": "/bfs/face/2e0c1023612360e8e703fd1b9477cde09f80fb64.jpg",
     "group_name": ""
   },
   "1001572999": {
@@ -56461,6 +56503,13 @@
     "face": "/bfs/face/bf6e6ef546e62e8db5da7221db644d41de91ae0a.jpg",
     "group_name": ""
   },
+  "3494365781559696": {
+    "name": "超爱蛋挞吖-27号新衣回",
+    "type": "vtuber",
+    "room": 30126264,
+    "face": "/bfs/face/2ee3e0aa4a800ccfcf3372aa6bb757084bd335a9.jpg",
+    "group_name": ""
+  },
   "3494365861251227": {
     "name": "梓溟Mza丨远行中",
     "type": "vtuber",
@@ -59387,6 +59436,13 @@
     "face": "/bfs/face/5579b57c423249ac6692ae2e3ff943790469a502.jpg",
     "group_name": ""
   },
+  "3546587949173427": {
+    "name": "小花衣可依_Official",
+    "type": "vtuber",
+    "room": 31517115,
+    "face": "/bfs/face/67bb9d57453930b2d60592d6614d5b29c59be865.jpg",
+    "group_name": ""
+  },
   "3546588460878718": {
     "name": "陆希雅Lucia_",
     "type": "vtuber",
@@ -60332,6 +60388,13 @@
     "face": "/bfs/face/f5c1aaa7b81f71b422be5928e46cfcf1fb48a0e1.jpg",
     "group_name": ""
   },
+  "3546653504047509": {
+    "name": "迪莎拉dechala",
+    "type": "vtuber",
+    "room": 1844415177,
+    "face": "/bfs/face/b71b675121586f3f0cb7120da21057649e678108.jpg",
+    "group_name": ""
+  },
   "3546653883632229": {
     "name": "星光Kirarin",
     "type": "vtuber",
@@ -61263,6 +61326,13 @@
     "face": "/bfs/face/bc9184b8098ac86be7bf09f3407d2d593c23ee3b.jpg",
     "group_name": ""
   },
+  "3546727078430937": {
+    "name": "Riko_りこofficial",
+    "type": "vtuber",
+    "room": 1975898169,
+    "face": "/bfs/face/1b3619c3f2e67beb46eb25ec1872b89172a2ee60.jpg",
+    "group_name": ""
+  },
   "3546729368520811": {
     "name": "Vedal和Neuro-sama",
     "type": "vtuber",
@@ -61724,6 +61794,13 @@
     "room": 1849256543,
     "face": "/bfs/face/215f161e6f929e003eed6b62d9ddf2dcb344e35d.jpg",
     "group_name": "妖精管理局（北立交桥）"
+  },
+  "3546775847701419": {
+    "name": "荒臣HLeo",
+    "type": "vtuber",
+    "room": 1788396225,
+    "face": "/bfs/face/796e72575050e5e0a4b27d95ba0504035dd9ba67.jpg",
+    "group_name": ""
   },
   "3546776451680608": {
     "name": "蓝芷Echo",
@@ -63825,6 +63902,13 @@
     "face": "/bfs/face/54af2ea4196a9f52ee892fc754992629a7a1f3ff.jpg",
     "group_name": ""
   },
+  "3690975792728117": {
+    "name": "夜凪透花_Official",
+    "type": "vtuber",
+    "room": 1924026687,
+    "face": "/bfs/face/27554cf07ceb41e4371bdcded9fd691454d0a3ed.jpg",
+    "group_name": ""
+  },
   "3690980102376039": {
     "name": "水谷雫ちゃん",
     "type": "vtuber",
@@ -64266,6 +64350,13 @@
     "face": "/bfs/face/6ce6344bf2f0220cc13ba3877bae2f3504c46885.jpg",
     "group_name": ""
   },
+  "3707026662230885": {
+    "name": "Poya2",
+    "type": "vtuber",
+    "room": 1747546334,
+    "face": "/bfs/face/b097f513bf1c450b425ab186e55ea7125de11953.jpg",
+    "group_name": ""
+  },
   "3707029101218233": {
     "name": "寂星-Official",
     "type": "vtuber",
@@ -64341,6 +64432,20 @@
     "type": "vtuber",
     "room": 0,
     "face": "/bfs/face/a47d0697e304df79a725aac1bb1cbea637f736bf.jpg",
+    "group_name": ""
+  },
+  "3707072419989734": {
+    "name": "三日月伊芙Official",
+    "type": "vtuber",
+    "room": 0,
+    "face": "/bfs/face/4de38bf5d87d599ed5b2634f3af361dc31cf831e.jpg",
+    "group_name": ""
+  },
+  "3744967820314964": {
+    "name": "犯困又犯懒",
+    "type": "vtuber",
+    "room": 1880720849,
+    "face": "/bfs/face/991e44f742e96f7b7b39d603b7cab1faebfff504.jpg",
     "group_name": ""
   },
   "3744978087972474": {
