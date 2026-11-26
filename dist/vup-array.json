@@ -21017,7 +21017,7 @@
   },
   {
     "uid": 52450149,
-    "name": "小野卯月_Utsuki",
+    "name": "森川野_Ono",
     "type": "vtuber",
     "room": 1656924,
     "face": "/bfs/face/9441389115531e3666ac88b9819bdc8ae82b3263.jpg",
@@ -38044,7 +38044,7 @@
     "name": "栩栩Jessie",
     "type": "vtuber",
     "room": 1867586931,
-    "face": "/bfs/face/d9ba0600aecfe002ff2c1de53f10def57bf733d0.jpg",
+    "face": "/bfs/face/7570af8b4f490d717d8cc94d9313770caaaf5e5d.jpg",
     "group_name": ""
   },
   {
@@ -69045,14 +69045,6 @@
     "type": "vtuber",
     "room": 32800274,
     "face": "/bfs/face/4be4ef816cf14ee5e16b199c9e1893a13627e0e5.jpg",
-    "group_name": ""
-  },
-  {
-    "uid": 3546655620073913,
-    "name": "卡莉欧佩Calliope",
-    "type": "vtuber",
-    "room": 1916503907,
-    "face": "/bfs/face/3a4da5a32a0dc76d3b7fbc28b117875e23e538b1.jpg",
     "group_name": ""
   },
   {
