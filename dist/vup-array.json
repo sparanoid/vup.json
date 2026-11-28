@@ -5616,6 +5616,14 @@
     "group_name": ""
   },
   {
+    "uid": 2167664,
+    "name": "鲤海摇Yurin",
+    "type": "vtuber",
+    "room": 624229,
+    "face": "/bfs/face/649c7199db0cc9bf85410cc2590ef1ab76afed51.jpg",
+    "group_name": "星彩学园"
+  },
+  {
     "uid": 2171550,
     "name": "汐月Shiotsuki",
     "type": "vtuber",
@@ -12166,6 +12174,14 @@
     "room": 12124666,
     "face": "/bfs/face/296957147d1713b57fdbf77b7675c5d9d0cf3afb.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 9886600,
+    "name": "梅菲斯特666",
+    "type": "vtuber",
+    "room": 1746704295,
+    "face": "/bfs/face/31200e5fb3eefc915aeeefbc7fad13b95db95a3f.jpg",
+    "group_name": "叙事者网络Project"
   },
   {
     "uid": 9890905,
@@ -21880,6 +21896,14 @@
     "group_name": ""
   },
   {
+    "uid": 78805461,
+    "name": "居宵下-Official",
+    "type": "vtuber",
+    "room": 1736196577,
+    "face": "/bfs/face/e4b89e4ba4588fa755c424bfa1be7d3ce5747b21.jpg",
+    "group_name": "叙事者网络Project"
+  },
+  {
     "uid": 79169021,
     "name": "伊莱薇Lustdream",
     "type": "vtuber",
@@ -27700,7 +27724,7 @@
     "name": "星梨樱Sakura",
     "type": "vtuber",
     "room": 1904319639,
-    "face": "/bfs/face/0fb0c0b790b3ec8e0ea7b6f402cbeea1c5f326c0.jpg",
+    "face": "/bfs/face/e0dbf10f7737617ec0fb4c5fc7f5f32b9b88e9a3.jpg",
     "group_name": ""
   },
   {
@@ -27716,7 +27740,7 @@
     "name": "伊伊-fairy林妹妹冠",
     "type": "vtuber",
     "room": 1984184529,
-    "face": "/bfs/face/4ae46de2a0f43d921afa878576fcd7a44519bb43.jpg",
+    "face": "/bfs/face/aa12855ee1427875512094c5616a559964388049.jpg",
     "group_name": ""
   },
   {
@@ -27958,6 +27982,14 @@
     "room": 12955167,
     "face": "/bfs/face/0fcbe35814ed3ca465fbc80697d9ef6284d1817c.jpg",
     "group_name": "774 inc"
+  },
+  {
+    "uid": 355046647,
+    "name": "浮浮fuyuu",
+    "type": "vtuber",
+    "room": 30504150,
+    "face": "/bfs/face/3193249c1c8e5f3444c17542c2aacab4dd562364.jpg",
+    "group_name": "星彩学园"
   },
   {
     "uid": 355046749,
@@ -31920,6 +31952,14 @@
     "group_name": ""
   },
   {
+    "uid": 433175953,
+    "name": "凯芒KeMon",
+    "type": "vtuber",
+    "room": 31518457,
+    "face": "/bfs/face/156b4bc2d65598ab7fdbf392f8317c7829589f7f.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 433189681,
     "name": "月兔回旋于空中",
     "type": "vtuber",
@@ -34902,6 +34942,14 @@
     "room": 0,
     "face": "/bfs/face/5ca6ec6cff1513fc83f3f826b115fb23f5457c70.jpg",
     "group_name": "ViViD"
+  },
+  {
+    "uid": 487327667,
+    "name": "ABEO_Official",
+    "type": "vtuber",
+    "room": 31036684,
+    "face": "/bfs/face/a5e1a2186cae6c30aa8c2b9707ff8e35e46ae91b.jpg",
+    "group_name": "叙事者网络Project"
   },
   {
     "uid": 487402608,
@@ -41720,6 +41768,14 @@
     "group_name": ""
   },
   {
+    "uid": 697537756,
+    "name": "稻壳喵",
+    "type": "vtuber",
+    "room": 1714608460,
+    "face": "/bfs/face/0a8409eed9ec8cc14e734ef1e79425c118530f81.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 697546240,
     "name": "神沢秋",
     "type": "vtuber",
@@ -45117,6 +45173,14 @@
     "type": "vtuber",
     "room": 22603245,
     "face": "/bfs/face/67b10272c5451766b6097d1be8af0a2d93e5a122.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 1266172489,
+    "name": "KimochiMochi-嬉望饼",
+    "type": "vtuber",
+    "room": 23727754,
+    "face": "/bfs/face/b334db254b87ef1ce0443aa3b2a4b7c1e27c76d9.jpg",
     "group_name": ""
   },
   {
@@ -52646,6 +52710,14 @@
     "room": 25460499,
     "face": "/bfs/face/e838cb017bb42c919a2b340db4d76c7ffc4917ac.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 1902009278,
+    "name": "羽都希Hazuki",
+    "type": "vtuber",
+    "room": 1786263224,
+    "face": "/bfs/face/226ac6d12426539eaad05bf1daa0636a290aa02b.jpg",
+    "group_name": "星彩学园"
   },
   {
     "uid": 1902035079,
@@ -66744,6 +66816,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546383290206316,
+    "name": "米幽Miu",
+    "type": "vtuber",
+    "room": 1735752488,
+    "face": "/bfs/face/7841598a54e6ac106b0fabc943c491459fa90356.jpg",
+    "group_name": "星彩学园"
+  },
+  {
     "uid": 3546383455881520,
     "name": "SD小福星",
     "type": "vtuber",
@@ -67141,6 +67221,14 @@
     "type": "vtuber",
     "room": 30973806,
     "face": "/bfs/face/c45acb12ad897b8ec7bfecccafcfc0e73fb6ecf1.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546393394284834,
+    "name": "白桃心宁",
+    "type": "vtuber",
+    "room": 30959381,
+    "face": "/bfs/face/264f5a582f97cb046724ea60be1b2f5111457f24.jpg",
     "group_name": ""
   },
   {
@@ -68713,7 +68801,7 @@
   },
   {
     "uid": 3546635659381367,
-    "name": "路漫漫うし通宵版",
+    "name": "路漫漫うし温柔版",
     "type": "vtuber",
     "room": 32136068,
     "face": "/bfs/face/d2d833754176cadafb0f4232b8d0bd842cd11c32.jpg",
@@ -68813,6 +68901,14 @@
     "type": "vtuber",
     "room": 32251416,
     "face": "/bfs/face/a4283c6ab6b7786a84a5fd7e573d5288235540e4.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546642020043597,
+    "name": "福元Coin",
+    "type": "vtuber",
+    "room": 1881910175,
+    "face": "/bfs/face/da293496e4d78f0d568d659b2bb99016ebeb621b.jpg",
     "group_name": ""
   },
   {
@@ -71512,6 +71608,14 @@
     "group_name": ""
   },
   {
+    "uid": 3546862116145169,
+    "name": "星彩学园",
+    "type": "group",
+    "room": 1833449398,
+    "face": "/bfs/face/72142330571960e477141337275651b6e264d3a8.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3546862887897818,
     "name": "Sushimekabu",
     "type": "vtuber",
@@ -71582,6 +71686,14 @@
     "room": 1904551646,
     "face": "/bfs/face/4bc3f4ee917da2a9ced7c68f81bfa47c2019c7cf.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546868294355169,
+    "name": "艾露娜nana",
+    "type": "vtuber",
+    "room": 1866756242,
+    "face": "/bfs/face/7a3bde33107ca813ed27c5e9de7c22451a3dc3cc.jpg",
+    "group_name": "星彩学园"
   },
   {
     "uid": 3546868449544554,
@@ -71998,6 +72110,14 @@
     "room": 1805594553,
     "face": "/bfs/face/fe0b2dbaac927aec356f8039265ac03b655b2d2f.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3546894370343280,
+    "name": "桉桉Kora",
+    "type": "vtuber",
+    "room": 1942244909,
+    "face": "/bfs/face/beb8d5ead4e3f328b4a9a992aa658cadf469be37.jpg",
+    "group_name": "星彩学园"
   },
   {
     "uid": 3546894607321152,
@@ -72477,6 +72597,14 @@
     "type": "vtuber",
     "room": 1809424910,
     "face": "/bfs/face/5914a3304892c6aa58483fcbd01bff8b0c3cb98c.jpg",
+    "group_name": ""
+  },
+  {
+    "uid": 3546934885222789,
+    "name": "星音sumi",
+    "type": "vtuber",
+    "room": 1844044607,
+    "face": "/bfs/face/b25dc8927d53d0193ee973145d64473d96a74b86.jpg",
     "group_name": ""
   },
   {
@@ -73256,6 +73384,14 @@
     "group_name": ""
   },
   {
+    "uid": 3706933225720310,
+    "name": "辣酱karai",
+    "type": "vtuber",
+    "room": 1851769727,
+    "face": "/bfs/face/d89e825134bef5236e30bdfb7c2cd4da44fbe3eb.jpg",
+    "group_name": "星彩学园"
+  },
+  {
     "uid": 3706937617156501,
     "name": "i雾里桑桑",
     "type": "vtuber",
@@ -73432,6 +73568,14 @@
     "group_name": "纸片人计划"
   },
   {
+    "uid": 3706996347898694,
+    "name": "叙事者网络Project",
+    "type": "group",
+    "room": 0,
+    "face": "/bfs/face/01be69e9cbe347302b60430bf0396be125bf3ccd.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3706998208072014,
     "name": "夏日碎冰冰_Official",
     "type": "vtuber",
@@ -73462,6 +73606,14 @@
     "room": 1777435121,
     "face": "/bfs/face/a6068438c559bf4f2b2f02af5bf099ebd40bcbd0.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3707006590388430,
+    "name": "亚纪奈Akina",
+    "type": "vtuber",
+    "room": 1876310683,
+    "face": "/bfs/face/cb801a3d082986b4a0d67aeaa0baa39b1a6dbeba.jpg",
+    "group_name": "叙事者网络Project"
   },
   {
     "uid": 3707011388672315,
@@ -73584,6 +73736,14 @@
     "group_name": ""
   },
   {
+    "uid": 3707042818689545,
+    "name": "琴乃音まるこ_official",
+    "type": "vtuber",
+    "room": 1751763543,
+    "face": "/bfs/face/70d42b2ab5b484b631c1af4471b861118de7ff77.jpg",
+    "group_name": ""
+  },
+  {
     "uid": 3707044070688833,
     "name": "草莓味的乐凌枫",
     "type": "vtuber",
@@ -73606,6 +73766,14 @@
     "room": 1791696222,
     "face": "/bfs/face/c4230970039f708a7c3cdc40b19df94bd7fe859b.jpg",
     "group_name": ""
+  },
+  {
+    "uid": 3707050020309790,
+    "name": "乐荧绫_Anima",
+    "type": "vtuber",
+    "room": 1751766419,
+    "face": "/bfs/face/cd8c19550c65982bd6db5236ce875deb5225e4de.jpg",
+    "group_name": "叙事者网络Project"
   },
   {
     "uid": 3707053541427530,
